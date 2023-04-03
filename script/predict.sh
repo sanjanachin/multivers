@@ -3,8 +3,8 @@
 function predict_scifact() {
     python multivers/predict.py \
         --checkpoint_path=checkpoints/scifact.ckpt \
-        --input_file=data/rob_data/sg/claims_test_retrieved.jsonl \
-        --corpus_file=data/rob_data/sg/corpus.jsonl \
+        --input_file=data/rob_data/claims_test_retrieved.jsonl \
+        --corpus_file=data/rob_data/corpus.jsonl \
         --output_file=prediction/rob_data.jsonl
 }
 
