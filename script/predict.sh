@@ -1,11 +1,19 @@
 # Make model predictions.
 
-function predict_scifact() {
+function predict_rob_scifact() {
     python multivers/predict.py \
         --checkpoint_path=checkpoints/scifact.ckpt \
         --input_file=data/rob_data/sg/claims_test_retrieved.jsonl \
         --corpus_file=data/rob_data/sg/corpus.jsonl \
         --output_file=prediction/rob_data.jsonl
+}
+
+function predict_scifact() {
+    python multivers/predict.py \
+        --checkpoint_path=checkpoints/scifact.ckpt \
+        --input_file=data/scifact/claims_test_retrieved.jsonl \
+        --corpus_file=data/scifact/corpus.jsonl \
+        --output_file=prediction/scifact.jsonl
 }
 
 function predict_healthver() {
