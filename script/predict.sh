@@ -52,6 +52,9 @@ mkdir -p prediction
 if [[ $model == "rob_scifact" ]]
 then
     predict_rob_scifact
+elif [[ $model == "rob_scifact_exact_sentences" ]]
+then
+    predict_rob_scifact_exact_sentences
 elif [[ $model == "scifact" ]]
 then
     predict_scifact
