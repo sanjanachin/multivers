@@ -15,7 +15,13 @@ function predict_rob_scifact_exact_sentences() {
         --corpus_file=data/rob_data/sg/corpus.jsonl \
         --output_file=prediction/rob_data_exact_sentences.jsonl
 }
-
+function predict_rob_scifact_new_claims() {
+    python multivers/predict.py \
+        --checkpoint_path=checkpoints/scifact.ckpt \
+        --input_file=data/rob_data/sg/claims_test_retrieved_new_claims.jsonl \
+        --corpus_file=data/rob_data/sg/corpus.jsonl \
+        --output_file=prediction/rob_data_new_claims.jsonl
+}
 function predict_scifact() {
     python multivers/predict.py \
         --checkpoint_path=checkpoints/scifact.ckpt \
@@ -55,6 +61,9 @@ then
 elif [[ $model == "rob_scifact_exact_sentences" ]]
 then
     predict_rob_scifact_exact_sentences
+elif [[ $model == "rob_scifact_new_claims" ]]
+then
+    predict_rob_scifact_new_claims
 elif [[ $model == "scifact" ]]
 then
     predict_scifact
