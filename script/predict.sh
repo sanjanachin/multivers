@@ -41,7 +41,10 @@ model=$1
 
 mkdir -p prediction
 
-if [[ $model == "scifact" ]]
+if [[ $model == "rob_scifact" ]]
+then
+    predict_rob_scifact
+elif [[ $model == "scifact" ]]
 then
     predict_scifact
 elif [[ $model == "covidfact" ]]
