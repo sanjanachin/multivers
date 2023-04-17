@@ -77,7 +77,7 @@ then
     predict_rob_scifact_exact_sentences
 elif [[ $model == "rob_d1_scifact_new_claims" ]]
 then
-    predict_rob_scifact_new_claims
+    predict_rob_d1_scifact_new_claims
 elif [[ $model == "rob_d2_scifact" ]]
 then
     predict_rob_d2_scifact
