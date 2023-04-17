@@ -1,0 +1,684 @@
+[
+    {
+        "doc_id": "35176",
+        "text": "Background-Children affected by HIV are at risk for poor mental health. We conducted a pilot randomized controlled trial (RCT) of the Family Strengthening Intervention (FSI-HIV), a family home-visiting intervention to promote mental health and improve parent-child relationships in families with caregivers living with HIV hypothesizing that child and family outcomes would be superior to usual care social work services. Methods-82 families (N=170 children, 48.24% female; N=123 caregivers, 68.29% female) with at least one HIV-positive caregiver (n=103, 83.74%) and school-aged child (ages 7-17) (HIV+ n=21, 12.35%) were randomized to receive FSI-HIV or treatment-as-usual (TAU). Local research assistants blind to treatment conducted assessments of child mental health, parenting practices, and family functioning at baseline, post-intervention, and 3-month follow-up. Multilevel modeling assessed effects of FSI-HIV on outcomes across three time points. Trial Registration: NCT01509573, \"Pilot Feasibility Trial of the Family Strengthening Intervention in Rwanda (FSI-HIV-R).\" https://clinicaltrials.gov/ct2/show/NCT01509573?term=Pilot+Feasibility+Trial+of+the +Family+Strengthening+Intervention+in+Rwanda+%28FSI-HIV-R%29&rank=1 Results-At 3-month follow-up, children in FSI-HIV showed fewer symptoms of depression compared to TAU by both self-report (\u03b2=\u22120.246; p=.009) and parent report (\u03b2=\u22120.174; p=.035) but there were no significant differences by group on conduct problems, functional impairment, family connectedness, or parenting.",
+        "section": "Abstract",
+        "sentences": [
+            "Background-Children affected by HIV are at risk for poor mental health.",
+            "We conducted a pilot randomized controlled trial (RCT) of the Family Strengthening Intervention (FSI-HIV), a family home-visiting intervention to promote mental health and improve parent-child relationships in families with caregivers living with HIV hypothesizing that child and family outcomes would be superior to usual care social work services.",
+            "Methods-82 families (N=170 children, 48.24% female; N=123 caregivers, 68.29% female) with at least one HIV-positive caregiver (n=103, 83.74%) and school-aged child (ages 7-17) (HIV+ n=21, 12.35%) were randomized to receive FSI-HIV or treatment-as-usual (TAU).",
+            "Local research assistants blind to treatment conducted assessments of child mental health, parenting practices, and family functioning at baseline, post-intervention, and 3-month follow-up.",
+            "Multilevel modeling assessed effects of FSI-HIV on outcomes across three time points.",
+            "Trial Registration: NCT01509573, \"Pilot Feasibility Trial of the Family Strengthening Intervention in Rwanda (FSI-HIV-R).\"",
+            "https://clinicaltrials.gov/ct2/show/NCT01509573?term=Pilot+Feasibility+Trial+of+the +Family+Strengthening+Intervention+in+Rwanda+%28FSI-HIV-R%29&rank=1 Results-At 3-month follow-up, children in FSI-HIV showed fewer symptoms of depression compared to TAU by both self-report (\u03b2=\u22120.246; p=.009) and parent report (\u03b2=\u22120.174; p=.035) but there were no significant differences by group on conduct problems, functional impairment, family connectedness, or parenting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "The consequences of caregiver HIV on families can be devastating (Tol et al., 2011) including illness and death, functional impairments, mental health problems, stigma, economic distress, and conflict (Doku, 2009; Nozyce et al., 2006) . In HIV-affected families, poor communication, anxiety, and conflict increase the risk of mental health problems in children (Betancourt, Scorza, et al., 2014) . The shifting of adult responsibilities such as economic burden and caring for young children is associated with child and caregiver distress (Akresh & De Walque, 2008 ).",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "The consequences of caregiver HIV on families can be devastating (Tol et al., 2011) including illness and death, functional impairments, mental health problems, stigma, economic distress, and conflict (Doku, 2009; Nozyce et al., 2006) .",
+            "In HIV-affected families, poor communication, anxiety, and conflict increase the risk of mental health problems in children (Betancourt, Scorza, et al., 2014) .",
+            "The shifting of adult responsibilities such as economic burden and caring for young children is associated with child and caregiver distress (Akresh & De Walque, 2008 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Rwanda has emerged from the legacy of genocide and the HIV epidemic with striking improvements in its health system. Since 2001, the country has halved HIV prevalence (UNAIDS, 2012b) and overall child mortality (Ministry of Health & ICF International, 2012) . Access to antiretroviral therapy and prevention of mother-to-child HIV transmission are widespread (UNAIDS, 2012a) . However, affordable and effective interventions are needed to improve family functioning and prevent mental health problems in HIV-affected children.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Rwanda has emerged from the legacy of genocide and the HIV epidemic with striking improvements in its health system.",
+            "Since 2001, the country has halved HIV prevalence (UNAIDS, 2012b) and overall child mortality (Ministry of Health & ICF International, 2012) .",
+            "Access to antiretroviral therapy and prevention of mother-to-child HIV transmission are widespread (UNAIDS, 2012a) .",
+            "However, affordable and effective interventions are needed to improve family functioning and prevent mental health problems in HIV-affected children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Several mental health interventions have targeted children orphaned and otherwise made vulnerable by HIV and HIV-positive children in low-and middle-income countries (Kumakech et al., 2009; Ssewamala, Han, & Neilands, 2009) . Promising family-based interventions such as the Collaborative HIV Prevention and Adolescent Mental Health Program in South Africa (Bhana A et al., 2010) and the Together for Empowerment Activities in China (Li et al., 2011) have targeted HIV risk behaviors and healthy communication through family group models. However, few interventions exist to explicitly prevent mental health problems in school-aged children both directly and indirectly affected by HIV. We adapted an evidence-based, home-visiting preventive intervention (Beardslee et al., 2007; and examined its feasibility and effects on parentchild relationships and child mental health within HIV-affected households in rural Rwanda (Betancourt et al., 2012 ). Rwanda's robust HIV services present an opportunity to link mental health services to routine care for HIV-affected families.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Several mental health interventions have targeted children orphaned and otherwise made vulnerable by HIV and HIV-positive children in low-and middle-income countries (Kumakech et al., 2009; Ssewamala, Han, & Neilands, 2009) .",
+            "Promising family-based interventions such as the Collaborative HIV Prevention and Adolescent Mental Health Program in South Africa (Bhana A et al., 2010) and the Together for Empowerment Activities in China (Li et al., 2011) have targeted HIV risk behaviors and healthy communication through family group models.",
+            "However, few interventions exist to explicitly prevent mental health problems in school-aged children both directly and indirectly affected by HIV.",
+            "We adapted an evidence-based, home-visiting preventive intervention (Beardslee et al., 2007; and examined its feasibility and effects on parentchild relationships and child mental health within HIV-affected households in rural Rwanda (Betancourt et al., 2012 ).",
+            "Rwanda's robust HIV services present an opportunity to link mental health services to routine care for HIV-affected families."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "In collaboration with Partners In Health/Inshuti Mu Buzima (PIH/IMB) and the Rwandan Ministry of Health (MOH), we tested the effectiveness of the Family Strengthening Intervention (FSI-HIV) in a pilot randomized controlled trial with families with at least one HIV-positive primary caregiver of school-aged children (7-17 years). We hypothesized that post-intervention, families assigned to FSI-HIV would report better caregiver-child relationships and family protective constructs and as a result, children would have fewer mental health problems (symptoms of depression and conduct problems) and less functional impairment compared to control families receiving treatment as usual (TAU) via routine social work.",
+        "section": "METHODS",
+        "section_number": 4,
+        "sentences": [
+            "In collaboration with Partners In Health/Inshuti Mu Buzima (PIH/IMB) and the Rwandan Ministry of Health (MOH), we tested the effectiveness of the Family Strengthening Intervention (FSI-HIV) in a pilot randomized controlled trial with families with at least one HIV-positive primary caregiver of school-aged children (7-17 years).",
+            "We hypothesized that post-intervention, families assigned to FSI-HIV would report better caregiver-child relationships and family protective constructs and as a result, children would have fewer mental health problems (symptoms of depression and conduct problems) and less functional impairment compared to control families receiving treatment as usual (TAU) via routine social work."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Families were recruited through health centers in Kayonza District where PIH/IMB provides support to the public health system. Referrals were made by MOH social workers who were engaged in ongoing work with HIV-affected households. Inclusion criteria were: (1) being an adult-headed household where at least one caregiver was HIV-positive; (2) having at least one child aged 7-17; and (3) willingness to discuss HIV with school-age children. Eightytwo HIV-affected families were enrolled in the trial, stratified by equal allocation of singleand dual-caregiver structures.",
+        "section": "Participants and Settings",
+        "section_number": 5,
+        "sentences": [
+            "Families were recruited through health centers in Kayonza District where PIH/IMB provides support to the public health system.",
+            "Referrals were made by MOH social workers who were engaged in ongoing work with HIV-affected households.",
+            "Inclusion criteria were: (1) being an adult-headed household where at least one caregiver was HIV-positive; (2) having at least one child aged 7-17; and (3) willingness to discuss HIV with school-age children.",
+            "Eightytwo HIV-affected families were enrolled in the trial, stratified by equal allocation of singleand dual-caregiver structures."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "IRB approval was obtained from the Harvard T. H. Chan School of Public Health (Protocol #15440) and Rwanda National Ethics Committee. Community Advisory Boards (CABs) were assembled to advise the project and included groups with clinicians, youth, and one with community leaders, community health workers, and caregivers living with HIV. With input from these CABs, the FSI-HIV was developed to be delivered by bachelor-level counselors for reasons of safety and feasibility testing with the long-term aim of adapting the intervention for delivery by community health workers . All participants aged 18 and older provided written consent for themselves; eligible children provided written assent and a primary caregiver provided written consent.",
+        "section": "Participants and Settings",
+        "section_number": 6,
+        "sentences": [
+            "IRB approval was obtained from the Harvard T. H. Chan School of Public Health (Protocol #15440) and Rwanda National Ethics Committee.",
+            "Community Advisory Boards (CABs) were assembled to advise the project and included groups with clinicians, youth, and one with community leaders, community health workers, and caregivers living with HIV.",
+            "With input from these CABs, the FSI-HIV was developed to be delivered by bachelor-level counselors for reasons of safety and feasibility testing with the long-term aim of adapting the intervention for delivery by community health workers .",
+            "All participants aged 18 and older provided written consent for themselves; eligible children provided written assent and a primary caregiver provided written consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Trial Registration: NCT01509573, \"Pilot Feasibility Trial of the Family Strengthening Intervention in Rwanda (FSI-HIV-R).\" https://clinicaltrials.gov/ct2/show/NCT01509573? term=Pilot+Feasibility+Trial+of+the+Family+Strengthening+Intervention+in+Rwanda+ %28FSI-HIV-R%29&rank=1",
+        "section": "Participants and Settings",
+        "section_number": 7,
+        "sentences": [
+            "Trial Registration: NCT01509573, \"Pilot Feasibility Trial of the Family Strengthening Intervention in Rwanda (FSI-HIV-R).\"",
+            "https://clinicaltrials.gov/ct2/show/NCT01509573?",
+            "term=Pilot+Feasibility+Trial+of+the+Family+Strengthening+Intervention+in+Rwanda+ %28FSI-HIV-R%29&rank=1"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "A randomization sequence in Microsoft Excel was used to assign families to each condition, with equal balance of dual-and single-caregiver households, given literature indicating different support needs and stressors by family configuration (Human & van Rensburg, 2011) . All families were introduced to the study by the social worker at their nearest health center. Randomization occurred after baseline assessments. TAU families were seen at least once by a social worker over the course of the FSI-HIV intervention study and FSI-HIV families continued to receive TAU. TAU assistance most often pertained to food insecurity and assistance with accessing school.",
+        "section": "Randomization and masking",
+        "section_number": 8,
+        "sentences": [
+            "A randomization sequence in Microsoft Excel was used to assign families to each condition, with equal balance of dual-and single-caregiver households, given literature indicating different support needs and stressors by family configuration (Human & van Rensburg, 2011) .",
+            "All families were introduced to the study by the social worker at their nearest health center.",
+            "Randomization occurred after baseline assessments.",
+            "TAU families were seen at least once by a social worker over the course of the FSI-HIV intervention study and FSI-HIV families continued to receive TAU.",
+            "TAU assistance most often pertained to food insecurity and assistance with accessing school."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Measures were adapted and validated for the Rwandan context following mixed methods research on local constructs of family functioning, mental health, and resilience (Betancourt, Meyers-Ohki, et al., 2011; Betancourt, Rubin-Smith, et al., 2011) . The 20-item Center for Epidemiologic Studies Depression Scale for Children (CES-DC) (Faulstich, Carey, & Ruggiero, 1986 ) was adapted and validated to measure depression in Rwanda (Betancourt et al., 2012) . Following item-response theory (IRT) analyses on a larger sample of Rwandan children and parents (Betancourt, Scorza, et al., 2014) , four items were dropped from the original CES-DC scale based on poor item functioning in the Rwandan context, resulting in a 16-item scale with excellent internal consistency (\u03b1=.91). Items were scored 0 (\"Not at all\") to 3 (\"A lot\") and the scale score was the sum. A locally developed and validated conduct problems scale (Ng et al., 2014) also showed good internal consistency (\u03b1=.90). Responses were on a four-point scale from 0 (\"never\") to 3 (\"often\") and the scale score was the mean. Functional impairment was assessed using an adapted version of the World Health Organization Disability Assessment Schedule for Children (WHODAS-Child) (Scorza et al., 2013) . The 18-item scale (\u03b1=.88) assessed six domains: understanding and communicating, mobility, self-care, getting along with people, life activities, and participation in society. Simple scoring was used (World Health Organization, 2014) in which scores of 0 (\"no difficulty\") to 4 (\"extreme difficulty/cannot do\") were averaged.",
+        "section": "Study measures",
+        "section_number": 9,
+        "sentences": [
+            "Measures were adapted and validated for the Rwandan context following mixed methods research on local constructs of family functioning, mental health, and resilience (Betancourt, Meyers-Ohki, et al., 2011; Betancourt, Rubin-Smith, et al., 2011) .",
+            "The 20-item Center for Epidemiologic Studies Depression Scale for Children (CES-DC) (Faulstich, Carey, & Ruggiero, 1986 ) was adapted and validated to measure depression in Rwanda (Betancourt et al., 2012) .",
+            "Following item-response theory (IRT) analyses on a larger sample of Rwandan children and parents (Betancourt, Scorza, et al., 2014) , four items were dropped from the original CES-DC scale based on poor item functioning in the Rwandan context, resulting in a 16-item scale with excellent internal consistency (\u03b1=.91).",
+            "Items were scored 0 (\"Not at all\") to 3 (\"A lot\") and the scale score was the sum.",
+            "A locally developed and validated conduct problems scale (Ng et al., 2014) also showed good internal consistency (\u03b1=.90).",
+            "Responses were on a four-point scale from 0 (\"never\") to 3 (\"often\") and the scale score was the mean.",
+            "Functional impairment was assessed using an adapted version of the World Health Organization Disability Assessment Schedule for Children (WHODAS-Child) (Scorza et al., 2013) .",
+            "The 18-item scale (\u03b1=.88) assessed six domains: understanding and communicating, mobility, self-care, getting along with people, life activities, and participation in society.",
+            "Simple scoring was used (World Health Organization, 2014) in which scores of 0 (\"no difficulty\") to 4 (\"extreme difficulty/cannot do\") were averaged."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Family connectedness was assessed by a 15-item scale (\u03b1=.93) with indicators developed from qualitative research (Barerra, Sandler, & Ramsay, 1983; Betancourt, Meyers-Ohki, et al., 2011) . Items were scored on a five-point scale from 0 (\"never\") to 4 (\"always\") and were averaged. A 32-item good parenting scale was reduced to 21 items using IRT analyses (\u03b1=. 92), contained 16 locally-derived items (Betancourt, Meyers-Ohki, et al., 2011) and 5 items from the Parental Acceptance and Rejection Questionnaire (Rohner, Saavedra, & Granum, 1978) and was scored on four-point scale from 0 (\"never\") to 4 (\"every day\"), using the mean as the scale score.",
+        "section": "Study measures",
+        "section_number": 10,
+        "sentences": [
+            "Family connectedness was assessed by a 15-item scale (\u03b1=.93) with indicators developed from qualitative research (Barerra, Sandler, & Ramsay, 1983; Betancourt, Meyers-Ohki, et al., 2011) .",
+            "Items were scored on a five-point scale from 0 (\"never\") to 4 (\"always\") and were averaged.",
+            "A 32-item good parenting scale was reduced to 21 items using IRT analyses (\u03b1=. 92), contained 16 locally-derived items (Betancourt, Meyers-Ohki, et al., 2011) and 5 items from the Parental Acceptance and Rejection Questionnaire (Rohner, Saavedra, & Granum, 1978) and was scored on four-point scale from 0 (\"never\") to 4 (\"every day\"), using the mean as the scale score."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Socioeconomic status was calculated using an asset index from the Rwanda Demographic and Health Survey (National Institute of Statistics, 2012), including improved materials for construction of the home (i.e., cement floor versus dirt), ownership of livestock, and ownership of other durable goods in the household such as a radio or television. Higher scores represent greater household assets.",
+        "section": "Study measures",
+        "section_number": 11,
+        "sentences": [
+            "Socioeconomic status was calculated using an asset index from the Rwanda Demographic and Health Survey (National Institute of Statistics, 2012), including improved materials for construction of the home (i.e., cement floor versus dirt), ownership of livestock, and ownership of other durable goods in the household such as a radio or television.",
+            "Higher scores represent greater household assets."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Participants in FSI-HIV completed a ten-item questionnaire assessing their satisfaction with the intervention (e.g., \"Overall, how satisfied are you with the FSI-HIV sessions you participated in?\" and \"Would you recommend the FSI-HIV to a friend or neighbor?\").",
+        "section": "Study measures",
+        "section_number": 12,
+        "sentences": [
+            "Participants in FSI-HIV completed a ten-item questionnaire assessing their satisfaction with the intervention (e.g., \"Overall, how satisfied are you with the FSI-HIV sessions you participated in?\"",
+            "and \"Would you recommend the FSI-HIV to a friend or neighbor?\")."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "The FSI-HIV is a manualized modular intervention adapted from the Family Based Preventive Intervention (FBPI). The theory behind the original FBPI (also called \"Family Talk\") is that poor communication and negative parent-child dynamics due to chronic parental illness can lead to increased risk of mental health problems in offspring. The FSI-HIV adapted this family-based approach, originally developed for the prevention of depression in the offspring of depressed caregivers to the context of families affected by caregiver HIV. The original FBPI has a strong evidence base in several diverse cultural settings. The intervention has received high rankings in the National Registry of Evidencebased Programs and Practices (NREPP, 2009) . It has been adapted for use with different cultural groups including Latino and Native American populations in the United States and has been integrated into health services in Costa Rica and Finland (Beardslee et al., 2011; Beardslee et al., 2013; D'Angelo et al., 2009; Podorefsky, McDonald-Dowdell, & Beardslee, 2001; Sparrow et al., 2011) . In prior trials, participation in the intervention was associated with increased family understanding of depression, and decreased depressive symptomatology scores in children (Beardslee et al., 2003; Beardslee et al., 2007; D'Angelo et al., 2009; Podorefsky et al., 2001) . Given the FBPI's focus on improving the caregiverchild relationship and communication in the context of chronic caregiver illness, the FBPI was seen as well aligned with the challenges within families that can contribute to the high rates of mental health problems that have been observed in HIV-affected children (Betancourt, Scorza, et al., 2014) . Like the original FBPI, FSI-HIV is strengths-based and has at its core the development of a family narrative that draws out the major challenges that the family has faced together and the inherent strengths that have helped the family to overcome challenges in the past with a view toward continued future success as a family through improved communication and understanding. The narrative and strengths focus of the FBPI were seen as aligned with views of resilience among families facing adversity in Rwanda as illuminated in prior qualitative research on protective processes in this setting.",
+        "section": "Intervention",
+        "section_number": 13,
+        "sentences": [
+            "The FSI-HIV is a manualized modular intervention adapted from the Family Based Preventive Intervention (FBPI).",
+            "The theory behind the original FBPI (also called \"Family Talk\") is that poor communication and negative parent-child dynamics due to chronic parental illness can lead to increased risk of mental health problems in offspring.",
+            "The FSI-HIV adapted this family-based approach, originally developed for the prevention of depression in the offspring of depressed caregivers to the context of families affected by caregiver HIV.",
+            "The original FBPI has a strong evidence base in several diverse cultural settings.",
+            "The intervention has received high rankings in the National Registry of Evidencebased Programs and Practices (NREPP, 2009) .",
+            "It has been adapted for use with different cultural groups including Latino and Native American populations in the United States and has been integrated into health services in Costa Rica and Finland (Beardslee et al., 2011; Beardslee et al., 2013; D'Angelo et al., 2009; Podorefsky, McDonald-Dowdell, & Beardslee, 2001; Sparrow et al., 2011) .",
+            "In prior trials, participation in the intervention was associated with increased family understanding of depression, and decreased depressive symptomatology scores in children (Beardslee et al., 2003; Beardslee et al., 2007; D'Angelo et al., 2009; Podorefsky et al., 2001) .",
+            "Given the FBPI's focus on improving the caregiverchild relationship and communication in the context of chronic caregiver illness, the FBPI was seen as well aligned with the challenges within families that can contribute to the high rates of mental health problems that have been observed in HIV-affected children (Betancourt, Scorza, et al., 2014) .",
+            "Like the original FBPI, FSI-HIV is strengths-based and has at its core the development of a family narrative that draws out the major challenges that the family has faced together and the inherent strengths that have helped the family to overcome challenges in the past with a view toward continued future success as a family through improved communication and understanding.",
+            "The narrative and strengths focus of the FBPI were seen as aligned with views of resilience among families facing adversity in Rwanda as illuminated in prior qualitative research on protective processes in this setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Drawing from this strengths-based theory of change, FSI-HIV is delivered in approximately 90-minute weekly home-visiting sessions which span an initial pre-meeting, the six core modules including a culminating family meeting, and a follow-up to the family meeting in order to debrief together about what occurred during the family meeting. The core modules address four themes: 1) psychoeducation about HIV and its effects on families and how families can succeed despite HIV; 2) skills development in communication, responsive parenting, and stress management/alternatives to violence and harsh punishment; 3) development of a family strengths-based narrative that identifies sources of family resilience and hope from the perspective of the caregivers, the children, and a combined family narrative; and 4) problem solving around eliciting formal and informal support structures .",
+        "section": "Intervention",
+        "section_number": 14,
+        "sentences": [
+            "Drawing from this strengths-based theory of change, FSI-HIV is delivered in approximately 90-minute weekly home-visiting sessions which span an initial pre-meeting, the six core modules including a culminating family meeting, and a follow-up to the family meeting in order to debrief together about what occurred during the family meeting.",
+            "The core modules address four themes: 1) psychoeducation about HIV and its effects on families and how families can succeed despite HIV; 2) skills development in communication, responsive parenting, and stress management/alternatives to violence and harsh punishment; 3) development of a family strengths-based narrative that identifies sources of family resilience and hope from the perspective of the caregivers, the children, and a combined family narrative; and 4) problem solving around eliciting formal and informal support structures ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "The FSI-HIV model blends meetings solely for the caregivers and solely for the children together with a meeting with all family members. In households with children of diverse ages, the modules for children could be split into separate sessions for younger children and adolescents as appropriate. The culmination of the intervention is a family meeting convened by caregivers with support from counselors. Overall there are at least two combined family meetings, three sessions just with caregivers and at least two sessions just with children. The overview and flow of all sessions is laid out in Figure 2 . The FSI-HIV acceptability and the content, pace, and timing of modules were pretested in a previous open trial .",
+        "section": "Intervention",
+        "section_number": 15,
+        "sentences": [
+            "The FSI-HIV model blends meetings solely for the caregivers and solely for the children together with a meeting with all family members.",
+            "In households with children of diverse ages, the modules for children could be split into separate sessions for younger children and adolescents as appropriate.",
+            "The culmination of the intervention is a family meeting convened by caregivers with support from counselors.",
+            "Overall there are at least two combined family meetings, three sessions just with caregivers and at least two sessions just with children.",
+            "The overview and flow of all sessions is laid out in Figure 2 .",
+            "The FSI-HIV acceptability and the content, pace, and timing of modules were pretested in a previous open trial ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "As needed, supplementary psychoeducation on genocide-related trauma was developed and provided for families where the issue arose (see Figure 2 for FSI-HIV modules). Although most of the caregivers in the trial had lived through the genocide, caregivers were not pushed to discuss their experiences in the genocide. Instead, the family narrative component of FSI-HIV allowed families to choose which important family events to discuss. Genocide was introduced as a theme in 15% of intervention families.",
+        "section": "Intervention",
+        "section_number": 16,
+        "sentences": [
+            "As needed, supplementary psychoeducation on genocide-related trauma was developed and provided for families where the issue arose (see Figure 2 for FSI-HIV modules).",
+            "Although most of the caregivers in the trial had lived through the genocide, caregivers were not pushed to discuss their experiences in the genocide.",
+            "Instead, the family narrative component of FSI-HIV allowed families to choose which important family events to discuss.",
+            "Genocide was introduced as a theme in 15% of intervention families."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "A Rwanda-based Master-level project manager randomized families and provided weekly on-site supervision. Study leaders, including a child psychiatrist and clinical psychologist, provided additional weekly supervision to the intervention team by phone. Three male and three female bachelor-level Rwandan counselors were given a two-week training in the FSI-HIV focused on role-play to build skills in family counseling. Families assigned to TAU received standard social work services through the Ministry of Health, which included sessions at the health center and/or home facilitated by a social worker. TAU social workers received no additional training and were asked to provide usual social work services. Families in both treatment conditions were offered referrals for additional mental health services, health insurance enrollment, health services, and information on the health system as needed. Counselors maintained clinical notes on challenges FSI-HIV families faced, including intimate partner violence, alcohol abuse, and effects of the Rwandan genocide, in addition to process data on intervention progress and session attendance.",
+        "section": "Procedures",
+        "section_number": 17,
+        "sentences": [
+            "A Rwanda-based Master-level project manager randomized families and provided weekly on-site supervision.",
+            "Study leaders, including a child psychiatrist and clinical psychologist, provided additional weekly supervision to the intervention team by phone.",
+            "Three male and three female bachelor-level Rwandan counselors were given a two-week training in the FSI-HIV focused on role-play to build skills in family counseling.",
+            "Families assigned to TAU received standard social work services through the Ministry of Health, which included sessions at the health center and/or home facilitated by a social worker.",
+            "TAU social workers received no additional training and were asked to provide usual social work services.",
+            "Families in both treatment conditions were offered referrals for additional mental health services, health insurance enrollment, health services, and information on the health system as needed.",
+            "Counselors maintained clinical notes on challenges FSI-HIV families faced, including intimate partner violence, alcohol abuse, and effects of the Rwandan genocide, in addition to process data on intervention progress and session attendance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Trained research staff conducted blinded baseline, post, and three-month follow-up assessments via in-person interviews using hand-held Android devices. Assessments were conducted within a month of both beginning and completing the intervention and then three months after the end of the intervention. Children reported on their own mental health, functional impairment, and the parenting they received. The caregiver who knew each child best reported on the mental health and functional impairment of the child and parenting that the child received from caregivers. Caregivers also reported on their own parenting and sense of family connectedness. Caregivers provided written informed consent for themselves and their children. Children provided independent written assent. All consent and assent procedures were witnessed and documented by a study staff member. Six families refused to participate in the study (6.8% of all eligible families sampled).",
+        "section": "Procedures",
+        "section_number": 18,
+        "sentences": [
+            "Trained research staff conducted blinded baseline, post, and three-month follow-up assessments via in-person interviews using hand-held Android devices.",
+            "Assessments were conducted within a month of both beginning and completing the intervention and then three months after the end of the intervention.",
+            "Children reported on their own mental health, functional impairment, and the parenting they received.",
+            "The caregiver who knew each child best reported on the mental health and functional impairment of the child and parenting that the child received from caregivers.",
+            "Caregivers also reported on their own parenting and sense of family connectedness.",
+            "Caregivers provided written informed consent for themselves and their children.",
+            "Children provided independent written assent.",
+            "All consent and assent procedures were witnessed and documented by a study staff member.",
+            "Six families refused to participate in the study (6.8% of all eligible families sampled)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Assuming a standard alpha level of 0.05, 80 families with two eligible respondents per family on average, and assumptions of moderate intraclass (within-family) correlation (approximately 0.5), this pilot RCT had power of 0.80 to detect a standardized \"medium\" effect size of approximately 0.50 (Cohen, 2013) .",
+        "section": "Statistical analysis",
+        "section_number": 19,
+        "sentences": [
+            "Assuming a standard alpha level of 0.05, 80 families with two eligible respondents per family on average, and assumptions of moderate intraclass (within-family) correlation (approximately 0.5), this pilot RCT had power of 0.80 to detect a standardized \"medium\" effect size of approximately 0.50 (Cohen, 2013) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "We used mixed models (also known as multilevel models) to assess the three-wave longitudinal effects of FSI-HIV on caregiver-child relationships and child mental health and functioning, accounting for family clustering and clustering of the three time points within persons. Descriptive analyses were conducted in Stata 14 (StataCorp LP) and multilevel models were estimated using HLM 7 (Scientific Software International, Inc.). Where normality assumptions for residuals could not be sustained due to skewed scale scores, we employed a generalized linear model with a Poisson link function. All models predicting child outcomes were adjusted for child sex, child age, family SES, family type (single-or dual-caregiver family) and child HIV status. For caregiver-reported outcomes, caregiver sex, age, family type, and caregiver HIV status were included. Time dummy variables (posttreatment and three-month follow-up) were included to account for change, and treatment (FSI-HIV dummy) by time dummy interaction terms were included to test the effect of the FSI-HIV treatment on outcomes. The mode of analysis was intent-to-treat with 20 multiplyimputed data sets created in Stata 14 using chained equations to account for missing values and participants who did not complete all assessments (9.2% by three-month follow-up) (Tang et al., 2005) .",
+        "section": "Statistical analysis",
+        "section_number": 20,
+        "sentences": [
+            "We used mixed models (also known as multilevel models) to assess the three-wave longitudinal effects of FSI-HIV on caregiver-child relationships and child mental health and functioning, accounting for family clustering and clustering of the three time points within persons.",
+            "Descriptive analyses were conducted in Stata 14 (StataCorp LP) and multilevel models were estimated using HLM 7 (Scientific Software International, Inc.).",
+            "Where normality assumptions for residuals could not be sustained due to skewed scale scores, we employed a generalized linear model with a Poisson link function.",
+            "All models predicting child outcomes were adjusted for child sex, child age, family SES, family type (single-or dual-caregiver family) and child HIV status.",
+            "For caregiver-reported outcomes, caregiver sex, age, family type, and caregiver HIV status were included.",
+            "Time dummy variables (posttreatment and three-month follow-up) were included to account for change, and treatment (FSI-HIV dummy) by time dummy interaction terms were included to test the effect of the FSI-HIV treatment on outcomes.",
+            "The mode of analysis was intent-to-treat with 20 multiplyimputed data sets created in Stata 14 using chained equations to account for missing values and participants who did not complete all assessments (9.2% by three-month follow-up) (Tang et al., 2005) ."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "35176",
+        "text": "Forty-one families were randomized to FSI-HIV. One FSI-HIV family withdrew prior to the intervention, and one TAU family relocated outside of the study area (Figure 1 ).",
+        "section": "Baseline characteristics",
+        "section_number": 21,
+        "sentences": [
+            "Forty-one families were randomized to FSI-HIV.",
+            "One FSI-HIV family withdrew prior to the intervention, and one TAU family relocated outside of the study area (Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Descriptive statistics are displayed in Table 1 . Caregivers who reported on the children were most frequently biological mothers (75.0%) and fathers (19.5%). There were 42 singlecaregiver families with 43 caregivers (in one family the mother was enrolled, however midstudy, the grandmother moved in to help care for the children), and 40 dual-caregiver families enrolled in the research. All single-caregiver families were headed by females. One dual-caregiver family was headed by a mother and a grandmother, and all others were headed by a man and a woman. While all single caregivers were HIV-positive, sixteen (40.0%) of the dual-caregiver families were serodiscordant. Of 170 children enrolled in the trial, 21 (12.35%) were HIV-positive.",
+        "section": "Baseline characteristics",
+        "section_number": 22,
+        "sentences": [
+            "Descriptive statistics are displayed in Table 1 .",
+            "Caregivers who reported on the children were most frequently biological mothers (75.0%) and fathers (19.5%).",
+            "There were 42 singlecaregiver families with 43 caregivers (in one family the mother was enrolled, however midstudy, the grandmother moved in to help care for the children), and 40 dual-caregiver families enrolled in the research.",
+            "All single-caregiver families were headed by females.",
+            "One dual-caregiver family was headed by a mother and a grandmother, and all others were headed by a man and a woman.",
+            "While all single caregivers were HIV-positive, sixteen (40.0%) of the dual-caregiver families were serodiscordant.",
+            "Of 170 children enrolled in the trial, 21 (12.35%) were HIV-positive."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "The overall attendance rate was 93.4% including the family that withdrew and a family that could not continue due to children leaving the home. Fully 150 participants attended at least one module, and only 3% of those who participated missed more than one module. The mean number of modules attended was 6.5 of 7 modules for caregivers (SD=1.3) and 3.8 of 4 modules for children (SD=1.1).",
+        "section": "Attendance",
+        "section_number": 23,
+        "sentences": [
+            "The overall attendance rate was 93.4% including the family that withdrew and a family that could not continue due to children leaving the home.",
+            "Fully 150 participants attended at least one module, and only 3% of those who participated missed more than one module.",
+            "The mean number of modules attended was 6.5 of 7 modules for caregivers (SD=1.3) and 3.8 of 4 modules for children (SD=1.1)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "The number of sessions ranged between 8 and 21, with families taking 10.0 sessions on average (SD=3.9) to complete the pre-meeting, six core modules, and a follow-up meeting. Additional sessions were added for families that needed more time to master certain concepts or required additional support due to family violence and or substance abuse.",
+        "section": "Attendance",
+        "section_number": 24,
+        "sentences": [
+            "The number of sessions ranged between 8 and 21, with families taking 10.0 sessions on average (SD=3.9) to complete the pre-meeting, six core modules, and a follow-up meeting.",
+            "Additional sessions were added for families that needed more time to master certain concepts or required additional support due to family violence and or substance abuse."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Of 139 caregivers and children enrolled in FSI-HIV who completed the post assessment, 129 rated their satisfaction with the intervention. The intervention was seen as highly feasible, acceptable, and flexible to account for family needs. Almost all (n=125, 96.9%) reported being satisfied and the same number reported that they would recommend it to a friend or neighbor; 104 (80.62 %) reported that the intervention met their needs, and all but one (128, 99.2%) reported that they would participate in FSI-HIV again.",
+        "section": "Feasibility, Acceptability and Satisfaction",
+        "section_number": 25,
+        "sentences": [
+            "Of 139 caregivers and children enrolled in FSI-HIV who completed the post assessment, 129 rated their satisfaction with the intervention.",
+            "The intervention was seen as highly feasible, acceptable, and flexible to account for family needs.",
+            "Almost all (n=125, 96.9%) reported being satisfied and the same number reported that they would recommend it to a friend or neighbor; 104 (80.62 %) reported that the intervention met their needs, and all but one (128, 99.2%) reported that they would participate in FSI-HIV again."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Results of the mixed models are presented in Table 2 . At three-month follow-up, children in the FSI-HIV group had fewer symptoms of depression three months after the treatment both by self report (\u03b2=\u22120.246; p=.009, event ratio 0.781) and caregiver report (\u03b2=\u22120.174; p=.035, event ratio 0.840). No significant differences between FSI-HIV and TAU were found with regard to child functional impairment, conduct, or feelings of family connectedness or parenting at either time point.",
+        "section": "Effect of FSI-HIV",
+        "section_number": 26,
+        "sentences": [
+            "Results of the mixed models are presented in Table 2 .",
+            "At three-month follow-up, children in the FSI-HIV group had fewer symptoms of depression three months after the treatment both by self report (\u03b2=\u22120.246; p=.009, event ratio 0.781) and caregiver report (\u03b2=\u22120.174; p=.035, event ratio 0.840).",
+            "No significant differences between FSI-HIV and TAU were found with regard to child functional impairment, conduct, or feelings of family connectedness or parenting at either time point."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Participation in FSI-HIV was associated with significant reductions in children's depression symptoms at three-month follow-up. Children and caregivers reported high satisfaction with FSI-HIV, including FSI-HIV meeting their own needs, willingness to recommend FSI-HIV to others, excellent attendance and willingness to participate again.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "Participation in FSI-HIV was associated with significant reductions in children's depression symptoms at three-month follow-up.",
+            "Children and caregivers reported high satisfaction with FSI-HIV, including FSI-HIV meeting their own needs, willingness to recommend FSI-HIV to others, excellent attendance and willingness to participate again."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "FSI-HIV seeks to activate improved family communication in order to foster healthy parentchild relationships and prevent mental health problems in children. As a core component of this model, FSI-HIV helped many families to discuss the realities of HIV status among different family members. For many families, the FSI-HIV intervention promoted some of their first in-depth discussions about HIV with their children .",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "FSI-HIV seeks to activate improved family communication in order to foster healthy parentchild relationships and prevent mental health problems in children.",
+            "As a core component of this model, FSI-HIV helped many families to discuss the realities of HIV status among different family members.",
+            "For many families, the FSI-HIV intervention promoted some of their first in-depth discussions about HIV with their children ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Innovations of this FSI-HIV trial must be noted. First, reductions in child depression symptoms were achieved with FSI-HIV delivered by bachelor-level counselors with FSI-HIV training, demonstrating potential to help address the limited resources for mental health services in Rwanda. Second, the home-visiting model was effective in engaging mothers and fathers in dual-caregiver households. Third, this study adds to the literature by extending the intervention focus beyond children directly infected by HIV or children orphaned by HIV to also provide a model for promoting the mental health of children living in households where at least one caregiver has HIV. This allows for a focus on children directly and indirectly affected by HIV, which is extremely pertinent in today's environment with longer life expectancies among people living with HIV (Nsanzimana et al., 2015) . In particular, coaching parents to use positive parenting practices and improved communication and listening may have contributed to reductions in children's depression and improvements in prosocial behavior both in HIV-infected children and in children who are HIV-negative but indirectly affected by family HIV.",
+        "section": "DISCUSSION",
+        "section_number": 29,
+        "sentences": [
+            "Innovations of this FSI-HIV trial must be noted.",
+            "First, reductions in child depression symptoms were achieved with FSI-HIV delivered by bachelor-level counselors with FSI-HIV training, demonstrating potential to help address the limited resources for mental health services in Rwanda.",
+            "Second, the home-visiting model was effective in engaging mothers and fathers in dual-caregiver households.",
+            "Third, this study adds to the literature by extending the intervention focus beyond children directly infected by HIV or children orphaned by HIV to also provide a model for promoting the mental health of children living in households where at least one caregiver has HIV.",
+            "This allows for a focus on children directly and indirectly affected by HIV, which is extremely pertinent in today's environment with longer life expectancies among people living with HIV (Nsanzimana et al., 2015) .",
+            "In particular, coaching parents to use positive parenting practices and improved communication and listening may have contributed to reductions in children's depression and improvements in prosocial behavior both in HIV-infected children and in children who are HIV-negative but indirectly affected by family HIV."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Study limitations must also be noted. As a feasibility study, our trial was not powered to detect smaller effects, and some effects in family process variables may have been hidden by larger differences attributable to family type. In addition, given the need to balance our standard package of intervention modules for families affected by HIV along with risk of harm issues such as violence affecting some families, not all families experienced exactly the same number of sessions or thus \"dose\" of intervention. Further, as a feasibility study, the trial does not contain a sufficient period of follow-up to assess the long-term benefits of the FSI-HIV as a preventive intervention. Nonetheless, we did see an encouraging decline in family conflict among families receiving the FSI-HIV intervention that warrants further future exploration . Lastly, due to the use of individual-level randomization there were FSI-HIV families living in the same communities as TAU families that could potentially lead to contamination. Future trials should be powered to investigate both differential effects by family configuration and to examine outcomes over a longer time horizon to understand potential preventative effects of FSI-HIV. Although retention and attendance were strong, participation was affected by time constraints of families as well as caregiver alcohol abuse (Chaudhury, Brown, et al., 2016) and addressing traumatic stress responses related to the Rwandan genocide.",
+        "section": "DISCUSSION",
+        "section_number": 30,
+        "sentences": [
+            "Study limitations must also be noted.",
+            "As a feasibility study, our trial was not powered to detect smaller effects, and some effects in family process variables may have been hidden by larger differences attributable to family type.",
+            "In addition, given the need to balance our standard package of intervention modules for families affected by HIV along with risk of harm issues such as violence affecting some families, not all families experienced exactly the same number of sessions or thus \"dose\" of intervention.",
+            "Further, as a feasibility study, the trial does not contain a sufficient period of follow-up to assess the long-term benefits of the FSI-HIV as a preventive intervention.",
+            "Nonetheless, we did see an encouraging decline in family conflict among families receiving the FSI-HIV intervention that warrants further future exploration .",
+            "Lastly, due to the use of individual-level randomization there were FSI-HIV families living in the same communities as TAU families that could potentially lead to contamination.",
+            "Future trials should be powered to investigate both differential effects by family configuration and to examine outcomes over a longer time horizon to understand potential preventative effects of FSI-HIV.",
+            "Although retention and attendance were strong, participation was affected by time constraints of families as well as caregiver alcohol abuse (Chaudhury, Brown, et al., 2016) and addressing traumatic stress responses related to the Rwandan genocide."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Children and families affected by HIV merit special attention by policymakers, health workers, and researchers. HIV-related stressors, family functioning, and child mental health are inextricably linked and can be addressed via family-based preventive interventions. The FSI-HIV is a promising intervention to promote resilience and prevent mental health problems in children both directly and indirectly affected by HIV.",
+        "section": "CONCLUSION",
+        "section_number": 31,
+        "sentences": [
+            "Children and families affected by HIV merit special attention by policymakers, health workers, and researchers.",
+            "HIV-related stressors, family functioning, and child mental health are inextricably linked and can be addressed via family-based preventive interventions.",
+            "The FSI-HIV is a promising intervention to promote resilience and prevent mental health problems in children both directly and indirectly affected by HIV."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "Refer to Web version on PubMed Central for supplementary material.",
+        "section": "Supplementary Material",
+        "section_number": 32,
+        "sentences": [
+            "Refer to Web version on PubMed Central for supplementary material."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "a When children or caregivers had moved away, the study team attempted to locate them for assessments if feasible. One child in FSI and 1 Caregiver in TAU were able to be located for post-assessments. b Primary analyses included all randomized, using 20 multiply imputed data sets to account for missingness Results of multi-level mixed models predicting child and caregiver outcomes Linear regression Note. All models included whether a family had single or dual caregivers and family wealth as a covariates. Models predicting child outcomes also include child sex and child HIV-status as covariates, and models predicting caregiver outcomes include caregiver sex and HIV-status as covariates.",
+        "section": "Figure 1. CONSORT Flow diagram",
+        "section_number": 33,
+        "sentences": [
+            "a When children or caregivers had moved away, the study team attempted to locate them for assessments if feasible.",
+            "One child in FSI and 1 Caregiver in TAU were able to be located for post-assessments.",
+            "b Primary analyses included all randomized, using 20 multiply imputed data sets to account for missingness Results of multi-level mixed models predicting child and caregiver outcomes Linear regression Note.",
+            "All models included whether a family had single or dual caregivers and family wealth as a covariates.",
+            "Models predicting child outcomes also include child sex and child HIV-status as covariates, and models predicting caregiver outcomes include caregiver sex and HIV-status as covariates."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35176",
+        "text": "J Child Psychol Psychiatry. Author manuscript; available in PMC 2018 August 01.",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "J Child Psychol Psychiatry.",
+            "Author manuscript; available in PMC 2018 August 01."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

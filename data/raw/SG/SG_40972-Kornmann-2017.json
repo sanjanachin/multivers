@@ -1,0 +1,709 @@
+[
+    {
+        "doc_id": "40972",
+        "text": "Preterm infants often have a reduced bone mineral content (BMC) with increased risk of metabolic bone disease. After birth it is difficult to supply calcium (Ca) and phosphorus (P) comparable to the high fetal accretion rate. It is not known whether high supplementation of minerals in the early postnatal period improves growth and bone mineralization. The aim of this study was to evaluate growth and bone mineralization at term corrected age (TCA) in very and extremely preterm infants who received different enteral Ca and P intakes during the first 10 days of life. Infants (n = 109) with birth weights below 1500 g were randomly assigned to one of three groups that differed in the nutritional protocols delivered until day 10: Group A, mother's own milk (MOM) and donor milk (unfortified); Group B, MOM (unfortified) and preterm formula; Group C, MOM (start fortification >50 mL/day) and preterm formula. Due to the earlier commencement of fortification, Group C received higher intakes of calcium and phosphorus and protein (p < 0.001) until day 10. At TCA weight, length, BMC and bone mineral density (BMD), measured by dual-X-ray absorptiometry, were not different between the groups. Nutritional intake of P was positively associated with length (\u03b2; (95% confidence interval (CI): 0.20 (0.001; 0.393); p-value = 0.048), whereas Ca intake was negatively associated with BMC (\u22121.94 (\u22122.78; \u22121.09); p-value < 0.001). A small interaction between Ca and P intake was only found for BMD (0.003 (0.00002; 0.00006); p-value = 0.036). The volume of human milk per kg provided during the first 10 days was positively associated with BMC (\u03b2; (95% CI): 0.013 (0.002; 0.023); p < 0.017). Higher intakes of Ca and P during the first 10 days, as provided in this study, did not improve bone mineralization at term corrected age.",
+        "section": "Abstract",
+        "sentences": [
+            "Preterm infants often have a reduced bone mineral content (BMC) with increased risk of metabolic bone disease.",
+            "After birth it is difficult to supply calcium (Ca) and phosphorus (P) comparable to the high fetal accretion rate.",
+            "It is not known whether high supplementation of minerals in the early postnatal period improves growth and bone mineralization.",
+            "The aim of this study was to evaluate growth and bone mineralization at term corrected age (TCA) in very and extremely preterm infants who received different enteral Ca and P intakes during the first 10 days of life.",
+            "Infants (n = 109) with birth weights below 1500 g were randomly assigned to one of three groups that differed in the nutritional protocols delivered until day 10: Group A, mother's own milk (MOM) and donor milk (unfortified); Group B, MOM (unfortified) and preterm formula; Group C, MOM (start fortification >50 mL/day) and preterm formula.",
+            "Due to the earlier commencement of fortification, Group C received higher intakes of calcium and phosphorus and protein (p < 0.001) until day 10.",
+            "At TCA weight, length, BMC and bone mineral density (BMD), measured by dual-X-ray absorptiometry, were not different between the groups.",
+            "Nutritional intake of P was positively associated with length (\u03b2; (95% confidence interval (CI): 0.20 (0.001; 0.393); p-value = 0.048), whereas Ca intake was negatively associated with BMC (\u22121.94 (\u22122.78; \u22121.09); p-value < 0.001).",
+            "A small interaction between Ca and P intake was only found for BMD (0.003 (0.00002; 0.00006); p-value = 0.036).",
+            "The volume of human milk per kg provided during the first 10 days was positively associated with BMC (\u03b2; (95% CI): 0.013 (0.002; 0.023); p < 0.017).",
+            "Higher intakes of Ca and P during the first 10 days, as provided in this study, did not improve bone mineralization at term corrected age."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Very and extremely preterm infants are known to have a reduced bone mineral content (BMC) with increased risk of development of metabolic bone disease (MBD) [1] [2] [3] [4] [5] [6] . There are numerous reasons for impaired bone development in preterm infants, but an adequate supply of substrates of calcium (Ca) and phosphorus (P) is a prerequisite for normal bone mineral accretion, whereas vitamin D is essential for the adequate regulation of the mineral homeostasis and bone mineralization [5, 7] . Up to 80% of the body Ca of a term infant is accrued during the last trimester of pregnancy [7, 8] . Infants born preterm miss this active foetal mineralization in the last trimester, and instead are reliant on supplementation of minerals, provided through parenteral and enteral sources [9, 10] . In clinical practice, it is difficult to meet the high foetal needs after preterm birth. Parenteral fluids have a limited solubility for high amounts of Ca and P, whereas human milk has low contents of calcium (Ca) and phosphorus (P) and formula feeding has been shown to have an impaired intestinal absorption of minerals [9, 11, 12] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Very and extremely preterm infants are known to have a reduced bone mineral content (BMC) with increased risk of development of metabolic bone disease (MBD) [1] [2] [3] [4] [5] [6] .",
+            "There are numerous reasons for impaired bone development in preterm infants, but an adequate supply of substrates of calcium (Ca) and phosphorus (P) is a prerequisite for normal bone mineral accretion, whereas vitamin D is essential for the adequate regulation of the mineral homeostasis and bone mineralization [5, 7] .",
+            "Up to 80% of the body Ca of a term infant is accrued during the last trimester of pregnancy [7, 8] .",
+            "Infants born preterm miss this active foetal mineralization in the last trimester, and instead are reliant on supplementation of minerals, provided through parenteral and enteral sources [9, 10] .",
+            "In clinical practice, it is difficult to meet the high foetal needs after preterm birth.",
+            "Parenteral fluids have a limited solubility for high amounts of Ca and P, whereas human milk has low contents of calcium (Ca) and phosphorus (P) and formula feeding has been shown to have an impaired intestinal absorption of minerals [9, 11, 12] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Nowadays, it is accepted that early enteral nutrition, and especially human milk (HM), has beneficial health effects. Enrichment of HM with human milk fortifiers (HMF) for preterm infants is the standard of care [13] . However, there is uncertainty with regard to the method of fortification of human milk. The timing and amount of mineral supplementation vary greatly, resulting in varying international practices [14] . Supplementation of Ca and P is often delayed because of fear of nephrocalcinosis, feeding intolerance and necrotizing enterocolitis [15, 16] . Early mineral supplementation of human milk at low volumes of enteral intake accelerates the amount of enteral intake, decreases the duration of parenteral nutrition, and may support postnatal growth and bone mineralization in the early postnatal period, whereas delay of fortification may lead to insufficient mineral intake and consecutively impaired bone mineralization. Whether early postnatal high mineral intake will improve bone mineralization has not been evaluated.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Nowadays, it is accepted that early enteral nutrition, and especially human milk (HM), has beneficial health effects.",
+            "Enrichment of HM with human milk fortifiers (HMF) for preterm infants is the standard of care [13] .",
+            "However, there is uncertainty with regard to the method of fortification of human milk.",
+            "The timing and amount of mineral supplementation vary greatly, resulting in varying international practices [14] .",
+            "Supplementation of Ca and P is often delayed because of fear of nephrocalcinosis, feeding intolerance and necrotizing enterocolitis [15, 16] .",
+            "Early mineral supplementation of human milk at low volumes of enteral intake accelerates the amount of enteral intake, decreases the duration of parenteral nutrition, and may support postnatal growth and bone mineralization in the early postnatal period, whereas delay of fortification may lead to insufficient mineral intake and consecutively impaired bone mineralization.",
+            "Whether early postnatal high mineral intake will improve bone mineralization has not been evaluated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The aim of this study was to evaluate bone mineralization and growth at term corrected age (TCA) in very and extreme preterm infants who received either unfortified human milk, preterm formula, or early fortified human milk during the first 10 days of life. We hypothesized that a higher mineral intake would lead to a higher weight and length as well as improved bone mineralization at term corrected age.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The aim of this study was to evaluate bone mineralization and growth at term corrected age (TCA) in very and extreme preterm infants who received either unfortified human milk, preterm formula, or early fortified human milk during the first 10 days of life.",
+            "We hypothesized that a higher mineral intake would lead to a higher weight and length as well as improved bone mineralization at term corrected age."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "This study (Early Supplementation Study (ESS)) was part of a larger multi-center double-blinded randomized controlled trial: the Early Nutrition Study (ENS) [17] . The ENS evaluated the effects of human milk on postnatal mortality and morbidity, while the ESS evaluated bone mineralization and growth in relation to the timing of mineral supplementation. The studies were approved by the Ethical Committee of the VU University Medical Center, (Amsterdam, The Netherlands) 23 November 2012 (CMO dossier number: NL37296.029.11, Netherlands Trial Registry: NTR 3225). Participants were assigned into one of three groups through two steps of randomization, based on stratification according to birth weight, below or above 1000 g, and appropriate or small for gestational age status. First, infants were randomized into either late mineral and protein supplementation, as part of the ENS (Group A and B), or early supplementation, as part of the ESS (Group C). The second step was only performed if infants were randomized to the late supplementation group. This step randomized infants to either Group A (mother's own milk (MOM) and/or donor milk) or Group B (MOM and/or preterm formula). Both randomization steps were performed before the first enteral nutrition was administered.",
+        "section": "Study Design and Randomization",
+        "section_number": 4,
+        "sentences": [
+            "This study (Early Supplementation Study (ESS)) was part of a larger multi-center double-blinded randomized controlled trial: the Early Nutrition Study (ENS) [17] .",
+            "The ENS evaluated the effects of human milk on postnatal mortality and morbidity, while the ESS evaluated bone mineralization and growth in relation to the timing of mineral supplementation.",
+            "The studies were approved by the Ethical Committee of the VU University Medical Center, (Amsterdam, The Netherlands) 23 November 2012 (CMO dossier number: NL37296.029.11, Netherlands Trial Registry: NTR 3225).",
+            "Participants were assigned into one of three groups through two steps of randomization, based on stratification according to birth weight, below or above 1000 g, and appropriate or small for gestational age status.",
+            "First, infants were randomized into either late mineral and protein supplementation, as part of the ENS (Group A and B), or early supplementation, as part of the ESS (Group C).",
+            "The second step was only performed if infants were randomized to the late supplementation group.",
+            "This step randomized infants to either Group A (mother's own milk (MOM) and/or donor milk) or Group B (MOM and/or preterm formula).",
+            "Both randomization steps were performed before the first enteral nutrition was administered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Infants were recruited at the level III neonatal intensive care unit of the Radboud University Medical Center (Radboudumc), Nijmegen, Netherlands. Preterm infants, with a birth weight below 1500 g, were eligible for inclusion, if both parents had given written informed consent before the first enteral feeding. Exclusion criteria were congenital malformations, congenital infection proven within 72 h after birth, perinatal asphyxia with a pH <7.0, maternal drugs and/or alcohol use during pregnancy and any intake of cow's milk based products prior to randomization.",
+        "section": "Study Population",
+        "section_number": 5,
+        "sentences": [
+            "Infants were recruited at the level III neonatal intensive care unit of the Radboud University Medical Center (Radboudumc), Nijmegen, Netherlands.",
+            "Preterm infants, with a birth weight below 1500 g, were eligible for inclusion, if both parents had given written informed consent before the first enteral feeding.",
+            "Exclusion criteria were congenital malformations, congenital infection proven within 72 h after birth, perinatal asphyxia with a pH <7.0, maternal drugs and/or alcohol use during pregnancy and any intake of cow's milk based products prior to randomization."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The nutritional protocol and intervention have previously been described [18] . All infants received parenteral nutrition (PN), according to the standard institutional protocol. PN was started directly within the first hour after birth and consisted of standard components with 2.5 mmol/dL calcium gluconate (calcium gluconate 10%; B. Braun, Melsungen, Germany) and 1.6 mmol/dL sodium-glycerophosphate (Glycophos; Fresenius Kabi BV, Zeist, The Netherlands). Table A1 presents the standard protocol for PN. Additional parenteral mineral supplementation with 10% calcium gluconate or sodium-glycerophosphate was administered, according to the discretion of the attending neonatologist, based on blood and urine chemistry.",
+        "section": "Intervention and Nutritional Protocol",
+        "section_number": 6,
+        "sentences": [
+            "The nutritional protocol and intervention have previously been described [18] .",
+            "All infants received parenteral nutrition (PN), according to the standard institutional protocol.",
+            "PN was started directly within the first hour after birth and consisted of standard components with 2.5 mmol/dL calcium gluconate (calcium gluconate 10%; B. Braun, Melsungen, Germany) and 1.6 mmol/dL sodium-glycerophosphate (Glycophos; Fresenius Kabi BV, Zeist, The Netherlands).",
+            "Table A1 presents the standard protocol for PN.",
+            "Additional parenteral mineral supplementation with 10% calcium gluconate or sodium-glycerophosphate was administered, according to the discretion of the attending neonatologist, based on blood and urine chemistry."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Enteral feeding, according to group allocation, was started within several hours after birth, with daily increments, while PN was gradually reduced, to maintain daily fluid intake within the protocol range. Where possible, MOM was used for enteral nutrition. If MOM was not available, Group A received donor milk and Group B and C received formula. Preterm formula (Hero Baby Prematuur Start; Hero Kindervoeding, Breda, The Netherlands) contained 2.40 mmol/dL Ca, 1.70 mmol/dL P and 2.6 g/dL proteins. Groups A and B started fortification of human milk or other enteral enrichment only after day 10. For both groups the additional nutritional intake was blinded to all caretakers and parents. Group C received enteral nutrition from day 1 onwards, according to the local protocol. This group received additional enteral supplementation and human milk fortifier (HMF) by the time the enteral intake was 50 mL per day. (Nutrilon Neonatal BMF; Nutriticia, Zoetermeer, The Netherlands) The HMF added 1.65 mmol/dL Ca, 1.22 mmol/dL P and 0.8 g/dL protein. Additional enteral supplementation could comprise of either a supplement of protein (Nutrilon Nenatal protein Fortifier; Nutricia, Zoetermeer, The Netherlands) or a potassium phosphate (KPO 4 ) and calcium chloride (CaCl 2 ) suspension for enteral supplementation. The decision to start additional enteral supplementation was made by the attending neonatologist and according to the department's protocol, based on biochemical parameters and postnatal growth.",
+        "section": "Intervention and Nutritional Protocol",
+        "section_number": 7,
+        "sentences": [
+            "Enteral feeding, according to group allocation, was started within several hours after birth, with daily increments, while PN was gradually reduced, to maintain daily fluid intake within the protocol range.",
+            "Where possible, MOM was used for enteral nutrition.",
+            "If MOM was not available, Group A received donor milk and Group B and C received formula.",
+            "Preterm formula (Hero Baby Prematuur Start; Hero Kindervoeding, Breda, The Netherlands) contained 2.40 mmol/dL Ca, 1.70 mmol/dL P and 2.6 g/dL proteins.",
+            "Groups A and B started fortification of human milk or other enteral enrichment only after day 10.",
+            "For both groups the additional nutritional intake was blinded to all caretakers and parents.",
+            "Group C received enteral nutrition from day 1 onwards, according to the local protocol.",
+            "This group received additional enteral supplementation and human milk fortifier (HMF) by the time the enteral intake was 50 mL per day. (",
+            "Nutrilon Neonatal BMF; Nutriticia, Zoetermeer, The Netherlands) The HMF added 1.65 mmol/dL Ca, 1.22 mmol/dL P and 0.8 g/dL protein.",
+            "Additional enteral supplementation could comprise of either a supplement of protein (Nutrilon Nenatal protein Fortifier; Nutricia, Zoetermeer, The Netherlands) or a potassium phosphate (KPO 4 ) and calcium chloride (CaCl 2 ) suspension for enteral supplementation.",
+            "The decision to start additional enteral supplementation was made by the attending neonatologist and according to the department's protocol, based on biochemical parameters and postnatal growth."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "All infants received vitamin D with parenteral nutrition (80 IE/kg/day) directly after birth. Enteral supplementation was 600 IE (15 micrograms) per day for infants with a weight below 1250 g and 400 IE (10 micrograms) per day for all infants with a weight above 1250 g. Human milk fortifier and preterm formula added 200 IE (5 micrograms)/dL vitamin D; thus, infants received, in total, between 600 and 1000 IE vitamin D per day. According to the local protocol (Group C), vitamin D supplementation by human milk fortification was started. For Groups A and B, enteral vitamin D supplementation was started by day 8 in combination with vitamin K supplementation, according to the national Dutch recommendations.",
+        "section": "Intervention and Nutritional Protocol",
+        "section_number": 8,
+        "sentences": [
+            "All infants received vitamin D with parenteral nutrition (80 IE/kg/day) directly after birth.",
+            "Enteral supplementation was 600 IE (15 micrograms) per day for infants with a weight below 1250 g and 400 IE (10 micrograms) per day for all infants with a weight above 1250 g. Human milk fortifier and preterm formula added 200 IE (5 micrograms)/dL vitamin D; thus, infants received, in total, between 600 and 1000 IE vitamin D per day.",
+            "According to the local protocol (Group C), vitamin D supplementation by human milk fortification was started.",
+            "For Groups A and B, enteral vitamin D supplementation was started by day 8 in combination with vitamin K supplementation, according to the national Dutch recommendations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "After 10 days, all infants received nutrition, according to the standard protocol of the Radboudumc, as described above. Around term corrected age (\u00b16 weeks), all surviving participants were invited for an outpatient visit and scheduled for a dual energy X-ray absorptiometry (DXA).",
+        "section": "Intervention and Nutritional Protocol",
+        "section_number": 9,
+        "sentences": [
+            "After 10 days, all infants received nutrition, according to the standard protocol of the Radboudumc, as described above.",
+            "Around term corrected age (\u00b16 weeks), all surviving participants were invited for an outpatient visit and scheduled for a dual energy X-ray absorptiometry (DXA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "All outcome measures were taken up to term corrected age (TCA). Primary outcome measures were bone mineralization and growth. Bone mineralization was measured by dual energy X-ray absorptiometry (DXA), using a whole-body fan beam scanner (Hologic Discovery 85606, software APEX 3.3, Hologic, Vilvoorde, Belgium). Bone mineral content (BMC), bone mineral density (BMD), lean body mass (LBM) and fat mass were determined. Scans showing movement artifacts were classified as unacceptable. Weight and length were determined from the first week onwards, at least weekly, until discharge. Weight was determined using an electronic scale to the nearest 1 g. Crown-heel length was measured to the nearest 5 mm. For participants who had already been transferred, the anthropometric data at TCA were collected from the local hospitals.",
+        "section": "Outcome Measures",
+        "section_number": 10,
+        "sentences": [
+            "All outcome measures were taken up to term corrected age (TCA).",
+            "Primary outcome measures were bone mineralization and growth.",
+            "Bone mineralization was measured by dual energy X-ray absorptiometry (DXA), using a whole-body fan beam scanner (Hologic Discovery 85606, software APEX 3.3, Hologic, Vilvoorde, Belgium).",
+            "Bone mineral content (BMC), bone mineral density (BMD), lean body mass (LBM) and fat mass were determined.",
+            "Scans showing movement artifacts were classified as unacceptable.",
+            "Weight and length were determined from the first week onwards, at least weekly, until discharge.",
+            "Weight was determined using an electronic scale to the nearest 1 g. Crown-heel length was measured to the nearest 5 mm.",
+            "For participants who had already been transferred, the anthropometric data at TCA were collected from the local hospitals."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Patient characteristics, clinical course, growth and intake of all nutrients were recorded from the patient records and extracted for this study-daily during the first 14 days and weekly until discharge from the department. After discharge, anthropometric data at TCA were collected from local hospitals. The amounts of enteral, parenteral and additional supplementation (parenteral and enteral) of all nutrients were calculated separately for each patient. For this study, the nutritional intake from the first 10 days was calculated, because this period comprised the intervention period with the maximum difference in nutritional intake. The total intakes were calculated per kg per day for each infant. The intake of nutrients with human milk was calculated using the reference from Gidrewicz et al. [19] . Postnatal growth was evaluated using standard deviation scores (SDS) for weight and length, based on the revised reference chart for preterm infants by Fenton and Kim [20] . Infants with a birth weight below the 10th percentile were classified to be small for gestational age (SGA).",
+        "section": "Data Registration and Handling",
+        "section_number": 11,
+        "sentences": [
+            "Patient characteristics, clinical course, growth and intake of all nutrients were recorded from the patient records and extracted for this study-daily during the first 14 days and weekly until discharge from the department.",
+            "After discharge, anthropometric data at TCA were collected from local hospitals.",
+            "The amounts of enteral, parenteral and additional supplementation (parenteral and enteral) of all nutrients were calculated separately for each patient.",
+            "For this study, the nutritional intake from the first 10 days was calculated, because this period comprised the intervention period with the maximum difference in nutritional intake.",
+            "The total intakes were calculated per kg per day for each infant.",
+            "The intake of nutrients with human milk was calculated using the reference from Gidrewicz et al. [19] .",
+            "Postnatal growth was evaluated using standard deviation scores (SDS) for weight and length, based on the revised reference chart for preterm infants by Fenton and Kim [20] .",
+            "Infants with a birth weight below the 10th percentile were classified to be small for gestational age (SGA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The primary objective of the ESS was to examine whether bone mineralization at TCA differed by type of mineral supplementation at term corrected age (TCA). We performed a power calculation before the enrollment of participants started. We anticipated that a higher intake of minerals would result in a BMC that would, on average, be 5 g higher. Lagemaat et al. found a variability in BMC of 12 g at TCA [21] . Based on two-sided testing with \u03b1 = 0.05 and \u03b2 = 0.80, 65 infants per group were required. The statistical analyses were performed using SPSS 22 for Windows (IBM SPSS INC., Chicago, IL, USA). Differences in nutritional characteristics, anthropometric data at TCA and DXA scan measurements were detected using the one-way ANOVA or Kruskal-Wallis test, as appropriate.",
+        "section": "Statistical Analysis",
+        "section_number": 12,
+        "sentences": [
+            "The primary objective of the ESS was to examine whether bone mineralization at TCA differed by type of mineral supplementation at term corrected age (TCA).",
+            "We performed a power calculation before the enrollment of participants started.",
+            "We anticipated that a higher intake of minerals would result in a BMC that would, on average, be 5 g higher.",
+            "Lagemaat et al. found a variability in BMC of 12 g at TCA [21] .",
+            "Based on two-sided testing with \u03b1 = 0.05 and \u03b2 = 0.80, 65 infants per group were required.",
+            "The statistical analyses were performed using SPSS 22 for Windows (IBM SPSS INC.,",
+            "Chicago, IL, USA).",
+            "Differences in nutritional characteristics, anthropometric data at TCA and DXA scan measurements were detected using the one-way ANOVA or Kruskal-Wallis test, as appropriate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The outcomes of interest were two DXA scan measurements, (i.e., BMC and BMD) as well as weight and length. We used Generalized Estimating Equations with an independent correlation structure and robust standard errors to account for the correlation between twins [22] . The stratification factors of birth weight and SGA status as well as gestational age at the time of measurement were included in all analyses. For the primary analysis, separate linear regression models were fitted to examine the association between ESS group and the four outcomes of interest, with Group C being the reference. Continuous predictor variables were centered at their respective means for the analysis. A set of secondary analyses examined the associations between each of the main nutritional variables (i.e., intake of P, Ca, protein per kg per 10 days) and outcomes. An interaction term was included for Ca and P. Finally, the analysis also examined associations between the amount of human milk and the outcomes of interest.",
+        "section": "Statistical Analysis",
+        "section_number": 13,
+        "sentences": [
+            "The outcomes of interest were two DXA scan measurements, (i.e., BMC and BMD) as well as weight and length.",
+            "We used Generalized Estimating Equations with an independent correlation structure and robust standard errors to account for the correlation between twins [22] .",
+            "The stratification factors of birth weight and SGA status as well as gestational age at the time of measurement were included in all analyses.",
+            "For the primary analysis, separate linear regression models were fitted to examine the association between ESS group and the four outcomes of interest, with Group C being the reference.",
+            "Continuous predictor variables were centered at their respective means for the analysis.",
+            "A set of secondary analyses examined the associations between each of the main nutritional variables (i.e., intake of P, Ca, protein per kg per 10 days) and outcomes.",
+            "An interaction term was included for Ca and P. Finally, the analysis also examined associations between the amount of human milk and the outcomes of interest."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Patients were enrolled between January 2013 and December 2014. The ENS trial was closed when the required number of infants was included nationwide, forcing us to stop the ESS before the anticipated number of patients was included. The distribution of patients and the exact numbers of measurements are presented in the consort diagram ( Figure 1 ). A total of 109 infants were randomized to either early supplementation (Group C, n = 37) or to late supplementation and distributed into Groups A (n = 40) and B (n = 32). All surviving infants (Group A, n = 34, Group B, n = 29, Group C, n = 30) were included in the growth analyses, but only subsets of those were included in the DXA analyses, either because of parent refusal to attend the follow-up visit, or disapproval of the DXA scan as a result of unacceptable movement artifacts. The baseline characteristics of all patients included and the morbidities and relevant medications of patients who survived to TCA are shown in Table 1 .",
+        "section": "Patient Characteristics",
+        "section_number": 14,
+        "sentences": [
+            "Patients were enrolled between January 2013 and December 2014.",
+            "The ENS trial was closed when the required number of infants was included nationwide, forcing us to stop the ESS before the anticipated number of patients was included.",
+            "The distribution of patients and the exact numbers of measurements are presented in the consort diagram ( Figure 1 ).",
+            "A total of 109 infants were randomized to either early supplementation (Group C, n = 37) or to late supplementation and distributed into Groups A (n = 40) and B (n = 32).",
+            "All surviving infants (Group A, n = 34, Group B, n = 29, Group C, n = 30) were included in the growth analyses, but only subsets of those were included in the DXA analyses, either because of parent refusal to attend the follow-up visit, or disapproval of the DXA scan as a result of unacceptable movement artifacts.",
+            "The baseline characteristics of all patients included and the morbidities and relevant medications of patients who survived to TCA are shown in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The baseline characteristics, frequencies of morbidities and treatments were comparable between the three groups. Group A: donor milk in addition to mother's own milk (MOM) and no supplements with enteral feeding until day 10; Group B: preterm formula in addition to MOM and no supplements with enteral feeding until day 10; Group C: preterm formula in addition to MOM and fortifier if intake \u226550 mL/day; SD: standard deviation; med: median; IQR: inter quartile range; small for gestational age: below 10th percentile, according to Fenton et al. [20] ; Nasal-CPAP: nasal continuous positive airway pressure; chronic lung disease was defined as oxygen dependency at 36 weeks gestational age; patent ductus arteriosus was classified as need for treatment; sepsis was included if present for >72 h postnatally with positive blood culture; necrotizing enterocolitis was determined with staging, according to Bell [23] ; diuretics included single doses of furosemide and maintenance diuretics; sedation included morphine and/or midazolam >24 h.",
+        "section": "Patient Characteristics",
+        "section_number": 15,
+        "sentences": [
+            "The baseline characteristics, frequencies of morbidities and treatments were comparable between the three groups.",
+            "Group A: donor milk in addition to mother's own milk (MOM) and no supplements with enteral feeding until day 10; Group B: preterm formula in addition to MOM and no supplements with enteral feeding until day 10; Group C: preterm formula in addition to MOM and fortifier if intake \u226550 mL/day; SD: standard deviation; med: median; IQR: inter quartile range; small for gestational age: below 10th percentile, according to Fenton et al. [20] ; Nasal-CPAP: nasal continuous positive airway pressure; chronic lung disease was defined as oxygen dependency at 36 weeks gestational age; patent ductus arteriosus was classified as need for treatment; sepsis was included if present for >72 h postnatally with positive blood culture; necrotizing enterocolitis was determined with staging, according to Bell [23] ; diuretics included single doses of furosemide and maintenance diuretics; sedation included morphine and/or midazolam >24 h."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The nutritional characteristics for the first 10 days are presented in Table 2 . The number of days with parenteral nutrition and the time to achieve full enteral feeding were not different between the three groups. In agreement with the study protocol, Group C started HMF earlier, at a median (IQR) of day 6.0 (4.0-7.0) compared to Group A (day 11.5 (11.0-12.5)) and Group B (day 12.0 (11.0-13.5)) (p-value < 0.001). As a result of the study protocol, Group C received significantly higher mean (SD) intakes of both Ca (Group C: 21.5 (4.8) versus Group A: 15.7 (2.6) and Group B: 17.1 (4.0) mmol/kg per 10 days) and P (Group C: 21.6 (3.7) versus Group A: 16.5 (3.1) and Group B: 16.5 (3.0) mmol/kg per 10 days) during the first 10 days (p-value < 0.001). Furthermore, Group C received significantly higher mean (SD) intakes of protein (Group C: 32.1 (5.5) versus Group A: 26.8 (5.0) and Group B: 27.5 (4.3) g/kg per 10 days; p-value < 0.001) and carbohydrates (Group C: 114.5 versus Group A: 109.1 (10.7) and Group B: 103.6 (11.5) g/kg per 10 days; p-value = 0.02) According to the study protocol, Group A received a significantly higher percentage of human milk during the first 10 days, compared to Group B and Group C (p-value < 0.001), although these groups received predominantly human milk as well. The calorie intake differed only slightly between the groups. Table A2 presents the distribution of the route of supplementation of Ca and P. This table demonstrates that differences in mineral intake between the groups were based on enteral intake. Enteral: represents the day infants reached an enteral intake of either 120 or 150 mL/kg/day; HMF: human milk fortifier; Ca: calcium; P: phosphorus. All intakes are presented as the sum of the first 10 days; SD: standard deviation; med: median; IQR: inter quartile range. Missing data: Group A (n:2); Group B (n:4); Group C (n:4). Table 3 presents the anthropometric data at birth and TCA for all groups, including appropriate (AGA) and small for gestational age (SGA) infants. For both time points, weight and length were similar between the groups. All groups decreased in standard deviation score (SDS) for weight, as well as for length. The decrease in SDS for weight varied between \u22120.41 and \u22120.75, and for length between \u22120.33 and \u22120.69; for both measurements, there were no significant differences. Table 4 presents the data on body composition, as measured by DXA scan. A total of 35 scans were classified as acceptable. Not all infants were able to visit the outpatient clinic on the scheduled day and for logistic reasons, a number of infants were scanned close before discharge from hospital, therefore the gestational age and weight at the time of the scan varied. Nevertheless, the outcomes were similar across the groups for BMC and BMD with a wide interquartile range. Table 5 presents the results of the analyses evaluating the effect of being a member of one of the three supplementation groups, and the amount of human milk provided during the first 10 days, on growth and bone mineralization. Groups A and B were analyzed with Group C as the reference. Birth weight, gestational age at measurement and being small for gestational age were significant determinants for all outcomes and thus were used as covariates in all analyses. There was little evidence of an association between the studied groups and the outcomes of weight, length, BMC and BMD. The amount of human milk was associated with a significant effect on BMC, with each mL/kg increase in human milk over 10 days associated with an average increase of 0.013 g (p-value = 0.017) in BMC. Length and weight were not associated with intake of human milk. Table 7 presents the results of the regression analysis for the effects of Ca, P and protein intake per kilogram during the first 10 days on growth, and bone mineralization at term corrected age, of very preterm born infants. Based on the assumption that these three nutrients have a complex interrelationship in the effect on growth and bone mineralization, we analyzed the association with weight, length, BMC and BMD in three models by introducing step-by-step Ca, P and protein, thereby aiming to provide insight into-for example, how the effect of Ca might be influenced by the levels of P. In this analysis, the nutritional intakes of Ca, P and protein for the first 10 days were not associated with weight at term age. Phosphorus intake was positively associated with length, with a significant in increase of 0.19 cm (p-value = 0.047) length for each mmol/kg received over the first 10 days. This effect remained after inclusion of protein in the model. Calcium intake was associated with a significant negative effect on BMC. Our analysis showed that each mmol/kg of Ca received over the 10 days was associated with a decrease of 1.21 g of BMC (p-value: 0.001). The effect persisted and increased slightly with the introduction of phosphorus and protein in the model. The testing on the interaction of Ca and P over the 10 days intake was negative for all outcomes, except for BMD, which showed a small positive effect (\u03b2 0.0003 ; 95% CI (0.00002; 0.0006); p-value = 0.036). Group A and B were analyzed with Group C as the reference; The constant term in the models represents the expected value for Group C, for infants born appropriate for GA and who received the mean intake of nutrients. HM: human milk (mL/kg per 10 days); BW: birth weight (gram/kg per 10 days); GA at measurement: gestational age at measurement in weeks; Small for gestational age: below 10th percentile according to Fenton et al. [20] ; 95% CI: 95% confidence interval. BMC: bone mineral content (gram); BMD: bone mineral density (gram/cm 2 )-the nutritional variables reflect the intake of the first 10 days; Ca: calcium intake (mmol/kg per 10 days); P: phosphorus intake (mmol/kg per 10 days); protein intake: (gram/kg per 10 days); GA at measurement: gestational age at time of measurement; Small for GA: small for gestational age; all nutritional variables were adjusted for birth weight, GA at measurement and Small for GA. The constant term in the models represents the expected value for Group C, for infants born appropriate for GA, and who received the mean intake of nutrients. Bold p-Values reflect a significant association between one of the investigated nutrients and outcome.",
+        "section": "Nutritional Intake",
+        "section_number": 16,
+        "sentences": [
+            "The nutritional characteristics for the first 10 days are presented in Table 2 .",
+            "The number of days with parenteral nutrition and the time to achieve full enteral feeding were not different between the three groups.",
+            "In agreement with the study protocol, Group C started HMF earlier, at a median (IQR) of day 6.0 (4.0-7.0) compared to Group A (day 11.5 (11.0-12.5)) and Group B (day 12.0 (11.0-13.5)) (p-value < 0.001).",
+            "As a result of the study protocol, Group C received significantly higher mean (SD) intakes of both Ca (Group C: 21.5 (4.8) versus Group A: 15.7 (2.6) and Group B: 17.1 (4.0) mmol/kg per 10 days) and P (Group C: 21.6 (3.7) versus Group A: 16.5 (3.1) and Group B: 16.5 (3.0) mmol/kg per 10 days) during the first 10 days (p-value < 0.001).",
+            "Furthermore, Group C received significantly higher mean (SD) intakes of protein (Group C: 32.1 (5.5) versus Group A: 26.8 (5.0) and Group B: 27.5 (4.3) g/kg per 10 days; p-value < 0.001) and carbohydrates (Group C: 114.5 versus Group A: 109.1 (10.7) and Group B: 103.6 (11.5) g/kg per 10 days; p-value = 0.02) According to the study protocol, Group A received a significantly higher percentage of human milk during the first 10 days, compared to Group B and Group C (p-value < 0.001), although these groups received predominantly human milk as well.",
+            "The calorie intake differed only slightly between the groups.",
+            "Table A2 presents the distribution of the route of supplementation of Ca and P. This table demonstrates that differences in mineral intake between the groups were based on enteral intake.",
+            "Enteral: represents the day infants reached an enteral intake of either 120 or 150 mL/kg/day; HMF: human milk fortifier; Ca: calcium; P: phosphorus.",
+            "All intakes are presented as the sum of the first 10 days; SD: standard deviation; med: median; IQR: inter quartile range.",
+            "Missing data: Group A (n:2); Group B (n:4); Group C (n:4).",
+            "Table 3 presents the anthropometric data at birth and TCA for all groups, including appropriate (AGA) and small for gestational age (SGA) infants.",
+            "For both time points, weight and length were similar between the groups.",
+            "All groups decreased in standard deviation score (SDS) for weight, as well as for length.",
+            "The decrease in SDS for weight varied between \u22120.41 and \u22120.75, and for length between \u22120.33 and \u22120.69; for both measurements, there were no significant differences.",
+            "Table 4 presents the data on body composition, as measured by DXA scan.",
+            "A total of 35 scans were classified as acceptable.",
+            "Not all infants were able to visit the outpatient clinic on the scheduled day and for logistic reasons, a number of infants were scanned close before discharge from hospital, therefore the gestational age and weight at the time of the scan varied.",
+            "Nevertheless, the outcomes were similar across the groups for BMC and BMD with a wide interquartile range.",
+            "Table 5 presents the results of the analyses evaluating the effect of being a member of one of the three supplementation groups, and the amount of human milk provided during the first 10 days, on growth and bone mineralization.",
+            "Groups A and B were analyzed with Group C as the reference.",
+            "Birth weight, gestational age at measurement and being small for gestational age were significant determinants for all outcomes and thus were used as covariates in all analyses.",
+            "There was little evidence of an association between the studied groups and the outcomes of weight, length, BMC and BMD.",
+            "The amount of human milk was associated with a significant effect on BMC, with each mL/kg increase in human milk over 10 days associated with an average increase of 0.013 g (p-value = 0.017) in BMC.",
+            "Length and weight were not associated with intake of human milk.",
+            "Table 7 presents the results of the regression analysis for the effects of Ca, P and protein intake per kilogram during the first 10 days on growth, and bone mineralization at term corrected age, of very preterm born infants.",
+            "Based on the assumption that these three nutrients have a complex interrelationship in the effect on growth and bone mineralization, we analyzed the association with weight, length, BMC and BMD in three models by introducing step-by-step Ca, P and protein, thereby aiming to provide insight into-for example, how the effect of Ca might be influenced by the levels of P. In this analysis, the nutritional intakes of Ca, P and protein for the first 10 days were not associated with weight at term age.",
+            "Phosphorus intake was positively associated with length, with a significant in increase of 0.19 cm (p-value = 0.047) length for each mmol/kg received over the first 10 days.",
+            "This effect remained after inclusion of protein in the model.",
+            "Calcium intake was associated with a significant negative effect on BMC.",
+            "Our analysis showed that each mmol/kg of Ca received over the 10 days was associated with a decrease of 1.21 g of BMC (p-value: 0.001).",
+            "The effect persisted and increased slightly with the introduction of phosphorus and protein in the model.",
+            "The testing on the interaction of Ca and P over the 10 days intake was negative for all outcomes, except for BMD, which showed a small positive effect (\u03b2 0.0003 ; 95% CI (0.00002; 0.0006); p-value = 0.036).",
+            "Group A and B were analyzed with Group C as the reference; The constant term in the models represents the expected value for Group C, for infants born appropriate for GA and who received the mean intake of nutrients.",
+            "HM: human milk (mL/kg per 10 days); BW: birth weight (gram/kg per 10 days); GA at measurement: gestational age at measurement in weeks; Small for gestational age: below 10th percentile according to Fenton et al. [20] ; 95% CI: 95% confidence interval.",
+            "BMC: bone mineral content (gram); BMD: bone mineral density (gram/cm 2 )-the nutritional variables reflect the intake of the first 10 days; Ca: calcium intake (mmol/kg per 10 days); P: phosphorus intake (mmol/kg per 10 days); protein intake: (gram/kg per 10 days); GA at measurement: gestational age at time of measurement; Small for GA: small for gestational age; all nutritional variables were adjusted for birth weight, GA at measurement and Small for GA.",
+            "The constant term in the models represents the expected value for Group C, for infants born appropriate for GA, and who received the mean intake of nutrients.",
+            "Bold p-Values reflect a significant association between one of the investigated nutrients and outcome."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "This randomized cohort study evaluated the effect of different amounts of Ca and P intakes, during the first 10 days of life, on growth and bone mineralization of very preterm infants. The early stopping of patient inclusions led to lower numbers than the originally anticipated 65 infants per group. Thus, the study may be underpowered to answer the research questions. This study found no differences in weight, length, bone mineral content (BMC) and bone mineral density (BMD) between three different intake groups of very and extremely preterm infants at term corrected age. The regression analysis further showed that group assignment was not associated with the studied outcome measures; however, we found significantly positive associations between P intake and length, as well as the amount of human milk intake and BMC. In contrast, Ca intake was associated with a decrease in BMC, which further decreased after the addition of P and protein in the analysis.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "This randomized cohort study evaluated the effect of different amounts of Ca and P intakes, during the first 10 days of life, on growth and bone mineralization of very preterm infants.",
+            "The early stopping of patient inclusions led to lower numbers than the originally anticipated 65 infants per group.",
+            "Thus, the study may be underpowered to answer the research questions.",
+            "This study found no differences in weight, length, bone mineral content (BMC) and bone mineral density (BMD) between three different intake groups of very and extremely preterm infants at term corrected age.",
+            "The regression analysis further showed that group assignment was not associated with the studied outcome measures; however, we found significantly positive associations between P intake and length, as well as the amount of human milk intake and BMC.",
+            "In contrast, Ca intake was associated with a decrease in BMC, which further decreased after the addition of P and protein in the analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Bone mineralization, at term corrected age, in relation to enteral nutrition of preterm infants has been evaluated in only a few studies during the last three decades. Studies often had an observational design and evaluated more stable infants at a higher gestational age than nowadays treated [1, 2, 4, [24] [25] [26] [27] [28] [29] [30] [31] . Eleven studies investigated the effect of either human milk, fortified human milk or various compositions of preterm formulas in randomized studies, leading to varying results [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] . Only two studies found an increase in BMC, according to gestational age changes, in combination with high amounts of minerals in preterm formula, while others found the highest weight gain and BMC specifically with preterm formula [2, 32, 34, 35, 37, 42, 43] . Since timing, amount of fortification or composition of formulas differed in all studies as well as the method and timing of scanning (single photon absorptiometry versus dual X-ray absorptiometry), it is difficult to compare these results to our findings. The largest double-blinded randomized study, performed by Faerk et al., did not find an effect of human milk fortification or preterm formula on BMC, compared to unfortified human milk [39] . However, infants fed preterm formula had significantly higher weights at TCA and the amount of supplemented phosphorus was significantly associated with weight at TCA. [39] All infants achieved a BMC below that of healthy term born infants [31, 39] . This negative result may be explained by a relatively late timing of fortification, at a mean age of 15 days, and a low amount of fortification of human milk, which was below the ESPGHAN (European Society for Peadiatric Gastroenterology Hepatology and Nutrition) recommendation for enteral intakes of Ca and P [44] . In comparison, we could not demonstrate an association between P, Ca and protein intakes and weight in this study; nevertheless, we found that P and the amount of human milk were positively associated with study outcomes. The differences in outcomes could be explained with the fact that our infants received amounts of minerals within the ESPGHAN recommendations.",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "Bone mineralization, at term corrected age, in relation to enteral nutrition of preterm infants has been evaluated in only a few studies during the last three decades.",
+            "Studies often had an observational design and evaluated more stable infants at a higher gestational age than nowadays treated [1, 2, 4, [24] [25] [26] [27] [28] [29] [30] [31] .",
+            "Eleven studies investigated the effect of either human milk, fortified human milk or various compositions of preterm formulas in randomized studies, leading to varying results [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] .",
+            "Only two studies found an increase in BMC, according to gestational age changes, in combination with high amounts of minerals in preterm formula, while others found the highest weight gain and BMC specifically with preterm formula [2, 32, 34, 35, 37, 42, 43] .",
+            "Since timing, amount of fortification or composition of formulas differed in all studies as well as the method and timing of scanning (single photon absorptiometry versus dual X-ray absorptiometry), it is difficult to compare these results to our findings.",
+            "The largest double-blinded randomized study, performed by Faerk et al., did not find an effect of human milk fortification or preterm formula on BMC, compared to unfortified human milk [39] .",
+            "However, infants fed preterm formula had significantly higher weights at TCA and the amount of supplemented phosphorus was significantly associated with weight at TCA. [",
+            "39] All infants achieved a BMC below that of healthy term born infants [31, 39] .",
+            "This negative result may be explained by a relatively late timing of fortification, at a mean age of 15 days, and a low amount of fortification of human milk, which was below the ESPGHAN (European Society for Peadiatric Gastroenterology Hepatology and Nutrition) recommendation for enteral intakes of Ca and P [44] .",
+            "In comparison, we could not demonstrate an association between P, Ca and protein intakes and weight in this study; nevertheless, we found that P and the amount of human milk were positively associated with study outcomes.",
+            "The differences in outcomes could be explained with the fact that our infants received amounts of minerals within the ESPGHAN recommendations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "According to the nutritional protocol of our hospital, the full recommended intake (including parenteral and enteral intakes) was provided, as soon as possible after birth, aiming at a postnatal growth and bone mineralization comparable to development in utero and to limit a postnatal nutritional deficit, as described in several studies [45] [46] [47] . This included parenteral mineral supplementation directly after birth, early fortification of human milk and additional supplementation of minerals, based on biochemical parameters. Group C, following the institutional protocol, received a significant higher amount of Ca and P during the first 10 days, compared to Groups A and B, who received no enteral fortifications until day 10. The highest weight gain and bone mineralization could be expected in group C. However, the outcomes of group C compared to Groups A and B were not different, and the total group in comparison to the reference population was still growth retarded. Probably, this may be explained by the short intervention period, with only a few days of significantly different enteral intake. Further, this study included relatively more immature and sicker infants, compared to infants in the previously mentioned trials, probably indicating even higher requirements of minerals for very and extremely preterm infants than currently recommended.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "According to the nutritional protocol of our hospital, the full recommended intake (including parenteral and enteral intakes) was provided, as soon as possible after birth, aiming at a postnatal growth and bone mineralization comparable to development in utero and to limit a postnatal nutritional deficit, as described in several studies [45] [46] [47] .",
+            "This included parenteral mineral supplementation directly after birth, early fortification of human milk and additional supplementation of minerals, based on biochemical parameters.",
+            "Group C, following the institutional protocol, received a significant higher amount of Ca and P during the first 10 days, compared to Groups A and B, who received no enteral fortifications until day 10.",
+            "The highest weight gain and bone mineralization could be expected in group C. However, the outcomes of group C compared to Groups A and B were not different, and the total group in comparison to the reference population was still growth retarded.",
+            "Probably, this may be explained by the short intervention period, with only a few days of significantly different enteral intake.",
+            "Further, this study included relatively more immature and sicker infants, compared to infants in the previously mentioned trials, probably indicating even higher requirements of minerals for very and extremely preterm infants than currently recommended."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The effect of Ca and P intakes on outcomes seemed contradictory. Calcium intake was associated with a significant negative effect on BMC and non-significant negative effects on all other outcomes, while phosphorus intake had a significant positive effect on length, and a non-significant positive effect on BMC. In general, the effect sizes were small, and BMD was the only outcome that indicated a positive interaction between Ca and P. Again, any interpretation should be performed with caution, since the results may be distorted by the small number of patients investigated with DXA scans. However, an explanation for this phenomenon may be that both minerals are closely related in the formation of bone and shortage of one item may influence the effect of the other mineral. Based on our previous study, we have strong indications that the supply of at least phosphorus was insufficient. For the same cohort of infants evaluated in this study, we reported changes in biochemical parameters for calcium and phosphorus homeostasis, in relation to nutritional intake [18] . Despite a high intake of P, serum P concentrations remained low in all three groups. It was demonstrated that serum P concentrations were significantly associated with amino acid intake, indicating that phosphorus was preferably used for cell metabolism instead of bone mineralization. Hypophosphatemia, in relation to high amino acid intake, has previously been reported in preterm infants and currently is recognized as 'Placental Incompletely Restored Feeding (PI-Refeeding) syndrome', caused by an imbalanced nutritional intake of amino acids and phosphorus [18, 48, 49] . Furthermore, we demonstrated that low gestational age was associated with higher renal excretion of phosphorus, irrespective of nutritional intake. Thus, considering the results of both studies, we speculate that, despite a high intake of minerals in Group C, a high cell metabolism and renal phosphorus wasting prevented adequate availability of phosphorus for adequate bone mineralization and consecutively prevented adequate use of calcium for bone mineralization. Again, this indicated that mineral requirements, to achieve bone mineralization equivalent to term born infants, for the most immature infants, may be higher than currently recommended [13, 31] .",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "The effect of Ca and P intakes on outcomes seemed contradictory.",
+            "Calcium intake was associated with a significant negative effect on BMC and non-significant negative effects on all other outcomes, while phosphorus intake had a significant positive effect on length, and a non-significant positive effect on BMC.",
+            "In general, the effect sizes were small, and BMD was the only outcome that indicated a positive interaction between Ca and P. Again, any interpretation should be performed with caution, since the results may be distorted by the small number of patients investigated with DXA scans.",
+            "However, an explanation for this phenomenon may be that both minerals are closely related in the formation of bone and shortage of one item may influence the effect of the other mineral.",
+            "Based on our previous study, we have strong indications that the supply of at least phosphorus was insufficient.",
+            "For the same cohort of infants evaluated in this study, we reported changes in biochemical parameters for calcium and phosphorus homeostasis, in relation to nutritional intake [18] .",
+            "Despite a high intake of P, serum P concentrations remained low in all three groups.",
+            "It was demonstrated that serum P concentrations were significantly associated with amino acid intake, indicating that phosphorus was preferably used for cell metabolism instead of bone mineralization.",
+            "Hypophosphatemia, in relation to high amino acid intake, has previously been reported in preterm infants and currently is recognized as 'Placental Incompletely Restored Feeding (PI-Refeeding) syndrome', caused by an imbalanced nutritional intake of amino acids and phosphorus [18, 48, 49] .",
+            "Furthermore, we demonstrated that low gestational age was associated with higher renal excretion of phosphorus, irrespective of nutritional intake.",
+            "Thus, considering the results of both studies, we speculate that, despite a high intake of minerals in Group C, a high cell metabolism and renal phosphorus wasting prevented adequate availability of phosphorus for adequate bone mineralization and consecutively prevented adequate use of calcium for bone mineralization.",
+            "Again, this indicated that mineral requirements, to achieve bone mineralization equivalent to term born infants, for the most immature infants, may be higher than currently recommended [13, 31] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "The method of administration of minerals may have affected the outcomes between groups as well as the results of the regression analysis. As demonstrated in Table A2 , the groups differed significantly in the amount of enteral supplementation of minerals, but all groups received more than 50% of the total intake as parenteral supplement. Parenteral nutrients are directly available for metabolism, while supply by the enteral route is also determined by the amount of intestinal absorption [10, 50] . The parenteral supplement in our study may have compensated for the low enteral intakes in Groups A and B and may have ameliorated differences in outcomes and the analyses regarding the effects of nutritional intake. In comparison, the study of Faerk et al. did not provide any information on parenteral supplements, although the intervention period (start of supplementation) only started at a mean of 15 \u00b1 7 days [39] . Nowadays, the clinical practice for nutritional support of preterm infants is to provide full parenteral nutrition, including mineral supplementation, shortly after birth. Therefore, the provision of parenteral nutrition in the study of Faerk cannot be excluded and one may speculate that the comparatively positive outcomes of infants who received unfortified human milk in this study could partly be explained by parenteral supplementation of nutrients.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "The method of administration of minerals may have affected the outcomes between groups as well as the results of the regression analysis.",
+            "As demonstrated in Table A2 , the groups differed significantly in the amount of enteral supplementation of minerals, but all groups received more than 50% of the total intake as parenteral supplement.",
+            "Parenteral nutrients are directly available for metabolism, while supply by the enteral route is also determined by the amount of intestinal absorption [10, 50] .",
+            "The parenteral supplement in our study may have compensated for the low enteral intakes in Groups A and B and may have ameliorated differences in outcomes and the analyses regarding the effects of nutritional intake.",
+            "In comparison, the study of Faerk et al. did not provide any information on parenteral supplements, although the intervention period (start of supplementation) only started at a mean of 15 \u00b1 7 days [39] .",
+            "Nowadays, the clinical practice for nutritional support of preterm infants is to provide full parenteral nutrition, including mineral supplementation, shortly after birth.",
+            "Therefore, the provision of parenteral nutrition in the study of Faerk cannot be excluded and one may speculate that the comparatively positive outcomes of infants who received unfortified human milk in this study could partly be explained by parenteral supplementation of nutrients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Independent of group assignment, the percentage of MOM was very high in this study. In the studies mentioned previously, which found an improvement in bone mineralization, this was overall related to the use of preterm formula with a high amount of minerals. We did not include a group with exclusively preterm formula, because our general practice is to provide preferably the mother's own milk. On the other hand, a positive effect of human milk on bone development has previously been reported [51, 52] . The positive effect of the amount of human milk on BMC in this study supports our assumption that even for very and extreme preterm infants, it should be possible to achieve adequate bone mineralization at term corrected age, in combination with human milk. Furthermore, this study confirmed earlier findings, that early fortification was well-tolerated [53] . However, this study also demonstrated, that current concepts of mineral supplementation and fortification of human milk are insufficient and need to be further evaluated, while recommendations probably need to be adapted.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Independent of group assignment, the percentage of MOM was very high in this study.",
+            "In the studies mentioned previously, which found an improvement in bone mineralization, this was overall related to the use of preterm formula with a high amount of minerals.",
+            "We did not include a group with exclusively preterm formula, because our general practice is to provide preferably the mother's own milk.",
+            "On the other hand, a positive effect of human milk on bone development has previously been reported [51, 52] .",
+            "The positive effect of the amount of human milk on BMC in this study supports our assumption that even for very and extreme preterm infants, it should be possible to achieve adequate bone mineralization at term corrected age, in combination with human milk.",
+            "Furthermore, this study confirmed earlier findings, that early fortification was well-tolerated [53] .",
+            "However, this study also demonstrated, that current concepts of mineral supplementation and fortification of human milk are insufficient and need to be further evaluated, while recommendations probably need to be adapted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "This study had several limitations. Firstly, this study did not evaluate the maternal vitamin D status, nor were vitamin D concentrations determined in the participating infants. Epidemiological studies have shown a high prevalence of suboptimal vitamin D concentrations in pregnant and lactating women, even in countries where adequate exposure to sunlight and sufficient dietary intakes may be expected [54, 55] . The foetus relies on maternal vitamin D stores, and thus postnatal vitamin D insufficiency may have impaired intestinal calcium absorption directly after birth. However, parenteral vitamin D supplementation was started directly after birth in all infants and enteral supplementation within the first week of life, following the recommendations for very low birth weight infants of the ESPGHAN 2010 [13] . Recently, it was demonstrated that doses of vitamin D, as provided in this study, led to sufficient vitamin D concentrations in very low birth weight infants, in the postnatal period, at 4 weeks of age [56] . The small differences in start day of enteral vitamin D supplementation between Groups A/B and C cannot explain the differences found between the groups. Furthermore, all infants received the same amount of parenteral intake, with relatively high amounts of minerals. Based on blood and urine analyses, it was permitted to provide extra parenteral mineral supplementation during the intervention period. The protocol for parenteral nutrition has been the standard of care at our department for many years and we felt it would be unethical to withhold the standard of care to high risk patients. There was room for a more individualized treatment in relation to enteral supplementation. This possibly has ameliorated the differences between the three groups and subsequently decreased the size of any effect of enteral supplementation. On the other hand, the study protocol reflected current generally accepted clinical practice, with a combined parenteral and enteral nutritional intake. We would like to note that none of our patients developed signs of rickets or fractures and that at follow up, around term age, our patients had achieved a median BMC comparable to 38-39 weeks gestation, according to Lapillone et al. [31] . Up to this date, most studies have been limited to the evaluation of enteral intake. We suggest that further improvements in the combined nutritional supply of parenteral and enteral intake in the early postnatal period are possible and that future trials should include both routes of administration, starting directly after birth. A limitation of our study was the fact that we were unable to include the intended number of patients. This may, on the one hand, have led to overestimation of observed effects; on the other hand, there is a chance of having missed certain effects. It should be noted that we only included three nutrients for the regression analysis, while enteral nutrition, especially human milk, is a complex emulsion and the composition and interactions between various factors that may have impacted on the digestion and absorption of nutrients were not included in the analysis and thus may have been missed.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "This study had several limitations.",
+            "Firstly, this study did not evaluate the maternal vitamin D status, nor were vitamin D concentrations determined in the participating infants.",
+            "Epidemiological studies have shown a high prevalence of suboptimal vitamin D concentrations in pregnant and lactating women, even in countries where adequate exposure to sunlight and sufficient dietary intakes may be expected [54, 55] .",
+            "The foetus relies on maternal vitamin D stores, and thus postnatal vitamin D insufficiency may have impaired intestinal calcium absorption directly after birth.",
+            "However, parenteral vitamin D supplementation was started directly after birth in all infants and enteral supplementation within the first week of life, following the recommendations for very low birth weight infants of the ESPGHAN 2010 [13] .",
+            "Recently, it was demonstrated that doses of vitamin D, as provided in this study, led to sufficient vitamin D concentrations in very low birth weight infants, in the postnatal period, at 4 weeks of age [56] .",
+            "The small differences in start day of enteral vitamin D supplementation between Groups A/B and C cannot explain the differences found between the groups.",
+            "Furthermore, all infants received the same amount of parenteral intake, with relatively high amounts of minerals.",
+            "Based on blood and urine analyses, it was permitted to provide extra parenteral mineral supplementation during the intervention period.",
+            "The protocol for parenteral nutrition has been the standard of care at our department for many years and we felt it would be unethical to withhold the standard of care to high risk patients.",
+            "There was room for a more individualized treatment in relation to enteral supplementation.",
+            "This possibly has ameliorated the differences between the three groups and subsequently decreased the size of any effect of enteral supplementation.",
+            "On the other hand, the study protocol reflected current generally accepted clinical practice, with a combined parenteral and enteral nutritional intake.",
+            "We would like to note that none of our patients developed signs of rickets or fractures and that at follow up, around term age, our patients had achieved a median BMC comparable to 38-39 weeks gestation, according to Lapillone et al. [31] .",
+            "Up to this date, most studies have been limited to the evaluation of enteral intake.",
+            "We suggest that further improvements in the combined nutritional supply of parenteral and enteral intake in the early postnatal period are possible and that future trials should include both routes of administration, starting directly after birth.",
+            "A limitation of our study was the fact that we were unable to include the intended number of patients.",
+            "This may, on the one hand, have led to overestimation of observed effects; on the other hand, there is a chance of having missed certain effects.",
+            "It should be noted that we only included three nutrients for the regression analysis, while enteral nutrition, especially human milk, is a complex emulsion and the composition and interactions between various factors that may have impacted on the digestion and absorption of nutrients were not included in the analysis and thus may have been missed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "Despite these limitations, we decided to present our data because there are limited studies available investigating bone mineralization in preterm infants at term age, specifically for the group of very and extremely low gestational age. The specific nutritional needs of this high-risk group need further evaluation. Often studies remain of a small size because it is difficult to include sufficient patients within a reasonable timeframe. The strength of this study is the randomized design and that reporting of data occurred accordingly to the recently proposed standardization of nutrition and growth outcomes [57] . This offers the opportunity to combine our data with studies of a comparable setting, which may add to the significance of the overall results.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Despite these limitations, we decided to present our data because there are limited studies available investigating bone mineralization in preterm infants at term age, specifically for the group of very and extremely low gestational age.",
+            "The specific nutritional needs of this high-risk group need further evaluation.",
+            "Often studies remain of a small size because it is difficult to include sufficient patients within a reasonable timeframe.",
+            "The strength of this study is the randomized design and that reporting of data occurred accordingly to the recently proposed standardization of nutrition and growth outcomes [57] .",
+            "This offers the opportunity to combine our data with studies of a comparable setting, which may add to the significance of the overall results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40972",
+        "text": "On the basis of this study, there is no evidence that early high mineral intake through early fortification of human milk further improves bone mineralization in combination with high parenteral mineral intake. Mineral intake, according to current recommendations for preterm infants, seems to provide an insufficient amount of minerals to achieve bone mineral content, comparable to term born newborns. The positive effect of human milk on bone mineral content needs to be further evaluated. ",
+        "section": "Conclusions",
+        "section_number": 25,
+        "sentences": [
+            "On the basis of this study, there is no evidence that early high mineral intake through early fortification of human milk further improves bone mineralization in combination with high parenteral mineral intake.",
+            "Mineral intake, according to current recommendations for preterm infants, seems to provide an insufficient amount of minerals to achieve bone mineral content, comparable to term born newborns.",
+            "The positive effect of human milk on bone mineral content needs to be further evaluated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

@@ -1,0 +1,860 @@
+[
+    {
+        "doc_id": "37077",
+        "text": "A high \u03c96/\u03c93 ratio [fatty acid (FA) index] in the cell membrane has been associated with inadequate brain development. It has started to be used as a biomarker of treatment efficacy in human diseases. The aim of this study was to investigate if omega-3 supplementation improves erythrocyte membrane \u03c96/\u03c93, plasma antioxidant status (TAS) and autistic behaviors. A randomized, crossover, placebo-controlled study was designed to investigate the effect of 8 weeks of supplementation with \u03c93 (962 mg/d and 1155 mg/d for children and adolescents, respectively). Sixty-eight children and adolescents with Autism Spectrum Disorders (ASD) completed the full protocol. Primary outcome measures were erythrocyte membrane FA composition and TAS. Secondary outcome measures were Social Responsiveness Scale and Clinical Global Impression-Severity. Treatment with \u03c93 improved the erythrocyte membrane \u03c96/\u03c93 ratio (treatment effect po0.008, d =0.66; within subjects effect po0.007, d =0.5) without changing TAS. There was a within subjects significant improvement in Social Motivation",
+        "section": "Abstract",
+        "sentences": [
+            "A high \u03c96/\u03c93 ratio [fatty acid (FA) index] in the cell membrane has been associated with inadequate brain development.",
+            "It has started to be used as a biomarker of treatment efficacy in human diseases.",
+            "The aim of this study was to investigate if omega-3 supplementation improves erythrocyte membrane \u03c96/\u03c93, plasma antioxidant status (TAS) and autistic behaviors.",
+            "A randomized, crossover, placebo-controlled study was designed to investigate the effect of 8 weeks of supplementation with \u03c93 (962 mg/d and 1155 mg/d for children and adolescents, respectively).",
+            "Sixty-eight children and adolescents with Autism Spectrum Disorders (ASD) completed the full protocol.",
+            "Primary outcome measures were erythrocyte membrane FA composition and TAS.",
+            "Secondary outcome measures were Social Responsiveness Scale and Clinical Global Impression-Severity.",
+            "Treatment with \u03c93 improved the erythrocyte membrane \u03c96/\u03c93 ratio (treatment effect po0.008, d =0.66; within subjects effect po0.007, d =0.5) without changing TAS.",
+            "There was a within subjects significant improvement in Social Motivation"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Autism Spectrum Disorders (ASD) are characterized by abnormal early social and communication development and by restricted or idiosyncratic patterns of behavior, interests, or particular sensory characteristics and/or sensitivities (Baker, 2013; Volkmar et al., 2014) . Pharmacological treatments for these conditions are very limited and almost exclusively target associated symptoms and not the core symptoms of autism. There has been practically no search for biomarkers that may assist with tracking biological changes in clinical trials in ASD (Persico et al., 2015) , as is also the case with other psychiatric or developmental disorders.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Autism Spectrum Disorders (ASD) are characterized by abnormal early social and communication development and by restricted or idiosyncratic patterns of behavior, interests, or particular sensory characteristics and/or sensitivities (Baker, 2013; Volkmar et al., 2014) .",
+            "Pharmacological treatments for these conditions are very limited and almost exclusively target associated symptoms and not the core symptoms of autism.",
+            "There has been practically no search for biomarkers that may assist with tracking biological changes in clinical trials in ASD (Persico et al., 2015) , as is also the case with other psychiatric or developmental disorders."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The omega-3 index (i.e. the proportion of omega-3 fatty acids in relation to total fatty acids in the erythrocyte membrane) might be a potential biomarker for ASD. The neuronal membrane structure is rich in phospholipids, which have high quantities of polyunsaturated fatty acids (PUFAs). Adequate \u03c93/\u03c96 balance seems necessary to proper brain development (Luchtman and Song, 2013; Makrides et al., 2010; Simopoulos, 2011) . In particular, the ratio of PUFAs to monounsaturated acids seems directly related to membrane fluidity and functional properties (Haag, 2003) . Moreover, there is some (though not strong) clinical evidence of lower levels of erythrocyte membrane omega-3 PUFAS in children with ASD compared with healthy controls (Parletta et al., 2016) and robust preclinical evidence of the deleterious effect of omega-3 deficiency during development on a wide range of developmental and behavioral measures (Moriguchi et al., 2000; Salem et al., 2001) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The omega-3 index (i.e. the proportion of omega-3 fatty acids in relation to total fatty acids in the erythrocyte membrane) might be a potential biomarker for ASD.",
+            "The neuronal membrane structure is rich in phospholipids, which have high quantities of polyunsaturated fatty acids (PUFAs).",
+            "Adequate \u03c93/\u03c96 balance seems necessary to proper brain development (Luchtman and Song, 2013; Makrides et al., 2010; Simopoulos, 2011) .",
+            "In particular, the ratio of PUFAs to monounsaturated acids seems directly related to membrane fluidity and functional properties (Haag, 2003) .",
+            "Moreover, there is some (though not strong) clinical evidence of lower levels of erythrocyte membrane omega-3 PUFAS in children with ASD compared with healthy controls (Parletta et al., 2016) and robust preclinical evidence of the deleterious effect of omega-3 deficiency during development on a wide range of developmental and behavioral measures (Moriguchi et al., 2000; Salem et al., 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Some PUFAs are synthesized in the body in quantities that are insufficient for normal physiological function (they are therefore considered conditional essential fatty acids) and are particularly vulnerable to oxidative stress (McCord, 2000) . Conditional essential \u03c93 PUFAs include eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), which are key components of the neuronal membrane. Arachidonic acid (AA) and other conditional essential \u03c96-PUFAs are particularly involved in cell signaling, inflammatory, and hormonal pathways (Darios and Davletov, 2006; Serhan, 2014) . In addition, several sources of evidence show that \u03c93-PUFAs exert neuroprotective, anti-inflammatory and anti-oxidant effects. An antioxidant effect of \u03c93-PUFAs has been observed for example in human fibroblasts (Arab et al., 2006) or human aortic cells (Richard et al., 2008) . Animal experiments do also support the antioxidant effect of \u03c93-PUFAs. Rats with a diet deficient in \u03c93-PUFAs have been shown to have indicators of mitochondrial dysfunction and increased oxidative stress enzymes (Ferreira et al., 2015) . In addition, our group and others have shown decreased antioxidant status or increased oxidative stress in samples of children and/or adolescents with autism (James et al., 2004; Parellada et al., 2012) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Some PUFAs are synthesized in the body in quantities that are insufficient for normal physiological function (they are therefore considered conditional essential fatty acids) and are particularly vulnerable to oxidative stress (McCord, 2000) .",
+            "Conditional essential \u03c93 PUFAs include eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), which are key components of the neuronal membrane.",
+            "Arachidonic acid (AA) and other conditional essential \u03c96-PUFAs are particularly involved in cell signaling, inflammatory, and hormonal pathways (Darios and Davletov, 2006; Serhan, 2014) .",
+            "In addition, several sources of evidence show that \u03c93-PUFAs exert neuroprotective, anti-inflammatory and anti-oxidant effects.",
+            "An antioxidant effect of \u03c93-PUFAs has been observed for example in human fibroblasts (Arab et al., 2006) or human aortic cells (Richard et al., 2008) .",
+            "Animal experiments do also support the antioxidant effect of \u03c93-PUFAs.",
+            "Rats with a diet deficient in \u03c93-PUFAs have been shown to have indicators of mitochondrial dysfunction and increased oxidative stress enzymes (Ferreira et al., 2015) .",
+            "In addition, our group and others have shown decreased antioxidant status or increased oxidative stress in samples of children and/or adolescents with autism (James et al., 2004; Parellada et al., 2012) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Modern Western diets comprise large quantities of \u03c96containing foods and smaller amounts of \u03c93-rich foods (van Elst et al., 2014) . It seems that cell membrane fatty acid composition reflects dietary intake (Marteinsdottir et al., 1998; Sands et al., 2005 ) and a recent randomized controlled trial has established the doses of EPA + DHA supplementation expected to increase the \u03c93/\u03c96 ratio in the erythrocyte membrane to a healthy level in a normal population (Flock et al., 2013) . This makes it easier to design and interpret studies that test the involvement of omega-3 fatty acid membrane composition in different diseases.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Modern Western diets comprise large quantities of \u03c96containing foods and smaller amounts of \u03c93-rich foods (van Elst et al., 2014) .",
+            "It seems that cell membrane fatty acid composition reflects dietary intake (Marteinsdottir et al., 1998; Sands et al., 2005 ) and a recent randomized controlled trial has established the doses of EPA + DHA supplementation expected to increase the \u03c93/\u03c96 ratio in the erythrocyte membrane to a healthy level in a normal population (Flock et al., 2013) .",
+            "This makes it easier to design and interpret studies that test the involvement of omega-3 fatty acid membrane composition in different diseases."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Several clinical trials have been conducted assessing the effect of \u03c93 in the treatment of different psychiatric disorders and at different stages. In ASD, four controlled clinical trials (two of them pilot studies) have looked at behavioral changes after treatment with \u03c93 and have shown a non-statistical improvement in hyperactivity/stereotypy and irritability (Amminger et al., 2007; Bent et al., 2011 Bent et al., , 2014 Mankad et al., 2015) .",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Several clinical trials have been conducted assessing the effect of \u03c93 in the treatment of different psychiatric disorders and at different stages.",
+            "In ASD, four controlled clinical trials (two of them pilot studies) have looked at behavioral changes after treatment with \u03c93 and have shown a non-statistical improvement in hyperactivity/stereotypy and irritability (Amminger et al., 2007; Bent et al., 2011 Bent et al., , 2014 Mankad et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Building on previous knowledge, we hypothesized that \u03c93 fatty acid supplementation in children and adolescents would improve the \u03c93/ \u03c96 ratio in the erythrocyte membrane. In addition, we aimed at exploring if PUFA supplementation improved antioxidant status in the sample and if that same supplementation would improve behavioural or autistic symptoms.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "Building on previous knowledge, we hypothesized that \u03c93 fatty acid supplementation in children and adolescents would improve the \u03c93/ \u03c96 ratio in the erythrocyte membrane.",
+            "In addition, we aimed at exploring if PUFA supplementation improved antioxidant status in the sample and if that same supplementation would improve behavioural or autistic symptoms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Patients were recruited in the Child and Adolescent Psychiatry Departments of 3 centers in Spain: the Specialty Care Program for subjects with ASD (Parellada et al., 2013) of Gregorio Mara\u00f1\u00f3n University Hospital in Madrid and the Child and Adolescent Psychiatry Departments of Ni\u00f1o Jes\u00fas Hospital in Madrid, and Clinic Hospital in Barcelona, between April 2009 and June 2013. Patients were eligible and thus invited to participate in the study if they fulfilled all of the following inclusion criteria and none of the exclusion criteria. Inclusion criteria: DSM-IV-TR diagnosis of Pervasive Developmental Disorder; 5-17 years of age. Exclusion criteria: recent treatment with \u03c93 or nutritional supplements; treatment with antipsychotics (previous month); changes in any psychopharmacologic treatment; liver disease; clotting problems/ anticoagulant treatment. Concomitant medication: Psychoactive medications other than antipsychotics were permitted at stable doses.",
+        "section": "Subjects",
+        "section_number": 7,
+        "sentences": [
+            "Patients were recruited in the Child and Adolescent Psychiatry Departments of 3 centers in Spain: the Specialty Care Program for subjects with ASD (Parellada et al., 2013) of Gregorio Mara\u00f1\u00f3n University Hospital in Madrid and the Child and Adolescent Psychiatry Departments of Ni\u00f1o Jes\u00fas Hospital in Madrid, and Clinic Hospital in Barcelona, between April 2009 and June 2013.",
+            "Patients were eligible and thus invited to participate in the study if they fulfilled all of the following inclusion criteria and none of the exclusion criteria.",
+            "Inclusion criteria: DSM-IV-TR diagnosis of Pervasive Developmental Disorder; 5-17 years of age.",
+            "Exclusion criteria: recent treatment with \u03c93 or nutritional supplements; treatment with antipsychotics (previous month); changes in any psychopharmacologic treatment; liver disease; clotting problems/ anticoagulant treatment.",
+            "Concomitant medication: Psychoactive medications other than antipsychotics were permitted at stable doses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Diagnosis was made by child psychiatrists using a best-estimate diagnostic approach that utilized information from medical, psychiatric, and developmental interviews with the parents, review of medical and educational reports, and direct clinical evaluation of the child (Volkmar et al., 2014) . The Autism Diagnostic Observation Schedule (ADOS-R) (Lord et al., 2000) was administered by clinicians with ADOS Research-Training reliability, when necessary. Clinical severity was measured with the Krug\u00b4s Autism Behavior Checklist (ABC) (Krug et al., 1980) and the Clinical Global Impression-Severity (CGI-S) (Guy, 1976) , and change in symptomatology was assessed with the Social Responsiveness Scale (SRS) (Constantino, 2005) and CGI-S.",
+        "section": "Subjects",
+        "section_number": 8,
+        "sentences": [
+            "Diagnosis was made by child psychiatrists using a best-estimate diagnostic approach that utilized information from medical, psychiatric, and developmental interviews with the parents, review of medical and educational reports, and direct clinical evaluation of the child (Volkmar et al., 2014) .",
+            "The Autism Diagnostic Observation Schedule (ADOS-R) (Lord et al., 2000) was administered by clinicians with ADOS Research-Training reliability, when necessary.",
+            "Clinical severity was measured with the Krug\u00b4s Autism Behavior Checklist (ABC) (Krug et al., 1980) and the Clinical Global Impression-Severity (CGI-S) (Guy, 1976) , and change in symptomatology was assessed with the Social Responsiveness Scale (SRS) (Constantino, 2005) and CGI-S."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "This is a multicentre, randomized, double-blind, placebo-controlled, crossover trial of \u03c93 in children and adolescents with ASD, registered in the European Clinical Trials Database (EudraCT) under number 2007-006444-21. Stratified randomization was conducted with blocks of 4 subjects within each strata. Stratification took into account site and age (with 2 options, less than 12 years of age and 12 and above). Participants were randomized to receive treatment with \u03c93 PUFAs (experimental treatment) or paraffin oil (placebo) for 8 weeks (phase I). After a 2-week washout phase, participants receiving \u03c93 PUFAs in phase I switched to placebo and vice versa, and continued on them for 8 weeks more (phase II). Before and after phases I and II, blood draws and clinical evaluations were performed.",
+        "section": "Design and treatment",
+        "section_number": 9,
+        "sentences": [
+            "This is a multicentre, randomized, double-blind, placebo-controlled, crossover trial of \u03c93 in children and adolescents with ASD, registered in the European Clinical Trials Database (EudraCT) under number 2007-006444-21.",
+            "Stratified randomization was conducted with blocks of 4 subjects within each strata.",
+            "Stratification took into account site and age (with 2 options, less than 12 years of age and 12 and above).",
+            "Participants were randomized to receive treatment with \u03c93 PUFAs (experimental treatment) or paraffin oil (placebo) for 8 weeks (phase I).",
+            "After a 2-week washout phase, participants receiving \u03c93 PUFAs in phase I switched to placebo and vice versa, and continued on them for 8 weeks more (phase II).",
+            "Before and after phases I and II, blood draws and clinical evaluations were performed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Indistinguishable soft gelatin capsules with identical organoleptic properties (commercial tutti-frutti flavor and color to disguise fishy taste) were filled with experimental treatment or placebo (see Fish oil and placebo preparation in Supplementary information).",
+        "section": "Design and treatment",
+        "section_number": 10,
+        "sentences": [
+            "Indistinguishable soft gelatin capsules with identical organoleptic properties (commercial tutti-frutti flavor and color to disguise fishy taste) were filled with experimental treatment or placebo (see Fish oil and placebo preparation in Supplementary information)."
+        ],
+        "sentence_labels": [
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "37077",
+        "text": "Fish oil with a high concentration of \u03c93 (EPA+DHA, 33%+22% of the total daily fish oil supplemented) and vitamin E as a stabilizer. Daily doses were adjusted for age: subjects 5-11 years old took EPA 577.5 mg qd+DHA 385 mg qd+vitamin E 1.6 mg qd, and 12-17 years old EPA took 693 mg qd+DHA 462 mg qd+vitamin E 2.01 mg qd (divided doses, tid). Dose selection was difficult due to the absence of evidence with regard to the appropriate doses. The criteria followed were: i) doses used in previous studies with a safe tolerability profile, ii) doses previously shown to increase \u03c93/\u03c96 in the erythrocyte membrane (Flock et al. 2013) and iii) amount of capsules that was swallowable by children and adolescents. In addition, capsule formulation was chosen in order to assure the dose taken.",
+        "section": "Experimental treatment",
+        "section_number": 11,
+        "sentences": [
+            "Fish oil with a high concentration of \u03c93 (EPA+DHA, 33%+22% of the total daily fish oil supplemented) and vitamin E as a stabilizer.",
+            "Daily doses were adjusted for age: subjects 5-11 years old took EPA 577.5 mg qd+DHA 385 mg qd+vitamin E 1.6 mg qd, and 12-17 years old EPA took 693 mg qd+DHA 462 mg qd+vitamin E 2.01 mg qd (divided doses, tid).",
+            "Dose selection was difficult due to the absence of evidence with regard to the appropriate doses.",
+            "The criteria followed were: i) doses used in previous studies with a safe tolerability profile, ii) doses previously shown to increase \u03c93/\u03c96 in the erythrocyte membrane (Flock et al. 2013) and iii) amount of capsules that was swallowable by children and adolescents.",
+            "In addition, capsule formulation was chosen in order to assure the dose taken."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Liquid paraffin and vitamin E at same doses as experimental treatment. Blinding procedures included producing both experimental treatment and placebo specifically for the study, to ensure identical appearance and organoleptic properties of the active treatment and placebo. All participants and investigators, data managers and statisticians were blind to group assignment until the end of the study. Randomization was the sole responsibility of a pharmacist (EL) based at the coordinating site.",
+        "section": "Placebo",
+        "section_number": 12,
+        "sentences": [
+            "Liquid paraffin and vitamin E at same doses as experimental treatment.",
+            "Blinding procedures included producing both experimental treatment and placebo specifically for the study, to ensure identical appearance and organoleptic properties of the active treatment and placebo.",
+            "All participants and investigators, data managers and statisticians were blind to group assignment until the end of the study.",
+            "Randomization was the sole responsibility of a pharmacist (EL) based at the coordinating site."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "37077",
+        "text": "Medication compliance was pursued and monitored in a number of ways. Patients attended the clinic with their families to get treatment for 2-week periods; they handed in any spare capsule and all blisters, empty or not, and weekly calendars; a pill count was done by the research nurse (JR). One of the researchers conducted a telephone assessment every other week between visits, to check compliance and adverse events.",
+        "section": "Placebo",
+        "section_number": 13,
+        "sentences": [
+            "Medication compliance was pursued and monitored in a number of ways.",
+            "Patients attended the clinic with their families to get treatment for 2-week periods; they handed in any spare capsule and all blisters, empty or not, and weekly calendars; a pill count was done by the research nurse (JR).",
+            "One of the researchers conducted a telephone assessment every other week between visits, to check compliance and adverse events."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The protocol was approved by the Spanish Agency for Drugs and Medicinal Products (AEMPS) and by IRBs at each participating site. Informed consent form was signed by parents, and by minors when applicable.",
+        "section": "Placebo",
+        "section_number": 14,
+        "sentences": [
+            "The protocol was approved by the Spanish Agency for Drugs and Medicinal Products (AEMPS) and by IRBs at each participating site.",
+            "Informed consent form was signed by parents, and by minors when applicable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Primary efficacy outcome measures were the proportion of \u03c93 PUFAs in erythrocyte (RBC) membranes [the ratio of AA to DHA and EPA (AA/DHA, AA/EPA) and \u03c93/\u03c96] and plasma total antioxidant oxidative status (TAS). Secondary outcome measures were scores on SRS and CGI-S.",
+        "section": "Outcome measures",
+        "section_number": 15,
+        "sentences": [
+            "Primary efficacy outcome measures were the proportion of \u03c93 PUFAs in erythrocyte (RBC) membranes [the ratio of AA to DHA and EPA (AA/DHA, AA/EPA) and \u03c93/\u03c96] and plasma total antioxidant oxidative status (TAS).",
+            "Secondary outcome measures were scores on SRS and CGI-S."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "PUFAs were separated and quantified by GC (Agilent HP 6890 CG). Plasma TAS was measured with an TAS TAS Assay Kit (Immundiagnostik AG, Bensheim, Germany)]. Biochemical techniques are fully explained in Supplementary Information.",
+        "section": "Biochemical measures",
+        "section_number": 16,
+        "sentences": [
+            "PUFAs were separated and quantified by GC (Agilent HP 6890 CG).",
+            "Plasma TAS was measured with an TAS TAS Assay Kit (Immundiagnostik AG, Bensheim, Germany)].",
+            "Biochemical techniques are fully explained in Supplementary Information."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The SRS is a 65-point social communication questionnaire that covers five subscales (social awareness, social cognition, social communication, social motivation, and autistic mannerisms) and a total score (Constantino, 2005) . Each SRS item is rated on a scale of 1-4. The SRS may be completed by any adult who has observed the child over time in naturalistic social settings, always a parent in this study. The SRS seems to have an underlying continuous variable that accounts for autistic symptomatology across domains, although it\u00b4s scores have also significant correlations with general psychopathology scales such as the Child Behavior Checklist (Constantino et al., 2000) .",
+        "section": "Psychological measures",
+        "section_number": 17,
+        "sentences": [
+            "The SRS is a 65-point social communication questionnaire that covers five subscales (social awareness, social cognition, social communication, social motivation, and autistic mannerisms) and a total score (Constantino, 2005) .",
+            "Each SRS item is rated on a scale of 1-4.",
+            "The SRS may be completed by any adult who has observed the child over time in naturalistic social settings, always a parent in this study.",
+            "The SRS seems to have an underlying continuous variable that accounts for autistic symptomatology across domains, although it\u00b4s scores have also significant correlations with general psychopathology scales such as the Child Behavior Checklist (Constantino et al., 2000) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Safety assessments included evaluation of self-reported side effects, systematic evaluation of adverse events with the clinician-rated UKU Side Effect Rating Scale (Lingjaerde et al., 1987) at each of the 4 main visits, and clinical laboratory parameters including clotting and urinalysis, electrocardiograms, vital signs, and physical examination.",
+        "section": "Safety assessments",
+        "section_number": 18,
+        "sentences": [
+            "Safety assessments included evaluation of self-reported side effects, systematic evaluation of adverse events with the clinician-rated UKU Side Effect Rating Scale (Lingjaerde et al., 1987) at each of the 4 main visits, and clinical laboratory parameters including clotting and urinalysis, electrocardiograms, vital signs, and physical examination."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Baseline age, weight, BMI, and severity of symptoms in the patients that completed the protocol (a priori defined as finishing all or all but one study visit and having taken more than 70% of the prescribed medication) were compared with non-completers.",
+        "section": "Data analyses",
+        "section_number": 19,
+        "sentences": [
+            "Baseline age, weight, BMI, and severity of symptoms in the patients that completed the protocol (a priori defined as finishing all or all but one study visit and having taken more than 70% of the prescribed medication) were compared with non-completers."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Analyses were first conducted in the per protocol population, after excluding all non-completers and patients who deviated from the protocol (see Figure 1) . We compared the change in any given measure during the period on active treatment and the period on placebo (t-test or Wilcoxon test mean comparisons). Within-subjects and between-subjects differences were analyzed with a mixed between-within analysis of variance (split-plot ANOVA). Treatmentorder was the between-subjects factor and time was the withinsubjects factor. After checking for Mauchly's test of sphericity, multivariate tests (Wilks' lambda statistic) or intra-subject effects are reported. Magnitude of the effect was calculated with Cohen\u00b4s d. The efficacy of the omega-3 treatment was further assessed by looking at pair-wise comparisons between groups at each visit from the mixed ANOVA analyses (with Bonferroni correction for multiple comparisons). Differences between the groups (treatment-placebo and placebo-treatment) after phase I would reflect the effect of active treatment versus placebo avoiding possible carryover effects. For primary outcome measures, the influence of putative covariates was then assessed in two steps. First, ANOVAs were repeated with age, baseline vitamin E, and total dose of \u03c93 taken as possible confounders. Baseline measures of total antioxidant status and \u03c93/\u03c96 were then introduced in a second step when there were prior significant results. Intention-to-treat (ITT) analyses were also conducted for the principal outcome variables in order to check if there were divergences from the PP analyses selected a priori.",
+        "section": "Data analyses",
+        "section_number": 20,
+        "sentences": [
+            "Analyses were first conducted in the per protocol population, after excluding all non-completers and patients who deviated from the protocol (see Figure 1) .",
+            "We compared the change in any given measure during the period on active treatment and the period on placebo (t-test or Wilcoxon test mean comparisons).",
+            "Within-subjects and between-subjects differences were analyzed with a mixed between-within analysis of variance (split-plot ANOVA).",
+            "Treatmentorder was the between-subjects factor and time was the withinsubjects factor.",
+            "After checking for Mauchly's test of sphericity, multivariate tests (Wilks' lambda statistic) or intra-subject effects are reported.",
+            "Magnitude of the effect was calculated with Cohen\u00b4s d. The efficacy of the omega-3 treatment was further assessed by looking at pair-wise comparisons between groups at each visit from the mixed ANOVA analyses (with Bonferroni correction for multiple comparisons).",
+            "Differences between the groups (treatment-placebo and placebo-treatment) after phase I would reflect the effect of active treatment versus placebo avoiding possible carryover effects.",
+            "For primary outcome measures, the influence of putative covariates was then assessed in two steps.",
+            "First, ANOVAs were repeated with age, baseline vitamin E, and total dose of \u03c93 taken as possible confounders.",
+            "Baseline measures of total antioxidant status and \u03c93/\u03c96 were then introduced in a second step when there were prior significant results.",
+            "Intention-to-treat (ITT) analyses were also conducted for the principal outcome variables in order to check if there were divergences from the PP analyses selected a priori."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Sample size calculation was based on previous studies of \u03c93 treatment in children (Amminger et al., 2007; Richardson and Montgomery, 2005) and studies showing statistical differences between patients and controls in oxidative stress measurements (James et al., 2004 (James et al., , 2006 .",
+        "section": "Data analyses",
+        "section_number": 21,
+        "sentences": [
+            "Sample size calculation was based on previous studies of \u03c93 treatment in children (Amminger et al., 2007; Richardson and Montgomery, 2005) and studies showing statistical differences between patients and controls in oxidative stress measurements (James et al., 2004 (James et al., , 2006 ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "One hundred and ninety-three consecutive patients met clinical inclusion criteria. Of these, 77 were found eligible (see Figure 1 for Flow diagram of participation), were randomized, and completed at least one visit (ITT sample). Sixty-eight patients completed the whole protocol (PP sample). There were no differences between protocol completers and non-completers with respect to baseline characteristics (age, weight, height, BMI, symptom severity). Supplementary Table 1 shows the sociodemographic and baseline clinical data for the 68 PP subjects. The mean age of the PP sample was 9.72 (SD 3.64) and 57 were male (84%). There were no differences at baseline between the two treatment arms in age, gender or anthropometric measures. There were no baseline differences in primary outcome measures (Table 1 ) or in secondary outcome measures, with the exception of social awareness (as measured by the SRS), which was more severe in Group A (p= 0.005) (see Table 2 ).",
+        "section": "Randomization and baseline characteristics",
+        "section_number": 22,
+        "sentences": [
+            "One hundred and ninety-three consecutive patients met clinical inclusion criteria.",
+            "Of these, 77 were found eligible (see Figure 1 for Flow diagram of participation), were randomized, and completed at least one visit (ITT sample).",
+            "Sixty-eight patients completed the whole protocol (PP sample).",
+            "There were no differences between protocol completers and non-completers with respect to baseline characteristics (age, weight, height, BMI, symptom severity).",
+            "Supplementary Table 1 shows the sociodemographic and baseline clinical data for the 68 PP subjects.",
+            "The mean age of the PP sample was 9.72 (SD 3.64) and 57 were male (84%).",
+            "There were no differences at baseline between the two treatment arms in age, gender or anthropometric measures.",
+            "There were no baseline differences in primary outcome measures (Table 1 ) or in secondary outcome measures, with the exception of social awareness (as measured by the SRS), which was more severe in Group A (p= 0.005) (see Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Compliance measured as the percentage of DHA/EPA taken relative to the total expected dose was 96.82 (73.70) and 97.51 (73.26) in Groups A and B, respectively.",
+        "section": "Randomization and baseline characteristics",
+        "section_number": 23,
+        "sentences": [
+            "Compliance measured as the percentage of DHA/EPA taken relative to the total expected dose was 96.82 (73.70) and 97.51 (73.26) in Groups A and B, respectively."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "There was a significant effect of treatment on erythrocyte membrane \u03c93/\u03c96, with significant differences between groups A and B after the phase I of the trial (see Table 1 and Figure 2 ). There was a significant time effect and time \u00c2 group effect on the erythrocyte membrane AA/DHA and \u03c93/\u03c96 ratio, with an increase on the proportion of \u03c93. The effect sizes of the improvements were moderate to large. There were no changes in total antioxidant status. Per Protocol. a. Allergy after taking the first pill (blind was broken, the patient was on placebo, and the allergy was subsequently found to be related to the pill's outer layer). b. Scleroderma diagnosed in the second phase of the study and needed some workups that precluded continuing in the study. Cohen (1988) .",
+        "section": "Primary outcome measures -membrane PUFAs and total antioxidant status",
+        "section_number": 24,
+        "sentences": [
+            "There was a significant effect of treatment on erythrocyte membrane \u03c93/\u03c96, with significant differences between groups A and B after the phase I of the trial (see Table 1 and Figure 2 ).",
+            "There was a significant time effect and time \u00c2 group effect on the erythrocyte membrane AA/DHA and \u03c93/\u03c96 ratio, with an increase on the proportion of \u03c93.",
+            "The effect sizes of the improvements were moderate to large.",
+            "There were no changes in total antioxidant status.",
+            "Per Protocol.",
+            "a. Allergy after taking the first pill (blind was broken, the patient was on placebo, and the allergy was subsequently found to be related to the pill's outer layer).",
+            "b. Scleroderma diagnosed in the second phase of the study and needed some workups that precluded continuing in the study.",
+            "Cohen (1988) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Taking into account baseline antioxidant status did not change any of the results. a Treatment effects: there were significant differences between Group A (sequence treatment-placebo) and Group B (sequence placebo-treatment) after phase I (pair-wise comparisons of the split-plot ANOVA): AA/DHA: v2 (p=0.05) and v3 (po0.001); \u03c93/\u03c96: v2 (p=0.008), v3 (p=0.001) and v4 (p=0.009).",
+        "section": "Primary outcome measures -membrane PUFAs and total antioxidant status",
+        "section_number": 25,
+        "sentences": [
+            "Taking into account baseline antioxidant status did not change any of the results.",
+            "a Treatment effects: there were significant differences between Group A (sequence treatment-placebo) and Group B (sequence placebo-treatment) after phase I (pair-wise comparisons of the split-plot ANOVA): AA/DHA: v2 (p=0.05) and v3 (po0.001); \u03c93/\u03c96: v2 (p=0.008), v3 (p=0.001) and v4 (p=0.009)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "a Baseline \u03c93/\u03c96 moderated the results, with a moderate effect size F=5.377, po0.001, \u03b7p 2 =0.078. ",
+        "section": "Primary outcome measures -membrane PUFAs and total antioxidant status",
+        "section_number": 26,
+        "sentences": [
+            "a Baseline \u03c93/\u03c96 moderated the results, with a moderate effect size F=5.377, po0.001, \u03b7p 2 =0.078."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "There was a statistical significant moderate to large reduction (within-subjects effect, see Table 2 and Figure 3 ) in SRS total and social motivation and communication scores with a more marked reduction in the group that started with active treatment. However, there was no treatment (order) effect of omega-3 on behavioral measures. Endpoint scores were in all cases (SRS total and subscale scores) lower than baseline scores, with more marked changes in the group that took active treatment first (change in group A vs change in group B: SRS total score 6.2 vs 1.83; social awareness 2.2 vs 0.07; social cognition 3.47 vs 1.97; social communication 7.03 vs 1.62; social motivation 8.79 vs 3.9 and autistic mannerisms 8.79 vs 1.58). There was also a within-subjects effect in CGI-S (p= 0.013, moderate effect size), with no global treatment or time \u00c2 group interaction effect. With regard to age effect on behavioral measures, we repeated the analyses with age as a covariate and also split the sample into under-12 and 12-or-above years of age and conducted the same split-plot analyses in both subsamples. These analyses suggest that the effects are more marked in the under-12 years of age subgroup. Specifically, only the under-12 subgroup showed a within-subjects effect (in Social Communication and Social Motivation, F= 2.859, p= 0.048 and F= 3.797, p= 0.017 respectively). In addition, we found a trend treatment effect in Social Motivation in under-12 (F= 2.798, p= 0.051) and a significant treatment effect in Social Communication in 12-or-above (F= 3.015, p= 0.038). The results must be interpreted with caution given the uneven sample sizes (47 under-12 and 20 12-orabove).",
+        "section": "Secondary outcome measures",
+        "section_number": 27,
+        "sentences": [
+            "There was a statistical significant moderate to large reduction (within-subjects effect, see Table 2 and Figure 3 ) in SRS total and social motivation and communication scores with a more marked reduction in the group that started with active treatment.",
+            "However, there was no treatment (order) effect of omega-3 on behavioral measures.",
+            "Endpoint scores were in all cases (SRS total and subscale scores) lower than baseline scores, with more marked changes in the group that took active treatment first (change in group A vs change in group B: SRS total score 6.2 vs 1.83; social awareness 2.2 vs 0.07; social cognition 3.47 vs 1.97; social communication 7.03 vs 1.62; social motivation 8.79 vs 3.9 and autistic mannerisms 8.79 vs 1.58).",
+            "There was also a within-subjects effect in CGI-S (p= 0.013, moderate effect size), with no global treatment or time \u00c2 group interaction effect.",
+            "With regard to age effect on behavioral measures, we repeated the analyses with age as a covariate and also split the sample into under-12 and 12-or-above years of age and conducted the same split-plot analyses in both subsamples.",
+            "These analyses suggest that the effects are more marked in the under-12 years of age subgroup.",
+            "Specifically, only the under-12 subgroup showed a within-subjects effect (in Social Communication and Social Motivation, F= 2.859, p= 0.048 and F= 3.797, p= 0.017 respectively).",
+            "In addition, we found a trend treatment effect in Social Motivation in under-12 (F= 2.798, p= 0.051) and a significant treatment effect in Social Communication in 12-or-above (F= 3.015, p= 0.038).",
+            "The results must be interpreted with caution given the uneven sample sizes (47 under-12 and 20 12-orabove)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "In order to check if differences in baseline \u03c93/\u03c96 did influence the results, we divided the sample into quartiles. The lower quartile group comprised only 14 patients. This group showed a within-subjects effect with no treatment effect on \u03c93/\u03c96 and AA/DHA. There was a tendency toward a treatment effect improvement on SRS-social awareness in both the lowest and the highest quartile groups (p= 0.051 and p= 0.053, respectively), with a larger effect size in the lower quartile group (\u03b7p2= 0.525 vs 0.190). Given that the sample was very small when selecting the lower baseline \u03c93/\u03c96 quartile sample, we then divided the sample into the half with lower \u03c93/\u03c96 (n = 32) and the half with higher \u03c93/ \u03c96 (n = 33). For the lower baseline \u03c93/\u03c96 half of the sample, \u03c93/\u03c96 and AA/DHA showed a treatment effect (as did the whole group) (p= 0.04 and p= 0.02, respectively); a withinsubjects effect was clear only in the lower \u03c93/\u03c96 group (po0.001). All effect sizes were large. With the risk of type I errors due to multiple testing, we explored if patients with different levels of antioxidant stress differed in their response to PUFA supplementation. We divided the sample into the half with lower and the half with higher TAS at baseline. By doing so, we show that the group with higher TAS at baseline reduced the antioxidant status significantly and that membrane composition (\u03c93/\u03c96 ratio) improved even more than in the group with lower baseline TAOS (\u03b7p2 =0.194 vs \u03b7p2= 0.092).",
+        "section": "Effect of baseline \u03c93/\u03c96 and antioxidant status",
+        "section_number": 28,
+        "sentences": [
+            "In order to check if differences in baseline \u03c93/\u03c96 did influence the results, we divided the sample into quartiles.",
+            "The lower quartile group comprised only 14 patients.",
+            "This group showed a within-subjects effect with no treatment effect on \u03c93/\u03c96 and AA/DHA.",
+            "There was a tendency toward a treatment effect improvement on SRS-social awareness in both the lowest and the highest quartile groups (p= 0.051 and p= 0.053, respectively), with a larger effect size in the lower quartile group (\u03b7p2= 0.525 vs 0.190).",
+            "Given that the sample was very small when selecting the lower baseline \u03c93/\u03c96 quartile sample, we then divided the sample into the half with lower \u03c93/\u03c96 (n = 32) and the half with higher \u03c93/ \u03c96 (n = 33).",
+            "For the lower baseline \u03c93/\u03c96 half of the sample, \u03c93/\u03c96 and AA/DHA showed a treatment effect (as did the whole group) (p= 0.04 and p= 0.02, respectively); a withinsubjects effect was clear only in the lower \u03c93/\u03c96 group (po0.001).",
+            "All effect sizes were large.",
+            "With the risk of type I errors due to multiple testing, we explored if patients with different levels of antioxidant stress differed in their response to PUFA supplementation.",
+            "We divided the sample into the half with lower and the half with higher TAS at baseline.",
+            "By doing so, we show that the group with higher TAS at baseline reduced the antioxidant status significantly and that membrane composition (\u03c93/\u03c96 ratio) improved even more than in the group with lower baseline TAOS (\u03b7p2 =0.194 vs \u03b7p2= 0.092)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The only significant analytical adverse event was a small increase in total cholesterol during the trial (from 164.79 to 175.58 in Group A and 159.20 to 162.74 in Group B, F=2.700, p=0.047, \u03b7p 2 =0.046); treatment effect was non-significant. See Supplementary Table 2 for the most relevant analytical side effects measurements, Supplementary Table 3 for a complete list of side effects, as detected by the UKU scale and Supplementary Figure 1 for cholesterol results.",
+        "section": "Adverse events",
+        "section_number": 29,
+        "sentences": [
+            "The only significant analytical adverse event was a small increase in total cholesterol during the trial (from 164.79 to 175.58 in Group A and 159.20 to 162.74 in Group B, F=2.700, p=0.047, \u03b7p 2 =0.046); treatment effect was non-significant.",
+            "See Supplementary Table 2 for the most relevant analytical side effects measurements, Supplementary Table 3 for a complete list of side effects, as detected by the UKU scale and Supplementary Figure 1 for cholesterol results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "To the best of our knowledge, this is the first controlled clinical trial to evaluate the effect of a combination of DHA and EPA in autism with a biomarker as the primary outcome measure. We found that \u03c93 treatment improved \u03c93/\u03c96 balance in the RBC membrane, without changing plasma antioxidant status. We also found that social motivation improves during the trial, with no significant treatmentorder effect. In light of the results obtained when dividing the sample according to baseline \u03c93/\u03c96, we can conclude that all groups do benefit from PUFA supplementation, but patients with lower baseline \u03c93/\u03c96 show a larger effect.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "To the best of our knowledge, this is the first controlled clinical trial to evaluate the effect of a combination of DHA and EPA in autism with a biomarker as the primary outcome measure.",
+            "We found that \u03c93 treatment improved \u03c93/\u03c96 balance in the RBC membrane, without changing plasma antioxidant status.",
+            "We also found that social motivation improves during the trial, with no significant treatmentorder effect.",
+            "In light of the results obtained when dividing the sample according to baseline \u03c93/\u03c96, we can conclude that all groups do benefit from PUFA supplementation, but patients with lower baseline \u03c93/\u03c96 show a larger effect."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Incorporation of dietary fatty acids (FA) into the cell membrane has been shown in general population studies in the past decade (Flock et al., 2013; Sands et al., 2005) . In fact, it has been suggested that the omega-3 index (erythrocyte EPA + DHA as a percentage of erythrocyte membrane fatty acids) fulfils the characteristics of a biomarker (Harris, 2007) . This index has not previously been used as a marker of treatment response in autism or other neurodevelopmental or psychiatric disorders. We measured RBC FA membrane percentages (as opposed to plasma levels) for their advantage as biomarkers, for many reasons including less dependency on diet, dyslipidemia, stability and reproducibility (Harris, 2007) .",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "Incorporation of dietary fatty acids (FA) into the cell membrane has been shown in general population studies in the past decade (Flock et al., 2013; Sands et al., 2005) .",
+            "In fact, it has been suggested that the omega-3 index (erythrocyte EPA + DHA as a percentage of erythrocyte membrane fatty acids) fulfils the characteristics of a biomarker (Harris, 2007) .",
+            "This index has not previously been used as a marker of treatment response in autism or other neurodevelopmental or psychiatric disorders.",
+            "We measured RBC FA membrane percentages (as opposed to plasma levels) for their advantage as biomarkers, for many reasons including less dependency on diet, dyslipidemia, stability and reproducibility (Harris, 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The etiologies of ASD are complex. Genetic studies have implicated molecular processes that control chromatin remodeling, transcriptional regulation, synaptic development and function in ASD pathology (Chang et al., 2015; De Rubeis et al., 2014; Gupta et al., 2014; Iossifov et al., 2014; Voineagu et al., 2011) . Omega-3 deficiency has been shown to be associated with significant effects on synapse formation and neurite outgrowth, which could be core to the pathology of ASD (Delorme et al., 2013; Parikshak et al., 2013; Stoner et al., 2014) . Moreover, omega-3 supplementation has been shown to partially restore neuronal plasticity (Cao et al., 2009; Kim et al., 2011) and even autistic-like behaviors (Weiser et al., 2016) in mouse models of fatty acid deficiency. In humans, there is controversy regarding the impact of \u03c93 supplementation on the cognitive development of children, since some studies have shown very limited or even no positive effects (Helland et al., 2008; Koren, 2015) . However, these studies have not been conducted in children with or at risk for developmental difficulties. Of interest, in the 18month follow up period of a large randomized trial of DHA versus placebo given to pregnant mothers, there were no differences in cognitive or behavioral measures between the groups on treatment or placebo, but there were fewer children in the DHA group with delayed development compared with controls (Makrides et al., 2010) . The differential effect of \u03c93 supplementation on healthy versus disease states and different disease stages (Bos et al., 2016) is one of the important issues to be addressed. Moreover, basal FA may need to be taken into account, as prior studies have shown low levels of \u03c93 FA in ASD children compared with healthy controls and also children with intellectual disability (Bell et al., 2004; Meguid et al., 2008; Vancassel et al., 2001) .",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "The etiologies of ASD are complex.",
+            "Genetic studies have implicated molecular processes that control chromatin remodeling, transcriptional regulation, synaptic development and function in ASD pathology (Chang et al., 2015; De Rubeis et al., 2014; Gupta et al., 2014; Iossifov et al., 2014; Voineagu et al., 2011) .",
+            "Omega-3 deficiency has been shown to be associated with significant effects on synapse formation and neurite outgrowth, which could be core to the pathology of ASD (Delorme et al., 2013; Parikshak et al., 2013; Stoner et al., 2014) .",
+            "Moreover, omega-3 supplementation has been shown to partially restore neuronal plasticity (Cao et al., 2009; Kim et al., 2011) and even autistic-like behaviors (Weiser et al., 2016) in mouse models of fatty acid deficiency.",
+            "In humans, there is controversy regarding the impact of \u03c93 supplementation on the cognitive development of children, since some studies have shown very limited or even no positive effects (Helland et al., 2008; Koren, 2015) .",
+            "However, these studies have not been conducted in children with or at risk for developmental difficulties.",
+            "Of interest, in the 18month follow up period of a large randomized trial of DHA versus placebo given to pregnant mothers, there were no differences in cognitive or behavioral measures between the groups on treatment or placebo, but there were fewer children in the DHA group with delayed development compared with controls (Makrides et al., 2010) .",
+            "The differential effect of \u03c93 supplementation on healthy versus disease states and different disease stages (Bos et al., 2016) is one of the important issues to be addressed.",
+            "Moreover, basal FA may need to be taken into account, as prior studies have shown low levels of \u03c93 FA in ASD children compared with healthy controls and also children with intellectual disability (Bell et al., 2004; Meguid et al., 2008; Vancassel et al., 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Oxidative mechanisms, anti-inflammatory properties, neurotransmitter modulation, and neuroprotective effects are possible mechanisms of \u03c93 that have been discussed (Rapaport et al., 2015; Smesny et al., 2014; van Elst et al., 2014; Weiser et al., 2015) . Recent developments suggest that oxidative stress disturbances may affect the lipid composition of neuronal membranes in patients with ASD, disturbing their functional capacity (James et al., 2006) . We have previously shown that Asperger patients have reduced antioxidant capacity (Parellada et al., 2012) and others have shown a disturbed redox system in patients with ASD (James et al., 2006) . Recent in vitro research has shown reduced reactive oxygen species (ROS) and nitric oxide (NO) production and reduced pro-inflammatory functions after supplementation with \u03c93 (Corsi et al., 2015) , although in vivo trials have been contradictory so far regarding the effect on inflammatory markers after \u03c93 supplementation. One recent study has shown basically no effect of FA ingestion on inflammatory markers in healthy subjects (Flock et al., 2014) , while another one has shown a reduction in anti-inflammatory intracellular function in subjects at-risk for psychosis (Smesny et al., 2014) . In the present study there were no treatment effect on total antioxidant status (TAS) with \u03c93 ingestion, but when baseline TAS was taken into account, there was a within-subjects reduction in TAS and a greater treatment effect on \u03c93/\u03c96 ratio for those with higher baseline antioxidant status. Given the nature of the design (see below), within-subjects effect warrant consideration.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "Oxidative mechanisms, anti-inflammatory properties, neurotransmitter modulation, and neuroprotective effects are possible mechanisms of \u03c93 that have been discussed (Rapaport et al., 2015; Smesny et al., 2014; van Elst et al., 2014; Weiser et al., 2015) .",
+            "Recent developments suggest that oxidative stress disturbances may affect the lipid composition of neuronal membranes in patients with ASD, disturbing their functional capacity (James et al., 2006) .",
+            "We have previously shown that Asperger patients have reduced antioxidant capacity (Parellada et al., 2012) and others have shown a disturbed redox system in patients with ASD (James et al., 2006) .",
+            "Recent in vitro research has shown reduced reactive oxygen species (ROS) and nitric oxide (NO) production and reduced pro-inflammatory functions after supplementation with \u03c93 (Corsi et al., 2015) , although in vivo trials have been contradictory so far regarding the effect on inflammatory markers after \u03c93 supplementation.",
+            "One recent study has shown basically no effect of FA ingestion on inflammatory markers in healthy subjects (Flock et al., 2014) , while another one has shown a reduction in anti-inflammatory intracellular function in subjects at-risk for psychosis (Smesny et al., 2014) .",
+            "In the present study there were no treatment effect on total antioxidant status (TAS) with \u03c93 ingestion, but when baseline TAS was taken into account, there was a within-subjects reduction in TAS and a greater treatment effect on \u03c93/\u03c96 ratio for those with higher baseline antioxidant status.",
+            "Given the nature of the design (see below), within-subjects effect warrant consideration."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "With regard to behavioral measures, all SRS scores (and CGI) improved significantly during the trial. However, we find no main treatment effects (treatment-order). However, the crossover design has to be accounted for. The main limitation of the crossover design used in the present study is the possibility of carryover effect between treatment phases, which could confound estimates of the treatment effects, making them less noticeable. Although a two-week washout period was planned in order to avoid carryover effects, the dynamics of \u03c93 are not sufficiently known to ensure that the washout period was long enough. The effect size of the changes in behavioral measures are moderate to large and likely clinically significant and occurred in subscales of the SRS that capture the extent to which a respondent is generally motivated to engage in social-interpersonal behavior, elements of social anxiety, inhibition, and empathic orientation (Constantino, 2005) . Social motivation and attentiveness is a very important prerequisite for the success of any psychological or educational intervention, and, as it is coming up from early intervention studies, for language development (DiStefano et al., 2016) . Thus, the effect of \u03c93 over longer periods of time should be tested and teased apart from other interventions in place in order to determine its role as a coadjutant treatment. To our knowledge, four controlled studies with \u03c93 in ASD have been conducted (2 of them of a pilot nature) (Amminger et al., 2007; Bent et al., 2011 Bent et al., , 2014 Mankad et al., 2015) , all with behavioral primary outcomes (not specific for autism). All found non-significant improvements in main outcome measures. As secondary outcome measures, two of the studies (in a pilot and exploratory manner) (Bent et al., 2011; Mankad et al., 2015) analyzed plasma fatty acid levels and cytokine profile with no conclusive results.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "With regard to behavioral measures, all SRS scores (and CGI) improved significantly during the trial.",
+            "However, we find no main treatment effects (treatment-order).",
+            "However, the crossover design has to be accounted for.",
+            "The main limitation of the crossover design used in the present study is the possibility of carryover effect between treatment phases, which could confound estimates of the treatment effects, making them less noticeable.",
+            "Although a two-week washout period was planned in order to avoid carryover effects, the dynamics of \u03c93 are not sufficiently known to ensure that the washout period was long enough.",
+            "The effect size of the changes in behavioral measures are moderate to large and likely clinically significant and occurred in subscales of the SRS that capture the extent to which a respondent is generally motivated to engage in social-interpersonal behavior, elements of social anxiety, inhibition, and empathic orientation (Constantino, 2005) .",
+            "Social motivation and attentiveness is a very important prerequisite for the success of any psychological or educational intervention, and, as it is coming up from early intervention studies, for language development (DiStefano et al., 2016) .",
+            "Thus, the effect of \u03c93 over longer periods of time should be tested and teased apart from other interventions in place in order to determine its role as a coadjutant treatment.",
+            "To our knowledge, four controlled studies with \u03c93 in ASD have been conducted (2 of them of a pilot nature) (Amminger et al., 2007; Bent et al., 2011 Bent et al., , 2014 Mankad et al., 2015) , all with behavioral primary outcomes (not specific for autism).",
+            "All found non-significant improvements in main outcome measures.",
+            "As secondary outcome measures, two of the studies (in a pilot and exploratory manner) (Bent et al., 2011; Mankad et al., 2015) analyzed plasma fatty acid levels and cytokine profile with no conclusive results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "In order to further interpret our results and the importance of baseline RBC PUFA status in our sample, we compared our subjects with those from other studies. We could not find direct comparisons of PUFA levels in children from different countries in studies with the exact same methodology. As a proxy comparison, we compared DHA and EPA RBC levels in the autistic children from our trial with those from other studies. Baseline mean RBC DHA and EPA were 2.64 and 1.065, respectively, in the sample included in this randomised controlled trial. Subjects ranged from 7 to 17 years of age. These data are in the 5-25 percentile for DHA and in the 75-90 percentile for EPA in data reported by Harris and Pottala (2013) , who reported on 160,000 subjects of all ages from the state of Virginia, since the decade of the 1910s. These authors did not report specific percentiles by age range but did report a slight increase of around 0.1 per decade in major FA classes. Another study (Brigandi et al.,2015) reported on 121 children and adolescents with autism and 110 control subjects tested at Children's Hospital Boston, most of whom were Caucasian. The mean EPA levels of autistic children in this American sample were lower (0.22) and the DHA levels were quite similar (2.75) to those of the patients included in this study. The American control subjects had a mean DHA of 3.18 and a mean EPA of 0.22. A sample of 38 typically developing Hungarian children had lower levels of both DHA (mean 1.86) and EPA (0.15) than our autistic sample (Jakovik et al., 2009) . The differences shown in these different samples suggest it would be worth including dietary intake and baseline levels of PUFAs in future studies of the effect of PUFA supplementation in children.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "In order to further interpret our results and the importance of baseline RBC PUFA status in our sample, we compared our subjects with those from other studies.",
+            "We could not find direct comparisons of PUFA levels in children from different countries in studies with the exact same methodology.",
+            "As a proxy comparison, we compared DHA and EPA RBC levels in the autistic children from our trial with those from other studies.",
+            "Baseline mean RBC DHA and EPA were 2.64 and 1.065, respectively, in the sample included in this randomised controlled trial.",
+            "Subjects ranged from 7 to 17 years of age.",
+            "These data are in the 5-25 percentile for DHA and in the 75-90 percentile for EPA in data reported by Harris and Pottala (2013) , who reported on 160,000 subjects of all ages from the state of Virginia, since the decade of the 1910s.",
+            "These authors did not report specific percentiles by age range but did report a slight increase of around 0.1 per decade in major FA classes.",
+            "Another study (Brigandi et al.,2015) reported on 121 children and adolescents with autism and 110 control subjects tested at Children's Hospital Boston, most of whom were Caucasian.",
+            "The mean EPA levels of autistic children in this American sample were lower (0.22) and the DHA levels were quite similar (2.75) to those of the patients included in this study.",
+            "The American control subjects had a mean DHA of 3.18 and a mean EPA of 0.22.",
+            "A sample of 38 typically developing Hungarian children had lower levels of both DHA (mean 1.86) and EPA (0.15) than our autistic sample (Jakovik et al., 2009) .",
+            "The differences shown in these different samples suggest it would be worth including dietary intake and baseline levels of PUFAs in future studies of the effect of PUFA supplementation in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "In keeping with previous studies, tolerability of dietary FA is very good, although attention must be paid to changes in the lipid profile. We found an increase in total cholesterol, not reaching clinical thresholds. As many families are giving \u03c93 to their children over the counter and for long periods, we suggest monitoring the lipid profile of all children taking omega-3 until more data is available.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "In keeping with previous studies, tolerability of dietary FA is very good, although attention must be paid to changes in the lipid profile.",
+            "We found an increase in total cholesterol, not reaching clinical thresholds.",
+            "As many families are giving \u03c93 to their children over the counter and for long periods, we suggest monitoring the lipid profile of all children taking omega-3 until more data is available."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The crossover design, chosen at first to increase the statistical power of the trial, has proved itself to be a limitation of this trial. The main limitation of the crossover design used in the present study is the possibility of a carryover effect between treatment phases. This design has at least two important limitations: 1) crossover designs may lead to confounding estimates of the treatment effects, making them less noticeable, especially if, as in this case, the washout period seems too short to reverse the effects gained with the intervention. Although a two-week washout period was planned in order to diminish carryover effects, the dynamics of \u03c93 are not sufficiently known to ensure that the washout period was long enough, and 2) interventions that may potentially change the course of development (as in this case, improving the mechanistic and functional characteristics of the cell membranes) have not been well tested in a design that assumes that the system would revert to the previous status once the intervention ceases.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "The crossover design, chosen at first to increase the statistical power of the trial, has proved itself to be a limitation of this trial.",
+            "The main limitation of the crossover design used in the present study is the possibility of a carryover effect between treatment phases.",
+            "This design has at least two important limitations: 1) crossover designs may lead to confounding estimates of the treatment effects, making them less noticeable, especially if, as in this case, the washout period seems too short to reverse the effects gained with the intervention.",
+            "Although a two-week washout period was planned in order to diminish carryover effects, the dynamics of \u03c93 are not sufficiently known to ensure that the washout period was long enough, and 2) interventions that may potentially change the course of development (as in this case, improving the mechanistic and functional characteristics of the cell membranes) have not been well tested in a design that assumes that the system would revert to the previous status once the intervention ceases."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "In addition to the particularities of the crossover design, other limitations of the study are: first, the heterogeneity of the sample recruited. Based on current knowledge, it is not possible to differentiate discrete subgroups of ASD subjects according to pathophysiologic pathways involved that may benefit from different interventions with distinct biological targets (i.e. synaptic formation, immune modulation, etc.). This precludes-at least for the time being -selection of more homogeneous ASD samples for clinical trials; second, the lack of teachers assessment of baseline behavior and changes. SRS teacher assessments have been shown to correlate better with severity of autism behaviors than parent assessments (Azad et al., 2016) . However, the response rate of teacher questionnaires was too low to include these in the analyses; the drawback of not having teacher assessment is mitigated by two facts: i) patients included in the trial are in a severe range, and in this subgroup parent and teacher scores correlate (Azad et al., 2016) and ii) parents were blind to treatment status. Finally, dose selection was based on age, but further studies should try to establish the appropriate doses to give and to examine whether body weight or age is more suitable for determining them.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "In addition to the particularities of the crossover design, other limitations of the study are: first, the heterogeneity of the sample recruited.",
+            "Based on current knowledge, it is not possible to differentiate discrete subgroups of ASD subjects according to pathophysiologic pathways involved that may benefit from different interventions with distinct biological targets (i.e. synaptic formation, immune modulation, etc.).",
+            "This precludes-at least for the time being -selection of more homogeneous ASD samples for clinical trials; second, the lack of teachers assessment of baseline behavior and changes.",
+            "SRS teacher assessments have been shown to correlate better with severity of autism behaviors than parent assessments (Azad et al., 2016) .",
+            "However, the response rate of teacher questionnaires was too low to include these in the analyses; the drawback of not having teacher assessment is mitigated by two facts: i) patients included in the trial are in a severe range, and in this subgroup parent and teacher scores correlate (Azad et al., 2016) and ii) parents were blind to treatment status.",
+            "Finally, dose selection was based on age, but further studies should try to establish the appropriate doses to give and to examine whether body weight or age is more suitable for determining them."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "In conclusion, we have shown that \u03c93 treatment improves the FA composition of biological membranes. It may also improve some behavioral measures, specifically social motivation. Longer-term trials, particularly in younger children, should follow in order to see if more clinical changes can be achieved.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "In conclusion, we have shown that \u03c93 treatment improves the FA composition of biological membranes.",
+            "It may also improve some behavioral measures, specifically social motivation.",
+            "Longer-term trials, particularly in younger children, should follow in order to see if more clinical changes can be achieved."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The study was funded by the Spanish Ministry of Economy and Competitiveness, Instituto de Salud Carlos III (FIS EC07/90076); (CB/07/09/0023), and the Alicia Koplowitz Foundation(FAK 2017).",
+        "section": "Role of funding source",
+        "section_number": 40,
+        "sentences": [
+            "The study was funded by the Spanish Ministry of Economy and Competitiveness, Instituto de Salud Carlos III (FIS EC07/90076); (CB/07/09/0023), and the Alicia Koplowitz Foundation(FAK 2017)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "The funding institutions did not participate in the design or conduct of the study, nor in the preparation, review or approval of the manuscript or the decision to submit it for publication. Promoters of the study were the first and last authors (MP and CM) with the Fundaci\u00f3n Investigaci\u00f3n Sanitaria Gregorio Mara\u00f1\u00f3n (Gregorio Mara\u00f1\u00f3n Health Research Foundation).",
+        "section": "Role of funding source",
+        "section_number": 41,
+        "sentences": [
+            "The funding institutions did not participate in the design or conduct of the study, nor in the preparation, review or approval of the manuscript or the decision to submit it for publication.",
+            "Promoters of the study were the first and last authors (MP and CM) with the Fundaci\u00f3n Investigaci\u00f3n Sanitaria Gregorio Mara\u00f1\u00f3n (Gregorio Mara\u00f1\u00f3n Health Research Foundation)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37077",
+        "text": "Mara Parellada and Carmen Moreno had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Contributions were as follows: conception of the study: MP and CM; design: MP, CM, SG and RC; acquisition of the data: MP, CM, RC, SG, LL, MGr, MD; biochemical analysis: ED, MG, IS; interpretation of the data: MP, CM, RC, SG, CA; drafting of the manuscript: MP and CM; statistical analysis: MP; study supervision: MP, CM; critical revision of the manuscript: all authors.",
+        "section": "Contributors",
+        "section_number": 42,
+        "sentences": [
+            "Mara Parellada and Carmen Moreno had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.",
+            "Contributions were as follows: conception of the study: MP and CM; design: MP, CM, SG and RC; acquisition of the data: MP, CM, RC, SG, LL, MGr, MD; biochemical analysis: ED, MG, IS; interpretation of the data: MP, CM, RC, SG, CA; drafting of the manuscript: MP and CM; statistical analysis: MP; study supervision: MP, CM; critical revision of the manuscript: all authors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

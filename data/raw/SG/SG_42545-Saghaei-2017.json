@@ -1,0 +1,309 @@
+[
+    {
+        "doc_id": "42545",
+        "text": "The study was aimed to evaluate the effectiveness of a training course of cognitive-behavioral stress management in glycaemia regulation in children with type 1 diabetes mellitus as well as in mental health status of their mothers. Materials and methods: Fifty children with type 1 diabetes mellitus and their mothers were selected and randomly assigned into two groups. A group of mothers (n = 25; as experimental one besides their children) passed a course, eight 2-h sessions, on the cognitive-behavioral and stress management, and the control group received the usual care. To evaluate the effectiveness of the intervention, before and after holding the course, glycosylated hemoglobin (HbA1C) test was done on both groups of children, and also some information was collected from the mothers through interview and the DASS (depression, anxiety, stress scale) and PSI (parenting stress index) questionnaires. Results: After the intervention, HbA1c level decreased in the experimental group. Feeling of depression, anxiety and stress was significantly lower than the control group. Furthermore, training for parenting stress management positively affected on the sense of demanding, reinforcement, and adaptability in child domain and also on attachment, competence, depression, relationship with spouse and family health in parent domain. Conclusion: The intervention program was significantly effective in reducing the amount of HbA1c in diabetic children, and also reduced the intensity of psychosocial problems such as depression, anxiety and stress in the mothers caring for children with type 1 diabetes.",
+        "section": "Abstract",
+        "sentences": [
+            "The study was aimed to evaluate the effectiveness of a training course of cognitive-behavioral stress management in glycaemia regulation in children with type 1 diabetes mellitus as well as in mental health status of their mothers.",
+            "Materials and methods: Fifty children with type 1 diabetes mellitus and their mothers were selected and randomly assigned into two groups.",
+            "A group of mothers (n = 25; as experimental one besides their children) passed a course, eight 2-h sessions, on the cognitive-behavioral and stress management, and the control group received the usual care.",
+            "To evaluate the effectiveness of the intervention, before and after holding the course, glycosylated hemoglobin (HbA1C) test was done on both groups of children, and also some information was collected from the mothers through interview and the DASS (depression, anxiety, stress scale) and PSI (parenting stress index) questionnaires.",
+            "Results: After the intervention, HbA1c level decreased in the experimental group.",
+            "Feeling of depression, anxiety and stress was significantly lower than the control group.",
+            "Furthermore, training for parenting stress management positively affected on the sense of demanding, reinforcement, and adaptability in child domain and also on attachment, competence, depression, relationship with spouse and family health in parent domain.",
+            "Conclusion: The intervention program was significantly effective in reducing the amount of HbA1c in diabetic children, and also reduced the intensity of psychosocial problems such as depression, anxiety and stress in the mothers caring for children with type 1 diabetes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Diabetes mellitus is a systematic metabolic dysfunction leading to inappropriate metabolism of carbohydrates, fats, and proteins [1] . It was estimated that individuals suffering from diabetes would be increased from 171 million in 2000 to 366 million by 2030 [2] . Moreover, diabetes prevalence in childhood to midadolescence is predicted to have an increase of approximately two times from 2005 to 2020 in Europe [3] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Diabetes mellitus is a systematic metabolic dysfunction leading to inappropriate metabolism of carbohydrates, fats, and proteins [1] .",
+            "It was estimated that individuals suffering from diabetes would be increased from 171 million in 2000 to 366 million by 2030 [2] .",
+            "Moreover, diabetes prevalence in childhood to midadolescence is predicted to have an increase of approximately two times from 2005 to 2020 in Europe [3] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "The eastern Mediterranean and Middle East are the areas with the highest prevalence of diabetes [4, 5] . It has been predicted that 75% of the individuals with diabetes would be in the developing countries by 2025 [6] . For example, diabetes population demonstrated a dramatic increase of 300% during 15 years in Iran (from 4 million in 1987 to 12 million in 2002) [7] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The eastern Mediterranean and Middle East are the areas with the highest prevalence of diabetes [4, 5] .",
+            "It has been predicted that 75% of the individuals with diabetes would be in the developing countries by 2025 [6] .",
+            "For example, diabetes population demonstrated a dramatic increase of 300% during 15 years in Iran (from 4 million in 1987 to 12 million in 2002) [7] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "In the individuals with type 1 diabetes mellitus, due to an unknown reason, Langerhans B cells are disrupted, decreasing insulin level [8] . This type of diabetes is one of the most common chronic diseases in children and could be potentially lifelong threatening [9] , thereby illustrating malfunction in the body organs, life style, personality and behavior, emotion distress and psychiatric problems in the children and families, especially parents [10, 11] , and this is a reason the doctors would have to treat not only the child but also the parents, particularly the mothers [12, 13] . Hence, parents have an important responsibility to improve self-care in children with diabetes from early diagnosis [14] , and also scientific literature show that families play an important role in controlling blood glucose in children [9] . Undoubtedly, the regulation of blood glucose in children with diabetes mellitus will improve the symptoms and reduce treatment costs [15] . Therefore, home management and control of diabetes immediately after diagnosis will postpone possible vascular changes for two decades, if not, these changes would be occurred within 2.5-3 years after diagnosis [16] .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "In the individuals with type 1 diabetes mellitus, due to an unknown reason, Langerhans B cells are disrupted, decreasing insulin level [8] .",
+            "This type of diabetes is one of the most common chronic diseases in children and could be potentially lifelong threatening [9] , thereby illustrating malfunction in the body organs, life style, personality and behavior, emotion distress and psychiatric problems in the children and families, especially parents [10, 11] , and this is a reason the doctors would have to treat not only the child but also the parents, particularly the mothers [12, 13] .",
+            "Hence, parents have an important responsibility to improve self-care in children with diabetes from early diagnosis [14] , and also scientific literature show that families play an important role in controlling blood glucose in children [9] .",
+            "Undoubtedly, the regulation of blood glucose in children with diabetes mellitus will improve the symptoms and reduce treatment costs [15] .",
+            "Therefore, home management and control of diabetes immediately after diagnosis will postpone possible vascular changes for two decades, if not, these changes would be occurred within 2.5-3 years after diagnosis [16] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Given the main role of cognitive function and psychiatric reactions in families, especially mothers as the primary caregivers, in successful treatment and control of diabetes, psychotherapeutic intervention such as cognitive behavioral therapy and stress management could reduce and prevent psycho-social complications, and then managing their stress [17, 18] . Therefore, the present study was aimed to evaluate the effectiveness of stress management through cognitive-behavioral therapy in controlling the blood glucose of children with type 1 diabetes mellitus as well as in mental health of their mothers.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Given the main role of cognitive function and psychiatric reactions in families, especially mothers as the primary caregivers, in successful treatment and control of diabetes, psychotherapeutic intervention such as cognitive behavioral therapy and stress management could reduce and prevent psycho-social complications, and then managing their stress [17, 18] .",
+            "Therefore, the present study was aimed to evaluate the effectiveness of stress management through cognitive-behavioral therapy in controlling the blood glucose of children with type 1 diabetes mellitus as well as in mental health of their mothers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "The study was done in the Aram Consultation Center in Shahrekord city in Iran. Two groups of children suffering from type 1 diabetes mellitus besides their mothers (experimental and control ones; n = 25 for each one; with 9.27 AE 2.56 and 9.12 AE 1.86 years old, respectively) were evaluated. The percentage of female children in the experimental and control groups were 72% and 64%, respectively. The parents had secondary to high education levels in both groups. All of the diabetic candidates were randomly selected and a written consent was gained from the mothers. The importance of the study was firstly explained for the mothers and the following biochemical assessment and screening tools were carried out: glycosylated hemoglobin test (Hb A1C) on diabetic patients as well as depression, anxiety, stress scale (DASS), and parenting stress index (PSI). DASS is a self-report questionnaire designed by Lovibond in 1995 and consisting 42 multiplechoice questions related to depression, anxiety and stress. The possible answers are \"never\", \"sometimes\", \"often\", and \"almost always\" with the scores of 0, 1, 2, and 3, respectively, and the total score (within the range of 0-42) represents the estimated level of depression, anxiety, and stress. PSI is applied to evaluate parenting stress based on children and parents characteristics and also various situations directly related to parenting. The index is scored according to Likert methods as absolutely agree to strongly disagree (ranging from 1 to 5). PSI for parents with child domain consists of forty-seven items and six scales including adoptability (11 items), acceptability (7 items), demandingness (9 items), mood (5 items), distractibility/hyperactivity (9 items), reinforces parent (6 items) and for ones with parent domain consists of 54 items and 7 scales including depression (9 items), attachment (7 items), role restriction (7 items), competence (13 items), isolation (6 items), spouse/partner relationship (7 items), health (7 items) and total stress (19 voluntary items) . Having undergone a pre-assessment, a group of mothers (n = 25, as experimental ones) were trained to intervene in diabetes management through sessions of cognitive behavioral therapy held by psycho-therapists, and the control one was remained untrained. Both trained and untrained mothers answered the questionnaires before and after the intervention and HbA1c test was done on children after the intervention. The educational diabetes management sessions were held for eight 2-h ones during two months. The sessions were dealt with the following issues: the first, introducing the factors causing stress and the effects of stress on blood glucose as well as educating selfrelaxation and diaphragmatic breathing; the second and third, relationship between thinking and emotion and how to recognize illogical thoughts and also to reassess the thoughts and challenge them as a way to change illogical thinking; the fourth, anger management; the fifth, problem solution; the sixth, communication and self-presentation; the seventh, time management; and eighth, review the skills taught in the previous sessions. The trained mothers practically applied the taught issues at home to their diabetes children and reported on how they had done.",
+        "section": "Material and methods",
+        "section_number": 5,
+        "sentences": [
+            "The study was done in the Aram Consultation Center in Shahrekord city in Iran.",
+            "Two groups of children suffering from type 1 diabetes mellitus besides their mothers (experimental and control ones; n = 25 for each one; with 9.27 AE 2.56 and 9.12 AE 1.86 years old, respectively) were evaluated.",
+            "The percentage of female children in the experimental and control groups were 72% and 64%, respectively.",
+            "The parents had secondary to high education levels in both groups.",
+            "All of the diabetic candidates were randomly selected and a written consent was gained from the mothers.",
+            "The importance of the study was firstly explained for the mothers and the following biochemical assessment and screening tools were carried out: glycosylated hemoglobin test (Hb A1C) on diabetic patients as well as depression, anxiety, stress scale (DASS), and parenting stress index (PSI).",
+            "DASS is a self-report questionnaire designed by Lovibond in 1995 and consisting 42 multiplechoice questions related to depression, anxiety and stress.",
+            "The possible answers are \"never\", \"sometimes\", \"often\", and \"almost always\" with the scores of 0, 1, 2, and 3, respectively, and the total score (within the range of 0-42) represents the estimated level of depression, anxiety, and stress.",
+            "PSI is applied to evaluate parenting stress based on children and parents characteristics and also various situations directly related to parenting.",
+            "The index is scored according to Likert methods as absolutely agree to strongly disagree (ranging from 1 to 5).",
+            "PSI for parents with child domain consists of forty-seven items and six scales including adoptability (11 items), acceptability (7 items), demandingness (9 items), mood (5 items), distractibility/hyperactivity (9 items), reinforces parent (6 items) and for ones with parent domain consists of 54 items and 7 scales including depression (9 items), attachment (7 items), role restriction (7 items), competence (13 items), isolation (6 items), spouse/partner relationship (7 items), health (7 items) and total stress (19 voluntary items) .",
+            "Having undergone a pre-assessment, a group of mothers (n = 25, as experimental ones) were trained to intervene in diabetes management through sessions of cognitive behavioral therapy held by psycho-therapists, and the control one was remained untrained.",
+            "Both trained and untrained mothers answered the questionnaires before and after the intervention and HbA1c test was done on children after the intervention.",
+            "The educational diabetes management sessions were held for eight 2-h ones during two months.",
+            "The sessions were dealt with the following issues: the first, introducing the factors causing stress and the effects of stress on blood glucose as well as educating selfrelaxation and diaphragmatic breathing; the second and third, relationship between thinking and emotion and how to recognize illogical thoughts and also to reassess the thoughts and challenge them as a way to change illogical thinking; the fourth, anger management; the fifth, problem solution; the sixth, communication and self-presentation; the seventh, time management; and eighth, review the skills taught in the previous sessions.",
+            "The trained mothers practically applied the taught issues at home to their diabetes children and reported on how they had done."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "42545",
+        "text": "The acquired data was coded using SPSS software (version. 22) and descriptive statistics (frequency, central tendency, standard deviation) and analysis statistics (t-test, paired t-test, K2 test) were conducted, and all results are presented as the mean AE standard deviation (S.D.). Significant differences were determined between the experimental group and the respective control group (P < 0.05).",
+        "section": "Statistical analysis",
+        "section_number": 6,
+        "sentences": [
+            "The acquired data was coded using SPSS software (version.",
+            "22) and descriptive statistics (frequency, central tendency, standard deviation) and analysis statistics (t-test, paired t-test, K2 test) were conducted, and all results are presented as the mean AE standard deviation (S.D.).",
+            "Significant differences were determined between the experimental group and the respective control group (P < 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Measurements of HbA1c level significantly decreased in the children received the diabetes management intervention from their educated mothers (P = 0.002), i.e., the blood parameter statistically changed in the experimental group undergone the intervention (before, 10.1 AE1.91; and after, 8.81 AE1.71), while no significant change was observed in the control group (before, 10 AE 2.16; and after, 9.74 AE 1.78). Moreover, the amount of HbA1c in the children received the parental intervention sessions was significantly lower than the control group.",
+        "section": "Results",
+        "section_number": 7,
+        "sentences": [
+            "Measurements of HbA1c level significantly decreased in the children received the diabetes management intervention from their educated mothers (P = 0.002), i.e., the blood parameter statistically changed in the experimental group undergone the intervention (before, 10.1 AE1.91; and after, 8.81 AE1.71), while no significant change was observed in the control group (before, 10 AE 2.16; and after, 9.74 AE 1.78).",
+            "Moreover, the amount of HbA1c in the children received the parental intervention sessions was significantly lower than the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Cognitive behavioral therapy and stress management significantly reduced depression, anxiety, and stress in mothers of children suffering from type1diabetes mellitus ( Table 1 ). The Table 1 The average scores for depression, anxiety, and stress (DASS) in two groups of mothers (Control group; without stress management education, and experimental group; educated one) with diabetes mellitus children before and after an educational stress management sessions.",
+        "section": "Results",
+        "section_number": 8,
+        "sentences": [
+            "Cognitive behavioral therapy and stress management significantly reduced depression, anxiety, and stress in mothers of children suffering from type1diabetes mellitus ( Table 1 ).",
+            "The Table 1 The average scores for depression, anxiety, and stress (DASS) in two groups of mothers (Control group; without stress management education, and experimental group; educated one) with diabetes mellitus children before and after an educational stress management sessions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Mean The effectiveness of cognitive behavioral therapy stress management, based on the obtained scores from PSI questionnaires, was significantly increased in child domain following the intervention and also when compared to the control group (Table 2 ; P < 0.05), i.e., the average score for distractibility/ hyperactivity, reinforces and adoptability in the child domain group significantly decreased after intervention.",
+        "section": "Variant",
+        "section_number": 9,
+        "sentences": [
+            "Mean The effectiveness of cognitive behavioral therapy stress management, based on the obtained scores from PSI questionnaires, was significantly increased in child domain following the intervention and also when compared to the control group (Table 2 ; P < 0.05), i.e., the average score for distractibility/ hyperactivity, reinforces and adoptability in the child domain group significantly decreased after intervention."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "The effectiveness of intervention for the parent domain in the experimental group is shown in Table 3 . After intervention and also when compared to the control group, the average score for competence, attachment, and depression was significantly decreased, but increased for spouse/partner relationship and parent health (P < 0.05).",
+        "section": "Variant",
+        "section_number": 10,
+        "sentences": [
+            "The effectiveness of intervention for the parent domain in the experimental group is shown in Table 3 .",
+            "After intervention and also when compared to the control group, the average score for competence, attachment, and depression was significantly decreased, but increased for spouse/partner relationship and parent health (P < 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Parents are the main accountable for daily management of children with type 1 diabetes mellitus, which has a considerable impact on mental health of family. Although high technological advances improved the families to diabetes management, caring for diabetic children is time-consuming and leads to parental stress, distress, and lifestyle changes. Hence, improving the ability of parenting a diabetic child through educational stress Table 2 The average scores for six sub-scales in child domain obtained from Parent stress index questionnaire (P.S.I) before and after intervention of two groups of mothers (Control group; without stress management education, and experimental group; educated one) caring for diabetic children.",
+        "section": "Discussion",
+        "section_number": 11,
+        "sentences": [
+            "Parents are the main accountable for daily management of children with type 1 diabetes mellitus, which has a considerable impact on mental health of family.",
+            "Although high technological advances improved the families to diabetes management, caring for diabetic children is time-consuming and leads to parental stress, distress, and lifestyle changes.",
+            "Hence, improving the ability of parenting a diabetic child through educational stress Table 2 The average scores for six sub-scales in child domain obtained from Parent stress index questionnaire (P.S.I) before and after intervention of two groups of mothers (Control group; without stress management education, and experimental group; educated one) caring for diabetic children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "Mean Data are means AE S.D. Asterisk (*) indicates a statistically significant difference between the control group and the experimental group and also between the experimental group before and after the educational stress management course. Table 3 the average scores for six sub-scales in parent domain obtained from Parent stress index questionnaire (P.S.I) before and after intervention of two groups of mothers (Control group; without stress management education, and experimental group; educated one) caring for diabetic children. management courses could be effective in parental and/or family intervention [19, 20] . The present research showed a significant reduction of blood HbA1c in the experimental children in whose favor their mothers had attended in a cognitive-function stress management course. This finding is in accordance with Sobhi study (2010) in which a positive correlation was observed between blood HbA1c level in diabetic children with their mothers' depression depth, suggesting emotional coping strategy by mother could effectively prevent the child with type 1 diabetes mellitus from increasing the blood HbA1c level. Further research demonstrated that good behavior between family members effectively impact on self-control, metabolic control and the life quality of their diabetic individuals [9] . Greco study demonstrated that HbA1c levels significantly decreased at the end of three and six month education about stress management comparing to the levels that had been measured prior to the education [21] , besides other studies found high effectiveness of behavioral intervention and challenging experience on the blood glucose in seventy-seven diabetic adolescents with type1diabetes mellitus [22] [23] [24] . DASS questionnaire data analysis showed that cognitive behavioral therapy and stress management lead to a significant decrease in depression, anxiety, and stress after an educational course, but no considerable change was observed in these mental features for the mothers in the control group. Parental anxiety and depression could be reduced following the improvement of confrontational skills and required practices for integrating the introduced techniques in different life circumstances and cognitive assessment modification [25, 26] . Therefore, the observed reduction in parental anxiety and depression could be in associated with the held educational management course. Moreover, cognitive function stress management techniques such as awareness of negative thoughts as well as illogical and logical self-talk could be the other reasons for the observed reduction in anxiety, depression, and stress.",
+        "section": "Variant",
+        "section_number": 12,
+        "sentences": [
+            "Mean Data are means AE S.D. Asterisk (*) indicates a statistically significant difference between the control group and the experimental group and also between the experimental group before and after the educational stress management course.",
+            "Table 3 the average scores for six sub-scales in parent domain obtained from Parent stress index questionnaire (P.S.I) before and after intervention of two groups of mothers (Control group; without stress management education, and experimental group; educated one) caring for diabetic children.",
+            "management courses could be effective in parental and/or family intervention [19, 20] .",
+            "The present research showed a significant reduction of blood HbA1c in the experimental children in whose favor their mothers had attended in a cognitive-function stress management course.",
+            "This finding is in accordance with Sobhi study (2010) in which a positive correlation was observed between blood HbA1c level in diabetic children with their mothers' depression depth, suggesting emotional coping strategy by mother could effectively prevent the child with type 1 diabetes mellitus from increasing the blood HbA1c level.",
+            "Further research demonstrated that good behavior between family members effectively impact on self-control, metabolic control and the life quality of their diabetic individuals [9] .",
+            "Greco study demonstrated that HbA1c levels significantly decreased at the end of three and six month education about stress management comparing to the levels that had been measured prior to the education [21] , besides other studies found high effectiveness of behavioral intervention and challenging experience on the blood glucose in seventy-seven diabetic adolescents with type1diabetes mellitus [22] [23] [24] .",
+            "DASS questionnaire data analysis showed that cognitive behavioral therapy and stress management lead to a significant decrease in depression, anxiety, and stress after an educational course, but no considerable change was observed in these mental features for the mothers in the control group.",
+            "Parental anxiety and depression could be reduced following the improvement of confrontational skills and required practices for integrating the introduced techniques in different life circumstances and cognitive assessment modification [25, 26] .",
+            "Therefore, the observed reduction in parental anxiety and depression could be in associated with the held educational management course.",
+            "Moreover, cognitive function stress management techniques such as awareness of negative thoughts as well as illogical and logical self-talk could be the other reasons for the observed reduction in anxiety, depression, and stress."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "The PSI questionnaire data showed that cognitive-function stress management was a high effectual parental intervention; the average score for distractibility/hyperactivity, reinforces and adoptability in the child domain group significantly decreased after intervention, and the similar effectiveness of intervention was hold for parent domain subscales in the experimental group, in that, competence, attachment, and depression indices decreased, but spouse/partner relationship and parent health increased. These data are in consistent with Dehkordi's study in which parenting education reduced mothers' stress in both parent and child domain [27] .",
+        "section": "Variant",
+        "section_number": 13,
+        "sentences": [
+            "The PSI questionnaire data showed that cognitive-function stress management was a high effectual parental intervention; the average score for distractibility/hyperactivity, reinforces and adoptability in the child domain group significantly decreased after intervention, and the similar effectiveness of intervention was hold for parent domain subscales in the experimental group, in that, competence, attachment, and depression indices decreased, but spouse/partner relationship and parent health increased.",
+            "These data are in consistent with Dehkordi's study in which parenting education reduced mothers' stress in both parent and child domain [27] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "According to the findings, stress management base on cognitive-behavioral education could be established as a highly effective way not only to reduce stress in mothers caring for children suffering from type 1 diabetes mellitus but also to control blood glucose in the patients. In addition, it is necessary that parents with diabetic children be educated to reduce parental distress in child domain, to improve parent-child relationship, and to reduce depression, anxiety and stress and in mothers.",
+        "section": "Conclusion",
+        "section_number": 14,
+        "sentences": [
+            "According to the findings, stress management base on cognitive-behavioral education could be established as a highly effective way not only to reduce stress in mothers caring for children suffering from type 1 diabetes mellitus but also to control blood glucose in the patients.",
+            "In addition, it is necessary that parents with diabetic children be educated to reduce parental distress in child domain, to improve parent-child relationship, and to reduce depression, anxiety and stress and in mothers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42545",
+        "text": "No Conflict of interest exists between the authors and they have a final decision to submit the manuscript to journal of \"Diabetes & Metabolic Syndrome: Clinical Research & Reviews\"",
+        "section": "Conflict of interest",
+        "section_number": 15,
+        "sentences": [
+            "No Conflict of interest exists between the authors and they have a final decision to submit the manuscript to journal of \"Diabetes & Metabolic Syndrome: Clinical Research & Reviews\""
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

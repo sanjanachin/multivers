@@ -1,0 +1,859 @@
+[
+    {
+        "doc_id": "47977",
+        "text": "Objective: To investigate the impact of an early intervention programme, Preparing for Life, on dietary intake between 12 and 36 months of age, and the mediating role played by diet on cognitive functioning. Design: A randomised controlled trial evaluation of a community-based home visiting programme. The intervention involved biweekly visits from mentors from pregnancy until age 5 years and parent training at age 2 years. Dietary intake was assessed at 12, 18, 24 and 36 months using an FFQ to calculate the proportion meeting dietary recommendations. Cognitive functioning was measured at 24 and 36 months. Treatment effects were estimated using conventional \u03c7 2 tests, permutation testing, inverse probability weighting and the stepdown procedure. Mediation analysis examined the indirect effect of the intervention on cognitive functioning via its effect on dietary intake. Setting: Socioeconomically disadvantaged communities in Dublin, Republic of Ireland. Subjects: Pregnant women (n 233) were assigned to the intervention (n 115) or control (n 118) group using an unconditional probability randomisation strategy. Results: Positive treatment effects were observed for meeting dietary recommendations for protein foods at 24 (OR = 2\u202252) and 36 (OR = 2\u202242) months, and all food groups at 24 (OR = 3\u202292) months. There were no effects on grain, dairy, fruit and vegetable, or fatty/sugary food recommendations in most models. The conventional and more novel methods yielded similar results. Mediation analysis indicated that 13 % of the intervention's effect on cognitive functioning was mediated by 36-month protein food consumption. Conclusions: The study demonstrates some potential to alter early childhood dietary patterns through community-based intervention programmes.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: To investigate the impact of an early intervention programme, Preparing for Life, on dietary intake between 12 and 36 months of age, and the mediating role played by diet on cognitive functioning.",
+            "Design: A randomised controlled trial evaluation of a community-based home visiting programme.",
+            "The intervention involved biweekly visits from mentors from pregnancy until age 5 years and parent training at age 2 years.",
+            "Dietary intake was assessed at 12, 18, 24 and 36 months using an FFQ to calculate the proportion meeting dietary recommendations.",
+            "Cognitive functioning was measured at 24 and 36 months.",
+            "Treatment effects were estimated using conventional \u03c7 2 tests, permutation testing, inverse probability weighting and the stepdown procedure.",
+            "Mediation analysis examined the indirect effect of the intervention on cognitive functioning via its effect on dietary intake.",
+            "Setting: Socioeconomically disadvantaged communities in Dublin, Republic of Ireland.",
+            "Subjects: Pregnant women (n 233) were assigned to the intervention (n 115) or control (n 118) group using an unconditional probability randomisation strategy.",
+            "Results: Positive treatment effects were observed for meeting dietary recommendations for protein foods at 24 (OR = 2\u202252) and 36 (OR = 2\u202242) months, and all food groups at 24 (OR = 3\u202292) months.",
+            "There were no effects on grain, dairy, fruit and vegetable, or fatty/sugary food recommendations in most models.",
+            "The conventional and more novel methods yielded similar results.",
+            "Mediation analysis indicated that 13 % of the intervention's effect on cognitive functioning was mediated by 36-month protein food consumption.",
+            "Conclusions: The study demonstrates some potential to alter early childhood dietary patterns through community-based intervention programmes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The critical nature of pregnancy, infancy and early childhood for lifelong development is echoed across multiple disciplines. A child's health and development is shaped by his/her genes and a range of intrinsically connected environmental factors including socio-economic status (SES) and parenting practices (1) . Nutrition also influences a child's development, with effects beginning prior to birth and continuing into adulthood (2) . Such individual environmental factors are complicated by the connections between them. For example, parenting and food-related parenting practices may influence children's eating behaviour, dietary intake and food preferences (3) . In addition, SES indicators are associated with general parenting (4) and food-specific parenting practices (5) , while positive parenting can mediate the negative impact of low SES on cognitive outcomes (6) . Thus, identifying targeted interventions which alter the food-related parenting practices of low-SES families is a salient issue.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "The critical nature of pregnancy, infancy and early childhood for lifelong development is echoed across multiple disciplines.",
+            "A child's health and development is shaped by his/her genes and a range of intrinsically connected environmental factors including socio-economic status (SES) and parenting practices (1) .",
+            "Nutrition also influences a child's development, with effects beginning prior to birth and continuing into adulthood (2) .",
+            "Such individual environmental factors are complicated by the connections between them.",
+            "For example, parenting and food-related parenting practices may influence children's eating behaviour, dietary intake and food preferences (3) .",
+            "In addition, SES indicators are associated with general parenting (4) and food-specific parenting practices (5) , while positive parenting can mediate the negative impact of low SES on cognitive outcomes (6) .",
+            "Thus, identifying targeted interventions which alter the food-related parenting practices of low-SES families is a salient issue."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Diet supplies the nutritional substrates required for rapid growth and brain development. Key nutrients include protein, iron, zinc, selenium, iodine, folate, vitamin A, choline and long-chain PUFA (7) . Evidence from developing countries shows that undernutrition in early childhood is associated with poorer cognitive development and academic performance (8) . In developed countries, breast-feeding has been associated with improved cognitive development in observational studies (9) . The majority of research examining the relationship between diet and cognition focuses on individual nutrients (10) ; however, some studies have examined food groups, such as animal-source foods, and reported significant positive associations with cognitive functioning (11) .",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "Diet supplies the nutritional substrates required for rapid growth and brain development.",
+            "Key nutrients include protein, iron, zinc, selenium, iodine, folate, vitamin A, choline and long-chain PUFA (7) .",
+            "Evidence from developing countries shows that undernutrition in early childhood is associated with poorer cognitive development and academic performance (8) .",
+            "In developed countries, breast-feeding has been associated with improved cognitive development in observational studies (9) .",
+            "The majority of research examining the relationship between diet and cognition focuses on individual nutrients (10) ; however, some studies have examined food groups, such as animal-source foods, and reported significant positive associations with cognitive functioning (11) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "A limited number of studies have examined the association between whole dietary intake and cognitive development based on dietary pattern analysis (12, 13) or a score/index system representing adherence to dietary guidelines (14) . Reports from the Avon Longitudinal Study of Parents and Children suggest that 'discretionary' or 'processed' dietary patterns in infancy and early childhood are negatively associated with intelligence quotient (IQ), while 'breast-feeding' and 'homemade contemporary' patterns are associated with a higher IQ (12, 13) . The Western Australian Pregnancy Cohort Study also reported a significant positive correlation between diet at age 1 year and cognitive outcomes at age 10 years by consolidating dietary intake to generate a single diet score (14) . These studies found that adjusting for covariates, including SES, attenuated the relationship between diet and IQ; however, the associations remained statistically significant.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "A limited number of studies have examined the association between whole dietary intake and cognitive development based on dietary pattern analysis (12, 13) or a score/index system representing adherence to dietary guidelines (14) .",
+            "Reports from the Avon Longitudinal Study of Parents and Children suggest that 'discretionary' or 'processed' dietary patterns in infancy and early childhood are negatively associated with intelligence quotient (IQ), while 'breast-feeding' and 'homemade contemporary' patterns are associated with a higher IQ (12, 13) .",
+            "The Western Australian Pregnancy Cohort Study also reported a significant positive correlation between diet at age 1 year and cognitive outcomes at age 10 years by consolidating dietary intake to generate a single diet score (14) .",
+            "These studies found that adjusting for covariates, including SES, attenuated the relationship between diet and IQ; however, the associations remained statistically significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Given the links between SES and diet (15) , different types of nutrition interventions targeting disadvantaged children have evolved (16) (17) (18) . Multifaceted interventions, such as home visiting programmes (HVP), have a broader remit than nutrition-focused interventions and typically target the holistic development of the child through improving parenting practices. By aiming to improve the child's development, HVP may also impact upon dietary practices. Systematic reviews of HVP have identified effects on parenting practices, child health and cognitive development (19, 20) . Yet few HVP have measured children's dietary practices. Exceptions include two HVP reporting a positive impact on breastfeeding practices (21, 22) and others reporting effects on fruit and vegetable consumption and overall dietary intake (23) (24) (25) .",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "Given the links between SES and diet (15) , different types of nutrition interventions targeting disadvantaged children have evolved (16) (17) (18) .",
+            "Multifaceted interventions, such as home visiting programmes (HVP), have a broader remit than nutrition-focused interventions and typically target the holistic development of the child through improving parenting practices.",
+            "By aiming to improve the child's development, HVP may also impact upon dietary practices.",
+            "Systematic reviews of HVP have identified effects on parenting practices, child health and cognitive development (19, 20) .",
+            "Yet few HVP have measured children's dietary practices.",
+            "Exceptions include two HVP reporting a positive impact on breastfeeding practices (21, 22) and others reporting effects on fruit and vegetable consumption and overall dietary intake (23) (24) (25) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The present study is a randomised controlled trial examining the impact of the Preparing for Life (PFL) HVP on maternal reports of adherence to food-based dietary guidelines from 12 to 36 months of age and the mediating role of diet on cognitive functioning. PFL is a 5-year programme that aims to improve children's health and development in disadvantaged communities. The ultimate goal of the programme is to improve children's school readiness skills at age 4/5 years by intervening during pregnancy and working with families until the children start school. The programme adopts a holistic view of school readiness in accordance with best practice which identifies five domains of importance: (i) physical health and well-being; (ii) socio-emotional development; (iii) approaches to learning; (iv) language development and emergent literacy; and (v) cognition. The present study examines the evolving impact of the programme on two of these domains: physical health and cognition.",
+        "section": "",
+        "section_number": 5,
+        "sentences": [
+            "The present study is a randomised controlled trial examining the impact of the Preparing for Life (PFL) HVP on maternal reports of adherence to food-based dietary guidelines from 12 to 36 months of age and the mediating role of diet on cognitive functioning.",
+            "PFL is a 5-year programme that aims to improve children's health and development in disadvantaged communities.",
+            "The ultimate goal of the programme is to improve children's school readiness skills at age 4/5 years by intervening during pregnancy and working with families until the children start school.",
+            "The programme adopts a holistic view of school readiness in accordance with best practice which identifies five domains of importance: (i) physical health and well-being; (ii) socio-emotional development; (iii) approaches to learning; (iv) language development and emergent literacy; and (v) cognition.",
+            "The present study examines the evolving impact of the programme on two of these domains: physical health and cognition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The trial was registered with controlled-trials.com (ISRCTN04631728, http://www.controlled-trials.com/ISRC TN04631728/) and was conducted and reported in conformity with CONSORT (Consolidated Standards of Reporting Trials) guidelines.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "The trial was registered with controlled-trials.com (ISRCTN04631728, http://www.controlled-trials.com/ISRC TN04631728/) and was conducted and reported in conformity with CONSORT (Consolidated Standards of Reporting Trials) guidelines."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The study design and protocol have been described elsewhere and are summarized below (26) . The PFL programme enrolled pregnant women from a community in Dublin, Republic of Ireland, which had above national average rates of unemployment (16 % v. 5\u20223 %), school dropout (66 % v. 38 %), lone-parent households (47 % v. 29 %) and public housing (60 % v. 20 %) prior to recruitment. The inclusion criteria included all pregnant women living in the catchment area, regardless of parity. There were no exclusion criteria. Participation was voluntary and recruitment took place through two maternity hospitals or self-referral in the community by the PFL recruitment officer between 2008 and 2010. Written informed consent was obtained from all participants prior to randomisation. The sample size was calculated based on small to moderate effect sizes (standardised difference between group means) on the primary outcomes of child school readiness as identified by previous meta-analytic studies (27) with a power of 80 % (P = 0\u202205, two-tailed test).",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "The study design and protocol have been described elsewhere and are summarized below (26) .",
+            "The PFL programme enrolled pregnant women from a community in Dublin, Republic of Ireland, which had above national average rates of unemployment (16 % v. 5\u20223 %), school dropout (66 % v. 38 %), lone-parent households (47 % v. 29 %) and public housing (60 % v. 20 %) prior to recruitment.",
+            "The inclusion criteria included all pregnant women living in the catchment area, regardless of parity.",
+            "There were no exclusion criteria.",
+            "Participation was voluntary and recruitment took place through two maternity hospitals or self-referral in the community by the PFL recruitment officer between 2008 and 2010.",
+            "Written informed consent was obtained from all participants prior to randomisation.",
+            "The sample size was calculated based on small to moderate effect sizes (standardised difference between group means) on the primary outcomes of child school readiness as identified by previous meta-analytic studies (27) with a power of 80 % (P = 0\u202205, two-tailed test)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "An unconditional probability randomisation procedure assigned 115 participants to the intervention group and 118 to the control group. No stratification or block techniques were used. To ensure randomisation was not compromised each participant clicked on the randomisation website where she was automatically assigned a number which corresponded to her treatment assignment. This process generated an automatic email with her assignment condition and identification code, thus ensuring that participants could not be reassigned once randomised.",
+        "section": "Participants",
+        "section_number": 8,
+        "sentences": [
+            "An unconditional probability randomisation procedure assigned 115 participants to the intervention group and 118 to the control group.",
+            "No stratification or block techniques were used.",
+            "To ensure randomisation was not compromised each participant clicked on the randomisation website where she was automatically assigned a number which corresponded to her treatment assignment.",
+            "This process generated an automatic email with her assignment condition and identification code, thus ensuring that participants could not be reassigned once randomised."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Participants were assigned to an intervention group receiving a community-based HVP and an additional parenting course, or to a control group. HVP provide parents with information, instruction on parenting practices, emotional support and access to community services (28) . PFL prescribed twice monthly home visits, lasting approximately an hour, delivered by mentors with college degrees in education, social care and youth studies. The aim of the visits was to support and educate the parents on the identification of developmental milestones and appropriate parenting practices that promote children's health and development. Between programme entry and age 3 years the average number of visits delivered was fifty-one, which was below the eighty-eight home visits prescribed during this period (58 %). Mentors received extensive training prior to programme implementation and monthly supervision thereafter. Each family was assigned the same mentor over the course of the intervention where possible. The mentors used role modelling, demonstration, coaching, discussion, encouragement and feedback to deliver the intervention. Visits were guided by Tip Sheets which were tailored based on the age of the child and the needs of the family. Forty-six Tip Sheets delivered between programme entry and age 3 years emphasised child nutrition and dietary recommendations and included topics such as 'breast-feeding', 'iron and calcium', 'the food pyramid' and 'food groups'. For example, a Tip Sheet on iron stated that 'Iron is a very important part of your child's diet as it helps both physical and mental development. Even a short-term lack of iron could cause your child to become iron deficient and anaemic.' The 'food pyramid' and 'food group' Tip Sheets provided information on dietary recommendations including examples of portions of foods within groups. An example of this Tip Sheet is provided in the online supplementary material.",
+        "section": "Intervention",
+        "section_number": 9,
+        "sentences": [
+            "Participants were assigned to an intervention group receiving a community-based HVP and an additional parenting course, or to a control group.",
+            "HVP provide parents with information, instruction on parenting practices, emotional support and access to community services (28) .",
+            "PFL prescribed twice monthly home visits, lasting approximately an hour, delivered by mentors with college degrees in education, social care and youth studies.",
+            "The aim of the visits was to support and educate the parents on the identification of developmental milestones and appropriate parenting practices that promote children's health and development.",
+            "Between programme entry and age 3 years the average number of visits delivered was fifty-one, which was below the eighty-eight home visits prescribed during this period (58 %).",
+            "Mentors received extensive training prior to programme implementation and monthly supervision thereafter.",
+            "Each family was assigned the same mentor over the course of the intervention where possible.",
+            "The mentors used role modelling, demonstration, coaching, discussion, encouragement and feedback to deliver the intervention.",
+            "Visits were guided by Tip Sheets which were tailored based on the age of the child and the needs of the family.",
+            "Forty-six Tip Sheets delivered between programme entry and age 3 years emphasised child nutrition and dietary recommendations and included topics such as 'breast-feeding', 'iron and calcium', 'the food pyramid' and 'food groups'.",
+            "For example, a Tip Sheet on iron stated that 'Iron is a very important part of your child's diet as it helps both physical and mental development.",
+            "Even a short-term lack of iron could cause your child to become iron deficient and anaemic.'",
+            "The 'food pyramid' and 'food group' Tip Sheets provided information on dietary recommendations including examples of portions of foods within groups.",
+            "An example of this Tip Sheet is provided in the online supplementary material."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The intervention also included the delivery of the Triple P Positive Parenting Program (29) between 2 and 3 years of age. Triple P promotes healthy parenting practices and positive parent-child attachment, and meta-analysis has demonstrated positive effects regarding parenting practices and children's social, emotional and behavioural outcomes (30) . Sixty-two per cent of intervention participants who completed the interview at age 3 years took part in some form of Triple P, with the majority availing of Group Triple P which consists of five 2 h group discussion sessions and three individual telephone calls facilitated by the mentors. The group-based sessions, including about eight to ten parents in each group, aimed to improve positive parenting through the use of role play, videos, vignettes and Tip Sheets.",
+        "section": "Intervention",
+        "section_number": 10,
+        "sentences": [
+            "The intervention also included the delivery of the Triple P Positive Parenting Program (29) between 2 and 3 years of age.",
+            "Triple P promotes healthy parenting practices and positive parent-child attachment, and meta-analysis has demonstrated positive effects regarding parenting practices and children's social, emotional and behavioural outcomes (30) .",
+            "Sixty-two per cent of intervention participants who completed the interview at age 3 years took part in some form of Triple P, with the majority availing of Group Triple P which consists of five 2 h group discussion sessions and three individual telephone calls facilitated by the mentors.",
+            "The group-based sessions, including about eight to ten parents in each group, aimed to improve positive parenting through the use of role play, videos, vignettes and Tip Sheets."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The intervention and control groups received some common supports including child developmental materials and book packs, and were encouraged to attend public health workshops on stress management and healthy eating. Only eighteen mothers in the intervention group and nine mothers in the control group participated in the healthy eating workshops. They also had access to a support worker who could help them avail of community services if needed. Note that the control group did not receive the HVP, Tip Sheets or Triple P.",
+        "section": "Intervention",
+        "section_number": 11,
+        "sentences": [
+            "The intervention and control groups received some common supports including child developmental materials and book packs, and were encouraged to attend public health workshops on stress management and healthy eating.",
+            "Only eighteen mothers in the intervention group and nine mothers in the control group participated in the healthy eating workshops.",
+            "They also had access to a support worker who could help them avail of community services if needed.",
+            "Note that the control group did not receive the HVP, Tip Sheets or Triple P."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "All interviews were conducted by trained interviewers who were blinded to participants' treatment status and not involved in intervention delivery or data analysis. Each participant received a \u20ac20 shopping voucher per interview.",
+        "section": "Data collection and measures",
+        "section_number": 12,
+        "sentences": [
+            "All interviews were conducted by trained interviewers who were blinded to participants' treatment status and not involved in intervention delivery or data analysis.",
+            "Each participant received a \u20ac20 shopping voucher per interview."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Food frequency questions were adapted from the Lifeways Cross-Generation Cohort Study (31) by combining fifty-two individual food items into the six main food groups reflecting national healthy eating guidelines and the food pyramid groups. At the 12-, 18-, 24-and 36-month interviews, mothers were asked how often their child ate grains (i.e. cereals, breads, potatoes, pasta and rice food group), dairy (i.e. milk, yoghurt and cheese food group), protein (i.e. meat, poultry, fish and alternatives food group), fruit (including juices), vegetables (including juices) and other foods (including sugars and fats, sweets, crisps, etc.) on a 9-point scale ranging from 'never' to 'more than 6 times per day'. Six binary variables were created indicating whether the child consumed the recommended daily number of servings as set out in the Food and Nutrition Guidelines for Pre-school Services (32) and as endorsed by the PFL Tip Sheets. Hereafter, 'grains', 'protein' and 'dairy' refer to their respective food groups. Participants who stated that their child consumed two to three servings or more of grains, protein and dairy daily were coded as meeting recommendations. Children who consumed four or more total portions of fruit and vegetables daily were classified as meeting recommendations. For 'other foods', children who consumed fatty/sugary foods less than once daily were coded as meeting recommendations. The final binary variable indicated whether the participant met all four dietary recommendations for each food group excluding 'other foods'.",
+        "section": "Dietary intake",
+        "section_number": 13,
+        "sentences": [
+            "Food frequency questions were adapted from the Lifeways Cross-Generation Cohort Study (31) by combining fifty-two individual food items into the six main food groups reflecting national healthy eating guidelines and the food pyramid groups.",
+            "At the 12-, 18-, 24-and 36-month interviews, mothers were asked how often their child ate grains (i.e. cereals, breads, potatoes, pasta and rice food group), dairy (i.e. milk, yoghurt and cheese food group), protein (i.e. meat, poultry, fish and alternatives food group), fruit (including juices), vegetables (including juices) and other foods (including sugars and fats, sweets, crisps, etc.)",
+            "on a 9-point scale ranging from 'never' to 'more than 6 times per day'.",
+            "Six binary variables were created indicating whether the child consumed the recommended daily number of servings as set out in the Food and Nutrition Guidelines for Pre-school Services (32) and as endorsed by the PFL Tip Sheets.",
+            "Hereafter, 'grains', 'protein' and 'dairy' refer to their respective food groups.",
+            "Participants who stated that their child consumed two to three servings or more of grains, protein and dairy daily were coded as meeting recommendations.",
+            "Children who consumed four or more total portions of fruit and vegetables daily were classified as meeting recommendations.",
+            "For 'other foods', children who consumed fatty/sugary foods less than once daily were coded as meeting recommendations.",
+            "The final binary variable indicated whether the participant met all four dietary recommendations for each food group excluding 'other foods'."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Cognitive development was assessed at 24 and 36 months using the thirty-eight-item parent report Developmental Profile-3: cognitive section (DP-3) (33) . Each item referred to tasks which required cognitive skill; for example, 'Does your child point to at least twenty things or pictures when they are named?' For each item, mothers were asked whether their child had carried out the task. The 'yes' responses were tabulated to create a continuous score, whereby higher values indicated greater cognition. Scores were standardised to have a mean of 100 and an SD of 15 (24 months, \u03b1 = 0\u202280; 36 months, \u03b1 = 0\u202277).",
+        "section": "Developmental Profile-3: cognitive section",
+        "section_number": 14,
+        "sentences": [
+            "Cognitive development was assessed at 24 and 36 months using the thirty-eight-item parent report Developmental Profile-3: cognitive section (DP-3) (33) .",
+            "Each item referred to tasks which required cognitive skill; for example, 'Does your child point to at least twenty things or pictures when they are named?'",
+            "For each item, mothers were asked whether their child had carried out the task.",
+            "The 'yes' responses were tabulated to create a continuous score, whereby higher values indicated greater cognition.",
+            "Scores were standardised to have a mean of 100 and an SD of 15 (24 months, \u03b1 = 0\u202280; 36 months, \u03b1 = 0\u202277)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "All intention-to-treat analyses were pre-specified and conducted using the statistical software package STATA MP 12. Conventional \u03c7 2 tests from logistic regressions were used to assess differences between the intervention and control groups. In addition, to test the robustness of these results, permutation-based hypothesis tests were used. Permutation testing does not depend on distributional assumptions and thus is more appropriate in small samples (34) . Simulation studies have found that permutation testing has superior power advantages over conventional tests, particularly if the outcome data are skewed and the degree of skewness is correlated with the size of the treatment effect (35) . In addition, to reduce the probability of Type I errors, which may arise when analysing multiple outcomes, the stepdown procedure (36) was also applied. This method adjusts the P value associated with the individual permutation tests, yet unlike Bonferroni adjustment methods, it accounts for interdependence across measures. A more thorough description of the permutation and stepdown procedures has been reported elsewhere (37) . The present study used permutation tests based on 100 000 replications. For the stepdown procedure, six domains were tested including whether the child met dietary recommendations at each time point for grains, dairy, protein, fruit and vegetables, fatty/sugary foods, and met all dietary recommendations. Two-tailed P values and CI were reported; findings with P < 0\u202205 were interpreted as statistically significant and P < 0\u202210 were referred to as approaching significance. Effect sizes were reported using odds ratios.",
+        "section": "Statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "All intention-to-treat analyses were pre-specified and conducted using the statistical software package STATA MP 12.",
+            "Conventional \u03c7 2 tests from logistic regressions were used to assess differences between the intervention and control groups.",
+            "In addition, to test the robustness of these results, permutation-based hypothesis tests were used.",
+            "Permutation testing does not depend on distributional assumptions and thus is more appropriate in small samples (34) .",
+            "Simulation studies have found that permutation testing has superior power advantages over conventional tests, particularly if the outcome data are skewed and the degree of skewness is correlated with the size of the treatment effect (35) .",
+            "In addition, to reduce the probability of Type I errors, which may arise when analysing multiple outcomes, the stepdown procedure (36) was also applied.",
+            "This method adjusts the P value associated with the individual permutation tests, yet unlike Bonferroni adjustment methods, it accounts for interdependence across measures.",
+            "A more thorough description of the permutation and stepdown procedures has been reported elsewhere (37) .",
+            "The present study used permutation tests based on 100 000 replications.",
+            "For the stepdown procedure, six domains were tested including whether the child met dietary recommendations at each time point for grains, dairy, protein, fruit and vegetables, fatty/sugary foods, and met all dietary recommendations.",
+            "Two-tailed P values and CI were reported; findings with P < 0\u202205 were interpreted as statistically significant and P < 0\u202210 were referred to as approaching significance.",
+            "Effect sizes were reported using odds ratios."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Due to differential attrition, the estimation samples may not be representative of the original randomised sample. Attrition refers to participants who dropped out prior to an assessment point and/or those who did not engage in a particular assessment. An inverse probability weighting (IPW) procedure (38) was applied to address this issue. This involved estimating logistic regression models predicting the probability of completing an interview at each assessment point using a large set of baseline characteristics. Between 8 and 12 % of 138 baseline factors, analysed using bivariate tests, predicted attrition from the intervention group. The corresponding figures for the control group ranged from 15 to 24 %. Characteristics which did not have any missing data and were not collinear with any other characteristics were used to generate the predicted probabilities from the logistic models. These probabilities were then applied as weights in the outcome analyses, so that a larger weight was applied to participants that were under-represented in the sample due to attrition.",
+        "section": "Statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "Due to differential attrition, the estimation samples may not be representative of the original randomised sample.",
+            "Attrition refers to participants who dropped out prior to an assessment point and/or those who did not engage in a particular assessment.",
+            "An inverse probability weighting (IPW) procedure (38) was applied to address this issue.",
+            "This involved estimating logistic regression models predicting the probability of completing an interview at each assessment point using a large set of baseline characteristics.",
+            "Between 8 and 12 % of 138 baseline factors, analysed using bivariate tests, predicted attrition from the intervention group.",
+            "The corresponding figures for the control group ranged from 15 to 24 %.",
+            "Characteristics which did not have any missing data and were not collinear with any other characteristics were used to generate the predicted probabilities from the logistic models.",
+            "These probabilities were then applied as weights in the outcome analyses, so that a larger weight was applied to participants that were under-represented in the sample due to attrition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Mediation analysis using a counterfactual approach (39) was used to test whether the intervention had an indirect effect on cognitive functioning via its effect on meeting dietary recommendations. A mediation effect was identified if the independent variable (treatment status) had a significant effect on the mediator variable (dietary intake) as well as the dependent variable (cognitive functioning), however the effect of the independent variable on the dependent variable was no longer significant when the mediator variable was controlled for. If the effect was reduced but still significant when the mediator variable was included, this is referred to as partial mediation. A regression framework was used to estimate the natural direct and indirect effects (39) . The natural direct effect represents the effect of treatment on the outcomes through all pathways except via the included mediator. The natural indirect effect represents the amount by which the outcome would change on average if the treatment level was fixed but the value of the mediator variable was changed. Finally, the marginal total effect is the sum of the previous two effects. To determine whether the inclusion of the mediator variable significantly reduced the relationship between the independent variable and the dependent variable, bootstrapping methods were used. All dietary measures on which there was a significant treatment effect and have a theoretical link with cognitive development were considered as potential mediators.",
+        "section": "Statistical analysis",
+        "section_number": 17,
+        "sentences": [
+            "Mediation analysis using a counterfactual approach (39) was used to test whether the intervention had an indirect effect on cognitive functioning via its effect on meeting dietary recommendations.",
+            "A mediation effect was identified if the independent variable (treatment status) had a significant effect on the mediator variable (dietary intake) as well as the dependent variable (cognitive functioning), however the effect of the independent variable on the dependent variable was no longer significant when the mediator variable was controlled for.",
+            "If the effect was reduced but still significant when the mediator variable was included, this is referred to as partial mediation.",
+            "A regression framework was used to estimate the natural direct and indirect effects (39) .",
+            "The natural direct effect represents the effect of treatment on the outcomes through all pathways except via the included mediator.",
+            "The natural indirect effect represents the amount by which the outcome would change on average if the treatment level was fixed but the value of the mediator variable was changed.",
+            "Finally, the marginal total effect is the sum of the previous two effects.",
+            "To determine whether the inclusion of the mediator variable significantly reduced the relationship between the independent variable and the dependent variable, bootstrapping methods were used.",
+            "All dietary measures on which there was a significant treatment effect and have a theoretical link with cognitive development were considered as potential mediators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "In total, 233 participants were recruited and randomised to the intervention (n 115) or control (n 118) group. Table 1 shows the comparability of the groups on selected maternal sociodemographic, health, personality and parenting measures, as well as highlighting the disadvantaged status of the cohort. The differences between the intervention and control groups were small in magnitude and consistent with pure chance, which indicates the equivalence of the groups at baseline. Of those randomised, the number completing assessments was 205 at baseline, 165 at 12 months, 154 at 18 months, 165 at 24 months and 149 at 36 months (see Fig. 1 ). The IPW procedure, described above, accounts for this attrition. Table 2 shows that the proportion of children meeting dietary recommendations increased between 12 and 36 months, which was anticipated given the dietary transition from infancy to toddlerhood. However, the proportion of children consuming fatty/sugary foods also rose. By 36 months, over 60 % were meeting the dietary recommendations for grains and dairy; however, only a third met the protein and fruit and vegetable food group recommendations, and less than a fifth met all dietary recommendations. Table 2 demonstrates that the P values from the conventional \u03c7 2 tests and the permutation tests were very similar; therefore only the permutation results are interpreted as they are more reliable in small samples and allow us to adjust for multiple comparisons.",
+        "section": "Study participation and baseline characteristics",
+        "section_number": 18,
+        "sentences": [
+            "In total, 233 participants were recruited and randomised to the intervention (n 115) or control (n 118) group.",
+            "Table 1 shows the comparability of the groups on selected maternal sociodemographic, health, personality and parenting measures, as well as highlighting the disadvantaged status of the cohort.",
+            "The differences between the intervention and control groups were small in magnitude and consistent with pure chance, which indicates the equivalence of the groups at baseline.",
+            "Of those randomised, the number completing assessments was 205 at baseline, 165 at 12 months, 154 at 18 months, 165 at 24 months and 149 at 36 months (see Fig. 1 ).",
+            "The IPW procedure, described above, accounts for this attrition.",
+            "Table 2 shows that the proportion of children meeting dietary recommendations increased between 12 and 36 months, which was anticipated given the dietary transition from infancy to toddlerhood.",
+            "However, the proportion of children consuming fatty/sugary foods also rose.",
+            "By 36 months, over 60 % were meeting the dietary recommendations for grains and dairy; however, only a third met the protein and fruit and vegetable food group recommendations, and less than a fifth met all dietary recommendations.",
+            "Table 2 demonstrates that the P values from the conventional \u03c7 2 tests and the permutation tests were very similar; therefore only the permutation results are interpreted as they are more reliable in small samples and allow us to adjust for multiple comparisons."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "There was no treatment effect on meeting grain recommendations at any time point or on meeting dairy recommendations at 18, 24 and 36 months. At 12 months, a greater proportion of the intervention group met dairy recommendations compared with the control group (OR = 1\u202286); however, this finding did not survive the stepdown adjustment. There were no effects on meeting protein recommendations at 12 or 18 months; however, at 24 months a greater proportion of the intervention group met recommendations compared with the controls (OR = 2\u202230). The finding that a greater proportion of the intervention group met protein recommendations at 36 months also approached significance (OR = 2\u202209). In addition, the first stepdown P value in the protein stepdown domain In total, the intervention group had more favourable outcomes compared with the control group on nineteen of the twenty-four (79 %) measures under investigation, which is statistically significantly different from the 50 % we would expect if the programme was having no impact, according to a two-sided binomial test (P = 0\u2022007). Table 3 shows that the conventional \u03c7 2 tests from IPW-adjusted logistic regressions were similar to the IPW-adjusted permutation tests; thus only the permutation tests are interpreted here. The unweighted and IPWweighted results revealed a similar pattern, yet there were some differences. Specifically, the finding of a greater proportion of the intervention group meeting dairy recommendations at 12 months approached significance in the IPW-weighted analysis, while it met conventional levels of significance in the unweighted analysis. Meeting protein recommendations at 18 months approached significance in the IPW-weighted results, while it was not close to significance in the unweighted analysis. Additionally, the finding for protein recommendations at 36 months, which approached significance in the unweighted analysis, was significant at the 5 % level with the weighted analysis. Finally, the finding for fruit and vegetable recommendations at 24 months in the unweighted analysis approached significance only when attrition was accounted for in the IPW-weighted analysis. As a result, this finding no longer survived the stepdown adjustment.",
+        "section": "Effect of intervention on meeting dietary recommendations",
+        "section_number": 19,
+        "sentences": [
+            "There was no treatment effect on meeting grain recommendations at any time point or on meeting dairy recommendations at 18, 24 and 36 months.",
+            "At 12 months, a greater proportion of the intervention group met dairy recommendations compared with the control group (OR = 1\u202286); however, this finding did not survive the stepdown adjustment.",
+            "There were no effects on meeting protein recommendations at 12 or 18 months; however, at 24 months a greater proportion of the intervention group met recommendations compared with the controls (OR = 2\u202230).",
+            "The finding that a greater proportion of the intervention group met protein recommendations at 36 months also approached significance (OR = 2\u202209).",
+            "In addition, the first stepdown P value in the protein stepdown domain In total, the intervention group had more favourable outcomes compared with the control group on nineteen of the twenty-four (79 %) measures under investigation, which is statistically significantly different from the 50 % we would expect if the programme was having no impact, according to a two-sided binomial test (P = 0\u2022007).",
+            "Table 3 shows that the conventional \u03c7 2 tests from IPW-adjusted logistic regressions were similar to the IPW-adjusted permutation tests; thus only the permutation tests are interpreted here.",
+            "The unweighted and IPWweighted results revealed a similar pattern, yet there were some differences.",
+            "Specifically, the finding of a greater proportion of the intervention group meeting dairy recommendations at 12 months approached significance in the IPW-weighted analysis, while it met conventional levels of significance in the unweighted analysis.",
+            "Meeting protein recommendations at 18 months approached significance in the IPW-weighted results, while it was not close to significance in the unweighted analysis.",
+            "Additionally, the finding for protein recommendations at 36 months, which approached significance in the unweighted analysis, was significant at the 5 % level with the weighted analysis.",
+            "Finally, the finding for fruit and vegetable recommendations at 24 months in the unweighted analysis approached significance only when attrition was accounted for in the IPW-weighted analysis.",
+            "As a result, this finding no longer survived the stepdown adjustment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Following the IPW adjustment, the intervention group had more favourable outcomes on twenty of the twentyfour (83 %) dietary measures, which is more than was found in the unweighted analysis. The difference between the observed and expected proportions under the null hypothesis of no programme effect (50 %) was statistically significant in a two-sided binomial test (P = 0\u20220003). Multiple imputation was conducted as an alternative to IPW and the results were largely equivalent. Additional analyses controlling for any salient baseline variables also found very similar results. All additional results are available in the online supplementary material, Tables S1 and S2.",
+        "section": "Effect of intervention on meeting dietary recommendations",
+        "section_number": 20,
+        "sentences": [
+            "Following the IPW adjustment, the intervention group had more favourable outcomes on twenty of the twentyfour (83 %) dietary measures, which is more than was found in the unweighted analysis.",
+            "The difference between the observed and expected proportions under the null hypothesis of no programme effect (50 %) was statistically significant in a two-sided binomial test (P = 0\u20220003).",
+            "Multiple imputation was conducted as an alternative to IPW and the results were largely equivalent.",
+            "Additional analyses controlling for any salient baseline variables also found very similar results.",
+            "All additional results are available in the online supplementary material, Tables S1 and S2."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The results in Table 2 , in conjunction with existing theoretical evidence, were used to select the potential mediators. Protein intake at 24 and 36 months and fruit and vegetable intake at 24 months were chosen as there is prior evidence linking both to cognitive functioning (7, 40) and a significant effect was found in both stepdown domains. In order to limit the bias associated with mediator-outcome confounders, baseline covariates were included in the analysis which consisted of child gender, whether or not the mother had a state medical card (a proxy for low income), whether or not the mother had low education (did not complete second level) and a measure of the mother's mental health (41) .",
+        "section": "Mediating role of dietary intake on cognition",
+        "section_number": 21,
+        "sentences": [
+            "The results in Table 2 , in conjunction with existing theoretical evidence, were used to select the potential mediators.",
+            "Protein intake at 24 and 36 months and fruit and vegetable intake at 24 months were chosen as there is prior evidence linking both to cognitive functioning (7, 40) and a significant effect was found in both stepdown domains.",
+            "In order to limit the bias associated with mediator-outcome confounders, baseline covariates were included in the analysis which consisted of child gender, whether or not the mother had a state medical card (a proxy for low income), whether or not the mother had low education (did not complete second level) and a measure of the mother's mental health (41) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The columns in Table 4 represent the three steps of the mediation analysis. In model 1, the regression of cognitive functioning v. the treatment indicator and the baseline covariates was performed. At 24 months, the finding that the cognitive development scores of the intervention group were approximately 4\u20224 % higher than those of the control group approached significance. At 36 months there was a significant difference at the 5 % level, such that children in the intervention group scored approximately 5 % higher in terms of their cognitive functioning than control children.",
+        "section": "Mediating role of dietary intake on cognition",
+        "section_number": 22,
+        "sentences": [
+            "The columns in Table 4 represent the three steps of the mediation analysis.",
+            "In model 1, the regression of cognitive functioning v. the treatment indicator and the baseline covariates was performed.",
+            "At 24 months, the finding that the cognitive development scores of the intervention group were approximately 4\u20224 % higher than those of the control group approached significance.",
+            "At 36 months there was a significant difference at the 5 % level, such that children in the intervention group scored approximately 5 % higher in terms of their cognitive functioning than control children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Model 2 examined the direct impact of the mediators on cognitive functioning. Meeting protein or fruit and vegetable consumption recommendations at 24 months was not significantly associated with cognitive functioning at 24 months. Thus, the final step of the mediation analysis was not conducted for these mediators. In addition, neither of the 24-month diet measures was significantly associated with cognitive functioning at 36 months. However, meeting protein recommendations at 36 months was associated with higher cognitive functioning at 36 months and the coefficient implied that meeting protein recommendations was associated with a 7 % increase in cognitive functioning. Model 3 included both the independent variable (treatment assignment), the relevant mediator from model 2 (protein at 36 months), a treatment \u00d7 mediator interaction term and the baseline controls to explain cognitive functioning at 36 months. The addition of protein and the interaction term led to a slight reduction on the treatment assignment coefficient, but it still approached significance, indicative of partial mediation. The significant positive relationship between protein recommendations and cognitive functioning remained. The interaction term was not statistically significant.",
+        "section": "Mediating role of dietary intake on cognition",
+        "section_number": 23,
+        "sentences": [
+            "Model 2 examined the direct impact of the mediators on cognitive functioning.",
+            "Meeting protein or fruit and vegetable consumption recommendations at 24 months was not significantly associated with cognitive functioning at 24 months.",
+            "Thus, the final step of the mediation analysis was not conducted for these mediators.",
+            "In addition, neither of the 24-month diet measures was significantly associated with cognitive functioning at 36 months.",
+            "However, meeting protein recommendations at 36 months was associated with higher cognitive functioning at 36 months and the coefficient implied that meeting protein recommendations was associated with a 7 % increase in cognitive functioning.",
+            "Model 3 included both the independent variable (treatment assignment), the relevant mediator from model 2 (protein at 36 months), a treatment \u00d7 mediator interaction term and the baseline controls to explain cognitive functioning at 36 months.",
+            "The addition of protein and the interaction term led to a slight reduction on the treatment assignment coefficient, but it still approached significance, indicative of partial mediation.",
+            "The significant positive relationship between protein recommendations and cognitive functioning remained.",
+            "The interaction term was not statistically significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Finally, 90 % bias-corrected CI were calculated to assess the statistical significance of the natural indirect, natural direct and marginal total effects of the programme on cognitive functioning at 36 months. A bias-corrected bootstrapped CI was calculated for each effect. The indirect effect at 36 months approached significance according to this bootstrapping test. It was also possible to separate the total effect of treatment assignment on cognitive functioning into two components. The first component was the direct effect, which represents the change in cognitive functioning associated with a change in treatment assignment (holding constant meeting protein recommendations). The second component was the indirect effect, which measures the change in cognitive functioning when treatment assignment remains fixed and meeting protein recommendations changes by the amount it would have changed by had treatment assignment been altered. The direct effect was calculated by examining the effect of treatment on cognitive functioning in model 3 (which controls for protein at 36 months as a mediator). The indirect effect was computed by first examining the effect of treatment on meeting protein recommendations at 36 months and then combining this with the effect of meeting protein recommendations on cognition. In this case, the indirect effect accounted for 13 % of the total effect of treatment on cognitive functioning.",
+        "section": "Mediating role of dietary intake on cognition",
+        "section_number": 24,
+        "sentences": [
+            "Finally, 90 % bias-corrected CI were calculated to assess the statistical significance of the natural indirect, natural direct and marginal total effects of the programme on cognitive functioning at 36 months.",
+            "A bias-corrected bootstrapped CI was calculated for each effect.",
+            "The indirect effect at 36 months approached significance according to this bootstrapping test.",
+            "It was also possible to separate the total effect of treatment assignment on cognitive functioning into two components.",
+            "The first component was the direct effect, which represents the change in cognitive functioning associated with a change in treatment assignment (holding constant meeting protein recommendations).",
+            "The second component was the indirect effect, which measures the change in cognitive functioning when treatment assignment remains fixed and meeting protein recommendations changes by the amount it would have changed by had treatment assignment been altered.",
+            "The direct effect was calculated by examining the effect of treatment on cognitive functioning in model 3 (which controls for protein at 36 months as a mediator).",
+            "The indirect effect was computed by first examining the effect of treatment on meeting protein recommendations at 36 months and then combining this with the effect of meeting protein recommendations on cognition.",
+            "In this case, the indirect effect accounted for 13 % of the total effect of treatment on cognitive functioning."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The PFL programme had a positive impact on meeting dietary recommendations for protein foods at 24 and 36 months and all food groups at 24 months among children living in a disadvantaged community. Diet was assessed as meeting food-based dietary guidelines for grains, fruits and vegetables, dairy, protein, and consumption of fatty/sugary foods. The intervention group was more likely to meet dietary recommendations across all food groups compared with the control group. The strongest intervention effects were found for the protein food group and overall diet. Mediation analysis indicated that 13 % of the intervention's effect on cognitive functioning was mediated by protein food consumption at 36 months.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "The PFL programme had a positive impact on meeting dietary recommendations for protein foods at 24 and 36 months and all food groups at 24 months among children living in a disadvantaged community.",
+            "Diet was assessed as meeting food-based dietary guidelines for grains, fruits and vegetables, dairy, protein, and consumption of fatty/sugary foods.",
+            "The intervention group was more likely to meet dietary recommendations across all food groups compared with the control group.",
+            "The strongest intervention effects were found for the protein food group and overall diet.",
+            "Mediation analysis indicated that 13 % of the intervention's effect on cognitive functioning was mediated by protein food consumption at 36 months."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "Parents play a major role in determining the quality of their child's diet by controlling the types, amount and frequency of foods consumed, as well as responding to their children's food preferences and food refusals. There is evidence in the literature from developing countries for the impact of early intervention programmes on child development and nutrition (42) . However, HVP targeting child development in developed countries rarely evaluate or report nutrition outcomes, while those focusing on dietary intake fail to include measures of child development. For example, some targeted nutrition interventions in high-income countries adopt a home visiting approach, yet they typically focus on fruit and vegetable consumption or obesity prevention (24, 25) . In addition, while traditional HVP report on multiple outcomes (e.g. psychomotor (19, 20) ), only a small number of studies in developed countries have evaluated aspects of nutrition or infant feeding practices. One US study reported increased breast-feeding initiation rates in a sample of home-visited disadvantaged African American mothers (21) . Similarly, the Healthy Steps for Young Children programme reported higher breast-feeding rates and improved breast-feeding practices (22) . Finally, one older HVP targeting child development in a low-SES community in Ireland reported an intervention effect across multiple food groups including animal protein, non-animal protein, whole foods, vegetables, fruit and milk (23) .",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Parents play a major role in determining the quality of their child's diet by controlling the types, amount and frequency of foods consumed, as well as responding to their children's food preferences and food refusals.",
+            "There is evidence in the literature from developing countries for the impact of early intervention programmes on child development and nutrition (42) .",
+            "However, HVP targeting child development in developed countries rarely evaluate or report nutrition outcomes, while those focusing on dietary intake fail to include measures of child development.",
+            "For example, some targeted nutrition interventions in high-income countries adopt a home visiting approach, yet they typically focus on fruit and vegetable consumption or obesity prevention (24, 25) .",
+            "In addition, while traditional HVP report on multiple outcomes (e.g. psychomotor (19, 20) ), only a small number of studies in developed countries have evaluated aspects of nutrition or infant feeding practices.",
+            "One US study reported increased breast-feeding initiation rates in a sample of home-visited disadvantaged African American mothers (21) .",
+            "Similarly, the Healthy Steps for Young Children programme reported higher breast-feeding rates and improved breast-feeding practices (22) .",
+            "Finally, one older HVP targeting child development in a low-SES community in Ireland reported an intervention effect across multiple food groups including animal protein, non-animal protein, whole foods, vegetables, fruit and milk (23) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The results of the mediation analysis, while only approaching significance, are still noteworthy. Research on protein and specifically animal-source food is typically conducted in developing countries where HVP usually involve supplementation (42) . Therefore changes in nutrient intakes are a result of the provision of foods or supplements rather than changes in parenting practices or knowledge. Additional evidence from observational and intervention studies in low-income countries shows that the consumption of milk and other animal-source foods can improve growth, cognitive function, and reduce the prevalence of nutritional deficiencies (43) . A recent review reported the likely benefits of combining nutrition and child development activities (44) , and the authors called for more large-scale programmes that integrate stimulation into health and nutrition services and evaluate children's growth and development.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "The results of the mediation analysis, while only approaching significance, are still noteworthy.",
+            "Research on protein and specifically animal-source food is typically conducted in developing countries where HVP usually involve supplementation (42) .",
+            "Therefore changes in nutrient intakes are a result of the provision of foods or supplements rather than changes in parenting practices or knowledge.",
+            "Additional evidence from observational and intervention studies in low-income countries shows that the consumption of milk and other animal-source foods can improve growth, cognitive function, and reduce the prevalence of nutritional deficiencies (43) .",
+            "A recent review reported the likely benefits of combining nutrition and child development activities (44) , and the authors called for more large-scale programmes that integrate stimulation into health and nutrition services and evaluate children's growth and development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "While the mechanisms underlying the effect of the HVP on protein food intake cannot be determined, the intervention did provide nutrition-related Tip Sheets which may have raised awareness of appropriate foods and eating behaviours. Of the forty-six nutrition Tip Sheets provided, fifteen mentioned protein foods such as meat, fish and eggs; and of those, three targeted protein foods specifically as they encouraged parents to ensure adequate intakes of iron and calcium. Consequently, the protein food group may have been particularly sensitive to the intervention. This sensitivity may relate to the age of the children because, according to the National Preschool Nutrition Survey in Ireland, protein-based food intake typically increases by age 4 years (45) .",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "While the mechanisms underlying the effect of the HVP on protein food intake cannot be determined, the intervention did provide nutrition-related Tip Sheets which may have raised awareness of appropriate foods and eating behaviours.",
+            "Of the forty-six nutrition Tip Sheets provided, fifteen mentioned protein foods such as meat, fish and eggs; and of those, three targeted protein foods specifically as they encouraged parents to ensure adequate intakes of iron and calcium.",
+            "Consequently, the protein food group may have been particularly sensitive to the intervention.",
+            "This sensitivity may relate to the age of the children because, according to the National Preschool Nutrition Survey in Ireland, protein-based food intake typically increases by age 4 years (45) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "While the present study contributes to the literature, there are a number of limitations. First, the results are based on one disadvantaged community and may not be generalisable to other areas. Second, eliciting an accurate measure of diet is challenging and all methods have strengths and limitations. Misreporting dietary intake by over-or under-reporting of 'healthy' or 'unhealthy' foods triggered by sociocultural pressure to follow a 'correct' dietary pattern is common (46) . Measuring dietary intake of young children or infants is even more difficult as it requires the parent to provide information which is further complicated by the number of people responsible for the child's food intake (47) . Differential misreporting may have arisen if parents in the intervention group provided a more favourable assessment of their child's diet than parents in the control group. In order to assess this issue, a separate study based on the PFL evaluation (48) found that there was no significant difference between the intervention and control groups in terms of social desirable responding as measured by a Social Desirability Scale. Third, although the dietary instrument used in the present study was limited, the questions were based on standard FFQ used in large population-based surveys (49) and were adapted for assessment of children's diet (31) . A further complexity is that diet changes considerably from infancy to early childhood. In Ireland, a national policy exists for infant feeding in the first year of life (50) and Healthy Eating Guidelines exist for children over 5 years (51) . However, there are no clear guidelines for children aged 1 to 4 years, other than a publication targeted at pre-school services (32) . This makes it difficult to assess if Irish children are meeting dietary recommendations.",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "While the present study contributes to the literature, there are a number of limitations.",
+            "First, the results are based on one disadvantaged community and may not be generalisable to other areas.",
+            "Second, eliciting an accurate measure of diet is challenging and all methods have strengths and limitations.",
+            "Misreporting dietary intake by over-or under-reporting of 'healthy' or 'unhealthy' foods triggered by sociocultural pressure to follow a 'correct' dietary pattern is common (46) .",
+            "Measuring dietary intake of young children or infants is even more difficult as it requires the parent to provide information which is further complicated by the number of people responsible for the child's food intake (47) .",
+            "Differential misreporting may have arisen if parents in the intervention group provided a more favourable assessment of their child's diet than parents in the control group.",
+            "In order to assess this issue, a separate study based on the PFL evaluation (48) found that there was no significant difference between the intervention and control groups in terms of social desirable responding as measured by a Social Desirability Scale.",
+            "Third, although the dietary instrument used in the present study was limited, the questions were based on standard FFQ used in large population-based surveys (49) and were adapted for assessment of children's diet (31) .",
+            "A further complexity is that diet changes considerably from infancy to early childhood.",
+            "In Ireland, a national policy exists for infant feeding in the first year of life (50) and Healthy Eating Guidelines exist for children over 5 years (51) .",
+            "However, there are no clear guidelines for children aged 1 to 4 years, other than a publication targeted at pre-school services (32) .",
+            "This makes it difficult to assess if Irish children are meeting dietary recommendations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "A strength of the present study was the methodology used to overcome internal validity issues inherent in randomised controlled trials such as small sample size, differential attrition and multiple testing. First, while the sample size was small, the permutation testing method helped address this issue. Yet the similarity of the findings from the conventional \u03c7 2 tests and the permutation tests suggests that the assumptions underlying the traditional tests may hold in this sample. Second, differential attrition was addressed through the use of IPW. Some important differences between the unweighted and IPW-weighted results were identified, with IPW resulting in more conservative results. This demonstrates the importance of measuring and controlling for differential attrition in experimental trials. Third, studies of HVP typically report many outcomes, yet few account for multiple testing which risks overstating programme impact. The stepdown procedure applied here highlighted the implications of failing to address this issue. That the effects for meeting protein recommendations and all dietary recommendations survived the stepdown procedure increases confidence in these findings. A further methodological strength was the use of bootstrapping techniques to assess the significance of the indirect effects in the mediation analysis. Frequently studies in this field fail to test the significance of reported mediation results.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "A strength of the present study was the methodology used to overcome internal validity issues inherent in randomised controlled trials such as small sample size, differential attrition and multiple testing.",
+            "First, while the sample size was small, the permutation testing method helped address this issue.",
+            "Yet the similarity of the findings from the conventional \u03c7 2 tests and the permutation tests suggests that the assumptions underlying the traditional tests may hold in this sample.",
+            "Second, differential attrition was addressed through the use of IPW.",
+            "Some important differences between the unweighted and IPW-weighted results were identified, with IPW resulting in more conservative results.",
+            "This demonstrates the importance of measuring and controlling for differential attrition in experimental trials.",
+            "Third, studies of HVP typically report many outcomes, yet few account for multiple testing which risks overstating programme impact.",
+            "The stepdown procedure applied here highlighted the implications of failing to address this issue.",
+            "That the effects for meeting protein recommendations and all dietary recommendations survived the stepdown procedure increases confidence in these findings.",
+            "A further methodological strength was the use of bootstrapping techniques to assess the significance of the indirect effects in the mediation analysis.",
+            "Frequently studies in this field fail to test the significance of reported mediation results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "The findings reported here may have implications for both practice and policy. While over two-thirds of the sample met recommendations for grains and dairy by age 3 years, less than one-third met protein and fruit and vegetable recommendations, and over one-third were eating fatty and sugary foods on a daily basis. This suggests that targeted interventions among low-SES populations are needed to improve dietary patterns early in life. From a policy perspective, the effects for diet and cognitive development may have economic relevance. A cost-benefit analysis of multiple, primarily US-based, HVP found returns ranging from $US 0\u202221 to $US 30\u202246 per $US invested, with a median return of $US 1\u202262 (52) . The proportion of the return generated from health-care saving amounted to~10 % and the proportion generated by improvements in labour market and educational outcomes was~70 %. As the PFL intervention had some an impact on improving diet and cognitive functioning, the intervention may generate similar positive returns in the long run; thus future work should include a cost-benefit analysis. In addition, future HVP studies should evaluate dietary intake, as well as complementary and early childhood feeding practices, while interventions focused on dietary change or obesity prevention should incorporate measures of child development. Finally, studies investigating the effects of combined nutrition-child development interventions are also warranted. Affairs. They are also grateful to all those who participated in and supported this research, especially the participating families and community organisations, the PFL intervention staff and the Expert Advisory Committee. Thanks go also to Professors James Heckman, Colm Harmon, Sylvana Cote, Cecily Kelleher, Sharon Ramey and Craig Ramey for their guidance and advice throughout the project, and the Early Childhood Research Team at UCD Geary Institute for Public Policy for their contributions to the work. Financial support: The trial was funded by the Northside Partnership through The Atlantic Philanthropies and the Department of Children and Youth Affairs. The Northside Partnership had no role in design, analysis, or writing of this article. Conflict of interest: The authors declare that they have no conflicts of interests. Authorship: O.D. designed the overall PFL study. O.D. and A.S. conceived and designed the present article. N.F. did the data analysis. All authors contributed to the interpretation of the data, drafted the article and approved the final version. O.D. is guarantor. Ethics of human subject participation: This study was conducted according to the guidelines laid down in the Declaration of Helsinki and all procedures involving human subjects/patients were approved by the University College Dublin's Human Research Ethics Committee, the Rotunda Hospital's Ethics Committee and the National Maternity Hospital's Ethics Committee. Written informed consent was obtained from all subjects/patients. Trial registration: controlled-trials.com (ISRCTN04631728, http://www.controlled-trials.com/ISRCTN04631728/).",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "The findings reported here may have implications for both practice and policy.",
+            "While over two-thirds of the sample met recommendations for grains and dairy by age 3 years, less than one-third met protein and fruit and vegetable recommendations, and over one-third were eating fatty and sugary foods on a daily basis.",
+            "This suggests that targeted interventions among low-SES populations are needed to improve dietary patterns early in life.",
+            "From a policy perspective, the effects for diet and cognitive development may have economic relevance.",
+            "A cost-benefit analysis of multiple, primarily US-based, HVP found returns ranging from $US 0\u202221 to $US 30\u202246 per $US invested, with a median return of $US 1\u202262 (52) .",
+            "The proportion of the return generated from health-care saving amounted to~10 % and the proportion generated by improvements in labour market and educational outcomes was~70 %.",
+            "As the PFL intervention had some an impact on improving diet and cognitive functioning, the intervention may generate similar positive returns in the long run; thus future work should include a cost-benefit analysis.",
+            "In addition, future HVP studies should evaluate dietary intake, as well as complementary and early childhood feeding practices, while interventions focused on dietary change or obesity prevention should incorporate measures of child development.",
+            "Finally, studies investigating the effects of combined nutrition-child development interventions are also warranted.",
+            "Affairs.",
+            "They are also grateful to all those who participated in and supported this research, especially the participating families and community organisations, the PFL intervention staff and the Expert Advisory Committee.",
+            "Thanks go also to Professors James Heckman, Colm Harmon, Sylvana Cote, Cecily Kelleher, Sharon Ramey and Craig Ramey for their guidance and advice throughout the project, and the Early Childhood Research Team at UCD Geary Institute for Public Policy for their contributions to the work.",
+            "Financial support: The trial was funded by the Northside Partnership through The Atlantic Philanthropies and the Department of Children and Youth Affairs.",
+            "The Northside Partnership had no role in design, analysis, or writing of this article.",
+            "Conflict of interest: The authors declare that they have no conflicts of interests.",
+            "Authorship: O.D. designed the overall PFL study.",
+            "O.D. and A.S. conceived and designed the present article.",
+            "N.F. did the data analysis.",
+            "All authors contributed to the interpretation of the data, drafted the article and approved the final version.",
+            "O.D. is guarantor.",
+            "Ethics of human subject participation: This study was conducted according to the guidelines laid down in the Declaration of Helsinki and all procedures involving human subjects/patients were approved by the University College Dublin's Human Research Ethics Committee, the Rotunda Hospital's Ethics Committee and the National Maternity Hospital's Ethics Committee.",
+            "Written informed consent was obtained from all subjects/patients.",
+            "Trial registration: controlled-trials.com (ISRCTN04631728, http://www.controlled-trials.com/ISRCTN04631728/)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "To view supplementary material for this article, please visit http://dx.doi.org/10.1017/S1368980016001877",
+        "section": "Supplementary material",
+        "section_number": 32,
+        "sentences": [
+            "To view supplementary material for this article, please visit http://dx.doi.org/10.1017/S1368980016001877"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "M I , proportion of the intervention group meeting recommendations; M C , proportion of the control group meeting recommendations. n ranged from 165 at 12 months to 149 at 36 months. *P < 0\u202205. \u2020Two-tailed P value from \u03c7 2 test of logistic regression coefficient. \u2021Two-tailed P value from an individual permutation test. \u00a7Two-tailed P value from a stepdown permutation test. The P values in bold indicate statistical significance.",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "M I , proportion of the intervention group meeting recommendations; M C , proportion of the control group meeting recommendations.",
+            "n ranged from 165 at 12 months to 149 at 36 months. *",
+            "P < 0\u202205.",
+            "\u2020Two-tailed P value from \u03c7 2 test of logistic regression coefficient.",
+            "\u2021Two-tailed P value from an individual permutation test. \u00a7",
+            "Two-tailed P value from a stepdown permutation test.",
+            "The P values in bold indicate statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "47977",
+        "text": "M I , proportion of the intervention group meeting recommendations; M C , proportion of the control group meeting recommendations. n ranged from 165 at 12 months to 149 at 36 months. *P < 0\u202205. \u2020Two-tailed P value from \u03c7 2 test of IPW logistic regression coefficient. \u2021Two-tailed IPW-adjusted P value from an individual permutation test. \u00a7Two-tailed IPW-adjusted P value from a stepdown permutation test. The P values in bold indicate statistical significance.",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "M I , proportion of the intervention group meeting recommendations; M C , proportion of the control group meeting recommendations.",
+            "n ranged from 165 at 12 months to 149 at 36 months. *",
+            "P < 0\u202205.",
+            "\u2020Two-tailed P value from \u03c7 2 test of IPW logistic regression coefficient.",
+            "\u2021Two-tailed IPW-adjusted P value from an individual permutation test. \u00a7",
+            "Two-tailed IPW-adjusted P value from a stepdown permutation test.",
+            "The P values in bold indicate statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

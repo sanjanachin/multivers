@@ -1,0 +1,489 @@
+[
+    {
+        "doc_id": "41036",
+        "text": "Objective: To examine the efficacy of early continuous positive airway pressure (CPAP), delivered using a T-piece-based infant resuscitator (Neopuff) via a face mask, in reducing the severity and duration of transient tachypnea of the newborn (TTN) as well as testing a hypothesis suggesting that rapid clearance of fetal lung fluid to the circulation via CPAP would increase plasma B-type natriuretic peptide (BNP). Methods: A randomized controlled trial (NCT01859533) was conducted on 64 late preterm/term neonates, delivered by cesarean section and presented by respiratory distress shortly after birth. The Neopuff group included 34 neonates received 20 min of early CPAP and control group included 30 neonates received free flow O 2. Plasma BNP was measured baseline and 2 h later. Results: The duration of tachypnea was shorter in Neopuff group with less need of neonatal intensive care unit admission and need of mechanical support (p < .05) with no effect on duration of hospitalization (p > .05). Plasma BNP showed no significant difference between pre-and post-Neopuff levels (p > .05). A positive correlation was found between BNP and duration of tachypnea as well as the length of hospitalization (p < .05) among Neopuff group. Conclusion: Early rescue CPAP reduces the duration and severity of respiratory distress among infants with TTN.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: To examine the efficacy of early continuous positive airway pressure (CPAP), delivered using a T-piece-based infant resuscitator (Neopuff) via a face mask, in reducing the severity and duration of transient tachypnea of the newborn (TTN) as well as testing a hypothesis suggesting that rapid clearance of fetal lung fluid to the circulation via CPAP would increase plasma B-type natriuretic peptide (BNP).",
+            "Methods: A randomized controlled trial (NCT01859533) was conducted on 64 late preterm/term neonates, delivered by cesarean section and presented by respiratory distress shortly after birth.",
+            "The Neopuff group included 34 neonates received 20 min of early CPAP and control group included 30 neonates received free flow O 2.",
+            "Plasma BNP was measured baseline and 2 h later.",
+            "Results: The duration of tachypnea was shorter in Neopuff group with less need of neonatal intensive care unit admission and need of mechanical support (p < .05) with no effect on duration of hospitalization (p > .05).",
+            "Plasma BNP showed no significant difference between pre-and post-Neopuff levels (p > .05).",
+            "A positive correlation was found between BNP and duration of tachypnea as well as the length of hospitalization (p < .05) among Neopuff group.",
+            "Conclusion: Early rescue CPAP reduces the duration and severity of respiratory distress among infants with TTN."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Respiratory distress is a common emergency responsible for 30-40% of admissions in the neonatal intensive care units (NICU) [1] . The most common cause of respiratory distress in term neonates is transient tachypnea of the newborn (TTN), the incidence of which is estimated to be between 1 and 2% of all newborns [2] . Although the TTN course is usually mild, sometimes complications can occur up to the need of mechanical ventilation [3] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Respiratory distress is a common emergency responsible for 30-40% of admissions in the neonatal intensive care units (NICU) [1] .",
+            "The most common cause of respiratory distress in term neonates is transient tachypnea of the newborn (TTN), the incidence of which is estimated to be between 1 and 2% of all newborns [2] .",
+            "Although the TTN course is usually mild, sometimes complications can occur up to the need of mechanical ventilation [3] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "During the end of the third trimester of pregnancy, the mechanism by which the lung fluid clears develops gradually, and as the perinatal period starts, lung epithelium shifts from secretion to absorption [4] . Btype natriuretic peptide (BNP) levels at birth have a crucial regulatory role in the hemodynamic changes associated with extrauterine transition [5] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "During the end of the third trimester of pregnancy, the mechanism by which the lung fluid clears develops gradually, and as the perinatal period starts, lung epithelium shifts from secretion to absorption [4] .",
+            "Btype natriuretic peptide (BNP) levels at birth have a crucial regulatory role in the hemodynamic changes associated with extrauterine transition [5] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Positive end-expiratory pressure (PEEP) therapy is used in conditions where there is either alveolar collapse or alveolar fluid accumulation in order to maintain lung expansion. According to Laplace's law, alveoli lined by water molecules exert inward pressure leads to alveolar collapse. By giving PEEP, one could neutralize the inward collapsing pressure [6] .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Positive end-expiratory pressure (PEEP) therapy is used in conditions where there is either alveolar collapse or alveolar fluid accumulation in order to maintain lung expansion.",
+            "According to Laplace's law, alveoli lined by water molecules exert inward pressure leads to alveolar collapse.",
+            "By giving PEEP, one could neutralize the inward collapsing pressure [6] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Therefore, we hypothesized that early rescue continuous positive airway pressure (CPAP), delivered using a T-piece-based infant resuscitator (Neopuff) via a face mask, would stimulate lung fluid absorption in late preterm and term infants with TTN. Our primary goal was to examine the efficacy of early rescue CPAP in reducing the severity and duration of tachypnea, oxygen treatment, and hospitalization for infants with TTN. A secondary aim was to assess the effect of that rapid clearance of lung fluid into the circulation on plasma BNP levels.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Therefore, we hypothesized that early rescue continuous positive airway pressure (CPAP), delivered using a T-piece-based infant resuscitator (Neopuff) via a face mask, would stimulate lung fluid absorption in late preterm and term infants with TTN.",
+            "Our primary goal was to examine the efficacy of early rescue CPAP in reducing the severity and duration of tachypnea, oxygen treatment, and hospitalization for infants with TTN.",
+            "A secondary aim was to assess the effect of that rapid clearance of lung fluid into the circulation on plasma BNP levels."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "This study is a randomized, double-blind, interventional clinical trial that was carried out at Obstetrics and Gynecology Hospital of Ain Shams University between November 2016 and June 2017. Out of 100 neonates assessed for eligibility, this study was conducted on 64 late preterm/term infants delivered by cesarean section (CS) and showed signs of respiratory distress shortly after birth. Late preterm (34-36 weeks, 6 d), early term (37-38 weeks, 6 d), and full-term infants (39-40 weeks, 6 d) was defined according to the American College of Obstetricians & Gynecologists and the Society for Maternal-Fetal Medicine updates [7, 8] .",
+        "section": "Materials and methods",
+        "section_number": 5,
+        "sentences": [
+            "This study is a randomized, double-blind, interventional clinical trial that was carried out at Obstetrics and Gynecology Hospital of Ain Shams University between November 2016 and June 2017.",
+            "Out of 100 neonates assessed for eligibility, this study was conducted on 64 late preterm/term infants delivered by cesarean section (CS) and showed signs of respiratory distress shortly after birth.",
+            "Late preterm (34-36 weeks, 6 d), early term (37-38 weeks, 6 d), and full-term infants (39-40 weeks, 6 d) was defined according to the American College of Obstetricians & Gynecologists and the Society for Maternal-Fetal Medicine updates [7, 8] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Exclusion criteria were newborns with other causes for respiratory distress, e.g. congenital malformations affecting the cardiorespiratory system, fetal hydrops, persistent pulmonary hypertension (PPHN), meconium aspiration syndrome, polycythemia, hypoglycemia, and neonates with perinatal asphyxia defined as Apgar score at 5 min of <7 or umbilical artery pH of <7.1. Early onset sepsis was excluded when there was no perinatal risk factors, no leucopenia or leukocytosis, immature-to-total neutrophil (I:T) ratio <0.25, negative C-reactive protein, and no focal infiltration on chest radiography.",
+        "section": "Materials and methods",
+        "section_number": 6,
+        "sentences": [
+            "Exclusion criteria were newborns with other causes for respiratory distress, e.g. congenital malformations affecting the cardiorespiratory system, fetal hydrops, persistent pulmonary hypertension (PPHN), meconium aspiration syndrome, polycythemia, hypoglycemia, and neonates with perinatal asphyxia defined as Apgar score at 5 min of <7 or umbilical artery pH of <7.1.",
+            "Early onset sepsis was excluded when there was no perinatal risk factors, no leucopenia or leukocytosis, immature-to-total neutrophil (I:T) ratio <0.25, negative C-reactive protein, and no focal infiltration on chest radiography."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "The study protocol was reviewed and approved by the Ethical Committee of Human Experimentation of Ain Shams University. This trial was registered at ClinicalTrials.gov; identifier: NCT01859533. A written informed consent was obtained from the parents before participation.",
+        "section": "Materials and methods",
+        "section_number": 7,
+        "sentences": [
+            "The study protocol was reviewed and approved by the Ethical Committee of Human Experimentation of Ain Shams University.",
+            "This trial was registered at ClinicalTrials.gov; identifier: NCT01859533.",
+            "A written informed consent was obtained from the parents before participation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "A late preterm/term infant with TTN typically presents with transient respiratory distress that develops in the first 6 h of life, with typical radiographic findings of interlobar fluid accumulation, hyperinflation, prominent vascular/perihilar markings [9] .",
+        "section": "Identification of TTN cases",
+        "section_number": 8,
+        "sentences": [
+            "A late preterm/term infant with TTN typically presents with transient respiratory distress that develops in the first 6 h of life, with typical radiographic findings of interlobar fluid accumulation, hyperinflation, prominent vascular/perihilar markings [9] ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Out of 100 neonates assessed for eligibility, 22 were excluded: 18 did not meet inclusion criteria and four guardians declined to participate. The 78 newborns were randomly assigned into two groups using computer-generated randomization; 39 newborns showing signs of respiratory distress received early rescue CPAP (5 cm of H 2 O) via T-piece (Neopuff; Fisher & Paykel Healthcare, Auckland, New Zealand) for a period of 20 min and were reassessed for further need of oxygen treatment; and 39 neonates were allocated to receive standard respiratory care with free flow oxygen treatment according to Subramanian et al. [10] , however, one of them was diagnosed as a case of a diaphragmatic hernia and excluded from the study. Later on, five neonates from the Neopuff group were excluded from analysis; three were diagnosed as culture-proven early onset septicemia and two had congenital heart disease while, eight neonates from the control group were excluded from analysis; four were diagnosed as culture-proven early onset septicemia, three had congenital heart disease, and one had PPHN ( Figure 1 ).",
+        "section": "Randomization and blinding",
+        "section_number": 9,
+        "sentences": [
+            "Out of 100 neonates assessed for eligibility, 22 were excluded: 18 did not meet inclusion criteria and four guardians declined to participate.",
+            "The 78 newborns were randomly assigned into two groups using computer-generated randomization; 39 newborns showing signs of respiratory distress received early rescue CPAP (5 cm of H 2 O) via T-piece (Neopuff; Fisher & Paykel Healthcare, Auckland, New Zealand) for a period of 20 min and were reassessed for further need of oxygen treatment; and 39 neonates were allocated to receive standard respiratory care with free flow oxygen treatment according to Subramanian et al. [10] , however, one of them was diagnosed as a case of a diaphragmatic hernia and excluded from the study.",
+            "Later on, five neonates from the Neopuff group were excluded from analysis; three were diagnosed as culture-proven early onset septicemia and two had congenital heart disease while, eight neonates from the control group were excluded from analysis; four were diagnosed as culture-proven early onset septicemia, three had congenital heart disease, and one had PPHN ( Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "All the studied patients were subjected to detailed medical history and thorough clinical examination with special emphasis on assessment of gestational age through analysis of maternal dates, Ballard scores [11] , or both. Respiratory distress in the neonate is diagnosed when one or more of the following is present shortly after birth; tachypnea, noisy respiration in the form of a grunt, stridor or wheeze, nasal flaring, or subcostal, intercostal, sternal or suprasternal retractions, nasal flaring [1] . Respiratory distress was classified according to Downe's score [12] into mild respiratory distress (score 1-5) and severe respiratory distress (score >6).",
+        "section": "Initial assessment",
+        "section_number": 10,
+        "sentences": [
+            "All the studied patients were subjected to detailed medical history and thorough clinical examination with special emphasis on assessment of gestational age through analysis of maternal dates, Ballard scores [11] , or both.",
+            "Respiratory distress in the neonate is diagnosed when one or more of the following is present shortly after birth; tachypnea, noisy respiration in the form of a grunt, stridor or wheeze, nasal flaring, or subcostal, intercostal, sternal or suprasternal retractions, nasal flaring [1] .",
+            "Respiratory distress was classified according to Downe's score [12] into mild respiratory distress (score 1-5) and severe respiratory distress (score >6)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Peripheral blood samples were collected on potassium-ethylene diamine tetra-acetic acid in sterile vacutainer tubes (final concentration of 1.5 mg/ml) (Beckton Dickinson, Franklin Lakes, NJ) for complete blood count (CBC). For high sensitivity C-reactive protein (hs-CRP) and plasma BNP measurement, clotted samples were obtained and serum was separated by centrifugation for 15 min at 1000 \u00c2 g.",
+        "section": "Sample collection",
+        "section_number": 11,
+        "sentences": [
+            "Peripheral blood samples were collected on potassium-ethylene diamine tetra-acetic acid in sterile vacutainer tubes (final concentration of 1.5 mg/ml) (Beckton Dickinson, Franklin Lakes, NJ) for complete blood count (CBC).",
+            "For high sensitivity C-reactive protein (hs-CRP) and plasma BNP measurement, clotted samples were obtained and serum was separated by centrifugation for 15 min at 1000 \u00c2 g."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Laboratory investigations included CBC using Sysmex XT-1800i (Sysmex, Kobe, Japan), blood culture and hs-CRP measurement. Plasma BNP was measured twice as described before using enzyme-linked immunosorbent assay kit (RayBiotech, Inc.) [13] ; baseline sample was done before giving any PEEP or free flow oxygen and a second sample was withdrawn 2 h later.",
+        "section": "Laboratory assessment",
+        "section_number": 12,
+        "sentences": [
+            "Laboratory investigations included CBC using Sysmex XT-1800i (Sysmex, Kobe, Japan), blood culture and hs-CRP measurement.",
+            "Plasma BNP was measured twice as described before using enzyme-linked immunosorbent assay kit (RayBiotech, Inc.) [13] ; baseline sample was done before giving any PEEP or free flow oxygen and a second sample was withdrawn 2 h later."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Primary outcome measures include assessment of the duration and degree of respiratory distress. Secondary outcome measures include the need for admission to NICU secondary to the respiratory distress of more than 6 h, plasma BNP post-Neopuff levels, the need of mechanical ventilation, the incidence of pulmonary air leaks, the duration of hospitalization and mortality.",
+        "section": "Outcome measures",
+        "section_number": 13,
+        "sentences": [
+            "Primary outcome measures include assessment of the duration and degree of respiratory distress.",
+            "Secondary outcome measures include the need for admission to NICU secondary to the respiratory distress of more than 6 h, plasma BNP post-Neopuff levels, the need of mechanical ventilation, the incidence of pulmonary air leaks, the duration of hospitalization and mortality."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Analysis of data was done with Statistical Program for Social Science version 15 (SPSS Inc., Chicago, IL). Quantitative variables were described in the form of mean and standard deviation or median and interquartile range. Qualitative variables were described by number and percent. In order to compare quantitative parametric variables between two groups, Student's t-test was applied while nonparametric variables were compared using Mann-Whitney test. Qualitative variables were compared using chi-square (v 2 ) test or Fischer's exact test when frequencies were below five. Correlation studies were done using Spearman's rank correlation coefficient. A p value <.05 was considered significant in all analyses.",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "Analysis of data was done with Statistical Program for Social Science version 15 (SPSS Inc., Chicago, IL).",
+            "Quantitative variables were described in the form of mean and standard deviation or median and interquartile range.",
+            "Qualitative variables were described by number and percent.",
+            "In order to compare quantitative parametric variables between two groups, Student's t-test was applied while nonparametric variables were compared using Mann-Whitney test.",
+            "Qualitative variables were compared using chi-square (v 2 ) test or Fischer's exact test when frequencies were below five.",
+            "Correlation studies were done using Spearman's rank correlation coefficient.",
+            "A p value <.05 was considered significant in all analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "The demographic characteristics of the study population are shown in Table 1 . The Neopuff and control groups were age and sex matched. There was no significant difference between both groups as regards birth weight, Apgar score and the degree of respiratory distress at presentation (p > .05).",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "The demographic characteristics of the study population are shown in Table 1 .",
+            "The Neopuff and control groups were age and sex matched.",
+            "There was no significant difference between both groups as regards birth weight, Apgar score and the degree of respiratory distress at presentation (p > .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In the view of the effect of early rescue CPAP on the different outcome measures, Table 2 showed that the need for hospitalization was reduced among neonates of the Neopuff group compared with the control group (5.88 versus 30.3% respectively; p \u00bc .026). The duration of tachypnea was shorter in the Neopuff group than in the control group (8.8 \u00b1 2.5 versus 29.6 \u00b1 4.46 h respectively; p < .001). The duration of hospitalization was shorter in the Neopuff group than in the control group but the difference did not reach a statistically significant level (3.3 \u00b1 1.2 versus 4.1 \u00b1 2.1 d, respectively; p \u00bc .062). Upon studying the need for further mechanical support using invasive and noninvasive ventilation, 10 neonates required CPAP; two in the Neopuff group, and eight in the control group while one neonate required synchronized intermittent mandatory ventilation in the control group with a significant difference between both groups (p \u00bc .026).",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "In the view of the effect of early rescue CPAP on the different outcome measures, Table 2 showed that the need for hospitalization was reduced among neonates of the Neopuff group compared with the control group (5.88 versus 30.3% respectively; p \u00bc .026).",
+            "The duration of tachypnea was shorter in the Neopuff group than in the control group (8.8 \u00b1 2.5 versus 29.6 \u00b1 4.46 h respectively; p < .001).",
+            "The duration of hospitalization was shorter in the Neopuff group than in the control group but the difference did not reach a statistically significant level (3.3 \u00b1 1.2 versus 4.1 \u00b1 2.1 d, respectively; p \u00bc .062).",
+            "Upon studying the need for further mechanical support using invasive and noninvasive ventilation, 10 neonates required CPAP; two in the Neopuff group, and eight in the control group while one neonate required synchronized intermittent mandatory ventilation in the control group with a significant difference between both groups (p \u00bc .026)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "All the studied neonates tolerated the received treatment well without side effects that could be attributed to the application of CPAP with no reported cases of pulmonary air leaks in either group and no significant difference in the mortality rate. In the control group, one patient died (0.3%) due to nosocomial sepsis after being admitted for 9 d.",
+        "section": "Results",
+        "section_number": 17,
+        "sentences": [
+            "All the studied neonates tolerated the received treatment well without side effects that could be attributed to the application of CPAP with no reported cases of pulmonary air leaks in either group and no significant difference in the mortality rate.",
+            "In the control group, one patient died (0.3%) due to nosocomial sepsis after being admitted for 9 d."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Baseline and 2 h post-Neopuff BNP levels showed no significant differences between both groups (p > .05) (Figure 2 ). Moreover, no significant difference was found between median levels of baseline BNP and 2 h post-Neopuff (175 versus 173 pg/ml; p > .05).",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "Baseline and 2 h post-Neopuff BNP levels showed no significant differences between both groups (p > .05) (Figure 2 ).",
+            "Moreover, no significant difference was found between median levels of baseline BNP and 2 h post-Neopuff (175 versus 173 pg/ml; p > .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Correlation studies between 2 h post-Neopuff BNP levels and various clinical characteristics among neonates of the Neopuff group showed a significant positive correlation between BNP levels and duration of tachypnea (r \u00bc 0.409, p \u00bc .016) as well as duration of hospitalization (r \u00bc 0.860, p < .001) ( Figure 3 ).",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "Correlation studies between 2 h post-Neopuff BNP levels and various clinical characteristics among neonates of the Neopuff group showed a significant positive correlation between BNP levels and duration of tachypnea (r \u00bc 0.409, p \u00bc .016) as well as duration of hospitalization (r \u00bc 0.860, p < .001) ( Figure 3 )."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Transient tachypnea of the newborn is usually a benign self-limited disease, but associated hypoxemia, respiratory failure and pulmonary air leak syndromes can increase the risk of morbidity [14] . Delayed resorption of postnatal lung fluids is the most acceptable theory explaining the pathophysiology of TTN [15] . The current studies suggest a benefit to using PEEP to assist the establishment of a functional residual capacity during the transition of the fluid-filled lung to an air-breathing organ [16, 17] . Our main objective was to determine whether rescue PEEP therapy administered early via a T-piecebased infant resuscitator (Neopuff) to a manifesting newborn with TTN would safely reduce the severity of TTN, its related complications and the need for NICU admission. Accessing the effect of early application of rescue CPAP on the patient's plasma BNP levels was also examined as a secondary aim.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "Transient tachypnea of the newborn is usually a benign self-limited disease, but associated hypoxemia, respiratory failure and pulmonary air leak syndromes can increase the risk of morbidity [14] .",
+            "Delayed resorption of postnatal lung fluids is the most acceptable theory explaining the pathophysiology of TTN [15] .",
+            "The current studies suggest a benefit to using PEEP to assist the establishment of a functional residual capacity during the transition of the fluid-filled lung to an air-breathing organ [16, 17] .",
+            "Our main objective was to determine whether rescue PEEP therapy administered early via a T-piecebased infant resuscitator (Neopuff) to a manifesting newborn with TTN would safely reduce the severity of TTN, its related complications and the need for NICU admission.",
+            "Accessing the effect of early application of rescue CPAP on the patient's plasma BNP levels was also examined as a secondary aim."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In the present study, we used the Neopuff resuscitator to provide the clinicians with a device that is both easy to use and gives reliable levels of CPAP/ PEEP [18, 19] via a face mask, in order to deliver a positive pressure to the whole airway, not just the nose with no loss of pressure from the mouth [20] . PEEP was set to 5 cm H 2 O in order to avoid the expected unwanted side effects on intrathoracic pressure and cardiovascular system [21] .",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "In the present study, we used the Neopuff resuscitator to provide the clinicians with a device that is both easy to use and gives reliable levels of CPAP/ PEEP [18, 19] via a face mask, in order to deliver a positive pressure to the whole airway, not just the nose with no loss of pressure from the mouth [20] .",
+            "PEEP was set to 5 cm H 2 O in order to avoid the expected unwanted side effects on intrathoracic pressure and cardiovascular system [21] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "TTN tends to resolve spontaneously, and thus an immediate and dramatic improvement would be needed to support early rescue CPAP. Despite the fact that both groups were initially distressed to the same degree with no significant difference in the Downe's score, the need for NICU admission secondary to respiratory distress was significantly reduced among neonates treated with early rescue CPAP compared with the control group. Furthermore, neonates receiving Neopuff showed the shorter duration of tachypnea and shorter hospital stay. These findings suggest that if the neonatal transition from the intrauterine to extrauterine life is delayed due to fetal lung fluid retention, administration of CPAP for a brief period may lead to significant improvement. Similarly, Celebi et al. [22] observed that the rate of NICU admission was significantly lower in prophylactic CPAP group administered in the delivery room to newborns delivered by elective CS (p \u00bc .045). The Neonatal Resuscitation textbook does state that the use of CPAP may be considered in the delivery room in a term or preterm infant who has spontaneous breathing and a heart rate over 100 beats/min, but is also demonstrating labored breathing with grunting and/or intercostal retractions or persistent hypoxemia confirmed by oximetry [23, 24] .",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "TTN tends to resolve spontaneously, and thus an immediate and dramatic improvement would be needed to support early rescue CPAP.",
+            "Despite the fact that both groups were initially distressed to the same degree with no significant difference in the Downe's score, the need for NICU admission secondary to respiratory distress was significantly reduced among neonates treated with early rescue CPAP compared with the control group.",
+            "Furthermore, neonates receiving Neopuff showed the shorter duration of tachypnea and shorter hospital stay.",
+            "These findings suggest that if the neonatal transition from the intrauterine to extrauterine life is delayed due to fetal lung fluid retention, administration of CPAP for a brief period may lead to significant improvement.",
+            "Similarly, Celebi et al. [22] observed that the rate of NICU admission was significantly lower in prophylactic CPAP group administered in the delivery room to newborns delivered by elective CS (p \u00bc .045).",
+            "The Neonatal Resuscitation textbook does state that the use of CPAP may be considered in the delivery room in a term or preterm infant who has spontaneous breathing and a heart rate over 100 beats/min, but is also demonstrating labored breathing with grunting and/or intercostal retractions or persistent hypoxemia confirmed by oximetry [23, 24] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In contrary to our findings, Srinivasan et al. [25] reported no significant difference in the incidence of TTN or hospital admission. However, their study was different from ours in that CPAP was delivered prophylactically to all elective CS born neonates even those not manifesting respiratory distress, while in our study it was applied after randomization only to eligible neonates who showed signs of respiratory distress. To the best of our knowledge, no previous reports compared the effect of early rescue CPAP administration to infants with TTN.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "In contrary to our findings, Srinivasan et al. [25] reported no significant difference in the incidence of TTN or hospital admission.",
+            "However, their study was different from ours in that CPAP was delivered prophylactically to all elective CS born neonates even those not manifesting respiratory distress, while in our study it was applied after randomization only to eligible neonates who showed signs of respiratory distress.",
+            "To the best of our knowledge, no previous reports compared the effect of early rescue CPAP administration to infants with TTN."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In an additional assessment of the efficacy of early rescue CPAP, we compared the need for further mechanical support between both groups. Importantly, we documented a significant decrease among Neopuff neonates. One cluster randomized controlled trial [16] showed the benefit of using T-piece resuscitator in decreasing the intubation rate and the maximum pressures applied in the late preterm (mean gestational age 36 weeks) population. PEEP maintains inspiratory and expiratory pressures above ambient pressure, which results in an increase in functional residual capacity and improvement in static lung compliance, and decreased airway resistance in the infant with unstable lung mechanics [26, 27] . This allows a greater volume change per unit of pressure change (i.e. greater tidal volume for a given pressure change) with subsequent reduction in the work of breathing and stabilization of minute ventilation [27, 28] .",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "In an additional assessment of the efficacy of early rescue CPAP, we compared the need for further mechanical support between both groups.",
+            "Importantly, we documented a significant decrease among Neopuff neonates.",
+            "One cluster randomized controlled trial [16] showed the benefit of using T-piece resuscitator in decreasing the intubation rate and the maximum pressures applied in the late preterm (mean gestational age 36 weeks) population.",
+            "PEEP maintains inspiratory and expiratory pressures above ambient pressure, which results in an increase in functional residual capacity and improvement in static lung compliance, and decreased airway resistance in the infant with unstable lung mechanics [26, 27] .",
+            "This allows a greater volume change per unit of pressure change (i.e. greater tidal volume for a given pressure change) with subsequent reduction in the work of breathing and stabilization of minute ventilation [27, 28] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In this interim analysis, no significant increase in morbidity or mortality was observed among neonates of the Neopuff group. Avoiding endotracheal intubation in its essence is of benefit for mucociliary transport and humidification of inspired air, as well as decreasing the risk of airway damage and secondary infection and the occurrence of lung barotrauma and volutrauma secondary to mechanical ventilation [29] . This was in agreement with the report of Srinivasan et al. [25] .",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "In this interim analysis, no significant increase in morbidity or mortality was observed among neonates of the Neopuff group.",
+            "Avoiding endotracheal intubation in its essence is of benefit for mucociliary transport and humidification of inspired air, as well as decreasing the risk of airway damage and secondary infection and the occurrence of lung barotrauma and volutrauma secondary to mechanical ventilation [29] .",
+            "This was in agreement with the report of Srinivasan et al. [25] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In order to examine the hypothesis that lower BNP levels are expected to be present in full-term neonates born via CS who have poor postnatal adaptation and presented with TTN, we found that plasma BNP levels in the Neopuff group were similar to controls. Moreover, upon comparing plasma levels before and after early rescue CPAP/Neopuff, no significant difference was noted. Similar findings were reported by Srinivasan et al. [25] . Additionally, Kara et al. [30] reported that the N-amino terminal fragment (NT-proBNP), which is considered to be the biologically inactive hormone results from splitting of proBNP, has no role in the pathophysiology of transient tachypnea of the newborn.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "In order to examine the hypothesis that lower BNP levels are expected to be present in full-term neonates born via CS who have poor postnatal adaptation and presented with TTN, we found that plasma BNP levels in the Neopuff group were similar to controls.",
+            "Moreover, upon comparing plasma levels before and after early rescue CPAP/Neopuff, no significant difference was noted.",
+            "Similar findings were reported by Srinivasan et al. [25] .",
+            "Additionally, Kara et al. [30] reported that the N-amino terminal fragment (NT-proBNP), which is considered to be the biologically inactive hormone results from splitting of proBNP, has no role in the pathophysiology of transient tachypnea of the newborn."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Correlation studies between post-Neopuff plasma levels of BNP and various neonatal outcomes revealed a positive correlation between BNP and the duration of tachypnea and the duration of hospitalization. This finding supports the hypothesis that higher BNP levels might be useful as a marker in predicting the severity of TTN. In this field, Aydemir et al. [31] found that the levels of plasma NT-proBNP can be useful for predicting infants who will have prolonged tachypnea and further mechanical ventilation requirements.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "Correlation studies between post-Neopuff plasma levels of BNP and various neonatal outcomes revealed a positive correlation between BNP and the duration of tachypnea and the duration of hospitalization.",
+            "This finding supports the hypothesis that higher BNP levels might be useful as a marker in predicting the severity of TTN.",
+            "In this field, Aydemir et al. [31] found that the levels of plasma NT-proBNP can be useful for predicting infants who will have prolonged tachypnea and further mechanical ventilation requirements."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "Limitation of this study includes the 6 h timing for NICU admission; however, we are a quaternary referral center and we managed those neonates in the observation room and admit only those who remained distressed. Another limitation is that the follow-up level of BNP was measured only 2 h after CPAP but our hypothesis was based on the rapid clearance of the lung fluids among TTN infants.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Limitation of this study includes the 6 h timing for NICU admission; however, we are a quaternary referral center and we managed those neonates in the observation room and admit only those who remained distressed.",
+            "Another limitation is that the follow-up level of BNP was measured only 2 h after CPAP but our hypothesis was based on the rapid clearance of the lung fluids among TTN infants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41036",
+        "text": "In conclusion, early application of rescue Neopuff to newborns with respiratory distress contributes to decreasing the duration of tachypnea, the need for hospital admission and the need of further mechanical support, hence reducing unnecessary time, cost, and separation from the mother. Plasma BNP levels could be used as a marker to predict the severity of TTN, duration of tachypnea, and duration of hospital stay.",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "In conclusion, early application of rescue Neopuff to newborns with respiratory distress contributes to decreasing the duration of tachypnea, the need for hospital admission and the need of further mechanical support, hence reducing unnecessary time, cost, and separation from the mother.",
+            "Plasma BNP levels could be used as a marker to predict the severity of TTN, duration of tachypnea, and duration of hospital stay."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    }
+]

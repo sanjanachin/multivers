@@ -1,0 +1,787 @@
+[
+    {
+        "doc_id": "38186",
+        "text": "Pediatric functional abdominal pain disorders (FAPD) are associated with increased healthcare utilization, school absences, and poor quality of life (QoL). Cost-effective and accessible interventions are needed. This multi-site study tested the effects of a 3-session cognitivebehavioral intervention delivered to parents, in person or remotely, on the primary outcome of pain severity and secondary outcomes (process measures) of parental solicitousness, pain beliefs, catastrophizing, and child-reported coping. Additional outcomes hypothesized a priori and assessed included functional disability, quality of life, pain behavior, school absences, healthcare utilization, and gastrointestinal symptoms. The study was prospective and longitudinal (baseline, 3",
+        "section": "Abstract",
+        "sentences": [
+            "Pediatric functional abdominal pain disorders (FAPD) are associated with increased healthcare utilization, school absences, and poor quality of life (QoL).",
+            "Cost-effective and accessible interventions are needed.",
+            "This multi-site study tested the effects of a 3-session cognitivebehavioral intervention delivered to parents, in person or remotely, on the primary outcome of pain severity and secondary outcomes (process measures) of parental solicitousness, pain beliefs, catastrophizing, and child-reported coping.",
+            "Additional outcomes hypothesized a priori and assessed included functional disability, quality of life, pain behavior, school absences, healthcare utilization, and gastrointestinal symptoms.",
+            "The study was prospective and longitudinal (baseline, 3"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Abdominal pain is the second most common recurrent pain complaint of childhood [20; 38; 42] , and is most often of functional origin, defined as episodic or continuous abdominal pain without evidence of an inflammatory, anatomic, metabolic, or neoplastic process that could explain symptoms [9] . Functional Abdominal Pain Disorders (FAPD) such as Functional Abdominal Pain (FAP) and Irritable Bowel Syndrome (IBS), are associated with missing school, reduced quality of life (QoL), and emotional distress in children and parents [2; 4; 7; 42; 45; 49; 53; 58; 64; 66] . In the US, they account for more than 50% of visits to pediatric gastroenterology, with average costs for testing of $6,104.30 and for hospitalization of $13,331 per patient [8; 16; 36] . In examples outside of the US, the total annual costs per patient in the Netherlands have been estimated at \u20ac2512.31 and outpatient consultation costs in Uruguay at $6015 [16; 41] . FAPD is more common in girls, most prevalent from ages eight to 11, and frequently associated with nonspecific symptoms such as fatigue, dizziness, and headaches [6; 13; 20; 29; 48; 49; 58] .",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Abdominal pain is the second most common recurrent pain complaint of childhood [20; 38; 42] , and is most often of functional origin, defined as episodic or continuous abdominal pain without evidence of an inflammatory, anatomic, metabolic, or neoplastic process that could explain symptoms [9] .",
+            "Functional Abdominal Pain Disorders (FAPD) such as Functional Abdominal Pain (FAP) and Irritable Bowel Syndrome (IBS), are associated with missing school, reduced quality of life (QoL), and emotional distress in children and parents [2; 4; 7; 42; 45; 49; 53; 58; 64; 66] .",
+            "In the US, they account for more than 50% of visits to pediatric gastroenterology, with average costs for testing of $6,104.30 and for hospitalization of $13,331 per patient [8; 16; 36] .",
+            "In examples outside of the US, the total annual costs per patient in the Netherlands have been estimated at \u20ac2512.31 and outpatient consultation costs in Uruguay at $6015 [16; 41] .",
+            "FAPD is more common in girls, most prevalent from ages eight to 11, and frequently associated with nonspecific symptoms such as fatigue, dizziness, and headaches [6; 13; 20; 29; 48; 49; 58] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Cognitive behavioral therapy (CBT) has been shown to reduce pain and disability in children with FAPD [32] . In a prior randomized controlled trial, we tested an intervention (Social Learning and Cognitive Behavioral Therapy; SLCBT), in which children and caregivers were taught strategies to cope with FAPD, and caregivers were instructed to reduce solicitous responses to child illness behaviors and reduce threat appraisals regarding child symptoms, and to increase positive responses to child wellness behaviors. Children who received SLCBT evidenced greater baseline to 6 month follow-up decreases in pain and gastrointestinal symptoms compared to controls, and parents decreased solicitous responses to illness behaviors [24] . Mediation analyses indicated that reducing parent threat appraisals regarding pain and child pain catastrophizing mediated improvements in pain and gastrointestinal symptoms [23] , suggesting that interventions aimed at parents alone might be both effective and ease treatment implementation. Additionally, logistical barriers such as travel and scheduling around work can impede families from receiving in-person care [34; 37] , and may be addressed by delivering interventions online or by telephone [11; 14; 15; 18; 26-28; 35; 39; 46; 47; 52; 63] .",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Cognitive behavioral therapy (CBT) has been shown to reduce pain and disability in children with FAPD [32] .",
+            "In a prior randomized controlled trial, we tested an intervention (Social Learning and Cognitive Behavioral Therapy; SLCBT), in which children and caregivers were taught strategies to cope with FAPD, and caregivers were instructed to reduce solicitous responses to child illness behaviors and reduce threat appraisals regarding child symptoms, and to increase positive responses to child wellness behaviors.",
+            "Children who received SLCBT evidenced greater baseline to 6 month follow-up decreases in pain and gastrointestinal symptoms compared to controls, and parents decreased solicitous responses to illness behaviors [24] .",
+            "Mediation analyses indicated that reducing parent threat appraisals regarding pain and child pain catastrophizing mediated improvements in pain and gastrointestinal symptoms [23] , suggesting that interventions aimed at parents alone might be both effective and ease treatment implementation.",
+            "Additionally, logistical barriers such as travel and scheduling around work can impede families from receiving in-person care [34; 37] , and may be addressed by delivering interventions online or by telephone [11; 14; 15; 18; 26-28; 35; 39; 46; 47; 52; 63] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Based on these considerations, the present study compared three intervention conditions aimed at parents: SLCBT delivered by phone, SLCBT in person, and an attention-control condition delivered by phone (ES-R). Building on prior work, parents in SLCBT conditions were instructed to reduce solicitous responses to child illness behaviors, to reduce appraisals of child symptoms as indicating harm or threat, and to encourage child wellness and adaptive coping. We hypothesized that phone versus in-person SLCBT would be equally effective, and that both would be more effective than ES-R in changing the primary outcome of parent-reported child pain severity as well as secondary outcomes (process measures) of parental solicitousness, catastrophizing and threat appraisals. We also hypothesized that children of parents receiving SLCBT would report greater improvement in the process measure of pain coping compared to controls. Finally, we examined intervention effects on additional important child outcomes hypothesized a priori to improve: functional disability, quality of life, pain behavior, gastrointestinal symptoms, school absences, and healthcare utilization. This paper presents study findings through 6-month follow-up.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Based on these considerations, the present study compared three intervention conditions aimed at parents: SLCBT delivered by phone, SLCBT in person, and an attention-control condition delivered by phone (ES-R).",
+            "Building on prior work, parents in SLCBT conditions were instructed to reduce solicitous responses to child illness behaviors, to reduce appraisals of child symptoms as indicating harm or threat, and to encourage child wellness and adaptive coping.",
+            "We hypothesized that phone versus in-person SLCBT would be equally effective, and that both would be more effective than ES-R in changing the primary outcome of parent-reported child pain severity as well as secondary outcomes (process measures) of parental solicitousness, catastrophizing and threat appraisals.",
+            "We also hypothesized that children of parents receiving SLCBT would report greater improvement in the process measure of pain coping compared to controls.",
+            "Finally, we examined intervention effects on additional important child outcomes hypothesized a priori to improve: functional disability, quality of life, pain behavior, gastrointestinal symptoms, school absences, and healthcare utilization.",
+            "This paper presents study findings through 6-month follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Participants were 316 children with FAPD (FAP or IBS) and their parents recruited over a 4year period from 2012-2015 from four pediatric GI clinics: 1) Seattle Children's Hospital in Seattle, WA, 2) Mary Bridge Children's Hospital in Tacoma, WA, 3) the University of North Carolina Medical Center in Chapel Hill, NC, and 4) the St. Charles Health System in Bend, OR. Procedures were approved by institutional review boards at each site. Trained recruiters screened incoming patient records to identify potentially eligible children. Care providers approached families to ask permission for study referral. If granted, recruiters met with families for further screening and explained study procedures (including random assignment to treatment condition and mode of delivery), risks, and benefits, and answered questions. Oral and written informed consent (parents) and assent (children) were obtained prior to participation.",
+        "section": "Participants",
+        "section_number": 4,
+        "sentences": [
+            "Participants were 316 children with FAPD (FAP or IBS) and their parents recruited over a 4year period from 2012-2015 from four pediatric GI clinics: 1) Seattle Children's Hospital in Seattle, WA, 2) Mary Bridge Children's Hospital in Tacoma, WA, 3) the University of North Carolina Medical Center in Chapel Hill, NC, and 4) the St. Charles Health System in Bend, OR.",
+            "Procedures were approved by institutional review boards at each site.",
+            "Trained recruiters screened incoming patient records to identify potentially eligible children.",
+            "Care providers approached families to ask permission for study referral.",
+            "If granted, recruiters met with families for further screening and explained study procedures (including random assignment to treatment condition and mode of delivery), risks, and benefits, and answered questions.",
+            "Oral and written informed consent (parents) and assent (children) were obtained prior to participation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Inclusion criteria were child age of 7-12 years, at least once weekly abdominal pain over two months, living with the participating parent or caregiver for at least the past 3 months, a gastroenterologist-determined diagnosis of FAPD based on Rome III criteria [10] , and English speaking. Exclusion criteria for children were positive physical or laboratory findings that would explain abdominal pain; any chronic disease (e.g., Crohn's, ulcerative colitis, pancreatitis, diabetes); abdominal pain ascribed to food sensitivity if pain subsided with food elimination, major surgery within the past year; and developmental disability requiring full-time special education or impaired ability to communicate.",
+        "section": "Participants",
+        "section_number": 5,
+        "sentences": [
+            "Inclusion criteria were child age of 7-12 years, at least once weekly abdominal pain over two months, living with the participating parent or caregiver for at least the past 3 months, a gastroenterologist-determined diagnosis of FAPD based on Rome III criteria [10] , and English speaking.",
+            "Exclusion criteria for children were positive physical or laboratory findings that would explain abdominal pain; any chronic disease (e.g., Crohn's, ulcerative colitis, pancreatitis, diabetes); abdominal pain ascribed to food sensitivity if pain subsided with food elimination, major surgery within the past year; and developmental disability requiring full-time special education or impaired ability to communicate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "The study design was prospective, randomized (1:1:1) and longitudinal with three conditions targeted to parents: 1) SLCBT (in-person); 2) SLCBT-R (phone); and 3) ES-R (education/ support by phone), which was developed to provide a credible condition to control for therapist and patient time and attention. Outcome measures were collected at baseline, and one week, three and six months post-treatment. Parents completed questionnaires online or by mail (90.5% online). Children completed assessments through a telephone call with a trained interviewer blinded to study hypotheses and treatment assignment. Answer keys (that provided the response options to each questionnaire) were mailed prior to assessments to guide children through questions and response options.",
+        "section": "Study design",
+        "section_number": 6,
+        "sentences": [
+            "The study design was prospective, randomized (1:1:1) and longitudinal with three conditions targeted to parents: 1) SLCBT (in-person); 2) SLCBT-R (phone); and 3) ES-R (education/ support by phone), which was developed to provide a credible condition to control for therapist and patient time and attention.",
+            "Outcome measures were collected at baseline, and one week, three and six months post-treatment.",
+            "Parents completed questionnaires online or by mail (90.5% online).",
+            "Children completed assessments through a telephone call with a trained interviewer blinded to study hypotheses and treatment assignment.",
+            "Answer keys (that provided the response options to each questionnaire) were mailed prior to assessments to guide children through questions and response options."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Randomization and assignment-Randomization using a computer-generated randomization sequence occurred following baseline assessments, stratified by child gender and baseline parent-reported child pain severity scores on the API (scores at or above 1.75 (the median value from our prior study) versus below) [21; 62] . Recruiters and physicians were blind to treatment assignment. After enrollment and completion of baseline assessments, the study coordinator queried the randomization database for treatment assignment and then scheduled sessions with the participant. Participants were informed of mode of delivery (in person or phone) when scheduling the first session.",
+        "section": "Study design",
+        "section_number": 7,
+        "sentences": [
+            "Randomization and assignment-Randomization using a computer-generated randomization sequence occurred following baseline assessments, stratified by child gender and baseline parent-reported child pain severity scores on the API (scores at or above 1.75 (the median value from our prior study) versus below) [21; 62] .",
+            "Recruiters and physicians were blind to treatment assignment.",
+            "After enrollment and completion of baseline assessments, the study coordinator queried the randomization database for treatment assignment and then scheduled sessions with the participant.",
+            "Participants were informed of mode of delivery (in person or phone) when scheduling the first session."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Condition structure-Participants continued with regular medical care. Psychosocial intervention for abdominal pain was not offered as part of this care. Intervention was delivered by one of 13 trained therapists in three sessions approximately 1 week apart. Session length on average was approximately one hour and did not differ by condition. Participant families in the in-person SLCBT condition had the choice of having these sessions in the hospital clinic or, for convenience, in their homes. For both the SLCBT-R and ES-R conditions that were administered by telephone, parents were asked to find a quiet space free of potential distractions for each call. Sessions were scheduled for 1 hour blocks on a day and time that was convenient for the parent.",
+        "section": "Study design",
+        "section_number": 8,
+        "sentences": [
+            "Condition structure-Participants continued with regular medical care.",
+            "Psychosocial intervention for abdominal pain was not offered as part of this care.",
+            "Intervention was delivered by one of 13 trained therapists in three sessions approximately 1 week apart.",
+            "Session length on average was approximately one hour and did not differ by condition.",
+            "Participant families in the in-person SLCBT condition had the choice of having these sessions in the hospital clinic or, for convenience, in their homes.",
+            "For both the SLCBT-R and ES-R conditions that were administered by telephone, parents were asked to find a quiet space free of potential distractions for each call.",
+            "Sessions were scheduled for 1 hour blocks on a day and time that was convenient for the parent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Therapists and training-Study therapists were Ph.D. clinical psychologists, advanced clinical psychology graduate students, or Master's level social workers trained in CBT. All therapists were provided with a treatment manual that outlined the topics to be covered and the order in which to cover them, included recommendations for phrasing important ideas, and supplied additional background information and literature to inform the discussion. They received additional training in administering the interventions, including didactic instruction, viewing demonstration recordings, roleplay, practice, and feedback from trainers.",
+        "section": "Study design",
+        "section_number": 9,
+        "sentences": [
+            "Therapists and training-Study therapists were Ph.D. clinical psychologists, advanced clinical psychology graduate students, or Master's level social workers trained in CBT.",
+            "All therapists were provided with a treatment manual that outlined the topics to be covered and the order in which to cover them, included recommendations for phrasing important ideas, and supplied additional background information and literature to inform the discussion.",
+            "They received additional training in administering the interventions, including didactic instruction, viewing demonstration recordings, roleplay, practice, and feedback from trainers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "The SLCBT conditions (SLCBT/in person and SLCBT-R/by telephone) were based on principles derived from previous research showing that parental solicitous responding to child pain behaviors and parental modeling of illness behavior are associated with greater child pain and GI symptom reporting [25] , and that parent beliefs about the threat of pain may mediate intervention-based changes in parent-reported symptoms and disability [23] . The intervention focused on teaching parents to differentially attend to and reinforce wellness behaviors (those behaviors incompatible with illness and disability) while decreasing attention and reinforcement of illness behaviors related to abdominal pain; to use more adaptive cognitive coping strategies including reducing catastrophizing cognitions and threat appraisals regarding FAPD; and to model healthy responses to somatic symptoms. Intervention sessions included active skill practice under the guidance of the therapist, and identification and assignment of skills to practice at home, such as monitoring and changing behavioral and cognitive responses to child pain and wellness behaviors. Homework consisted of assignments such as reviewing written materials and recording practice of skills discussed in session. The first session began with an introduction to the study and a rationale for the treatment components, as well as rapport building. An assessment of current functioning and symptom presentation was conducted to help provide the therapist with information needed in altering maladaptive patterns of behavior and beliefs. A rationale for examining maladaptive cognitions regarding symptoms was presented, and parents were instructed in how to identify and modify such cognitions. The second session began with a review of the homework, and then proceeded with material on how social responses can influence the experience of pain, followed by suggestions to redirect attention to wellness behaviors, coping and skill building, rather than illness behavior. The focus of the third session was a review and consolidation of skills learned, and development of a plan for maintaining skill use after treatment ended. There were opportunities for addressing any difficulties in implementing the treatment and answering questions.",
+        "section": "Social learning and cognitive-behavioral therapy conditions (SLCBT and SLCBT-R)-",
+        "section_number": 10,
+        "sentences": [
+            "The SLCBT conditions (SLCBT/in person and SLCBT-R/by telephone) were based on principles derived from previous research showing that parental solicitous responding to child pain behaviors and parental modeling of illness behavior are associated with greater child pain and GI symptom reporting [25] , and that parent beliefs about the threat of pain may mediate intervention-based changes in parent-reported symptoms and disability [23] .",
+            "The intervention focused on teaching parents to differentially attend to and reinforce wellness behaviors (those behaviors incompatible with illness and disability) while decreasing attention and reinforcement of illness behaviors related to abdominal pain; to use more adaptive cognitive coping strategies including reducing catastrophizing cognitions and threat appraisals regarding FAPD; and to model healthy responses to somatic symptoms.",
+            "Intervention sessions included active skill practice under the guidance of the therapist, and identification and assignment of skills to practice at home, such as monitoring and changing behavioral and cognitive responses to child pain and wellness behaviors.",
+            "Homework consisted of assignments such as reviewing written materials and recording practice of skills discussed in session.",
+            "The first session began with an introduction to the study and a rationale for the treatment components, as well as rapport building.",
+            "An assessment of current functioning and symptom presentation was conducted to help provide the therapist with information needed in altering maladaptive patterns of behavior and beliefs.",
+            "A rationale for examining maladaptive cognitions regarding symptoms was presented, and parents were instructed in how to identify and modify such cognitions.",
+            "The second session began with a review of the homework, and then proceeded with material on how social responses can influence the experience of pain, followed by suggestions to redirect attention to wellness behaviors, coping and skill building, rather than illness behavior.",
+            "The focus of the third session was a review and consolidation of skills learned, and development of a plan for maintaining skill use after treatment ended.",
+            "There were opportunities for addressing any difficulties in implementing the treatment and answering questions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "The ES-R condition was developed to provide a credible alternative condition that would control for therapist and patient time and attention. Parents in the ES-R condition received a three-session telephone intervention of similar duration to the SLCBT conditions, consisting of educational content focused on basic nutritional guidelines, the anatomy and physiology of the gastrointestinal system, and food safety. Homework was assigned requiring similar time and effort as the SLCBT condition but pertaining to the content of the ES-R condition, such as completing a one day food log for their child. The ES-R condition was educational rather than prescriptive; as such, therapists did not endorse any individualized food or diet recommendations.",
+        "section": "Education and Support -Remote (ES-R)-",
+        "section_number": 11,
+        "sentences": [
+            "The ES-R condition was developed to provide a credible alternative condition that would control for therapist and patient time and attention.",
+            "Parents in the ES-R condition received a three-session telephone intervention of similar duration to the SLCBT conditions, consisting of educational content focused on basic nutritional guidelines, the anatomy and physiology of the gastrointestinal system, and food safety.",
+            "Homework was assigned requiring similar time and effort as the SLCBT condition but pertaining to the content of the ES-R condition, such as completing a one day food log for their child.",
+            "The ES-R condition was educational rather than prescriptive; as such, therapists did not endorse any individualized food or diet recommendations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Comparability of treatment participation, credibility and fidelity-Fidelity to the intervention protocols was assessed by two raters who listened to a sample (20% of cases for ES-R and SLCBT-R, and 22% for SLCBT) of audio recordings of completed cases. Sessions were scored to determine the percentage of critical elements of SLCBT (in either format) or ES-R included in the session. Cases were sampled from each therapist, and within therapists on a random basis. Parents were asked to rate their therapist's competence following the first session on a 7-point scale, either online or in a confidential questionnaire.",
+        "section": "Education and Support -Remote (ES-R)-",
+        "section_number": 12,
+        "sentences": [
+            "Comparability of treatment participation, credibility and fidelity-Fidelity to the intervention protocols was assessed by two raters who listened to a sample (20% of cases for ES-R and SLCBT-R, and 22% for SLCBT) of audio recordings of completed cases.",
+            "Sessions were scored to determine the percentage of critical elements of SLCBT (in either format) or ES-R included in the session.",
+            "Cases were sampled from each therapist, and within therapists on a random basis.",
+            "Parents were asked to rate their therapist's competence following the first session on a 7-point scale, either online or in a confidential questionnaire."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Demographic characteristics were assessed by parent report. (See Table 1 ).",
+        "section": "Measures",
+        "section_number": 13,
+        "sentences": [
+            "Demographic characteristics were assessed by parent report. (",
+            "See Table 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Primary Outcome-Child abdominal pain severity as reported by parents was measured using the Abdominal Pain Index (API) [21; 62] , which assesses child abdominal pain frequency (the number of days and times per day), duration, and intensity during the previous 2 weeks. The revised scoring system for this measure [21] was used to calculate a mean score ranging from 0-4 and demonstrated good internal consistency (Cronbach's coefficient alpha, 0.70).",
+        "section": "Measures",
+        "section_number": 14,
+        "sentences": [
+            "Primary Outcome-Child abdominal pain severity as reported by parents was measured using the Abdominal Pain Index (API) [21; 62] , which assesses child abdominal pain frequency (the number of days and times per day), duration, and intensity during the previous 2 weeks.",
+            "The revised scoring system for this measure [21] was used to calculate a mean score ranging from 0-4 and demonstrated good internal consistency (Cronbach's coefficient alpha, 0.70)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Secondary Outcomes (Process measures)-Measures were designated as process measures if they reflected therapeutic targets for change in the SLCBT intervention.",
+        "section": "Measures",
+        "section_number": 15,
+        "sentences": [
+            "Secondary Outcomes (Process measures)-Measures were designated as process measures if they reflected therapeutic targets for change in the SLCBT intervention."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Parent report: Parental solicitousness in response to child pain behavior was measured using the Protect subscale of the Adults Responses to Children's Symptoms (ARCS) [30; 51] . The subscale contains 13 items per the most recent factor analysis [30] , rated on a 0-4 scale. Cronbach's coefficient alpha in the current sample was 0.86. Validity of the Protect subscale was demonstrated in prior research [60] .",
+        "section": "Measures",
+        "section_number": 16,
+        "sentences": [
+            "Parent report: Parental solicitousness in response to child pain behavior was measured using the Protect subscale of the Adults Responses to Children's Symptoms (ARCS) [30; 51] .",
+            "The subscale contains 13 items per the most recent factor analysis [30] , rated on a 0-4 scale.",
+            "Cronbach's coefficient alpha in the current sample was 0.86.",
+            "Validity of the Protect subscale was demonstrated in prior research [60] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Pain beliefs were assessed using the Pain Beliefs Questionnaire (PBQ) [50; 56; 61] , which includes 20 items on a 5-point scale assessing the perceived seriousness of the child's abdominal pain and how the child copes with his/her pain. Cronbach's coefficient alpha based on the present sample was 0.85, 0.77, and 0.80 for the threat, emotion-focused coping, and problem-focused coping subscales, respectively.",
+        "section": "Measures",
+        "section_number": 17,
+        "sentences": [
+            "Pain beliefs were assessed using the Pain Beliefs Questionnaire (PBQ) [50; 56; 61] , which includes 20 items on a 5-point scale assessing the perceived seriousness of the child's abdominal pain and how the child copes with his/her pain.",
+            "Cronbach's coefficient alpha based on the present sample was 0.85, 0.77, and 0.80 for the threat, emotion-focused coping, and problem-focused coping subscales, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Parental catastrophizing was measured using the 13-item parent-report version of the Pain Catastrophizing Scale (PCS-P) [12] , which assesses the extent to which parents catastrophize about their child's pain rated on a 0-4 scale. Summary scores can range from 0-52. Cronbach's coefficient alpha in this sample was 0.93. Prior research has demonstrated satisfactory validity [12] .",
+        "section": "Measures",
+        "section_number": 18,
+        "sentences": [
+            "Parental catastrophizing was measured using the 13-item parent-report version of the Pain Catastrophizing Scale (PCS-P) [12] , which assesses the extent to which parents catastrophize about their child's pain rated on a 0-4 scale.",
+            "Summary scores can range from 0-52.",
+            "Cronbach's coefficient alpha in this sample was 0.93.",
+            "Prior research has demonstrated satisfactory validity [12] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Child report: Pain coping skills were measured using the Pain Response Inventory (PRI) [56; 62] subscales of Catastrophizing, Distract/Ignore, and Minimizing Pain. Frequency of skill use is rated on a 0-4 scale. Cronbach's coefficient alphas based on the present sample were 0.86 for Catastrophizing, 0.84 for Distract/Ignore and 0.68 for Minimizing Pain.",
+        "section": "Measures",
+        "section_number": 19,
+        "sentences": [
+            "Child report: Pain coping skills were measured using the Pain Response Inventory (PRI) [56; 62] subscales of Catastrophizing, Distract/Ignore, and Minimizing Pain.",
+            "Frequency of skill use is rated on a 0-4 scale.",
+            "Cronbach's coefficient alphas based on the present sample were 0.86 for Catastrophizing, 0.84 for Distract/Ignore and 0.68 for Minimizing Pain."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Parent report-Child disability was measured by the Functional Disability Inventory (FDI) [3; 59] . Parents rated how difficult various activities were for their child during the past week, using a 0-4 scale. Cronbach's coefficient alpha based on the present sample was 0.94. Test-retest reliability and validity of the measure has been demonstrated [59] .",
+        "section": "Additional Outcomes",
+        "section_number": 20,
+        "sentences": [
+            "Parent report-Child disability was measured by the Functional Disability Inventory (FDI) [3; 59] .",
+            "Parents rated how difficult various activities were for their child during the past week, using a 0-4 scale.",
+            "Cronbach's coefficient alpha based on the present sample was 0.94.",
+            "Test-retest reliability and validity of the measure has been demonstrated [59] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Parents also provided reports of school days missed (due to abdominal pain and also due to any health reason) and healthcare utilization (provider visits for abdominal pain and for any reason) over the prior 3 months.",
+        "section": "Additional Outcomes",
+        "section_number": 21,
+        "sentences": [
+            "Parents also provided reports of school days missed (due to abdominal pain and also due to any health reason) and healthcare utilization (provider visits for abdominal pain and for any reason) over the prior 3 months."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Pain behaviors were measured using an adaptation of the Pain Behavior Check List (PBCL) [19; 31] for a pediatric sample. All items are rated for frequency on a 0-4 scale and measure observable indicators of pain such as changes in gait or facial expression. Cronbach's coefficient alpha in the present dataset was 0.89. Parent and child report-Child GI symptom severity was assessed using the GI symptom subscale of the Children's Somatization Inventory (CSI) [57; 58] . Seven items are rated for bothersomeness during the past 2 weeks using a 0-4 scale. Parents rate their children's symptoms and children their own. Cronbach's coefficient alphas in the present sample were 0.68 for parents and 0.72 for children. The subscale has been responsive to intervention in our prior work with this population [24] .",
+        "section": "Additional Outcomes",
+        "section_number": 22,
+        "sentences": [
+            "Pain behaviors were measured using an adaptation of the Pain Behavior Check List (PBCL) [19; 31] for a pediatric sample.",
+            "All items are rated for frequency on a 0-4 scale and measure observable indicators of pain such as changes in gait or facial expression.",
+            "Cronbach's coefficient alpha in the present dataset was 0.89.",
+            "Parent and child report-Child GI symptom severity was assessed using the GI symptom subscale of the Children's Somatization Inventory (CSI) [57; 58] .",
+            "Seven items are rated for bothersomeness during the past 2 weeks using a 0-4 scale.",
+            "Parents rate their children's symptoms and children their own.",
+            "Cronbach's coefficient alphas in the present sample were 0.68 for parents and 0.72 for children.",
+            "The subscale has been responsive to intervention in our prior work with this population [24] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Quality of life was measured using the 23-item Pediatric Quality of Life Inventory (PedsQL) [54] . This measure consists of four subscales on a 0-100 scale: physical functioning, emotional functioning, social functioning and school functioning. Parents complete a parentproxy form and children rate their own QoL using forms designed for 5-7 and 8-12 yearolds, respectively. Analyses used the physical functioning score and a psychosocial functioning score (a summary of the emotional, social and school functioning subscales). Cronbach's coefficient alpha values for the latter were 0.88 for parents and 0.87 for children. Validity is well established in prior research [5; 22] .",
+        "section": "Additional Outcomes",
+        "section_number": 23,
+        "sentences": [
+            "Quality of life was measured using the 23-item Pediatric Quality of Life Inventory (PedsQL) [54] .",
+            "This measure consists of four subscales on a 0-100 scale: physical functioning, emotional functioning, social functioning and school functioning.",
+            "Parents complete a parentproxy form and children rate their own QoL using forms designed for 5-7 and 8-12 yearolds, respectively.",
+            "Analyses used the physical functioning score and a psychosocial functioning score (a summary of the emotional, social and school functioning subscales).",
+            "Cronbach's coefficient alpha values for the latter were 0.88 for parents and 0.87 for children.",
+            "Validity is well established in prior research [5; 22] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Linear mixed-effects regression models were used to compare the three conditions on the change from baseline for outcome and process measures, adjusting for factors used to stratify the treatment randomization (child gender and parent-reported API index), and for child age, study site, assessment time point and baseline level of the dependent variable [55] . Separate models were estimated for each measure and included an interaction between time and treatment condition to estimate the change from baseline for each assessment time and treatment condition. Given that we were interested in comparing outcomes between the different treatment conditions at all time points and no time point was selected a priori as a primary endpoint, an omnibus test for all post-treatment assessment periods (df = 6) was performed to evaluate an overall effect of the interventions while reducing the chance of a type I error. In addition, a Bonferroni-Holm correction was used to determine if the overall effect of the interventions was still significant (p < .05) after adjustment for the 21 outcome and process variable comparisons. Omnibus tests were followed by separate significance tests between each treatment condition (df = 3) and for each post-treatment period. In addition, 95% confidence intervals are reported for the difference between treatments and Cohen's d is reported as a measure of the effect size based on the 6-month post-treatment follow-up.",
+        "section": "Data analysis",
+        "section_number": 24,
+        "sentences": [
+            "Linear mixed-effects regression models were used to compare the three conditions on the change from baseline for outcome and process measures, adjusting for factors used to stratify the treatment randomization (child gender and parent-reported API index), and for child age, study site, assessment time point and baseline level of the dependent variable [55] .",
+            "Separate models were estimated for each measure and included an interaction between time and treatment condition to estimate the change from baseline for each assessment time and treatment condition.",
+            "Given that we were interested in comparing outcomes between the different treatment conditions at all time points and no time point was selected a priori as a primary endpoint, an omnibus test for all post-treatment assessment periods (df = 6) was performed to evaluate an overall effect of the interventions while reducing the chance of a type I error.",
+            "In addition, a Bonferroni-Holm correction was used to determine if the overall effect of the interventions was still significant (p < .05) after adjustment for the 21 outcome and process variable comparisons.",
+            "Omnibus tests were followed by separate significance tests between each treatment condition (df = 3) and for each post-treatment period.",
+            "In addition, 95% confidence intervals are reported for the difference between treatments and Cohen's d is reported as a measure of the effect size based on the 6-month post-treatment follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Due to the skewed distributions for the number of healthcare visits and missed school days, log-linear regression models were used to compare these count outcomes over time. Generalized estimating equations (GEE) were used to fit the log-linear models with robust standard error estimates that take into account the within-subject correlation over time [55] . An omnibus test for all post-treatment assessment periods (df = 4) was performed to evaluate an overall effect of the intervention (SCLBT vs. ES-R), followed by separate significance tests for each post-treatment period. Bonferroni-Holm post-hoc tests were used to account for multiple comparisons due to the two post-treatment assessments and three treatment conditions.",
+        "section": "Data analysis",
+        "section_number": 25,
+        "sentences": [
+            "Due to the skewed distributions for the number of healthcare visits and missed school days, log-linear regression models were used to compare these count outcomes over time.",
+            "Generalized estimating equations (GEE) were used to fit the log-linear models with robust standard error estimates that take into account the within-subject correlation over time [55] .",
+            "An omnibus test for all post-treatment assessment periods (df = 4) was performed to evaluate an overall effect of the intervention (SCLBT vs. ES-R), followed by separate significance tests for each post-treatment period.",
+            "Bonferroni-Holm post-hoc tests were used to account for multiple comparisons due to the two post-treatment assessments and three treatment conditions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "For all regression analyses multiple imputation procedures were used to account for missing assessments, and to derive intervention effect estimates consistent with the intention-to-treat (ITT) principle. A set of 10 multiple imputed datasets was generated using Markov chain Monte Carlo estimation, and the results carried out for each dataset were combined using Rubin's rules to adjust the standard errors for the uncertainty about imputed values [40; 44] .",
+        "section": "Data analysis",
+        "section_number": 26,
+        "sentences": [
+            "For all regression analyses multiple imputation procedures were used to account for missing assessments, and to derive intervention effect estimates consistent with the intention-to-treat (ITT) principle.",
+            "A set of 10 multiple imputed datasets was generated using Markov chain Monte Carlo estimation, and the results carried out for each dataset were combined using Rubin's rules to adjust the standard errors for the uncertainty about imputed values [40; 44] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Statistical analyses were conducted using SAS statistical software, version 9.3 (SAS Institute, Inc.).",
+        "section": "Data analysis",
+        "section_number": 27,
+        "sentences": [
+            "Statistical analyses were conducted using SAS statistical software, version 9.3 (SAS Institute, Inc.)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Our prior RCT of SLCBT therapy suggested that moderate effect sizes in the range of Cohen's d=0.4 to 0.5 are clinically important and reasonable to expect with SLCBT therapy [24; 27] . With a two-tailed 0.05 significance level and 80% power, 80 participants per condition were required to detect a moderate effect, d=0.45, between the SLCBT conditions and ES-R condition at any time point (G*Power software Version 2.0). No time point was designated a priori as the primary endpoint. Given a 19% attrition rate at 1 year in our prior RCT, we targeted to enroll at least 100 participants per condition. Additional participants were recruited to insure for possible participant loss due to new diagnosis leading to ineligibility or other similar issues.",
+        "section": "Power",
+        "section_number": 28,
+        "sentences": [
+            "Our prior RCT of SLCBT therapy suggested that moderate effect sizes in the range of Cohen's d=0.4 to 0.5 are clinically important and reasonable to expect with SLCBT therapy [24; 27] .",
+            "With a two-tailed 0.05 significance level and 80% power, 80 participants per condition were required to detect a moderate effect, d=0.45, between the SLCBT conditions and ES-R condition at any time point (G*Power software Version 2.0).",
+            "No time point was designated a priori as the primary endpoint.",
+            "Given a 19% attrition rate at 1 year in our prior RCT, we targeted to enroll at least 100 participants per condition.",
+            "Additional participants were recruited to insure for possible participant loss due to new diagnosis leading to ineligibility or other similar issues."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "See Figure 1 for the CONSORT diagram illustrating participant flow through the study. 525 children and parents were referred by providers and met eligibility criteria. Of these, 352 agreed to participate and 173 declined. Of the 352 who consented, 316 families completed baseline assessments and were randomized. Of those, 255 completed treatment; 65 did not complete for various reasons as shown in Figure 1 . Participants were recruited between February 23, 2012 and March 5, 2015. All randomized subjects were included in the analysis including those who did not complete treatment. No adverse events were reported. Study enrollment ended after recruitment goals were met. Parents with at least one follow-up (259) as compared to parents with no follow-up (57) were older on average (40.3 vs 37.4 years), and more likely to be married (82% vs 66%).",
+        "section": "RESULTS",
+        "section_number": 29,
+        "sentences": [
+            "See Figure 1 for the CONSORT diagram illustrating participant flow through the study.",
+            "525 children and parents were referred by providers and met eligibility criteria.",
+            "Of these, 352 agreed to participate and 173 declined.",
+            "Of the 352 who consented, 316 families completed baseline assessments and were randomized.",
+            "Of those, 255 completed treatment; 65 did not complete for various reasons as shown in Figure 1 .",
+            "Participants were recruited between February 23, 2012 and March 5, 2015.",
+            "All randomized subjects were included in the analysis including those who did not complete treatment.",
+            "No adverse events were reported.",
+            "Study enrollment ended after recruitment goals were met.",
+            "Parents with at least one follow-up (259) as compared to parents with no follow-up (57) were older on average (40.3 vs 37.4 years), and more likely to be married (82% vs 66%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "A total of 81.1%, 76.2% and 84.4% of SLCBT, SLCBT-R and ES-R participants completed the intervention. Credibility ratings of 8.61, 8.47 and 8.25 (0-10 point scale), as well as fidelity ratings of 99.7%, 98.4% and 96.3% for inclusion of appropriate elements, respectively, did not differ significantly between groups. There was no cross-contamination observed across conditions.",
+        "section": "Comparability of treatment participation, credibility and fidelity",
+        "section_number": 30,
+        "sentences": [
+            "A total of 81.1%, 76.2% and 84.4% of SLCBT, SLCBT-R and ES-R participants completed the intervention.",
+            "Credibility ratings of 8.61, 8.47 and 8.25 (0-10 point scale), as well as fidelity ratings of 99.7%, 98.4% and 96.3% for inclusion of appropriate elements, respectively, did not differ significantly between groups.",
+            "There was no cross-contamination observed across conditions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "See Table 1 for baseline characteristics of the total sample and by condition. Outcome and process variables at baseline did not significantly differ by condition (see Table 2 ).",
+        "section": "Sample Characteristics",
+        "section_number": 31,
+        "sentences": [
+            "See Table 1 for baseline characteristics of the total sample and by condition.",
+            "Outcome and process variables at baseline did not significantly differ by condition (see Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "The primary outcome variable of API pain severity did not show a significant treatment effect (see Table 3 ). However, also shown in Table 3 , secondary outcomes (process measures) did show a number of significant treatment effects, indicating that the SLCBT interventions affected targeted treatment variables. Parents in the SLCBT conditions reported significantly greater reductions in solicitousness, catastrophizing, and pain beliefs, specifically threat appraisals, and significantly greater increase in child use of emotion-and problem-focused coping compared to ES-R parents. These treatment differences remained statistically significant even after adjustment for the 21 outcome and process variable comparisons (Bonferroni-Holm, p < .05). Other child-reported secondary outcome comparisons for catastrophizing and coping by minimizing pain and distract/ignore were not significant.",
+        "section": "Primary Outcome and Secondary Outcome (Process) Variables",
+        "section_number": 32,
+        "sentences": [
+            "The primary outcome variable of API pain severity did not show a significant treatment effect (see Table 3 ).",
+            "However, also shown in Table 3 , secondary outcomes (process measures) did show a number of significant treatment effects, indicating that the SLCBT interventions affected targeted treatment variables.",
+            "Parents in the SLCBT conditions reported significantly greater reductions in solicitousness, catastrophizing, and pain beliefs, specifically threat appraisals, and significantly greater increase in child use of emotion-and problem-focused coping compared to ES-R parents.",
+            "These treatment differences remained statistically significant even after adjustment for the 21 outcome and process variable comparisons (Bonferroni-Holm, p < .05).",
+            "Other child-reported secondary outcome comparisons for catastrophizing and coping by minimizing pain and distract/ignore were not significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Results of analyses for additional outcomes are reported in Tables 4 and 5 . Parents in both SLCBT conditions reported significantly greater improvement in functional disability and pain behaviors compared to ES-R but no differences in GI symptom severity were found. Parents in SLCBT-R, but not SLCBT, reported significantly greater improvement from baseline in physical and psychosocial QoL compared to ES-R. Parents in both SLCBT groups reported significantly fewer healthcare visits for abdominal pain in the past 3 months compared to those in the ES-R condition. In addition, parents receiving SLCBT-R reported significantly fewer missed school days for any reason, and child healthcare visits for any reason in the past 3 months compared to ES-R (see Table 5 ). There were no significant group differences on number of missed school days for abdominal pain in the past 3 months. None of the child-reported outcomes (GI symptom severity and child-reported physical and psychosocial QoL) showed significant treatment effects.",
+        "section": "Additional Outcome Variables",
+        "section_number": 33,
+        "sentences": [
+            "Results of analyses for additional outcomes are reported in Tables 4 and 5 .",
+            "Parents in both SLCBT conditions reported significantly greater improvement in functional disability and pain behaviors compared to ES-R but no differences in GI symptom severity were found.",
+            "Parents in SLCBT-R, but not SLCBT, reported significantly greater improvement from baseline in physical and psychosocial QoL compared to ES-R. Parents in both SLCBT groups reported significantly fewer healthcare visits for abdominal pain in the past 3 months compared to those in the ES-R condition.",
+            "In addition, parents receiving SLCBT-R reported significantly fewer missed school days for any reason, and child healthcare visits for any reason in the past 3 months compared to ES-R (see Table 5 ).",
+            "There were no significant group differences on number of missed school days for abdominal pain in the past 3 months.",
+            "None of the child-reported outcomes (GI symptom severity and child-reported physical and psychosocial QoL) showed significant treatment effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "This study compared the efficacy of two modes of delivery of SLCBT to parents of children with FAPD (phone versus in person) to an attention-control condition delivered by phone to parents. In addition to the findings in prior research regarding parental changes mediating child outcomes, remote delivery and parent-only treatment were particularly appealing intervention characteristics for their potential ability to improve accessibility and ease of delivery. Contrary to hypothesis, there was no treatment effect on the primary outcome measure of pain severity as reported by parents on the API. However, consistent with our study hypotheses, both SLCBT groups produced significantly greater improvement compared to ES-R on secondary outcomes (process measures) of parental solicitousness, catastrophizing, and pain beliefs (threat appraisals), and parent-reported child emotionfocused and problem focused-coping. Parents in the two SLCBT conditions also reported greater improvements in functional disability, pain behaviors, and healthcare utilization for pain relative to controls, with SLCBT-R also showing greater improvement in parentreported child QoL and school absenteeism compared to the control group.",
+        "section": "DISCUSSION",
+        "section_number": 34,
+        "sentences": [
+            "This study compared the efficacy of two modes of delivery of SLCBT to parents of children with FAPD (phone versus in person) to an attention-control condition delivered by phone to parents.",
+            "In addition to the findings in prior research regarding parental changes mediating child outcomes, remote delivery and parent-only treatment were particularly appealing intervention characteristics for their potential ability to improve accessibility and ease of delivery.",
+            "Contrary to hypothesis, there was no treatment effect on the primary outcome measure of pain severity as reported by parents on the API.",
+            "However, consistent with our study hypotheses, both SLCBT groups produced significantly greater improvement compared to ES-R on secondary outcomes (process measures) of parental solicitousness, catastrophizing, and pain beliefs (threat appraisals), and parent-reported child emotionfocused and problem focused-coping.",
+            "Parents in the two SLCBT conditions also reported greater improvements in functional disability, pain behaviors, and healthcare utilization for pain relative to controls, with SLCBT-R also showing greater improvement in parentreported child QoL and school absenteeism compared to the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Thus, although intervening with parents did not result in reductions of parent or childreported pain severity or other GI symptoms, the intervention appears to have had a positive impact on quality of life and disability, outcomes which have been noted as key treatment priorities in children with FAPDs [17; 43] , and are consistent with other recently published reports of cognitive-behavioral intervention outcome targets for children with chronic pain [33; 34] . Additionally, parents reported less healthcare utilization post-treatment, which could have further benefits such as fewer hours of missed parent work to attend medical visits.",
+        "section": "DISCUSSION",
+        "section_number": 35,
+        "sentences": [
+            "Thus, although intervening with parents did not result in reductions of parent or childreported pain severity or other GI symptoms, the intervention appears to have had a positive impact on quality of life and disability, outcomes which have been noted as key treatment priorities in children with FAPDs [17; 43] , and are consistent with other recently published reports of cognitive-behavioral intervention outcome targets for children with chronic pain [33; 34] .",
+            "Additionally, parents reported less healthcare utilization post-treatment, which could have further benefits such as fewer hours of missed parent work to attend medical visits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Also consistent with our hypotheses, results were generally comparable for the in-person and phone-delivered SLCBT conditions, suggesting that this cost-effective method of delivery was not inferior to in person intervention with parents. This finding supports the potential of remote delivery of such interventions, which can reduce barriers of cost and access, and allow organizations to more easily offer these interventions.",
+        "section": "DISCUSSION",
+        "section_number": 36,
+        "sentences": [
+            "Also consistent with our hypotheses, results were generally comparable for the in-person and phone-delivered SLCBT conditions, suggesting that this cost-effective method of delivery was not inferior to in person intervention with parents.",
+            "This finding supports the potential of remote delivery of such interventions, which can reduce barriers of cost and access, and allow organizations to more easily offer these interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "In contrast to our prior research [22; 24] , there were no significant differences across groups in the child-reported measures. A possible explanation for the weaker effects on childreported process and outcome measures in the current study is that parents, not children, were the direct recipients of the intervention. This may have resulted in children being less likely to perceive and/or report changes related to treatment. In addition, our previous study [24] had included direct relaxation training for children as part of the coping skills training. This was not a part of the current study given that the intervention was directed only at parents. This difference may have also reduced the impact of the intervention on childreported measures.",
+        "section": "DISCUSSION",
+        "section_number": 37,
+        "sentences": [
+            "In contrast to our prior research [22; 24] , there were no significant differences across groups in the child-reported measures.",
+            "A possible explanation for the weaker effects on childreported process and outcome measures in the current study is that parents, not children, were the direct recipients of the intervention.",
+            "This may have resulted in children being less likely to perceive and/or report changes related to treatment.",
+            "In addition, our previous study [24] had included direct relaxation training for children as part of the coping skills training.",
+            "This was not a part of the current study given that the intervention was directed only at parents.",
+            "This difference may have also reduced the impact of the intervention on childreported measures."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Regarding study limitations, the participating parents were predominantly mothers (90%). While mothers are most often involved in children's medical care, future studies are needed to examine whether paternal involvement could be equally effective, or if involving both parents (regardless of gender) could enhance efficacy of interventions [1; 65] . The sample was primarily Caucasian, limiting the generalizability of the study findings to non-white families. Future studies would benefit from greater minority family representation. For many participants, baseline severity of symptoms and disability was low to moderate, and on many variables children in all conditions improved, reducing differential treatment effects. Finally, while the potential for doing an intervention via phone has the advantage of increasing accessibility, many insurance companies at present do not pay for phone consultation, or even HIPAA compliant video conferencing in the home, except under certain conditions. While this circumstance may be changing, at present this may limit the ability of providers to offer phone intervention in some clinical settings. In countries other than the US, insurance and privacy considerations may be different and more easily allow for phonebased interventions. This could allow such interventions to be more easily delivered to families who are unable to participate in treatment due to logistical barriers such as travel distance and scheduling around work and other activities [34; 37] . Remote interventions may also be especially useful in areas where appropriately trained clinicians are not available in large parts of the country.",
+        "section": "DISCUSSION",
+        "section_number": 38,
+        "sentences": [
+            "Regarding study limitations, the participating parents were predominantly mothers (90%).",
+            "While mothers are most often involved in children's medical care, future studies are needed to examine whether paternal involvement could be equally effective, or if involving both parents (regardless of gender) could enhance efficacy of interventions [1; 65] .",
+            "The sample was primarily Caucasian, limiting the generalizability of the study findings to non-white families.",
+            "Future studies would benefit from greater minority family representation.",
+            "For many participants, baseline severity of symptoms and disability was low to moderate, and on many variables children in all conditions improved, reducing differential treatment effects.",
+            "Finally, while the potential for doing an intervention via phone has the advantage of increasing accessibility, many insurance companies at present do not pay for phone consultation, or even HIPAA compliant video conferencing in the home, except under certain conditions.",
+            "While this circumstance may be changing, at present this may limit the ability of providers to offer phone intervention in some clinical settings.",
+            "In countries other than the US, insurance and privacy considerations may be different and more easily allow for phonebased interventions.",
+            "This could allow such interventions to be more easily delivered to families who are unable to participate in treatment due to logistical barriers such as travel distance and scheduling around work and other activities [34; 37] .",
+            "Remote interventions may also be especially useful in areas where appropriately trained clinicians are not available in large parts of the country."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "In summary, a three-session cognitive behavioral intervention delivered remotely by telephone to parents of children with FAPD did not alter reported pain severity or GI symptoms, but did result in significant improvements in targeted process variables such as parental catastrophizing and solicitousness, as well as in other outcomes including parentreported child disability, pain behaviors, and quality of life, and healthcare utilization. Phone-delivered treatment was generally as effective as in-person treatment, supporting the use of a brief phone intervention with parents as an efficient, easily-implemented method, especially when resources and access are limited. Future research may consider the effects of treatment variations of this brief remote parent-only intervention, such as incorporating booster sessions or intervening with parents of children who are at risk for FAPD, or are in the early stages of the disorder, to reduce the development of disabling chronic pain.",
+        "section": "DISCUSSION",
+        "section_number": 39,
+        "sentences": [
+            "In summary, a three-session cognitive behavioral intervention delivered remotely by telephone to parents of children with FAPD did not alter reported pain severity or GI symptoms, but did result in significant improvements in targeted process variables such as parental catastrophizing and solicitousness, as well as in other outcomes including parentreported child disability, pain behaviors, and quality of life, and healthcare utilization.",
+            "Phone-delivered treatment was generally as effective as in-person treatment, supporting the use of a brief phone intervention with parents as an efficient, easily-implemented method, especially when resources and access are limited.",
+            "Future research may consider the effects of treatment variations of this brief remote parent-only intervention, such as incorporating booster sessions or intervening with parents of children who are at risk for FAPD, or are in the early stages of the disorder, to reduce the development of disabling chronic pain."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Refer to Web version on PubMed Central for supplementary material. Baseline characteristics of the sample as a function of treatment condition. Baseline outcome and process variables as a function of treatment condition. Table 3 Adjusted mean changes from baseline for primary outcome and process variables. a Adjusted mean changes from baseline for additional outcome variables. Adjusted rate ratios for number of missed school days and health care visits for abdominal pain and for any ",
+        "section": "Supplementary Material",
+        "section_number": 40,
+        "sentences": [
+            "Refer to Web version on PubMed Central for supplementary material.",
+            "Baseline characteristics of the sample as a function of treatment condition.",
+            "Baseline outcome and process variables as a function of treatment condition.",
+            "Table 3 Adjusted mean changes from baseline for primary outcome and process variables.",
+            "a Adjusted mean changes from baseline for additional outcome variables.",
+            "Adjusted rate ratios for number of missed school days and health care visits for abdominal pain and for any"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "38186",
+        "text": "Pain. Author manuscript; available in PMC 2018 April 01.",
+        "section": "",
+        "section_number": 41,
+        "sentences": [
+            "Pain.",
+            "Author manuscript; available in PMC 2018 April 01."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    }
+]

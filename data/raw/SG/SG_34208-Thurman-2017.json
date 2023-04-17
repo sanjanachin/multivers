@@ -1,0 +1,617 @@
+[
+    {
+        "doc_id": "34208",
+        "text": "Background: Children and adolescents affected by HIV are at elevated risk of depression, yet research on related interventions in this population is scarce in sub-Saharan Africa. This study sought to examine the effects of interpersonal psychotherapy for groups (IPTG) on depressive symptomology among orphaned and vulnerable adolescents in South Africa. Method: A cluster randomized controlled trial wherein adolescents ages 14-17 enrolled in community-based programming for HIV-affected and vulnerable families were randomly assigned by geographic cluster to participate in a 16-session IPTG intervention or the standard of care (n = 489). Baseline and postintervention surveys conducted with enrollees included standardized depression screening. Utilizing an intent-to-treat design, mixed effects models were performed to examine treatment effects for all participants and potential moderators including gender and baseline depression level (Clinical Trials registration: ClinicalTrials.gov NCT02386878). Results: While 23% of adolescents in the intervention group did not attend any IPTG sessions, average attendance was 12 out of 16 possible sessions among participants. The intervention was not associated with changes in depression symptomology. Conclusions: Results underscore the importance of mitigating participation barriers prior to intervention roll-out and the need for increased evidence for psychological health interventions to mitigate depression among orphaned and vulnerable adolescents. This intervention and the study selectively targeted at-risk adolescents versus using diagnostic mental health criteria for enrollment; more research is needed to identify the potential benefits and disadvantages of these approaches. Key Practitioner Message \u2022 Children and adolescents who have been orphaned due to AIDS or who are living with a chronically ill parent are at increased risk for depression; the need for effective interventions is high in generalized HIV epidemic settings like South Africa. \u2022 Interpersonal psychotherapy for groups (IPTG) delivered by lay practitioners has been evaluated in other populations in sub-Saharan Africa and found to be an effective method for treating depression. \u2022 Results from this cluster randomized controlled trial did not find IPTG delivered by community workers to be measurably associated with changes in depression symptomology among orphaned and vulnerable adolescents, regardless of gender or preexisting depressive symptomology. \u2022 The study took place within the context of rapid program expansion with a cadre of relatively inexperienced facilitators, which may have affected the results; nevertheless, such implementation challenges are common when scaling up interventions in resource-constrained environments. Intervention adjustments, quality control mechanisms, more specific enrollment criteria and efforts to promote participation may deliver better results.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Children and adolescents affected by HIV are at elevated risk of depression, yet research on related interventions in this population is scarce in sub-Saharan Africa.",
+            "This study sought to examine the effects of interpersonal psychotherapy for groups (IPTG) on depressive symptomology among orphaned and vulnerable adolescents in South Africa.",
+            "Method: A cluster randomized controlled trial wherein adolescents ages 14-17 enrolled in community-based programming for HIV-affected and vulnerable families were randomly assigned by geographic cluster to participate in a 16-session IPTG intervention or the standard of care (n = 489).",
+            "Baseline and postintervention surveys conducted with enrollees included standardized depression screening.",
+            "Utilizing an intent-to-treat design, mixed effects models were performed to examine treatment effects for all participants and potential moderators including gender and baseline depression level (Clinical Trials registration: ClinicalTrials.gov NCT02386878).",
+            "Results: While 23% of adolescents in the intervention group did not attend any IPTG sessions, average attendance was 12 out of 16 possible sessions among participants.",
+            "The intervention was not associated with changes in depression symptomology.",
+            "Conclusions: Results underscore the importance of mitigating participation barriers prior to intervention roll-out and the need for increased evidence for psychological health interventions to mitigate depression among orphaned and vulnerable adolescents.",
+            "This intervention and the study selectively targeted at-risk adolescents versus using diagnostic mental health criteria for enrollment; more research is needed to identify the potential benefits and disadvantages of these approaches.",
+            "Key Practitioner Message \u2022 Children and adolescents who have been orphaned due to AIDS or who are living with a chronically ill parent are at increased risk for depression; the need for effective interventions is high in generalized HIV epidemic settings like South Africa. \u2022",
+            "Interpersonal psychotherapy for groups (IPTG) delivered by lay practitioners has been evaluated in other populations in sub-Saharan Africa and found to be an effective method for treating depression. \u2022",
+            "Results from this cluster randomized controlled trial did not find IPTG delivered by community workers to be measurably associated with changes in depression symptomology among orphaned and vulnerable adolescents, regardless of gender or preexisting depressive symptomology. \u2022",
+            "The study took place within the context of rapid program expansion with a cadre of relatively inexperienced facilitators, which may have affected the results; nevertheless, such implementation challenges are common when scaling up interventions in resource-constrained environments.",
+            "Intervention adjustments, quality control mechanisms, more specific enrollment criteria and efforts to promote participation may deliver better results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Depression is a leading cause of morbidity among adolescents, and identifying effective interventions is a global priority (Patel, 2013) . Studies from sub-Saharan Africa demonstrate elevated risk for depression among children and adolescents who have lost a parent to AIDS and those living with a parent who is chronically ill (Atwine, Cantor-Graae, & Bajunirwe, 2005; Cluver, Gardner, & Operario, 2007; Cluver, Orkin, Boyes, Gardner, & Nikelo, 2012; Makame & Grantham-Mcgregor, 2002) . A population-based study from South Africa reported that adolescents orphaned by AIDS experienced depression at rates well above those of their nonorphaned peers, and above Western norms overall .",
+        "section": "Background",
+        "section_number": 1,
+        "sentences": [
+            "Depression is a leading cause of morbidity among adolescents, and identifying effective interventions is a global priority (Patel, 2013) .",
+            "Studies from sub-Saharan Africa demonstrate elevated risk for depression among children and adolescents who have lost a parent to AIDS and those living with a parent who is chronically ill (Atwine, Cantor-Graae, & Bajunirwe, 2005; Cluver, Gardner, & Operario, 2007; Cluver, Orkin, Boyes, Gardner, & Nikelo, 2012; Makame & Grantham-Mcgregor, 2002) .",
+            "A population-based study from South Africa reported that adolescents orphaned by AIDS experienced depression at rates well above those of their nonorphaned peers, and above Western norms overall ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Despite the need, limited evidence exists to guide psychological programming for HIV-affected children and adolescents. A 2009 Cochrane review found no randomized controlled trials (RCTs) investigating psychological support interventions for children affected by HIV and AIDS in sub-Saharan Africa (King, De Silva, Stein, & Patel, 2009) . Since that time, two RCTs of structured peer-support group interventions have found positive psychological effects, including reductions in depression symptomology (Kumakech, Cantor-Graae, Maling, & Bajunirwe, 2009; Thurman, Luckett, Nice, Spyrelis, & Taylor, 2017) . Evidence for the treatment of major depressive disorders among adolescents in low-and middle-income countries, however, remains scarce (Klasen & Crombag, 2013) .",
+        "section": "Background",
+        "section_number": 2,
+        "sentences": [
+            "Despite the need, limited evidence exists to guide psychological programming for HIV-affected children and adolescents.",
+            "A 2009 Cochrane review found no randomized controlled trials (RCTs) investigating psychological support interventions for children affected by HIV and AIDS in sub-Saharan Africa (King, De Silva, Stein, & Patel, 2009) .",
+            "Since that time, two RCTs of structured peer-support group interventions have found positive psychological effects, including reductions in depression symptomology (Kumakech, Cantor-Graae, Maling, & Bajunirwe, 2009; Thurman, Luckett, Nice, Spyrelis, & Taylor, 2017) .",
+            "Evidence for the treatment of major depressive disorders among adolescents in low-and middle-income countries, however, remains scarce (Klasen & Crombag, 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Interpersonal psychotherapy (IPT) is one promising approach. IPT is designed to help participants recognize how feelings, thoughts, and behavior are related; and to identify and address problems in their relationships (Markowitz & Weissman, 2004) . With its focus on role transitions and social skills development, IPT recalls the developmental tasks of adolescence and may be especially well-suited to this age group (Brent & Pan, 2008) . A systematic review confirms the efficacy of IPT as a treatment for depression among adolescents (Zhou et al., 2015) , with comparable success in individual or group settings (O'Shea, Spence, & Donovan, 2015) . Further, meta-analyses suggest that psychological interventions such as IPT may help prevent depression among children and adolescents at high risk (Cuijpers, van Straten, Smit, Mihalopoulos, & Beekman, 2008; Horowitz & Garber, 2006; Merry et al., 2012; Stice, Shaw, Bohon, Marti, & Rohde, 2009) .",
+        "section": "Background",
+        "section_number": 3,
+        "sentences": [
+            "Interpersonal psychotherapy (IPT) is one promising approach.",
+            "IPT is designed to help participants recognize how feelings, thoughts, and behavior are related; and to identify and address problems in their relationships (Markowitz & Weissman, 2004) .",
+            "With its focus on role transitions and social skills development, IPT recalls the developmental tasks of adolescence and may be especially well-suited to this age group (Brent & Pan, 2008) .",
+            "A systematic review confirms the efficacy of IPT as a treatment for depression among adolescents (Zhou et al., 2015) , with comparable success in individual or group settings (O'Shea, Spence, & Donovan, 2015) .",
+            "Further, meta-analyses suggest that psychological interventions such as IPT may help prevent depression among children and adolescents at high risk (Cuijpers, van Straten, Smit, Mihalopoulos, & Beekman, 2008; Horowitz & Garber, 2006; Merry et al., 2012; Stice, Shaw, Bohon, Marti, & Rohde, 2009) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The evidence for IPT in generalized HIV epidemic settings in sub-Saharan Africa is less robust. Feasibility studies from Uganda and South Africa illustrate the method's successful adaption for adult and adolescent group settings utilizing trained paraprofessional or lay facilitators (Petersen, Bhana, & Baillie, 2012; Verdeli et al., 2003 Verdeli et al., , 2008 . A cluster RCT in Uganda demonstrated the efficacy of interpersonal psychotherapy for groups (IPTG) for reducing depression among adults (Bass et al., 2006; Bolton et al., 2003) . Pilot RCTs conducted among adults living with HIV in South Africa also found improved mental health outcomes (Moosa & Jeenah, 2012; Petersen, Hancock, Bhana, & Govender, 2014) . Only one RCT of IPTG has been conducted with adolescents in the region, a study of young people living in internally displaced person camps in Uganda. Significant reductions were noted in participants' depression symptomology (Bolton et al., 2007) . However, these studies targeted individuals with preexisting depression. In high-income countries, selectively targeted prevention programs have focused on individuals with risk factors including poverty, parental divorce, and bereavement (Cardemil, Reivich, Beevers, Seligman, & James, 2007; Sandler et al., 2010; Wolchik et al., 2013) . The elevated risks for mental health problems faced by orphans and HIV-affected children in generalized epidemic settings Goldberg & Short, 2016) suggests that this may also be an appropriate target group. Accordingly, this study investigates the impact of IPTG on depression symptoms among orphaned and vulnerable adolescents in South Africahome to the world's largest HIV epidemic (UNICEF, 2015).",
+        "section": "Background",
+        "section_number": 4,
+        "sentences": [
+            "The evidence for IPT in generalized HIV epidemic settings in sub-Saharan Africa is less robust.",
+            "Feasibility studies from Uganda and South Africa illustrate the method's successful adaption for adult and adolescent group settings utilizing trained paraprofessional or lay facilitators (Petersen, Bhana, & Baillie, 2012; Verdeli et al., 2003 Verdeli et al., , 2008 .",
+            "A cluster RCT in Uganda demonstrated the efficacy of interpersonal psychotherapy for groups (IPTG) for reducing depression among adults (Bass et al., 2006; Bolton et al., 2003) .",
+            "Pilot RCTs conducted among adults living with HIV in South Africa also found improved mental health outcomes (Moosa & Jeenah, 2012; Petersen, Hancock, Bhana, & Govender, 2014) .",
+            "Only one RCT of IPTG has been conducted with adolescents in the region, a study of young people living in internally displaced person camps in Uganda.",
+            "Significant reductions were noted in participants' depression symptomology (Bolton et al., 2007) .",
+            "However, these studies targeted individuals with preexisting depression.",
+            "In high-income countries, selectively targeted prevention programs have focused on individuals with risk factors including poverty, parental divorce, and bereavement (Cardemil, Reivich, Beevers, Seligman, & James, 2007; Sandler et al., 2010; Wolchik et al., 2013) .",
+            "The elevated risks for mental health problems faced by orphans and HIV-affected children in generalized epidemic settings Goldberg & Short, 2016) suggests that this may also be an appropriate target group.",
+            "Accordingly, this study investigates the impact of IPTG on depression symptoms among orphaned and vulnerable adolescents in South Africahome to the world's largest HIV epidemic (UNICEF, 2015)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "This study is part of a larger cluster RCT assessing individual and combined effects from two interventions: IPTG, designed to mitigate depression symptoms; and Vhutshilo, designed to provide HIV prevention life skills (Clinical Trials registration: ClinicalTrials.gov NCT02386878). Baseline survey participants included 1014 adolescents, 95% of whom were retained in the sample over time. Details of the sample and results of the factorial study examining the programs' impact on sexual risk behavior have been previously published (Thurman, Kidman, Carton, & Chiroro, 2016) .",
+        "section": "Study design and participants",
+        "section_number": 5,
+        "sentences": [
+            "This study is part of a larger cluster RCT assessing individual and combined effects from two interventions: IPTG, designed to mitigate depression symptoms; and Vhutshilo, designed to provide HIV prevention life skills (Clinical Trials registration: ClinicalTrials.gov NCT02386878).",
+            "Baseline survey participants included 1014 adolescents, 95% of whom were retained in the sample over time.",
+            "Details of the sample and results of the factorial study examining the programs' impact on sexual risk behavior have been previously published (Thurman, Kidman, Carton, & Chiroro, 2016) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The sample was drawn from a database of beneficiaries enrolled in a community-based care and support program for orphans and other vulnerable children run by World Vision South Africa. It includes adolescents from 84 villages in two contiguous rural districts of the Eastern Cape Province. Those aged 14-17 years and living at home were eligible for study enrollment. Participants were assigned by the program to one of 57 intervention drop-in centers based on their area of residence. All adolescents at a given drop-in center were assigned to one of four study arms using a random number generator: (a) IPTG only, (b) Vhutshilo only, (c) IPTG and Vhutshilo delivered sequentially, or (d) control group. Participants continued to receive basic economic and educational support services as the standard of care. Participants and implementers were not blind to intervention allocation, though this was concealed from the interviewers.",
+        "section": "Study design and participants",
+        "section_number": 6,
+        "sentences": [
+            "The sample was drawn from a database of beneficiaries enrolled in a community-based care and support program for orphans and other vulnerable children run by World Vision South Africa.",
+            "It includes adolescents from 84 villages in two contiguous rural districts of the Eastern Cape Province.",
+            "Those aged 14-17 years and living at home were eligible for study enrollment.",
+            "Participants were assigned by the program to one of 57 intervention drop-in centers based on their area of residence.",
+            "All adolescents at a given drop-in center were assigned to one of four study arms using a random number generator: (a) IPTG only, (b) Vhutshilo only, (c) IPTG and Vhutshilo delivered sequentially, or (d) control group.",
+            "Participants continued to receive basic economic and educational support services as the standard of care.",
+            "Participants and implementers were not blind to intervention allocation, though this was concealed from the interviewers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Surveys were conducted in three rounds: prior to intervention; approximately 3 months after the last IPTG session, and 1 year later (approximately 22 months after the baseline assessment). Written informed assent/consent was obtained from all participants and their caregivers. Face-to-face surveys were administered by trained interviewers in isiXhosa or Sesotho, depending on respondent preference. Data on the number of group sessions attended by each participant were collected from facilitators using an integrated paper-and-electronic monitoring system. Ethical approval for the study was obtained from the Tulane University Institutional Review Board in the United States and the Human Science Research Council in South Africa.",
+        "section": "Study design and participants",
+        "section_number": 7,
+        "sentences": [
+            "Surveys were conducted in three rounds: prior to intervention; approximately 3 months after the last IPTG session, and 1 year later (approximately 22 months after the baseline assessment).",
+            "Written informed assent/consent was obtained from all participants and their caregivers.",
+            "Face-to-face surveys were administered by trained interviewers in isiXhosa or Sesotho, depending on respondent preference.",
+            "Data on the number of group sessions attended by each participant were collected from facilitators using an integrated paper-and-electronic monitoring system.",
+            "Ethical approval for the study was obtained from the Tulane University Institutional Review Board in the United States and the Human Science Research Council in South Africa."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The present analysis is focused on the impact of IPTG alone on depression symptoms and is limited to the 260 baseline participants assigned to receive only IPTG and the 229 participants in the control group (representing 43 villages and 31 drop-in centers). Study sample size calculations were based on 300 participants in each group, powered to detect a 12% percentage point difference in depression relative to the control group over baseline levels (with 80% power, a design effect of 1.5, and a significance level of 95%).",
+        "section": "Study design and participants",
+        "section_number": 8,
+        "sentences": [
+            "The present analysis is focused on the impact of IPTG alone on depression symptoms and is limited to the 260 baseline participants assigned to receive only IPTG and the 229 participants in the control group (representing 43 villages and 31 drop-in centers).",
+            "Study sample size calculations were based on 300 participants in each group, powered to detect a 12% percentage point difference in depression relative to the control group over baseline levels (with 80% power, a design effect of 1.5, and a significance level of 95%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The intervention consisted of 16 weekly 90-min group sessions. Group facilitators were recruited from the community and received 2 weeks of training from African psychologists with previous IPTG implementation and training experience. A total of 15 IPTG groups were led by a total of 13 facilitators. Facilitators were between 23 and 25 years of age, and had completed 12th grade or higher. Participants were divided into groups by gender with same-gender facilitators.",
+        "section": "Intervention",
+        "section_number": 9,
+        "sentences": [
+            "The intervention consisted of 16 weekly 90-min group sessions.",
+            "Group facilitators were recruited from the community and received 2 weeks of training from African psychologists with previous IPTG implementation and training experience.",
+            "A total of 15 IPTG groups were led by a total of 13 facilitators.",
+            "Facilitators were between 23 and 25 years of age, and had completed 12th grade or higher.",
+            "Participants were divided into groups by gender with same-gender facilitators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The program model focuses on four interpersonal areas that trigger depressive symptoms: grief, interpersonal disputes, role transitions, and relationship deficits. Facilitators relied on a manual used previously by World Vision to implement IPTG, with adaptations for use with orphaned and vulnerable children made by the organization. The curriculum has three phases: (a) Beginning Phase, wherein participants get acquainted and set ground rules, (b) Working Phase, wherein problems are discussed and participants identify and work to resolve these issues, and (c) Termination Phase, in which participants reflect on their experience, discuss dealing with depression triggers in the future, and share their feelings about the close of sessions.",
+        "section": "Intervention",
+        "section_number": 10,
+        "sentences": [
+            "The program model focuses on four interpersonal areas that trigger depressive symptoms: grief, interpersonal disputes, role transitions, and relationship deficits.",
+            "Facilitators relied on a manual used previously by World Vision to implement IPTG, with adaptations for use with orphaned and vulnerable children made by the organization.",
+            "The curriculum has three phases: (a) Beginning Phase, wherein participants get acquainted and set ground rules, (b) Working Phase, wherein problems are discussed and participants identify and work to resolve these issues, and (c) Termination Phase, in which participants reflect on their experience, discuss dealing with depression triggers in the future, and share their feelings about the close of sessions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "The outcome of interest was depression symptomology measured using the 20-item Center for Epidemiologic Studies Depression Scale for Children (CES-DC; Faulstich, Carey, Ruggiero, Enyart, & Gresham, 1986; Weissman, Orvaschel, & Padian, 1980) . The CES-DC has been validated among youth in Rwanda (Betancourt, Scorza et al., 2012) and previously applied in South Africa (Martin, Viljoen, Kidd, & Seedat, 2014; Thurman et al., 2017) . Questions assess the frequency of specific wellness or problem symptoms in the prior week including feelings of happiness, appetite, self-esteem, energy levels, and difficulty sleeping (Cronbach's a = 0.82 at baseline). The CES-DC uses a 4-point response scale (not at all, a little, some, a lot) and scores can range from 0 to 60. A cutoff point of \u226515, suggested for adolescent major depression screening in the original validation study (Fendrich, Weissman, & Warner, 1990) , is similar to the overall mean score at baseline of 15.4 and was used to identify as many adolescents with depressive symptoms as possible.",
+        "section": "Measures and analyses",
+        "section_number": 11,
+        "sentences": [
+            "The outcome of interest was depression symptomology measured using the 20-item Center for Epidemiologic Studies Depression Scale for Children (CES-DC; Faulstich, Carey, Ruggiero, Enyart, & Gresham, 1986; Weissman, Orvaschel, & Padian, 1980) .",
+            "The CES-DC has been validated among youth in Rwanda (Betancourt, Scorza et al., 2012) and previously applied in South Africa (Martin, Viljoen, Kidd, & Seedat, 2014; Thurman et al., 2017) .",
+            "Questions assess the frequency of specific wellness or problem symptoms in the prior week including feelings of happiness, appetite, self-esteem, energy levels, and difficulty sleeping (Cronbach's a = 0.82 at baseline).",
+            "The CES-DC uses a 4-point response scale (not at all, a little, some, a lot) and scores can range from 0 to 60.",
+            "A cutoff point of \u226515, suggested for adolescent major depression screening in the original validation study (Fendrich, Weissman, & Warner, 1990) , is similar to the overall mean score at baseline of 15.4 and was used to identify as many adolescents with depressive symptoms as possible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Baseline characteristics were tested for group differences using t-tests for continuous variables and chi-square tests for dichotomous variables. Mean depression scores were calculated in SAS version 9.3 (Carey, NC) with confidence limits adjusted for clustering by group facilitator.",
+        "section": "Measures and analyses",
+        "section_number": 12,
+        "sentences": [
+            "Baseline characteristics were tested for group differences using t-tests for continuous variables and chi-square tests for dichotomous variables.",
+            "Mean depression scores were calculated in SAS version 9.3 (Carey, NC) with confidence limits adjusted for clustering by group facilitator."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Treatment effects on CES-DC scores were estimated using intent-to-treat (i.e. analysis by treatment assignment rather than recorded attendance) for the IPTG and control groups. Analysis of Vhutshilo and combined groups are not presented because Vhutshilo is not a mental health intervention; however, models including the Vhutshilo and combined groups demonstrated little change in the magnitude of estimated effect or statistical significance for the IPTG-only group (data not shown).",
+        "section": "Measures and analyses",
+        "section_number": 13,
+        "sentences": [
+            "Treatment effects on CES-DC scores were estimated using intent-to-treat (i.e. analysis by treatment assignment rather than recorded attendance) for the IPTG and control groups.",
+            "Analysis of Vhutshilo and combined groups are not presented because Vhutshilo is not a mental health intervention; however, models including the Vhutshilo and combined groups demonstrated little change in the magnitude of estimated effect or statistical significance for the IPTG-only group (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "To maximize the information from these data, depression scores were modeled as continuous outcomes using mixed effects models with random intercepts for individual subjects and facilitators. Only clustering at the individual and facilitator levels were accounted for in the analyses because the intraclass correlations of CES-DC scores within sampling strata (districts) were negligible as were the intraclass correlations within dropin centers when nested within group facilitator.",
+        "section": "Measures and analyses",
+        "section_number": 14,
+        "sentences": [
+            "To maximize the information from these data, depression scores were modeled as continuous outcomes using mixed effects models with random intercepts for individual subjects and facilitators.",
+            "Only clustering at the individual and facilitator levels were accounted for in the analyses because the intraclass correlations of CES-DC scores within sampling strata (districts) were negligible as were the intraclass correlations within dropin centers when nested within group facilitator."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Three models were estimated in Stata version 14.1 (College Station, TX) using the Mixed command. The first model estimated the IPTG treatment effect with Group 9 Time interactions indicating changes in the IPTG group relative to controls at both follow-up rounds. Two additional models investigated the potential treatment moderation effects of gender and baseline CES-DC scores using three-way interactions of the potential moderator by treatment by time with all lower-order interactions and main effects included. All models controlled for baseline age, gender, and baseline CES-DC score. To account for group differences at baseline, models also controlled for caregiver chronic illness defined as self-reported illness lasting three or more months: a common proxy for HIV and AIDS in high prevalence settings (UNICEF, 2005) . Table 1 displays characteristics of the sample at baseline. The average age of participants was 15.5 years and 50% were female. Participants in the IPTG group more commonly reported having a chronically ill caregiver (23% vs 15%, p = .016). Approximately 52% and 45% of participants reported depressive symptomology in the intervention and control groups, respectively: a nonsignificant difference (p = .122). Baseline mean CES-DC scores were also not statistically significantly different between groups.",
+        "section": "Measures and analyses",
+        "section_number": 15,
+        "sentences": [
+            "Three models were estimated in Stata version 14.1 (College Station, TX) using the Mixed command.",
+            "The first model estimated the IPTG treatment effect with Group 9 Time interactions indicating changes in the IPTG group relative to controls at both follow-up rounds.",
+            "Two additional models investigated the potential treatment moderation effects of gender and baseline CES-DC scores using three-way interactions of the potential moderator by treatment by time with all lower-order interactions and main effects included.",
+            "All models controlled for baseline age, gender, and baseline CES-DC score.",
+            "To account for group differences at baseline, models also controlled for caregiver chronic illness defined as self-reported illness lasting three or more months: a common proxy for HIV and AIDS in high prevalence settings (UNICEF, 2005) .",
+            "Table 1 displays characteristics of the sample at baseline.",
+            "The average age of participants was 15.5 years and 50% were female.",
+            "Participants in the IPTG group more commonly reported having a chronically ill caregiver (23% vs 15%, p = .016).",
+            "Approximately 52% and 45% of participants reported depressive symptomology in the intervention and control groups, respectively: a nonsignificant difference (p = .122).",
+            "Baseline mean CES-DC scores were also not statistically significantly different between groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Among the 260 adolescents assigned to the IPTG group, 60 (23%) did not attend any sessions (Figure 1) . No significant difference in age or depression scores at baseline between session attendees and nonattendees for either gender were found (data not shown). IPTG assignees attended an average of nine sessions (out of a possible total of 16). Those who attended any sessions attended an average of 12. Table 2 shows CES-DC scores for the two groups by participant gender and baseline depression status (CES-DC score \u226515) at each survey round. Mean scores were similar between treatment groups at each survey round within each strata. Table 3 displays mixed effects regression estimates of program effect on depression scores between baseline and the two follow-up survey rounds for the full sample. Table 3 also presents the results of the two moderation analyses to test program effects by gender and by baseline depression scores. No significant treatment or moderation effects were found in any of the models.",
+        "section": "Intervention engagement",
+        "section_number": 16,
+        "sentences": [
+            "Among the 260 adolescents assigned to the IPTG group, 60 (23%) did not attend any sessions (Figure 1) .",
+            "No significant difference in age or depression scores at baseline between session attendees and nonattendees for either gender were found (data not shown).",
+            "IPTG assignees attended an average of nine sessions (out of a possible total of 16).",
+            "Those who attended any sessions attended an average of 12.",
+            "Table 2 shows CES-DC scores for the two groups by participant gender and baseline depression status (CES-DC score \u226515) at each survey round.",
+            "Mean scores were similar between treatment groups at each survey round within each strata.",
+            "Table 3 displays mixed effects regression estimates of program effect on depression scores between baseline and the two follow-up survey rounds for the full sample.",
+            "Table 3 also presents the results of the two moderation analyses to test program effects by gender and by baseline depression scores.",
+            "No significant treatment or moderation effects were found in any of the models."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "This trial examined the impact of a 16-week program of interpersonal group psychotherapy on depression symptoms among orphaned and vulnerable adolescents in South Africa. No significant treatment effects were found. Comparative research for the impact of IPTG on psychological health among adolescents in sub-Saharan Africa is limited to one study of depressed youth living in internally displaced persons camps in Uganda. That study found positive treatment effects primarily among girls (Bolton et al., 2007) . Participants had experienced unique stressors, including a history of abduction, which was found to moderate treatment outcomes (Betancourt, Newnham et al., 2012) . Similarly, other factors outside the scope of the present analysis may affect treatment outcomes among adolescent IPTG participants in South Africa. Orphaned and vulnerable adolescents may exhibit lower school attendance and face a greater workload burden at home, often including caregiving for an ill parent (Cluver, Operario, Lane, & Kganakga, 2012; Robson, Ansell, Huber, Gould, & van Blerk, 2006) . Comorbidities such as anxiety, previously reported among HIV-affected adolescents in South Africa , might also influence outcomes (Young, Mufson, & Davies, 2006b ).",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "This trial examined the impact of a 16-week program of interpersonal group psychotherapy on depression symptoms among orphaned and vulnerable adolescents in South Africa.",
+            "No significant treatment effects were found.",
+            "Comparative research for the impact of IPTG on psychological health among adolescents in sub-Saharan Africa is limited to one study of depressed youth living in internally displaced persons camps in Uganda.",
+            "That study found positive treatment effects primarily among girls (Bolton et al., 2007) .",
+            "Participants had experienced unique stressors, including a history of abduction, which was found to moderate treatment outcomes (Betancourt, Newnham et al., 2012) .",
+            "Similarly, other factors outside the scope of the present analysis may affect treatment outcomes among adolescent IPTG participants in South Africa.",
+            "Orphaned and vulnerable adolescents may exhibit lower school attendance and face a greater workload burden at home, often including caregiving for an ill parent (Cluver, Operario, Lane, & Kganakga, 2012; Robson, Ansell, Huber, Gould, & van Blerk, 2006) .",
+            "Comorbidities such as anxiety, previously reported among HIV-affected adolescents in South Africa , might also influence outcomes (Young, Mufson, & Davies, 2006b )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "In addition, psychological health problems including depression (Kuo, Operario, & Cluver, 2012) are prevalent among caregivers of orphans and other children affected by HIV and AIDS in South Africa (Kuo, Cluver, Casale, & Lane, 2014; Skeen, Tomlinson, Macedo, Croome, & Sherr, 2014) . Longitudinal research from the West has illustrated that parental depression contributes to depression symptoms among offspring (Lieb, Isensee, H\u20ac ofler, Pfister, & Wittchen, 2002) and can moderate the effectiveness of psychological treatments for adolescents (Garber et al., 2009) . Future research should investigate the role of these factors on treatment outcomes among HIV-affected adolescents in order to identify the most effective pathways for mitigating depression in different contexts. This study enrolled orphaned and vulnerable adolescents with varying depression levels, which should also be considered when interpreting the results of this trial. The inclusion of both depressed and nondepressed individuals in the groups may have impacted the results. (Young, Mufson, & Davies, 2006a; Horowitz, Garber, Ciesla, Young, & Mufson, 2007; Bolton et al., 2007; Young, Mufson, & Gallop, 2010) . However, recent evidence has found no significant differences in overall effects between selective programs such as this one targeted to orphans and other vulnerable children, and indicative or universal depression prevention programs (Merry et al., 2012) . Further, offering the intervention without baseline mental health criteria is consistent with other timelimited structured peer-support group interventions for orphans in sub-Saharan Africa that have shown positive effects on depression (Kumakech et al., 2009; Thurman et al., 2017) . Screening using depression inventories or other detailed diagnostic criteria requires a significant investment of time and resources which may impede implementation and scale-up for organizations working in under-resourced contexts. Alternatively, limiting the intervention to only depressed individuals via prescreening might plausibly offset these costs and could result in stronger effects. Ultimately, more research is needed to understand the benefits and disadvantages of targeting only the most severely affected adolescents. Study limitations might also mask treatment effects. The study was not powered to detect independent effects by gender or baseline depression scores. Further, prior research highlights the value of preliminary work to adapt depression scales based on cultural considerations (Bolton, Wilk, & Ndogoni, 2004 ), a process not used in this study due to limited time to intervention roll-out. While the CES-DC has a successful history of use with South African youth (Martin et al., 2014; Thurman et al., 2017) , additional research including local validation with representative community samples is needed to establish appropriate CES-DC cutoff points among adolescents in this context. A prior study of IPTG in the United States suggests that alternative depression inventories may be even more sensitive to change, and advocates for the use of multiple instruments (Horowitz et al., 2007) .",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "In addition, psychological health problems including depression (Kuo, Operario, & Cluver, 2012) are prevalent among caregivers of orphans and other children affected by HIV and AIDS in South Africa (Kuo, Cluver, Casale, & Lane, 2014; Skeen, Tomlinson, Macedo, Croome, & Sherr, 2014) .",
+            "Longitudinal research from the West has illustrated that parental depression contributes to depression symptoms among offspring (Lieb, Isensee, H\u20ac ofler, Pfister, & Wittchen, 2002) and can moderate the effectiveness of psychological treatments for adolescents (Garber et al., 2009) .",
+            "Future research should investigate the role of these factors on treatment outcomes among HIV-affected adolescents in order to identify the most effective pathways for mitigating depression in different contexts.",
+            "This study enrolled orphaned and vulnerable adolescents with varying depression levels, which should also be considered when interpreting the results of this trial.",
+            "The inclusion of both depressed and nondepressed individuals in the groups may have impacted the results. (",
+            "Young, Mufson, & Davies, 2006a; Horowitz, Garber, Ciesla, Young, & Mufson, 2007; Bolton et al., 2007; Young, Mufson, & Gallop, 2010) .",
+            "However, recent evidence has found no significant differences in overall effects between selective programs such as this one targeted to orphans and other vulnerable children, and indicative or universal depression prevention programs (Merry et al., 2012) .",
+            "Further, offering the intervention without baseline mental health criteria is consistent with other timelimited structured peer-support group interventions for orphans in sub-Saharan Africa that have shown positive effects on depression (Kumakech et al., 2009; Thurman et al., 2017) .",
+            "Screening using depression inventories or other detailed diagnostic criteria requires a significant investment of time and resources which may impede implementation and scale-up for organizations working in under-resourced contexts.",
+            "Alternatively, limiting the intervention to only depressed individuals via prescreening might plausibly offset these costs and could result in stronger effects.",
+            "Ultimately, more research is needed to understand the benefits and disadvantages of targeting only the most severely affected adolescents.",
+            "Study limitations might also mask treatment effects.",
+            "The study was not powered to detect independent effects by gender or baseline depression scores.",
+            "Further, prior research highlights the value of preliminary work to adapt depression scales based on cultural considerations (Bolton, Wilk, & Ndogoni, 2004 ), a process not used in this study due to limited time to intervention roll-out.",
+            "While the CES-DC has a successful history of use with South African youth (Martin et al., 2014; Thurman et al., 2017) , additional research including local validation with representative community samples is needed to establish appropriate CES-DC cutoff points among adolescents in this context.",
+            "A prior study of IPTG in the United States suggests that alternative depression inventories may be even more sensitive to change, and advocates for the use of multiple instruments (Horowitz et al., 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "While the intervention did not demonstrate effects on depression, prior analyses of this dataset suggest that IPTG may have had other positive effects. Significant reductions in sexual risk behavior were found among adolescents assigned to participate in both IPTG and Vhutshilo, whereas changes were absent among those assigned to participate in either intervention alone (Thurman et al., 2016) . These results may be driven by unmeasured psychological improvements resulting from IPTG, particularly when delivered in combination with HIV prevention education. An investigation of the construct validity of IPT among adolescents found significant improvements in social skills, parent-child conflict, and secure attachment (Spence, O'Shea, & Donovan, 2016) , all of which could influence sexual risk behavior. For instance, insecure attachment style has been associated with inconsistent condom use and multiple sexual partnerships (Olley, 2010) . Future studies should examine a broader array of psychometric instruments, both independently and as precursors to changes in the prevalence of depression and HIV risk behavior.",
+        "section": "Limiting participation in the intervention to adolescents",
+        "section_number": 19,
+        "sentences": [
+            "While the intervention did not demonstrate effects on depression, prior analyses of this dataset suggest that IPTG may have had other positive effects.",
+            "Significant reductions in sexual risk behavior were found among adolescents assigned to participate in both IPTG and Vhutshilo, whereas changes were absent among those assigned to participate in either intervention alone (Thurman et al., 2016) .",
+            "These results may be driven by unmeasured psychological improvements resulting from IPTG, particularly when delivered in combination with HIV prevention education.",
+            "An investigation of the construct validity of IPT among adolescents found significant improvements in social skills, parent-child conflict, and secure attachment (Spence, O'Shea, & Donovan, 2016) , all of which could influence sexual risk behavior.",
+            "For instance, insecure attachment style has been associated with inconsistent condom use and multiple sexual partnerships (Olley, 2010) .",
+            "Future studies should examine a broader array of psychometric instruments, both independently and as precursors to changes in the prevalence of depression and HIV risk behavior."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Participants' consistent attendance at program sessions is critical to the success of any interpersonal [14.52, 17.96] 16. 16 [14.24, 18.08] 17. 73 [14.89, 20.57] 16. 84 [14.73, 18.96] 16. 90 [14.22, 19.58] 17. 94 [15.87, 20.01] Male 15. 90 [13.25, 18.54] 13.29 [11.65, 14.94] 15. 04 [13.63, 16.46] 14. 51 [12.75, 16.28] 17. 18 [12.87, 21.48] 15. 41 [13.68, 17.13] All 16.03 [14.64, 17.42] 14. 67 [13.41, 15.93] 16. 46 [14.55, 18.38] 15. 63 [14.27, 17.00] 17. 03 [14.91, 19.14] 16. 60 [15.27, 17.94] High depressive symptomology at Baseline 23. 60 [22.31, 24.88] 23. 65 [22.34, 24.96] 18. 89 [16.11, 21.68] 18. 80 [16.54, 21.05] 19. 27 [16.66, 21.87] 18. 91 [16.75, 21.07] Low depressive symptomology at baseline 7. 98 [7.27, 8.68] 7.46 [6.74, 8.19] 13.85 [11.69, 16.02] 13.14 [11.57, 14.71] 14. 66 [12.52, 16.79] 14. 79 [13.16, 16.42] psychotherapy intervention. The proportion of adolescents assigned to receive IPTG who failed to attend any sessions was higher in this study compared to a similar one from Uganda: 23% versus 13% (Bolton et al., 2007) . Participants in the Uganda trial may have been more motivated to attend for a variety of reasons, including the fact that they were symptomatic for depression at enrollment. In this study, baseline depression levels were similar between attendees and nonattendees, suggesting the influence of other factors on attendance. Prior application of IPTG among adults living with HIV in South Africa also resulted in low uptake, with participants' conflicting responsibilities reportedly contributing to complete nonparticipation in half of those assigned to the intervention (Petersen et al., 2014) . Measures such as preintervention orientation workshops for caregivers and adolescents, designed to identify barriers to participation for preemptive response, may help implementers mitigate these issues. Further, devising a shorter and more highly structured version of IPTG may increase the feasibility of widespread uptake in sub-Saharan Africa. Results from multiple studies in the United States highlight the potential for a briefer eightsession IPTG model to effectively promote psychological health while decreasing resource needs for implementers and lowering the participation burden for enrollees (Swartz, Grote, & Graham, 2014) . Program partners should work with practitioners and researchers to develop and test a shortened IPTG model applicable to sub-Saharan Africa. Finally, the study was conducted following rapid program scale-up. Mechanisms to ensure implementation fidelity were not overseen by the researchers, in contrast to the Uganda trial (Bolton et al., 2007) . This study captured World Vision South Africa's first experience delivering IPTG in these communities; time and experience may contribute to increased effectiveness. A variety of new local implementation contexts, many of them resource-constrained, and the pace and scope of scale-up likely contributed to variation in the level of program quality and fidelity to the original model. In the future, enhanced quality assurance efforts such as the development of more highly structured curricula or facilitation aids, formalizing supportive supervision, and enabling consistent use of attendance tracking with early intervention for attrition and absenteeism are encouraged.",
+        "section": "Limiting participation in the intervention to adolescents",
+        "section_number": 20,
+        "sentences": [
+            "Participants' consistent attendance at program sessions is critical to the success of any interpersonal [14.52, 17.96] 16.",
+            "16 [14.24, 18.08] 17.",
+            "73 [14.89, 20.57] 16.",
+            "84 [14.73, 18.96] 16.",
+            "90 [14.22, 19.58] 17.",
+            "94 [15.87, 20.01] Male 15.",
+            "90 [13.25, 18.54] 13.29 [11.65, 14.94] 15.",
+            "04 [13.63, 16.46] 14.",
+            "51 [12.75, 16.28] 17.",
+            "18 [12.87, 21.48] 15.",
+            "41 [13.68, 17.13] All 16.03 [14.64, 17.42] 14.",
+            "67 [13.41, 15.93] 16.",
+            "46 [14.55, 18.38] 15.",
+            "63 [14.27, 17.00] 17.",
+            "03 [14.91, 19.14] 16.",
+            "60 [15.27, 17.94] High depressive symptomology at Baseline 23.",
+            "60 [22.31, 24.88] 23.",
+            "65 [22.34, 24.96] 18.",
+            "89 [16.11, 21.68] 18.",
+            "80 [16.54, 21.05] 19.",
+            "27 [16.66, 21.87] 18.",
+            "91 [16.75, 21.07] Low depressive symptomology at baseline 7.",
+            "98 [7.27, 8.68] 7.46 [6.74, 8.19] 13.85 [11.69, 16.02] 13.14 [11.57, 14.71] 14.",
+            "66 [12.52, 16.79] 14.",
+            "79 [13.16, 16.42] psychotherapy intervention.",
+            "The proportion of adolescents assigned to receive IPTG who failed to attend any sessions was higher in this study compared to a similar one from Uganda: 23% versus 13% (Bolton et al., 2007) .",
+            "Participants in the Uganda trial may have been more motivated to attend for a variety of reasons, including the fact that they were symptomatic for depression at enrollment.",
+            "In this study, baseline depression levels were similar between attendees and nonattendees, suggesting the influence of other factors on attendance.",
+            "Prior application of IPTG among adults living with HIV in South Africa also resulted in low uptake, with participants' conflicting responsibilities reportedly contributing to complete nonparticipation in half of those assigned to the intervention (Petersen et al., 2014) .",
+            "Measures such as preintervention orientation workshops for caregivers and adolescents, designed to identify barriers to participation for preemptive response, may help implementers mitigate these issues.",
+            "Further, devising a shorter and more highly structured version of IPTG may increase the feasibility of widespread uptake in sub-Saharan Africa.",
+            "Results from multiple studies in the United States highlight the potential for a briefer eightsession IPTG model to effectively promote psychological health while decreasing resource needs for implementers and lowering the participation burden for enrollees (Swartz, Grote, & Graham, 2014) .",
+            "Program partners should work with practitioners and researchers to develop and test a shortened IPTG model applicable to sub-Saharan Africa.",
+            "Finally, the study was conducted following rapid program scale-up.",
+            "Mechanisms to ensure implementation fidelity were not overseen by the researchers, in contrast to the Uganda trial (Bolton et al., 2007) .",
+            "This study captured World Vision South Africa's first experience delivering IPTG in these communities; time and experience may contribute to increased effectiveness.",
+            "A variety of new local implementation contexts, many of them resource-constrained, and the pace and scope of scale-up likely contributed to variation in the level of program quality and fidelity to the original model.",
+            "In the future, enhanced quality assurance efforts such as the development of more highly structured curricula or facilitation aids, formalizing supportive supervision, and enabling consistent use of attendance tracking with early intervention for attrition and absenteeism are encouraged."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "Effective interventions for depression among orphaned and vulnerable adolescents in South Africa are needed. Results from this trial did not suggest that a 16-week IPTG intervention was effective. Rapid, extensive intervention scale-up immediately preceding the study was one of several factors that may have played a role in these results. However, findings simulate results that may be expected in real-life settings and suggest useful priorities for future studies. More research is needed to identify best practices for targeting psychological health interventions to adolescent subgroups, especially in areas where risk factors for depression are common, and for maximizing important aspects of implementation such as promoting optimal participation rates. Ensuring quality control mechanisms, testing a more time-limited version of IPTG and investigating additional psychological health outcomes and other potential moderators could yield greater understanding of this intervention's potential to support mental health among HIV-affected adolescents in South Africa and similar settings. [AID-674-A-12-00002] awarded to Tulane University and [GHH-I-00-007-00069-00] awarded to Social Sectors Development Strategies (SSDS) with Tulane University as a subcontractor. The views expressed in this document do not necessarily reflect those of USAID or the United States Government. The study team is particularly grateful for the support provided from personnel at USAID Southern Africa, particularly Anita Sampson. This study is also made possible by the exemplary fieldwork of Impact Research International in South Africa under the strong leadership of Patrick Chiroro and Tronny Mawadzwa. The authors further extend their appreciation to staff from World Vision in South Africa who supported the realization of this study. Importantly, they extend their gratitude to the participating adolescents who generously shared intimate details of their lives with the research team so that the authors could understand the All models include terms for baseline depression score, chronically ill caregiver, age, female gender, group assignment, first and second follow-up, and interaction terms for group assignment by follow-up.",
+        "section": "Conclusion",
+        "section_number": 21,
+        "sentences": [
+            "Effective interventions for depression among orphaned and vulnerable adolescents in South Africa are needed.",
+            "Results from this trial did not suggest that a 16-week IPTG intervention was effective.",
+            "Rapid, extensive intervention scale-up immediately preceding the study was one of several factors that may have played a role in these results.",
+            "However, findings simulate results that may be expected in real-life settings and suggest useful priorities for future studies.",
+            "More research is needed to identify best practices for targeting psychological health interventions to adolescent subgroups, especially in areas where risk factors for depression are common, and for maximizing important aspects of implementation such as promoting optimal participation rates.",
+            "Ensuring quality control mechanisms, testing a more time-limited version of IPTG and investigating additional psychological health outcomes and other potential moderators could yield greater understanding of this intervention's potential to support mental health among HIV-affected adolescents in South Africa and similar settings. [",
+            "AID-674-A-12-00002] awarded to Tulane University and [GHH-I-00-007-00069-00] awarded to Social Sectors Development Strategies (SSDS) with Tulane University as a subcontractor.",
+            "The views expressed in this document do not necessarily reflect those of USAID or the United States Government.",
+            "The study team is particularly grateful for the support provided from personnel at USAID Southern Africa, particularly Anita Sampson.",
+            "This study is also made possible by the exemplary fieldwork of Impact Research International in South Africa under the strong leadership of Patrick Chiroro and Tronny Mawadzwa.",
+            "The authors further extend their appreciation to staff from World Vision in South Africa who supported the realization of this study.",
+            "Importantly, they extend their gratitude to the participating adolescents who generously shared intimate details of their lives with the research team so that the authors could understand the All models include terms for baseline depression score, chronically ill caregiver, age, female gender, group assignment, first and second follow-up, and interaction terms for group assignment by follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "a Model 2 also includes interaction terms for female gender by group assignment, female gender by follow-up, and female gender by group assignment by follow-up. b Model 3 also includes interaction terms for baseline depression score by group assignment, baseline depression score by follow-up, and baseline depression score by group assignment by follow-up.",
+        "section": "Conclusion",
+        "section_number": 22,
+        "sentences": [
+            "a Model 2 also includes interaction terms for female gender by group assignment, female gender by follow-up, and female gender by group assignment by follow-up.",
+            "b Model 3 also includes interaction terms for baseline depression score by group assignment, baseline depression score by follow-up, and baseline depression score by group assignment by follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "potential impact of interventions. The authors have declared that they have no competing or potential conflicts of interest.",
+        "section": "Conclusion",
+        "section_number": 23,
+        "sentences": [
+            "potential impact of interventions.",
+            "The authors have declared that they have no competing or potential conflicts of interest."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "\u00a9 2017 Association for Child and Adolescent Mental Health. doi:10.1111/camh.12241Trial of IPTG among adolescents in South Africa",
+        "section": "",
+        "section_number": 24,
+        "sentences": [
+            "\u00a9 2017 Association for Child and Adolescent Mental Health.",
+            "doi:10.1111/camh.12241Trial of IPTG among adolescents in South Africa"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34208",
+        "text": "\u00a9 2017 Association for Child and Adolescent Mental Health.",
+        "section": "",
+        "section_number": 25,
+        "sentences": [
+            "\u00a9 2017 Association for Child and Adolescent Mental Health."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

@@ -1,0 +1,735 @@
+[
+    {
+        "doc_id": "34306",
+        "text": "OBJECTIVES: Metformin has shown its effectiveness in treating obesity in adults. However, little research has been conducted in children, with a lack of attention on pubertal status. The objectives were to determine whether oral metformin treatment reduces BMI z score, cardiovascular risk, and inflammation biomarkers in children who are obese depending on pubertal stage and sex. METHODS: This was a randomized, prospective, double-blind, placebo-controlled, multicenter trial, stratified according to pubertal stage and sex, conducted at 4 Spanish clinical hospitals. Eighty prepubertal and 80 pubertal nondiabetic children who were obese aged 7 to 14 years with a BMI >95th percentiles were recruited. The intervention included 1 g/d of metformin versus placebo for 6 months. The primary outcome was a reduction in BMI z score. Secondary outcomes comprised insulin resistance, cardiovascular risk, and inflammation biomarkers. RESULTS: A total of 140 children completed the study (72 boys). Metformin decreased the BMI z score versus placebo in the prepubertal group (\u22120.8 and \u22120.6, respectively; difference, 0.2; P = .04). Significant increments were observed in prepubertal children treated with metformin versus placebo recipients in the quantitative insulin sensitivity check index (0.",
+        "section": "Abstract",
+        "sentences": [
+            "OBJECTIVES: Metformin has shown its effectiveness in treating obesity in adults.",
+            "However, little research has been conducted in children, with a lack of attention on pubertal status.",
+            "The objectives were to determine whether oral metformin treatment reduces BMI z score, cardiovascular risk, and inflammation biomarkers in children who are obese depending on pubertal stage and sex.",
+            "METHODS: This was a randomized, prospective, double-blind, placebo-controlled, multicenter trial, stratified according to pubertal stage and sex, conducted at 4 Spanish clinical hospitals.",
+            "Eighty prepubertal and 80 pubertal nondiabetic children who were obese aged 7 to 14 years with a BMI >95th percentiles were recruited.",
+            "The intervention included 1 g/d of metformin versus placebo for 6 months.",
+            "The primary outcome was a reduction in BMI z score.",
+            "Secondary outcomes comprised insulin resistance, cardiovascular risk, and inflammation biomarkers.",
+            "RESULTS: A total of 140 children completed the study (72 boys).",
+            "Metformin decreased the BMI z score versus placebo in the prepubertal group (\u22120.8 and \u22120.6, respectively; difference, 0.2; P = .04).",
+            "Significant increments were observed in prepubertal children treated with metformin versus placebo recipients in the quantitative insulin sensitivity check index (0."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Overweight and obesity in children are the most challenging health problems to address. 1 Obesity plays an important pathophysiologic role in the development of insulin resistance, dyslipidemia, and hypertension, leading to type 2 diabetes mellitus (T2DM) and a risk of early cardiovascular disease. 2, 3 For pediatric patients, several investigations have confirmed that an intensive lifestyle intervention can increase weight loss and insulin sensitivity and reduce the risk of developing T2DM. 4 Nevertheless, a single-strategy lifestyle intervention is not always effective. 5 In addition, efforts have been made to identify effective and safe drugs to manage pediatric obesity. Metformin is an oral antihyperglycemic agent approved by the US Food Drug Administration to treat T2DM in adults and children aged >10 years; it is considered a first-line agent in T2DM by the European Medicines Agency. Significant weight loss induced by metformin has been shown in adults who are obese with or without T2DM. 6 Metformin also produced a decrease in the cardiovascular risk profile 7 -10 and inflammatory biomarkers. 7 -14 Nevertheless, evidence regarding the effects of metformin in pediatric obesity is scarce. According to a systematic review and metaanalysis, 15 a reduction in BMI due to metformin compared with the effects of lifestyle interventions alone from 6 to 12 months has been reported in children who are obese. Seven studies have evaluated the effects of metformin (1000-2000 mg/d for 3-6 months) on such conditions related to obesity in children and/or adolescents who are obese, 16 -22 with some promising results obtained. However, randomized controlled trials (RCTs) on this topic did not show an adequate and separate distribution in the study design according to prepubertal and pubertal children. Puberty might act as a potential modifier on the effect of metformin in childhood. Thus, it seems useful to stratify randomization according to Tanner stage and sex to avoid large imbalances between groups in linear growth velocity and other factors associated with pubertal maturation that may affect changes in BMI. 5 We therefore designed an RCT to determine whether metformin would have an effect on reducing the BMI z score and improving cardiovascular and inflammatory risk biomarkers in children who are obese and to assess whether this effect differed depending on pubertal stage and sex.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Overweight and obesity in children are the most challenging health problems to address.",
+            "1 Obesity plays an important pathophysiologic role in the development of insulin resistance, dyslipidemia, and hypertension, leading to type 2 diabetes mellitus (T2DM) and a risk of early cardiovascular disease.",
+            "2, 3 For pediatric patients, several investigations have confirmed that an intensive lifestyle intervention can increase weight loss and insulin sensitivity and reduce the risk of developing T2DM.",
+            "4 Nevertheless, a single-strategy lifestyle intervention is not always effective.",
+            "5 In addition, efforts have been made to identify effective and safe drugs to manage pediatric obesity.",
+            "Metformin is an oral antihyperglycemic agent approved by the US Food Drug Administration to treat T2DM in adults and children aged >10 years; it is considered a first-line agent in T2DM by the European Medicines Agency.",
+            "Significant weight loss induced by metformin has been shown in adults who are obese with or without T2DM.",
+            "6 Metformin also produced a decrease in the cardiovascular risk profile 7 -10 and inflammatory biomarkers.",
+            "7 -14 Nevertheless, evidence regarding the effects of metformin in pediatric obesity is scarce.",
+            "According to a systematic review and metaanalysis, 15 a reduction in BMI due to metformin compared with the effects of lifestyle interventions alone from 6 to 12 months has been reported in children who are obese.",
+            "Seven studies have evaluated the effects of metformin (1000-2000 mg/d for 3-6 months) on such conditions related to obesity in children and/or adolescents who are obese, 16 -22 with some promising results obtained.",
+            "However, randomized controlled trials (RCTs) on this topic did not show an adequate and separate distribution in the study design according to prepubertal and pubertal children.",
+            "Puberty might act as a potential modifier on the effect of metformin in childhood.",
+            "Thus, it seems useful to stratify randomization according to Tanner stage and sex to avoid large imbalances between groups in linear growth velocity and other factors associated with pubertal maturation that may affect changes in BMI.",
+            "5 We therefore designed an RCT to determine whether metformin would have an effect on reducing the BMI z score and improving cardiovascular and inflammatory risk biomarkers in children who are obese and to assess whether this effect differed depending on pubertal stage and sex."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The study was a multicenter investigation, stratified according to sex and pubertal status (40 prepubertal girls, 40 prepubertal boys, 40 pubertal girls, and 40 pubertal boys). Pubertal stage was determined according to Tanner criteria (standards for pubic hair and genitalia growth in boys; standards for breast and pubic hair development in girls) 23 through a physical examination by the pediatric endocrinologists at the beginning and the end of the study. This randomized, double-blind, placebocontrolled trial was homogeneously conducted at 4 Spanish clinical hospitals, as previously described. 24 Children were randomly assigned to receive either metformin or placebo for 6 months. Details of the trial protocol and ethics committees have been previously published in Trials. 24 The Consolidated Standards of Reporting Trials statement has been considered in the report on study design and results, as well as in the abstract and flow diagram.",
+        "section": "MeThods study design",
+        "section_number": 2,
+        "sentences": [
+            "The study was a multicenter investigation, stratified according to sex and pubertal status (40 prepubertal girls, 40 prepubertal boys, 40 pubertal girls, and 40 pubertal boys).",
+            "Pubertal stage was determined according to Tanner criteria (standards for pubic hair and genitalia growth in boys; standards for breast and pubic hair development in girls) 23 through a physical examination by the pediatric endocrinologists at the beginning and the end of the study.",
+            "This randomized, double-blind, placebocontrolled trial was homogeneously conducted at 4 Spanish clinical hospitals, as previously described.",
+            "24 Children were randomly assigned to receive either metformin or placebo for 6 months.",
+            "Details of the trial protocol and ethics committees have been previously published in Trials.",
+            "24 The Consolidated Standards of Reporting Trials statement has been considered in the report on study design and results, as well as in the abstract and flow diagram."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The study subjects comprised 160 patients referred from the Pediatric Endocrinology Unit of the corresponding study centers. Children were invited to participate according to the inclusion criteria described in Table 1 . 24 The data are collected in the pediatric outpatient clinics by dietitians. All participants were provided with standardized healthy lifestyle advice at the beginning of a 1-on-1 session according to recommendations for food consumption frequency following the Mediterranean diet criteria and the practice of physical activity based on the AECOSAN NAOS Strategy's NAOS Pyramid (Ministry of Health of the Spanish Government). 25 The data and samples were codified according to each center and subsequently centralized at the Institute of Nutrition and Food Technology \"Jos\u00e9 Mataix\" in Granada, Spain.",
+        "section": "intervention and Participants",
+        "section_number": 3,
+        "sentences": [
+            "The study subjects comprised 160 patients referred from the Pediatric Endocrinology Unit of the corresponding study centers.",
+            "Children were invited to participate according to the inclusion criteria described in Table 1 .",
+            "24 The data are collected in the pediatric outpatient clinics by dietitians.",
+            "All participants were provided with standardized healthy lifestyle advice at the beginning of a 1-on-1 session according to recommendations for food consumption frequency following the Mediterranean diet criteria and the practice of physical activity based on the AECOSAN NAOS Strategy's NAOS Pyramid (Ministry of Health of the Spanish Government).",
+            "25 The data and samples were codified according to each center and subsequently centralized at the Institute of Nutrition and Food Technology \"Jos\u00e9 Mataix\" in Granada, Spain."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The participants were assigned to receive metformin or placebo in TabLe 1 Inclusion and Exclusion Criteria Inclusion Criteria Exclusion Criteria BMI greater than the 95th percentile based on the standards of Cole et al 26 Does not meet the established age Age 7-14 y Any previous underlying disease No underlying disease or a history of pathology use of medication with metabolic side effects, such accordance with a randomization schedule generated by the Pharmacy Service of the Virgen de las Nieves University Hospital in Granada. MAS 100 version 2.1 software (Glaxo-Welcome, Madrid, Spain) was used by the Support Consortium to Biomedical Research Network. At each center, 50% of the children were assigned to each group. All research staff was blinded to both the treatment allocation during the time of the study and the data analysis. The patients were instructed to gradually increase their dosage by taking 50 mg twice daily for 10 days, followed by 500 mg twice daily until the end of the intervention. Both treatments were administered during meals. The participants attended an initial trial baseline visit, followed by 2 additional control visits at 2-month intervals, which comprised the assessment of blood pressure and a physical examination. To assess the safety and tolerance of metformin administration, the primary evaluation criteria were the absence of adverse effects, as previously reported. 24 ",
+        "section": "intervention and Participants",
+        "section_number": 4,
+        "sentences": [
+            "The participants were assigned to receive metformin or placebo in TabLe 1 Inclusion and Exclusion Criteria Inclusion Criteria Exclusion Criteria BMI greater than the 95th percentile based on the standards of Cole et al 26 Does not meet the established age Age 7-14 y Any previous underlying disease No underlying disease or a history of pathology use of medication with metabolic side effects, such accordance with a randomization schedule generated by the Pharmacy Service of the Virgen de las Nieves University Hospital in Granada.",
+            "MAS 100 version 2.1 software (Glaxo-Welcome, Madrid, Spain) was used by the Support Consortium to Biomedical Research Network.",
+            "At each center, 50% of the children were assigned to each group.",
+            "All research staff was blinded to both the treatment allocation during the time of the study and the data analysis.",
+            "The patients were instructed to gradually increase their dosage by taking 50 mg twice daily for 10 days, followed by 500 mg twice daily until the end of the intervention.",
+            "Both treatments were administered during meals.",
+            "The participants attended an initial trial baseline visit, followed by 2 additional control visits at 2-month intervals, which comprised the assessment of blood pressure and a physical examination.",
+            "To assess the safety and tolerance of metformin administration, the primary evaluation criteria were the absence of adverse effects, as previously reported.",
+            "24"
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "34306",
+        "text": "Anthropometry, blood pressure, and serum concentrations of glucose, insulin, hepatic enzymes, and lipids were measured as previously reported. 24 The quantitative insulin sensitivity check index (QUICKI) and homeostasis model assessment for insulin resistance were also calculated. Obesity was defined according to BMI by using the age-and sex-specific cutoff points proposed by Cole et al 26 (BMI greater than the 95th percentiles).",
+        "section": "Anthropometric and Biochemical Analyses",
+        "section_number": 5,
+        "sentences": [
+            "Anthropometry, blood pressure, and serum concentrations of glucose, insulin, hepatic enzymes, and lipids were measured as previously reported.",
+            "24 The quantitative insulin sensitivity check index (QUICKI) and homeostasis model assessment for insulin resistance were also calculated.",
+            "Obesity was defined according to BMI by using the age-and sex-specific cutoff points proposed by Cole et al 26 (BMI greater than the 95th percentiles)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The dietitians at the centers administered a food frequency questionnaire and a physical activity survey to all participants at the beginning and the end of the trial, both of which have been validated and normalized. 24 The data collected in the lifestyle habits questionnaires were evaluated according to the healthy lifestyle/diet (HLD) index described by Manios et al 27 to ensure routine quality estimation. The total score on the HLD index ranges from 0 to 48, with higher scores indicating \"healthier\" dietary/lifestyle patterns. Based on this scoring, they considered 3 groups according to tertiles of the HLD index: unhealthy lifestyle-diet pattern, scores ranging from 1 to 16; moderately HLD pattern, scores ranging from 17 to 32; and HLD pattern, scores ranging from 33 to 48. Based on the adiponectin and leptin concentrations, the adiponectinleptin ratio (ALR) was calculated.",
+        "section": "Lifestyle Monitoring",
+        "section_number": 6,
+        "sentences": [
+            "The dietitians at the centers administered a food frequency questionnaire and a physical activity survey to all participants at the beginning and the end of the trial, both of which have been validated and normalized.",
+            "24 The data collected in the lifestyle habits questionnaires were evaluated according to the healthy lifestyle/diet (HLD) index described by Manios et al 27 to ensure routine quality estimation.",
+            "The total score on the HLD index ranges from 0 to 48, with higher scores indicating \"healthier\" dietary/lifestyle patterns.",
+            "Based on this scoring, they considered 3 groups according to tertiles of the HLD index: unhealthy lifestyle-diet pattern, scores ranging from 1 to 16; moderately HLD pattern, scores ranging from 17 to 32; and HLD pattern, scores ranging from 33 to 48.",
+            "Based on the adiponectin and leptin concentrations, the adiponectinleptin ratio (ALR) was calculated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The sample size was calculated based on BMI as the main outcome, the SD being 2.29 according to the tables of Cole et al, 26 and an expected minimum difference of 2 points of BMI. With an \u03b1 error of .05, a \u03b2 error of .20, and an estimated follow-up loss (dropout) of 20%, 4 groups in total were planned for the study: 2 groups of children who were obese (prepubertal and pubertal) treated with metformin and 2 groups of children who were obese (prepubertal and pubertal) who received placebo. There is a requirement of at least 40 patients per group (\u00d74 groups = 160 children).",
+        "section": "sample size",
+        "section_number": 7,
+        "sentences": [
+            "The sample size was calculated based on BMI as the main outcome, the SD being 2.29 according to the tables of Cole et al, 26 and an expected minimum difference of 2 points of BMI.",
+            "With an \u03b1 error of .05, a \u03b2 error of .20, and an estimated follow-up loss (dropout) of 20%, 4 groups in total were planned for the study: 2 groups of children who were obese (prepubertal and pubertal) treated with metformin and 2 groups of children who were obese (prepubertal and pubertal) who received placebo.",
+            "There is a requirement of at least 40 patients per group (\u00d74 groups = 160 children)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Data were analyzed by using SPSS software version 22 for Windows (IBM SPSS Statistics, IBM Corporation, Armonk, NY). All values are expressed as mean \u00b1 SEM. Variables that were not normally distributed were log-transformed for analysis, and/or values with \u00b12 SD of the mean were removed (without achieving values loss from samples of up to 15%). However, the data are presented as untransformed values to ensure a clear understanding. Differences at baseline per experimental group in each pubertal stage or sex were assessed by using Student's t test or the Mann-Whitney U test if the variables were not normally distributed. The data associated with the subjects who dropped out were subsequently excluded from the statistical analysis. A general linear model for repeated measures was used to determine the outcome changes from baseline to 6 months according to treatment of separated groups of pubertal status (prepubertal and pubertal) and sex (boys and girls). The specific differences between the treatments were assessed by using post hoc Bonferroni tests. The fixed effects included were sex or pubertal stage (according to analysis group), center, adherence, and the time \u00d7 treatment interaction. Time \u00d7 treatment \u00d7 puberty (or sex) were also estimated when a general linear model for repeated measures was applied to the overall population to analyze the different impact of metformin in variables that presented a significant changes versus placebo in one of the puberty and sex groups. The variables that did not influence the analysis were removed from the model to avoid overadjustments. The variables that had to be adjusted for baseline values were assessed by using an analysis of covariance model.",
+        "section": "statistical analysis",
+        "section_number": 8,
+        "sentences": [
+            "Data were analyzed by using SPSS software version 22 for Windows (IBM SPSS Statistics, IBM Corporation, Armonk, NY).",
+            "All values are expressed as mean \u00b1 SEM.",
+            "Variables that were not normally distributed were log-transformed for analysis, and/or values with \u00b12 SD of the mean were removed (without achieving values loss from samples of up to 15%).",
+            "However, the data are presented as untransformed values to ensure a clear understanding.",
+            "Differences at baseline per experimental group in each pubertal stage or sex were assessed by using Student's t test or the Mann-Whitney U test if the variables were not normally distributed.",
+            "The data associated with the subjects who dropped out were subsequently excluded from the statistical analysis.",
+            "A general linear model for repeated measures was used to determine the outcome changes from baseline to 6 months according to treatment of separated groups of pubertal status (prepubertal and pubertal) and sex (boys and girls).",
+            "The specific differences between the treatments were assessed by using post hoc Bonferroni tests.",
+            "The fixed effects included were sex or pubertal stage (according to analysis group), center, adherence, and the time \u00d7 treatment interaction.",
+            "Time \u00d7 treatment \u00d7 puberty (or sex) were also estimated when a general linear model for repeated measures was applied to the overall population to analyze the different impact of metformin in variables that presented a significant changes versus placebo in one of the puberty and sex groups.",
+            "The variables that did not influence the analysis were removed from the model to avoid overadjustments.",
+            "The variables that had to be adjusted for baseline values were assessed by using an analysis of covariance model."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "To check the robustness of the results in relation to the effects on BMI z score according to treatment, a logistic regression model was developed, reporting the odds ratio and 95% confidence intervals.",
+        "section": "statistical analysis",
+        "section_number": 9,
+        "sentences": [
+            "To check the robustness of the results in relation to the effects on BMI z score according to treatment, a logistic regression model was developed, reporting the odds ratio and 95% confidence intervals."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Differences in dose per kilogram of body weight between prepubertal and pubertal children who were obese were assessed by using an analysis of variance model. Possible differences in adverse effects and clinical signs according to treatment were evaluated by using the Mann-Whitney U test, as well as whether adherence differed by treatment in each pubertal stage or sex. Significant changes in the safety parameters (serum creatinine, urea, and liver enzyme activities) by metformin compared with the placebo group were assessed by using an analysis of variance model.",
+        "section": "statistical analysis",
+        "section_number": 10,
+        "sentences": [
+            "Differences in dose per kilogram of body weight between prepubertal and pubertal children who were obese were assessed by using an analysis of variance model.",
+            "Possible differences in adverse effects and clinical signs according to treatment were evaluated by using the Mann-Whitney U test, as well as whether adherence differed by treatment in each pubertal stage or sex.",
+            "Significant changes in the safety parameters (serum creatinine, urea, and liver enzyme activities) by metformin compared with the placebo group were assessed by using an analysis of variance model."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Of the 160 white children included, 140 completed the study (72 boys, 68 girls); their age ranged from 6.8 to 15.3 years, translating to 67 prepubertal (Tanner stage I) and 73 pubertal (Tanner stages II-V) children (Fig 1) . Twelve participants (7.5%) in the metformin group and 8 (5%) in the placebo group dropped out. Subjects who dropped out were mainly lost to incomplete follow-up (did not attend at the last visit) and/or they were no longer interested in the study. The baseline demographic, clinical, and biochemical characteristics are summarized in Supplemental Table 4 . Children presented with normal fasting blood glucose concentrations according to the International Society for Pediatric and Adolescent Diabetes. In addition, differences at baseline between the intervention groups were found for leptin and \u03b3-glutamyltransferase concentrations in prepubertal participants and for BMI, waist circumference, oxidized low-density lipoprotein, creatinine, and urea in pubertal participants. Regarding sex, higher values were observed at baseline in the placebo group compared with the metformin group for BMI (30.2 \u00b1 0.7 vs 28.0 \u00b1 0.6; P = .04) and leptin (15.07 \u00b1 1.0 \u00b5g/L vs 10.8 \u00b1 1.0 \u00b5g/L; P = .003) in boys, whereas soluble vascular adhesion molecule-1 was lower in girls in the placebo group (696 \u00b1 33 \u00b5g/L vs 790 \u00b1 33 \u00b5g/L; P = .05).",
+        "section": "ResuLTs baseline characteristics of the Participants",
+        "section_number": 11,
+        "sentences": [
+            "Of the 160 white children included, 140 completed the study (72 boys, 68 girls); their age ranged from 6.8 to 15.3 years, translating to 67 prepubertal (Tanner stage I) and 73 pubertal (Tanner stages II-V) children (Fig 1) .",
+            "Twelve participants (7.5%) in the metformin group and 8 (5%) in the placebo group dropped out.",
+            "Subjects who dropped out were mainly lost to incomplete follow-up (did not attend at the last visit) and/or they were no longer interested in the study.",
+            "The baseline demographic, clinical, and biochemical characteristics are summarized in Supplemental Table 4 .",
+            "Children presented with normal fasting blood glucose concentrations according to the International Society for Pediatric and Adolescent Diabetes.",
+            "In addition, differences at baseline between the intervention groups were found for leptin and \u03b3-glutamyltransferase concentrations in prepubertal participants and for BMI, waist circumference, oxidized low-density lipoprotein, creatinine, and urea in pubertal participants.",
+            "Regarding sex, higher values were observed at baseline in the placebo group compared with the metformin group for BMI (30.2 \u00b1 0.7 vs 28.0 \u00b1 0.6; P = .04) and leptin (15.07 \u00b1 1.0 \u00b5g/L vs 10.8 \u00b1 1.0 \u00b5g/L; P = .003) in boys, whereas soluble vascular adhesion molecule-1 was lower in girls in the placebo group (696 \u00b1 33 \u00b5g/L vs 790 \u00b1 33 \u00b5g/L; P = .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Unlike placebo, metformin treatment decreased the BMI z score (P = .04) in the prepubertal group. Moreover, based on a binary logistic regression, the BMI z score was independently associated with metformin treatment (odds ratio, 0.18 [95% confidence interval, 0.050-0.636]; P = .01); therefore, the 6-month metformin intervention led to a reduction in BMI z score in the prepubertal group. Conversely, the other anthropometric and body composition parameters revealed no significant differences between the interventions at 6 months in any pubertal group (Table 2) . No differences were found in the impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to the entire population (P = .41). Concerning sex, there were no differential effects in boys compared with girls (data not shown).",
+        "section": "anthropometry, body composition, and Lifestyle Monitoring",
+        "section_number": 12,
+        "sentences": [
+            "Unlike placebo, metformin treatment decreased the BMI z score (P = .04) in the prepubertal group.",
+            "Moreover, based on a binary logistic regression, the BMI z score was independently associated with metformin treatment (odds ratio, 0.18 [95% confidence interval, 0.050-0.636]; P = .01); therefore, the 6-month metformin intervention led to a reduction in BMI z score in the prepubertal group.",
+            "Conversely, the other anthropometric and body composition parameters revealed no significant differences between the interventions at 6 months in any pubertal group (Table 2) .",
+            "No differences were found in the impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to the entire population (P = .41).",
+            "Concerning sex, there were no differential effects in boys compared with girls (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "All subjects kept a moderately HLD pattern (second tertile, ranging from 17 to 32 values of HLD index) at all study times. In addition, we observed no difference in behavior for the experimental groups according to pubertal stage and sex across the study.",
+        "section": "anthropometry, body composition, and Lifestyle Monitoring",
+        "section_number": 13,
+        "sentences": [
+            "All subjects kept a moderately HLD pattern (second tertile, ranging from 17 to 32 values of HLD index) at all study times.",
+            "In addition, we observed no difference in behavior for the experimental groups according to pubertal stage and sex across the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Metformin treatment significantly increased the QUICKI in prepubertal children compared with placebo (P = .01) ( Table 2) ; no differences were observed in the impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to the entire population (P = .47). There was no evidence of significant differences in other insulin sensitivity markers at 6 months in either the prepubertal or pubertal group, regardless of treatment. The lipid profile did not change throughout the intervention in any treatment group. Data stratified according to sex exhibited no differences between treatments (data not shown).",
+        "section": "Glucose, insulin sensitivity, and Lipid Metabolism",
+        "section_number": 14,
+        "sentences": [
+            "Metformin treatment significantly increased the QUICKI in prepubertal children compared with placebo (P = .01) ( Table 2) ; no differences were observed in the impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to the entire population (P = .47).",
+            "There was no evidence of significant differences in other insulin sensitivity markers at 6 months in either the prepubertal or pubertal group, regardless of treatment.",
+            "The lipid profile did not change throughout the intervention in any treatment group.",
+            "Data stratified according to sex exhibited no differences between treatments (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "After the intervention, the prepubertal group exhibited decreased IFN-\u03b3 and tPAI-1 concentrations in patients in the metformin group compared with those receiving placebo (P = .02; P = .04, respectively) ( Table 3 ). Leptin and adiponectin concentrations did not change over time in either group; however, the ALR increased in prepubertal children after metformin treatment versus placebo (P = .01). Furthermore, pubertal children did not show any changes at the end of the trial in the metformin group versus the placebo group.",
+        "section": "inflammation and cardiovascular Risk biomarkers",
+        "section_number": 15,
+        "sentences": [
+            "After the intervention, the prepubertal group exhibited decreased IFN-\u03b3 and tPAI-1 concentrations in patients in the metformin group compared with those receiving placebo (P = .02; P = .04, respectively) ( Table 3 ).",
+            "Leptin and adiponectin concentrations did not change over time in either group; however, the ALR increased in prepubertal children after metformin treatment versus placebo (P = .01).",
+            "Furthermore, pubertal children did not show any changes at the end of the trial in the metformin group versus the placebo group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Neither ALR, tPAI-1, nor IFN-\u03b3 exhibited a different impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to all the population (P = .07; P = .14; P = .06, respectively).",
+        "section": "inflammation and cardiovascular Risk biomarkers",
+        "section_number": 16,
+        "sentences": [
+            "Neither ALR, tPAI-1, nor IFN-\u03b3 exhibited a different impact of metformin according to the pubertal stage when the interaction time \u00d7 treatment \u00d7 puberty was applied to all the population (P = .07; P = .14; P = .06, respectively)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Regarding sex, boys had an increased ALR after metformin treatment versus placebo (baseline, 1.0 \u00b1 0.1 to 6 months 1.7 \u00b1 0.2 by metformin vs baseline 0.7 \u00b1 0.09 to 6 months 0.9 \u00b1 0.2 by placebo, P = .04), but girls only showed a trend (0.7 \u00b1 0.09 to 1.2 \u00b1 0.1 by metformin vs 0.7 \u00b1 0.09 to 0.9 \u00b1 0.1 by placebo; P = .08). For the remaining outcomes, we observed no differential effects in either sex (data not shown).",
+        "section": "inflammation and cardiovascular Risk biomarkers",
+        "section_number": 17,
+        "sentences": [
+            "Regarding sex, boys had an increased ALR after metformin treatment versus placebo (baseline, 1.0 \u00b1 0.1 to 6 months 1.7 \u00b1 0.2 by metformin vs baseline 0.7 \u00b1 0.09 to 6 months 0.9 \u00b1 0.2 by placebo, P = .04), but girls only showed a trend (0.7 \u00b1 0.09 to 1.2 \u00b1 0.1 by metformin vs 0.7 \u00b1 0.09 to 0.9 \u00b1 0.1 by placebo; P = .08).",
+            "For the remaining outcomes, we observed no differential effects in either sex (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Metformin was generally well tolerated. None of the subjects had to stop the intervention because of serious adverse events. Both experimental groups reported having diarrhea (13% in the metformin group, 9% in the placebo group). Lactic acidosis was not reported in any participant. There were no significantly different changes in any safety parameters between the metformin and placebo groups. The clinical signs did not differ at the end of the intervention in any treatment group.",
+        "section": "safety, adherence, and doses",
+        "section_number": 18,
+        "sentences": [
+            "Metformin was generally well tolerated.",
+            "None of the subjects had to stop the intervention because of serious adverse events.",
+            "Both experimental groups reported having diarrhea (13% in the metformin group, 9% in the placebo group).",
+            "Lactic acidosis was not reported in any participant.",
+            "There were no significantly different changes in any safety parameters between the metformin and placebo groups.",
+            "The clinical signs did not differ at the end of the intervention in any treatment group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Adherence was measured by using the following formula: ([pills ingested \u2212 pills returned]/pills predicted) \u00d7 100. Good adherence to treatment was reported in most participants (89% \u00b1 1%). In terms of doses, all patients received 1 g/d of medication, independent of weight. Considering the different effects of metformin according to pubertal stage, we considered it appropriate to calculate the doses per body weight of each patient. Thus, prepubertal children took 19.6 \u00b1 0.74 mg metformin/kg body weight versus 13.4 \u00b1 0.38 mg/ kg taken by the pubertal children (P < .001).",
+        "section": "safety, adherence, and doses",
+        "section_number": 19,
+        "sentences": [
+            "Adherence was measured by using the following formula: ([pills ingested \u2212 pills returned]/pills predicted) \u00d7 100.",
+            "Good adherence to treatment was reported in most participants (89% \u00b1 1%).",
+            "In terms of doses, all patients received 1 g/d of medication, independent of weight.",
+            "Considering the different effects of metformin according to pubertal stage, we considered it appropriate to calculate the doses per body weight of each patient.",
+            "Thus, prepubertal children took 19.6 \u00b1 0.74 mg metformin/kg body weight versus 13.4 \u00b1 0.38 mg/ kg taken by the pubertal children (P < .001)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "In the present RCT, we recorded a significant reduction in BMI z score after 6 months exclusively in prepubertal children who were obese treated with 1 g/d of metformin, even with no significant improvement in lifestyle according to the HLD index of Manios et al. 27 Metformin has previously been found to be efficacious in childhood obesity, especially in reducing BMI z score,",
+        "section": "discussion",
+        "section_number": 20,
+        "sentences": [
+            "In the present RCT, we recorded a significant reduction in BMI z score after 6 months exclusively in prepubertal children who were obese treated with 1 g/d of metformin, even with no significant improvement in lifestyle according to the HLD index of Manios et al. 27 Metformin has previously been found to be efficacious in childhood obesity, especially in reducing BMI z score,"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Flow diagram of participants. PB, pubertal boys; PG, pubertal girls; PPB, prepubertal boys; PPG, prepubertal girls.",
+        "section": "FiGuRe 1",
+        "section_number": 21,
+        "sentences": [
+            "Flow diagram of participants.",
+            "PB, pubertal boys; PG, pubertal girls; PPB, prepubertal boys; PPG, prepubertal girls."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from Data are presented as mean \u00b1 SEM. All P values adjusted by using the Bonferroni correction. Apo, apolipoprotein; HDL-C, high-density lipoprotein cholesterol; HOMA-IR, homeostasis model assessment for insulin resistance; LDL-C, low-density lipoprotein cholesterol; TG, triglycerides; TC, total cholesterol; VLDL-C, very low-density lipoprotein cholesterol. a Differences from placebo at the end of intervention by general linear model for repeated measures (95% confidence interval), P < .05. b Analysis of covariance analysis to variables with differences at baseline between treatments (95% confidence interval). the most appropriate and precise internationally accepted body mass parameter for children. 26 Previous investigators have reported similar effects of 1500 to 2000 mg/d after 6 months in prepubertal and pubertal children who are obese. 18, 22, 28 In the current study, we found no significant change concerning BMI z score in pubertal children who were obese, similar to findings from some RCTs in this population 29 -31 but different from other RCTs. 17, 32 The diverse results found in the present RCT illustrate the importance of considering puberty in intervention studies of metformin in children who are obese. None of the previous studies used a study design to allow observing a differential response according to pubertal status separately.",
+        "section": "FiGuRe 1",
+        "section_number": 22,
+        "sentences": [
+            "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from Data are presented as mean \u00b1 SEM.",
+            "All P values adjusted by using the Bonferroni correction.",
+            "Apo, apolipoprotein; HDL-C, high-density lipoprotein cholesterol; HOMA-IR, homeostasis model assessment for insulin resistance; LDL-C, low-density lipoprotein cholesterol; TG, triglycerides; TC, total cholesterol; VLDL-C, very low-density lipoprotein cholesterol.",
+            "a Differences from placebo at the end of intervention by general linear model for repeated measures (95% confidence interval), P < .05.",
+            "b Analysis of covariance analysis to variables with differences at baseline between treatments (95% confidence interval).",
+            "the most appropriate and precise internationally accepted body mass parameter for children.",
+            "26 Previous investigators have reported similar effects of 1500 to 2000 mg/d after 6 months in prepubertal and pubertal children who are obese.",
+            "18, 22, 28 In the current study, we found no significant change concerning BMI z score in pubertal children who were obese, similar to findings from some RCTs in this population 29 -31 but different from other RCTs.",
+            "17, 32 The diverse results found in the present RCT illustrate the importance of considering puberty in intervention studies of metformin in children who are obese.",
+            "None of the previous studies used a study design to allow observing a differential response according to pubertal status separately."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "A lack of effect of metformin in the pubertal children who were obese might be related to the lower doses used for these subjects (milligrams of metformin per kilograms of body weight), providing dose-dependent efficacy according to body weight. Reviewing the literature, only Mauras et al 21 divided metformin doses into 1000 mg/d for those aged <12 years and 2000 mg/d for those aged \u22652 years; however, their sample size was small, and no differential responses were observed according to the pubertal stage. Nevertheless, we cannot exclude the fact that the failure of a metformin effect in pubertal children could also be due to the physiologic and hormonal changes in that stage. Indeed, puberty is associated with a marked decrease in insulin sensitivity, 33 and an insulin-sensitizing therapy would therefore have to be increased proportionately to observe a similar effect in prepubertal children. Accordingly, future RCTs should consider higher doses of metformin for adolescents to obtain a beneficial effect, taking into account the maximum dosing described for youngsters aged 10 to 16 years (2000 mg/d). 34 Regarding the lipid profiles, no significant changes occurred in any pubertal group. Three studies have shown an improvement in some lipid parameters in pubertal subjects who are obese. 17, 35, 36 However, no changes were observed compared with the placebo intervention by many other studies in patients both prepubertal and pubertal who were obese, 18, 21, 22, 30, 37 nor were there any changes in pubertal population only. 16, 20, 29, 32 Hence, the evidence is still unclear and seems to depend on the presence/absence of dyslipidemia. 38 Furthermore, metformin is considered as an insulin sensitizer, with its pleiotropic actions, and it exerts protective effects on multiple organs, mainly in insulin-targeted tissues such as liver, muscle, and adipose tissues. 39 In the current study, QUICKI, considered for years as an optimal method of determining insulin sensitivity in subjects who are obese, increased only in the prepubertal children. One previous RCT assessed the changes in QUICKI according to a metformin intervention for 6 months in an experimental group comprising both prepubertal and pubertal children who were obese, but no effects were obtained. 22 Moreover, a significant increase has only been shown to date in pubertal children who are obese. 32, 36 A significant improvement in the ALR was observed in the prepubertal children after taking metformin. The ALR is considered a potential surrogate marker for cardiometabolic disease. 40 Similar results have been reported by previous investigators in children 22 and adolescents who are obese. 17, 22 However, we found no effects of metformin on plasma adipokine levels. In reviewing previous studies of subjects who are obese aged 4 to 19 years, levels of adiponectin did not change during the metformin intervention compared with placebo, 16, 17, 19, 20, 22 neither did leptin levels, which were found to be decreased only in 2 studies. 32, 35 Freemark and Bursey 32 reported a decrease in pubertal girls who were obese but not in their male peers.",
+        "section": "FiGuRe 1",
+        "section_number": 23,
+        "sentences": [
+            "A lack of effect of metformin in the pubertal children who were obese might be related to the lower doses used for these subjects (milligrams of metformin per kilograms of body weight), providing dose-dependent efficacy according to body weight.",
+            "Reviewing the literature, only Mauras et al 21 divided metformin doses into 1000 mg/d for those aged <12 years and 2000 mg/d for those aged \u22652 years; however, their sample size was small, and no differential responses were observed according to the pubertal stage.",
+            "Nevertheless, we cannot exclude the fact that the failure of a metformin effect in pubertal children could also be due to the physiologic and hormonal changes in that stage.",
+            "Indeed, puberty is associated with a marked decrease in insulin sensitivity, 33 and an insulin-sensitizing therapy would therefore have to be increased proportionately to observe a similar effect in prepubertal children.",
+            "Accordingly, future RCTs should consider higher doses of metformin for adolescents to obtain a beneficial effect, taking into account the maximum dosing described for youngsters aged 10 to 16 years (2000 mg/d).",
+            "34 Regarding the lipid profiles, no significant changes occurred in any pubertal group.",
+            "Three studies have shown an improvement in some lipid parameters in pubertal subjects who are obese.",
+            "17, 35, 36 However, no changes were observed compared with the placebo intervention by many other studies in patients both prepubertal and pubertal who were obese, 18, 21, 22, 30, 37 nor were there any changes in pubertal population only.",
+            "16, 20, 29, 32 Hence, the evidence is still unclear and seems to depend on the presence/absence of dyslipidemia.",
+            "38 Furthermore, metformin is considered as an insulin sensitizer, with its pleiotropic actions, and it exerts protective effects on multiple organs, mainly in insulin-targeted tissues such as liver, muscle, and adipose tissues.",
+            "39 In the current study, QUICKI, considered for years as an optimal method of determining insulin sensitivity in subjects who are obese, increased only in the prepubertal children.",
+            "One previous RCT assessed the changes in QUICKI according to a metformin intervention for 6 months in an experimental group comprising both prepubertal and pubertal children who were obese, but no effects were obtained.",
+            "22 Moreover, a significant increase has only been shown to date in pubertal children who are obese.",
+            "32, 36 A significant improvement in the ALR was observed in the prepubertal children after taking metformin.",
+            "The ALR is considered a potential surrogate marker for cardiometabolic disease.",
+            "40 Similar results have been reported by previous investigators in children 22 and adolescents who are obese.",
+            "17, 22 However, we found no effects of metformin on plasma adipokine levels.",
+            "In reviewing previous studies of subjects who are obese aged 4 to 19 years, levels of adiponectin did not change during the metformin intervention compared with placebo, 16, 17, 19, 20, 22 neither did leptin levels, which were found to be decreased only in 2 studies.",
+            "32, 35 Freemark and Bursey 32 reported a decrease in pubertal girls who were obese but not in their male peers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "A variety of proinflammatory mediators associated with cardiometabolic dysfunction are known to be influenced by childhood obesity. 22 We have reported for the first time a decline in INF-\u03b3 plasma concentrations after metformin treatment over 6 months in prepubertal children who are obese only. There are no studies to date in humans that assessed changes in INF-\u03b3 in subjects who are obese. However, it has been reported that metformin exerted its immunosuppressive effect by inhibiting the expression of proinflammatory mediators as IFN-\u03b3 both in a macrophage cell line (RAW267.4) and in animal models of multiple sclerosis. 41 This finding may be interesting enough to warrant investigation of other actions of metformin pathways. Similarly, tPAI-1 is a principal physiologic inhibitor of fibrinolysis and a relevant marker of inflammation and prothrombosis. 42 Thus far, only Mauras et al 21 have evaluated the effects of metformin on tPAI-1 concentrations, and they observed no changes by metformin and no differences according to pubertal stage. The current RCT is the first study to report an influence of metformin on tPAI-1 reduction in pediatric patients who are obese and only in the prepubertal group. CRP was not modified in the current study in either pubertal group after treatment. Different investigators have evaluated this inflammatory biomarker after metformin interventions, but none of them found changes. 16, 19 -22 Another well-known inflammation biomarker, TNF-\u03b1, has been studied only in 2 RCTs similar to ours. 19, 20 Only Evia-Viscarra et al 19 observed changes in the variances of serum TNF-\u03b1 concentration over 3 months in pubertal children who are obese. In terms of the other cardiovascular risk and inflammatory biomarkers, they had not been analyzed to date in children who are obese. However, changes in these biomarkers were not found in the current study. Evidence regarding some of these biomarkers has only been achieved in the adult population. 7 -14 Thus, more studies are needed to elucidate the effects of metformin on inflammatory biomarkers in the early onset of obesity.",
+        "section": "FiGuRe 1",
+        "section_number": 24,
+        "sentences": [
+            "A variety of proinflammatory mediators associated with cardiometabolic dysfunction are known to be influenced by childhood obesity.",
+            "22 We have reported for the first time a decline in INF-\u03b3 plasma concentrations after metformin treatment over 6 months in prepubertal children who are obese only.",
+            "There are no studies to date in humans that assessed changes in INF-\u03b3 in subjects who are obese.",
+            "However, it has been reported that metformin exerted its immunosuppressive effect by inhibiting the expression of proinflammatory mediators as IFN-\u03b3 both in a macrophage cell line (RAW267.4) and in animal models of multiple sclerosis.",
+            "41 This finding may be interesting enough to warrant investigation of other actions of metformin pathways.",
+            "Similarly, tPAI-1 is a principal physiologic inhibitor of fibrinolysis and a relevant marker of inflammation and prothrombosis.",
+            "42 Thus far, only Mauras et al 21 have evaluated the effects of metformin on tPAI-1 concentrations, and they observed no changes by metformin and no differences according to pubertal stage.",
+            "The current RCT is the first study to report an influence of metformin on tPAI-1 reduction in pediatric patients who are obese and only in the prepubertal group.",
+            "CRP was not modified in the current study in either pubertal group after treatment.",
+            "Different investigators have evaluated this inflammatory biomarker after metformin interventions, but none of them found changes.",
+            "16, 19 -22 Another well-known inflammation biomarker, TNF-\u03b1, has been studied only in 2 RCTs similar to ours.",
+            "19, 20 Only Evia-Viscarra et al 19 observed changes in the variances of serum TNF-\u03b1 concentration over 3 months in pubertal children who are obese.",
+            "In terms of the other cardiovascular risk and inflammatory biomarkers, they had not been analyzed to date in children who are obese.",
+            "However, changes in these biomarkers were not found in the current study.",
+            "Evidence regarding some of these biomarkers has only been achieved in the adult population.",
+            "7 -14 Thus, more studies are needed to elucidate the effects of metformin on inflammatory biomarkers in the early onset of obesity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "Our study has several limitations, including the difficulty in assessing treatment compliance by using pill count, as well as lifestyle changes in the children. In addition, although the index proposed by Manios et al 27 has been validated for primary school children and was carefully revised, it did not include the intake of some routine foods in the Spanish diet (eg, olive oil), which may influence dietary habits. Furthermore, we controlled for medication taken by monitoring the delivery and return of pill bottles; however, we are aware that this strategy does not ensure accuracy regarding information on intervention compliance.",
+        "section": "FiGuRe 1",
+        "section_number": 25,
+        "sentences": [
+            "Our study has several limitations, including the difficulty in assessing treatment compliance by using pill count, as well as lifestyle changes in the children.",
+            "In addition, although the index proposed by Manios et al 27 has been validated for primary school children and was carefully revised, it did not include the intake of some routine foods in the Spanish diet (eg, olive oil), which may influence dietary habits.",
+            "Furthermore, we controlled for medication taken by monitoring the delivery and return of pill bottles; however, we are aware that this strategy does not ensure accuracy regarding information on intervention compliance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The onset of childhood obesity may begin early in life. This fact clearly has important implications for the future development of cardiovascular disease in children who are obese and in young people. Better pharmacologic strategies are needed to reduce cardiovascular risk in this population. In the present RCT, prepubertal children had a decreased BMI z score and improvements in other parameters related to obesity after undergoing metformin treatment for 6 months, but pubertal children did not. Hence, puberty is an important physiologic stage that plays a key role in the differential response to metformin that should be explored further, particularly in terms of the doseeffect relationships.",
+        "section": "concLusions",
+        "section_number": 26,
+        "sentences": [
+            "The onset of childhood obesity may begin early in life.",
+            "This fact clearly has important implications for the future development of cardiovascular disease in children who are obese and in young people.",
+            "Better pharmacologic strategies are needed to reduce cardiovascular risk in this population.",
+            "In the present RCT, prepubertal children had a decreased BMI z score and improvements in other parameters related to obesity after undergoing metformin treatment for 6 months, but pubertal children did not.",
+            "Hence, puberty is an important physiologic stage that plays a key role in the differential response to metformin that should be explored further, particularly in terms of the doseeffect relationships."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "The authors acknowledge the Spanish Ministry of Health, Social and Equality, General Department for Pharmacy and Health Products for financing this study and the Instituto de Salud Carlos III-Fondo de Investigaci\u00f3n Sanitaria (FONDOS FEDER), Redes tem\u00e1ticas de investigaci\u00f3n cooperativa RETIC (Red SAMID RD12/0026/0015). They also thank M. Cruz Rico for performing the biochemical analysis. This article will be part of Mar\u00eda Bel\u00e9n Pastor Villaescusa's doctorate degree, which is being performed within the \"Nutrition and Food Sciences Program\" at the University of Granada. abbReviaTions ALR: adiponectin-leptin ratio CV: coefficient of variation HLD: healthy lifestyle/diet IFN-\u03b3: interferon-\u03b3 PAI-1: plasminogen activator inhibitor-1 QUICKI: quantitative insulin sensitivity check index RCT: randomized controlled trial T2DM: type 2 diabetes mellitus TNF-\u03b1: tumor necrosis factor \u03b1 Dr Pastor-Villaescusa was responsible for all the data and sample collection, as well as for the development of the food frequency questionnaire (FFQ) and a physical activity survey in Granada; she also wrote the manuscript; Dr Ca\u00f1ete designed the study, performed the data and sample acquisition, and administered the FFQ and a physical activity survey to all participants in Reina Sof\u00eda Hospital (C\u00f3rdoba); Dr Caballero-Villarraso designed the study and obtained grant funding; Mr Hoyos was responsible for child recruitment and randomized controlled trial (RCT) management in the Virgen de las Nieves university Hospital (Granada); Ms Latorre and Dr V\u00e1zquez-Cobela performed the data and sample acquisition and developed the FFQ in the Lozano Blesa university Hospital (Zaragoza) and in the Clinic university Hospital of Santiago (Santiago de Compostela), respectively; Dr Plaza-D\u00edaz collaborated in the data analysis, as well as its interpretation and discussion; Dr Maldonado was responsible for, and coordinator of, child recruitment and RCT management in the Virgen de las Nieves university Hospital (Granada); Drs Bueno and Leis were responsible for, and coordinator of, child recruitment and RCT management in the Lozano Blesa university Hospital (Zaragoza) and in the Clinic university Hospital of Santiago (Santiago de Compostela), respectively; Dr Gil designed the study and obtained grant funding, was involved in the data interpretation and discussion, and reviewed and edited the manuscript; Dr Ca\u00f1ete is the trial promoter, designed the study, and obtained grant funding; and Dr Aguilera created the sampling and analysis protocols, supervised the data collection, was involved in the data interpretation and discussion, and critically reviewed and edited the manuscript. All authors read and approved the final manuscript and take full responsibility for the manuscript content.",
+        "section": "acKnoWLedGMenTs",
+        "section_number": 27,
+        "sentences": [
+            "The authors acknowledge the Spanish Ministry of Health, Social and Equality, General Department for Pharmacy and Health Products for financing this study and the Instituto de Salud Carlos III-Fondo de Investigaci\u00f3n Sanitaria (FONDOS FEDER), Redes tem\u00e1ticas de investigaci\u00f3n cooperativa RETIC (Red SAMID RD12/0026/0015).",
+            "They also thank M. Cruz Rico for performing the biochemical analysis.",
+            "This article will be part of Mar\u00eda Bel\u00e9n Pastor Villaescusa's doctorate degree, which is being performed within the \"Nutrition and Food Sciences Program\" at the University of Granada.",
+            "abbReviaTions ALR: adiponectin-leptin ratio CV: coefficient of variation HLD: healthy lifestyle/diet IFN-\u03b3: interferon-\u03b3 PAI-1: plasminogen activator inhibitor-1 QUICKI: quantitative insulin sensitivity check index RCT: randomized controlled trial T2DM: type 2 diabetes mellitus TNF-\u03b1: tumor necrosis factor \u03b1 Dr Pastor-Villaescusa was responsible for all the data and sample collection, as well as for the development of the food frequency questionnaire (FFQ) and a physical activity survey in Granada; she also wrote the manuscript; Dr Ca\u00f1ete designed the study, performed the data and sample acquisition, and administered the FFQ and a physical activity survey to all participants in Reina Sof\u00eda Hospital (C\u00f3rdoba); Dr Caballero-Villarraso designed the study and obtained grant funding; Mr Hoyos was responsible for child recruitment and randomized controlled trial (RCT) management in the Virgen de las Nieves university Hospital (Granada); Ms Latorre and Dr V\u00e1zquez-Cobela performed the data and sample acquisition and developed the FFQ in the Lozano Blesa university Hospital (Zaragoza) and in the Clinic university Hospital of Santiago (Santiago de Compostela), respectively; Dr Plaza-D\u00edaz collaborated in the data analysis, as well as its interpretation and discussion; Dr Maldonado was responsible for, and coordinator of, child recruitment and RCT management in the Virgen de las Nieves university Hospital (Granada); Drs Bueno and Leis were responsible for, and coordinator of, child recruitment and RCT management in the Lozano Blesa university Hospital (Zaragoza) and in the Clinic university Hospital of Santiago (Santiago de Compostela), respectively; Dr Gil designed the study and obtained grant funding, was involved in the data interpretation and discussion, and reviewed and edited the manuscript; Dr Ca\u00f1ete is the trial promoter, designed the study, and obtained grant funding; and Dr Aguilera created the sampling and analysis protocols, supervised the data collection, was involved in the data interpretation and discussion, and critically reviewed and edited the manuscript.",
+            "All authors read and approved the final manuscript and take full responsibility for the manuscript content."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "This trial has been registered in the European Clinical Trials Database (identifier 2010-023061-21). PoTenTiaL conFLicT oF inTeResT: The authors have indicated they have no potential conflicts of interest to disclose.",
+        "section": "acKnoWLedGMenTs",
+        "section_number": 28,
+        "sentences": [
+            "This trial has been registered in the European Clinical Trials Database (identifier 2010-023061-21).",
+            "PoTenTiaL conFLicT oF inTeResT: The authors have indicated they have no potential conflicts of interest to disclose."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "coMPanion PaPeR: A companion to this article can be found online at www. pediatrics. org/ cgi/ doi/ 10. 1542/ peds. 2017-1205.",
+        "section": "acKnoWLedGMenTs",
+        "section_number": 29,
+        "sentences": [
+            "coMPanion PaPeR: A companion to this article can be found online at www.",
+            "pediatrics.",
+            "org/ cgi/ doi/ 10.",
+            "1542/ peds.",
+            "2017-1205."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from",
+        "section": "acKnoWLedGMenTs",
+        "section_number": 30,
+        "sentences": [
+            "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 31,
+        "sentences": [
+            "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "at Univ Of Alberta on March 2, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34306",
+        "text": "mo (n = 38) Baseline",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "mo (n = 38) Baseline"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

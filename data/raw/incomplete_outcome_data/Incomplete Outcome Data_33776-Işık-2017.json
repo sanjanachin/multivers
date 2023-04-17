@@ -1,0 +1,600 @@
+[
+    {
+        "doc_id": "33776",
+        "text": "A prospective evaluation was made of 65 patients with AIS scheduled for posterior spinal fusion between 2009 and 2011. Randomization was performed by using allograft and local autograft for the first 21 patients, using only local graft for the next 22 patients, and using posterior iliac crest graft and local graft for the final 22 patients according to Background/aim: This study was performed to show the efficacy of in situ local autograft with a comparison of in situ local autograft, local autograft with allograft, and local autograft with posterior iliac crest autograft. Materials and methods: In this prospective randomized study, a total of 65 adolescent idiopathic scoliosis (AIS) patients were separated into 3 groups: Group 1 using local autograft and allograft, Group 2 using local autograft only, and Group 3 using local autograft and posterior iliac crest autograft. Posterior segmental instrumentation was also applied to all patients. The mean follow-up period was 28.5 months (range, 15-40 months). Pseudarthrosis was investigated with the multiplanar and three-dimensional images obtained using multislice computed tomography, thoracolumbar bone single-photon emission computed tomography, and three-phase regional and whole body bone scintigraphy. Results: Pseudarthrosis was not observed in any patient. Fusion was obtained in all patients at the end of the follow-up periods. Conclusion: Similar results were obtained in respect of fusion in all 3 groups. Without the use of additional grafts, sufficient fusion can be achieved with the use of local autograft alone for posterior spinal fusion in patients with AIS.",
+        "section": "Abstract",
+        "sentences": [
+            "A prospective evaluation was made of 65 patients with AIS scheduled for posterior spinal fusion between 2009 and 2011.",
+            "Randomization was performed by using allograft and local autograft for the first 21 patients, using only local graft for the next 22 patients, and using posterior iliac crest graft and local graft for the final 22 patients according to Background/aim: This study was performed to show the efficacy of in situ local autograft with a comparison of in situ local autograft, local autograft with allograft, and local autograft with posterior iliac crest autograft.",
+            "Materials and methods: In this prospective randomized study, a total of 65 adolescent idiopathic scoliosis (AIS) patients were separated into 3 groups: Group 1 using local autograft and allograft, Group 2 using local autograft only, and Group 3 using local autograft and posterior iliac crest autograft.",
+            "Posterior segmental instrumentation was also applied to all patients.",
+            "The mean follow-up period was 28.5 months (range, 15-40 months).",
+            "Pseudarthrosis was investigated with the multiplanar and three-dimensional images obtained using multislice computed tomography, thoracolumbar bone single-photon emission computed tomography, and three-phase regional and whole body bone scintigraphy.",
+            "Results: Pseudarthrosis was not observed in any patient.",
+            "Fusion was obtained in all patients at the end of the follow-up periods.",
+            "Conclusion: Similar results were obtained in respect of fusion in all 3 groups.",
+            "Without the use of additional grafts, sufficient fusion can be achieved with the use of local autograft alone for posterior spinal fusion in patients with AIS."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "33776",
+        "text": "Fusion is very important in adolescent idiopathic scoliosis (AIS) surgery in terms of the success of the surgery. Currently, many fusion techniques are used in surgical treatment of deformities related to the spinal column. The objective of fusion is to prevent the reoccurrence of the three-dimensional deformity corrected with surgical treatment and to keep the head and trunk in balance on the pelvis. Posterior instrumentation aims to protect the corrected deformity and to provide internal fixation until fusion occurs.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Fusion is very important in adolescent idiopathic scoliosis (AIS) surgery in terms of the success of the surgery.",
+            "Currently, many fusion techniques are used in surgical treatment of deformities related to the spinal column.",
+            "The objective of fusion is to prevent the reoccurrence of the three-dimensional deformity corrected with surgical treatment and to keep the head and trunk in balance on the pelvis.",
+            "Posterior instrumentation aims to protect the corrected deformity and to provide internal fixation until fusion occurs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Spinal fusion has been used widely since it was first described by Hibbs (1) and Albee (2) . Although many types of grafting have been reported in the literature to obtain sufficient fusion, the most commonly adopted ones because of successful efficiency include the use of autogenous iliac crest graft and allograft (3) (4) (5) (6) . Although many studies related to the successful and unsuccessful aspects of these grafting techniques have been conducted, there have been few studies related to the use of local autograft as a grafting technique and its efficiency (4, 5) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Spinal fusion has been used widely since it was first described by Hibbs (1) and Albee (2) .",
+            "Although many types of grafting have been reported in the literature to obtain sufficient fusion, the most commonly adopted ones because of successful efficiency include the use of autogenous iliac crest graft and allograft (3) (4) (5) (6) .",
+            "Although many studies related to the successful and unsuccessful aspects of these grafting techniques have been conducted, there have been few studies related to the use of local autograft as a grafting technique and its efficiency (4, 5) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "This study was performed to show the efficacy of in situ local autograft in adolescent idiopathic scoliosis surgery by comparing this method with the other grafting methods. the order of presentation at our clinic without using any descriptive or differentiation criteria.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "This study was performed to show the efficacy of in situ local autograft in adolescent idiopathic scoliosis surgery by comparing this method with the other grafting methods.",
+            "the order of presentation at our clinic without using any descriptive or differentiation criteria."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Preoperative standing posterior-anterior and lateral radiographs and right and left side bending radiographs in the supine position were obtained. The curves were evaluated using the Lenke classification. The iliac apophyses were graded according to the Risser classification using the posterior-anterior radiographs. The patients were invited for outpatient visits in the postoperative period after 45 days and after 3, 6, 12, and 24 months and were evaluated clinically and radiologically. At all visits, the complaint of pain in the vertebral column was evaluated clinically and loss of correction, implant failure, fusion, and pseudarthrosis were examined radiologically on posterioranterior and lateral radiographs obtained in the standing position. Cobb angle measurement was made using the postoperative radiographs and this was compared with the Cobb angles measured at the final follow-up visit. A loss of correction of >10\u00b0 in these measurements was considered pseudarthrosis (7, 8) .",
+        "section": "Data analysis",
+        "section_number": 4,
+        "sentences": [
+            "Preoperative standing posterior-anterior and lateral radiographs and right and left side bending radiographs in the supine position were obtained.",
+            "The curves were evaluated using the Lenke classification.",
+            "The iliac apophyses were graded according to the Risser classification using the posterior-anterior radiographs.",
+            "The patients were invited for outpatient visits in the postoperative period after 45 days and after 3, 6, 12, and 24 months and were evaluated clinically and radiologically.",
+            "At all visits, the complaint of pain in the vertebral column was evaluated clinically and loss of correction, implant failure, fusion, and pseudarthrosis were examined radiologically on posterioranterior and lateral radiographs obtained in the standing position.",
+            "Cobb angle measurement was made using the postoperative radiographs and this was compared with the Cobb angles measured at the final follow-up visit.",
+            "A loss of correction of >10\u00b0 in these measurements was considered pseudarthrosis (7, 8) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "At the follow-up visit in the first year, pseudarthrosis was evaluated using multiplanar and three-dimensional images obtained by multislice computed tomography (MSCT), thoracolumbar bone single-photon emission computed tomography (SPECT), and three-phase regional and whole body bone scintigraphy.",
+        "section": "Data analysis",
+        "section_number": 5,
+        "sentences": [
+            "At the follow-up visit in the first year, pseudarthrosis was evaluated using multiplanar and three-dimensional images obtained by multislice computed tomography (MSCT), thoracolumbar bone single-photon emission computed tomography (SPECT), and three-phase regional and whole body bone scintigraphy."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "The CT images were obtained in the axial plane without intravenous contrast injection using a 65-section CT device (Aquilion 64, Toshiba Medical Systems, Tochigi, Japan) with 0.5 section thickness. The images were transferred to the Workstation (Vitrea 2 workstation, Vital Images Inc., Plymouth, MN, USA) and axial based images, coronal, sagittal, and oblique multiplanar reformated images and three-dimensionally reconstructed images were evaluated together.",
+        "section": "Data analysis",
+        "section_number": 6,
+        "sentences": [
+            "The CT images were obtained in the axial plane without intravenous contrast injection using a 65-section CT device (Aquilion 64, Toshiba Medical Systems, Tochigi, Japan) with 0.5 section thickness.",
+            "The images were transferred to the Workstation (Vitrea 2 workstation, Vital Images Inc., Plymouth, MN, USA) and axial based images, coronal, sagittal, and oblique multiplanar reformated images and three-dimensionally reconstructed images were evaluated together."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "When evaluating pseudarthrosis on the CT images, the presence of trabecular bone bridging between the facet joint and adjacent vertebral corpi and continuance of the posterior fusion mass were noted.",
+        "section": "Data analysis",
+        "section_number": 7,
+        "sentences": [
+            "When evaluating pseudarthrosis on the CT images, the presence of trabecular bone bridging between the facet joint and adjacent vertebral corpi and continuance of the posterior fusion mass were noted."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Tc-99m HDP was administered intravenously at a dosage of 9.3 MBq/kg (0.25 mCi/kg) under a large field-of-view gamma camera [General Electric (GE) Millennium MG gamma camera, USA] adjusted to 140 keV \u00b1 20 gamma rays and equipped with a low-energy all-purpose collimator. Dynamic perfusion imaging of the thoracolumbar operation region was acquired in 2 s/fr for 2 min using a matrix size 64 \u00d7 64 in the supine position. After the dynamic perfusion phase, blood pool imaging was performed using a matrix size of 128 \u00d7 128 for 2 min. Three hours after the injection, whole body (256 \u00d7 1024 matrix, 18 cm/min scan rate) and delayed static images (256 \u00d7 256 matrix, 1000 kcounts) were obtained.",
+        "section": "Data analysis",
+        "section_number": 8,
+        "sentences": [
+            "Tc-99m HDP was administered intravenously at a dosage of 9.3 MBq/kg (0.25 mCi/kg) under a large field-of-view gamma camera [General Electric (GE) Millennium MG gamma camera, USA] adjusted to 140 keV \u00b1 20 gamma rays and equipped with a low-energy all-purpose collimator.",
+            "Dynamic perfusion imaging of the thoracolumbar operation region was acquired in 2 s/fr for 2 min using a matrix size 64 \u00d7 64 in the supine position.",
+            "After the dynamic perfusion phase, blood pool imaging was performed using a matrix size of 128 \u00d7 128 for 2 min.",
+            "Three hours after the injection, whole body (256 \u00d7 1024 matrix, 18 cm/min scan rate) and delayed static images (256 \u00d7 256 matrix, 1000 kcounts) were obtained."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "After static images, SPECT imaging was performed using a matrix size of 64 \u00d7 64, each of 40 s for a total of 60 images in 360\u00b0 rotation from the operation area. In the evaluation of the scintigraphic images, normal radioactivity accumulation in bones was accepted as fusion. Focal increased radioactivity accumulation in the operation sites was accepted as pseudarthrosis.",
+        "section": "Data analysis",
+        "section_number": 9,
+        "sentences": [
+            "After static images, SPECT imaging was performed using a matrix size of 64 \u00d7 64, each of 40 s for a total of 60 images in 360\u00b0 rotation from the operation area.",
+            "In the evaluation of the scintigraphic images, normal radioactivity accumulation in bones was accepted as fusion.",
+            "Focal increased radioactivity accumulation in the operation sites was accepted as pseudarthrosis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Posterior segmental instrumentation and fusion were performed between the levels defined by way of preoperative planning in all patients. The posterior spinal system of Tasar\u0131mmed Medikal (Turkey) was used in all patients. A hook was used together with pedicle screws in 2 patients, whereas pedicle screws only were used in all the other patients.",
+        "section": "Surgical technique",
+        "section_number": 10,
+        "sentences": [
+            "Posterior segmental instrumentation and fusion were performed between the levels defined by way of preoperative planning in all patients.",
+            "The posterior spinal system of Tasar\u0131mmed Medikal (Turkey) was used in all patients.",
+            "A hook was used together with pedicle screws in 2 patients, whereas pedicle screws only were used in all the other patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "The spinal processes were reached by crossing the skin, subcutaneous tissue, and fascia with a standard posterior middle line incision. The paraspinal muscles were separated from the bone with subperiostal dissection holding to the bone. Facet joints, transverse processes, laminae, and spinous processes were exposed. Segmental fixation was attempted in such a way that at least two pedicle or reduction screws were placed in the upper and lower levels on the convex side and at all levels on the concave side of the curve. Correction was performed with two rods. The spinous processes that remained inside the fusion area were excised and a local graft was made from these by dividing them into small pieces after cleaning off the soft tissues. After stripping the soft tissues in the surgical area, posterior decortication and facetectomy was performed.",
+        "section": "Surgical technique",
+        "section_number": 11,
+        "sentences": [
+            "The spinal processes were reached by crossing the skin, subcutaneous tissue, and fascia with a standard posterior middle line incision.",
+            "The paraspinal muscles were separated from the bone with subperiostal dissection holding to the bone.",
+            "Facet joints, transverse processes, laminae, and spinous processes were exposed.",
+            "Segmental fixation was attempted in such a way that at least two pedicle or reduction screws were placed in the upper and lower levels on the convex side and at all levels on the concave side of the curve.",
+            "Correction was performed with two rods.",
+            "The spinous processes that remained inside the fusion area were excised and a local graft was made from these by dividing them into small pieces after cleaning off the soft tissues.",
+            "After stripping the soft tissues in the surgical area, posterior decortication and facetectomy was performed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "A 60 cc cancellous allograft (TBI/Tissue Banks International, USA; Allograft Innovations, USA; LifeNet Health, USA; BMT Calsis, Turkey) together with local graft was applied to the patients in Group 1, only local graft was applied to the patients in Group 2, and autograft obtained from the posterior iliac crest together with local graft was applied to the patients in Group 3. Graft from the posterior iliac crest was obtained by vertical incision above the iliac crest without passing 8 cm lateral to the posterior superior iliac process in order not to harm the superior cluneal nerves (9) . In this group, the left posterior iliac wing of each patient was defined as the autograft source and 30 cc autograft was obtained from each patient and used.",
+        "section": "Surgical technique",
+        "section_number": 12,
+        "sentences": [
+            "A 60 cc cancellous allograft (TBI/Tissue Banks International, USA; Allograft Innovations, USA; LifeNet Health, USA; BMT Calsis, Turkey) together with local graft was applied to the patients in Group 1, only local graft was applied to the patients in Group 2, and autograft obtained from the posterior iliac crest together with local graft was applied to the patients in Group 3.",
+            "Graft from the posterior iliac crest was obtained by vertical incision above the iliac crest without passing 8 cm lateral to the posterior superior iliac process in order not to harm the superior cluneal nerves (9) .",
+            "In this group, the left posterior iliac wing of each patient was defined as the autograft source and 30 cc autograft was obtained from each patient and used."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "All operations were performed by the same surgeon. No orthosis was used in any patient in the postoperative period. The patients were mobilized on postoperative day 1.",
+        "section": "Surgical technique",
+        "section_number": 13,
+        "sentences": [
+            "All operations were performed by the same surgeon.",
+            "No orthosis was used in any patient in the postoperative period.",
+            "The patients were mobilized on postoperative day 1."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Of the 65 AIS patients operated on between 2009 and 2011, 47 (72%) were female and 18 (28%) were male, with a mean age at the time of surgery of 14 years, 7 months (range, 11 years 1 month-17 years 11 months). The mean age of females was 14 years, 2 months (range, 11 years 1 month-17 years 11 months) and the mean age of the males was 15 years, 8 months (range, 13 years-17 years 5 months).",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Of the 65 AIS patients operated on between 2009 and 2011, 47 (72%) were female and 18 (28%) were male, with a mean age at the time of surgery of 14 years, 7 months (range, 11 years 1 month-17 years 11 months).",
+            "The mean age of females was 14 years, 2 months (range, 11 years 1 month-17 years 11 months) and the mean age of the males was 15 years, 8 months (range, 13 years-17 years 5 months)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "The mean follow-up period was 28.5 months (range, 15-40 months) and as Groups 1, 2, and 3, the mean followup periods were 37.4 months (range, 33-40 months), 27.8 months (range, 25-33 months), and 20.5 months (range, 15-27 months), respectively.",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "The mean follow-up period was 28.5 months (range, 15-40 months) and as Groups 1, 2, and 3, the mean followup periods were 37.4 months (range, 33-40 months), 27.8 months (range, 25-33 months), and 20.5 months (range, 15-27 months), respectively."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "On radiological evaluation, the curve types were assessed using the Lenke classification and the Risser sign was used in the radiological evaluation of maturity (Tables 1-3) .",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "On radiological evaluation, the curve types were assessed using the Lenke classification and the Risser sign was used in the radiological evaluation of maturity (Tables 1-3) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "A mean amount of 25 cc (range, 20-30 cc) in situ local graft was obtained intraoperatively from all patients included in the study.",
+        "section": "Results",
+        "section_number": 17,
+        "sentences": [
+            "A mean amount of 25 cc (range, 20-30 cc) in situ local graft was obtained intraoperatively from all patients included in the study."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "On clinical evaluation of maturity, it was observed that secondary sex characteristics were developed in all subjects. Menarche had started before the operation in 37 (78.72%) of the 47 female patients; in Group 1 in 11 (78.57%) of the 14 female patients, in Group 2 in 15 (88.24%) of 17, and in Group 3 in 11 (68.75%) of 16. In all patients in Group 3, left posterior iliac crest pain was determined, which continued up to postoperative 1 year on average. This was considered to be related to the graft obtained from the iliac crest.",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "On clinical evaluation of maturity, it was observed that secondary sex characteristics were developed in all subjects.",
+            "Menarche had started before the operation in 37 (78.72%) of the 47 female patients; in Group 1 in 11 (78.57%) of the 14 female patients, in Group 2 in 15 (88.24%) of 17, and in Group 3 in 11 (68.75%) of 16.",
+            "In all patients in Group 3, left posterior iliac crest pain was determined, which continued up to postoperative 1 year on average.",
+            "This was considered to be related to the graft obtained from the iliac crest."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In Group 1, decompensation developed distal to the instrumentation, which was terminated in the 2nd lumbar vertebra in the postoperative first year and reoperation was performed in 1 patient. In another patient, proximal residual cervical scoliosis was found in the postoperative 4th month and resection surgery was performed. Reoperation was performed because of migration of the No neurological deficit was determined in any patient in the postoperative follow-up period.",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "In Group 1, decompensation developed distal to the instrumentation, which was terminated in the 2nd lumbar vertebra in the postoperative first year and reoperation was performed in 1 patient.",
+            "In another patient, proximal residual cervical scoliosis was found in the postoperative 4th month and resection surgery was performed.",
+            "Reoperation was performed because of migration of the No neurological deficit was determined in any patient in the postoperative follow-up period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "At the outpatient follow-up visits, no evidence suggesting pseudarthrosis was found in any patient on clinical examination, on direct radiographs, on CT images, or on scintigraphy. It was concluded that fusion was achieved in all patients.",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "At the outpatient follow-up visits, no evidence suggesting pseudarthrosis was found in any patient on clinical examination, on direct radiographs, on CT images, or on scintigraphy.",
+            "It was concluded that fusion was achieved in all patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In 1958, Moe (10) used bone graft obtained from the iliac crest together with facet excision to increase the rate of fusion. Iliac crest bone graft has been used as the gold standard in spinal fusion for many years because of its osteoinductive, osteoconductive, and osteogenic properties (3). However, many disadvantages including hemorrhage, neurological damage, gait disturbance, fracture, painful scar, cosmetic defects, prolongation of the operation time, and insufficient amount of graft have been reported in the literature (3, 4, (11) (12) (13) . Major complications have been reported at a rate of 10% and minor complications at a rate of 39% of patients where iliac crest graft has been obtained (3, 11) . The most commonly reported complication (29%) following iliac crest graft is donor site pain (3, 12) . In the patients of Group 3 of the current study, where posterior iliac crest graft was used, left posterior iliac crest pain was observed for up to an average of 1 year postoperatively.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "In 1958, Moe (10) used bone graft obtained from the iliac crest together with facet excision to increase the rate of fusion.",
+            "Iliac crest bone graft has been used as the gold standard in spinal fusion for many years because of its osteoinductive, osteoconductive, and osteogenic properties (3).",
+            "However, many disadvantages including hemorrhage, neurological damage, gait disturbance, fracture, painful scar, cosmetic defects, prolongation of the operation time, and insufficient amount of graft have been reported in the literature (3, 4, (11) (12) (13) .",
+            "Major complications have been reported at a rate of 10% and minor complications at a rate of 39% of patients where iliac crest graft has been obtained (3, 11) .",
+            "The most commonly reported complication (29%) following iliac crest graft is donor site pain (3, 12) .",
+            "In the patients of Group 3 of the current study, where posterior iliac crest graft was used, left posterior iliac crest pain was observed for up to an average of 1 year postoperatively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Many authors have reported that allograft might be an alternative to autogenous grafting in idiopathic scoliosis surgery in adolescents because of morbidity and complications related to grafts obtained from the iliac crest (3, 4, (14) (15) (16) (17) (18) . Since allografts lose all their living and important cells during sterilization, they are not osteogenic. However, they are weakly osteoinductive. In many studies related to adult spinal fusion, low fusion rates have been reported especially with the use of allografts alone (3, (19) (20) (21) . Currently, allografts are available in many forms, sizes, and types including fresh and fresh frozen allograft, freezedried cancellous, or cortical bone (3) . Allograft bones may be prepared with many methods including sterilization, radiation, or ethylene oxidation (3, (22) (23) (24) (25) . The risk of transmission of diseases is another disadvantage that has been reported in the literature (25, 26) . Pseudarthrosis occurs when spinal fusion is unsuccessful (27) . It is manifested with pain in the surgery area in the months and years after the first operation (27) . The diagnosis is made clinically and radiologically after excluding the other causes of pain (27) . In the current study, no pain exceeding the postoperative first year was observed in any patients when all the groups were evaluated separately.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Many authors have reported that allograft might be an alternative to autogenous grafting in idiopathic scoliosis surgery in adolescents because of morbidity and complications related to grafts obtained from the iliac crest (3, 4, (14) (15) (16) (17) (18) .",
+            "Since allografts lose all their living and important cells during sterilization, they are not osteogenic.",
+            "However, they are weakly osteoinductive.",
+            "In many studies related to adult spinal fusion, low fusion rates have been reported especially with the use of allografts alone (3, (19) (20) (21) .",
+            "Currently, allografts are available in many forms, sizes, and types including fresh and fresh frozen allograft, freezedried cancellous, or cortical bone (3) .",
+            "Allograft bones may be prepared with many methods including sterilization, radiation, or ethylene oxidation (3, (22) (23) (24) (25) .",
+            "The risk of transmission of diseases is another disadvantage that has been reported in the literature (25, 26) .",
+            "Pseudarthrosis occurs when spinal fusion is unsuccessful (27) .",
+            "It is manifested with pain in the surgery area in the months and years after the first operation (27) .",
+            "The diagnosis is made clinically and radiologically after excluding the other causes of pain (27) .",
+            "In the current study, no pain exceeding the postoperative first year was observed in any patients when all the groups were evaluated separately."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In fusion surgery, a definite diagnosis of pseudarthrosis is made with difficulty. Loss of correction, implant failure, and radiographic nonunion are indicators of proven actual or potential pseudarthrosis (3, 15, (28) (29) (30) (31) (32) . Some authors have reported that loss of correction of >10\u00b0 on standard static posterior-anterior and lateral radiographs indicates probable pseudarthrosis (3, 15, (28) (29) (30) . Rapid integration of the graft with the bone can be considered to reduce loss of correction and loss of correction of 10\u00b0 could indicate possible delayed healing or pseudarthrosis. The value of 10\u00b0 was selected because of erroneous deviations of the Cobb method in scoliosis measurements. Interobserver error has been reported to range between 2.5\u00b0 and 4.5\u00b0 (3, 33) . Therefore, a difference of >10\u00b0 between the measurements indicates that this is a change in favor of pseudarthrosis with 95% reliability (33) .",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "In fusion surgery, a definite diagnosis of pseudarthrosis is made with difficulty.",
+            "Loss of correction, implant failure, and radiographic nonunion are indicators of proven actual or potential pseudarthrosis (3, 15, (28) (29) (30) (31) (32) .",
+            "Some authors have reported that loss of correction of >10\u00b0 on standard static posterior-anterior and lateral radiographs indicates probable pseudarthrosis (3, 15, (28) (29) (30) .",
+            "Rapid integration of the graft with the bone can be considered to reduce loss of correction and loss of correction of 10\u00b0 could indicate possible delayed healing or pseudarthrosis.",
+            "The value of 10\u00b0 was selected because of erroneous deviations of the Cobb method in scoliosis measurements.",
+            "Interobserver error has been reported to range between 2.5\u00b0 and 4.5\u00b0 (3, 33) .",
+            "Therefore, a difference of >10\u00b0 between the measurements indicates that this is a change in favor of pseudarthrosis with 95% reliability (33) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In the current study, no loss of correction of >4\u00b0 developed in any patient according to the radiographic monitoring. Historically, the definite diagnosis of spinal fusion is made with open exploration (34) (35) (36) . However, many noninvasive visualization techniques have been reported, because the clinical feasibility of open exploration is limited (27, 34) . In addition to standard radiographic assessments, CT and bone scintigraphy are two of the methods used.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "In the current study, no loss of correction of >4\u00b0 developed in any patient according to the radiographic monitoring.",
+            "Historically, the definite diagnosis of spinal fusion is made with open exploration (34) (35) (36) .",
+            "However, many noninvasive visualization techniques have been reported, because the clinical feasibility of open exploration is limited (27, 34) .",
+            "In addition to standard radiographic assessments, CT and bone scintigraphy are two of the methods used."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Compared to the other imaging methods, CT provides a clear advantage because bridging trabecular bone, which is the basic finding of arthrodesis, can be seen in detail (34) . Owing to advances in CT technology, evaluation of the fusion mass has improved further with multiplanar reconstruction, artefact reduction, and sections with a thickness of 0.5-1 mm (34, (37) (38) (39) . Due to these characteristics, CT is currently the most widely accepted standard imaging method in noninvasive evaluation of spinal fusion (27, 34) .",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Compared to the other imaging methods, CT provides a clear advantage because bridging trabecular bone, which is the basic finding of arthrodesis, can be seen in detail (34) .",
+            "Owing to advances in CT technology, evaluation of the fusion mass has improved further with multiplanar reconstruction, artefact reduction, and sections with a thickness of 0.5-1 mm (34, (37) (38) (39) .",
+            "Due to these characteristics, CT is currently the most widely accepted standard imaging method in noninvasive evaluation of spinal fusion (27, 34) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Bone scintigraphy is a beneficial method because it is not affected by metallic fixation devices and shows specific bone lesions including pseudarthrosis in fusion (40) . A normal bone scintigraphy measurement is very valuable, because it excludes bone-based lesions including pseudarthrosis (40) .",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Bone scintigraphy is a beneficial method because it is not affected by metallic fixation devices and shows specific bone lesions including pseudarthrosis in fusion (40) .",
+            "A normal bone scintigraphy measurement is very valuable, because it excludes bone-based lesions including pseudarthrosis (40) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In the current study, pseudarthrosis had to be investigated in detail in all subjects to demonstrate local graft efficiency. Therefore, several imaging methods were used. Pseudarthrosis was evaluated by correlating the data obtained by radiography, CT, and bone scintigraphy with the clinical picture. In the light of all these evaluations, it was determined that pseudarthrosis did not develop in any of the subjects. Although the mean follow-up period was 27.8 months (range, 25-33 months) in Group 2 where only local graft was used a longer follow-up period is needed to confirm the success of this grafting method.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "In the current study, pseudarthrosis had to be investigated in detail in all subjects to demonstrate local graft efficiency.",
+            "Therefore, several imaging methods were used.",
+            "Pseudarthrosis was evaluated by correlating the data obtained by radiography, CT, and bone scintigraphy with the clinical picture.",
+            "In the light of all these evaluations, it was determined that pseudarthrosis did not develop in any of the subjects.",
+            "Although the mean follow-up period was 27.8 months (range, 25-33 months) in Group 2 where only local graft was used a longer follow-up period is needed to confirm the success of this grafting method."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "Rates of pseudarthrosis regressed to 0%-3% after the development of segmental fixation independent of the use of allograft or autograft bone (3, 14, 41, 42) . Posterior segmental instrumentation can also be considered to have contributed to the successful results obtained in this study.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Rates of pseudarthrosis regressed to 0%-3% after the development of segmental fixation independent of the use of allograft or autograft bone (3, 14, 41, 42) .",
+            "Posterior segmental instrumentation can also be considered to have contributed to the successful results obtained in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "As in the current study patient who developed decompensation, Bridwell et al. drew attention to incorrect selection of the fusion level as the cause of decompensation and reported that the level at which fusion would be terminated in the distal part was especially important. Accordingly, it was recommended that fusion be terminated at the vertebra with a neutral position above the disc space that had maximum mobility on bending radiographs (43) .",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "As in the current study patient who developed decompensation, Bridwell et al. drew attention to incorrect selection of the fusion level as the cause of decompensation and reported that the level at which fusion would be terminated in the distal part was especially important.",
+            "Accordingly, it was recommended that fusion be terminated at the vertebra with a neutral position above the disc space that had maximum mobility on bending radiographs (43) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "From a scan of the literature, very few publications were found related to the use of in situ local graft in spinal fusions. The most important reason for this can be considered to be related to the thought that the amount of local graft is small. However, in the current study, an average amount of 25 cc (range, 20-30 cc) local graft was applied to each patient in all the groups including the patients where only local graft was used. The success of the use of in situ local graft can be considered to have been obtained by a stable instrumentation system combined with a favorable subperiostal dissection, complete stripping of soft tissues from the bone in the fusion area, and successful posterior decortication and facetectomy (4) .",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "From a scan of the literature, very few publications were found related to the use of in situ local graft in spinal fusions.",
+            "The most important reason for this can be considered to be related to the thought that the amount of local graft is small.",
+            "However, in the current study, an average amount of 25 cc (range, 20-30 cc) local graft was applied to each patient in all the groups including the patients where only local graft was used.",
+            "The success of the use of in situ local graft can be considered to have been obtained by a stable instrumentation system combined with a favorable subperiostal dissection, complete stripping of soft tissues from the bone in the fusion area, and successful posterior decortication and facetectomy (4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "There are also some limitations in this study. The number of patients in each group and the follow-up periods could be increased. Moreover, the other allograft types could be used besides cancellous allograft use in this study.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "There are also some limitations in this study.",
+            "The number of patients in each group and the follow-up periods could be increased.",
+            "Moreover, the other allograft types could be used besides cancellous allograft use in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33776",
+        "text": "In spite of the limitations of this study, it can be said that using only local graft to achieve fusion in adolescent idiopathic scoliosis surgery gives results similar to the use of allograft or iliac crest graft. Therefore, sufficient fusion can be achieved with the use of only local graft in adolescents with idiopathic scoliosis for whom posterior spinal fusion is planned.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "In spite of the limitations of this study, it can be said that using only local graft to achieve fusion in adolescent idiopathic scoliosis surgery gives results similar to the use of allograft or iliac crest graft.",
+            "Therefore, sufficient fusion can be achieved with the use of only local graft in adolescents with idiopathic scoliosis for whom posterior spinal fusion is planned."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

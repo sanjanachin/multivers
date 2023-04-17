@@ -1,0 +1,905 @@
+[
+    {
+        "doc_id": "33681",
+        "text": "Objective: To evaluate the tolerability, safety, and preliminary efficacy of extended-release guanfacine in children with chronic tic disorders, including Tourette's disorder (collectively referred to as CTD). Methods: This was a multisite, 8-week, randomized, double-blind, placebo-controlled trial. The primary outcome measure was the Yale Global Tic Severity Scale (YGTSS) total score. Key secondary outcomes included the Improvement item of Clinical Global Impressions-Improvement (CGI-I) scale and the Tic Symptom Self-report (TSSR). Adverse events were monitored at each visit. Results: Thirty-four subjects (23 boys and 11 girls) of ages 6 to 17 years (mean = 11.1-3.1) with CTD were randomly assigned to extended-release guanfacine (n = 16) or placebo (n = 18). At baseline, the mean YGTSS total score was 26.3-6.6 for the guanfacine group versus 27.7-8.7 for the placebo group. Within the guanfacine group (mean final daily dose of 2.6-1.1 mg, n = 14), the mean YGTSS total score declined to 23.6-6.42 [t(15) = 1.84, p = 0.08; effect size = 0.35]. The results were similar in the placebo group with a score of 24.7-10.54 at week 8 [t(17) = 1.83, p = 0.08; effect size = 0.38]. There was no significant difference in the rate of positive response on the CGI-I between the guanfacine group and placebo (19% [3/ 16] vs. 22% [4/18], p = 1.0). The most common adverse events were fatigue, drowsiness, dry mouth, headache, and irritability. Two subjects in the guanfacine group discontinued early-one because of an adverse event (depressed mood) and one because of lack of efficacy; two subjects in the placebo group discontinued because of lack of efficacy. Conclusions: This pilot study did not confirm a clinically meaningful effect size within the guanfacine group. These results do not support the launch of a larger efficacy trial for tics in children and adolescents with CTD.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: To evaluate the tolerability, safety, and preliminary efficacy of extended-release guanfacine in children with chronic tic disorders, including Tourette's disorder (collectively referred to as CTD).",
+            "Methods: This was a multisite, 8-week, randomized, double-blind, placebo-controlled trial.",
+            "The primary outcome measure was the Yale Global Tic Severity Scale (YGTSS) total score.",
+            "Key secondary outcomes included the Improvement item of Clinical Global Impressions-Improvement (CGI-I) scale and the Tic Symptom Self-report (TSSR).",
+            "Adverse events were monitored at each visit.",
+            "Results: Thirty-four subjects (23 boys and 11 girls) of ages 6 to 17 years (mean = 11.1-3.1) with CTD were randomly assigned to extended-release guanfacine (n = 16) or placebo (n = 18).",
+            "At baseline, the mean YGTSS total score was 26.3-6.6 for the guanfacine group versus 27.7-8.7 for the placebo group.",
+            "Within the guanfacine group (mean final daily dose of 2.6-1.1 mg, n = 14), the mean YGTSS total score declined to 23.6-6.42 [t(15) = 1.84, p = 0.08; effect size = 0.35].",
+            "The results were similar in the placebo group with a score of 24.7-10.54 at week 8 [t(17) = 1.83, p = 0.08; effect size = 0.38].",
+            "There was no significant difference in the rate of positive response on the CGI-I between the guanfacine group and placebo (19% [3/ 16] vs. 22% [4/18], p = 1.0).",
+            "The most common adverse events were fatigue, drowsiness, dry mouth, headache, and irritability.",
+            "Two subjects in the guanfacine group discontinued early-one because of an adverse event (depressed mood) and one because of lack of efficacy; two subjects in the placebo group discontinued because of lack of efficacy.",
+            "Conclusions: This pilot study did not confirm a clinically meaningful effect size within the guanfacine group.",
+            "These results do not support the launch of a larger efficacy trial for tics in children and adolescents with CTD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "C hronic tic disorders, including Tourette's disorder (col- lectively referred to as CTD), are neurodevelopmental disorders characterized by childhood onset of multiple motor and/or vocal tics for at least 1 year (American Psychiatric Association 2013). Although transient tics are relatively common in childhood, CTDs affect as many as 14 per 1000 school-age children. In clinical and community samples, children with CTD have a high rate of cooccurring conditions such as attention-deficit/hyperactivity disor-der (ADHD), obsessive compulsive disorder (OCD), and anxiety disorders (Freeman et al. 2000; Khalifa and Von Knorring 2006; Specht et al. 2011; Lebowitz et al. 2012; Murphy et al. 2013) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "C hronic tic disorders, including Tourette's disorder (col- lectively referred to as CTD), are neurodevelopmental disorders characterized by childhood onset of multiple motor and/or vocal tics for at least 1 year (American Psychiatric Association 2013).",
+            "Although transient tics are relatively common in childhood, CTDs affect as many as 14 per 1000 school-age children.",
+            "In clinical and community samples, children with CTD have a high rate of cooccurring conditions such as attention-deficit/hyperactivity disor-der (ADHD), obsessive compulsive disorder (OCD), and anxiety disorders (Freeman et al. 2000; Khalifa and Von Knorring 2006; Specht et al. 2011; Lebowitz et al. 2012; Murphy et al. 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Alpha-2 agonists, including guanfacine and clonidine, are commonly used off-label as first-line pharmacological treatments for CTD because of their favorable side effect profile compared with antipsychotics, and their effectiveness in treating comorbid ADHD (Connor et al. 1999; Bloch et al. 2009) . Clonidine was the first agent in this class of antihypertensive drugs to be used in treatment of children with CTDs. Interest in guanfacine emerged after a series of preclinical studies, suggesting that the alpha agonist effects were more specific than clonidine (Arnsten and Pliszka 2011) . In addition, studies in humans suggested that it was less sedating (Sorkin and Heel 1986) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Alpha-2 agonists, including guanfacine and clonidine, are commonly used off-label as first-line pharmacological treatments for CTD because of their favorable side effect profile compared with antipsychotics, and their effectiveness in treating comorbid ADHD (Connor et al. 1999; Bloch et al. 2009) .",
+            "Clonidine was the first agent in this class of antihypertensive drugs to be used in treatment of children with CTDs.",
+            "Interest in guanfacine emerged after a series of preclinical studies, suggesting that the alpha agonist effects were more specific than clonidine (Arnsten and Pliszka 2011) .",
+            "In addition, studies in humans suggested that it was less sedating (Sorkin and Heel 1986) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "To date, two randomized placebo-controlled trials of immediaterelease guanfacine, involving a total of 58 subjects with CTDs, have been reported (Scahill et al. 2001; Cummings et al. 2002) . Scahill et al. , focusing on treatment of tics, found that guanfacine was ''associated with a 31% drop in the total tic score of the Yale Global Tic Severity Scale (YGTSS) compared with 0% improvement in the placebo group (t = 2.02, df = 30, p = 0.05).'' Note, however, that only subjects with mild tic severity at baseline were included in the Scahill study; moderate-to-severe tics at baseline (YGTSS >22) were exclusionary. In contrast, Cummings et al. investigated treatment of neuropsychological dysfunction in children with CTDs, rather than treatment of tics specifically. Although the Cummings study did track tic severity, it found ''no significant improvements with guanfacine treatment in tic severity on any of the YGTSSs for the 4-week trial.''",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "To date, two randomized placebo-controlled trials of immediaterelease guanfacine, involving a total of 58 subjects with CTDs, have been reported (Scahill et al. 2001; Cummings et al. 2002) .",
+            "Scahill et al. , focusing on treatment of tics, found that guanfacine was ''associated with a 31% drop in the total tic score of the Yale Global Tic Severity Scale (YGTSS) compared with 0% improvement in the placebo group (t = 2.02, df = 30, p = 0.05).''",
+            "Note, however, that only subjects with mild tic severity at baseline were included in the Scahill study; moderate-to-severe tics at baseline (YGTSS >22) were exclusionary.",
+            "In contrast, Cummings et al. investigated treatment of neuropsychological dysfunction in children with CTDs, rather than treatment of tics specifically.",
+            "Although the Cummings study did track tic severity, it found ''no significant improvements with guanfacine treatment in tic severity on any of the YGTSSs for the 4-week trial.''"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Results of meta-analyses of available randomized, placebocontrolled trials of the alpha-2 agonists indicate an overall modest but significant benefit for treatment of ADHD in children with CTDs (Bloch et al. 2009; Weisman et al. 2013) .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Results of meta-analyses of available randomized, placebocontrolled trials of the alpha-2 agonists indicate an overall modest but significant benefit for treatment of ADHD in children with CTDs (Bloch et al. 2009; Weisman et al. 2013) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Extended-release guanfacine is an FDA-approved treatment of ADHD in children and adolescents (age 6-17 years), but has not been evaluated in youth with tic disorders. Although immediaterelease guanfacine is a frequently used off-label in children with CTD, dosing, time to effect, and adverse effects of the extendedrelease formulation are unknown. The purpose of this pilot study was to learn more about the safety, tolerability, and preliminary efficacy of extended-release guanfacine in children with CTDs to ascertain whether a larger study is warranted.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Extended-release guanfacine is an FDA-approved treatment of ADHD in children and adolescents (age 6-17 years), but has not been evaluated in youth with tic disorders.",
+            "Although immediaterelease guanfacine is a frequently used off-label in children with CTD, dosing, time to effect, and adverse effects of the extendedrelease formulation are unknown.",
+            "The purpose of this pilot study was to learn more about the safety, tolerability, and preliminary efficacy of extended-release guanfacine in children with CTDs to ascertain whether a larger study is warranted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "This was an 8-week, multisite, randomized, double-blind, and placebo-controlled parallel group study. After screening, subjects who met enrollment criteria returned for the baseline assessment and were randomized 1:1 within site to guanfacine or placebo using permuted blocks with allocation concealed to investigators.",
+        "section": "Design",
+        "section_number": 6,
+        "sentences": [
+            "This was an 8-week, multisite, randomized, double-blind, and placebo-controlled parallel group study.",
+            "After screening, subjects who met enrollment criteria returned for the baseline assessment and were randomized 1:1 within site to guanfacine or placebo using permuted blocks with allocation concealed to investigators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The study was approved by the Institutional Review Boards at each site: the University of South Florida Rothman Center for Pediatric Neuropsychiatry (n = 16), the Tic Disorders Clinic at Yale Child Study Center (n = 10), and the Tics and Tourette's Clinical and Research Program at the Icahn School at Mount Sinai (n = 8). Before collecting any study data, written informed consent and assent were obtained from parents and participants. An external data, safety, and monitoring board reviewed safety, enrollment, and attrition three times per year.",
+        "section": "Subjects",
+        "section_number": 7,
+        "sentences": [
+            "The study was approved by the Institutional Review Boards at each site: the University of South Florida Rothman Center for Pediatric Neuropsychiatry (n = 16), the Tic Disorders Clinic at Yale Child Study Center (n = 10), and the Tics and Tourette's Clinical and Research Program at the Icahn School at Mount Sinai (n = 8).",
+            "Before collecting any study data, written informed consent and assent were obtained from parents and participants.",
+            "An external data, safety, and monitoring board reviewed safety, enrollment, and attrition three times per year."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The coordinating center (Yale University) conducted semiannual site visits and managed study data. On site visits, Yale inspected paper records (parent questionnaires, clinician evaluations, etc.) for data completeness, required signatures, and appropriate documentation of any alterations to information. Yale also compared the data on paper records with the corresponding data entered into the study database and reviewed informed consent documentation. In addition, Yale evaluated each site's pharmacy and conducted audits of blinded medication bottles and documentation of medication dispensation. For study data, Yale performed quality assurance assessments on information entered into the study database, evaluated whether inclusion/exclusion criteria had been met for each subject, and ensured that documentation of appropriate licensure/training of study personnel was complete.",
+        "section": "Subjects",
+        "section_number": 8,
+        "sentences": [
+            "The coordinating center (Yale University) conducted semiannual site visits and managed study data.",
+            "On site visits, Yale inspected paper records (parent questionnaires, clinician evaluations, etc.)",
+            "for data completeness, required signatures, and appropriate documentation of any alterations to information.",
+            "Yale also compared the data on paper records with the corresponding data entered into the study database and reviewed informed consent documentation.",
+            "In addition, Yale evaluated each site's pharmacy and conducted audits of blinded medication bottles and documentation of medication dispensation.",
+            "For study data, Yale performed quality assurance assessments on information entered into the study database, evaluated whether inclusion/exclusion criteria had been met for each subject, and ensured that documentation of appropriate licensure/training of study personnel was complete."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Participants included 34 youth ( \u20216 and \u00a317 years of age) who met Diagnostic and Statistical Manual of Mental Disorders-Text Revision (DSM-IV-TR) criteria for a CTD with a total tic score of >20 on the YGTSS (YGTSS \u202114 if motor or vocal tics only) and a score of \u20214 on the Clinical Global Impressions-Severity (CGI-S). The CGI-S is a clinician-rated scale ranging from 1 (no illness) to 7 (extremely ill).",
+        "section": "Subjects",
+        "section_number": 9,
+        "sentences": [
+            "Participants included 34 youth ( \u20216 and \u00a317 years of age) who met Diagnostic and Statistical Manual of Mental Disorders-Text Revision (DSM-IV-TR) criteria for a CTD with a total tic score of >20 on the YGTSS (YGTSS \u202114 if motor or vocal tics only) and a score of \u20214 on the Clinical Global Impressions-Severity (CGI-S).",
+            "The CGI-S is a clinician-rated scale ranging from 1 (no illness) to 7 (extremely ill)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "To be eligible, children had to be medication-free or on stable medication treatment for OCD or anxiety for at least 8 weeks, with no planned changes for the duration of the study.",
+        "section": "Subjects",
+        "section_number": 10,
+        "sentences": [
+            "To be eligible, children had to be medication-free or on stable medication treatment for OCD or anxiety for at least 8 weeks, with no planned changes for the duration of the study."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Subjects with the following characteristics were excluded: IQ below 80 (as measured on the Wechsler Abbreviated Scale of Intelligence), body weight <15 kg, history of a significant medical condition, clinically significant abnormal physical examination findings or laboratory tests, an electrocardiogram (ECG) reading with QTc >450 ms, history of hypersensitivity to guanfacine, or prior failed treatment with an adequate trial of guanfacine in the past 2 years. Also excluded were subjects taking any type of stimulant medication, another psychotropic medication for tics (e.g., antipsychotic medication, clonidine, a dopamine agonist), current behavior therapy for tics, current participation in another research project involving medication therapy, or positive urine toxicology screen for cocaine, amphetamines, methamphetamines, marijuana, opiates, or benzodiazepines. In addition, subjects were excluded if they required pharmacotherapy at the time of the study for at least one of the following current DSM-IV-TR diagnoses: ADHD, major depression, bipolar disorder, posttraumatic stress disorder, or psychotic disorder. Subjects with these diagnoses who did not require pharmacotherapy at that time (at least three medication-free weeks for antipsychotics and at least two medication-free weeks for others) were permitted to participate. Girls of child-bearing potential were required to have a negative pregnancy test (blood or urine) and to use a reliable method of birth control if sexually active. Patients were recruited between May 2012 and May 2014.",
+        "section": "Subjects",
+        "section_number": 11,
+        "sentences": [
+            "Subjects with the following characteristics were excluded: IQ below 80 (as measured on the Wechsler Abbreviated Scale of Intelligence), body weight <15 kg, history of a significant medical condition, clinically significant abnormal physical examination findings or laboratory tests, an electrocardiogram (ECG) reading with QTc >450 ms, history of hypersensitivity to guanfacine, or prior failed treatment with an adequate trial of guanfacine in the past 2 years.",
+            "Also excluded were subjects taking any type of stimulant medication, another psychotropic medication for tics (e.g., antipsychotic medication, clonidine, a dopamine agonist), current behavior therapy for tics, current participation in another research project involving medication therapy, or positive urine toxicology screen for cocaine, amphetamines, methamphetamines, marijuana, opiates, or benzodiazepines.",
+            "In addition, subjects were excluded if they required pharmacotherapy at the time of the study for at least one of the following current DSM-IV-TR diagnoses: ADHD, major depression, bipolar disorder, posttraumatic stress disorder, or psychotic disorder.",
+            "Subjects with these diagnoses who did not require pharmacotherapy at that time (at least three medication-free weeks for antipsychotics and at least two medication-free weeks for others) were permitted to participate.",
+            "Girls of child-bearing potential were required to have a negative pregnancy test (blood or urine) and to use a reliable method of birth control if sexually active.",
+            "Patients were recruited between May 2012 and May 2014."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Screening, baseline, and follow-up assessments were conducted by an experienced, multidisciplinary team at each site. The screening visit included detailed medical and psychiatric histories, physical examination, and vital signs. Routine laboratory tests included complete blood counts, electrolytes, liver function tests, blood urea nitrogen, creatinine, and urinalysis. The screening and week 8 ECGs were reviewed by a pediatric cardiologist at each site. The diagnosis of a CTD was based on history and supported by the Computerized Diagnostic Interview Schedule for Children (C-DISC IV) (Shaffer et al. 2000) .",
+        "section": "Procedures",
+        "section_number": 12,
+        "sentences": [
+            "Screening, baseline, and follow-up assessments were conducted by an experienced, multidisciplinary team at each site.",
+            "The screening visit included detailed medical and psychiatric histories, physical examination, and vital signs.",
+            "Routine laboratory tests included complete blood counts, electrolytes, liver function tests, blood urea nitrogen, creatinine, and urinalysis.",
+            "The screening and week 8 ECGs were reviewed by a pediatric cardiologist at each site.",
+            "The diagnosis of a CTD was based on history and supported by the Computerized Diagnostic Interview Schedule for Children (C-DISC IV) (Shaffer et al. 2000) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Each subject was followed by two clinicians at each site: a treating clinician who monitored the medication dose and adverse events, and an independent evaluator who assessed therapeutic outcomes without any discussion of dose or adverse effects. Independent evaluators underwent training using standardized videos with gold standard scoring by Dr. Scahill. Follow-up visits during the double-blind phase occurred at weeks 2, 4, 6, and 8 (endpoint). At the week 8 visit, the independent evaluator rated treatment response on the Clinical Global Impressions-Improvement (CGI-I) (positive response indicates much improved or very much improved) using all available information. The treatment blind was broken by the treating clinician (the independent evaluator remained blinded). Children who showed a positive response to guanfacine were invited to enter the 8-week extension phase and were evaluated at weeks 12 and 16. Children assigned to placebo who did not show a positive response were offered treatment in an 8-week open-label trial of guanfacine with the same visit schedule used in the double-blind phase.",
+        "section": "Procedures",
+        "section_number": 13,
+        "sentences": [
+            "Each subject was followed by two clinicians at each site: a treating clinician who monitored the medication dose and adverse events, and an independent evaluator who assessed therapeutic outcomes without any discussion of dose or adverse effects.",
+            "Independent evaluators underwent training using standardized videos with gold standard scoring by Dr. Scahill.",
+            "Follow-up visits during the double-blind phase occurred at weeks 2, 4, 6, and 8 (endpoint).",
+            "At the week 8 visit, the independent evaluator rated treatment response on the Clinical Global Impressions-Improvement (CGI-I) (positive response indicates much improved or very much improved) using all available information.",
+            "The treatment blind was broken by the treating clinician (the independent evaluator remained blinded).",
+            "Children who showed a positive response to guanfacine were invited to enter the 8-week extension phase and were evaluated at weeks 12 and 16.",
+            "Children assigned to placebo who did not show a positive response were offered treatment in an 8-week open-label trial of guanfacine with the same visit schedule used in the double-blind phase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "33681",
+        "text": "The starting dose for all subjects was 1 mg in the morning. Children who weighed 25 kg or less remained on this dose until day 14 when the treating clinician could increase the dose to 2 mg per day until day 28. On day 28, the dose could be increased to 3 mg. Children weighing >25 kg were eligible for an increase to 2 mg at day 7, 3 mg at day 14, and 4 mg at day 21 or day 28. These dosing schedules were not fixed. The treating clinician could elect to delay a scheduled increase or decrease the dose to manage a suspected adverse event. At the treating clinician's discretion, twice daily dosing could be used.",
+        "section": "Medication",
+        "section_number": 14,
+        "sentences": [
+            "The starting dose for all subjects was 1 mg in the morning.",
+            "Children who weighed 25 kg or less remained on this dose until day 14 when the treating clinician could increase the dose to 2 mg per day until day 28.",
+            "On day 28, the dose could be increased to 3 mg.",
+            "Children weighing >25 kg were eligible for an increase to 2 mg at day 7, 3 mg at day 14, and 4 mg at day 21 or day 28.",
+            "These dosing schedules were not fixed.",
+            "The treating clinician could elect to delay a scheduled increase or decrease the dose to manage a suspected adverse event.",
+            "At the treating clinician's discretion, twice daily dosing could be used."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Computerized Diagnostic Interview Schedule for Children. The C-DISC (Shaffer et al. 2000) is a DSM-IV-referenced, structured interview for children and adolescents completed by the parent or caretaker. This study used the following modules: tic disorders, ADHD, depression, general anxiety disorder, separation anxiety disorder, OCD, oppositional defiant disorder, conduct disorder, and substance abuse. Children 13 years and older also completed the C-DISC. The C-DISC diagnoses were reviewed for final confirmation by the clinical research team at each site.",
+        "section": "Outcome measures",
+        "section_number": 15,
+        "sentences": [
+            "Computerized Diagnostic Interview Schedule for Children.",
+            "The C-DISC (Shaffer et al. 2000) is a DSM-IV-referenced, structured interview for children and adolescents completed by the parent or caretaker.",
+            "This study used the following modules: tic disorders, ADHD, depression, general anxiety disorder, separation anxiety disorder, OCD, oppositional defiant disorder, conduct disorder, and substance abuse.",
+            "Children 13 years and older also completed the C-DISC.",
+            "The C-DISC diagnoses were reviewed for final confirmation by the clinical research team at each site."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Yale Global Tic Severity Scale. The primary outcome was the total score of the YGTSS (Leckman et al. 1989) administered by the independent evaluator. This reliable and valid clinician-rated scale begins with a systematic inquiry of tic symptoms in the preceding week. Current motor and phonic tics are then rated separately according to number, frequency, intensity, complexity, and interference, each rated on 0 to 5 scale with higher scores indicating greater severity (Leckman et al. 1989) . The YGTSS yields a total motor score (0-25), a total phonic score (0-25), a total tic score (0-50), and an impairment score (0-50).",
+        "section": "Outcome measures",
+        "section_number": 16,
+        "sentences": [
+            "Yale Global Tic Severity Scale.",
+            "The primary outcome was the total score of the YGTSS (Leckman et al. 1989) administered by the independent evaluator.",
+            "This reliable and valid clinician-rated scale begins with a systematic inquiry of tic symptoms in the preceding week.",
+            "Current motor and phonic tics are then rated separately according to number, frequency, intensity, complexity, and interference, each rated on 0 to 5 scale with higher scores indicating greater severity (Leckman et al. 1989) .",
+            "The YGTSS yields a total motor score (0-25), a total phonic score (0-25), a total tic score (0-50), and an impairment score (0-50)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The Clinical Global Impressions-Improvement Scale. The key secondary outcome was the CGI-I (Guy 1976 ) administered by the independent evaluator. This is a 7-point scale designed to measure change from baseline as follows: 1 (very much improved), 2 (much improved), 3 (minimally improved), 4 (no change), 5 (minimally worse), 6 (much worse), or 7 (very much worse). As noted, we defined positive response as a rating of 1 (very much improved) or 2 (much improved). All other scores were considered a negative response.",
+        "section": "Outcome measures",
+        "section_number": 17,
+        "sentences": [
+            "The Clinical Global Impressions-Improvement Scale.",
+            "The key secondary outcome was the CGI-I (Guy 1976 ) administered by the independent evaluator.",
+            "This is a 7-point scale designed to measure change from baseline as follows: 1 (very much improved), 2 (much improved), 3 (minimally improved), 4 (no change), 5 (minimally worse), 6 (much worse), or 7 (very much worse).",
+            "As noted, we defined positive response as a rating of 1 (very much improved) or 2 (much improved).",
+            "All other scores were considered a negative response."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Tic Symptom Self-Report. The Tic Symptom Self-Report (TSSR) was also used as a key secondary outcome measure of current tic severity (Cohen and Leckman 1984) . In this study, the TSSR was completed by a parent or caretaker. It includes 20 motor and 20 phonic tics, each rated 0 to 3. The motor and phonic scores are tallied to create a total score. It has been shown to be sensitive to treatment effects (Scahill et al. 2003 ).",
+        "section": "Outcome measures",
+        "section_number": 18,
+        "sentences": [
+            "Tic Symptom Self-Report.",
+            "The Tic Symptom Self-Report (TSSR) was also used as a key secondary outcome measure of current tic severity (Cohen and Leckman 1984) .",
+            "In this study, the TSSR was completed by a parent or caretaker.",
+            "It includes 20 motor and 20 phonic tics, each rated 0 to 3.",
+            "The motor and phonic scores are tallied to create a total score.",
+            "It has been shown to be sensitive to treatment effects (Scahill et al. 2003 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Children's Yale-Brown Obsessive Compulsive Scale. The Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS) (Scahill et al. 1997 ) is a 10-item, semistructured interview administered by the independent evaluator designed to rate the severity of OCD. Scores range from 0 to 40 with higher scores indicating greater severity.",
+        "section": "Outcome measures",
+        "section_number": 19,
+        "sentences": [
+            "Children's Yale-Brown Obsessive Compulsive Scale.",
+            "The Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS) (Scahill et al. 1997 ) is a 10-item, semistructured interview administered by the independent evaluator designed to rate the severity of OCD.",
+            "Scores range from 0 to 40 with higher scores indicating greater severity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Rage Outbursts and Anger Rating Scale. The Rage Outbursts and Anger Rating Scale (ROARS) (Budman et al. 2008 ) is a 3-item, clinician-rated scale designed to quantify the severity of explosive outbursts in the past week, administered by the independent evaluator. The items are rated from 0 to 3 on frequency, intensity, and duration and then added together for a total score.",
+        "section": "Outcome measures",
+        "section_number": 20,
+        "sentences": [
+            "Rage Outbursts and Anger Rating Scale.",
+            "The Rage Outbursts and Anger Rating Scale (ROARS) (Budman et al. 2008 ) is a 3-item, clinician-rated scale designed to quantify the severity of explosive outbursts in the past week, administered by the independent evaluator.",
+            "The items are rated from 0 to 3 on frequency, intensity, and duration and then added together for a total score."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Attention-Deficit/Hyperactivity Disorder Rating Scale. The ADHD Rating Scale (ADHD RS) (Reid et al. 1998) is an 18-item, DSM-IV referenced measure rated by a parent or caretaker in this study. The sum of the nine inattention items and nine hyperactivity/ impulsiveness items (each rated on a 0-3 scale) are included in the total score.",
+        "section": "Outcome measures",
+        "section_number": 21,
+        "sentences": [
+            "Attention-Deficit/Hyperactivity Disorder Rating Scale.",
+            "The ADHD Rating Scale (ADHD RS) (Reid et al. 1998) is an 18-item, DSM-IV referenced measure rated by a parent or caretaker in this study.",
+            "The sum of the nine inattention items and nine hyperactivity/ impulsiveness items (each rated on a 0-3 scale) are included in the total score."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Disruptive Behavior Rating Scale. The Disruptive Behavior Rating Scale (DBRS) (Barkley and Murphy 2006) is an 8-item measure of oppositional defiant disorder rated by the parent or caretaker on a 0 to 3 scale. Scores of 12 and higher were considered clinically significant.",
+        "section": "Outcome measures",
+        "section_number": 22,
+        "sentences": [
+            "Disruptive Behavior Rating Scale.",
+            "The Disruptive Behavior Rating Scale (DBRS) (Barkley and Murphy 2006) is an 8-item measure of oppositional defiant disorder rated by the parent or caretaker on a 0 to 3 scale.",
+            "Scores of 12 and higher were considered clinically significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Premonitory Urge for Tics Scale. The Premonitory Urge for Tics Scale (PUTS) (Woods et al. 2005 ) is a 10-item self-report measure of premonitory urges in individuals with tics. Individual item scores are summed, yielding a total score reflecting the presence and frequency of pretic (i.e., premonitory) urges along with relief that may be experienced after tics have been completed.",
+        "section": "Outcome measures",
+        "section_number": 23,
+        "sentences": [
+            "Premonitory Urge for Tics Scale.",
+            "The Premonitory Urge for Tics Scale (PUTS) (Woods et al. 2005 ) is a 10-item self-report measure of premonitory urges in individuals with tics.",
+            "Individual item scores are summed, yielding a total score reflecting the presence and frequency of pretic (i.e., premonitory) urges along with relief that may be experienced after tics have been completed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Adverse events were systematically assessed at each visit by the treating investigator (blind to treatment group) using the adverse events review. This 34-item form was developed by the Research Units on Pediatric Psychopharmacology Autism Network to elicit and document adverse events (Research Units on Pediatric Psychopharmachology Autism Network et al. 2002) . It includes general questions about recent health complaints, medical visits, and new medications for current medical problems. It also includes specific queries about major body systems, activity level, sleep, and appetite. New events, whether presumed related to treatment or not, were classified as mild (no impairment), moderate (some impairment or need for intervention to prevent impairment), severe (impairment and need for intervention), or serious (hospitalization or major threat to health and well-being). Pulse and blood pressure in the sitting position were measured at each visit. Height and weight were measured at screening, baseline, and every 4 weeks during the trial. Routine laboratory tests and ECGs were conducted at the screening visit, and ECGs were repeated at endpoint.",
+        "section": "Safety assessments",
+        "section_number": 24,
+        "sentences": [
+            "Adverse events were systematically assessed at each visit by the treating investigator (blind to treatment group) using the adverse events review.",
+            "This 34-item form was developed by the Research Units on Pediatric Psychopharmacology Autism Network to elicit and document adverse events (Research Units on Pediatric Psychopharmachology Autism Network et al. 2002) .",
+            "It includes general questions about recent health complaints, medical visits, and new medications for current medical problems.",
+            "It also includes specific queries about major body systems, activity level, sleep, and appetite.",
+            "New events, whether presumed related to treatment or not, were classified as mild (no impairment), moderate (some impairment or need for intervention to prevent impairment), severe (impairment and need for intervention), or serious (hospitalization or major threat to health and well-being).",
+            "Pulse and blood pressure in the sitting position were measured at each visit.",
+            "Height and weight were measured at screening, baseline, and every 4 weeks during the trial.",
+            "Routine laboratory tests and ECGs were conducted at the screening visit, and ECGs were repeated at endpoint."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The primary analysis evaluated the change from baseline to week 8 in the blinded rating of the YGTSS total score within the guanfacine group using a paired t-test. To support further study with guanfacine, we set a benchmark of a large effect size within the guanfacine group (change in guanfacine group divided by the standard deviation at baseline and without correction for placebo). Based on prior trials, we assumed a baseline mean and standard deviation of 25 -7 on the YGTSS total score and a change score of 7.0 (effect size = 1.0) within the guanfacine group. A sample size of 16-20 would be significant to meet the preset benchmark. The second round of analyses included cross-group comparisons on the change in YGTSS total score and the change in the TSSR over time (baseline, midpoint [week 4] and endpoint) using a mixed-effect linear model. The YGTSS total score for each subject was modeled by regressing the score against time with the baseline YGTSS score as a fixed effect in the model. Study group and site were also entered as the fixed effects (Gibbons et al. 1993) . The intercept and slope of the regression were allowed to vary randomly between subjects. We used a linear contrast of group differences at week 8 to test for statistical significance. The rate of positive response, as measured on the CGI-I in the active and placebo groups, was evaluated by the Fisher's exact test.",
+        "section": "Statistical methods",
+        "section_number": 25,
+        "sentences": [
+            "The primary analysis evaluated the change from baseline to week 8 in the blinded rating of the YGTSS total score within the guanfacine group using a paired t-test.",
+            "To support further study with guanfacine, we set a benchmark of a large effect size within the guanfacine group (change in guanfacine group divided by the standard deviation at baseline and without correction for placebo).",
+            "Based on prior trials, we assumed a baseline mean and standard deviation of 25 -7 on the YGTSS total score and a change score of 7.0 (effect size = 1.0) within the guanfacine group.",
+            "A sample size of 16-20 would be significant to meet the preset benchmark.",
+            "The second round of analyses included cross-group comparisons on the change in YGTSS total score and the change in the TSSR over time (baseline, midpoint [week 4] and endpoint) using a mixed-effect linear model.",
+            "The YGTSS total score for each subject was modeled by regressing the score against time with the baseline YGTSS score as a fixed effect in the model.",
+            "Study group and site were also entered as the fixed effects (Gibbons et al. 1993) .",
+            "The intercept and slope of the regression were allowed to vary randomly between subjects.",
+            "We used a linear contrast of group differences at week 8 to test for statistical significance.",
+            "The rate of positive response, as measured on the CGI-I in the active and placebo groups, was evaluated by the Fisher's exact test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "We used a similar approach in the analyses of exploratory measures, that is, first computing the change from baseline to week 8 within each treatment group on the CY-BOCS, ADHD RS, ROARS, PUTS, and DBRS using a paired t-test. This was followed by the mixed-effect linear model approach already described. The rates of adverse events were computed for each treatment group and compared by Fisher's exact tests. All statistical tests were two tailed. The alpha level was set at 0.05 and statistical analyses were performed using SAS 9.4.",
+        "section": "Statistical methods",
+        "section_number": 26,
+        "sentences": [
+            "We used a similar approach in the analyses of exploratory measures, that is, first computing the change from baseline to week 8 within each treatment group on the CY-BOCS, ADHD RS, ROARS, PUTS, and DBRS using a paired t-test.",
+            "This was followed by the mixed-effect linear model approach already described.",
+            "The rates of adverse events were computed for each treatment group and compared by Fisher's exact tests.",
+            "All statistical tests were two tailed.",
+            "The alpha level was set at 0.05 and statistical analyses were performed using SAS 9.4."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Of 40 children who were screened for the study, 6 did not meet enrollment criteria (Fig. 1) . Thirty-four youth, age 6-17 years (mean = 11.1 -3.1 years; 68% male), were enrolled and randomly assigned to receive guanfacine (n = 16) or placebo (n = 18). At baseline, there were no significant group differences on demographic and clinical characteristics (Table 1) .",
+        "section": "Sample characteristics",
+        "section_number": 27,
+        "sentences": [
+            "Of 40 children who were screened for the study, 6 did not meet enrollment criteria (Fig. 1) .",
+            "Thirty-four youth, age 6-17 years (mean = 11.1 -3.1 years; 68% male), were enrolled and randomly assigned to receive guanfacine (n = 16) or placebo (n = 18).",
+            "At baseline, there were no significant group differences on demographic and clinical characteristics (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Within the guanfacine group, the mean YGTSS total score declined from 26.25 -6.61 to 23.56 -6.42 [t(15) = 1.84, p = 0.08; effect size = 0.35] after 8 weeks of treatment (Table 2 and Fig. 2 ). In the placebo group, the mean YGTSS total score showed a similar reduction from baseline (27.67 -8.7 to 24.72 -10.54 [t(17) = 1.83, p = 0.08, effect size = 0.38]) ( Table 2 and Fig. 2 ). There were no statistically significant differences across the two groups on the mean change of YGTSS total scores using all three time points in the model [F(1, 27) = 0.18, p = 0.7]. There were no significant differences across groups on the mean change of YGTSS total motor or total phonic scores (Table 2) .",
+        "section": "Primary outcome",
+        "section_number": 28,
+        "sentences": [
+            "Within the guanfacine group, the mean YGTSS total score declined from 26.25 -6.61 to 23.56 -6.42 [t(15) = 1.84, p = 0.08; effect size = 0.35] after 8 weeks of treatment (Table 2 and Fig. 2 ).",
+            "In the placebo group, the mean YGTSS total score showed a similar reduction from baseline (27.67 -8.7 to 24.72 -10.54 [t(17) = 1.83, p = 0.08, effect size = 0.38]) ( Table 2 and Fig. 2 ).",
+            "There were no statistically significant differences across the two groups on the mean change of YGTSS total scores using all three time points in the model [F(1, 27) = 0.18, p = 0.7].",
+            "There were no significant differences across groups on the mean change of YGTSS total motor or total phonic scores (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "At the end of week 8, there was a significant decrease in the parent-rated TSSR in the active treatment group: from 26.94 -22.83 at baseline to 15.87 -14.13 at endpoint [t(14) = 3.14, p = 0.007, effect size = 0.55] ( Table 3 ). The reduction in the total TSSR score in the placebo group was not significant [24.65 -16.94 vs. 23.53 -18.82, t(15) = 0.61, p = 0.55, effect size = 0.06] (Table 3). The random regression analysis using all three time points (baseline, week 4, and week 8) showed no difference between groups ( p = 0.6). There was no significant difference in the rate of",
+        "section": "Key secondary outcomes",
+        "section_number": 29,
+        "sentences": [
+            "At the end of week 8, there was a significant decrease in the parent-rated TSSR in the active treatment group: from 26.94 -22.83 at baseline to 15.87 -14.13 at endpoint [t(14) = 3.14, p = 0.007, effect size = 0.55] ( Table 3 ).",
+            "The reduction in the total TSSR score in the placebo group was not significant [24.65 -16.94 vs. 23.53 -18.82, t(15) = 0.61, p = 0.55, effect size = 0.06] (Table 3).",
+            "The random regression analysis using all three time points (baseline, week 4, and week 8) showed no difference between groups ( p = 0.6).",
+            "There was no significant difference in the rate of"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "FIG. 1. CONSORT flow diagram.",
+        "section": "Key secondary outcomes",
+        "section_number": 30,
+        "sentences": [
+            "FIG.",
+            "1.",
+            "CONSORT flow diagram."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "positive response on the CGI-I between the guanfacine group and placebo (19% [3/16] vs. 22% [4/18] , p = 1.0).",
+        "section": "GUANFACINE IN YOUTH WITH CHRONIC TIC DISORDERS",
+        "section_number": 31,
+        "sentences": [
+            "positive response on the CGI-I between the guanfacine group and placebo (19% [3/16] vs. 22% [4/18] , p = 1.0)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Based on previous research supporting the use of guanfacine to treat ADHD symptoms in those with Tourette syndrome, we ex-plored changes in ADHD RS scores throughout the study. However, ADHD symptoms were not a required inclusion criterion; therefore, baseline scores varied. This variability made it difficult to show a group effect. Among all children in this study, a significant decrease in the mean ADHD RS score was observed within the guanfacine group [19.69 -12.29 to 15.38 -11.79 , t(15) = 2.35, p = 0.03, effect size = 0.33]. There was no significant reduction 11.1 (6.13) 10.4 (6.73) t(32) = 0.28, p = 0.8 YGTSS impairment, M (SD) 29.8 (8.18) 28.6 (8.01) t(32) = 0.43, p = 0.7 CGI severity, n (%)",
+        "section": "Exploratory analyses",
+        "section_number": 32,
+        "sentences": [
+            "Based on previous research supporting the use of guanfacine to treat ADHD symptoms in those with Tourette syndrome, we ex-plored changes in ADHD RS scores throughout the study.",
+            "However, ADHD symptoms were not a required inclusion criterion; therefore, baseline scores varied.",
+            "This variability made it difficult to show a group effect.",
+            "Among all children in this study, a significant decrease in the mean ADHD RS score was observed within the guanfacine group [19.69 -12.29 to 15.38 -11.79 , t(15) = 2.35, p = 0.03, effect size = 0.33].",
+            "There was no significant reduction 11.1 (6.13) 10.4 (6.73) t(32) = 0.28, p = 0.8 YGTSS impairment, M (SD) 29.8 (8.18) 28.6 (8.01) t(32) = 0.43, p = 0.7 CGI severity, n (%)"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Moderately ill 12 (75) 9 (50) v 2 (2) = 3.7, p = 0.2 Markedly ill 4 (25) 6 (33) Severely ill -3 (17) TSSR (parent), M (SD) a 26.9 (22.83) 24.6 (16.94) t(31) = 0.33, p = 0.7 PUTS, M (SD)",
+        "section": "Exploratory analyses",
+        "section_number": 33,
+        "sentences": [
+            "Moderately ill 12 (75) 9 (50) v 2 (2) = 3.7, p = 0.2 Markedly ill 4 (25) 6 (33) Severely ill -3 (17) TSSR (parent), M (SD) a 26.9 (22.83) 24.6 (16.94) t(31) = 0.33, p = 0.7 PUTS, M (SD)"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "19.8 (5.39) 20.9 (8.18) t(32) = -0.47, p = 0.6 ADHD RS (parent), M (SD)",
+        "section": "Exploratory analyses",
+        "section_number": 34,
+        "sentences": [
+            "19.8 (5.39) 20.9 (8.18) t(32) = -0.47, p = 0.6 ADHD RS (parent), M (SD)"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "19.7 (12.29) 17.5 (13.65) t(32) = 0.49, p = 0.6 DBRS, M (SD) 8.8 (6.59) 5.6 (7.37) t(32) = 1.33, p = 0.19 CY-BOCS, M (SD) 9.6 (10.41) 10.5 (11.43) t(32) = -0.25, p = 0.8 ROARS, M (SD) 3.1 (2.87) 2.2 (2.87) t(32) = 0.97, p = 0.3 a Owing to missing items, the TSSR phonic and total scores could not be calculated for one subject. b p < 0.05. ADHD RS, Attention-Deficit/Hyperactivity Disorder Rating Scale; CGI, Clinical Global Impressions; CY-BOCS, Children's Yale-Brown Obsessive Compulsive Scale; DBRS, Disruptive Behavior Rating Scale; M, mean; OCD, obsessive compulsive disorder; ODD, oppositional defiant disorder; PUTS, Premonitory Urge for Tics Scale; ROARS, Rage Outbursts and Anger Rating Scale; SD, standard deviation; TD, tic disorder; TSSR, Tic Symptom Self-Report; YGTSS, Yale Global Tic Severity Scale. ",
+        "section": "Exploratory analyses",
+        "section_number": 35,
+        "sentences": [
+            "19.7 (12.29) 17.5 (13.65) t(32) = 0.49, p = 0.6 DBRS, M (SD) 8.8 (6.59) 5.6 (7.37) t(32) = 1.33, p = 0.19 CY-BOCS, M (SD) 9.6 (10.41) 10.5 (11.43) t(32) = -0.25, p = 0.8 ROARS, M (SD) 3.1 (2.87) 2.2 (2.87) t(32) = 0.97, p = 0.3 a Owing to missing items, the TSSR phonic and total scores could not be calculated for one subject.",
+            "b p < 0.05.",
+            "ADHD RS, Attention-Deficit/Hyperactivity Disorder Rating Scale; CGI, Clinical Global Impressions; CY-BOCS, Children's Yale-Brown Obsessive Compulsive Scale; DBRS, Disruptive Behavior Rating Scale; M, mean; OCD, obsessive compulsive disorder; ODD, oppositional defiant disorder; PUTS, Premonitory Urge for Tics Scale; ROARS, Rage Outbursts and Anger Rating Scale; SD, standard deviation; TD, tic disorder; TSSR, Tic Symptom Self-Report; YGTSS, Yale Global Tic Severity Scale."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "MURPHY ET AL.",
+        "section": "766",
+        "section_number": 36,
+        "sentences": [
+            "MURPHY ET AL."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "within the placebo group [17.50 -13.65 to 15.00 -14.00, t(17) = 1.69, p = 0.11, effect size = 0.19]. This difference in mean ADHD RS score reduction was not significantly different across groups over time [F(1, 27) = 1.72, p = 0.2]. Among children in this study diagnosed with ADHD (n = 12), no statistically significant change of the YGTSS total score was observed, either in the placebo or active treatment group, with a 2.0 mean YGTSS total score change for the 8-week course in both groups. No other significant changes in PUTS, CY-BOCS, DBRS, or ROARS were observed within groups or across groups over time (Table 3) .",
+        "section": "766",
+        "section_number": 37,
+        "sentences": [
+            "within the placebo group [17.50 -13.65 to 15.00 -14.00, t(17) = 1.69, p = 0.11, effect size = 0.19].",
+            "This difference in mean ADHD RS score reduction was not significantly different across groups over time [F(1, 27) = 1.72, p = 0.2].",
+            "Among children in this study diagnosed with ADHD (n = 12), no statistically significant change of the YGTSS total score was observed, either in the placebo or active treatment group, with a 2.0 mean YGTSS total score change for the 8-week course in both groups.",
+            "No other significant changes in PUTS, CY-BOCS, DBRS, or ROARS were observed within groups or across groups over time (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The mean daily dose during the final week (week 8) of the trial was 2.6 -1.1 mg for the guanfacine group and 3.3 -0.8 mg per day for the placebo group. The modal daily dose at week 8 was 3 mg (range 1-4 mg) for the guanfacine group and 4 mg (range 2-4 mg) for the placebo group. Table 4 summarizes adverse events reported by at least two subjects in either treatment group (>6%). One subject in the guanfacine group withdrew early from the study because of a serious adverse event of depressed mood. The most common adverse events were fatigue, drowsiness, dry mouth, headache, irritability, stomachache, and decreased appetite-all occurring at 50% or greater among guanfacine-treated subjects. These complaints were most common in the first 4 weeks of treatment during the dose adjustment phase.",
+        "section": "Medication dose",
+        "section_number": 38,
+        "sentences": [
+            "The mean daily dose during the final week (week 8) of the trial was 2.6 -1.1 mg for the guanfacine group and 3.3 -0.8 mg per day for the placebo group.",
+            "The modal daily dose at week 8 was 3 mg (range 1-4 mg) for the guanfacine group and 4 mg (range 2-4 mg) for the placebo group.",
+            "Table 4 summarizes adverse events reported by at least two subjects in either treatment group (>6%).",
+            "One subject in the guanfacine group withdrew early from the study because of a serious adverse event of depressed mood.",
+            "The most common adverse events were fatigue, drowsiness, dry mouth, headache, irritability, stomachache, and decreased appetite-all occurring at 50% or greater among guanfacine-treated subjects.",
+            "These complaints were most common in the first 4 weeks of treatment during the dose adjustment phase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Mild, not clinically significant ECG abnormalities were detected in six subjects at baseline (n = 2 in active; n = 4 in placebo) and three subjects in the active treatment group at week 8. One subject, randomized to guanfacine, had a borderline QTc prolongation of 454 ms at screening and 457 ms at week 8 (not clinically significant, per cardiologist review). A second subject, randomized to placebo, had a QTc prolongation of 455 ms at week 8 (compared with 420 ms at baseline), but this was not considered clinically significant by the site cardiologist. Seven subjects had at least one visit with a >10-point drop in diastolic FIG. 2 . YGTSS total score, motor, and phonic; guanfacine versus placebo. YGTSS, Yale Global Tic Severity Scale. blood pressure in the guanfacine group compared with five in the placebo group ( p = 0.5) (Fig. 3) .",
+        "section": "Adverse events",
+        "section_number": 39,
+        "sentences": [
+            "Mild, not clinically significant ECG abnormalities were detected in six subjects at baseline (n = 2 in active; n = 4 in placebo) and three subjects in the active treatment group at week 8.",
+            "One subject, randomized to guanfacine, had a borderline QTc prolongation of 454 ms at screening and 457 ms at week 8 (not clinically significant, per cardiologist review).",
+            "A second subject, randomized to placebo, had a QTc prolongation of 455 ms at week 8 (compared with 420 ms at baseline), but this was not considered clinically significant by the site cardiologist.",
+            "Seven subjects had at least one visit with a >10-point drop in diastolic FIG.",
+            "2 .",
+            "YGTSS total score, motor, and phonic; guanfacine versus placebo.",
+            "YGTSS, Yale Global Tic Severity Scale.",
+            "blood pressure in the guanfacine group compared with five in the placebo group ( p = 0.5) (Fig. 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Alpha-2 agonists such as guanfacine and clonidine are commonly used in children with CTD (Scahill et al. 2006; Bloch 2008; Centers for Disease Control and Prevention 2009; Singer 2010; Olfson et al. 2011; Roessner et al. 2011; Murphy et al. 2013) . The selection of alpha-2 agonists is due, in part, to the more favorable side effect profile than antipsychotics. Metaanalysis suggests that the alpha-2 agonists have a significant, although modest, effect on tics (Weisman et al. 2013) . The beneficial effects of the alpha-2 agonists on ADHD symptoms in children with CTD are well established (Bloch et al. 2009) . Guanfacine is often preferred over clonidine for CTD because it is believed to exert more specific alpha adrenergic agonist effects, is less sedating, and it is less potent as an antihypertensive (Sorkin and Heel 1986; Arnsten and Pliszka 2011) . To our knowledge, this is the first randomized controlled study of the extendedrelease formulation of guanfacine in children with CTD. In this pilot study, we prespecified a within group effect size of 1.0 as a benchmark to justify a larger study. The use of random assignment, placebo control, and the two-clinician model (a treating clinician and an independent evaluator) fostered an unbiased assessment of the effects of guanfacine on tics. Guanfacine did not achieve the prespecified effect size in the within group analysis of change from baseline on the YGTSS total score. In the cross-group comparison, there was no difference between guanfacine and placebo on the primary outcome measure or the rate of improvement on the CGI-I.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "Alpha-2 agonists such as guanfacine and clonidine are commonly used in children with CTD (Scahill et al. 2006; Bloch 2008; Centers for Disease Control and Prevention 2009; Singer 2010; Olfson et al. 2011; Roessner et al. 2011; Murphy et al. 2013) .",
+            "The selection of alpha-2 agonists is due, in part, to the more favorable side effect profile than antipsychotics.",
+            "Metaanalysis suggests that the alpha-2 agonists have a significant, although modest, effect on tics (Weisman et al. 2013) .",
+            "The beneficial effects of the alpha-2 agonists on ADHD symptoms in children with CTD are well established (Bloch et al. 2009) .",
+            "Guanfacine is often preferred over clonidine for CTD because it is believed to exert more specific alpha adrenergic agonist effects, is less sedating, and it is less potent as an antihypertensive (Sorkin and Heel 1986; Arnsten and Pliszka 2011) .",
+            "To our knowledge, this is the first randomized controlled study of the extendedrelease formulation of guanfacine in children with CTD.",
+            "In this pilot study, we prespecified a within group effect size of 1.0 as a benchmark to justify a larger study.",
+            "The use of random assignment, placebo control, and the two-clinician model (a treating clinician and an independent evaluator) fostered an unbiased assessment of the effects of guanfacine on tics.",
+            "Guanfacine did not achieve the prespecified effect size in the within group analysis of change from baseline on the YGTSS total score.",
+            "In the cross-group comparison, there was no difference between guanfacine and placebo on the primary outcome measure or the rate of improvement on the CGI-I."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The common adverse effects of extended-release guanfacine in this study included fatigue, drowsiness, dry mouth, headache, irritability, abdominal pain, and decreased appetite. These complaints have been reported in other studies of guanfacine in children with ADHD and children with autism spectrum disorder (Biederman et al. 2008; Sallee et al. 2009; Scahill et al. 2015) . Only one subject exited our study because of adverse effects.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "The common adverse effects of extended-release guanfacine in this study included fatigue, drowsiness, dry mouth, headache, irritability, abdominal pain, and decreased appetite.",
+            "These complaints have been reported in other studies of guanfacine in children with ADHD and children with autism spectrum disorder (Biederman et al. 2008; Sallee et al. 2009; Scahill et al. 2015) .",
+            "Only one subject exited our study because of adverse effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "One of the current challenges in drug development for children with CTD is how to move from a small pilot study to a large-scale definitive study. Pilot studies cannot be expected to prove efficacy (Leon et al. 2011) . A signal that a given medication is at least promising, however, is needed to justify the resources for launching a large-scale study. The track record for guanfacine supports its use for ADHD (Scahill et al. 2001 (Scahill et al. , 2015 Biederman et al. 2008; Sallee et al. 2009) . In our study, we did observe a significant decrease in the mean ADHD RS among all children in the active treatment group. However, among the small subgroup of children with a diagnosis of ADHD (n = 12), we did not observe significant improvement on ADHD outcomes. We are limited by the small size of this subgroup to determine whether children with comorbid CTD and ADHD might have a significant response to extended-release guanfacine, both with regard to tics and ADHD symptoms. Future studies might examine the impact of extended-release guanfacine on ADHD in children with CTD.",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "One of the current challenges in drug development for children with CTD is how to move from a small pilot study to a large-scale definitive study.",
+            "Pilot studies cannot be expected to prove efficacy (Leon et al. 2011) .",
+            "A signal that a given medication is at least promising, however, is needed to justify the resources for launching a large-scale study.",
+            "The track record for guanfacine supports its use for ADHD (Scahill et al. 2001 (Scahill et al. , 2015 Biederman et al. 2008; Sallee et al. 2009) .",
+            "In our study, we did observe a significant decrease in the mean ADHD RS among all children in the active treatment group.",
+            "However, among the small subgroup of children with a diagnosis of ADHD (n = 12), we did not observe significant improvement on ADHD outcomes.",
+            "We are limited by the small size of this subgroup to determine whether children with comorbid CTD and ADHD might have a significant response to extended-release guanfacine, both with regard to tics and ADHD symptoms.",
+            "Future studies might examine the impact of extended-release guanfacine on ADHD in children with CTD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "The results of this double-blind study of extended-release guanfacine did not confirm a clinically meaningful effect size for tic reduction, and thus do not support the launch of a larger efficacy study focused on tics.",
+        "section": "Conclusion",
+        "section_number": 43,
+        "sentences": [
+            "The results of this double-blind study of extended-release guanfacine did not confirm a clinically meaningful effect size for tic reduction, and thus do not support the launch of a larger efficacy study focused on tics."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "This study did not support extended-release guanfacine over placebo for improvement in tics in children with CTD. Due to previous studies supporting the use of alpha-2 agonists in youth with tics and ADHD along with a favorable side effect profile, guanfacine is commonly prescribed to children with CTD, especially those with ADHD. Additional studies are needed to examine if youth with ADHD and comorbid tics would benefit from extended-release guanfacine.",
+        "section": "Clinical Significance",
+        "section_number": 44,
+        "sentences": [
+            "This study did not support extended-release guanfacine over placebo for improvement in tics in children with CTD.",
+            "Due to previous studies supporting the use of alpha-2 agonists in youth with tics and ADHD along with a favorable side effect profile, guanfacine is commonly prescribed to children with CTD, especially those with ADHD.",
+            "Additional studies are needed to examine if youth with ADHD and comorbid tics would benefit from extended-release guanfacine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33681",
+        "text": "Downloaded by Univ.alberta Lib/ T2047230 from www.liebertpub.com at 03/02/20. For personal use only.",
+        "section": "",
+        "section_number": 45,
+        "sentences": [
+            "Downloaded by Univ.alberta Lib/ T2047230 from www.liebertpub.com at 03/02/20.",
+            "For personal use only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

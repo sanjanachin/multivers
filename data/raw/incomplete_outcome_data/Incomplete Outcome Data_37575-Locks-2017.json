@@ -1,0 +1,579 @@
+[
+    {
+        "doc_id": "37575",
+        "text": "Impaired childhood development has lifelong consequences for educational attainment and wage-earning potential. Micronutrient supplements have the potential to improve development. The objective of this study was to determine the effect of daily zinc and/or multivitamin (vitamins C, E and B-complex) supplements on development among Tanzanian infants. In this randomized, 2 \u00d7 2 factorial, double-blind trial, 2400 infants were randomized to zinc (Zn), multivitamins (MV), zinc and multivitamins (Zn + MV) or placebo at 6 weeks of age. At approximately 15 months, a sub-sample of 247 children underwent developmental assessment using the cognitive, language (receptive and expressive) and motor (fine and gross) scales of the Bayley Scales of Infant and Toddler Development Third Edition (BSID-III). Mean BSID-III scores were compared using univariate and multivariate linear regression models adjusted for child's sex, post-conceptual age and test administrator. Logistic regressions were used to assess odds of low developmental scores. We did not detect a significant difference in mean BSID-III scores in any of the five domains in univariate or multivariate models comparing each of the four treatment groups. We also did not detect a significant difference in mean BSID-III scores when comparing children who received zinc supplements versus those who did not, or in comparisons of children who received multivitamin supplements versus those who did not. There was no significant difference in odds of a low BSID-III score in any of the five domains in treatment arms either. Because neither daily zinc nor multivitamin (vitamins B-complex, C and E) supplementation led to improvements in any of the developmental domains assessed using the BSID-III, we recommend pursuing alternative interventions to promote early childhood development in vulnerable populations.",
+        "section": "Abstract",
+        "sentences": [
+            "Impaired childhood development has lifelong consequences for educational attainment and wage-earning potential.",
+            "Micronutrient supplements have the potential to improve development.",
+            "The objective of this study was to determine the effect of daily zinc and/or multivitamin (vitamins C, E and B-complex) supplements on development among Tanzanian infants.",
+            "In this randomized, 2 \u00d7 2 factorial, double-blind trial, 2400 infants were randomized to zinc (Zn), multivitamins (MV), zinc and multivitamins (Zn + MV) or placebo at 6 weeks of age.",
+            "At approximately 15 months, a sub-sample of 247 children underwent developmental assessment using the cognitive, language (receptive and expressive) and motor (fine and gross) scales of the Bayley Scales of Infant and Toddler Development Third Edition (BSID-III).",
+            "Mean BSID-III scores were compared using univariate and multivariate linear regression models adjusted for child's sex, post-conceptual age and test administrator.",
+            "Logistic regressions were used to assess odds of low developmental scores.",
+            "We did not detect a significant difference in mean BSID-III scores in any of the five domains in univariate or multivariate models comparing each of the four treatment groups.",
+            "We also did not detect a significant difference in mean BSID-III scores when comparing children who received zinc supplements versus those who did not, or in comparisons of children who received multivitamin supplements versus those who did not.",
+            "There was no significant difference in odds of a low BSID-III score in any of the five domains in treatment arms either.",
+            "Because neither daily zinc nor multivitamin (vitamins B-complex, C and E) supplementation led to improvements in any of the developmental domains assessed using the BSID-III, we recommend pursuing alternative interventions to promote early childhood development in vulnerable populations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Each year, an estimated 200 million children under age 5 years fail to fulfil their developmental potential (Grantham-McGregor et al., 2007) . Poverty, malnutrition, exposure to pollutants, poor health and unstimulating home environments interact to adversely affect their cognitive, motor and social-emotional development. The first few years of life are particularly important for brain development because modest detrimental effects on developmental processes can have life-long effects on the brain's structure and capacity (Shonkoff & Phillips, 2000) . Several studies from developed and developing countries indicate that cognitive and social-emotional development in the first few years of life are strong predictors of school progress (Grantham-McGregor et al., 2007; Stith et al., 2003; Gorman & Pollitt, 1996; Liddell & Rae, 2001; Currie & Thomas, 2012; Feinstein, 2003) . Children who suffer from developmental delays are likely to become less productive adults because of both fewer years of schooling and reduced learning per year of school (Grantham-McGregor et al., 2007) . The economic costs for the individuals, communities and countries are staggering when one considers that, globally, each year of additional schooling is associated with an average increase in wages of 9.7% (Psacharopoulos, 2004) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Each year, an estimated 200 million children under age 5 years fail to fulfil their developmental potential (Grantham-McGregor et al., 2007) .",
+            "Poverty, malnutrition, exposure to pollutants, poor health and unstimulating home environments interact to adversely affect their cognitive, motor and social-emotional development.",
+            "The first few years of life are particularly important for brain development because modest detrimental effects on developmental processes can have life-long effects on the brain's structure and capacity (Shonkoff & Phillips, 2000) .",
+            "Several studies from developed and developing countries indicate that cognitive and social-emotional development in the first few years of life are strong predictors of school progress (Grantham-McGregor et al., 2007; Stith et al., 2003; Gorman & Pollitt, 1996; Liddell & Rae, 2001; Currie & Thomas, 2012; Feinstein, 2003) .",
+            "Children who suffer from developmental delays are likely to become less productive adults because of both fewer years of schooling and reduced learning per year of school (Grantham-McGregor et al., 2007) .",
+            "The economic costs for the individuals, communities and countries are staggering when one considers that, globally, each year of additional schooling is associated with an average increase in wages of 9.7% (Psacharopoulos, 2004) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Micronutrient deficiencies are among the most widespread risk factors for poor child development, despite the fact that they are readily preventable (Bhutta et al., 2008) . Several researchers have documented the longlasting and detrimental effect of iron and iodine deficiencies on child development (Falkingham et al., 2010; Grantham-McGregor & Ani, 2001; Stoltzfus, 2003; Zimmermann et al., 2006; Gordon et al., 2009) . More recently, interest in the role of additional micronutrients in early childhood development (ECD) has grown (Black, 2003; Walker et al., 2007) ; however, the benefits of supplementation of different nutrients and nutrient combinations have yet to be clearly established.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Micronutrient deficiencies are among the most widespread risk factors for poor child development, despite the fact that they are readily preventable (Bhutta et al., 2008) .",
+            "Several researchers have documented the longlasting and detrimental effect of iron and iodine deficiencies on child development (Falkingham et al., 2010; Grantham-McGregor & Ani, 2001; Stoltzfus, 2003; Zimmermann et al., 2006; Gordon et al., 2009) .",
+            "More recently, interest in the role of additional micronutrients in early childhood development (ECD) has grown (Black, 2003; Walker et al., 2007) ; however, the benefits of supplementation of different nutrients and nutrient combinations have yet to be clearly established."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Zinc is an essential mineral required for the synthesis of over 100 enzymes involved in major metabolic pathways including DNA and protein synthesis and cell division (Hotz & Brown, 2004; Gibson, 2006) . Zinc deficiency may affect various aspects of cognitive development including attention, activity, neuropsychological behaviour and motor development, likely by interfering with neurogenesis, neuronal migration, synaptogenesis and neurotransmission (Bhatnagar and Taneja, 2001, Sandstead et al., 2000) . An estimated 17% of the world's population is at risk of inadequate zinc intake, while in sub-Saharan Africa and Tanzania specifically, estimates indicate that over a quarter of both populations have inadequate zinc intake (Wessells, 2012) . Children are at particular risk of zinc deficiency because of their increased needs for growth and development, as well as the poor quality of complementary foods, especially in sub-Saharan Africa, where households rely on staple grains for the majority of their diet (Wessells, 2012) . In Tanzania, the vast majority of home-made weaning foodsprimarily composed of cassava, millet or sourghum porridgesare particularly poor sources of bioavailable zinc and other micronutrients (Mosha et al., 2000) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Zinc is an essential mineral required for the synthesis of over 100 enzymes involved in major metabolic pathways including DNA and protein synthesis and cell division (Hotz & Brown, 2004; Gibson, 2006) .",
+            "Zinc deficiency may affect various aspects of cognitive development including attention, activity, neuropsychological behaviour and motor development, likely by interfering with neurogenesis, neuronal migration, synaptogenesis and neurotransmission (Bhatnagar and Taneja, 2001, Sandstead et al., 2000) .",
+            "An estimated 17% of the world's population is at risk of inadequate zinc intake, while in sub-Saharan Africa and Tanzania specifically, estimates indicate that over a quarter of both populations have inadequate zinc intake (Wessells, 2012) .",
+            "Children are at particular risk of zinc deficiency because of their increased needs for growth and development, as well as the poor quality of complementary foods, especially in sub-Saharan Africa, where households rely on staple grains for the majority of their diet (Wessells, 2012) .",
+            "In Tanzania, the vast majority of home-made weaning foodsprimarily composed of cassava, millet or sourghum porridgesare particularly poor sources of bioavailable zinc and other micronutrients (Mosha et al., 2000) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Several randomized controlled trials have been conducted to assess the effect of zinc supplementation on child development (Ashworth et al., 1998; Bentley et al., 1997; Black et al., 2004a; Gardner et al., 2005; Hamadani et al., 2001; Lind et al., 2004; Sazawal et al., 1996; Castillo-Dur\u00e1n et al., 2001; Friel et al., 1993; Sandstead et al., 1998; Cavan et al., 1993; Gibson et al., 1989) ; however, none of these studies was conducted among infants in sub-Saharan Africa, a population which may have unique risk factors for zinc deficiency and poor developmental outcomes due to the region's low bioavailability of zinc and other micronutrients in common complementary foods, the high rates of growth faltering and micronutrient deficiencies in infants and children, poor maternal nutrition and education, as well as the high burden of infectious diseases, all of which are likely to impair ECD (Walker et al. 2011) . Multiple micronutrient supplements have recently gained significant attention as an intervention because of their potential for improving efficiency in",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Several randomized controlled trials have been conducted to assess the effect of zinc supplementation on child development (Ashworth et al., 1998; Bentley et al., 1997; Black et al., 2004a; Gardner et al., 2005; Hamadani et al., 2001; Lind et al., 2004; Sazawal et al., 1996; Castillo-Dur\u00e1n et al., 2001; Friel et al., 1993; Sandstead et al., 1998; Cavan et al., 1993; Gibson et al., 1989) ; however, none of these studies was conducted among infants in sub-Saharan Africa, a population which may have unique risk factors for zinc deficiency and poor developmental outcomes due to the region's low bioavailability of zinc and other micronutrients in common complementary foods, the high rates of growth faltering and micronutrient deficiencies in infants and children, poor maternal nutrition and education, as well as the high burden of infectious diseases, all of which are likely to impair ECD (Walker et al. 2011) .",
+            "Multiple micronutrient supplements have recently gained significant attention as an intervention because of their potential for improving efficiency in"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "\u2022 An estimated 200 million children under age 5 years fail to fulfil their developmental potential each year. This highlights the importance of building an evidence base for interventions that can improve early childhood development.",
+        "section": "Key messages",
+        "section_number": 5,
+        "sentences": [
+            "\u2022 An estimated 200 million children under age 5 years fail to fulfil their developmental potential each year.",
+            "This highlights the importance of building an evidence base for interventions that can improve early childhood development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "\u2022 In this randomized, double-blind, placebo-controlled trial, we did not find a significant effect of zinc and/or multivitamin supplements on early child development as assessed by the Bayley Scales of Infant and Toddler Development Third Edition.",
+        "section": "Key messages",
+        "section_number": 6,
+        "sentences": [
+            "\u2022 In this randomized, double-blind, placebo-controlled trial, we did not find a significant effect of zinc and/or multivitamin supplements on early child development as assessed by the Bayley Scales of Infant and Toddler Development Third Edition."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "\u2022 Our findings highlight the importance of pursuing alternative strategies to promote early childhood development in vulnerable populations, particularly those that integrate nutrition with responsive caretaking and stimulation.",
+        "section": "Key messages",
+        "section_number": 7,
+        "sentences": [
+            "\u2022 Our findings highlight the importance of pursuing alternative strategies to promote early childhood development in vulnerable populations, particularly those that integrate nutrition with responsive caretaking and stimulation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "interventions and the fact that multiple deficiencies often cluster in the same individuals and communities (Black et al., 2013; Allen et al., 2009; Harrison, 2010) . Folate and vitamin B12 play an essential role in the development of the central nervous systeminsufficient folate during pregnancy can lead to neural tube defects (Black, 2008) , and vitamin B12 plays an essential role in the myelination of nerves, the establishment of a balanced S-adenosylmethionine : S-adenosylhomocysteine ratio and ratio of neurotrophic and neurotoxic cytokines, as well as preventing the build-up of lactate in brain cells (Dror & Allen, 2008) . While vitamin B12 deficiency may lead to developmental delays, the extent to which supplementation of vitamin B12 and other B -complex vitamins can affect the neurodevelopment of children without clinically apparent deficiencies has not been well assessed (Dror & Allen, 2008; Casella et al., 2005; Chalouhi et al., 2008; Schneede et al., 1994; Louwman et al., 2000) . In addition to direct effects on development of the central nervous system, deficiencies in vitamins C, B12 and folate can also lead to anaemia. Anaemia, lethargy and reduced stimulation could also be associated with poorer developmental status (Bhatnagar and Taneja, 2001, Black, 2003) .",
+        "section": "Key messages",
+        "section_number": 8,
+        "sentences": [
+            "interventions and the fact that multiple deficiencies often cluster in the same individuals and communities (Black et al., 2013; Allen et al., 2009; Harrison, 2010) .",
+            "Folate and vitamin B12 play an essential role in the development of the central nervous systeminsufficient folate during pregnancy can lead to neural tube defects (Black, 2008) , and vitamin B12 plays an essential role in the myelination of nerves, the establishment of a balanced S-adenosylmethionine : S-adenosylhomocysteine ratio and ratio of neurotrophic and neurotoxic cytokines, as well as preventing the build-up of lactate in brain cells (Dror & Allen, 2008) .",
+            "While vitamin B12 deficiency may lead to developmental delays, the extent to which supplementation of vitamin B12 and other B -complex vitamins can affect the neurodevelopment of children without clinically apparent deficiencies has not been well assessed (Dror & Allen, 2008; Casella et al., 2005; Chalouhi et al., 2008; Schneede et al., 1994; Louwman et al., 2000) .",
+            "In addition to direct effects on development of the central nervous system, deficiencies in vitamins C, B12 and folate can also lead to anaemia.",
+            "Anaemia, lethargy and reduced stimulation could also be associated with poorer developmental status (Bhatnagar and Taneja, 2001, Black, 2003) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Our group has previously shown that supplementation of vitamins B-complex, C and E to HIV-positive women during pregnancy and lactation improved developmental indices in their children at 6, 12 and 18 months (McGrath et al., 2006) . In our current study, we evaluate whether the same micronutrient combination has similar effects when provided directly to infants. Using a 2 \u00d7 2 factorial design, we assess the effect of zinc and/or a high-dose multivitamin (vitamins B-complex, C and E) supplementation initiated early in infancy and continued for over a year, on the development of HIV-unexposed children in Dar es Salaam, Tanzania.",
+        "section": "Key messages",
+        "section_number": 9,
+        "sentences": [
+            "Our group has previously shown that supplementation of vitamins B-complex, C and E to HIV-positive women during pregnancy and lactation improved developmental indices in their children at 6, 12 and 18 months (McGrath et al., 2006) .",
+            "In our current study, we evaluate whether the same micronutrient combination has similar effects when provided directly to infants.",
+            "Using a 2 \u00d7 2 factorial design, we assess the effect of zinc and/or a high-dose multivitamin (vitamins B-complex, C and E) supplementation initiated early in infancy and continued for over a year, on the development of HIV-unexposed children in Dar es Salaam, Tanzania."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Children in this study were participants in a 2 \u00d7 2 factorial, randomized, double-blind, placebo-controlled trial in Dar es Salaam, Tanzania. Details of the trial have previously been published (McDonald et al., 2015) . Briefly, the trial was designed to examine the effect of daily administration of zinc and/or multivitamin supplements on respiratory and gastrointestinal morbidity among children born to HIV-negative mothers. In all, 2400 singleton, live-birth infants born to HIV-negative mothers were randomized at age 5-7 weeks to receive either daily zinc and multivitamin (Zn + MV) supplements, Zn only, MV only or placebo for 18 months. Infants of multiple births and infants with congenital abnormalities or other severe medical conditions were excluded because their unique medical conditions could interfere with the study results.",
+        "section": "Participants and methods",
+        "section_number": 10,
+        "sentences": [
+            "Children in this study were participants in a 2 \u00d7 2 factorial, randomized, double-blind, placebo-controlled trial in Dar es Salaam, Tanzania.",
+            "Details of the trial have previously been published (McDonald et al., 2015) .",
+            "Briefly, the trial was designed to examine the effect of daily administration of zinc and/or multivitamin supplements on respiratory and gastrointestinal morbidity among children born to HIV-negative mothers.",
+            "In all, 2400 singleton, live-birth infants born to HIV-negative mothers were randomized at age 5-7 weeks to receive either daily zinc and multivitamin (Zn + MV) supplements, Zn only, MV only or placebo for 18 months.",
+            "Infants of multiple births and infants with congenital abnormalities or other severe medical conditions were excluded because their unique medical conditions could interfere with the study results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "At baseline, infant anthropometry was assessed, and a thorough clinical examination by a study physician was conducted. The supplements were provided as opaque capsules containing an orange-flavoured powder manufactured by Nutriset (Malaunay, France). Nutriset manufactured the nutrient supplements in a good manufacturing practice (GMP)certified pharmaceutical laboratory and performed all required analyses of the supplements to confirm nutrient content and stability. Mothers were instructed to push the capsule through the back of the blister pack, open the capsule and empty the contents into a clean plastic cup, mix with 5 mL of sterile water and administer the solution to the child orally. All four regimens were tested to ensure they were indistinguishable in appearance, smell and taste. For infants receiving Zn, each capsule contained 5 mg of zinc sulfate. For infants in the MV group, each capsule contained 60 mg of vitamin C, 8 mg of vitamin E, 0.5 mg of vitamin B1, 0.6 mg of vitamin B2, 4 mg of niacin, 0.6 mg of B6, 130 \u03bcg of folic acid and 1 \u03bcg of vitamin B12. From the time of randomization until 6 months of age, infants received one capsule per day, representing between 150% and 600% of the recommended dietary allowance (RDA) or adequate intake (AI) for the different micronutrients for infants in this age range. From 7 months of age until the end of follow-up, infants received two capsules per day representing 150-400% of the RDA or AI for 7-to 15-month-olds. The dosage of the supplements was selected in order to maximize the likelihood of seeing an impact of supplementation (by providing doses substantially above the RDA), while also staying within a limited range so as to be considered safe for young children. At each monthly follow-up visit, trained study nurses assessed regimen compliance by counting the number of unconsumed capsules. Overall compliance was defined as the mean percentage of capsules a child consumed over the number of capsules he/she should have consumed between visits. At approximately 15 months of age, a sub-sample of 247 children was selected from a single research site (Magomeni Hospital) due to training and space restrictions. We chose to assess the children at 15 months because this was near the conclusion of the study and therefore allowed the near maximum duration of supplementation.",
+        "section": "Participants and methods",
+        "section_number": 11,
+        "sentences": [
+            "At baseline, infant anthropometry was assessed, and a thorough clinical examination by a study physician was conducted.",
+            "The supplements were provided as opaque capsules containing an orange-flavoured powder manufactured by Nutriset (Malaunay, France).",
+            "Nutriset manufactured the nutrient supplements in a good manufacturing practice (GMP)certified pharmaceutical laboratory and performed all required analyses of the supplements to confirm nutrient content and stability.",
+            "Mothers were instructed to push the capsule through the back of the blister pack, open the capsule and empty the contents into a clean plastic cup, mix with 5 mL of sterile water and administer the solution to the child orally.",
+            "All four regimens were tested to ensure they were indistinguishable in appearance, smell and taste.",
+            "For infants receiving Zn, each capsule contained 5 mg of zinc sulfate.",
+            "For infants in the MV group, each capsule contained 60 mg of vitamin C, 8 mg of vitamin E, 0.5 mg of vitamin B1, 0.6 mg of vitamin B2, 4 mg of niacin, 0.6 mg of B6, 130 \u03bcg of folic acid and 1 \u03bcg of vitamin B12.",
+            "From the time of randomization until 6 months of age, infants received one capsule per day, representing between 150% and 600% of the recommended dietary allowance (RDA) or adequate intake (AI) for the different micronutrients for infants in this age range.",
+            "From 7 months of age until the end of follow-up, infants received two capsules per day representing 150-400% of the RDA or AI for 7-to 15-month-olds.",
+            "The dosage of the supplements was selected in order to maximize the likelihood of seeing an impact of supplementation (by providing doses substantially above the RDA), while also staying within a limited range so as to be considered safe for young children.",
+            "At each monthly follow-up visit, trained study nurses assessed regimen compliance by counting the number of unconsumed capsules.",
+            "Overall compliance was defined as the mean percentage of capsules a child consumed over the number of capsules he/she should have consumed between visits.",
+            "At approximately 15 months of age, a sub-sample of 247 children was selected from a single research site (Magomeni Hospital) due to training and space restrictions.",
+            "We chose to assess the children at 15 months because this was near the conclusion of the study and therefore allowed the near maximum duration of supplementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "The sub-sample underwent developmental assessment using the cognitive, language (receptive and expressive) and motor (fine and gross) scales of the Bayley Scales of Infant and Toddler Development Third Edition (BSID-III) (Bayley, 2006) . A Boston-based child development specialist (DB) travelled to Dar es Salaam to train nurses in the administration of BSID-III. The BSID-III was performed in Kiswahili by one of two trained study nurses in a quiet and well-ventilated room, with a parent or guardian present. Because acute illness can impair children's neurobehavioural performance, the assessment was rescheduled if a child was ill or febrile at the time of the visit. All investigators and participants were blinded to treatment group.",
+        "section": "Participants and methods",
+        "section_number": 12,
+        "sentences": [
+            "The sub-sample underwent developmental assessment using the cognitive, language (receptive and expressive) and motor (fine and gross) scales of the Bayley Scales of Infant and Toddler Development Third Edition (BSID-III) (Bayley, 2006) .",
+            "A Boston-based child development specialist (DB) travelled to Dar es Salaam to train nurses in the administration of BSID-III.",
+            "The BSID-III was performed in Kiswahili by one of two trained study nurses in a quiet and well-ventilated room, with a parent or guardian present.",
+            "Because acute illness can impair children's neurobehavioural performance, the assessment was rescheduled if a child was ill or febrile at the time of the visit.",
+            "All investigators and participants were blinded to treatment group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Ethical approval was granted by the Harvard TH Chan School of Public Health Human Subjects Committee, the Muhimbili University of Health and Allied Science Committee of Research and Publications, the Tanzanian Institute of Medical Research and the Tanzanian Food and Drug Authority. A Data Safety Monitoring Board (DSMB) also met twice annually over the course of the study.",
+        "section": "Ethics",
+        "section_number": 13,
+        "sentences": [
+            "Ethical approval was granted by the Harvard TH Chan School of Public Health Human Subjects Committee, the Muhimbili University of Health and Allied Science Committee of Research and Publications, the Tanzanian Institute of Medical Research and the Tanzanian Food and Drug Authority.",
+            "A Data Safety Monitoring Board (DSMB) also met twice annually over the course of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Power calculations for tests assessing a difference in mean BSID-III scores for infants who received multivitamins vs. those who did not (MV+ vs. MV\u00c0) and for infants who received zinc and those who did not (Zn+ vs. Zn\u00c0) were based a type-1 error probability of 0.025 because of the 2 \u00d7 2 factorial design of the study. With a sample of 247 infants and a balanced distribution of treatment group and an estimated standard deviation in each treatment group for the five different BSID-III domains of 2.0 (Manji et al., 2014), we had 80% power to detect a difference in mean BSID-III scores in each domain of 0.78.",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "Power calculations for tests assessing a difference in mean BSID-III scores for infants who received multivitamins vs. those who did not (MV+ vs. MV\u00c0) and for infants who received zinc and those who did not (Zn+ vs. Zn\u00c0) were based a type-1 error probability of 0.025 because of the 2 \u00d7 2 factorial design of the study.",
+            "With a sample of 247 infants and a balanced distribution of treatment group and an estimated standard deviation in each treatment group for the five different BSID-III domains of 2.0 (Manji et al., 2014), we had 80% power to detect a difference in mean BSID-III scores in each domain of 0.78."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Baseline socio-demographic and maternal and child health-related variables were described using frequencies and chi-squared tests for categorical variables and mean \u00b1 SD with t-tests for continuous variables. Raw mean BSID-III scores for cognitive functioning, expressive and receptive language skills, as well as fine and gross motor skills were compared using linear regression models. While it is possible to calculate agestandardized BSID-III scores based on a reference population of US infants, we did not include these standardized scores in our analysis because the BSID-III has not been validated in the Tanzanian context. It would be inappropriate to compare our study population's composite scores with those of a US-reference population. Quantile-quantile plots and a Shapiro-Wilke tests did not reveal violations of normality in any of the raw BSID-III scores.",
+        "section": "Statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "Baseline socio-demographic and maternal and child health-related variables were described using frequencies and chi-squared tests for categorical variables and mean \u00b1 SD with t-tests for continuous variables.",
+            "Raw mean BSID-III scores for cognitive functioning, expressive and receptive language skills, as well as fine and gross motor skills were compared using linear regression models.",
+            "While it is possible to calculate agestandardized BSID-III scores based on a reference population of US infants, we did not include these standardized scores in our analysis because the BSID-III has not been validated in the Tanzanian context.",
+            "It would be inappropriate to compare our study population's composite scores with those of a US-reference population.",
+            "Quantile-quantile plots and a Shapiro-Wilke tests did not reveal violations of normality in any of the raw BSID-III scores."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Bayley Scales of Infant and Toddler Development Third Edition scores across each treatment group were analysed using the intent-to-treat principle. We first compared scores in each of the five domains of the BSID-III across each of the four treatment groups by using univariate and multivariate linear regression models in order to estimate the mean difference in raw scores by treatment arm. Multivariate models were adjusted for child's sex, post-conceptual age and test administrator (administrator 1 vs. administrator 2). Because we did not find that the interaction term for Zn + MV was significant in the univariate or multivariate linear regression models for any of the BSID-III five domains, we collapsed the treatment groups so that we could compare infants who received zinc vs. those who did not (Zn+ vs. ZN\u00c0) and infants who received multivitamins vs. those who did not (MV+ vs. MV\u00c0). We then re-conducted the univariate and multiple linear regression models with only two treatment arms.",
+        "section": "Statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "Bayley Scales of Infant and Toddler Development Third Edition scores across each treatment group were analysed using the intent-to-treat principle.",
+            "We first compared scores in each of the five domains of the BSID-III across each of the four treatment groups by using univariate and multivariate linear regression models in order to estimate the mean difference in raw scores by treatment arm.",
+            "Multivariate models were adjusted for child's sex, post-conceptual age and test administrator (administrator 1 vs. administrator 2).",
+            "Because we did not find that the interaction term for Zn + MV was significant in the univariate or multivariate linear regression models for any of the BSID-III five domains, we collapsed the treatment groups so that we could compare infants who received zinc vs. those who did not (Zn+ vs. ZN\u00c0) and infants who received multivitamins vs. those who did not (MV+ vs. MV\u00c0).",
+            "We then re-conducted the univariate and multiple linear regression models with only two treatment arms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Because improving neurobehavioural outcomes among children on the lower end of the developmental distribution may be of particular biological and policy interest, we also assessed whether supplementation had an effect on the odds of a low developmental scores across all five domains. Quartiles of scores for each of the five domains were created based on the scores in our study sample. We then conducted multivariate logistic regression models using the same covariates as discussed earlier in order to estimate the effect of supplementation on odds of performing in the lowest quartiles of the five different developmental domains.",
+        "section": "Statistical analysis",
+        "section_number": 17,
+        "sentences": [
+            "Because improving neurobehavioural outcomes among children on the lower end of the developmental distribution may be of particular biological and policy interest, we also assessed whether supplementation had an effect on the odds of a low developmental scores across all five domains.",
+            "Quartiles of scores for each of the five domains were created based on the scores in our study sample.",
+            "We then conducted multivariate logistic regression models using the same covariates as discussed earlier in order to estimate the effect of supplementation on odds of performing in the lowest quartiles of the five different developmental domains."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "We also conducted additional analyses comparing baseline characteristics of all infants who underwent the BSID-III assessment with children in the parent trial who were not selected for assessment using chi-squared tests for categorical outcomes and t-tests for continuous outcomes. In addition, because it is possible the supplements provide the greatest benefit to children who are poorly nourished at baseline, we repeated the main analyses among only infants in the lowest quartile of birth weight (the lowest quartile was selected because the number of infants born <2500 g yielded too few infants for this analysis). We also repeated the analyses only among infants with \u226595% compliance with their assigned treatment regimen based on pill counts. All analyses were conducted in SAS system version 9.3 (SAS Institute, Cary, NC, USA).",
+        "section": "Statistical analysis",
+        "section_number": 18,
+        "sentences": [
+            "We also conducted additional analyses comparing baseline characteristics of all infants who underwent the BSID-III assessment with children in the parent trial who were not selected for assessment using chi-squared tests for categorical outcomes and t-tests for continuous outcomes.",
+            "In addition, because it is possible the supplements provide the greatest benefit to children who are poorly nourished at baseline, we repeated the main analyses among only infants in the lowest quartile of birth weight (the lowest quartile was selected because the number of infants born <2500 g yielded too few infants for this analysis).",
+            "We also repeated the analyses only among infants with \u226595% compliance with their assigned treatment regimen based on pill counts.",
+            "All analyses were conducted in SAS system version 9.3 (SAS Institute, Cary, NC, USA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "A total of 14 901 pregnant women were screened for study enrollment, of whom 3815 were HIV-negative women who met eligibility criteria and consented to participate in the study. After excluding infants with medical conditions at birth, those with unknown delivery status and/or those who did not return for randomization, 2400 infants were randomized to Zn, MV, Zn + MV or placebo, 247 of whom underwent neurobehavioural assessments (Fig. 1) . In the neurobehavioural sub-sample, there were no significant differences across treatment group in any of the maternal, child or household characteristics at baseline (Table 1) . On average, mothers were 26 years old, and about three-quarters had 7 or fewer years of formal education, which corresponds to the completion of primary school in Tanzania. Nine-tenths of mothers were married or cohabitating with their partners, and for about a third of mothers, this was their first pregnancy. One-fifth of households spent less than 1000 Tanzanian shillings (approximately $US0.75 at the time of the study) on food per day, and about a quarter of households had none of the following possessions: sofa; television; radio; refrigerator; or fan. Children were on average 6 weeks old at baseline, and about half were male. About one-tenth of children were born pre-term (<37 weeks gestation), and less than 5% were low birth weight (<2500 g). Mean age at the time of neurobehavioural assessment was 14.5 months. Median regimen compliance with the treatment regimen among infants who participated in the ECD assessment was 97% (25th and 75th percentiles: 95% and 99%, respectively) of the allocated regimen based on pill counts at clinic visits.",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "A total of 14 901 pregnant women were screened for study enrollment, of whom 3815 were HIV-negative women who met eligibility criteria and consented to participate in the study.",
+            "After excluding infants with medical conditions at birth, those with unknown delivery status and/or those who did not return for randomization, 2400 infants were randomized to Zn, MV, Zn + MV or placebo, 247 of whom underwent neurobehavioural assessments (Fig. 1) .",
+            "In the neurobehavioural sub-sample, there were no significant differences across treatment group in any of the maternal, child or household characteristics at baseline (Table 1) .",
+            "On average, mothers were 26 years old, and about three-quarters had 7 or fewer years of formal education, which corresponds to the completion of primary school in Tanzania.",
+            "Nine-tenths of mothers were married or cohabitating with their partners, and for about a third of mothers, this was their first pregnancy.",
+            "One-fifth of households spent less than 1000 Tanzanian shillings (approximately $US0.75 at the time of the study) on food per day, and about a quarter of households had none of the following possessions: sofa; television; radio; refrigerator; or fan.",
+            "Children were on average 6 weeks old at baseline, and about half were male.",
+            "About one-tenth of children were born pre-term (<37 weeks gestation), and less than 5% were low birth weight (<2500 g).",
+            "Mean age at the time of neurobehavioural assessment was 14.5 months.",
+            "Median regimen compliance with the treatment regimen among infants who participated in the ECD assessment was 97% (25th and 75th percentiles: 95% and 99%, respectively) of the allocated regimen based on pill counts at clinic visits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "In both the univariate and multivariate linear regression models (adjusted for infant sex and postconceptual age, as well as examiner), we did not find that the interaction term for Zn + MV was a significant predictor of any of the five BSID-III domains. After collapsing treatment groups, we again found that there was no significant difference in any of the five domains of the BSID-III among children who received zinc supplements compared with children who did not receive zinc supplements (Table 2) or among children who received multivitamin supplements vs. those who did not receive multivitamins (Table 3) . We also did not find a significant difference in odds of a low BSID-III score in any of the five domains comparing children who received zinc and those who did not or among children who received multivitamins compared with those who did not in either univariate or multivariate models (Tables 4 and 5) . Odds of receiving a low score in any of the five domains, either of the two language domains or either of the two motor domains, did not differ significantly across treatment groups.",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "In both the univariate and multivariate linear regression models (adjusted for infant sex and postconceptual age, as well as examiner), we did not find that the interaction term for Zn + MV was a significant predictor of any of the five BSID-III domains.",
+            "After collapsing treatment groups, we again found that there was no significant difference in any of the five domains of the BSID-III among children who received zinc supplements compared with children who did not receive zinc supplements (Table 2) or among children who received multivitamin supplements vs. those who did not receive multivitamins (Table 3) .",
+            "We also did not find a significant difference in odds of a low BSID-III score in any of the five domains comparing children who received zinc and those who did not or among children who received multivitamins compared with those who did not in either univariate or multivariate models (Tables 4 and 5) .",
+            "Odds of receiving a low score in any of the five domains, either of the two language domains or either of the two motor domains, did not differ significantly across treatment groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "In our additional analyses, we did not find any significant differences between the sub-sample selected for BSID-III assessment and those excluded from the sub-sample in any of the baseline characteristics with the exception of the amount of Tanzanian Shillings spent on food per day (20.9% of infants in the sub-study came from families spending less than 1000 TSh per day compared with 29.5% among those who were not selected for the sub-study, P = 0.006). In our analysis assessing the effect of supplements in infants born in the lowest quartile of birth weight (<3000 g), we did not find a significant effect of supplements on BSID-III scores. Similarly, in our analysis assessing the effect of supplements only among infants with \u226595% compliance with the treatment regimen, we did not see an effect of supplementation.",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "In our additional analyses, we did not find any significant differences between the sub-sample selected for BSID-III assessment and those excluded from the sub-sample in any of the baseline characteristics with the exception of the amount of Tanzanian Shillings spent on food per day (20.9% of infants in the sub-study came from families spending less than 1000 TSh per day compared with 29.5% among those who were not selected for the sub-study, P = 0.006).",
+            "In our analysis assessing the effect of supplements in infants born in the lowest quartile of birth weight (<3000 g), we did not find a significant effect of supplements on BSID-III scores.",
+            "Similarly, in our analysis assessing the effect of supplements only among infants with \u226595% compliance with the treatment regimen, we did not see an effect of supplementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "In this randomized, 2 \u00d7 2 factorial, clinical trial among infants born to HIV-negative mothers in Dar es Salaam, Tanzania, neither daily zinc nor multivitamin supplements, alone or in combination, had a significant effect on developmental outcomes at 15 months of age. Our findings add to the growing literature on multiple micronutrients and childhood development. To date, there have been a limited number of randomized controlled trials that assessed the effect on development of direct multiple micronutrient supplementations to children. A recent review found 17 trials assessing the Age at randomization (weeks) 5.9 \u00b1 0.3 5.9 \u00b1 0.3 5.9 \u00b1 0.4 5.9 \u00b1 0.3 Male sex [n (%)] 64 (52.9) 62 (49.2) 63 (52.9) 63 (49.2) Birthweight (kg) 3.2 (0.5) 3.2 (0.5) 3.3 (0.5) 3.2 (0.4) Low birth weight, <2500 g [n (%)] 6 (5.0) 2 (1.6) 3 (2.5) 5 (3.9) Born pre-term, <37 weeks [n (%),] \u2225 10 (10.6) 10 (9.7) 8 (8.6) 12 (12.5) Weeks at delivery 39.5 (2.5) 39.7 (2.5) 39.8 (2.3) 39.5 (2.6) Small for gestational age \u2225 , ** 8 (7.6) 13 (14.4) 8 (8.2) 13 (13.4) Apgar score \u2264 7 at 5 min after birth [n (%)] 1 (0.9) 1 (0.8) 1 (0.9) 1 (0.8) Baseline length for age Z-score \u2020 \u2020 -0.43 \u00b1 1.23 -0.25 \u00b1 1.16 -0.28 \u00b1 1.30 -0.39 \u00b1 1.09 Baseline weight for length Z-score \u2020 \u2020 0.06 \u00b1 1.21 0.07 \u00b1 1.24 0.00 \u00b1 1.32 0.13 \u00b1 1.13 Baseline weight for age Z-score \u2020 \u2020 -0.37 \u00b1 1.13 -0.21 \u00b1 0.97 -0.28 \u00b1 1.18 -0.29 \u00b1 0.93 Age in months at Bayley assessment 14.5 \u00b1 0.4 14.5 \u00b1 0.4 14.5 \u00b1 0.4 14.5 \u00b1 0.4 * Mean \u00b1 standard deviation (all such values). \u2020 P-values for continuous variables from t-tests using a pooled standard deviation; categorical variable P-values are from chi-squared tests. \u2021 In Tanzania, 7 years is the duration of most primary schools. \u00a7 At the time of the study, this was roughly equivalent to USD 0.75. \u00b6 From a list that includes sofa, television, radio, refrigerator and fan \u2225 n = 197. ** Based on growth standards developed by Oken et al. (2003) . \u2020 \u2020 Anthropometric indicators at randomization (age 5-7 weeks).",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "In this randomized, 2 \u00d7 2 factorial, clinical trial among infants born to HIV-negative mothers in Dar es Salaam, Tanzania, neither daily zinc nor multivitamin supplements, alone or in combination, had a significant effect on developmental outcomes at 15 months of age.",
+            "Our findings add to the growing literature on multiple micronutrients and childhood development.",
+            "To date, there have been a limited number of randomized controlled trials that assessed the effect on development of direct multiple micronutrient supplementations to children.",
+            "A recent review found 17 trials assessing the Age at randomization (weeks) 5.9 \u00b1 0.3 5.9 \u00b1 0.3 5.9 \u00b1 0.4 5.9 \u00b1 0.3 Male sex [n (%)] 64 (52.9) 62 (49.2) 63 (52.9) 63 (49.2) Birthweight (kg) 3.2 (0.5) 3.2 (0.5) 3.3 (0.5) 3.2 (0.4) Low birth weight, <2500 g [n (%)] 6 (5.0) 2 (1.6) 3 (2.5) 5 (3.9) Born pre-term, <37 weeks [n (%),] \u2225 10 (10.6) 10 (9.7) 8 (8.6) 12 (12.5) Weeks at delivery 39.5 (2.5) 39.7 (2.5) 39.8 (2.3) 39.5 (2.6) Small for gestational age \u2225 , ** 8 (7.6) 13 (14.4) 8 (8.2) 13 (13.4) Apgar score \u2264 7 at 5 min after birth [n (%)] 1 (0.9) 1 (0.8) 1 (0.9) 1 (0.8) Baseline length for age Z-score \u2020 \u2020 -0.43 \u00b1 1.23 -0.25 \u00b1 1.16 -0.28 \u00b1 1.30 -0.39 \u00b1 1.09 Baseline weight for length Z-score \u2020 \u2020 0.06 \u00b1 1.21 0.07 \u00b1 1.24 0.00 \u00b1 1.32 0.13 \u00b1 1.13 Baseline weight for age Z-score \u2020 \u2020 -0.37 \u00b1 1.13 -0.21 \u00b1 0.97 -0.28 \u00b1 1.18 -0.29 \u00b1 0.93 Age in months at Bayley assessment 14.5 \u00b1 0.4 14.5 \u00b1 0.4 14.5 \u00b1 0.4 14.5 \u00b1 0.4 * Mean \u00b1 standard deviation (all such values). \u2020",
+            "P-values for continuous variables from t-tests using a pooled standard deviation; categorical variable P-values are from chi-squared tests. \u2021",
+            "In Tanzania, 7 years is the duration of most primary schools. \u00a7",
+            "At the time of the study, this was roughly equivalent to USD 0.75. \u00b6",
+            "From a list that includes sofa, television, radio, refrigerator and fan \u2225 n = 197. **",
+            "Based on growth standards developed by Oken et al. (2003) . \u2020 \u2020",
+            "Anthropometric indicators at randomization (age 5-7 weeks)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "effect of three or more micronutrients on cognition in children aged 5-17 years; however, it only identified three trials conducted in children under 5 years of age (Eilander et al., 2010) . Two of the three studies in young children found significant improvements in motor development (Faber et al., 2005) and time to unassisted walking (Olney et al., 2006) ; however, both multiple micronutrient combinations contained iron, thus preventing researchers from isolating whether the effect was attributable to improvements in iron status. The third study found no effect of supplements on development (Dhingra et al., 2004) . Studies in older children indicate that multiple micronutrient supplements may confer a small benefit for fluid intelligence (reasoning ability), and a significant, positive benefit for academic performance. (Eilander et al., 2010) . While it is difficult to aggregate findings on the effect of multiple micronutrients on ECD because of differences across studies in the nutrient combinations and dosages used as well as child age ranges, our group has used this particular combination of multivitamins in previous studies. We previously reported that this multivitamin supplement (Vitamins B-complex, C and E) when provided to HIV-positive women during pregnancy and lactation can improve developmental scores in their children from 6 to 18 months (McGrath et al., 2006) . In our most recent study on development, however, we also provided the supplements directly to infants born to HIV-positive mothers (from 6 weeks to 15 months) and found no effect of the vitamins on development at 15 months (Manji et al., 2014) . It is worth noting that mothers in the second study received vitamins B-complex, C and E supplementation during pregnancy and lactation, so it is likely that infants in both intervention and placebo groups had better baseline micronutrient status. Our results from the current study, where mothers did not receive supplementation with this particular combination of micronutrients, corroborate the findings that providing this combination of multivitamins directly to infants is unlikely to confer benefits for development.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "effect of three or more micronutrients on cognition in children aged 5-17 years; however, it only identified three trials conducted in children under 5 years of age (Eilander et al., 2010) .",
+            "Two of the three studies in young children found significant improvements in motor development (Faber et al., 2005) and time to unassisted walking (Olney et al., 2006) ; however, both multiple micronutrient combinations contained iron, thus preventing researchers from isolating whether the effect was attributable to improvements in iron status.",
+            "The third study found no effect of supplements on development (Dhingra et al., 2004) .",
+            "Studies in older children indicate that multiple micronutrient supplements may confer a small benefit for fluid intelligence (reasoning ability), and a significant, positive benefit for academic performance. (",
+            "Eilander et al., 2010) .",
+            "While it is difficult to aggregate findings on the effect of multiple micronutrients on ECD because of differences across studies in the nutrient combinations and dosages used as well as child age ranges, our group has used this particular combination of multivitamins in previous studies.",
+            "We previously reported that this multivitamin supplement (Vitamins B-complex, C and E) when provided to HIV-positive women during pregnancy and lactation can improve developmental scores in their children from 6 to 18 months (McGrath et al., 2006) .",
+            "In our most recent study on development, however, we also provided the supplements directly to infants born to HIV-positive mothers (from 6 weeks to 15 months) and found no effect of the vitamins on development at 15 months (Manji et al., 2014) .",
+            "It is worth noting that mothers in the second study received vitamins B-complex, C and E supplementation during pregnancy and lactation, so it is likely that infants in both intervention and placebo groups had better baseline micronutrient status.",
+            "Our results from the current study, where mothers did not receive supplementation with this particular combination of micronutrients, corroborate the findings that providing this combination of multivitamins directly to infants is unlikely to confer benefits for development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Our findings on the lack of an effect of zinc supplementation on developmental outcomes, particularly motor development, are surprising given that several other randomized controlled trials have found benefits of zinc supplementation for child development (Ashworth A, 1998 , Bentley et al., 1997 Black et al., 2004a; Gardner et al., 2005; Sazawal et al., 1996; Castillo-Dur\u00e1n et al., 2001; Friel et al., 1993; Colombo et al., 2014) . In particular, several trials specifically reported an effect of zinc supplementation on motor developmentincluding decreases in frequencies of low psychomotor and mental development scores (Castillo-Dur\u00e1n et al., 2001) , increases in time spent sitting or playing vs. inactive (Bentley et al., 1997) and increases in time spent in high movement activities (Sazawal et al., 1996) . In one study, investigators found that zinc supplements alone improved hand and eye coordination, but that effect of supplements was even stronger in children who also received stimulation (Gardner et al., 2005) . Several of the studies which found an effect of zinc supplementation specifically targeted children with poor nutritional status at baselineincluding studies in small-for-gestational-age infants (Black et al., 2004b) , low-birth-weight infants (Friel et al., 1993) or children with low weight for age at baseline (Gardner et al., 2005) indicating that the baseline nutritional status of our sample may have decreased the likelihood of an effect of zinc supplementation for ECD. However, in the sensitivity analysis in our current study among infants with the lowest quartile of birth weight (<3000 g), we still did not find an effect of either supplement.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Our findings on the lack of an effect of zinc supplementation on developmental outcomes, particularly motor development, are surprising given that several other randomized controlled trials have found benefits of zinc supplementation for child development (Ashworth A, 1998 , Bentley et al., 1997 Black et al., 2004a; Gardner et al., 2005; Sazawal et al., 1996; Castillo-Dur\u00e1n et al., 2001; Friel et al., 1993; Colombo et al., 2014) .",
+            "In particular, several trials specifically reported an effect of zinc supplementation on motor developmentincluding decreases in frequencies of low psychomotor and mental development scores (Castillo-Dur\u00e1n et al., 2001) , increases in time spent sitting or playing vs. inactive (Bentley et al., 1997) and increases in time spent in high movement activities (Sazawal et al., 1996) .",
+            "In one study, investigators found that zinc supplements alone improved hand and eye coordination, but that effect of supplements was even stronger in children who also received stimulation (Gardner et al., 2005) .",
+            "Several of the studies which found an effect of zinc supplementation specifically targeted children with poor nutritional status at baselineincluding studies in small-for-gestational-age infants (Black et al., 2004b) , low-birth-weight infants (Friel et al., 1993) or children with low weight for age at baseline (Gardner et al., 2005) indicating that the baseline nutritional status of our sample may have decreased the likelihood of an effect of zinc supplementation for ECD.",
+            "However, in the sensitivity analysis in our current study among infants with the lowest quartile of birth weight (<3000 g), we still did not find an effect of either supplement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "It is worth noting that several other trials have not demonstrated a significant effect of zinc supplementation to infants and children on mental, psychomotor or behavioural domains (Ashworth A, 1998 , Sandstead, 1998 , Cavan et al., 1993 Gibson et al., 1989; Lind et al., 2004) and two studies in Bangladesh found that zinc supplements resulted in poorer developmental outcomespossibly because of a micronutrient imbalance (Hamadani et al., 2001; Hamadani et al., 2002) . Interestingly, a recent study in Peru assessed the effect of zinc, iron and copper supplementation compared with iron and copper supplementation and assessed child development using a battery of outcomes including the Bayley Scales of Infant Development Second Edition (BSID-II) as well as a visual habituation/recognition memory task, free-play attention tasks and an assessment of inhibitory and memory processes (Colombo et al., 2014) . Although the researchers found that the addition of zinc improved development trajectories in attentional variables, they did not find an effect on the BSID-II or on inhibitory and memory processes. This suggests that although zinc may help to maintain normative developmental trajectories for some measures of attention in the first 18 months of life, global measures of developmental might not be sufficiently sensitive to detect these changes (Colombo & Carlson, 2012) . Our study does not support the hypothesis that zinc supplementation, alone or in combination with multivitamin supplements, improves child development as assessed by the BSID-III, a global test designed to identify developmental delay. The results presented here correspond with our group's previous publication from the same trial that indicated that neither supplement alone nor in combination had a significant effect on stunting, wasting or underweight in this populationindicating that improved growth outcomes were unlikely to be a mediator in the supplement-development relationship (Locks et al., 2016) .",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "It is worth noting that several other trials have not demonstrated a significant effect of zinc supplementation to infants and children on mental, psychomotor or behavioural domains (Ashworth A, 1998 , Sandstead, 1998 , Cavan et al., 1993 Gibson et al., 1989; Lind et al., 2004) and two studies in Bangladesh found that zinc supplements resulted in poorer developmental outcomespossibly because of a micronutrient imbalance (Hamadani et al., 2001; Hamadani et al., 2002) .",
+            "Interestingly, a recent study in Peru assessed the effect of zinc, iron and copper supplementation compared with iron and copper supplementation and assessed child development using a battery of outcomes including the Bayley Scales of Infant Development Second Edition (BSID-II) as well as a visual habituation/recognition memory task, free-play attention tasks and an assessment of inhibitory and memory processes (Colombo et al., 2014) .",
+            "Although the researchers found that the addition of zinc improved development trajectories in attentional variables, they did not find an effect on the BSID-II or on inhibitory and memory processes.",
+            "This suggests that although zinc may help to maintain normative developmental trajectories for some measures of attention in the first 18 months of life, global measures of developmental might not be sufficiently sensitive to detect these changes (Colombo & Carlson, 2012) .",
+            "Our study does not support the hypothesis that zinc supplementation, alone or in combination with multivitamin supplements, improves child development as assessed by the BSID-III, a global test designed to identify developmental delay.",
+            "The results presented here correspond with our group's previous publication from the same trial that indicated that neither supplement alone nor in combination had a significant effect on stunting, wasting or underweight in this populationindicating that improved growth outcomes were unlikely to be a mediator in the supplement-development relationship (Locks et al., 2016) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "Our study has several limitations. We only conducted a single neurodevelopmental assessment at~15 months of age, which prevents us from assessing the effect of micronutrient supplements earlier in infancy or longitudinally as children age. Our sample also has limited generalizability because our results in our urban sample cannot be generalized to rural populations where infants are likely to have worse nutritional status. However, our findings are likely generalizable to other periurban settings in sub-Saharan Africa. In addition, although our sample size was sufficiently large to assess the main effect of supplementation, we had limited power to assess the effect of supplements in subgroups (such as low-birth-weight infants). Finally, it is also worth noting that while the BSID-III is suitable for identifying developmental delays, it is possible that it is not sensitive enough to identify smaller changes in developmental outcomes. Despite these limitations, to our knowledge, our study is the largest randomized controlled trial that assesses the effect of zinc and/or multiple micronutrients on child development in an African setting. The randomized design allowed us to rigorously assess whether there is a causal effect of daily supplementation of zinc or multiple micronutrients on neurodevelopmental outcomes. For instance, providing daily micronutrients at multiple times the RDA beginning at 6 weeks and continuing for over a year before assessment provides a particularly strong study design to assess whether direct provision of micronutrients to infants in this urban, African setting improves development. Our finding of a lack of effect of zinc and/or multivitamin supplements on ECD in this randomized, double-blind, placebo-controlled trial highlights the importance of pursuing other strategies in vulnerable populations, particularly those that integrate nutrition with responsive caretaking and stimulation activities (Grantham-McGregor et al., 2014, United Nations Children's Fund and World Health Organisation, 2014) .",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Our study has several limitations.",
+            "We only conducted a single neurodevelopmental assessment at~15 months of age, which prevents us from assessing the effect of micronutrient supplements earlier in infancy or longitudinally as children age.",
+            "Our sample also has limited generalizability because our results in our urban sample cannot be generalized to rural populations where infants are likely to have worse nutritional status.",
+            "However, our findings are likely generalizable to other periurban settings in sub-Saharan Africa.",
+            "In addition, although our sample size was sufficiently large to assess the main effect of supplementation, we had limited power to assess the effect of supplements in subgroups (such as low-birth-weight infants).",
+            "Finally, it is also worth noting that while the BSID-III is suitable for identifying developmental delays, it is possible that it is not sensitive enough to identify smaller changes in developmental outcomes.",
+            "Despite these limitations, to our knowledge, our study is the largest randomized controlled trial that assesses the effect of zinc and/or multiple micronutrients on child development in an African setting.",
+            "The randomized design allowed us to rigorously assess whether there is a causal effect of daily supplementation of zinc or multiple micronutrients on neurodevelopmental outcomes.",
+            "For instance, providing daily micronutrients at multiple times the RDA beginning at 6 weeks and continuing for over a year before assessment provides a particularly strong study design to assess whether direct provision of micronutrients to infants in this urban, African setting improves development.",
+            "Our finding of a lack of effect of zinc and/or multivitamin supplements on ECD in this randomized, double-blind, placebo-controlled trial highlights the importance of pursuing other strategies in vulnerable populations, particularly those that integrate nutrition with responsive caretaking and stimulation activities (Grantham-McGregor et al., 2014, United Nations Children's Fund and World Health Organisation, 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12306",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12306"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37575",
+        "text": "of 13 L. M. Locks et al. \u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12306",
+        "section": "",
+        "section_number": 28,
+        "sentences": [
+            "of 13 L. M. Locks et al. \u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12306"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

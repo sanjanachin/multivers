@@ -1,0 +1,775 @@
+[
+    {
+        "doc_id": "37192",
+        "text": "Background: Cash transfer programs have the potential to improve dietary intake by improving accessibility to food. However, quantitative data on the impact of cash transfer programs on children\u00d5s energy and nutrient intakes are lacking. Objective: The aim of this study was to evaluate the effect of seasonal unconditional cash transfers on children\u00d5s energy, micro-and macronutrient, and food group intakes during the lean season in Burkina Faso. Methods: Within the framework of the MAM\u00d5Out (Moderate Acute Malnutrition Out) cluster-randomized controlled trial, two 24-h dietary recall surveys were conducted in July and August 2014. Daily energy and macro-and micronutrient intakes, breastfeeding practices, and food group consumption were analyzed for 322 children aged 14-27 mo from an intervention group (benefiting from unconditional cash transfer during the lean season in 2013 and 2014) and a control group by using mixed linear, logistic, and Poisson regression models or a g-generalized linear model with log-link. A dietary diversity score was calculated on the basis of 7 food groups. Results: Unconditional cash transfers during the lean season improved the diets of rural children through a higher",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Cash transfer programs have the potential to improve dietary intake by improving accessibility to food.",
+            "However, quantitative data on the impact of cash transfer programs on children\u00d5s energy and nutrient intakes are lacking.",
+            "Objective: The aim of this study was to evaluate the effect of seasonal unconditional cash transfers on children\u00d5s energy, micro-and macronutrient, and food group intakes during the lean season in Burkina Faso.",
+            "Methods: Within the framework of the MAM\u00d5Out (Moderate Acute Malnutrition Out) cluster-randomized controlled trial, two 24-h dietary recall surveys were conducted in July and August 2014.",
+            "Daily energy and macro-and micronutrient intakes, breastfeeding practices, and food group consumption were analyzed for 322 children aged 14-27 mo from an intervention group (benefiting from unconditional cash transfer during the lean season in 2013 and 2014) and a control group by using mixed linear, logistic, and Poisson regression models or a g-generalized linear model with log-link.",
+            "A dietary diversity score was calculated on the basis of 7 food groups.",
+            "Results: Unconditional cash transfers during the lean season improved the diets of rural children through a higher"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Although progress has been made in the fight against child undernutrition in recent years, it is still a public health issue worldwide (1) . Nutritional disorders, including wasting, stunting, vitamin A and zinc deficiencies, fetal growth restriction, and inadequate breastfeeding, are responsible for 45% of all deaths among children <5 y old, or 3.1 million deaths annually (2) . In Burkina Faso, West Africa, child nutritional status is particularly worrying: 32.9% of all children <5 y old are stunted, 10.9% are wasted, and 14% suffered from low birth weight in 2013 (3) . A recent study in rural Burkina Faso that used biomarkers also found high deficiency rates for zinc (25.6-73 .5%) and moderate deficiency rates for vitamin A (6.0-30.6%), as well as high rates of anemia (29.4-72.3%) among women and preschool children (4) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Although progress has been made in the fight against child undernutrition in recent years, it is still a public health issue worldwide (1) .",
+            "Nutritional disorders, including wasting, stunting, vitamin A and zinc deficiencies, fetal growth restriction, and inadequate breastfeeding, are responsible for 45% of all deaths among children <5 y old, or 3.1 million deaths annually (2) .",
+            "In Burkina Faso, West Africa, child nutritional status is particularly worrying: 32.9% of all children <5 y old are stunted, 10.9% are wasted, and 14% suffered from low birth weight in 2013 (3) .",
+            "A recent study in rural Burkina Faso that used biomarkers also found high deficiency rates for zinc (25.6-73 .5%) and moderate deficiency rates for vitamin A (6.0-30.6%), as well as high rates of anemia (29.4-72.3%) among women and preschool children (4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "To date, various strategies have been implemented in humanitarian contexts to tackle children\u00d5s undernutrition, including nutrition-specific interventions such as food-based strategies (5) (6) (7) (8) , to address its direct causes, and nutrition-sensitive activities to address its underlying determinants (9) . Among nutrition-sensitive activities, social safety nets, mainly implemented as cash transfer programs, have been shown to have positive effects on food security (10) (11) (12) and on household expenditures on food (13, 14) . However, most studies that evaluated the impact of cash transfers on child nutritional status used proxies such as dietary diversity scores (DDSs) (12, 15, 16) , which do not enable assessment of whether energy and nutrient intakes in the child\u00d5s diet are adequate. There is thus a lack of quantitative data on the effect of cash transfer programs on children\u00d5s dietary intake.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "To date, various strategies have been implemented in humanitarian contexts to tackle children\u00d5s undernutrition, including nutrition-specific interventions such as food-based strategies (5) (6) (7) (8) , to address its direct causes, and nutrition-sensitive activities to address its underlying determinants (9) .",
+            "Among nutrition-sensitive activities, social safety nets, mainly implemented as cash transfer programs, have been shown to have positive effects on food security (10) (11) (12) and on household expenditures on food (13, 14) .",
+            "However, most studies that evaluated the impact of cash transfers on child nutritional status used proxies such as dietary diversity scores (DDSs) (12, 15, 16) , which do not enable assessment of whether energy and nutrient intakes in the child\u00d5s diet are adequate.",
+            "There is thus a lack of quantitative data on the effect of cash transfer programs on children\u00d5s dietary intake."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "A multiannual seasonal and unconditional cash transfer program was implemented in 2013 and 2014 in Tapoa Province in the Eastern region of Burkina Faso, in the framework of the Moderate Acute Malnutrition Out (MAM\u00d5Out) study. We designed a cluster-randomized controlled trial to evaluate the effects of the program on the prevention of child acute malnutrition (17) . The main objective of this 24-h dietary recall substudy was to assess the impact of the cash transfer program on the energy intake of beneficiary children aged between 14 and 27 mo during the 2014 annual lean season, corresponding to the period between harvests in May to September when people rely on markets for their food needs. We further compared the microand macronutrient intakes between intervention and control groups.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "A multiannual seasonal and unconditional cash transfer program was implemented in 2013 and 2014 in Tapoa Province in the Eastern region of Burkina Faso, in the framework of the Moderate Acute Malnutrition Out (MAM\u00d5Out) study.",
+            "We designed a cluster-randomized controlled trial to evaluate the effects of the program on the prevention of child acute malnutrition (17) .",
+            "The main objective of this 24-h dietary recall substudy was to assess the impact of the cash transfer program on the energy intake of beneficiary children aged between 14 and 27 mo during the 2014 annual lean season, corresponding to the period between harvests in May to September when people rely on markets for their food needs.",
+            "We further compared the microand macronutrient intakes between intervention and control groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "The MAM\u00d5Out study. The MAM\u00d5Out study (17) was implemented from June 2013 to October 2015 in Tapoa Province, in the Eastern region of Burkina Faso. The aim was to evaluate whether multiannual, seasonal, unconditional cash transfers helped prevent acute malnutrition in young children. It was designed as a cluster-randomized controlled trial, in which 16 villages received monthly cash payments from July to November in both 2013 and 2014 and 16 other villages were used as the control group. The cash [10,000 West African CFA franc (XOF)/ mo; ;US$17] was distributed to mothers via mobile phone, with no conditions or restrictions on use. Because cash transfers were unconditional, beneficiaries did not have to fulfill conditions other than the inclusion criteria in order to receive cash. In June 2013, 1278 children <1 y of age and living in poor or very poor households according to the Household Economy Approach (18) were included in the study and followed for #2 y. The study, including the 24-h dietary recall survey, was registered in clinicaltrials.gov (NCT01866124) on 7 May 2013 and received ethical approval from 2 separate ethics committees: in April 2013 from the Ethical Committee of the University Hospital of Gent and in May 2013 from the Burkinabe National Ethical Committee.",
+        "section": "Methods",
+        "section_number": 4,
+        "sentences": [
+            "The MAM\u00d5Out study.",
+            "The MAM\u00d5Out study (17) was implemented from June 2013 to October 2015 in Tapoa Province, in the Eastern region of Burkina Faso.",
+            "The aim was to evaluate whether multiannual, seasonal, unconditional cash transfers helped prevent acute malnutrition in young children.",
+            "It was designed as a cluster-randomized controlled trial, in which 16 villages received monthly cash payments from July to November in both 2013 and 2014 and 16 other villages were used as the control group.",
+            "The cash [10,000 West African CFA franc (XOF)/ mo; ;US$17] was distributed to mothers via mobile phone, with no conditions or restrictions on use.",
+            "Because cash transfers were unconditional, beneficiaries did not have to fulfill conditions other than the inclusion criteria in order to receive cash.",
+            "In June 2013, 1278 children <1 y of age and living in poor or very poor households according to the Household Economy Approach (18) were included in the study and followed for #2 y. The study, including the 24-h dietary recall survey, was registered in clinicaltrials.gov (NCT01866124) on 7 May 2013 and received ethical approval from 2 separate ethics committees: in April 2013 from the Ethical Committee of the University Hospital of Gent and in May 2013 from the Burkinabe National Ethical Committee."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Study population and sample size. The Eastern region of Burkina Faso has a Sudan-Sahelian climate, characterized by 2 distinct seasons: a hot and dry period from October to May and a rainy season from June to September. The 24-h dietary recall was a cross-sectional substudy nested within the MAM\u00d5Out study. Due to limited access in the rainy season, 6 remote clusters were purposely excluded from this substudy: 3 in the control group and 3 in the intervention group. A subsample of children included in the MAM\u00d5Out study were then randomly chosen among the 26 remaining villages to be part of the 24-h dietary recall study. No restriction was placed on the children\u00d5s age or nutritional status. Children in both arms were randomly selected by using the computerized random-number generator in Stata 12.0 (StataCorp). With a type I error of 5% and a statistical power of 80%, assuming a size effect of 0.4 and a design effect of 1.5 (19) , with 13 clusters/study arms, 156 children/study arm were required. Allowing for 5-10% nonresponse, we increased the sample size to 166 children/study arm.",
+        "section": "Methods",
+        "section_number": 5,
+        "sentences": [
+            "Study population and sample size.",
+            "The Eastern region of Burkina Faso has a Sudan-Sahelian climate, characterized by 2 distinct seasons: a hot and dry period from October to May and a rainy season from June to September.",
+            "The 24-h dietary recall was a cross-sectional substudy nested within the MAM\u00d5Out study.",
+            "Due to limited access in the rainy season, 6 remote clusters were purposely excluded from this substudy: 3 in the control group and 3 in the intervention group.",
+            "A subsample of children included in the MAM\u00d5Out study were then randomly chosen among the 26 remaining villages to be part of the 24-h dietary recall study.",
+            "No restriction was placed on the children\u00d5s age or nutritional status.",
+            "Children in both arms were randomly selected by using the computerized random-number generator in Stata 12.0 (StataCorp).",
+            "With a type I error of 5% and a statistical power of 80%, assuming a size effect of 0.4 and a design effect of 1.5 (19) , with 13 clusters/study arms, 156 children/study arm were required.",
+            "Allowing for 5-10% nonresponse, we increased the sample size to 166 children/study arm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "37192",
+        "text": "Data collection. Four teams of 2 data collectors received 1 wk of training on the multipass 24-h dietary recall method (20) . Standardization exercises for food-weight measurements and interview techniques were taught and questionnaires were pretested. All of the data collectors spoke Gulmancema (the main local language) and 2 also spoke Pulaar fluently. Two of the data collectors were selected to be supervisors during data collection to check the quality of data collection and to coordinate awareness-raising activities in the 24-h dietary recall study. These activities took place 1 or 2 d before data collection and consisted of a visit to the selected household and the presentation of the data collection procedure. The caregiver was also given a standard 24-h recall kit comprising a plate and a bowl to estimate the quantities eaten by the child. Caregivers were asked to set aside a small quantity of the food eaten by the child the day before the visit to facilitate the recall and to take note of the ingredients used to prepare the food.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "Data collection.",
+            "Four teams of 2 data collectors received 1 wk of training on the multipass 24-h dietary recall method (20) .",
+            "Standardization exercises for food-weight measurements and interview techniques were taught and questionnaires were pretested.",
+            "All of the data collectors spoke Gulmancema (the main local language) and 2 also spoke Pulaar fluently.",
+            "Two of the data collectors were selected to be supervisors during data collection to check the quality of data collection and to coordinate awareness-raising activities in the 24-h dietary recall study.",
+            "These activities took place 1 or 2 d before data collection and consisted of a visit to the selected household and the presentation of the data collection procedure.",
+            "The caregiver was also given a standard 24-h recall kit comprising a plate and a bowl to estimate the quantities eaten by the child.",
+            "Caregivers were asked to set aside a small quantity of the food eaten by the child the day before the visit to facilitate the recall and to take note of the ingredients used to prepare the food."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Data were collected during the lean season and the cash transfer period (July and August 2014). Data consisted of 2 interactive 24-h dietary recalls and 2 questionnaires on breastfeeding practices per child on 2 nonconsecutive days. This was meant to reduce bias due to dependency of intake on 2 consecutive days due to the possible consumption of leftovers. On the day of data collection, data collectors asked the caregiver to describe the food consumed by the child on the previous day. Information was recorded on a classic 24-h food recall form as proposed by Gibson and Ferguson (20) . To minimize recall bias, interviews were held with the use of a standardized 3-pass method adapted from Gibson and Ferguson\u00d5s manual for developing countries (20) . First, the caregiver was asked to recall all of the foods the child ate the previous day, including snacks and drinks, from the moment the caregiver woke up the day before until the moment he or she woke up on the day of the recall interview. The caregivers were then asked to describe the composition of the listed composite foods and beverages. The next step was to estimate the amounts of foods and beverages consumed by using the recall kit. Tanita digital scales (precision of 1 g; model KD-400; Tanita Corporation) were used to weigh the food. The scales were calibrated daily. In the final step, the data collectors read back all the answers to verify that no answers had been omitted. Each interview lasted between 45 min and 1 h.",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "Data were collected during the lean season and the cash transfer period (July and August 2014).",
+            "Data consisted of 2 interactive 24-h dietary recalls and 2 questionnaires on breastfeeding practices per child on 2 nonconsecutive days.",
+            "This was meant to reduce bias due to dependency of intake on 2 consecutive days due to the possible consumption of leftovers.",
+            "On the day of data collection, data collectors asked the caregiver to describe the food consumed by the child on the previous day.",
+            "Information was recorded on a classic 24-h food recall form as proposed by Gibson and Ferguson (20) .",
+            "To minimize recall bias, interviews were held with the use of a standardized 3-pass method adapted from Gibson and Ferguson\u00d5s manual for developing countries (20) .",
+            "First, the caregiver was asked to recall all of the foods the child ate the previous day, including snacks and drinks, from the moment the caregiver woke up the day before until the moment he or she woke up on the day of the recall interview.",
+            "The caregivers were then asked to describe the composition of the listed composite foods and beverages.",
+            "The next step was to estimate the amounts of foods and beverages consumed by using the recall kit.",
+            "Tanita digital scales (precision of 1 g; model KD-400; Tanita Corporation) were used to weigh the food.",
+            "The scales were calibrated daily.",
+            "In the final step, the data collectors read back all the answers to verify that no answers had been omitted.",
+            "Each interview lasted between 45 min and 1 h."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Recalled composite food and beverage intakes were converted to single ingredients by using standardized recipes. A list of the main composite dishes was then extracted from preliminary analysis of the 24-h dietary recall data. For each composite dish, 5 caregivers living in the study area were asked to prepare the composite food to identify its main ingredients. Raw ingredients, their amounts, and the total cooked weight and volume were recorded to compile standardized recipes.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "Recalled composite food and beverage intakes were converted to single ingredients by using standardized recipes.",
+            "A list of the main composite dishes was then extracted from preliminary analysis of the 24-h dietary recall data.",
+            "For each composite dish, 5 caregivers living in the study area were asked to prepare the composite food to identify its main ingredients.",
+            "Raw ingredients, their amounts, and the total cooked weight and volume were recorded to compile standardized recipes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Because the children randomly selected to participate in the 24-h dietary recall surveys were between 14 and 27 mo old, many of them were still breastfed. Hence, breastfeeding practices were evaluated in addition to the quantity of food consumed by using a detailed questionnaire. The number of times a child was breastfed, the time of day, and the approximate duration of each session were recalled. Data collectors asked the caregivers to recall their previous day, beginning when they woke up the previous day and ending when they woke up on The data presented in this article are part of the MAM\u00d5Out (Moderate Acute Malnutrition Out) study, funded by Action Against Hunger, France, and the CDC. The cash transfer program was made possible thanks to European Commission funds. The MAM\u00d5Out project also received financial contributions from European Commission, the US Agency for International Development (through the Technical Operational Performance Support program), and the Research Foundation of Action Against Hunger (France) for research uptake and the dissemination of results. Author disclosures: LH, PK, and J-FH, no conflicts of interest. AT-P, FH, CA, and MA-A are currently employed by Action Contre la Faim, which implemented the MAM\u00d5Out study. Address correspondence to AT-P (e-mail: apapucci@actioncontrelafaim.org).",
+        "section": "Methods",
+        "section_number": 9,
+        "sentences": [
+            "Because the children randomly selected to participate in the 24-h dietary recall surveys were between 14 and 27 mo old, many of them were still breastfed.",
+            "Hence, breastfeeding practices were evaluated in addition to the quantity of food consumed by using a detailed questionnaire.",
+            "The number of times a child was breastfed, the time of day, and the approximate duration of each session were recalled.",
+            "Data collectors asked the caregivers to recall their previous day, beginning when they woke up the previous day and ending when they woke up on The data presented in this article are part of the MAM\u00d5Out (Moderate Acute Malnutrition Out) study, funded by Action Against Hunger, France, and the CDC.",
+            "The cash transfer program was made possible thanks to European Commission funds.",
+            "The MAM\u00d5Out project also received financial contributions from European Commission, the US Agency for International Development (through the Technical Operational Performance Support program), and the Research Foundation of Action Against Hunger (France) for research uptake and the dissemination of results.",
+            "Author disclosures: LH, PK, and J-FH, no conflicts of interest.",
+            "AT-P, FH, CA, and MA-A are currently employed by Action Contre la Faim, which implemented the MAM\u00d5Out study.",
+            "Address correspondence to AT-P (e-mail: apapucci@actioncontrelafaim.org)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "the day of the interview. Each breastfeeding session was then recorded in a table with its approximate duration (0-10, 11-20, or 21-30 min).",
+        "section": "Methods",
+        "section_number": 10,
+        "sentences": [
+            "the day of the interview.",
+            "Each breastfeeding session was then recorded in a table with its approximate duration (0-10, 11-20, or 21-30 min)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "The data collected in the 24-h dietary recalls and breastfeeding questionnaires were coded with the unique identification number allocated to each child in the MAM\u00d5Out study (17) . None of the paper records included the child\u00d5s name or address.",
+        "section": "Methods",
+        "section_number": 11,
+        "sentences": [
+            "The data collected in the 24-h dietary recalls and breastfeeding questionnaires were coded with the unique identification number allocated to each child in the MAM\u00d5Out study (17) .",
+            "None of the paper records included the child\u00d5s name or address."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "In addition, data concerning the children\u00d5s nutritional status and date of birth, level of education of the caregiver, and the households\u00d5 socioeconomic status were imported from the MAM\u00d5Out database for the purpose of analysis. For socioeconomic status, tertiles were created among the poor and very poor households included in the study on the basis of the first component arising from principal components analysis of declared assets ownership. Stunting is defined by a height-for-age z score <22 [according to the 2006 WHO growth standards (21) ] and wasting as a weight-for-height z score <22 or the presence of bilateral pitting edema. These data were collected from 23 June to 26 September 2014, thus including the 24-h dietary recall period.",
+        "section": "Methods",
+        "section_number": 12,
+        "sentences": [
+            "In addition, data concerning the children\u00d5s nutritional status and date of birth, level of education of the caregiver, and the households\u00d5 socioeconomic status were imported from the MAM\u00d5Out database for the purpose of analysis.",
+            "For socioeconomic status, tertiles were created among the poor and very poor households included in the study on the basis of the first component arising from principal components analysis of declared assets ownership.",
+            "Stunting is defined by a height-for-age z score <22 [according to the 2006 WHO growth standards (21) ] and wasting as a weight-for-height z score <22 or the presence of bilateral pitting edema.",
+            "These data were collected from 23 June to 26 September 2014, thus including the 24-h dietary recall period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Data analyses. Data on the 24-h dietary recalls were entered in Lucille, a computer program conceived by Ghent University, Belgium, and analyzed by using Stata 12.0. The food-composition table used to describe the quality of the intake was a combination of 3 sources. The West African food-composition table endorsed and developed by the FAO and the International Network of Food Data System (22) was used as the primary data source to obtain energy and nutrient concentrations per food. However, a check of the 24-h dietary recall questionnaires showed that some food products consumed by the children were missing. Information on the missing products was taken from the foodcomposition table used in Burkina Faso and also by Arsenault et al. (19) . If no information was available on a given food (e.g., sparrow hawk meat and djonkin juice) in the Burkinabe table, an Internet search was conducted or the information [for Yonhanma flour (Nutrifaso project), Plumpy\u00d5nut (Nutriset), and Supplementary Plumpy (Nutriset)] was taken from the label on the food product. The compositions of 73% of the ingredients of the consumed foods were obtained from the West African food-composition table (22) , 20% from the food-composition table used in Burkina Faso (19) , 3% from Internet, and 4% from food product labels.",
+        "section": "Methods",
+        "section_number": 13,
+        "sentences": [
+            "Data analyses.",
+            "Data on the 24-h dietary recalls were entered in Lucille, a computer program conceived by Ghent University, Belgium, and analyzed by using Stata 12.0.",
+            "The food-composition table used to describe the quality of the intake was a combination of 3 sources.",
+            "The West African food-composition table endorsed and developed by the FAO and the International Network of Food Data System (22) was used as the primary data source to obtain energy and nutrient concentrations per food.",
+            "However, a check of the 24-h dietary recall questionnaires showed that some food products consumed by the children were missing.",
+            "Information on the missing products was taken from the foodcomposition table used in Burkina Faso and also by Arsenault et al. (19) .",
+            "If no information was available on a given food (e.g., sparrow hawk meat and djonkin juice) in the Burkinabe table, an Internet search was conducted or the information [for Yonhanma flour (Nutrifaso project), Plumpy\u00d5nut (Nutriset), and Supplementary Plumpy (Nutriset)] was taken from the label on the food product.",
+            "The compositions of 73% of the ingredients of the consumed foods were obtained from the West African food-composition table (22) , 20% from the food-composition table used in Burkina Faso (19) , 3% from Internet, and 4% from food product labels."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "The absorption of certain micronutrients, such as iron, calcium, and zinc, by the human body depends on their chemical forms and on the presence of antinutrients that inhibit absorption (20) . To account for differences related to the different food sources, absorbed iron was calculated on the basis of the bioavailability factors of iron; 6% of iron bioavailability was applied to plant food sources and 11% to animal sources (23, 24) . For absorbed calcium, 25% was applied to roots, tubers, legumes and grains; 45% to fruit and vegetables; and 32% to all other food groups (24) . Because phytate concentrations were not available, it was not possible to calculate the phytate to zinc molar ratio. The absorption level for zinc derived from the 2004 Working Group of the International Zinc Nutrition Consultative Group was used instead. The 15% zinc bioavailability was determined on the basis of a diet based on unrefined cereals (25) .",
+        "section": "Methods",
+        "section_number": 14,
+        "sentences": [
+            "The absorption of certain micronutrients, such as iron, calcium, and zinc, by the human body depends on their chemical forms and on the presence of antinutrients that inhibit absorption (20) .",
+            "To account for differences related to the different food sources, absorbed iron was calculated on the basis of the bioavailability factors of iron; 6% of iron bioavailability was applied to plant food sources and 11% to animal sources (23, 24) .",
+            "For absorbed calcium, 25% was applied to roots, tubers, legumes and grains; 45% to fruit and vegetables; and 32% to all other food groups (24) .",
+            "Because phytate concentrations were not available, it was not possible to calculate the phytate to zinc molar ratio.",
+            "The absorption level for zinc derived from the 2004 Working Group of the International Zinc Nutrition Consultative Group was used instead.",
+            "The 15% zinc bioavailability was determined on the basis of a diet based on unrefined cereals (25) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Data obtained from the breastfeeding questionnaires were entered in Epidata software and analyzed by using Stata 12.0. The mean duration of breastfeeding was calculated by summing the approximate durations of each breastfeeding session over the recalled day: 5 min was used if the mother said that breastfeeding lasted between 1 and 10 min, 15 min if the answer was between 11 and 20 min, and 25 min if the answer was 21-30 min. The mean number of breastfeeding sessions, the mean duration of a breastfeeding session, and the percentage of children still breastfed were also calculated.",
+        "section": "Methods",
+        "section_number": 15,
+        "sentences": [
+            "Data obtained from the breastfeeding questionnaires were entered in Epidata software and analyzed by using Stata 12.0.",
+            "The mean duration of breastfeeding was calculated by summing the approximate durations of each breastfeeding session over the recalled day: 5 min was used if the mother said that breastfeeding lasted between 1 and 10 min, 15 min if the answer was between 11 and 20 min, and 25 min if the answer was 21-30 min.",
+            "The mean number of breastfeeding sessions, the mean duration of a breastfeeding session, and the percentage of children still breastfed were also calculated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "A DDS was calculated on the basis of 7 food groups, namely the following: 1) grains, roots, and tubers; 2) legumes and nuts; 3) dairy products; 4) flesh foods; 5) eggs; 6) vitamin A-rich fruit and vegetables; and 7) other fruit and vegetables (26) . DDSs were calculated by summing the number of unique food groups eaten by the child during the 24-h dietary recall period. Meal frequency was calculated by summing the number of times each a child ate solid, semisolid, or soft foods (even a snack) during the day. The minimum acceptable diet was defined by the WHO as having a DDS $4 and a sufficient meal frequency (e.g., 3 and 4 meals/24 h for breastfed and non-breastfed children, respectively) (26) . The proportion of children consuming iron-rich or iron-fortified food was also calculated, including the consumption of flesh foods and commercial or homemade fortified foods.",
+        "section": "Methods",
+        "section_number": 16,
+        "sentences": [
+            "A DDS was calculated on the basis of 7 food groups, namely the following: 1) grains, roots, and tubers; 2) legumes and nuts; 3) dairy products; 4) flesh foods; 5) eggs; 6) vitamin A-rich fruit and vegetables; and 7) other fruit and vegetables (26) .",
+            "DDSs were calculated by summing the number of unique food groups eaten by the child during the 24-h dietary recall period.",
+            "Meal frequency was calculated by summing the number of times each a child ate solid, semisolid, or soft foods (even a snack) during the day.",
+            "The minimum acceptable diet was defined by the WHO as having a DDS $4 and a sufficient meal frequency (e.g., 3 and 4 meals/24 h for breastfed and non-breastfed children, respectively) (26) .",
+            "The proportion of children consuming iron-rich or iron-fortified food was also calculated, including the consumption of flesh foods and commercial or homemade fortified foods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "The 2005 estimated energy requirements (EERs) by age group and sex published by the Institute of Medicine (27) were used to identify outliers for energy intakes. An arbitrary overreporting threshold was established when the mean energy intake of a child was more than twice the EER for his or her sex and age group. In the same way, underreporting was considered when the mean energy intake was <30% of the EER for the child\u00d5s age group and sex. A total of 8 children were excluded from the study: 3 for overreporting in the control group, 4 for overreporting in the cash group, and 1 for underreporting in the control group. Two children aged >27 mo were also excluded from the study because they were outliers in age. Data were analyzed with and without the exclusion of these 10 children and the overall results did not differ.",
+        "section": "Methods",
+        "section_number": 17,
+        "sentences": [
+            "The 2005 estimated energy requirements (EERs) by age group and sex published by the Institute of Medicine (27) were used to identify outliers for energy intakes.",
+            "An arbitrary overreporting threshold was established when the mean energy intake of a child was more than twice the EER for his or her sex and age group.",
+            "In the same way, underreporting was considered when the mean energy intake was <30% of the EER for the child\u00d5s age group and sex.",
+            "A total of 8 children were excluded from the study: 3 for overreporting in the control group, 4 for overreporting in the cash group, and 1 for underreporting in the control group.",
+            "Two children aged >27 mo were also excluded from the study because they were outliers in age.",
+            "Data were analyzed with and without the exclusion of these 10 children and the overall results did not differ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "The primary outcome of the study was child energy intake. Usual intake distributions of nutrients and energy were generated by using the Multiple Source Method (28) on the basis of the 2 dietary recalls collected per child. No covariate was added to the model. The usual intake distributions obtained were subsequently used to calculate means and SDs to describe the children\u00d5s intakes. Differences in energy and nutrient intakes between the intervention and the control groups were analyzed by using linear mixed models including ''village'' as a random effect to account for clustered observations. Fixed effects included in the models were the child\u00d5s age at recall, child\u00d5s sex, mother\u00d5s literacy rate, and household\u00d5s socioeconomic status. When the distribution was not bell-shaped, variables were first log-transformed and then analyzed. Mixed-effects Poisson regression models were used to analyze differences in the DDS and the number of meals per day. Random and fixed effects were the same as those described above. Differences in the quantities of each food group consumed by children in the intervention and control groups were analyzed by using a g generalized linear model with log link (29) , adjusted for village as a random effect and adjusted for all of the above-mentioned covariates. This model was chosen to take into account the high frequencies of nonconsumption among the data, resulting in many zeros in the data set. All of the tests were 2-sided, and a significance level of 5% was used for all analyses.",
+        "section": "Methods",
+        "section_number": 18,
+        "sentences": [
+            "The primary outcome of the study was child energy intake.",
+            "Usual intake distributions of nutrients and energy were generated by using the Multiple Source Method (28) on the basis of the 2 dietary recalls collected per child.",
+            "No covariate was added to the model.",
+            "The usual intake distributions obtained were subsequently used to calculate means and SDs to describe the children\u00d5s intakes.",
+            "Differences in energy and nutrient intakes between the intervention and the control groups were analyzed by using linear mixed models including ''village'' as a random effect to account for clustered observations.",
+            "Fixed effects included in the models were the child\u00d5s age at recall, child\u00d5s sex, mother\u00d5s literacy rate, and household\u00d5s socioeconomic status.",
+            "When the distribution was not bell-shaped, variables were first log-transformed and then analyzed.",
+            "Mixed-effects Poisson regression models were used to analyze differences in the DDS and the number of meals per day.",
+            "Random and fixed effects were the same as those described above.",
+            "Differences in the quantities of each food group consumed by children in the intervention and control groups were analyzed by using a g generalized linear model with log link (29) , adjusted for village as a random effect and adjusted for all of the above-mentioned covariates.",
+            "This model was chosen to take into account the high frequencies of nonconsumption among the data, resulting in many zeros in the data set.",
+            "All of the tests were 2-sided, and a significance level of 5% was used for all analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "General characteristics. The data available for analysis included 2 dietary recalls from 322 children aged 14-27 mo (Figure 1) . All of the children sampled were surveyed. Child characteristics ( Table 1) were balanced between children in the intervention and control groups for age and breastfeeding practices. Children were, on average, 20.5 6 0.16 mo old, and 72% were still partially breastfed. The mean duration of breastfeeding per day was 52.3 6 2.18 min, and each breastfeeding session lasted 6.86 6 0.28 min. The intraclass correlations (95% CI) between the 2 recalls were 0.80 (0.76, 0.84), 0.80 (0.76, 0.84), and 0.56 (0.48, 0.65) for the duration of each breastfeeding session, the total duration of breastfeeding per day, and the mean number of breastfeeding sessions per day, respectively (P < 0.0001 for all). Child nutritional status was also balanced between the intervention and control group with the exception of the mean weight-for-height z score, which was slightly lower in the control group than in the intervention group (20.89 6 0.07 compared with 20.77 6 0.07). Socioeconomic status also slightly differed between households benefiting from cash transfers and control households, with more intervention households being classified as having a medium socioeconomic status (40.9% compared with 32.9%).",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "General characteristics.",
+            "The data available for analysis included 2 dietary recalls from 322 children aged 14-27 mo (Figure 1) .",
+            "All of the children sampled were surveyed.",
+            "Child characteristics ( Table 1) were balanced between children in the intervention and control groups for age and breastfeeding practices.",
+            "Children were, on average, 20.5 6 0.16 mo old, and 72% were still partially breastfed.",
+            "The mean duration of breastfeeding per day was 52.3 6 2.18 min, and each breastfeeding session lasted 6.86 6 0.28 min.",
+            "The intraclass correlations (95% CI) between the 2 recalls were 0.80 (0.76, 0.84), 0.80 (0.76, 0.84), and 0.56 (0.48, 0.65) for the duration of each breastfeeding session, the total duration of breastfeeding per day, and the mean number of breastfeeding sessions per day, respectively (P < 0.0001 for all).",
+            "Child nutritional status was also balanced between the intervention and control group with the exception of the mean weight-for-height z score, which was slightly lower in the control group than in the intervention group (20.89 6 0.07 compared with 20.77 6 0.07).",
+            "Socioeconomic status also slightly differed between households benefiting from cash transfers and control households, with more intervention households being classified as having a medium socioeconomic status (40.9% compared with 32.9%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Indicators for food diversity and infant and young child feeding practices. After the cash transfer, the 24-h dietary recall surveys identified that a bigger proportion of children in the intervention group consumed milk and dairy products (25.0% compared with 7.41%; P = 0.007), flesh foods (26.3% compared with 14.8%; P = 0.01), and eggs (31.3% compared with 11.1%; P = 0.003) compared with children in the control Table 2) . In terms of quantities, children in the intervention group consumed, on average, more eggs (P < 0.001) than did children in the control group ( Table 3) .",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "Indicators for food diversity and infant and young child feeding practices.",
+            "After the cash transfer, the 24-h dietary recall surveys identified that a bigger proportion of children in the intervention group consumed milk and dairy products (25.0% compared with 7.41%; P = 0.007), flesh foods (26.3% compared with 14.8%; P = 0.01), and eggs (31.3% compared with 11.1%; P = 0.003) compared with children in the control Table 2) .",
+            "In terms of quantities, children in the intervention group consumed, on average, more eggs (P < 0.001) than did children in the control group ( Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "There was a trend toward a higher mean DDS for the children in the intervention group (4.02 6 0.06) compared with that of the children in the control group (3.61 6 0.05; P = 0.07) ( Table 4) . Approximately two-thirds of the children in the intervention group had an adequate minimum dietary diversity compared with one-third in the control group (P < 0.001). We did not observe a difference in the frequency of meals between the groups, and almost all of the children in both groups had an adequate minimum meal frequency. The percentage of children who consumed iron-rich or iron-fortified food was also higher in the intervention group (35.6%) than in the control group (21.1%) (P < 0.05).",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "There was a trend toward a higher mean DDS for the children in the intervention group (4.02 6 0.06) compared with that of the children in the control group (3.61 6 0.05; P = 0.07) ( Table 4) .",
+            "Approximately two-thirds of the children in the intervention group had an adequate minimum dietary diversity compared with one-third in the control group (P < 0.001).",
+            "We did not observe a difference in the frequency of meals between the groups, and almost all of the children in both groups had an adequate minimum meal frequency.",
+            "The percentage of children who consumed iron-rich or iron-fortified food was also higher in the intervention group (35.6%) than in the control group (21.1%) (P < 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Energy and nutrient intakes. We did not find any significant difference in mean energy intakes from complementary foods (defined as all solid, semisolid, and soft foods given to the children in addition to breastfeeding) between the intervention and the control groups ( Table 5) . However, we found that children in the intervention group consumed more fat (P < 0.01) than children in the control group and had a tendency to consume more protein (P = 0.06). Considering the contribution of macronutrients to energy intake, children who benefited from cash transfers consumed more energy from fats (P < 0.01) and less from carbohydrates (P < 0.01) than children in the control group. Children in the intervention group had significantly higher intakes of vitamin B-12 (P < 0.001), riboflavin (P < 0.05), and vitamin E (P < 0.05) compared with children in the control group ( Table 6 ).",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "Energy and nutrient intakes.",
+            "We did not find any significant difference in mean energy intakes from complementary foods (defined as all solid, semisolid, and soft foods given to the children in addition to breastfeeding) between the intervention and the control groups ( Table 5) .",
+            "However, we found that children in the intervention group consumed more fat (P < 0.01) than children in the control group and had a tendency to consume more protein (P = 0.06).",
+            "Considering the contribution of macronutrients to energy intake, children who benefited from cash transfers consumed more energy from fats (P < 0.01) and less from carbohydrates (P < 0.01) than children in the control group.",
+            "Children in the intervention group had significantly higher intakes of vitamin B-12 (P < 0.001), riboflavin (P < 0.05), and vitamin E (P < 0.05) compared with children in the control group ( Table 6 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Our study aimed to assess the effects of seasonal unconditional cash transfers on energy and micro-and macronutrient intakes of young Burkinabe children by using the strong design of a randomized controlled trial. The results of the 24-h dietary recall surveys showed that cash transfer during the lean season improved the diet of children aged 14-27 mo. We observed positive effects on the quantity of eggs consumed as well as on the percentage of children consuming meat, eggs, and dairy products.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Our study aimed to assess the effects of seasonal unconditional cash transfers on energy and micro-and macronutrient intakes of young Burkinabe children by using the strong design of a randomized controlled trial.",
+            "The results of the 24-h dietary recall surveys showed that cash transfer during the lean season improved the diet of children aged 14-27 mo.",
+            "We observed positive effects on the quantity of eggs consumed as well as on the percentage of children consuming meat, eggs, and dairy products."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Our results of the impact of an unconditional cash transfer on children\u00d5s dietary diversity and frequency of food group consumption are in line with those of 2 other studies that investigated the effect of unconditional cash transfers on children\u00d5s diet. The Malawi Social Cash Transfer Scheme led to a more diverse diet in beneficiary households, with more individuals eating meat, fish, and dairy products than in households in the control group (15) . In Kenya, Haushofer and Shapiro (30) found that households benefiting from unconditional cash transfers consumed meat and fish more frequently than households in the control group. Approximately two-thirds of the children in the intervention group benefited from adequate minimum dietary diversity compared with only one-third in the control group. This is a significant improvement over the figures cited in the most recent demographic and health survey conducted in Burkina Faso, which reported that only 6.2% of children aged 6-23 mo living in the Eastern region consumed $4 food groups (31) . It is, however, noteworthy that 13.4% of the children in our study were $24 mo old, and that we surveyed children from 2 municipalities out of 27 of the Eastern region. We did not observe a difference in mean energy intakes between children in the intervention group and in the control group. However, the source of energy differed between the 2 groups: energy originated mainly from fat in children in the intervention group, and to a lesser extent from carbohydrates, compared with children in the control group. Nevertheless, relative fat intake remained at the lower end of the recommended complementary food fat intake values [between 21% and 43% of energy intake in case of a medium level of energy intake from breast milk (32) ].",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Our results of the impact of an unconditional cash transfer on children\u00d5s dietary diversity and frequency of food group consumption are in line with those of 2 other studies that investigated the effect of unconditional cash transfers on children\u00d5s diet.",
+            "The Malawi Social Cash Transfer Scheme led to a more diverse diet in beneficiary households, with more individuals eating meat, fish, and dairy products than in households in the control group (15) .",
+            "In Kenya, Haushofer and Shapiro (30) found that households benefiting from unconditional cash transfers consumed meat and fish more frequently than households in the control group.",
+            "Approximately two-thirds of the children in the intervention group benefited from adequate minimum dietary diversity compared with only one-third in the control group.",
+            "This is a significant improvement over the figures cited in the most recent demographic and health survey conducted in Burkina Faso, which reported that only 6.2% of children aged 6-23 mo living in the Eastern region consumed $4 food groups (31) .",
+            "It is, however, noteworthy that 13.4% of the children in our study were $24 mo old, and that we surveyed children from 2 municipalities out of 27 of the Eastern region.",
+            "We did not observe a difference in mean energy intakes between children in the intervention group and in the control group.",
+            "However, the source of energy differed between the 2 groups: energy originated mainly from fat in children in the intervention group, and to a lesser extent from carbohydrates, compared with children in the control group.",
+            "Nevertheless, relative fat intake remained at the lower end of the recommended complementary food fat intake values [between 21% and 43% of energy intake in case of a medium level of energy intake from breast milk (32) ]."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Foods in the present study had a mean complementary food density of 0.77 kcal/g, and children consumed an average of 4.8 meals/d. According to Dewey and Brown (32) , children aged 12-23 mo with a low amount of energy intake from breast milk should eat a minimum of 5 meals/d if the complementary food density is 0.6 kcal/g and 3.7 meals/d if the density reaches 0.8 kcal/g. This value is based on the definition of meal frequency, including both meals and snacks, as defined by the WHO (26) . Therefore, our results show that the complementary food density was adequate during the lean season and corresponded to international recommendations. This result was quite unexpected during the lean season, given the high carbohydrate and low fat content of the complementary foods the children received. This outcome is partly due to the number of meals or snacks each child consumed each day. In our study, the meal frequency of 99% for all children was adequate, compared with only 39% for all children aged 6-23 mo living in the Eastern region of Burkina Faso (31). One possible explanation could be linked to the age of the children we surveyed, who are, on average, 20.5 mo old, with 13% of the children >24 mo old.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Foods in the present study had a mean complementary food density of 0.77 kcal/g, and children consumed an average of 4.8 meals/d.",
+            "According to Dewey and Brown (32) , children aged 12-23 mo with a low amount of energy intake from breast milk should eat a minimum of 5 meals/d if the complementary food density is 0.6 kcal/g and 3.7 meals/d if the density reaches 0.8 kcal/g.",
+            "This value is based on the definition of meal frequency, including both meals and snacks, as defined by the WHO (26) .",
+            "Therefore, our results show that the complementary food density was adequate during the lean season and corresponded to international recommendations.",
+            "This result was quite unexpected during the lean season, given the high carbohydrate and low fat content of the complementary foods the children received.",
+            "This outcome is partly due to the number of meals or snacks each child consumed each day.",
+            "In our study, the meal frequency of 99% for all children was adequate, compared with only 39% for all children aged 6-23 mo living in the Eastern region of Burkina Faso (31).",
+            "One possible explanation could be linked to the age of the children we surveyed, who are, on average, 20.5 mo old, with 13% of the children >24 mo old."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Vitamin B-12, riboflavin, and vitamin E intakes were significantly higher in children in the intervention group. This is encouraging given the important role of vitamins B-12 and E in the immune system (33) . The higher intake of vitamin B-12 may be the consequence of the larger quantity of eggs consumed by children in the intervention group. However, despite the larger quantities of iron-rich food consumed, we found no difference in iron intake between the 2 groups.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Vitamin B-12, riboflavin, and vitamin E intakes were significantly higher in children in the intervention group.",
+            "This is encouraging given the important role of vitamins B-12 and E in the immune system (33) .",
+            "The higher intake of vitamin B-12 may be the consequence of the larger quantity of eggs consumed by children in the intervention group.",
+            "However, despite the larger quantities of iron-rich food consumed, we found no difference in iron intake between the 2 groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Several strengths can be highlighted for this study. The 24-h dietary recalls were implemented in the framework of a clusterrandomized controlled trial and took advantage of its strong design. All of the basic characteristics of the intervention and control groups, including height-for-age z score, were comparable, except for the slightly lower mean weight-for-height z score of children in the control group. However, because adjusting the analyses for nutritional status and breastfeeding practices, which may both have changed as a result of the cash transfer program, holds a risk of bias, we did not adjust the analyses for these 2 factors. The 1-wk training the data collectors underwent on the 24-h food recall methodology allowed for the standardization and pretesting of the method of data collection. In addition, the 2-mo period of data collection was supervised: every week, 2 of the children visited by each data collector were visited a second time by the supervisor to check on the data collected. A number of study limitations also need to be addressed. First, we were unable to adjust analyses for data collectors, due to an error during data entry. Collector bias was nevertheless limited by the fact that 2 different data collectors systematically conducted the 2 recalls in the same household. Second, the 6 clusters excluded from data collection due to difficult access may have had a higher prevalence of acute malnutrition than those that were included. The effect of the intervention might also have been lower in these villages due to limited access to the market. Third, two-thirds of the children in the study were still breastfed at the time of the evaluation. To our knowledge, no precise technique to evaluate the quantity of milk consumed by children is currently available, beyond weighing the child before and after breastfeeding or giving isotopic labeled water to mothers. In the MAM\u00d5Out study area, it was not possible to use either of these techniques due to operational constraints. We tried to overcome this problem by designing a detailed questionnaire on breastfeeding practices to estimate the number of times a child was breastfed during the day and the corresponding duration, but this was still not sufficient to estimate energy intake from breast milk. One possible solution would have been to hypothesize average breast milk intake as has been done in previous studies (34) . However, this is still an estimation and does not measure the breast-milk intake precisely. Because the same estimation method was used in both groups, we assume that the measurement error was similar for the 2 groups. Fourth, we did not adjust our analyses for multiple hypothesis testing. Although this is still an ongoing debate (35) , concerns may be raised about the need to re-evaluate the P values used for the significance of the results, which may decrease the number of significant differences we found between groups. However, the results presented here tend to go in the same direction (with a higher number of children consuming animal products in the intervention group, more egg intake in term of quantities, and more vitamin B-12 intake), which strengthens confidence in them (35) . Finally, no measurement of body composition or biomarkers before or after the intervention was performed. As such, it is hard to observe the direct health benefits of the intervention. However, our results show, first, that unrestricted and unconditional cash was used for food purposes and allowed improvement in children\u00d5s diet quality. Yet, the amount distributed may have been too low with respect to family size to have a positive effect on children\u00d5s health via an improved diet quality.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "Several strengths can be highlighted for this study.",
+            "The 24-h dietary recalls were implemented in the framework of a clusterrandomized controlled trial and took advantage of its strong design.",
+            "All of the basic characteristics of the intervention and control groups, including height-for-age z score, were comparable, except for the slightly lower mean weight-for-height z score of children in the control group.",
+            "However, because adjusting the analyses for nutritional status and breastfeeding practices, which may both have changed as a result of the cash transfer program, holds a risk of bias, we did not adjust the analyses for these 2 factors.",
+            "The 1-wk training the data collectors underwent on the 24-h food recall methodology allowed for the standardization and pretesting of the method of data collection.",
+            "In addition, the 2-mo period of data collection was supervised: every week, 2 of the children visited by each data collector were visited a second time by the supervisor to check on the data collected.",
+            "A number of study limitations also need to be addressed.",
+            "First, we were unable to adjust analyses for data collectors, due to an error during data entry.",
+            "Collector bias was nevertheless limited by the fact that 2 different data collectors systematically conducted the 2 recalls in the same household.",
+            "Second, the 6 clusters excluded from data collection due to difficult access may have had a higher prevalence of acute malnutrition than those that were included.",
+            "The effect of the intervention might also have been lower in these villages due to limited access to the market.",
+            "Third, two-thirds of the children in the study were still breastfed at the time of the evaluation.",
+            "To our knowledge, no precise technique to evaluate the quantity of milk consumed by children is currently available, beyond weighing the child before and after breastfeeding or giving isotopic labeled water to mothers.",
+            "In the MAM\u00d5Out study area, it was not possible to use either of these techniques due to operational constraints.",
+            "We tried to overcome this problem by designing a detailed questionnaire on breastfeeding practices to estimate the number of times a child was breastfed during the day and the corresponding duration, but this was still not sufficient to estimate energy intake from breast milk.",
+            "One possible solution would have been to hypothesize average breast milk intake as has been done in previous studies (34) .",
+            "However, this is still an estimation and does not measure the breast-milk intake precisely.",
+            "Because the same estimation method was used in both groups, we assume that the measurement error was similar for the 2 groups.",
+            "Fourth, we did not adjust our analyses for multiple hypothesis testing.",
+            "Although this is still an ongoing debate (35) , concerns may be raised about the need to re-evaluate the P values used for the significance of the results, which may decrease the number of significant differences we found between groups.",
+            "However, the results presented here tend to go in the same direction (with a higher number of children consuming animal products in the intervention group, more egg intake in term of quantities, and more vitamin B-12 intake), which strengthens confidence in them (35) .",
+            "Finally, no measurement of body composition or biomarkers before or after the intervention was performed.",
+            "As such, it is hard to observe the direct health benefits of the intervention.",
+            "However, our results show, first, that unrestricted and unconditional cash was used for food purposes and allowed improvement in children\u00d5s diet quality.",
+            "Yet, the amount distributed may have been too low with respect to family size to have a positive effect on children\u00d5s health via an improved diet quality."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "In conclusion, unconditional cash transfers during the lean season did not lead to a higher energy intake but did improve the intake of mainly animal-source foods among Burkinabe children aged 14-27 mo living in rural areas. Two-thirds of the children who benefited from cash transfers also had an adequate minimum DDS compared with only one-third in the control group. Our results support the implementation of unconditional seasonal cash transfer programs to improve children\u00d5s diet and nutritional intake during the lean season. We therefore recommend their use in actions addressing children\u00d5s dietary intake during this difficult period.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "In conclusion, unconditional cash transfers during the lean season did not lead to a higher energy intake but did improve the intake of mainly animal-source foods among Burkinabe children aged 14-27 mo living in rural areas.",
+            "Two-thirds of the children who benefited from cash transfers also had an adequate minimum DDS compared with only one-third in the control group.",
+            "Our results support the implementation of unconditional seasonal cash transfer programs to improve children\u00d5s diet and nutritional intake during the lean season.",
+            "We therefore recommend their use in actions addressing children\u00d5s dietary intake during this difficult period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "\u00e3 2017 American Society for Nutrition.",
+        "section": "",
+        "section_number": 29,
+        "sentences": [
+            "\u00e3 2017 American Society for Nutrition."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Values are proportions 6 SDs unless otherwise indicated. NA, not applicable.2 Analyzed by using a mixed logistic regression model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.Unconditional cash transfers and children\u00d5s diets 1421Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020",
+        "section": "",
+        "section_number": 30,
+        "sentences": [
+            "Values are proportions 6 SDs unless otherwise indicated.",
+            "NA, not applicable.2 Analyzed by using a mixed logistic regression model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.",
+            "Unconditional cash transfers and children\u00d5s diets 1421Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Values are means 6 SDs unless otherwise indicated. DDS, dietary diversity score; NA, not applicable.2 Analyzed by using a mixed Poisson regression model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.3 Analyzed by using a mixed logistic model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.",
+        "section": "",
+        "section_number": 31,
+        "sentences": [
+            "Values are means 6 SDs unless otherwise indicated.",
+            "DDS, dietary diversity score; NA, not applicable.2 Analyzed by using a mixed Poisson regression model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.3 Analyzed by using a mixed logistic model with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "37192",
+        "text": "Values are means 6 SDs.2 Analyzed by using a mixed linear model (after log transformation) with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.Unconditional cash transfers and children\u00d5s diets 1423Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "Values are means 6 SDs.2 Analyzed by using a mixed linear model (after log transformation) with ''village'' as a random effect and adjusted for child\u00d5s sex and age, household socioeconomic status, and mother\u00d5s literacy.",
+            "Unconditional cash transfers and children\u00d5s diets 1423Downloaded from https://academic.oup.com/jn/article-abstract/147/7/1418/4743659 by Univ of Alberta Library user on 13 March 2020"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

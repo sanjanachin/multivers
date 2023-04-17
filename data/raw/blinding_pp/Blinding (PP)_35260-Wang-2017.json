@@ -1,0 +1,596 @@
+[
+    {
+        "doc_id": "35260",
+        "text": "Background: Viruses from two antigenically distinct influenza B strains have co-circulated since the mid-1980s, yet inactivated trivalent influenza vaccines (TIVs) with either the Victoria or Yamagata lineage could only provide limited protection from influenza B strain. Quadrivalent influenza vaccine (QIV) including both influenza B lineages can improve protection against circulating influenza B viruses. Methods: Participants >/ = 3 years of age were recruited, stratified by age, and then randomly allocated at a ratio of 2:1:1 to receive one-injection of the experimental QIV, TIV-Victoria (Vic) or TIV-Yamagata (Yam). The primary objective of this study was to demonstrate that the hemagglutination-inhibition (HI) antibodies induced by the QIV candidate are not inferior to the licensed TIVs. Results: First, 3661 participants received the inoculation. The QIV was found to be non-inferior to TIVs in terms of the geometric mean titers (GMTs) and seroconversion rates (SCRs) of the HI antibodies against shared strains 28 days after completion of inoculation, and was superior to the TIVs against the alternate B strain, which is absent from the TIVs. The occurrences of adverse events (AEs) post-vaccination were similar across the treatment groups. Conclusion: The experimental QIV showed good immunogenicity and an acceptable safety profile.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Viruses from two antigenically distinct influenza B strains have co-circulated since the mid-1980s, yet inactivated trivalent influenza vaccines (TIVs) with either the Victoria or Yamagata lineage could only provide limited protection from influenza B strain.",
+            "Quadrivalent influenza vaccine (QIV) including both influenza B lineages can improve protection against circulating influenza B viruses.",
+            "Methods: Participants >/ = 3 years of age were recruited, stratified by age, and then randomly allocated at a ratio of 2:1:1 to receive one-injection of the experimental QIV, TIV-Victoria (Vic) or TIV-Yamagata (Yam).",
+            "The primary objective of this study was to demonstrate that the hemagglutination-inhibition (HI) antibodies induced by the QIV candidate are not inferior to the licensed TIVs.",
+            "Results: First, 3661 participants received the inoculation.",
+            "The QIV was found to be non-inferior to TIVs in terms of the geometric mean titers (GMTs) and seroconversion rates (SCRs) of the HI antibodies against shared strains 28 days after completion of inoculation, and was superior to the TIVs against the alternate B strain, which is absent from the TIVs.",
+            "The occurrences of adverse events (AEs) post-vaccination were similar across the treatment groups.",
+            "Conclusion: The experimental QIV showed good immunogenicity and an acceptable safety profile."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Influenza is an acute and highly infectious respiratory disease that causes significant morbidity and mortality worldwide that has constituted a serious hazard to human health and public health for decades. According to the World Health Organization (WHO) report, approximately 3-5 million people are infected with influenza virus with serious symptoms, causing 250,000-500,000 deaths each year [1, 2] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Influenza is an acute and highly infectious respiratory disease that causes significant morbidity and mortality worldwide that has constituted a serious hazard to human health and public health for decades.",
+            "According to the World Health Organization (WHO) report, approximately 3-5 million people are infected with influenza virus with serious symptoms, causing 250,000-500,000 deaths each year [1, 2] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Since 1978, two lineages of influenza A and one lineage of influenza B have been used in annual seasonal influenza vaccines. The choice of the B strain included in the traditional trivalent influenza vaccine (TIV) depends on worldwide surveillance data and takes ongoing antigenic drift into consideration [3] . However, this process is complicated by the frequently occurring mismatch of B strain. Furthermore, two lineages of B virus may circulate simultaneously, and the traditional TIV with the mismatched predominant B virus provides limited vaccine protection [4] . During the 2010-2011 season in the United States, influenza B was considered to be responsible for more than 30% of all influenza-associated pediatric mortalities [5] . Furthermore, epidemics of influenza B were also thought to lead to higher rates of hospitalizations than influenza A, especially in children, and in patients with specific clinical syndromes, including myocarditis [6, 7] . Since 2013-2014, the WHO began to recommend that two lineages of influenza B strain should be added to influenza vaccine formulas for prevention during the epidemic season [8] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Since 1978, two lineages of influenza A and one lineage of influenza B have been used in annual seasonal influenza vaccines.",
+            "The choice of the B strain included in the traditional trivalent influenza vaccine (TIV) depends on worldwide surveillance data and takes ongoing antigenic drift into consideration [3] .",
+            "However, this process is complicated by the frequently occurring mismatch of B strain.",
+            "Furthermore, two lineages of B virus may circulate simultaneously, and the traditional TIV with the mismatched predominant B virus provides limited vaccine protection [4] .",
+            "During the 2010-2011 season in the United States, influenza B was considered to be responsible for more than 30% of all influenza-associated pediatric mortalities [5] .",
+            "Furthermore, epidemics of influenza B were also thought to lead to higher rates of hospitalizations than influenza A, especially in children, and in patients with specific clinical syndromes, including myocarditis [6, 7] .",
+            "Since 2013-2014, the WHO began to recommend that two lineages of influenza B strain should be added to influenza vaccine formulas for prevention during the epidemic season [8] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "In this phase III clinical trial, the immunogenicity and safety of a novel quadrivalent influenza vaccine (QIV) with an additional influenza B strain was measured by comparing its performance with two traditional TIVs.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "In this phase III clinical trial, the immunogenicity and safety of a novel quadrivalent influenza vaccine (QIV) with an additional influenza B strain was measured by comparing its performance with two traditional TIVs."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "were female, they were not pregnant. Participants with temperatures >37.0\u00b0C, participants who were immunocompromised, allergic to any vaccine component, or had infectious diseases, congenital malformations, progressive disorders, serious chronic diseases, or coagulation disorders, and those who received any subunit vaccine or inactivated vaccines in the last 14 days were excluded from the study (a full list of the inclusion and exclusion criteria is listed in Appendix 1 and reasons for participants who were assessed but not enrolled is listed in Appendix 2). Before taking part in the study, written informed consent was provided by the parents or guardians for children or adolescent participants was required, or by the participants themselves if they were adults.",
+        "section": "Participants and study design",
+        "section_number": 4,
+        "sentences": [
+            "were female, they were not pregnant.",
+            "Participants with temperatures >37.0\u00b0C, participants who were immunocompromised, allergic to any vaccine component, or had infectious diseases, congenital malformations, progressive disorders, serious chronic diseases, or coagulation disorders, and those who received any subunit vaccine or inactivated vaccines in the last 14 days were excluded from the study (a full list of the inclusion and exclusion criteria is listed in Appendix 1 and reasons for participants who were assessed but not enrolled is listed in Appendix 2).",
+            "Before taking part in the study, written informed consent was provided by the parents or guardians for children or adolescent participants was required, or by the participants themselves if they were adults."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Permission for this trial was obtained from the Institutional Review Boards of the Jiangsu Provincial Centers for Disease Control and Prevention, and the trial was undertaken in compliance with Good Clinical Practice guidelines, the Declaration of Helsinki and Chinese regulatory requirements. Clinicaltrials. gov: NCT02710409.",
+        "section": "Participants and study design",
+        "section_number": 5,
+        "sentences": [
+            "Permission for this trial was obtained from the Institutional Review Boards of the Jiangsu Provincial Centers for Disease Control and Prevention, and the trial was undertaken in compliance with Good Clinical Practice guidelines, the Declaration of Helsinki and Chinese regulatory requirements.",
+            "Clinicaltrials.",
+            "gov: NCT02710409."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The experimental QIVs were developed by Jiangsu GDK Biotechnology Co., Ltd. Each dose contained 60 \u03bcg of hemagglutinin antigen (HA) in total, 15 \u00b5g of HA per strain (A/ California/7/2009, A/Switzerland/9715293/2013, B/Brisbane/ 60/2008 and B/Phuket/3073/2013).",
+        "section": "Vaccines",
+        "section_number": 6,
+        "sentences": [
+            "The experimental QIVs were developed by Jiangsu GDK Biotechnology Co., Ltd. Each dose contained 60 \u03bcg of hemagglutinin antigen (HA) in total, 15 \u00b5g of HA per strain (A/ California/7/2009, A/Switzerland/9715293/2013, B/Brisbane/ 60/2008 and B/Phuket/3073/2013)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Positive controls were manufactured by Changsheng Biology Science & Technology Co. Ltd., Changchun, China. Each dose contained 15 \u00b5g of each HA of two influenza A strains (A/California/7/2009, A/Switzerland/9715293/2013) and one influenza B strain (B/Brisbane/60/2008 for TIV-Victoria [Vic] or B/Phuket/3073/2013 for TIV-Yamagata [Yam] ).",
+        "section": "Vaccines",
+        "section_number": 7,
+        "sentences": [
+            "Positive controls were manufactured by Changsheng Biology Science & Technology Co. Ltd., Changchun, China.",
+            "Each dose contained 15 \u00b5g of each HA of two influenza A strains (A/California/7/2009, A/Switzerland/9715293/2013) and one influenza B strain (B/Brisbane/60/2008 for TIV-Victoria [Vic] or B/Phuket/3073/2013 for TIV-Yamagata [Yam] )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "All vaccines were opalescent off-white to grayish suspensions, provided in prefilled syringes (0.5 ml), and labeled with an identical number, but no further information was provided. One dose of QIV or TIV was injected into the nondominant arm of each participant.",
+        "section": "Vaccines",
+        "section_number": 8,
+        "sentences": [
+            "All vaccines were opalescent off-white to grayish suspensions, provided in prefilled syringes (0.5 ml), and labeled with an identical number, but no further information was provided.",
+            "One dose of QIV or TIV was injected into the nondominant arm of each participant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "A stratified randomization procedure based on various age groups (3-17 years, 18-59 years, and \u226560 years) was performed according to a blocked randomization list (block = 4). The whole randomization process was conducted by an independent statistician, using SAS (version 9.4). Participants from each subage group were stratified at a ratio of 2:1:1 to receive QIV, TIV-Vic, or TIV-Yam. The appearance of packages of QIV, TIV-Vic, and TIV-Yam was identical and labeled with an assigned code from the randomization list as the only identifier. We assigned an identical number to every eligible participant enrolled according to their sequence at enrollment, and then, the vaccine with the same number was injected. The staff who performed the randomizing had no role in any other activities of this study. The treatment allocation was masked from participants and investigators throughout the study period.",
+        "section": "Randomization and blinding",
+        "section_number": 9,
+        "sentences": [
+            "A stratified randomization procedure based on various age groups (3-17 years, 18-59 years, and \u226560 years) was performed according to a blocked randomization list (block = 4).",
+            "The whole randomization process was conducted by an independent statistician, using SAS (version 9.4).",
+            "Participants from each subage group were stratified at a ratio of 2:1:1 to receive QIV, TIV-Vic, or TIV-Yam.",
+            "The appearance of packages of QIV, TIV-Vic, and TIV-Yam was identical and labeled with an assigned code from the randomization list as the only identifier.",
+            "We assigned an identical number to every eligible participant enrolled according to their sequence at enrollment, and then, the vaccine with the same number was injected.",
+            "The staff who performed the randomizing had no role in any other activities of this study.",
+            "The treatment allocation was masked from participants and investigators throughout the study period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "35260",
+        "text": "Blood samples were taken from each participant both before and 28 days after the inoculation. The immunogenic noninferiority of the geometric mean titers (GMTs) and seroconversion rates (SCRs) against the shared strains was assessed. In addition, we evaluated the immunogenic superiority of the GMTs and SCRs against alternative B strains that were absent from the TIV (B/Phuket/3073/ 2013 for TIV-Vic and B/Brisbane/60/2008 for TIV-Yam) 28 days after vaccination. The seroprotection rates (SPRs) defined as the percentage of participants with a serum anti-HI antibody titer \u22651:40 [9] and the geometric mean fold increases (GMFIs) were calculated for each treatment group post-vaccination according to the subage groups. Scientists from the National Institutes for Food and Drug Control performed antibody titers measurements against the vaccine strains in the HI assay, following standardized procedures [10] .",
+        "section": "Immunogenicity",
+        "section_number": 10,
+        "sentences": [
+            "Blood samples were taken from each participant both before and 28 days after the inoculation.",
+            "The immunogenic noninferiority of the geometric mean titers (GMTs) and seroconversion rates (SCRs) against the shared strains was assessed.",
+            "In addition, we evaluated the immunogenic superiority of the GMTs and SCRs against alternative B strains that were absent from the TIV (B/Phuket/3073/ 2013 for TIV-Vic and B/Brisbane/60/2008 for TIV-Yam) 28 days after vaccination.",
+            "The seroprotection rates (SPRs) defined as the percentage of participants with a serum anti-HI antibody titer \u22651:40 [9] and the geometric mean fold increases (GMFIs) were calculated for each treatment group post-vaccination according to the subage groups.",
+            "Scientists from the National Institutes for Food and Drug Control performed antibody titers measurements against the vaccine strains in the HI assay, following standardized procedures [10] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Each participant was observed for at least 30 min at the clinic site after the injection and followed for 28 days. Safety data were collected from all participants receiving the experimental vaccine as solicited and unsolicited adverse events (AEs) within 7 and 28 days after vaccination, respectively. Solicited AEs were classified as injection-site AEs, including induction, redness, pain, swelling and itching; and systemic AEs including fever, diarrhea, cough, nausea/ vomiting, fatigue, muscle pain, and headache. We graded all AEs according to the scale issued by the Chinese Food and Drug Administration [11] .",
+        "section": "Safety",
+        "section_number": 11,
+        "sentences": [
+            "Each participant was observed for at least 30 min at the clinic site after the injection and followed for 28 days.",
+            "Safety data were collected from all participants receiving the experimental vaccine as solicited and unsolicited adverse events (AEs) within 7 and 28 days after vaccination, respectively.",
+            "Solicited AEs were classified as injection-site AEs, including induction, redness, pain, swelling and itching; and systemic AEs including fever, diarrhea, cough, nausea/ vomiting, fatigue, muscle pain, and headache.",
+            "We graded all AEs according to the scale issued by the Chinese Food and Drug Administration [11] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "All solicited AEs occurring within 7 days after completion of inoculation were regarded as vaccine-related events. The causality of the unsolicited AEs was determined by blinded investigators. The serious adverse events (SAEs) were defined as those requiring inpatient hospitalization, resulting in life-threatening effects or death, significant disability or incapacity, and were recorded throughout the entire study period and extended to 6 months after vaccine administration.",
+        "section": "Safety",
+        "section_number": 12,
+        "sentences": [
+            "All solicited AEs occurring within 7 days after completion of inoculation were regarded as vaccine-related events.",
+            "The causality of the unsolicited AEs was determined by blinded investigators.",
+            "The serious adverse events (SAEs) were defined as those requiring inpatient hospitalization, resulting in life-threatening effects or death, significant disability or incapacity, and were recorded throughout the entire study period and extended to 6 months after vaccine administration."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "A sample size of 3664 (1832 in the QIV group and 916 in both TIV control groups) was calculated to obtain an overall power of 90% to demonstrate the primary objective of meeting the CPMP criterion in items of the SCR and GMT for the four vaccine strains [9] . An immunogenic noninferiority hypothesis was supported when the upper limit of the two-sided 95% confidence interval (CI) for the SCR difference (TIV minus QIV) and GMT ratios (TIV divided by QIV) did not exceed 10% and 1.5, respectively.",
+        "section": "Sample size and statistical analysis",
+        "section_number": 13,
+        "sentences": [
+            "A sample size of 3664 (1832 in the QIV group and 916 in both TIV control groups) was calculated to obtain an overall power of 90% to demonstrate the primary objective of meeting the CPMP criterion in items of the SCR and GMT for the four vaccine strains [9] .",
+            "An immunogenic noninferiority hypothesis was supported when the upper limit of the two-sided 95% confidence interval (CI) for the SCR difference (TIV minus QIV) and GMT ratios (TIV divided by QIV) did not exceed 10% and 1.5, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The immunogenicity analyses were performed using the According to Protocol cohort, which includes participants receiving a vaccination, receiving assay results for at least one study vaccine antigen, and remaining in compliance within the study time requirements. The SCRs and SPRs were evaluated according to the CPMP criterion of the European Agency for the Evaluation of Medicinal Products [9] . The criteria were fulfilled if the lower limit of the twosided 95% CI of the SCR was \u226540% (aged 3-59 years) or \u226530% (aged \u226560 years), and the lower limit of the two-sided 95% CI of SPR was \u226570% (aged 3-59 years) and \u2265 60% (aged \u226560 years). The frequency of the AEs after vaccination was tabulated and compared across the groups using Fisher's exact or chi-square tests.",
+        "section": "Sample size and statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "The immunogenicity analyses were performed using the According to Protocol cohort, which includes participants receiving a vaccination, receiving assay results for at least one study vaccine antigen, and remaining in compliance within the study time requirements.",
+            "The SCRs and SPRs were evaluated according to the CPMP criterion of the European Agency for the Evaluation of Medicinal Products [9] .",
+            "The criteria were fulfilled if the lower limit of the twosided 95% CI of the SCR was \u226540% (aged 3-59 years) or \u226530% (aged \u226560 years), and the lower limit of the two-sided 95% CI of SPR was \u226570% (aged 3-59 years) and \u2265 60% (aged \u226560 years).",
+            "The frequency of the AEs after vaccination was tabulated and compared across the groups using Fisher's exact or chi-square tests."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "This study was conducted from January 2016 to August 2016. A total of 4069 participants were assessed for eligibility, and 3664 participants were enrolled and randomized ( Figure 1 ). Of these participants, three withdrew the consent before the vaccination, and 3661 participants received the vaccination.",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "This study was conducted from January 2016 to August 2016.",
+            "A total of 4069 participants were assessed for eligibility, and 3664 participants were enrolled and randomized ( Figure 1 ).",
+            "Of these participants, three withdrew the consent before the vaccination, and 3661 participants received the vaccination."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "All the 3661 participants were involved in the safety analysis cohort, while 3536 participants donated blood sample postvaccination and were included for immunogenicity analyses. The demographic characteristics of all participants at enrollment are listed in Table 1 , showing comparable age, sex, and body mass index values across the groups.",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "All the 3661 participants were involved in the safety analysis cohort, while 3536 participants donated blood sample postvaccination and were included for immunogenicity analyses.",
+            "The demographic characteristics of all participants at enrollment are listed in Table 1 , showing comparable age, sex, and body mass index values across the groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The baseline immunity against the vaccine strains in terms of the GMTs was similar among the participants across different the treatment groups (Table 1 ). One dose of QIV elicited a substantial increase in the HI antibody titer in all age groups ( Table 2) .",
+        "section": "Immunogenicity",
+        "section_number": 17,
+        "sentences": [
+            "The baseline immunity against the vaccine strains in terms of the GMTs was similar among the participants across different the treatment groups (Table 1 ).",
+            "One dose of QIV elicited a substantial increase in the HI antibody titer in all age groups ( Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The GMTs of the antibodies against the A/California/7/2009 strain, A/Switzerland/9715293/2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/3073/2013 strain were 485.33, 471.13, Figure 1 . Trial profile. Abbreviation: QIV, Quadrivalent influenza vaccine; TIV, Trivalent influenza vaccine; ATP: According to plan; PPS: Per protocol set.",
+        "section": "Immunogenicity",
+        "section_number": 18,
+        "sentences": [
+            "The GMTs of the antibodies against the A/California/7/2009 strain, A/Switzerland/9715293/2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/3073/2013 strain were 485.33, 471.13, Figure 1 .",
+            "Trial profile.",
+            "Abbreviation: QIV, Quadrivalent influenza vaccine; TIV, Trivalent influenza vaccine; ATP: According to plan; PPS: Per protocol set."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "# According to the randomization plan, there should be 687 participants in 3-59 group and 229 participants in>/ = 60 group. Due to error made by our staff, two of 59 years old participants were assigned to >/ = 60 group. When performing analysis, we grouped them according to their actual age. .35, and 67.27 in the TIV groups, respectively, and all lower limits of the two-sided 95% CI for the SCRs of the four strains in the QIV group were \u226540%. In elderly participants above 60 years of age, the SCRs of the antibodies against these four vaccine strains were 84.19, 88.20, 70.38, and 84.41 in the QIV group, and 83.93, 85.71, 54.30, and 69.60 in the TIV groups, and all lower limits of the two-sided 95% CI for the SCRs of the four strains in the QIV group were \u226530%. In all age groups, the SCRs of the antibodies against the shared strains elicited by QIV were noninferior to those elicited by TIV with SCR differences between \u221216.08 and \u22120.26; the SCRs of antibodies against the additional strain elicited by QIV were superior to those elicited by TIV with the SCR differences between \u221269.72 and \u221224.64 (Table 3) .",
+        "section": "Immunogenicity",
+        "section_number": 19,
+        "sentences": [
+            "# According to the randomization plan, there should be 687 participants in 3-59 group and 229 participants in>/ = 60 group.",
+            "Due to error made by our staff, two of 59 years old participants were assigned to >/ = 60 group.",
+            "When performing analysis, we grouped them according to their actual age.",
+            ".35, and 67.27 in the TIV groups, respectively, and all lower limits of the two-sided 95% CI for the SCRs of the four strains in the QIV group were \u226540%.",
+            "In elderly participants above 60 years of age, the SCRs of the antibodies against these four vaccine strains were 84.19, 88.20, 70.38, and 84.41 in the QIV group, and 83.93, 85.71, 54.30, and 69.60 in the TIV groups, and all lower limits of the two-sided 95% CI for the SCRs of the four strains in the QIV group were \u226530%.",
+            "In all age groups, the SCRs of the antibodies against the shared strains elicited by QIV were noninferior to those elicited by TIV with SCR differences between \u221216.08 and \u22120.26; the SCRs of antibodies against the additional strain elicited by QIV were superior to those elicited by TIV with the SCR differences between \u221269.72 and \u221224.64 (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "In participants between 3 and 17 years of age, the SPRs of antibodies against A/California/7/2009 strain, A/Switzerland/ 9715293/2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/ 3073/2013 strain were 94.93, 99.32, 78.58, and 94.02 in the QIV group, of which the lower limits of the two-sided 95% CI for the SPRs of the four strains in the QIV group were \u226570%. For participants between 18 and 59 years of age, the SPRs of the antibodies against these four strains above were 97.88, 98.35, 76.47, and 95.29, of which the lower limits of the two-sided 95% CI for the SPRs of the four strains in the QIV group were \u226570%. Meanwhile, in elderly participants above 60 years of age, the SPRs of the antibodies against these four strains were 88.42, 99.11, 75.50, and 95.77 in the QIV group, of which the lower limits of the two-sided 95% CI on the SPRs of the four strains in QIV group were \u226560%. The GMFI values of the antibodies against the A/California/7/2009 strain, A/Switzerland/9715293/ 2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/3073/2013 strain were 24.04, 9.22, 11.01, and 10.00 respectively in participants between 3 and 17 years of age, and 26.79, 10.85, 7.90, and 7.59 in participants between 18 and 59 years of age, while the ",
+        "section": "Immunogenicity",
+        "section_number": 20,
+        "sentences": [
+            "In participants between 3 and 17 years of age, the SPRs of antibodies against A/California/7/2009 strain, A/Switzerland/ 9715293/2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/ 3073/2013 strain were 94.93, 99.32, 78.58, and 94.02 in the QIV group, of which the lower limits of the two-sided 95% CI for the SPRs of the four strains in the QIV group were \u226570%.",
+            "For participants between 18 and 59 years of age, the SPRs of the antibodies against these four strains above were 97.88, 98.35, 76.47, and 95.29, of which the lower limits of the two-sided 95% CI for the SPRs of the four strains in the QIV group were \u226570%.",
+            "Meanwhile, in elderly participants above 60 years of age, the SPRs of the antibodies against these four strains were 88.42, 99.11, 75.50, and 95.77 in the QIV group, of which the lower limits of the two-sided 95% CI on the SPRs of the four strains in QIV group were \u226560%.",
+            "The GMFI values of the antibodies against the A/California/7/2009 strain, A/Switzerland/9715293/ 2013 strain, B/Brisbane/60/2008 strain, and B/Phuket/3073/2013 strain were 24.04, 9.22, 11.01, and 10.00 respectively in participants between 3 and 17 years of age, and 26.79, 10.85, 7.90, and 7.59 in participants between 18 and 59 years of age, while the"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The overall number of injection-site and systematic solicited adverse events reported within 7 days after vaccination was 293 (16.02%), 132 (14.41%), and 151 (16.48%) respectively in the QIV, TIV-Yam, and TIV-Vic groups, and these were comparable across the treatment groups (Table 4) .",
+        "section": "Reactogenicity and safety",
+        "section_number": 21,
+        "sentences": [
+            "The overall number of injection-site and systematic solicited adverse events reported within 7 days after vaccination was 293 (16.02%), 132 (14.41%), and 151 (16.48%) respectively in the QIV, TIV-Yam, and TIV-Vic groups, and these were comparable across the treatment groups (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Pain was the most common injection-site adverse reaction of the recipients of QIV or TIV, with an incidence of 3.57% and 3.94%, respectively. Most of the events were mild or moderate. Only one grade 3 pain event was reported from one participant in the QIV group (Full List of grade 3 solicited injectionsite and systematic adverse reactions reported during the follow-up is listed in Appendix 3). Other common injectionsite adverse reactions were induration, redness, and swelling (Table 4) .",
+        "section": "Reactogenicity and safety",
+        "section_number": 22,
+        "sentences": [
+            "Pain was the most common injection-site adverse reaction of the recipients of QIV or TIV, with an incidence of 3.57% and 3.94%, respectively.",
+            "Most of the events were mild or moderate.",
+            "Only one grade 3 pain event was reported from one participant in the QIV group (Full List of grade 3 solicited injectionsite and systematic adverse reactions reported during the follow-up is listed in Appendix 3).",
+            "Other common injectionsite adverse reactions were induration, redness, and swelling (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The most common systemic adverse reaction was fever, with incidences ranging from 15.66% to 16.38% in participants aged 3-17 years old, 6.55% to 9.09% in participants aged 18-59 years old, and 3.49% to 5.03% in participants above 60 years of age. However, grade 3 fevers were reported in less than 1% of all participants. Other common systemic adverse reactions included diarrhea, coughing, nausea/vomiting, fatigue, muscle pain, and headache (Table 4) .",
+        "section": "Reactogenicity and safety",
+        "section_number": 23,
+        "sentences": [
+            "The most common systemic adverse reaction was fever, with incidences ranging from 15.66% to 16.38% in participants aged 3-17 years old, 6.55% to 9.09% in participants aged 18-59 years old, and 3.49% to 5.03% in participants above 60 years of age.",
+            "However, grade 3 fevers were reported in less than 1% of all participants.",
+            "Other common systemic adverse reactions included diarrhea, coughing, nausea/vomiting, fatigue, muscle pain, and headache (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The overall numbers of participants with at least one nonsolicited AE within 28 days post vaccination were reported for 109 (5.96%), 46 (5.02%), and 61 (6.66%) in the QIV, TIV-Yam, and TIV-Vic groups, respectively. Nonsolicited symptoms were reported for less than 5% of the participants in all treatment groups. A total of 18 (0.98%) SAEs were reported from the QIV group, 13 (1.41%) from the TIV-Yam group, and 6 (0.66%) from the TIV-Vic group. All the SAEs were determined to be not related to the study vaccines (a full list of the SAEs is listed in Appendix 4).",
+        "section": "Reactogenicity and safety",
+        "section_number": 24,
+        "sentences": [
+            "The overall numbers of participants with at least one nonsolicited AE within 28 days post vaccination were reported for 109 (5.96%), 46 (5.02%), and 61 (6.66%) in the QIV, TIV-Yam, and TIV-Vic groups, respectively.",
+            "Nonsolicited symptoms were reported for less than 5% of the participants in all treatment groups.",
+            "A total of 18 (0.98%) SAEs were reported from the QIV group, 13 (1.41%) from the TIV-Yam group, and 6 (0.66%) from the TIV-Vic group.",
+            "All the SAEs were determined to be not related to the study vaccines (a full list of the SAEs is listed in Appendix 4)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Furthermore, summary of SAEs and adverse reactions for subgroups was available in Appendix 5.",
+        "section": "Reactogenicity and safety",
+        "section_number": 25,
+        "sentences": [
+            "Furthermore, summary of SAEs and adverse reactions for subgroups was available in Appendix 5."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "The results from this study showed that the QIV candidate had a good immunogenicity profile. The QIV candidate demonstrated noninferiority compared to the TIVs in terms of the GMTs and the SCRs of the HI antibodies against shared strains 28 days after completion of inoculation and was superior to the TIVs against the alternate B strain, which was absent from the TIVs. Our results suggest that this QIV with an additional B strain could be an optimal replacement for TIV-Yam or TIV-Vic, and may potentially increase protection against influenza B.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "The results from this study showed that the QIV candidate had a good immunogenicity profile.",
+            "The QIV candidate demonstrated noninferiority compared to the TIVs in terms of the GMTs and the SCRs of the HI antibodies against shared strains 28 days after completion of inoculation and was superior to the TIVs against the alternate B strain, which was absent from the TIVs.",
+            "Our results suggest that this QIV with an additional B strain could be an optimal replacement for TIV-Yam or TIV-Vic, and may potentially increase protection against influenza B."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Considering that the QIV candidate contained 60 \u00b5g of the influenza antigen, it was supposed to induce stronger local reactogenicity compared to the TIV controls, which only contained 45 \u00b5g of the antigen per dose. However, in this trial, the QIV candidate was comparable to the TIV controls in items of the incidence of the solicited injections, and the systemic and unsolicited AEs. No significant safety concerns for the QIV were noted and none of the SAEs observed were considered to be related to QIV candidate. The reactogenicity and safety findings of this trial suggest that the additional 15 \u00b5g antigen in the QIV candidate did not impact its safety profile.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "Considering that the QIV candidate contained 60 \u00b5g of the influenza antigen, it was supposed to induce stronger local reactogenicity compared to the TIV controls, which only contained 45 \u00b5g of the antigen per dose.",
+            "However, in this trial, the QIV candidate was comparable to the TIV controls in items of the incidence of the solicited injections, and the systemic and unsolicited AEs.",
+            "No significant safety concerns for the QIV were noted and none of the SAEs observed were considered to be related to QIV candidate.",
+            "The reactogenicity and safety findings of this trial suggest that the additional 15 \u00b5g antigen in the QIV candidate did not impact its safety profile."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Both the immunogenicity and safety findings of the QIV candidate manufactured in China were consistent with previous studies conducted in the United States, Europe, and Asia [12] [13] [14] [15] [16] [17] [18] [19] . There is growing evidence that the inactivated QIV provide similar protection against shared strains versus TIV, and with the additional B lineage strain, the QIV may provide improved protection against influenza B.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Both the immunogenicity and safety findings of the QIV candidate manufactured in China were consistent with previous studies conducted in the United States, Europe, and Asia [12] [13] [14] [15] [16] [17] [18] [19] .",
+            "There is growing evidence that the inactivated QIV provide similar protection against shared strains versus TIV, and with the additional B lineage strain, the QIV may provide improved protection against influenza B."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "Influenza B infections are thought to be associate with high risk of severe illness and hospitalization in children and adolescents [20] . However, influenza A is thought be related to higher rates of complications and deaths than influenza B in elderly adults [20] . In a modeling study conducted in the UK, hospitalized patients with viral respiratory diseases were surveyed. Influenza A was found to be the highest ranking burden among patients aged 16-64 years, and influenza B ranked fourth and second in those aged <16 years and >65 years, respectively [21] . When the B-lineage was mismatched, or when two lineages of B virus were circulating simultaneously, the protection provided by TIV was reduced [22] [23] [24] . During the 2013-2014 influenza season, the WHO began to recommend that an additional lineage of influenza B should be added to the traditional TIV formula for influenza prevention during the epidemic season, reflecting their recognition about the potential benefits of QIV for reducing the risk of the influenza B disease [25] . A QIV with an additional B strain could reduce the risk of B lineage mismatch and could provide improved protection against influenza B [26] .",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "Influenza B infections are thought to be associate with high risk of severe illness and hospitalization in children and adolescents [20] .",
+            "However, influenza A is thought be related to higher rates of complications and deaths than influenza B in elderly adults [20] .",
+            "In a modeling study conducted in the UK, hospitalized patients with viral respiratory diseases were surveyed.",
+            "Influenza A was found to be the highest ranking burden among patients aged 16-64 years, and influenza B ranked fourth and second in those aged <16 years and >65 years, respectively [21] .",
+            "When the B-lineage was mismatched, or when two lineages of B virus were circulating simultaneously, the protection provided by TIV was reduced [22] [23] [24] .",
+            "During the 2013-2014 influenza season, the WHO began to recommend that an additional lineage of influenza B should be added to the traditional TIV formula for influenza prevention during the epidemic season, reflecting their recognition about the potential benefits of QIV for reducing the risk of the influenza B disease [25] .",
+            "A QIV with an additional B strain could reduce the risk of B lineage mismatch and could provide improved protection against influenza B [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "One limitation of this study it is that this is a singlecenter clinical trial with all the participants recruited from one area, so the generalizability of the results may be compromised. In addition, the sample size of this study may not be sufficient to reveal any the potential rare adverse reactions related to the investigated vaccines, Thus, further large-scale population studies are still needed after licensing of the QIV for the market. Another limitation of the trial is that the efficacy or effectiveness of the QIV was not assessed. Thus, the additional protection and reduction of the disease burden provided by the extra B strain in QIV should be investigated in the future.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "One limitation of this study it is that this is a singlecenter clinical trial with all the participants recruited from one area, so the generalizability of the results may be compromised.",
+            "In addition, the sample size of this study may not be sufficient to reveal any the potential rare adverse reactions related to the investigated vaccines, Thus, further large-scale population studies are still needed after licensing of the QIV for the market.",
+            "Another limitation of the trial is that the efficacy or effectiveness of the QIV was not assessed.",
+            "Thus, the additional protection and reduction of the disease burden provided by the extra B strain in QIV should be investigated in the future."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "In summary, the QIV candidate was safe and immunologically noninferior to TIVs in a healthy Chinese population above years of age, and can provide an optimal replacement for TIV-Yam or TIV-Vic on the market, could potentially making a great impact on the development of better influenza vaccines for use in the national immunization schedule. Moreover, the additional antigen did not compromise the safety profile of QIV; therefore, the QIV candidate is a viable alternative to TIV for use in participants above 3 years old and could provide a great option toward lowering the burden of disease due to the unpredictable epidemics in China.",
+        "section": "Conclusion",
+        "section_number": 31,
+        "sentences": [
+            "In summary, the QIV candidate was safe and immunologically noninferior to TIVs in a healthy Chinese population above years of age, and can provide an optimal replacement for TIV-Yam or TIV-Vic on the market, could potentially making a great impact on the development of better influenza vaccines for use in the national immunization schedule.",
+            "Moreover, the additional antigen did not compromise the safety profile of QIV; therefore, the QIV candidate is a viable alternative to TIV for use in participants above 3 years old and could provide a great option toward lowering the burden of disease due to the unpredictable epidemics in China."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35260",
+        "text": "\u2022 The QIV candidate was demonstrated to be non-inferior to TIVs in terms of the GMTs and SCRs of HI antibodies against shared strains 28 days after the completion of inoculation. \u2022 The QIV candidate was demonstrated to be superior to TIVs against the alternate B strain which is absent from TIVs. \u2022 The additional antigen in QIV seemed to have no impact on the safety profile compared with the TIVs. in 33 states. Nearly half of the deaths (46%) occurred in children aged <5 years. Of the children who died, 49% had no known Advisory Committee on Immunization Practicesdefined high-risk medical conditions, and 35% died at home or in the emergency department. Table 4 . ",
+        "section": "Key issues",
+        "section_number": 32,
+        "sentences": [
+            "\u2022 The QIV candidate was demonstrated to be non-inferior to TIVs in terms of the GMTs and SCRs of HI antibodies against shared strains 28 days after the completion of inoculation. \u2022",
+            "The QIV candidate was demonstrated to be superior to TIVs against the alternate B strain which is absent from TIVs. \u2022",
+            "The additional antigen in QIV seemed to have no impact on the safety profile compared with the TIVs.",
+            "in 33 states.",
+            "Nearly half of the deaths (46%) occurred in children aged <5 years.",
+            "Of the children who died, 49% had no known Advisory Committee on Immunization Practicesdefined high-risk medical conditions, and 35% died at home or in the emergency department.",
+            "Table 4 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

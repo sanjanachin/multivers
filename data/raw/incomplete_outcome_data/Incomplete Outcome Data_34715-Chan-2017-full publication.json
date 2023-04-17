@@ -1,0 +1,634 @@
+[
+    {
+        "doc_id": "34715",
+        "text": "Background: To investigate the performance and patient acceptability of an inhaler electronic monitoring device in a real-world childhood asthma population. Methods: Children 6 to 15 years presenting with asthma to the hospital emergency department and prescribed inhaled corticosteroids were included. Participants were randomized to receive a device with reminder features enabled or disabled for use with their preventer. Device quality control tests were conducted. Questionnaires on device acceptability, utility and ergonomics were completed at six months. Results: A total of 1306 quality control tests were conducted; 84% passed pre-issue and 87% return testing. The most common failure reason was actuation under-recording. Acceptability scores were high, with higher scores in the reminder than non-reminder group (median, 5 th-95 th percentile: 4.1, 3.1-5.0 versus 3.7, 2.3-4.8; p < 0.001). Most (>90%) rated the device easy to use. Feedback was positive across five themes: device acceptability, ringtone acceptability, suggestions for improvement, effect on medication use, and effect on asthma control. Conclusions: This study investigates electronic monitoring device performance and acceptability in children using quantitative and qualitative measures. Results indicate satisfactory reliability, although failure rates of 13-16% indicate the importance of quality control. Favorable acceptability ratings support the use of these devices in children.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: To investigate the performance and patient acceptability of an inhaler electronic monitoring device in a real-world childhood asthma population.",
+            "Methods: Children 6 to 15 years presenting with asthma to the hospital emergency department and prescribed inhaled corticosteroids were included.",
+            "Participants were randomized to receive a device with reminder features enabled or disabled for use with their preventer.",
+            "Device quality control tests were conducted.",
+            "Questionnaires on device acceptability, utility and ergonomics were completed at six months.",
+            "Results: A total of 1306 quality control tests were conducted; 84% passed pre-issue and 87% return testing.",
+            "The most common failure reason was actuation under-recording.",
+            "Acceptability scores were high, with higher scores in the reminder than non-reminder group (median, 5 th-95 th percentile: 4.1, 3.1-5.0 versus 3.7, 2.3-4.8; p < 0.001).",
+            "Most (>90%) rated the device easy to use.",
+            "Feedback was positive across five themes: device acceptability, ringtone acceptability, suggestions for improvement, effect on medication use, and effect on asthma control.",
+            "Conclusions: This study investigates electronic monitoring device performance and acceptability in children using quantitative and qualitative measures.",
+            "Results indicate satisfactory reliability, although failure rates of 13-16% indicate the importance of quality control.",
+            "Favorable acceptability ratings support the use of these devices in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Adherence to preventive therapy is essential for reducing morbidity in childhood asthma [1, 2] , yet adherence remains suboptimal [3] . Electronic-monitoring devices (EMDs) are increasingly used to deliver adherence interventions and provide objective adherence data [4, 5] ; but EMDs vary in their accuracy and reliability [6] [7] [8] [9] [10] and there are little data available on patient acceptability [11, 12] . Implementation of standardized testing is recommended to evaluate the validity of EMD data collected, and measurement of patient-reported EMD acceptability is advised to identify feasibility issues [13, 14] . However, there is scant research on EMD performance and even fewer studies on patient acceptability in real-world populations [11, 15] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Adherence to preventive therapy is essential for reducing morbidity in childhood asthma [1, 2] , yet adherence remains suboptimal [3] .",
+            "Electronic-monitoring devices (EMDs) are increasingly used to deliver adherence interventions and provide objective adherence data [4, 5] ; but EMDs vary in their accuracy and reliability [6] [7] [8] [9] [10] and there are little data available on patient acceptability [11, 12] .",
+            "Implementation of standardized testing is recommended to evaluate the validity of EMD data collected, and measurement of patient-reported EMD acceptability is advised to identify feasibility issues [13, 14] .",
+            "However, there is scant research on EMD performance and even fewer studies on patient acceptability in real-world populations [11, 15] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "The SmartTrack EMD (Adherium Limited Auckland, New Zealand; Figure 1 ) is an EMD for pressurized metered dose inhalers (pMDIs). This device has increasingly been used in adherence research [4, 5, 11] as it has features that are not available on older EMDs, like the Doser [14] . These include remote data upload capability, real-time adherence feedback via an onboard screen, and multiple customizable functions including customized reminder times and ringtones [14] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The SmartTrack EMD (Adherium Limited Auckland, New Zealand; Figure 1 ) is an EMD for pressurized metered dose inhalers (pMDIs).",
+            "This device has increasingly been used in adherence research [4, 5, 11] as it has features that are not available on older EMDs, like the Doser [14] .",
+            "These include remote data upload capability, real-time adherence feedback via an onboard screen, and multiple customizable functions including customized reminder times and ringtones [14] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Whilst this device has been used in several published studies, there is currently little knowledge about its reliability in a real-world setting or how patients respond to its use. In one 6day study, SmartTrack actuation recording accuracy was reported at 99% and ease of use scores was high in adults with asthma [11] . A recent study investigated the attitudes of seven adolescents toward electronic monitoring after using the SmartTrack for 1 month, which showed generally positive attitudes to adherence monitoring [12] . There are however limited data on patient acceptability beyond these small studies, and no published data at all in children. The successful implementation of new health technologies is thought to depend on their acceptability by patients [16] , yet at present, little data exist on patient acceptability regarding EMDs [11, 15] , particularly in children [6] [7] [8] [9] [10] .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Whilst this device has been used in several published studies, there is currently little knowledge about its reliability in a real-world setting or how patients respond to its use.",
+            "In one 6day study, SmartTrack actuation recording accuracy was reported at 99% and ease of use scores was high in adults with asthma [11] .",
+            "A recent study investigated the attitudes of seven adolescents toward electronic monitoring after using the SmartTrack for 1 month, which showed generally positive attitudes to adherence monitoring [12] .",
+            "There are however limited data on patient acceptability beyond these small studies, and no published data at all in children.",
+            "The successful implementation of new health technologies is thought to depend on their acceptability by patients [16] , yet at present, little data exist on patient acceptability regarding EMDs [11, 15] , particularly in children [6] [7] [8] [9] [10] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "The SmartTrack EMD was recently used in a randomized controlled trial investigating the effects of a reminder EMD on adherence and asthma outcomes in 220 children aged 6-15 years presenting with an asthma exacerbation to the regional emergency department (ED) in Auckland, New Zealand [4] . We found that there were significant improvements in adherence and asthma control. The objective of this paper is to assess the performance and patient acceptability of the SmartTrack EMD, when used in this 6-month trial.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The SmartTrack EMD was recently used in a randomized controlled trial investigating the effects of a reminder EMD on adherence and asthma outcomes in 220 children aged 6-15 years presenting with an asthma exacerbation to the regional emergency department (ED) in Auckland, New Zealand [4] .",
+            "We found that there were significant improvements in adherence and asthma control.",
+            "The objective of this paper is to assess the performance and patient acceptability of the SmartTrack EMD, when used in this 6-month trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "This trial was undertaken in children aged 6-15 years, presenting with asthma to the regional ED in Auckland, New Zealand (Australian New Zealand Clinical Trials Registry no. ACTRN12613001353785). The full study design and methods are described in detail elsewhere [4] . All participants with a physician-diagnosis of asthma and prescribed regular, twicedaily inhaled corticosteroids were eligible. Exclusion criteria included diagnosis of chronic lung disease other than asthma, congenital heart disease, residence outside the Auckland area, or diagnosis of a severe chronic medical condition leading to impaired immunity or increased morbidity [4] . All participants received the EMD attached to their preventer inhaler; half were randomized to receive the EMD with the reminder functions enabled (reminder group) and half disabled (non-reminder group). Each participant was followed up for 6 months. Face-to-face visits occurred every 2 months, where investigators collected the EMD for performance checking and data upload and participants completed questionnaires. Asthma control was assessed using the Asthma Morbidity Score [17] and childhood Asthma Control Test [18] . Written informed consent was provided by the child's parent or guardian, and written assent obtained from children.",
+        "section": "Patients and trial design",
+        "section_number": 5,
+        "sentences": [
+            "This trial was undertaken in children aged 6-15 years, presenting with asthma to the regional ED in Auckland, New Zealand (Australian New Zealand Clinical Trials Registry no. ACTRN12613001353785).",
+            "The full study design and methods are described in detail elsewhere [4] .",
+            "All participants with a physician-diagnosis of asthma and prescribed regular, twicedaily inhaled corticosteroids were eligible.",
+            "Exclusion criteria included diagnosis of chronic lung disease other than asthma, congenital heart disease, residence outside the Auckland area, or diagnosis of a severe chronic medical condition leading to impaired immunity or increased morbidity [4] .",
+            "All participants received the EMD attached to their preventer inhaler; half were randomized to receive the EMD with the reminder functions enabled (reminder group) and half disabled (non-reminder group).",
+            "Each participant was followed up for 6 months.",
+            "Face-to-face visits occurred every 2 months, where investigators collected the EMD for performance checking and data upload and participants completed questionnaires.",
+            "Asthma control was assessed using the Asthma Morbidity Score [17] and childhood Asthma Control Test [18] .",
+            "Written informed consent was provided by the child's parent or guardian, and written assent obtained from children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Each SmartTrack EMD had an onboard reminder function which could be enabled or disabled by the investigators.",
+        "section": "The electronic adherence monitoring device",
+        "section_number": 6,
+        "sentences": [
+            "Each SmartTrack EMD had an onboard reminder function which could be enabled or disabled by the investigators."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "When enabled, the EMD delivered twice-daily reminders for missed doses (Figure 1 ). Reminder times were set by investigators prior to each visit, as per participant preference. The reminder sounded until the correct dose was taken OR for a maximum of 15 min and did not sound if the correct dose was taken in the 6 h preceding the set reminder time. One of 14 different ringtones played each time in a cyclical pattern. The EMD recorded the date and time of each actuation, ringtone initiation and sound, and pMDI or battery removal and insertion; this was stored until data upload. Adherence data were determined from these EMD records. The EMD battery compartment and pMDI entry door were secured using security screws to minimize participant tampering.",
+        "section": "The electronic adherence monitoring device",
+        "section_number": 7,
+        "sentences": [
+            "When enabled, the EMD delivered twice-daily reminders for missed doses (Figure 1 ).",
+            "Reminder times were set by investigators prior to each visit, as per participant preference.",
+            "The reminder sounded until the correct dose was taken OR for a maximum of 15 min and did not sound if the correct dose was taken in the 6 h preceding the set reminder time.",
+            "One of 14 different ringtones played each time in a cyclical pattern.",
+            "The EMD recorded the date and time of each actuation, ringtone initiation and sound, and pMDI or battery removal and insertion; this was stored until data upload.",
+            "Adherence data were determined from these EMD records.",
+            "The EMD battery compartment and pMDI entry door were secured using security screws to minimize participant tampering."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Each participant was issued with an EMD at the first visit and shown how to use the device. The EMD was replaced at every visit. Participants were told that the study was investigating the effect of a reminder inhaler on asthma; the adherence monitoring function was not disclosed, as per established ethical guidelines [19] , to avoid interference with usual behavior.",
+        "section": "The electronic adherence monitoring device",
+        "section_number": 8,
+        "sentences": [
+            "Each participant was issued with an EMD at the first visit and shown how to use the device.",
+            "The EMD was replaced at every visit.",
+            "Participants were told that the study was investigating the effect of a reminder inhaler on asthma; the adherence monitoring function was not disclosed, as per established ethical guidelines [19] , to avoid interference with usual behavior."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "All devices were checked according to a standardized quality control (QC) procedure at two time points during the study: prior to issue to participants ('pre-issue' QC testing) and after return from participants ('return' QC testing) as described below and in the Supplemental Table S1 (online) [14] . Tests were carried out by one of three trained investigators.",
+        "section": "EMD quality control testing",
+        "section_number": 9,
+        "sentences": [
+            "All devices were checked according to a standardized quality control (QC) procedure at two time points during the study: prior to issue to participants ('pre-issue' QC testing) and after return from participants ('return' QC testing) as described below and in the Supplemental Table S1 (online) [14] .",
+            "Tests were carried out by one of three trained investigators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Devices 'passed' testing if all maneuvers were recorded with 100% event and time accuracy. At baseline, an allowance of \u00b12 min was made for internal clock time drift, and \u00b115 min after the two monthly visits [15] . Reasons for QC test failure were documented and classified into categories. Where more than one reason occurred, the primary reason for failure was reported. Affected devices were returned to the manufacturer for analysis, repair, and data retrieval.",
+        "section": "QC testing pass threshold",
+        "section_number": 10,
+        "sentences": [
+            "Devices 'passed' testing if all maneuvers were recorded with 100% event and time accuracy.",
+            "At baseline, an allowance of \u00b12 min was made for internal clock time drift, and \u00b115 min after the two monthly visits [15] .",
+            "Reasons for QC test failure were documented and classified into categories.",
+            "Where more than one reason occurred, the primary reason for failure was reported.",
+            "Affected devices were returned to the manufacturer for analysis, repair, and data retrieval."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "QC tests were conducted in both reminder and non-reminder modes on each device. Pre-issue QC tests included checks for physical damage and functional and recording accuracy of actuations and reminders (Supplemental Table S1 [online]). Actuation recording accuracy was checked by actuating different numbers of puffs at different times of the day to mimic correct, over-, under-, and zero dosing. Reminders were checked for accuracy of reminder timing, duration, and response to under-and correct dosing. Investigators carried the EMD in pockets or bags in between active testing to mimic real-life use.",
+        "section": "'Pre-issue' QC testing",
+        "section_number": 11,
+        "sentences": [
+            "QC tests were conducted in both reminder and non-reminder modes on each device.",
+            "Pre-issue QC tests included checks for physical damage and functional and recording accuracy of actuations and reminders (Supplemental Table S1 [online]).",
+            "Actuation recording accuracy was checked by actuating different numbers of puffs at different times of the day to mimic correct, over-, under-, and zero dosing.",
+            "Reminders were checked for accuracy of reminder timing, duration, and response to under-and correct dosing.",
+            "Investigators carried the EMD in pockets or bags in between active testing to mimic real-life use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Return QC tests, similar to pre-issue tests (Supplemental Table S1 [online]), were carried out immediately after collecting the device from the participant to retain prereturn device conditions for accuracy checking of the device. Devices collected from the reminder group underwent a full return QC test; devices from the non-reminder group underwent a shorter return test, which omitted the reminder tests, as reminder testing was irrelevant.",
+        "section": "'Return' QC testing",
+        "section_number": 12,
+        "sentences": [
+            "Return QC tests, similar to pre-issue tests (Supplemental Table S1 [online]), were carried out immediately after collecting the device from the participant to retain prereturn device conditions for accuracy checking of the device.",
+            "Devices collected from the reminder group underwent a full return QC test; devices from the non-reminder group underwent a shorter return test, which omitted the reminder tests, as reminder testing was irrelevant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Children completed a questionnaire about device acceptability at study end. The 7-item questionnaire was scored on a 5point semantic differential scale (1 = strongly disagree, 5 = strongly agree) which asked about topics such as ease of use, usefulness for medication reminding, perceived effects on asthma control, and device size. Item 7 (using my new asthma inhaler in front of other people is embarrassing) was negatively worded. Participants using a reminder EMD completed an eighth question asking how much they liked the reminder sounds and extra questions on ringtone preference (14 ringtones were rated on a 4-point Likert scale [0 = very bad, 3 = very good]), device size (too big, just right, too small), and whether the device was easy to hold (yes, no). All questionnaires were completed by the child without assistance from the parent or caregiver. Where assistance was needed with interpretation and completion of the questionnaires, this was provided by the researcher. Children and caregivers could also provide written feedback about the device via a free-text comments field at the end of the paper questionnaire or through verbal feedback to the investigators either at or between visits via telephone. Feedback was optional. All written and verbal feedbacks were coded into themes by AC. The emergent themes were reviewed by AC and JMF; any discrepancies in the themes assigned were resolved by discussion. Ethics approval was obtained from the New Zealand Northern Y Regional Ethics Committee (NTY/08/12/116) and District Health Boards.",
+        "section": "EMD acceptability and ringtone rating score",
+        "section_number": 13,
+        "sentences": [
+            "Children completed a questionnaire about device acceptability at study end.",
+            "The 7-item questionnaire was scored on a 5point semantic differential scale (1 = strongly disagree, 5 = strongly agree) which asked about topics such as ease of use, usefulness for medication reminding, perceived effects on asthma control, and device size.",
+            "Item 7 (using my new asthma inhaler in front of other people is embarrassing) was negatively worded.",
+            "Participants using a reminder EMD completed an eighth question asking how much they liked the reminder sounds and extra questions on ringtone preference (14 ringtones were rated on a 4-point Likert scale [0 = very bad, 3 = very good]), device size (too big, just right, too small), and whether the device was easy to hold (yes, no).",
+            "All questionnaires were completed by the child without assistance from the parent or caregiver.",
+            "Where assistance was needed with interpretation and completion of the questionnaires, this was provided by the researcher.",
+            "Children and caregivers could also provide written feedback about the device via a free-text comments field at the end of the paper questionnaire or through verbal feedback to the investigators either at or between visits via telephone.",
+            "Feedback was optional.",
+            "All written and verbal feedbacks were coded into themes by AC.",
+            "The emergent themes were reviewed by AC and JMF; any discrepancies in the themes assigned were resolved by discussion.",
+            "Ethics approval was obtained from the New Zealand Northern Y Regional Ethics Committee (NTY/08/12/116) and District Health Boards."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Descriptive statistics were calculated for patient demographics and acceptability scores. The mean number of faults per participant and acceptability scores were compared in reminder and non-reminder patients using the Mann-Whitney U test. To determine whether there was any association between adherence and asthma control with acceptability scores for each item, univariate analyses were conducted using a general linear model with the variables as covariates. The Friedman test was used to compare ringtone ratings. p Values of less than 0.05 indicated statistical significance. Analyses were undertaken on the intention to treat population using IBM SPSS Statistics (version 22) (IBM Corp, Armonk, NY, USA).",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "Descriptive statistics were calculated for patient demographics and acceptability scores.",
+            "The mean number of faults per participant and acceptability scores were compared in reminder and non-reminder patients using the Mann-Whitney U test.",
+            "To determine whether there was any association between adherence and asthma control with acceptability scores for each item, univariate analyses were conducted using a general linear model with the variables as covariates.",
+            "The Friedman test was used to compare ringtone ratings.",
+            "p Values of less than 0.05 indicated statistical significance.",
+            "Analyses were undertaken on the intention to treat population using IBM SPSS Statistics (version 22) (IBM Corp, Armonk, NY, USA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "As described previously [4] , of 656 patients initially identified as potentially eligible, 253 were ineligible on further assessment, 41 could not be contacted, 57 declined participation, 82 had already been assessed for eligibility, and 3 excluded for other reasons. The remaining 220 participants were enrolled and 110 participants randomized to each groupthe reminder EMD group versus the non-reminder group. The participant flow diagram is shown in Figure 2 , with baseline characteristics summarized in Table 1 .",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "As described previously [4] , of 656 patients initially identified as potentially eligible, 253 were ineligible on further assessment, 41 could not be contacted, 57 declined participation, 82 had already been assessed for eligibility, and 3 excluded for other reasons.",
+            "The remaining 220 participants were enrolled and 110 participants randomized to each groupthe reminder EMD group versus the non-reminder group.",
+            "The participant flow diagram is shown in Figure 2 , with baseline characteristics summarized in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "There were four categories of device failure (Table 2) : data recording, reminder, battery, or data upload faults. Pre-issue QC tests were conducted on 628 devices, of which 527 (84%) passed. The majority of failures were due to actuation recording inaccuracies (67%), followed by reminder faults (17%).",
+        "section": "EMD performance",
+        "section_number": 16,
+        "sentences": [
+            "There were four categories of device failure (Table 2) : data recording, reminder, battery, or data upload faults.",
+            "Pre-issue QC tests were conducted on 628 devices, of which 527 (84%) passed.",
+            "The majority of failures were due to actuation recording inaccuracies (67%), followed by reminder faults (17%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "During the study, 694 devices were issued (an average of three devices per participant; a new device at baseline, 2-and 4-month visits); 16 (2%) were not returned at study completion. Return QC testing was carried out on the remaining 678 devices, of which 591 (87%) passed. Of the 87 (13%) that failed, actuation recording inaccuracies accounted for the majority (95%) of failures. Physical damage was observed in four EMDs. The mean \u00b1 SD number of device faults per participant did not differ between the two groups (intervention: 0.45 \u00b1 0.79 versus control: 0.34 \u00b1 0.62; p = 0.33).",
+        "section": "EMD performance",
+        "section_number": 17,
+        "sentences": [
+            "During the study, 694 devices were issued (an average of three devices per participant; a new device at baseline, 2-and 4-month visits); 16 (2%) were not returned at study completion.",
+            "Return QC testing was carried out on the remaining 678 devices, of which 591 (87%) passed.",
+            "Of the 87 (13%) that failed, actuation recording inaccuracies accounted for the majority (95%) of failures.",
+            "Physical damage was observed in four EMDs.",
+            "The mean \u00b1 SD number of device faults per participant did not differ between the two groups (intervention: 0.45 \u00b1 0.79 versus control: 0.34 \u00b1 0.62; p = 0.33)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Ninety-eight percent (108/110) of participants in the reminder group and 95% (104/110) in the non-reminder group completed the acceptability questionnaire. Median scores in both groups were high for most acceptability questions (medians 4 or higher), indicating that the majority were highly satisfied with the EMD (Table 3) .",
+        "section": "EMD acceptability, adherence, and asthma control",
+        "section_number": 18,
+        "sentences": [
+            "Ninety-eight percent (108/110) of participants in the reminder group and 95% (104/110) in the non-reminder group completed the acceptability questionnaire.",
+            "Median scores in both groups were high for most acceptability questions (medians 4 or higher), indicating that the majority were highly satisfied with the EMD (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "A number of individual items were scored significantly higher in the reminder group including ease of remembering [reminder: reported elsewhere [4] . This is supported by the significant relationship seen between the statements 'Knowing when to take my asthma medication is easy' and adherence (p < 0.0005), and 'I feel more in control of my asthma now' and the Asthma Morbidity Score and childhood Asthma Control Test (Appendices 1-3).",
+        "section": "EMD acceptability, adherence, and asthma control",
+        "section_number": 19,
+        "sentences": [
+            "A number of individual items were scored significantly higher in the reminder group including ease of remembering [reminder: reported elsewhere [4] .",
+            "This is supported by the significant relationship seen between the statements 'Knowing when to take my asthma medication is easy' and adherence (p < 0.0005), and 'I feel more in control of my asthma now' and the Asthma Morbidity Score and childhood Asthma Control Test (Appendices 1-3)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Of the 110 reminder EMD users, 104 (95%) completed the ringtone ratings questionnaire. There was a significant difference in the ratings of 14 different ringtones (\u03c7 2 (13) = 185, p < 0.001). The highest ratings were for popular culture ringtones like 'The Simpsons,' which had a median rating of 3 (25-75th percentile: 2-3). The lowest median ratings were for animal sound ringtones like 'Donkey,' which received a rating of 2 (25-75th percentile: 0.25-2).",
+        "section": "Ringtone ratings",
+        "section_number": 20,
+        "sentences": [
+            "Of the 110 reminder EMD users, 104 (95%) completed the ringtone ratings questionnaire.",
+            "There was a significant difference in the ratings of 14 different ringtones (\u03c7 2 (13) = 185, p < 0.001).",
+            "The highest ratings were for popular culture ringtones like 'The Simpsons,' which had a median rating of 3 (25-75th percentile: 2-3).",
+            "The lowest median ratings were for animal sound ringtones like 'Donkey,' which received a rating of 2 (25-75th percentile: 0.25-2)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "One hundred of the 110 (91%) reminder EMD users completed the question on device handling, and 99 (90%) completed the question on device size. Ninety-four percent (94/100) agreed that the device was easy to hold; 6% (6/100) disagreed. For device size, 81% (80/99) rated the device 'just right,' 16% (16/ 99) 'too big,' and 3% (3/99) 'too small.'",
+        "section": "Device ergonomics",
+        "section_number": 21,
+        "sentences": [
+            "One hundred of the 110 (91%) reminder EMD users completed the question on device handling, and 99 (90%) completed the question on device size.",
+            "Ninety-four percent (94/100) agreed that the device was easy to hold; 6% (6/100) disagreed.",
+            "For device size, 81% (80/99) rated the device 'just right,' 16% (16/ 99) 'too big,' and 3% (3/99) 'too small.'"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Verbal and written comments about the device were provided by 44 individuals (24 children, 20 caregivers; 41 unique participant IDs). Of these individuals, 22 provided written, 21 verbal and 1 both written and verbal comments. Feedback was coded into five themes: EMD acceptability, ringtone acceptability, suggestions for EMD improvement, effect of EMD on medication use, and effect of EMD on asthma control (Appendix 4). Physical damagea broken battery case in three devices and unresponsive buttons and a blank display screen in one devicewas observed in four devices on return. Some children reported finding the reminders intrusive due to ringtone type, volume, or reminder time but most responded favorably, describing reminders as helpful for medication taking. Many caregivers perceived improvements in their child's asthma control as a result of EMD use.",
+        "section": "Feedback about the EMD",
+        "section_number": 22,
+        "sentences": [
+            "Verbal and written comments about the device were provided by 44 individuals (24 children, 20 caregivers; 41 unique participant IDs).",
+            "Of these individuals, 22 provided written, 21 verbal and 1 both written and verbal comments.",
+            "Feedback was coded into five themes: EMD acceptability, ringtone acceptability, suggestions for EMD improvement, effect of EMD on medication use, and effect of EMD on asthma control (Appendix 4).",
+            "Physical damagea broken battery case in three devices and unresponsive buttons and a blank display screen in one devicewas observed in four devices on return.",
+            "Some children reported finding the reminders intrusive due to ringtone type, volume, or reminder time but most responded favorably, describing reminders as helpful for medication taking.",
+            "Many caregivers perceived improvements in their child's asthma control as a result of EMD use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "With an increase in EMD use in research, it is important to determine (a) if EMDs are feasible and practical for use in children, (b) if EMDs can perform reliably in children over an extended period, and (c) what unique factors need to be considered in this age group. We believe this is the first study to report on both EMD performance and quantitative and qualitative measures of patient acceptability of an EMD when used by children. The discussion below will focus on these two aspectsperformance and acceptabilityand the limitations of our study findings. Although the study specifically investigated the SmartTrack EMD in children presenting to the ED with asthma (i.e. a population at high risk of nonadherence), these methods and results are likely applicable to other EMDs as well as other age groups when assessing an EMD for patient use.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "With an increase in EMD use in research, it is important to determine (a) if EMDs are feasible and practical for use in children, (b) if EMDs can perform reliably in children over an extended period, and (c) what unique factors need to be considered in this age group.",
+            "We believe this is the first study to report on both EMD performance and quantitative and qualitative measures of patient acceptability of an EMD when used by children.",
+            "The discussion below will focus on these two aspectsperformance and acceptabilityand the limitations of our study findings.",
+            "Although the study specifically investigated the SmartTrack EMD in children presenting to the ED with asthma (i.e. a population at high risk of nonadherence), these methods and results are likely applicable to other EMDs as well as other age groups when assessing an EMD for patient use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Our QC failure rates were lower than previously reported in a SmartTrack validation study among adults (20-25%) [11] , but aligned with rates reported for other more established EMDs, such as the Doser (0-21%) [9, 20, 21] , MDIlog/Chronolog (10-53%) [8, 9, 22, 23] , and Smartinhaler (0-20%) [15, 24, 25] , and were within the maximum 10-20% failure rates considered feasible for research settings [11] . In the present study, the SmartTrack EMD was used for longer and included more participants than the adult validation study [11] , thus likely providing more representative performance data. Further, the devices were used in children recruited from ED, providing the first acceptability data in a population whose adherence and asthma control was poor [26, 27] , and where the device was challenged by real-life conditions, such as rough handling. In such populations, adherence monitoring may provide the most benefit, thus suggesting that our performance results are generalizable to the population where EMDs are most needed [4] .",
+        "section": "EMD performance",
+        "section_number": 24,
+        "sentences": [
+            "Our QC failure rates were lower than previously reported in a SmartTrack validation study among adults (20-25%) [11] , but aligned with rates reported for other more established EMDs, such as the Doser (0-21%) [9, 20, 21] , MDIlog/Chronolog (10-53%) [8, 9, 22, 23] , and Smartinhaler (0-20%) [15, 24, 25] , and were within the maximum 10-20% failure rates considered feasible for research settings [11] .",
+            "In the present study, the SmartTrack EMD was used for longer and included more participants than the adult validation study [11] , thus likely providing more representative performance data.",
+            "Further, the devices were used in children recruited from ED, providing the first acceptability data in a population whose adherence and asthma control was poor [26, 27] , and where the device was challenged by real-life conditions, such as rough handling.",
+            "In such populations, adherence monitoring may provide the most benefit, thus suggesting that our performance results are generalizable to the population where EMDs are most needed [4] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Although the failure rate in children aligns with that of other available EMDs when used in adults, it remains a small but important percentage, which may need to be lower to encourage device implementation in clinical settings. Our requirement for 100% accuracy on all tested functions was exacting and may not have been necessary or realistic. At the start of the trial in 2010, the SmartTrack was a new device which lacked reported performance data; shorter tests may become more appropriate as reliable EMD performance data become available [4, 5] .",
+        "section": "Limitations -EMD performance",
+        "section_number": 25,
+        "sentences": [
+            "Although the failure rate in children aligns with that of other available EMDs when used in adults, it remains a small but important percentage, which may need to be lower to encourage device implementation in clinical settings.",
+            "Our requirement for 100% accuracy on all tested functions was exacting and may not have been necessary or realistic.",
+            "At the start of the trial in 2010, the SmartTrack was a new device which lacked reported performance data; shorter tests may become more appropriate as reliable EMD performance data become available [4, 5] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "After 6 months of use, participants reported good acceptability for the EMD, including being willing to continue use (in both groups) and rating the reminder EMD favorably for medication reminding and knowing when to take medication. The reminder group also reported feeling significantly more in control of their asthma than participants without reminders. Improvements in perceived asthma control were reported both quantitatively via the EMD acceptability scale and qualitatively from participant feedback. The improvements in perceived control correspond to data we have previously published [4] Of note, the EMD acceptability statements around asthma medication taking and asthma control corresponded with objective measures of adherence and asthma control, respectively (Appendices 1-3). The present results therefore suggest that a reminder EMD not only improves clinical asthma control, but it may correspondingly improve perceived asthma control ( Table 3 ). This is important and signals further research, especially since greater perceived control of asthma has been associated with improved health status and decreased future risk of severe exacerbations requiring emergency healthcare utilization [28] .",
+        "section": "EMD acceptability, adherence, and asthma control",
+        "section_number": 26,
+        "sentences": [
+            "After 6 months of use, participants reported good acceptability for the EMD, including being willing to continue use (in both groups) and rating the reminder EMD favorably for medication reminding and knowing when to take medication.",
+            "The reminder group also reported feeling significantly more in control of their asthma than participants without reminders.",
+            "Improvements in perceived asthma control were reported both quantitatively via the EMD acceptability scale and qualitatively from participant feedback.",
+            "The improvements in perceived control correspond to data we have previously published [4] Of note, the EMD acceptability statements around asthma medication taking and asthma control corresponded with objective measures of adherence and asthma control, respectively (Appendices 1-3).",
+            "The present results therefore suggest that a reminder EMD not only improves clinical asthma control, but it may correspondingly improve perceived asthma control ( Table 3 ).",
+            "This is important and signals further research, especially since greater perceived control of asthma has been associated with improved health status and decreased future risk of severe exacerbations requiring emergency healthcare utilization [28] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Participants rated the ringtone options favorably, with a preference for popular culture ringtones, such as 'The Simpsons,' and a lower preference for loud, abrupt or harsh ringtones, and animal sounds. Most (94%) rated the EMD as easy to hold and only a small proportion (16%) reported EMD size as 'too big.' The large size of the SmartTrack EMD has been noted previously [11] ; however, EMDs are likely to become more compact with time. Indeed, the re-branded version of the SmartTrack EMD (SmartTouch) appears to have addressed this by utilizing a smaller and softer casing [14] . EMD designers should consider these user preferences and ergonomic factors carefully when developing devices, particularly for use in children.",
+        "section": "Ringtone ratings and device ergonomics",
+        "section_number": 27,
+        "sentences": [
+            "Participants rated the ringtone options favorably, with a preference for popular culture ringtones, such as 'The Simpsons,' and a lower preference for loud, abrupt or harsh ringtones, and animal sounds.",
+            "Most (94%) rated the EMD as easy to hold and only a small proportion (16%) reported EMD size as 'too big.'",
+            "The large size of the SmartTrack EMD has been noted previously [11] ; however, EMDs are likely to become more compact with time.",
+            "Indeed, the re-branded version of the SmartTrack EMD (SmartTouch) appears to have addressed this by utilizing a smaller and softer casing [14] .",
+            "EMD designers should consider these user preferences and ergonomic factors carefully when developing devices, particularly for use in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "Previous research on EMD performance has focused predominantly on accuracy and reliability [8, 13, 15, 22, 24, 29] and lacks data on user acceptability, which is key to sustained patient use [16] . In the present study, we created a 7-item acceptability questionnaire which explored a variety of criteria, including attitudes to device use in public, responses to device features, and ergonomic factors such as size and ease of handling. The questionnaire was designed such that it can be administered relatively quickly and easily to children. Whilst this questionnaire was designed for the SmartTrack EMD and was answered by children, we specifically included questions generalizable to other EMDs and other age groups [14] such as assessing satisfaction with continued use, effects on medication management and attitudes to use in public ( Table 3 ). The ratings in the questionnaire were skewed, as is common to satisfaction rating scales [30] [31] [32] , and while distributional skew did not prevent the finding of statistical differences between the reminder and non-reminder groups, the magnitude of the difference between groups may have been underestimated. Further, like the questionnaires used in the small acceptability studies carried out previously in adults and adolescents [11, 12] , our acceptability questionnaire was not validated. Young children can have difficulty comprehending the language used in questionnaires, and older children may refuse to complete questionnaires or provide inaccurate answers [33] . Although we report a high questionnaire completion rate (>95%), we cannot be certain that the questionnaire responses of younger children were not influenced by comprehension difficulties, though researchers assisted with comprehension where appropriate. Further validation testing of our questionnaire is recommended in a future acceptability study in children.",
+        "section": "Strengths and limitations -EMD acceptability",
+        "section_number": 28,
+        "sentences": [
+            "Previous research on EMD performance has focused predominantly on accuracy and reliability [8, 13, 15, 22, 24, 29] and lacks data on user acceptability, which is key to sustained patient use [16] .",
+            "In the present study, we created a 7-item acceptability questionnaire which explored a variety of criteria, including attitudes to device use in public, responses to device features, and ergonomic factors such as size and ease of handling.",
+            "The questionnaire was designed such that it can be administered relatively quickly and easily to children.",
+            "Whilst this questionnaire was designed for the SmartTrack EMD and was answered by children, we specifically included questions generalizable to other EMDs and other age groups [14] such as assessing satisfaction with continued use, effects on medication management and attitudes to use in public ( Table 3 ).",
+            "The ratings in the questionnaire were skewed, as is common to satisfaction rating scales [30] [31] [32] , and while distributional skew did not prevent the finding of statistical differences between the reminder and non-reminder groups, the magnitude of the difference between groups may have been underestimated.",
+            "Further, like the questionnaires used in the small acceptability studies carried out previously in adults and adolescents [11, 12] , our acceptability questionnaire was not validated.",
+            "Young children can have difficulty comprehending the language used in questionnaires, and older children may refuse to complete questionnaires or provide inaccurate answers [33] .",
+            "Although we report a high questionnaire completion rate (>95%), we cannot be certain that the questionnaire responses of younger children were not influenced by comprehension difficulties, though researchers assisted with comprehension where appropriate.",
+            "Further validation testing of our questionnaire is recommended in a future acceptability study in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "This study reports on both EMD performance and patient acceptability in children. Device performance was consistent with that of other EMDs, though there remains a small but important failure rate which needs to be addressed prior to use in a clinical setting. This study reinforces the practical approach and resources needed for QC testing and its key role for enhancing the integrity of adherence data. Using a combination of quantitative and open-text qualitative methods to explore patient acceptability, we found that the SmartTrack EMD was highly acceptable, highlighting the feasibility of its use in children. EMD use also positively affected attitudes toward adherence and perceptions of asthma control. Further research combining EMD reliability and acceptability assessments, including the influence of EMD use on perceptions of disease control, is recommended to ensure a wide and successful uptake of EMDs in research and clinical settings, and to increase our understanding of the role of EMDs in adherence interventions.",
+        "section": "Conclusions",
+        "section_number": 29,
+        "sentences": [
+            "This study reports on both EMD performance and patient acceptability in children.",
+            "Device performance was consistent with that of other EMDs, though there remains a small but important failure rate which needs to be addressed prior to use in a clinical setting.",
+            "This study reinforces the practical approach and resources needed for QC testing and its key role for enhancing the integrity of adherence data.",
+            "Using a combination of quantitative and open-text qualitative methods to explore patient acceptability, we found that the SmartTrack EMD was highly acceptable, highlighting the feasibility of its use in children.",
+            "EMD use also positively affected attitudes toward adherence and perceptions of asthma control.",
+            "Further research combining EMD reliability and acceptability assessments, including the influence of EMD use on perceptions of disease control, is recommended to ensure a wide and successful uptake of EMDs in research and clinical settings, and to increase our understanding of the role of EMDs in adherence interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34715",
+        "text": "\u2022 Electronic monitoring devices (EMDs) are increasingly used in adherence research and clinical practice \u2022 There is little information in the literature about the performance and acceptability of EMD use in children \u2022 This study reports on the performance and use of EMDs in children \u2022 EMDS were found to be highly acceptable in children \u2022 There was a small but significant failure rate of EMDs which will need to be addressed prior to implementation in routine practice \u2022 The study highlights the potential for use of EMDs in children N less than 220 overall and less than 110 in each group due to patient withdrawals (2 reminder group, 5 non-reminder group) and incomplete questionnaires (3 reminder group, 4 non-reminder group). Questions were scored: 1 = strongly disagree, 5 = strongly agree. ",
+        "section": "Key issues",
+        "section_number": 30,
+        "sentences": [
+            "\u2022 Electronic monitoring devices (EMDs) are increasingly used in adherence research and clinical practice \u2022 There is little information in the literature about the performance and acceptability of EMD use in children \u2022 This study reports on the performance and use of EMDs in children \u2022 EMDS were found to be highly acceptable in children \u2022 There was a small but significant failure rate of EMDs which will need to be addressed prior to implementation in routine practice \u2022 The study highlights the potential for use of EMDs in children N less than 220 overall and less than 110 in each group due to patient withdrawals (2 reminder group, 5 non-reminder group) and incomplete questionnaires (3 reminder group, 4 non-reminder group).",
+            "Questions were scored: 1 = strongly disagree, 5 = strongly agree."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

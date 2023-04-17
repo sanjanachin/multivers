@@ -1,0 +1,551 @@
+[
+    {
+        "doc_id": "35365",
+        "text": "Objective: To describe the effect of maternal vaccination on birth outcomes in rural Nepal, modified by timing of vaccination in pregnancy and influenza virus activity. Methods: A secondary analysis was conducted using data from two annual cohorts of a randomized controlled trial. A total of 3693 pregnant women from Sarlahi District were enrolled between April 25, 2011, and September 9, 2013. All participants were aged 15-40 years and received a trivalent inactivated influenza vaccine or placebo. The outcome measures included birth weight, pregnancy length, low birth weight (<2500 g), preterm birth, and small-for-gestational-age birth. Results: Data were available on birth weight for 2741 births and on pregnancy length for 3623 births. Maternal vaccination increased mean birthweight by 42 g (95% confidence interval [CI] 8-76). The magnitude of this increase varied by season but was greatest among pregnancies with high influenza virus circulation during the third trimester. Birth weight increased by 111 g (95% CI \u221251 to 273) when 75%-100% of a pregnancy's third trimester had high influenza virus circulation versus 38 g (95% CI \u22126 to 81) when 0%-25% of a pregnancy's third trimester had high influenza virus circulation. However, these results were nonsignificant. Conclusion: Seasonal maternal influenza vaccination in rural Nepal increased birth weight; the magnitude appeared larger during periods of high influenza virus circulation. ClinicalTrials.gov: NCT01034254.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: To describe the effect of maternal vaccination on birth outcomes in rural Nepal, modified by timing of vaccination in pregnancy and influenza virus activity.",
+            "Methods: A secondary analysis was conducted using data from two annual cohorts of a randomized controlled trial.",
+            "A total of 3693 pregnant women from Sarlahi District were enrolled between April 25, 2011, and September 9, 2013.",
+            "All participants were aged 15-40 years and received a trivalent inactivated influenza vaccine or placebo.",
+            "The outcome measures included birth weight, pregnancy length, low birth weight (<2500 g), preterm birth, and small-for-gestational-age birth.",
+            "Results: Data were available on birth weight for 2741 births and on pregnancy length for 3623 births.",
+            "Maternal vaccination increased mean birthweight by 42 g (95% confidence interval [CI] 8-76).",
+            "The magnitude of this increase varied by season but was greatest among pregnancies with high influenza virus circulation during the third trimester.",
+            "Birth weight increased by 111 g (95% CI \u221251 to 273) when 75%-100% of a pregnancy's third trimester had high influenza virus circulation versus 38 g (95% CI \u22126 to 81) when 0%-25% of a pregnancy's third trimester had high influenza virus circulation.",
+            "However, these results were nonsignificant.",
+            "Conclusion: Seasonal maternal influenza vaccination in rural Nepal increased birth weight; the magnitude appeared larger during periods of high influenza virus circulation.",
+            "ClinicalTrials.gov: NCT01034254."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "In 2010, influenza infection accounted for 19 200 000 disabilityadjusted life years worldwide. 1 Pregnant women are at particularly high risk of complications from influenza infection. 2 WHO recommends vaccination for pregnant women. 3 One study showed markedly increased innate and adaptive immune responses to the influenza vaccine when comparing pregnant with non-pregnant women, 4 suggesting that these responses might underpin increased rates of morbidity and mortality among pregnant women. Furthermore, worse health outcomes resulting from influenza infection has been reported during late stages of pregnancy than during early stages. 5 Maternal influenza infection has also been linked with fetal growth restriction, preterm delivery, and fetal loss. 6 Neonates born growth restricted and/or preterm are likely to experience both immediate and long-term health consequences.",
+        "section": "| INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "In 2010, influenza infection accounted for 19 200 000 disabilityadjusted life years worldwide.",
+            "1 Pregnant women are at particularly high risk of complications from influenza infection.",
+            "2 WHO recommends vaccination for pregnant women.",
+            "3 One study showed markedly increased innate and adaptive immune responses to the influenza vaccine when comparing pregnant with non-pregnant women, 4 suggesting that these responses might underpin increased rates of morbidity and mortality among pregnant women.",
+            "Furthermore, worse health outcomes resulting from influenza infection has been reported during late stages of pregnancy than during early stages.",
+            "5 Maternal influenza infection has also been linked with fetal growth restriction, preterm delivery, and fetal loss.",
+            "6 Neonates born growth restricted and/or preterm are likely to experience both immediate and long-term health consequences."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Those born small-for-gestational-age (SGA)-a proxy for fetal growth restriction-experience increased risk of neonatal and infant mortality, stunted growth, and chronic disease in adulthood. 7, 8 Likewise, those born preterm have increased risk of neonatal and infant mortality, as well as cognitive and motor impairments. 8, 9 Observational studies and randomized controlled trials (RCTs) exploring the effect of maternal influenza vaccination on rates of SGA and preterm delivery have reported mixed findings. [10] [11] [12] [13] [14] [15] The Nepal Mothers' Gift Trial was an RCT of maternal influenza vaccination with two annual cohorts of pregnant women residing in a rural area of this country. 15, 16 The primary outcomes were maternal influenza-like illness, infant influenza infection, and low birth weight (LBW; defined as <2500 g). Inconsistent results were found between the two annual cohorts; however, protective effects were reported in at least one of these cohorts for all outcomes assessed. 15 The aim of the present analysis was to present further details of the effect of maternal influenza vaccination on birth weight and pregnancy length among participants enrolled in the Nepal Mothers' Gift Trial. The effect of maternal vaccination on birth outcomes and its modification by pregnancy length at which vaccination was given and by influenza virus activity were assessed. These issues are particularly important to address in locations with year-round influenza circulation to determine the ideal timing of maternal vaccination.",
+        "section": "| INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Those born small-for-gestational-age (SGA)-a proxy for fetal growth restriction-experience increased risk of neonatal and infant mortality, stunted growth, and chronic disease in adulthood.",
+            "7, 8 Likewise, those born preterm have increased risk of neonatal and infant mortality, as well as cognitive and motor impairments.",
+            "8, 9 Observational studies and randomized controlled trials (RCTs) exploring the effect of maternal influenza vaccination on rates of SGA and preterm delivery have reported mixed findings. [",
+            "10] [11] [12] [13] [14] [15] The Nepal Mothers' Gift Trial was an RCT of maternal influenza vaccination with two annual cohorts of pregnant women residing in a rural area of this country.",
+            "15, 16 The primary outcomes were maternal influenza-like illness, infant influenza infection, and low birth weight (LBW; defined as <2500 g).",
+            "Inconsistent results were found between the two annual cohorts; however, protective effects were reported in at least one of these cohorts for all outcomes assessed.",
+            "15 The aim of the present analysis was to present further details of the effect of maternal influenza vaccination on birth weight and pregnancy length among participants enrolled in the Nepal Mothers' Gift Trial.",
+            "The effect of maternal vaccination on birth outcomes and its modification by pregnancy length at which vaccination was given and by influenza virus activity were assessed.",
+            "These issues are particularly important to address in locations with year-round influenza circulation to determine the ideal timing of maternal vaccination."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "A secondary analysis was performed using the data from an RCT that examined the efficacy of influenza immunization on the incidence of respiratory illness and laboratory-confirmed influenza infection among pregnant women and their neonates, with 6 months of postpartum follow-up. 15, 16 Ethical approval was obtained for the original study and subsequent analyses from the Institutional Review Boards of the Cincinnati Children's Medical Center (Cincinnati, OH, USA), Johns Hopkins Bloomberg School of Public Health (Baltimore, MD, USA), the Institute of Medicine at Tribhuvan University (Kathmandu, Nepal), and the Nepal Health Research Council (Kathmandu, Nepal). All participants provided informed consent to the original study and use of data for analysis.",
+        "section": "| MATERIALS AND METHODS",
+        "section_number": 3,
+        "sentences": [
+            "A secondary analysis was performed using the data from an RCT that examined the efficacy of influenza immunization on the incidence of respiratory illness and laboratory-confirmed influenza infection among pregnant women and their neonates, with 6 months of postpartum follow-up.",
+            "15, 16 Ethical approval was obtained for the original study and subsequent analyses from the Institutional Review Boards of the Cincinnati Children's Medical Center (Cincinnati, OH, USA), Johns Hopkins Bloomberg School of Public Health (Baltimore, MD, USA), the Institute of Medicine at Tribhuvan University (Kathmandu, Nepal), and the Nepal Health Research Council (Kathmandu, Nepal).",
+            "All participants provided informed consent to the original study and use of data for analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Full details of the original methods and the results for the primary outcomes have been described elsewhere. 15, 16 Briefly, married, pregnant women aged 15-40 years living in Sarlahi District, Nepal, were invited to participate. Women who had already received influenza vaccination that season, planned to deliver outside the study area, or had allergies to vaccine components (e.g. egg) were excluded. Eligible women were enrolled in two separate but sequential annual cohorts.",
+        "section": "| MATERIALS AND METHODS",
+        "section_number": 4,
+        "sentences": [
+            "Full details of the original methods and the results for the primary outcomes have been described elsewhere.",
+            "15, 16 Briefly, married, pregnant women aged 15-40 years living in Sarlahi District, Nepal, were invited to participate.",
+            "Women who had already received influenza vaccination that season, planned to deliver outside the study area, or had allergies to vaccine components (e.g. egg) were excluded.",
+            "Eligible women were enrolled in two separate but sequential annual cohorts."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "For the first cohort, women at 17-34 weeks of pregnancy were enrolled between April 25, 2011, and April 24, 2012, and vaccinated on enrollment. For the second cohort, women were enrolled between April 25, 2012, and April 24, 2013; they were then randomly assigned a week between 17 and 34 weeks of pregnancy at which they would undergo vaccination. Pregnancy length was calculated from the date of the last menstrual period; recall of the date was aided by 5-weekly population pregnancy surveillance by the study staff. Women in both cohorts were randomly allocated to receive a trivalent inactivated influenza vaccine or saline placebo in blocks of eight, stratified by pregnancy length at vaccination (17-25 or 26-34 weeks). The participants were masked to their allocation. Two different formulations of the vaccine were used (second formulation used starting from October 15, 2012). Details on the vaccines are available in Appendix S1.",
+        "section": "| MATERIALS AND METHODS",
+        "section_number": 5,
+        "sentences": [
+            "For the first cohort, women at 17-34 weeks of pregnancy were enrolled between April 25, 2011, and April 24, 2012, and vaccinated on enrollment.",
+            "For the second cohort, women were enrolled between April 25, 2012, and April 24, 2013; they were then randomly assigned a week between 17 and 34 weeks of pregnancy at which they would undergo vaccination.",
+            "Pregnancy length was calculated from the date of the last menstrual period; recall of the date was aided by 5-weekly population pregnancy surveillance by the study staff.",
+            "Women in both cohorts were randomly allocated to receive a trivalent inactivated influenza vaccine or saline placebo in blocks of eight, stratified by pregnancy length at vaccination (17-25 or 26-34 weeks).",
+            "The participants were masked to their allocation.",
+            "Two different formulations of the vaccine were used (second formulation used starting from October 15, 2012).",
+            "Details on the vaccines are available in Appendix S1."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "35365",
+        "text": "All enrolled women were visited weekly by study staff, both during and after pregnancy (follow-up continued to 180 days after delivery), to collect data on maternal and infant morbidities for each day in the previous week. These illness signs were all self-reported by the women or other household members. Influenza-like illness was defined as a fever in the presence of either a cough or sore throat, based on daily self-reported data that was collected on a weekly basis. Nasal swabs were taken for influenza testing by polymerase chain reaction 17 among all women presenting with fever plus one additional morbidity sign (persistent cough, sore throat, nasal congestion, or myalgia) and all infants with fever, cough, wheezing, difficulty in breathing, or otorrhea on any of the previous 7 days. Details of the laboratory tests are available elsewhere. 15 The participants were instructed to notify study staff immediately after delivery, at which time a staff member visited the household to collect data on maternal, fetal, and neonatal status, as well as morbidities and conditions during labor and delivery.",
+        "section": "| MATERIALS AND METHODS",
+        "section_number": 6,
+        "sentences": [
+            "All enrolled women were visited weekly by study staff, both during and after pregnancy (follow-up continued to 180 days after delivery), to collect data on maternal and infant morbidities for each day in the previous week.",
+            "These illness signs were all self-reported by the women or other household members.",
+            "Influenza-like illness was defined as a fever in the presence of either a cough or sore throat, based on daily self-reported data that was collected on a weekly basis.",
+            "Nasal swabs were taken for influenza testing by polymerase chain reaction 17 among all women presenting with fever plus one additional morbidity sign (persistent cough, sore throat, nasal congestion, or myalgia) and all infants with fever, cough, wheezing, difficulty in breathing, or otorrhea on any of the previous 7 days.",
+            "Details of the laboratory tests are available elsewhere.",
+            "15 The participants were instructed to notify study staff immediately after delivery, at which time a staff member visited the household to collect data on maternal, fetal, and neonatal status, as well as morbidities and conditions during labor and delivery."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "The main outcome measures were birth weight and pregnancy length at delivery, and dichotomous variables LBW, preterm delivery (<37 weeks), and SGA. Only neonatal weights taken within 72 hours of delivery were included; when weight was taken beyond 72 hours, data on pregnancy length could still be contributed. A birth weight lower than the 10th percentile of the sex-specific and gestationalage-specific INTERGROWTH-21st birth weight standard 18 was used to define SGA. Neonates at or above the 10th percentile were categorized as appropriate-for-gestational-age (AGA).",
+        "section": "| MATERIALS AND METHODS",
+        "section_number": 7,
+        "sentences": [
+            "The main outcome measures were birth weight and pregnancy length at delivery, and dichotomous variables LBW, preterm delivery (<37 weeks), and SGA.",
+            "Only neonatal weights taken within 72 hours of delivery were included; when weight was taken beyond 72 hours, data on pregnancy length could still be contributed.",
+            "A birth weight lower than the 10th percentile of the sex-specific and gestationalage-specific INTERGROWTH-21st birth weight standard 18 was used to define SGA.",
+            "Neonates at or above the 10th percentile were categorized as appropriate-for-gestational-age (AGA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Station, TX, USA). The distribution of birth weight and pregnancy length at delivery was summarized by vaccination group. The data were also stratified by the formulation of the vaccine the mother received. The infants were categorized by creating mutually exclusive categories of delivery weight and pregnancy length as follows: term-AGA-not LBW, term-AGA-LBW, term-SGA-not-LBW, term-SGA-LBW, preterm-AGAnot-LBW, preterm-AGA-LBW, and preterm-SGA ( Fig. S1 ). 8 Infants in the preterm-SGA group were all LBW. The regression analyses conducted are summarized in Table 1 . \u2022 Stratified by maternal exposure to high, low, or no influenza circulation c during the 3rd trimester (\u226528 wk), given that the speed of fetal weight gain is greatest in the 3rd trimester",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 8,
+        "sentences": [
+            "Station, TX, USA).",
+            "The distribution of birth weight and pregnancy length at delivery was summarized by vaccination group.",
+            "The data were also stratified by the formulation of the vaccine the mother received.",
+            "The infants were categorized by creating mutually exclusive categories of delivery weight and pregnancy length as follows: term-AGA-not LBW, term-AGA-LBW, term-SGA-not-LBW, term-SGA-LBW, preterm-AGAnot-LBW, preterm-AGA-LBW, and preterm-SGA ( Fig. S1 ).",
+            "8 Infants in the preterm-SGA group were all LBW.",
+            "The regression analyses conducted are summarized in Table 1 . \u2022",
+            "Stratified by maternal exposure to high, low, or no influenza circulation c during the 3rd trimester (\u226528 wk), given that the speed of fetal weight gain is greatest in the 3rd trimester"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "| 67 KozuKi ET AL. T A B L E 1 Description of analyses.",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 9,
+        "sentences": [
+            "| 67 KozuKi ET AL.",
+            "T A B L E 1 Description of analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "\u2022 Stratified by whether the mother had 0 to <25%, 25 to <50%, 50 to <75%, or 75 to \u2264100% of their 3rd trimester exposed to high circulation",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 10,
+        "sentences": [
+            "\u2022 Stratified by whether the mother had 0 to <25%, 25 to <50%, 50 to <75%, or 75 to \u2264100% of their 3rd trimester exposed to high circulation"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "\u2022 Examined the interaction between exposure to high influenza circulation (percentage of 3rd trimester exposed to high influenza circulation) and vaccination and subsequently stratified the circulation analyses by when women were vaccinated in pregnancy (<26, 26 Table 3 . Compared with the placebo group, the vaccinated group had a greater proportion of infants in the term-AGA category (the lowest mortality risk) and lower proportions in the high-risk categories (term-SGA-LBW, preterm-AGA-LBW, and preterm-SGA). The results of the regression analyses reflected these reductions, but were not statistically significant (Table 3 ). Figure 1 displays the bimonthly mean birth weight in the placebo and vaccinated groups versus weekly influenza virus circulation. Figure S5 shows the same graph but with circulation levels stratified by the type of influenza virus. Generally, there were patterns of increased differences in birth weight, comparing vaccination with placebo, at times of high circulation for each viral strain.",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 11,
+        "sentences": [
+            "\u2022 Examined the interaction between exposure to high influenza circulation (percentage of 3rd trimester exposed to high influenza circulation) and vaccination and subsequently stratified the circulation analyses by when women were vaccinated in pregnancy (<26, 26 Table 3 .",
+            "Compared with the placebo group, the vaccinated group had a greater proportion of infants in the term-AGA category (the lowest mortality risk) and lower proportions in the high-risk categories (term-SGA-LBW, preterm-AGA-LBW, and preterm-SGA).",
+            "The results of the regression analyses reflected these reductions, but were not statistically significant (Table 3 ).",
+            "Figure 1 displays the bimonthly mean birth weight in the placebo and vaccinated groups versus weekly influenza virus circulation.",
+            "Figure S5 shows the same graph but with circulation levels stratified by the type of influenza virus.",
+            "Generally, there were patterns of increased differences in birth weight, comparing vaccination with placebo, at times of high circulation for each viral strain."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "With regard to secular trends, the mean birth weight increased by 5 g (95% CI 2-8) per month for the placebo group and 7 g (95% CI 4-10)",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 12,
+        "sentences": [
+            "With regard to secular trends, the mean birth weight increased by 5 g (95% CI 2-8) per month for the placebo group and 7 g (95% CI 4-10)"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "per month for the vaccinated group through the course of the study. The vaccination effect on birth weight was stratified by exposure to high levels of influenza virus circulation in the third trimester (Table 4) .",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 13,
+        "sentences": [
+            "per month for the vaccinated group through the course of the study.",
+            "The vaccination effect on birth weight was stratified by exposure to high levels of influenza virus circulation in the third trimester (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Although none of the birth weight effects remained statistically significant, the data were indicative of a dose-response pattern. Namely, the greater the proportion of the third trimester exposed to high influenza circulation, the greater the magnitude of birth weight gain associated with vaccination (Table 4 ). This dose-response pattern could be observed when the analysis was limited to women who were vaccinated before 26 weeks, but the effects were not statistically significant (Table 4) .",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 14,
+        "sentences": [
+            "Although none of the birth weight effects remained statistically significant, the data were indicative of a dose-response pattern.",
+            "Namely, the greater the proportion of the third trimester exposed to high influenza circulation, the greater the magnitude of birth weight gain associated with vaccination (Table 4 ).",
+            "This dose-response pattern could be observed when the analysis was limited to women who were vaccinated before 26 weeks, but the effects were not statistically significant (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "When stratifying by timing of vaccination in pregnancy, an increase in birth weight was seen in each category, but was only statistically significant among women vaccinated before 26 weeks (48 g, 95% CI 6-90) ( Table 4) .",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 15,
+        "sentences": [
+            "When stratifying by timing of vaccination in pregnancy, an increase in birth weight was seen in each category, but was only statistically significant among women vaccinated before 26 weeks (48 g, 95% CI 6-90) ( Table 4) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "A dose-response relationship between exposure to high influenza circulation and pregnancy length was observed but was not T A B L E 2 Birth weight distribution, by vaccine type a and vaccination status. statistically significant (Table S3 ). However, a statistically significant increase in pregnancy length was found among mothers who were vaccinated between 26 weeks and less than 30 weeks, when at least half of their third trimester had been exposed to high influenza virus circulation. When removing the circulation stratification, there was a statistically significant positive effect on pregnancy length among those vaccinated between 26 weeks and less than 30 weeks, but not for those vaccinated before or after that time (Table S3) .",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 16,
+        "sentences": [
+            "A dose-response relationship between exposure to high influenza circulation and pregnancy length was observed but was not T A B L E 2 Birth weight distribution, by vaccine type a and vaccination status.",
+            "statistically significant (Table S3 ).",
+            "However, a statistically significant increase in pregnancy length was found among mothers who were vaccinated between 26 weeks and less than 30 weeks, when at least half of their third trimester had been exposed to high influenza virus circulation.",
+            "When removing the circulation stratification, there was a statistically significant positive effect on pregnancy length among those vaccinated between 26 weeks and less than 30 weeks, but not for those vaccinated before or after that time (Table S3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "When the proportion of a pregnancy's third trimester exposed to high influenza virus circulation was examined as a continuous variable, vaccination during periods of greater influenza virus circulation had a greater positive effect on birth weight than vaccination during periods of lower influenza virus circulation, but the effect modification was not statistically significant. A positive trend of increased pregnancy length was observed among vaccinated individuals with greater third trimester exposure to influenza circulation than with lower third trimester exposure; however, the effect modification was not statistically significant (data not shown). Previous observational studies reported mixed results regarding the effect of maternal influenza vaccination on birth outcomes. Data collected in the USA between 2004 and 2009 showed no effect on preterm birth or SGA, 19 although rates of these outcomes are much lower in the USA than in low-income countries. Data from the 2009 US H1N1 influenza pandemic showed that preterm rates were 37%",
+        "section": "The data were analyzed using Stata version 13 (StataCorp, College",
+        "section_number": 17,
+        "sentences": [
+            "When the proportion of a pregnancy's third trimester exposed to high influenza virus circulation was examined as a continuous variable, vaccination during periods of greater influenza virus circulation had a greater positive effect on birth weight than vaccination during periods of lower influenza virus circulation, but the effect modification was not statistically significant.",
+            "A positive trend of increased pregnancy length was observed among vaccinated individuals with greater third trimester exposure to influenza circulation than with lower third trimester exposure; however, the effect modification was not statistically significant (data not shown).",
+            "Previous observational studies reported mixed results regarding the effect of maternal influenza vaccination on birth outcomes.",
+            "Data collected in the USA between 2004 and 2009 showed no effect on preterm birth or SGA, 19 although rates of these outcomes are much lower in the USA than in low-income countries.",
+            "Data from the 2009 US H1N1 influenza pandemic showed that preterm rates were 37%"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "lower (adjusted odds ratio 0.63, 95% CI 0.47-0.84) for the vaccinated versus the non-vaccinated, but there was a minimal birth weight effect and no change in SGA or LBW. 20 Although these observational studies adjusted for confounders, residual confounding is likely because vaccinated women likely differ in characteristics from unvaccinated women.",
+        "section": "| DISCUSSION",
+        "section_number": 18,
+        "sentences": [
+            "lower (adjusted odds ratio 0.63, 95% CI 0.47-0.84) for the vaccinated versus the non-vaccinated, but there was a minimal birth weight effect and no change in SGA or LBW.",
+            "20 Although these observational studies adjusted for confounders, residual confounding is likely because vaccinated women likely differ in characteristics from unvaccinated women."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Four maternal influenza vaccination trials have been conducted to date, including the Nepal Mothers' Gift Trial. 15, 16 A Bangladeshi study found only a statistically significant increase in birth weight and a decrease in SGA rate during the high influenza virus circulation period. with term-AGA infants. 8 Rates of stillbirth have also been reported to be higher among growth-restricted and/or preterm fetuses. 26 Although the present sample size was not large enough to detect differences T A B L E 4 The effect of vaccination on birthweight (in g), stratified by extent of third-trimester exposure to high influenza circulation and timing of vaccination in pregnancy. in neonatal mortality, a protective effect against mortality might be expected with the reduction in the proportion of preterm-SGA infants.",
+        "section": "| DISCUSSION",
+        "section_number": 19,
+        "sentences": [
+            "Four maternal influenza vaccination trials have been conducted to date, including the Nepal Mothers' Gift Trial.",
+            "15, 16 A Bangladeshi study found only a statistically significant increase in birth weight and a decrease in SGA rate during the high influenza virus circulation period.",
+            "with term-AGA infants.",
+            "8 Rates of stillbirth have also been reported to be higher among growth-restricted and/or preterm fetuses.",
+            "26 Although the present sample size was not large enough to detect differences T A B L E 4 The effect of vaccination on birthweight (in g), stratified by extent of third-trimester exposure to high influenza circulation and timing of vaccination in pregnancy.",
+            "in neonatal mortality, a protective effect against mortality might be expected with the reduction in the proportion of preterm-SGA infants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "The present study could not determine what period in pregnancy would be associated with the largest effect from exposure to influenza virus. Given that the greatest fetal weight gain occurs late in pregnancy, 27 the present study focused on such exposure during the third trimester; however, exposure at an earlier stage in pregnancy could trigger inflammatory responses that affect other health outcomes.",
+        "section": "| DISCUSSION",
+        "section_number": 20,
+        "sentences": [
+            "The present study could not determine what period in pregnancy would be associated with the largest effect from exposure to influenza virus.",
+            "Given that the greatest fetal weight gain occurs late in pregnancy, 27 the present study focused on such exposure during the third trimester; however, exposure at an earlier stage in pregnancy could trigger inflammatory responses that affect other health outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "In attempting to understand the interaction between seasonality of influenza virus circulation and the stages of pregnancy, the present study could not definitively identify an ideal time for maternal influenza vaccination. Additionally, the viral surveillance performed might have been limited because nasal swabs for influenza testing were taken only among women who reported a febrile respiratory illness.",
+        "section": "| DISCUSSION",
+        "section_number": 21,
+        "sentences": [
+            "In attempting to understand the interaction between seasonality of influenza virus circulation and the stages of pregnancy, the present study could not definitively identify an ideal time for maternal influenza vaccination.",
+            "Additionally, the viral surveillance performed might have been limited because nasal swabs for influenza testing were taken only among women who reported a febrile respiratory illness."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "In conclusion, maternal influenza vaccination exerted the greatest effect on birth weight among pregnant women who were exposed to high influenza virus circulation during the third trimester. A strategy of seasonal maternal influenza vaccination in resource-limited settings could potentially increase birth weight during periods of high influenza circulation. Taking into consideration the barriers to providing yearround vaccination, it may be possible to target key times of the year to maximize the impact on birth outcomes.",
+        "section": "| DISCUSSION",
+        "section_number": 22,
+        "sentences": [
+            "In conclusion, maternal influenza vaccination exerted the greatest effect on birth weight among pregnant women who were exposed to high influenza virus circulation during the third trimester.",
+            "A strategy of seasonal maternal influenza vaccination in resource-limited settings could potentially increase birth weight during periods of high influenza circulation.",
+            "Taking into consideration the barriers to providing yearround vaccination, it may be possible to target key times of the year to maximize the impact on birth outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "NK conducted the data analysis and wrote the first draft of the manuscript. JKa, JAE, MCS, SKK, LS, JKu, LCM, and JMT contributed to the study design. JKa, SKK, LS, LCM, SCL, and JMT supervised the conduct of the study in the field. JAE and JKu determined the virology assay collection protocols. HYC assisted in study implementation and cord-blood collection. JAE and MCS determined the antibody assay protocols. All authors contributed to the writing or revisions to the manuscript and approved the final version.",
+        "section": "AUTHOR CONTRIBUTIONS",
+        "section_number": 23,
+        "sentences": [
+            "NK conducted the data analysis and wrote the first draft of the manuscript.",
+            "JKa, JAE, MCS, SKK, LS, JKu, LCM, and JMT contributed to the study design.",
+            "JKa, SKK, LS, LCM, SCL, and JMT supervised the conduct of the study in the field.",
+            "JAE and JKu determined the virology assay collection protocols.",
+            "HYC assisted in study implementation and cord-blood collection.",
+            "JAE and MCS determined the antibody assay protocols.",
+            "All authors contributed to the writing or revisions to the manuscript and approved the final version."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Additional Supporting Information may be found online in the supporting information tab for this article. Table S1 . Birth weight distribution (restricted to those measured within 72 hours of birth), comparing women who had influenza or influenza-like illness during pregnancy with those who did not. Table S2 . Effect of maternal vaccination on birth outcomes, stratified by calendar time of vaccination. Table S3 . Effect of vaccination on gestational age, stratified by third trimester exposure to high influenza circulation and timing of vaccination in pregnancy.",
+        "section": "SUPPORTING INFORMATION",
+        "section_number": 24,
+        "sentences": [
+            "Additional Supporting Information may be found online in the supporting information tab for this article.",
+            "Table S1 .",
+            "Birth weight distribution (restricted to those measured within 72 hours of birth), comparing women who had influenza or influenza-like illness during pregnancy with those who did not.",
+            "Table S2 .",
+            "Effect of maternal vaccination on birth outcomes, stratified by calendar time of vaccination.",
+            "Table S3 .",
+            "Effect of vaccination on gestational age, stratified by third trimester exposure to high influenza circulation and timing of vaccination in pregnancy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "Appendix S1. Influenza vaccine type.",
+        "section": "SUPPORTING INFORMATION",
+        "section_number": 25,
+        "sentences": [
+            "Appendix S1.",
+            "Influenza vaccine type."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. \u00a9 2017 The Authors. International Journal of Gynecology & Obstetrics published by John Wiley & Sons Ltd on behalf of International Federation of Gynecology and Obstetrics",
+        "section": "",
+        "section_number": 26,
+        "sentences": [
+            "This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.",
+            "\u00a9 2017 The Authors.",
+            "International Journal of Gynecology & Obstetrics published by John Wiley & Sons Ltd on behalf of International Federation of Gynecology and Obstetrics"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35365",
+        "text": "| RESULTS The flow diagrams for the two annual cohorts are shown in Figures S2 and S3. A total of 3693 pregnant women were enrolled; 1846 received placebo and 1847 received the influenza vaccine. The 17 deliveries that",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "| RESULTS The flow diagrams for the two annual cohorts are shown in Figures S2 and S3.",
+            "A total of 3693 pregnant women were enrolled; 1846 received placebo and 1847 received the influenza vaccine.",
+            "The 17 deliveries that"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

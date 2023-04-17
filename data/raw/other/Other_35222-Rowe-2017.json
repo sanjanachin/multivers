@@ -1,0 +1,651 @@
+[
+    {
+        "doc_id": "35222",
+        "text": "BACKGROUND Cystic fibrosis is an autosomal recessive disease caused by mutations in the CFTR gene that lead to progressive respiratory decline. Some mutant CFTR proteins show residual function and respond to the CFTR potentiator ivacaftor in vitro, whereas ivacaftor alone does not restore activity to Phe508del mutant CFTR. METHODS We conducted a randomized, double-blind, placebo-controlled, phase 3, crossover trial to evaluate the efficacy and safety of ivacaftor alone or in combination with tezacaftor, a CFTR corrector, in 248 patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del mutation and a CFTR mutation associated with residual CFTR function. Patients were randomly assigned to one of six sequences, each involving two 8-week intervention periods separated by an 8-week washout period. They received tezacaftor-ivacaftor, ivacaftor monotherapy, or placebo. The primary end point was the absolute change in the percentage of predicted forced expiratory volume in 1 second (FEV 1) from the baseline value to the average of the week 4 and week 8 measurements in each intervention period. RESULTS The number of analyzed intervention periods was 162 for tezacaftor-ivacaftor, 157 for ivacaftor alone, and 162 for placebo. The least-squares mean difference versus placebo with respect to the absolute change in the percentage of predicted FEV 1 was 6.8 percentage points for tezacaftor-ivacaftor and 4.7 percentage points for ivacaftor alone (P<0.001 for both comparisons). Scores on the respiratory domain of the Cystic Fibrosis Questionnaire-Revised, a quality-of-life measure, also significantly favored the active-treatment groups. The incidence of adverse events was similar across intervention groups; most events were mild or moderate in severity, with no discontinuations of the trial regimen due to adverse events for tezacaftorivacaftor and few for ivacaftor alone (1% of patients) and placebo (<1%). CONCLUSIONS CFTR modulator therapy with tezacaftor-ivacaftor or ivacaftor alone was efficacious in patients with cystic fibrosis who were heterozygous for the Phe508del deletion and a CFTR residual-function mutation. (Funded by Vertex Pharmaceuticals and others; EXPAND ClinicalTrials.gov number, NCT02392234.",
+        "section": "Abstract",
+        "sentences": [
+            "BACKGROUND Cystic fibrosis is an autosomal recessive disease caused by mutations in the CFTR gene that lead to progressive respiratory decline.",
+            "Some mutant CFTR proteins show residual function and respond to the CFTR potentiator ivacaftor in vitro, whereas ivacaftor alone does not restore activity to Phe508del mutant CFTR.",
+            "METHODS We conducted a randomized, double-blind, placebo-controlled, phase 3, crossover trial to evaluate the efficacy and safety of ivacaftor alone or in combination with tezacaftor, a CFTR corrector, in 248 patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del mutation and a CFTR mutation associated with residual CFTR function.",
+            "Patients were randomly assigned to one of six sequences, each involving two 8-week intervention periods separated by an 8-week washout period.",
+            "They received tezacaftor-ivacaftor, ivacaftor monotherapy, or placebo.",
+            "The primary end point was the absolute change in the percentage of predicted forced expiratory volume in 1 second (FEV 1) from the baseline value to the average of the week 4 and week 8 measurements in each intervention period.",
+            "RESULTS The number of analyzed intervention periods was 162 for tezacaftor-ivacaftor, 157 for ivacaftor alone, and 162 for placebo.",
+            "The least-squares mean difference versus placebo with respect to the absolute change in the percentage of predicted FEV 1 was 6.8 percentage points for tezacaftor-ivacaftor and 4.7 percentage points for ivacaftor alone (P<0.001 for both comparisons).",
+            "Scores on the respiratory domain of the Cystic Fibrosis Questionnaire-Revised, a quality-of-life measure, also significantly favored the active-treatment groups.",
+            "The incidence of adverse events was similar across intervention groups; most events were mild or moderate in severity, with no discontinuations of the trial regimen due to adverse events for tezacaftorivacaftor and few for ivacaftor alone (1% of patients) and placebo (<1%).",
+            "CONCLUSIONS CFTR modulator therapy with tezacaftor-ivacaftor or ivacaftor alone was efficacious in patients with cystic fibrosis who were heterozygous for the Phe508del deletion and a CFTR residual-function mutation. (",
+            "Funded by Vertex Pharmaceuticals and others; EXPAND ClinicalTrials.gov number, NCT02392234."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "ystic fibrosis is a progressive, systemic, life-limiting, autosomal recessive disease that is caused by reduced quantity or function of the cystic fibrosis transmembrane conductance regulator (CFTR) protein due to mutations in the CFTR gene. 1, 2 Loss of chloride transport activity due to defects in CFTR results in the accumulation of inspissated mucus in the airways, loss of exocrine pancreatic function, impaired intestinal absorption, reproductive dysfunction, and elevated sweat chloride concentration. 1, 2 More than 270 CFTR mutations are known to cause cystic fibrosis. 3 Disease severity and the rate of disease progression vary with mutation and are determined in part by the extent of chloride transport loss associated with each. A substantial minority of CFTR mutations, affecting approximately 5% of the overall population with cystic fibrosis, exhibit residual CFTR ion transport due to partially retained CFTR expression and variably preserved channel gating or function. [4] [5] [6] These \"residual function\" mutations cause cystic fibrosis with lung disease and a markedly reduced life expectancy, but the disease generally progresses more slowly than more common forms of cystic fibrosis. 7 Without the use of newborn screening, patients with cystic fibrosis that is caused by these mutations often receive a diagnosis after early infancy and are more likely to have pancreatic sufficiency and sweat chloride concentrations below 90 mmol per liter, indicating partially preserved CFTR activity. 4, 8, 9 In contrast, the common Phe508del CFTR mutation, which results in cellular degradation of the protein and causes severe dysfunction when homozygous, leads to early onset of cystic fibrosis and more rapid disease progression. 7 Two complementary types of drugs have been developed with different mechanisms of action to increase CFTR-mediated anion secretion. 10 CFTR potentiators, such as ivacaftor, increase the probability of CFTR channel opening at the cell surface to enhance ion transport and are efficacious in treating gating mutations. [11] [12] [13] CFTR correctors improve the cellular processing and trafficking of normal and mutated CFTR protein to increase the amount of functional CFTR at the cell surface. Ivacaftor-responsive CFTR mutations were identified on the basis of a clinical phenotype of residual CFTR function (which indicates the presence of functional CFTR protein on the cell surface), in vitro data, and clinical case reports. 14, 15 The ad-dition of the CFTR corrector tezacaftor was hypothesized to enhance clinical benefit in patients with these mutations by increasing overall CFTR function; this combination treatment is particularly important for restoring activity to those carrying two copies of the Phe508del CFTR mutation, as shown for the approved corrector-potentiator combination lumacaftor-ivacaftor, and may provide benefit to patients with other CFTR mutations. 6, [16] [17] [18] [19] Tezacaftor is an investigational CFTR corrector that, in combination with ivacaftor, has been shown to improve lung function and decrease sweat chloride concentrations in a phase 2 clinical trial involving patients who were homozygous for the Phe508del CFTR mutation and patients who were heterozygous for the Phe508del CFTR mutation and the G551D CFTR mutation. 20 We hypothesized that this combination would also be beneficial in patients with cystic fibrosis caused by the Phe508del CFTR mutation and a residualfunction mutation.",
+        "section": "C",
+        "section_number": 1,
+        "sentences": [
+            "ystic fibrosis is a progressive, systemic, life-limiting, autosomal recessive disease that is caused by reduced quantity or function of the cystic fibrosis transmembrane conductance regulator (CFTR) protein due to mutations in the CFTR gene.",
+            "1, 2 Loss of chloride transport activity due to defects in CFTR results in the accumulation of inspissated mucus in the airways, loss of exocrine pancreatic function, impaired intestinal absorption, reproductive dysfunction, and elevated sweat chloride concentration.",
+            "1, 2 More than 270 CFTR mutations are known to cause cystic fibrosis.",
+            "3 Disease severity and the rate of disease progression vary with mutation and are determined in part by the extent of chloride transport loss associated with each.",
+            "A substantial minority of CFTR mutations, affecting approximately 5% of the overall population with cystic fibrosis, exhibit residual CFTR ion transport due to partially retained CFTR expression and variably preserved channel gating or function. [",
+            "4] [5] [6] These \"residual function\" mutations cause cystic fibrosis with lung disease and a markedly reduced life expectancy, but the disease generally progresses more slowly than more common forms of cystic fibrosis.",
+            "7 Without the use of newborn screening, patients with cystic fibrosis that is caused by these mutations often receive a diagnosis after early infancy and are more likely to have pancreatic sufficiency and sweat chloride concentrations below 90 mmol per liter, indicating partially preserved CFTR activity.",
+            "4, 8, 9 In contrast, the common Phe508del CFTR mutation, which results in cellular degradation of the protein and causes severe dysfunction when homozygous, leads to early onset of cystic fibrosis and more rapid disease progression.",
+            "7 Two complementary types of drugs have been developed with different mechanisms of action to increase CFTR-mediated anion secretion.",
+            "10 CFTR potentiators, such as ivacaftor, increase the probability of CFTR channel opening at the cell surface to enhance ion transport and are efficacious in treating gating mutations. [",
+            "11] [12] [13] CFTR correctors improve the cellular processing and trafficking of normal and mutated CFTR protein to increase the amount of functional CFTR at the cell surface.",
+            "Ivacaftor-responsive CFTR mutations were identified on the basis of a clinical phenotype of residual CFTR function (which indicates the presence of functional CFTR protein on the cell surface), in vitro data, and clinical case reports.",
+            "14, 15 The ad-dition of the CFTR corrector tezacaftor was hypothesized to enhance clinical benefit in patients with these mutations by increasing overall CFTR function; this combination treatment is particularly important for restoring activity to those carrying two copies of the Phe508del CFTR mutation, as shown for the approved corrector-potentiator combination lumacaftor-ivacaftor, and may provide benefit to patients with other CFTR mutations.",
+            "6, [16] [17] [18] [19] Tezacaftor is an investigational CFTR corrector that, in combination with ivacaftor, has been shown to improve lung function and decrease sweat chloride concentrations in a phase 2 clinical trial involving patients who were homozygous for the Phe508del CFTR mutation and patients who were heterozygous for the Phe508del CFTR mutation and the G551D CFTR mutation.",
+            "20 We hypothesized that this combination would also be beneficial in patients with cystic fibrosis caused by the Phe508del CFTR mutation and a residualfunction mutation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "This phase 3, randomized, double-blind, placebo-controlled crossover trial evaluated the efficacy and safety of tezacaftor-ivacaftor combination therapy and ivacaftor monotherapy in patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a residual-function CFTR mutation.",
+        "section": "C",
+        "section_number": 2,
+        "sentences": [
+            "This phase 3, randomized, double-blind, placebo-controlled crossover trial evaluated the efficacy and safety of tezacaftor-ivacaftor combination therapy and ivacaftor monotherapy in patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a residual-function CFTR mutation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "This trial was a phase 3, randomized, multicenter, double-blind, placebo-controlled, two-period, three-intervention crossover trial (VX14-661-108, also called EXPAND) involving patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a second allele with a CFTR mutation with residual function. It was conducted at 86 sites in Australia, Europe, Israel, and North America from March 27, 2015, to February 16, 2017. (The trial protocol is available with the full text of this article at NEJM.org.) The residual-function mutations, listed in Table S1 in the Supplementary Appendix (available at NEJM.org), were identified by in vitro response to ivacaftor and populationlevel clinical phenotype from epidemiologic data or published literature. 3 This trial was designed to evaluate the efficacy and safety of tezacaftor (VX-661, Vertex Pharmaceuticals) in combination ",
+        "section": "Trial Design",
+        "section_number": 3,
+        "sentences": [
+            "This trial was a phase 3, randomized, multicenter, double-blind, placebo-controlled, two-period, three-intervention crossover trial (VX14-661-108, also called EXPAND) involving patients 12 years of age or older who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a second allele with a CFTR mutation with residual function.",
+            "It was conducted at 86 sites in Australia, Europe, Israel, and North America from March 27, 2015, to February 16, 2017. (",
+            "The trial protocol is available with the full text of this article at NEJM.org.)",
+            "The residual-function mutations, listed in Table S1 in the Supplementary Appendix (available at NEJM.org), were identified by in vitro response to ivacaftor and populationlevel clinical phenotype from epidemiologic data or published literature.",
+            "3 This trial was designed to evaluate the efficacy and safety of tezacaftor (VX-661, Vertex Pharmaceuticals) in combination"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "T h e ne w e ngl a nd jou r na l o f m e dicine with ivacaftor (VX-770, Vertex Pharmaceuticals) and of ivacaftor monotherapy in this patient population with the use of an incomplete block design. Each patient received two of the following three regimens: tezacaftor-ivacaftor combination therapy (100 mg of tezacaftor once daily and 150 mg of ivacaftor every 12 hours), ivacaftor monotherapy (150 mg of ivacaftor every 12 hours), or placebo. This trial included a screening period of up to 6 weeks, two intervention periods of 8 weeks separated by a washout period of 8 weeks, and a safety follow-up visit. Patients were enrolled and stratified according to age at screening (<18 years vs. \u226518 years), the percentage of predicted forced expiratory volume in 1 second (FEV 1 ) at the screening visit (<70% vs. \u226570%), and type of residualfunction mutation (class V noncanonical splice mutation or class II to IV residual-function [missense] mutation) ( Table S1 in the Supplementary Appendix). They were then randomly assigned (in a 1:1:1:1:1:1 ratio) to one of six intervention sequences, as shown in Figure S1 in the Supplementary Appendix.",
+        "section": "2026",
+        "section_number": 4,
+        "sentences": [
+            "T h e ne w e ngl a nd jou r na l o f m e dicine with ivacaftor (VX-770, Vertex Pharmaceuticals) and of ivacaftor monotherapy in this patient population with the use of an incomplete block design.",
+            "Each patient received two of the following three regimens: tezacaftor-ivacaftor combination therapy (100 mg of tezacaftor once daily and 150 mg of ivacaftor every 12 hours), ivacaftor monotherapy (150 mg of ivacaftor every 12 hours), or placebo.",
+            "This trial included a screening period of up to 6 weeks, two intervention periods of 8 weeks separated by a washout period of 8 weeks, and a safety follow-up visit.",
+            "Patients were enrolled and stratified according to age at screening (<18 years vs. \u226518 years), the percentage of predicted forced expiratory volume in 1 second (FEV 1 ) at the screening visit (<70% vs. \u226570%), and type of residualfunction mutation (class V noncanonical splice mutation or class II to IV residual-function [missense] mutation) ( Table S1 in the Supplementary Appendix).",
+            "They were then randomly assigned (in a 1:1:1:1:1:1 ratio) to one of six intervention sequences, as shown in Figure S1 in the Supplementary Appendix."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Eligible patients who completed the week 24 visit at the end of the second intervention period were offered the opportunity to enroll in an extension study (VX14-661-110; ClinicalTrials.gov number, NCT02565914). The trial protocol was approved by an independent ethics committee at each of the trial sites before trial initiation. All enrolled patients, or the parent or legal guardian (if applicable), provided written informed consent.",
+        "section": "2026",
+        "section_number": 5,
+        "sentences": [
+            "Eligible patients who completed the week 24 visit at the end of the second intervention period were offered the opportunity to enroll in an extension study (VX14-661-110; ClinicalTrials.gov number, NCT02565914).",
+            "The trial protocol was approved by an independent ethics committee at each of the trial sites before trial initiation.",
+            "All enrolled patients, or the parent or legal guardian (if applicable), provided written informed consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "The trial sponsor (Vertex Pharmaceuticals) designed the protocol in collaboration with the authors. Local site investigators (listed in the Supplementary Appendix) collected the data, which were analyzed by the sponsor. All the authors had full access to the trial data after the data were unblinded and made the decision to submit the manuscript for publication. The manuscript was written with medical writing support, which was funded by the sponsor, with critical review and input from all the authors. The authors vouch for the accuracy and completeness of the data and analyses and for the adherence of the trial to the protocol. Confidentiality agreements were in place between the sponsor and all the investigators participating in this trial.",
+        "section": "2026",
+        "section_number": 6,
+        "sentences": [
+            "The trial sponsor (Vertex Pharmaceuticals) designed the protocol in collaboration with the authors.",
+            "Local site investigators (listed in the Supplementary Appendix) collected the data, which were analyzed by the sponsor.",
+            "All the authors had full access to the trial data after the data were unblinded and made the decision to submit the manuscript for publication.",
+            "The manuscript was written with medical writing support, which was funded by the sponsor, with critical review and input from all the authors.",
+            "The authors vouch for the accuracy and completeness of the data and analyses and for the adherence of the trial to the protocol.",
+            "Confidentiality agreements were in place between the sponsor and all the investigators participating in this trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Patients 12 years of age or older who were confirmed at the screening visit to be heterozygous for the Phe508del CFTR mutation and a second allele with a residual-function CFTR mutation were eligible for inclusion if they had a percentage of predicted FEV 1 at the time of screening that was 40 to 90% of the predicted normal values, stable lung disease, and a sweat chloride concentration of at least 60 mmol per liter. If the sweat chloride concentration was less than 60 mmol per liter, documented evidence of chronic sinopulmonary disease was required (see the Methods section in the Supplementary Appendix).",
+        "section": "Trial Participants",
+        "section_number": 7,
+        "sentences": [
+            "Patients 12 years of age or older who were confirmed at the screening visit to be heterozygous for the Phe508del CFTR mutation and a second allele with a residual-function CFTR mutation were eligible for inclusion if they had a percentage of predicted FEV 1 at the time of screening that was 40 to 90% of the predicted normal values, stable lung disease, and a sweat chloride concentration of at least 60 mmol per liter.",
+            "If the sweat chloride concentration was less than 60 mmol per liter, documented evidence of chronic sinopulmonary disease was required (see the Methods section in the Supplementary Appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Patients were excluded if they had clinically significant laboratory abnormalities at screening (hemoglobin level <10 g per deciliter or abnormal liver or renal function); acute upper or lower respiratory infection, pulmonary exacerbation, or changes in therapy for pulmonary disease within 28 days before day 1 (first dose of trial regimen) of the trial; a history of solidorgan or hematologic transplantation; recent participation in an investigational drug study or use of a commercially available CFTR modulator therapy, including ivacaftor or lumacaftorivacaftor; or a history of any coexisting condition that might confound the results of the trial or pose an additional risk.",
+        "section": "Trial Participants",
+        "section_number": 8,
+        "sentences": [
+            "Patients were excluded if they had clinically significant laboratory abnormalities at screening (hemoglobin level <10 g per deciliter or abnormal liver or renal function); acute upper or lower respiratory infection, pulmonary exacerbation, or changes in therapy for pulmonary disease within 28 days before day 1 (first dose of trial regimen) of the trial; a history of solidorgan or hematologic transplantation; recent participation in an investigational drug study or use of a commercially available CFTR modulator therapy, including ivacaftor or lumacaftorivacaftor; or a history of any coexisting condition that might confound the results of the trial or pose an additional risk."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "The primary end point was the absolute change in the percentage of predicted FEV 1 from the baseline value to the average of the week 4 and week 8 measurements in each intervention period. The key secondary end point was the absolute change in the Cystic Fibrosis Questionnaire-Revised (CFQ-R) respiratory domain score from the baseline score to the average of the week 4 and week 8 scores in each intervention period. Scores range from 0 to 100, with higher scores indicating a higher patient-reported quality of life with respect to respiratory status. Safety and side-effect profiles were assessed as a secondary objective on the basis of adverse events, clinical laboratory values, electrocardiography, vital signs, pulse oximetry, and spirometry. Additional secondary end points included the relative change in the percentage of predicted FEV 1 and the absolute change in the sweat chloride concentration (a measure of CFTR function), both from the baseline value to the average of the week 4 and week 8 measurements in each intervention period. Exploratory and additional supportive end points included the rate of pulmonary exacerbations, the ",
+        "section": "Trial Assessments",
+        "section_number": 9,
+        "sentences": [
+            "The primary end point was the absolute change in the percentage of predicted FEV 1 from the baseline value to the average of the week 4 and week 8 measurements in each intervention period.",
+            "The key secondary end point was the absolute change in the Cystic Fibrosis Questionnaire-Revised (CFQ-R) respiratory domain score from the baseline score to the average of the week 4 and week 8 scores in each intervention period.",
+            "Scores range from 0 to 100, with higher scores indicating a higher patient-reported quality of life with respect to respiratory status.",
+            "Safety and side-effect profiles were assessed as a secondary objective on the basis of adverse events, clinical laboratory values, electrocardiography, vital signs, pulse oximetry, and spirometry.",
+            "Additional secondary end points included the relative change in the percentage of predicted FEV 1 and the absolute change in the sweat chloride concentration (a measure of CFTR function), both from the baseline value to the average of the week 4 and week 8 measurements in each intervention period.",
+            "Exploratory and additional supportive end points included the rate of pulmonary exacerbations, the"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "The percentage of predicted FEV 1 was calculated according to the standards of Wang et al. 21 (for female patients 12 to 15 years of age and male patients 12 to 17 years of age) or Hankinson et al. 22 (for female patients 16 years of age or older and male patients 18 years of age or older). The primary efficacy analysis, evaluation of the absolute change in the percentage of predicted FEV 1 from the baseline value to the average of the week 4 and week 8 measurements in the tezacaftor-ivacaftor and placebo groups and in the ivacaftor monotherapy and placebo groups, was based on a mixed-effects model. The fixed effects in the model were intervention, intervention period, and percentage of predicted FEV 1 at baseline, with patient as a random effect. Statistical analyses of all secondary end points were similar to that of the analysis of the primary efficacy end point (defined further in the Methods section in the Supplementary Appendix). The type I error rate for comparisons of the active treatments with placebo for the primary end point and key secondary end point was controlled by prespecifying a gatekeeping approach. All safety analyses included patients who received at least one dose of the trial regimen, and all were based on data associated with each safety period, which extended from the first dose of the trial regimen in the intervention period to the safety evaluation visit or safety follow-up visit, or to 28 days after the last dose in the intervention period for patients who did not have a safety evaluation visit or safety follow-up visit. The proposed sample size provided the trial with approximately 90% power for a significant difference to be observed between tezacaftor-ivacaftor and placebo for the primary end point. A carryover effect was not expected; therefore, the choice of a crossover design, the evaluation of efficacy by assessment of the change from trial baseline, and the proposed analysis methods were considered to be appropriate.",
+        "section": "Statistical Analysis",
+        "section_number": 10,
+        "sentences": [
+            "The percentage of predicted FEV 1 was calculated according to the standards of Wang et al. 21 (for female patients 12 to 15 years of age and male patients 12 to 17 years of age) or Hankinson et al. 22 (for female patients 16 years of age or older and male patients 18 years of age or older).",
+            "The primary efficacy analysis, evaluation of the absolute change in the percentage of predicted FEV 1 from the baseline value to the average of the week 4 and week 8 measurements in the tezacaftor-ivacaftor and placebo groups and in the ivacaftor monotherapy and placebo groups, was based on a mixed-effects model.",
+            "The fixed effects in the model were intervention, intervention period, and percentage of predicted FEV 1 at baseline, with patient as a random effect.",
+            "Statistical analyses of all secondary end points were similar to that of the analysis of the primary efficacy end point (defined further in the Methods section in the Supplementary Appendix).",
+            "The type I error rate for comparisons of the active treatments with placebo for the primary end point and key secondary end point was controlled by prespecifying a gatekeeping approach.",
+            "All safety analyses included patients who received at least one dose of the trial regimen, and all were based on data associated with each safety period, which extended from the first dose of the trial regimen in the intervention period to the safety evaluation visit or safety follow-up visit, or to 28 days after the last dose in the intervention period for patients who did not have a safety evaluation visit or safety follow-up visit.",
+            "The proposed sample size provided the trial with approximately 90% power for a significant difference to be observed between tezacaftor-ivacaftor and placebo for the primary end point.",
+            "A carryover effect was not expected; therefore, the choice of a crossover design, the evaluation of efficacy by assessment of the change from trial baseline, and the proposed analysis methods were considered to be appropriate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "A total of 248 patients were enrolled and underwent randomization. One patient assigned to placebo and 1 patient assigned to ivacaftor alone in period 1 were later deemed to be ineligible and did not receive the intervention. Of the remaining 246 patients, 234 (95%) completed both intervention periods, resulting in 481 periods that could be evaluated (Fig. S2 in the Supplementary Appendix). Baseline demographic and clinical characteristics of the patients in period 1 were similar among all groups (Table 1) , with an overall mean (\u00b1SD) percentage of predicted FEV 1 of 62.3\u00b114.5%. The demographic and clinical characteristics of the patients in period 2 were similar to the characteristics of the patients in period 1 (data not shown).",
+        "section": "Participants",
+        "section_number": 11,
+        "sentences": [
+            "A total of 248 patients were enrolled and underwent randomization.",
+            "One patient assigned to placebo and 1 patient assigned to ivacaftor alone in period 1 were later deemed to be ineligible and did not receive the intervention.",
+            "Of the remaining 246 patients, 234 (95%) completed both intervention periods, resulting in 481 periods that could be evaluated (Fig. S2 in the Supplementary Appendix).",
+            "Baseline demographic and clinical characteristics of the patients in period 1 were similar among all groups (Table 1) , with an overall mean (\u00b1SD) percentage of predicted FEV 1 of 62.3\u00b114.5%.",
+            "The demographic and clinical characteristics of the patients in period 2 were similar to the characteristics of the patients in period 1 (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "No carryover effects were seen between intervention periods 1 and 2. Treatment with tezacaftorivacaftor and ivacaftor alone resulted in significant benefits with respect to the primary end point, the absolute change in the percentage of predicted FEV 1 , as compared with placebo. The least-squares mean difference versus placebo from the baseline value to the average of the week 4 and week 8 measurements was 6.8 percentage points (95% confidence interval [CI], 5.7 to 7.8) for tezacaftorivacaftor and 4.7 percentage points (95% CI, 3.7 to 5.8) for ivacaftor alone (P<0.001 for both comparisons) ( Table 2) . The difference between tezacaftor-ivacaftor and ivacaftor alone was significant in favor of tezacaftor-ivacaftor (P<0.001) ( Table 2) . Benefits with respect to the primary end point were observed for tezacaftor-ivacaftor and ivacaftor alone as compared with placebo as early as day 15 and were maintained through week 8 of the trial period (Fig. 1) . The results of the primary end point in prespecified subgroups consistently favored tezacaftor-ivacaftor and ivacaftor alone over placebo, regardless of age, sex, baseline lung function, geographic region, use of common cystic fibrosis medications, Pseudomonas aeruginosa colonization status, and type of residual-function mutation (Fig. 2) .",
+        "section": "Clinical Efficacy",
+        "section_number": 12,
+        "sentences": [
+            "No carryover effects were seen between intervention periods 1 and 2.",
+            "Treatment with tezacaftorivacaftor and ivacaftor alone resulted in significant benefits with respect to the primary end point, the absolute change in the percentage of predicted FEV 1 , as compared with placebo.",
+            "The least-squares mean difference versus placebo from the baseline value to the average of the week 4 and week 8 measurements was 6.8 percentage points (95% confidence interval [CI], 5.7 to 7.8) for tezacaftorivacaftor and 4.7 percentage points (95% CI, 3.7 to 5.8) for ivacaftor alone (P<0.001 for both comparisons) ( Table 2) .",
+            "The difference between tezacaftor-ivacaftor and ivacaftor alone was significant in favor of tezacaftor-ivacaftor (P<0.001) ( Table 2) .",
+            "Benefits with respect to the primary end point were observed for tezacaftor-ivacaftor and ivacaftor alone as compared with placebo as early as day 15 and were maintained through week 8 of the trial period (Fig. 1) .",
+            "The results of the primary end point in prespecified subgroups consistently favored tezacaftor-ivacaftor and ivacaftor alone over placebo, regardless of age, sex, baseline lung function, geographic region, use of common cystic fibrosis medications, Pseudomonas aeruginosa colonization status, and type of residual-function mutation (Fig. 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Both tezacaftor-ivacaftor and ivacaftor alone had significant benefits with respect to the key secondary end point, the absolute change in the ",
+        "section": "Clinical Efficacy",
+        "section_number": 13,
+        "sentences": [
+            "Both tezacaftor-ivacaftor and ivacaftor alone had significant benefits with respect to the key secondary end point, the absolute change in the"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "EQUATION",
+        "section": "Clinical Efficacy",
+        "section_number": 14,
+        "sentences": [
+            "EQUATION"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "* Plus-minus values are means \u00b1SD. Baseline was defined as the most recent nonmissing measurement before the first dose of the trial regimen during the trial. Percentages may not sum to 100 because of rounding. FEV 1 denotes forced expiratory volume in 1 second. \u2020 Israel and Australia were categorized under Europe. \u2021 The body-mass index is the weight in kilograms divided by the square of the height in meters. \u00a7 Sweat chloride measurements were captured at baseline for 79 patients in the placebo group, 80 in the ivacaftor group, and 81 in the tezacaftor-ivacaftor group (all in the first intervention period). \u00b6 Scores on the respiratory domain of the Cystic Fibrosis Questionnaire-Revised (CFQ-R) range from 0 to 100, with higher scores indicating a higher patient-reported quality of life with respect to respiratory status. \u2016 Data include medications that were started before the first dose of the trial regimen during the trial and were continued during the first intervention period. ** Pancreatic insufficiency was defined as a fecal elastase-1 level of less than 200 \u03bcg per gram. 2) for ivacaftor alone (P <0.001 for both comparisons) ( Table 2 ). The percentage of patients who had a clinically important difference of 4 points or greater was 65% in the tezacaftor-ivacaftor group, 58% in the ivacaftor-alone group, and 33% in the placebo group. 23 The difference in the CFQ-R respiratory domain score between tezacaftor-ivacaftor and ivacaftor alone for either analysis was not significant. Benefits were observed in both active-treatment groups versus placebo for other secondary end points ( Table 2 ). The gatekeeping approach was not applied to these analyses, and statistical significance cannot be claimed. Results for the relative change in the percentage of predicted FEV 1 were consistent with the findings from the primary analysis. Sweat chloride concentrations were lower (denoting better CFTR function) in patients receiving tezacaftor-ivacaftor or ivacaftor alone than in those receiving placebo (least-squares mean difference vs. placebo, \u22129. * End points reflect the change from the baseline value or score to the average of the week 4 and week 8 measurements or scores in each intervention period. Numbers of patients shown are the total numbers of patients in the intervention groups in intervention periods 1 and 2. \u2020 P<0.001 for the between-group comparison. \u2021 P = 0.26 for the between-group comparison. \u00a7 The gatekeeping approach was not applied to analyses of these end points, so no statistical significance can be claimed. Benefits with both tezacaftor-ivacaftor combination therapy and ivacaftor monotherapy were seen in some exploratory and additional, prespecified end points. These included lower levels of immunoreactive trypsinogen (a marker of pancreatic function) than with placebo and a lower rate of pulmonary exacerbations that did not reach the level of statistical significance (Table 3 ; also see the Results section in the Supplementary Appendix). BMI was increased in both active-treatment groups and the placebo group at week 8 (mean absolute change, 0.34 for tezacaftorivacaftor, 0.47 for ivacaftor alone, and 0.18 for placebo); the differences versus placebo were not analyzed for statistical significance.",
+        "section": "Clinical Efficacy",
+        "section_number": 15,
+        "sentences": [
+            "* Plus-minus values are means \u00b1SD.",
+            "Baseline was defined as the most recent nonmissing measurement before the first dose of the trial regimen during the trial.",
+            "Percentages may not sum to 100 because of rounding.",
+            "FEV 1 denotes forced expiratory volume in 1 second. \u2020",
+            "Israel and Australia were categorized under Europe. \u2021",
+            "The body-mass index is the weight in kilograms divided by the square of the height in meters. \u00a7",
+            "Sweat chloride measurements were captured at baseline for 79 patients in the placebo group, 80 in the ivacaftor group, and 81 in the tezacaftor-ivacaftor group (all in the first intervention period). \u00b6",
+            "Scores on the respiratory domain of the Cystic Fibrosis Questionnaire-Revised (CFQ-R) range from 0 to 100, with higher scores indicating a higher patient-reported quality of life with respect to respiratory status. \u2016",
+            "Data include medications that were started before the first dose of the trial regimen during the trial and were continued during the first intervention period. **",
+            "Pancreatic insufficiency was defined as a fecal elastase-1 level of less than 200 \u03bcg per gram.",
+            "2) for ivacaftor alone (P <0.001 for both comparisons) ( Table 2 ).",
+            "The percentage of patients who had a clinically important difference of 4 points or greater was 65% in the tezacaftor-ivacaftor group, 58% in the ivacaftor-alone group, and 33% in the placebo group.",
+            "23 The difference in the CFQ-R respiratory domain score between tezacaftor-ivacaftor and ivacaftor alone for either analysis was not significant.",
+            "Benefits were observed in both active-treatment groups versus placebo for other secondary end points ( Table 2 ).",
+            "The gatekeeping approach was not applied to these analyses, and statistical significance cannot be claimed.",
+            "Results for the relative change in the percentage of predicted FEV 1 were consistent with the findings from the primary analysis.",
+            "Sweat chloride concentrations were lower (denoting better CFTR function) in patients receiving tezacaftor-ivacaftor or ivacaftor alone than in those receiving placebo (least-squares mean difference vs. placebo, \u22129. *",
+            "End points reflect the change from the baseline value or score to the average of the week 4 and week 8 measurements or scores in each intervention period.",
+            "Numbers of patients shown are the total numbers of patients in the intervention groups in intervention periods 1 and 2. \u2020",
+            "P<0.001 for the between-group comparison. \u2021",
+            "P = 0.26 for the between-group comparison. \u00a7",
+            "The gatekeeping approach was not applied to analyses of these end points, so no statistical significance can be claimed.",
+            "Benefits with both tezacaftor-ivacaftor combination therapy and ivacaftor monotherapy were seen in some exploratory and additional, prespecified end points.",
+            "These included lower levels of immunoreactive trypsinogen (a marker of pancreatic function) than with placebo and a lower rate of pulmonary exacerbations that did not reach the level of statistical significance (Table 3 ; also see the Results section in the Supplementary Appendix).",
+            "BMI was increased in both active-treatment groups and the placebo group at week 8 (mean absolute change, 0.34 for tezacaftorivacaftor, 0.47 for ivacaftor alone, and 0.18 for placebo); the differences versus placebo were not analyzed for statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "There were no deaths in the trial. The incidence of adverse events was similar in all three intervention groups. The majority of patients had adverse events that were considered either mild or moderate in severity. Four patients (2%) in the tezacaftor-ivacaftor group, eight (5%) in the ivacaftor-alone group, and nine (6%) in the placebo group had grade 3 (severe) or grade 4 (life-threatening) adverse events (Table 4) . Adverse events led to discontinuation of the trial regimen for zero patients in the tezacaftor-ivacaftor group, two patients (1%) in the ivacaftor-alone group, and one (<1%) in the placebo group (Table 4 ; also see the Results section in the Supplementary Appendix) .",
+        "section": "Safety",
+        "section_number": 16,
+        "sentences": [
+            "There were no deaths in the trial.",
+            "The incidence of adverse events was similar in all three intervention groups.",
+            "The majority of patients had adverse events that were considered either mild or moderate in severity.",
+            "Four patients (2%) in the tezacaftor-ivacaftor group, eight (5%) in the ivacaftor-alone group, and nine (6%) in the placebo group had grade 3 (severe) or grade 4 (life-threatening) adverse events (Table 4) .",
+            "Adverse events led to discontinuation of the trial regimen for zero patients in the tezacaftor-ivacaftor group, two patients (1%) in the ivacaftor-alone group, and one (<1%) in the placebo group (Table 4 ; also see the Results section in the Supplementary Appendix) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Overall, the most common adverse events were typical of the clinical manifestations of cystic fibrosis. The most common events (\u226510% incidence with any trial regimen), according to preferred term, were cough, infective pulmonary exacerbation of cystic fibrosis, headache, and hemoptysis. In the tezacaftor-ivacaftor group, adverse events with both an incidence of at least 5% and an incidence that was at least 1 percentage point higher than in the placebo group were an increase in sputum production, nasopharyngitis, diarrhea, and headache; in the ivacaftor-alone group, events that met these criteria were an increase in the blood level of creatine kinase and hemoptysis (Table 4) . Two patients had serious adverse events of an increase in the blood level of creatine kinase with ivacaftor treatment that were considered by the treating investigator to be related to the trial regimen; no other patients had serious adverse events that were considered by the treating investigator to be related to active treatment. There were no clinically meaningful adverse trends in the levels of alanine aminotransferase, aspartate aminotransferase, total bilirubin (Table S6 in the Supplementary Appendix), or alkaline phosphatase.",
+        "section": "Safety",
+        "section_number": 17,
+        "sentences": [
+            "Overall, the most common adverse events were typical of the clinical manifestations of cystic fibrosis.",
+            "The most common events (\u226510% incidence with any trial regimen), according to preferred term, were cough, infective pulmonary exacerbation of cystic fibrosis, headache, and hemoptysis.",
+            "In the tezacaftor-ivacaftor group, adverse events with both an incidence of at least 5% and an incidence that was at least 1 percentage point higher than in the placebo group were an increase in sputum production, nasopharyngitis, diarrhea, and headache; in the ivacaftor-alone group, events that met these criteria were an increase in the blood level of creatine kinase and hemoptysis (Table 4) .",
+            "Two patients had serious adverse events of an increase in the blood level of creatine kinase with ivacaftor treatment that were considered by the treating investigator to be related to the trial regimen; no other patients had serious adverse events that were considered by the treating investigator to be related to active treatment.",
+            "There were no clinically meaningful adverse trends in the levels of alanine aminotransferase, aspartate aminotransferase, total bilirubin (Table S6 in the Supplementary Appendix), or alkaline phosphatase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Adverse events that were associated with respiratory events or respiratory symptoms were less common in the tezacaftor-ivacaftor group than in the * Plus-minus values are means \u00b1SD. The gatekeeping approach was not applied to analyses of these end points, so no statistical significance can be claimed. ",
+        "section": "Safety",
+        "section_number": 18,
+        "sentences": [
+            "Adverse events that were associated with respiratory events or respiratory symptoms were less common in the tezacaftor-ivacaftor group than in the * Plus-minus values are means \u00b1SD.",
+            "The gatekeeping approach was not applied to analyses of these end points, so no statistical significance can be claimed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Oropharyngeal pain 9 (6) 7 (4)",
+        "section": "Safety",
+        "section_number": 19,
+        "sentences": [
+            "Oropharyngeal pain 9 (6) 7 (4)"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Nasal congestion 9 (6) 3 (2)",
+        "section": "Safety",
+        "section_number": 20,
+        "sentences": [
+            "Nasal congestion 9 (6) 3 (2)"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Nasopharyngitis 5 (3) 6 (4)",
+        "section": "Safety",
+        "section_number": 21,
+        "sentences": [
+            "Nasopharyngitis 5 (3) 6 (4)"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Increase in the blood level of creatine kinase 5 (3) 8 (5)",
+        "section": "Safety",
+        "section_number": 22,
+        "sentences": [
+            "Increase in the blood level of creatine kinase 5 (3) 8 (5)"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "* The safety data set was defined as data from all patients who received at least one dose of the trial regimen. Adverse events were coded with the use of the Medical Dictionary for Regulatory Activities, version 19.1. There were a total of 447 events in the placebo group, 342 in the ivacaftor group, and 422 in the tezacaftor-ivacaftor group. \u2020 These events were considered by the investigator to be related or possibly related to the trial regimen. \u2021 One patient had multiple life-threatening adverse events (mental-status changes, acute respiratory failure, pneumothorax, infective pulmonary exacerbation of cystic fibrosis, and pneumonia), each considered serious. The trial regimen was interrupted, and the patient completed the trial. \u00a7 One patient discontinued placebo because of adverse events of fatigue, oropharyngeal pain, productive cough, and abnormal respiration. One patient discontinued ivacaftor because of adverse events of fatigue and an increase in the blood level of creatine kinase. One patient discontinued trial participation during the washout period because of an adverse event of an increase in the blood level of creatine kinase, which occurred 1 day after the last dose of ivacaftor in intervention period 1; this patient did not participate in intervention period 2. ",
+        "section": "Safety",
+        "section_number": 23,
+        "sentences": [
+            "* The safety data set was defined as data from all patients who received at least one dose of the trial regimen.",
+            "Adverse events were coded with the use of the Medical Dictionary for Regulatory Activities, version 19.1.",
+            "There were a total of 447 events in the placebo group, 342 in the ivacaftor group, and 422 in the tezacaftor-ivacaftor group. \u2020",
+            "These events were considered by the investigator to be related or possibly related to the trial regimen. \u2021",
+            "One patient had multiple life-threatening adverse events (mental-status changes, acute respiratory failure, pneumothorax, infective pulmonary exacerbation of cystic fibrosis, and pneumonia), each considered serious.",
+            "The trial regimen was interrupted, and the patient completed the trial. \u00a7",
+            "One patient discontinued placebo because of adverse events of fatigue, oropharyngeal pain, productive cough, and abnormal respiration.",
+            "One patient discontinued ivacaftor because of adverse events of fatigue and an increase in the blood level of creatine kinase.",
+            "One patient discontinued trial participation during the washout period because of an adverse event of an increase in the blood level of creatine kinase, which occurred 1 day after the last dose of ivacaftor in intervention period 1; this patient did not participate in intervention period 2."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Using a crossover design, this phase 3 trial of combined CFTR corrector-potentiator treatment in patients with cystic fibrosis who were heterozygous for the Phe508del CFTR mutation and a second mutation associated with residual CFTR activity was able to evaluate two distinct concepts: the effect of the potentiator ivacaftor on residual-function CFTR protein defects and the benefit of adding the investigational CFTR corrector tezacaftor. Tezacaftor is a broad-acting CFTR corrector that facilitates the cellular processing and trafficking of normal CFTR and multiple mutant CFTR forms, including the common Phe508del form, thereby increasing the amount of CFTR protein at the cell surface and resulting in increased chloride transport. Results showed important clinical benefit with both combination tezacaftor-ivacaftor treatment and treatment with ivacaftor alone. These findings confirm the benefits of potentiator therapy in patients with residual CFTR function mutations and the added benefit conferred by corrector-potentiator combination therapy in this population. The benefit with respect to spirometric measurements that was observed with tezacaftor-ivacaftor -and, to a lesser extent, with ivacaftor alone -was notable. Differences versus placebo were rapid in onset and were sustained at all trial visits, similar to those in other trials of effective CFTR modulators. 12, 15, 17, [24] [25] [26] Furthermore, differences versus placebo were consistent across all prespecified subgroup analyses.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Using a crossover design, this phase 3 trial of combined CFTR corrector-potentiator treatment in patients with cystic fibrosis who were heterozygous for the Phe508del CFTR mutation and a second mutation associated with residual CFTR activity was able to evaluate two distinct concepts: the effect of the potentiator ivacaftor on residual-function CFTR protein defects and the benefit of adding the investigational CFTR corrector tezacaftor.",
+            "Tezacaftor is a broad-acting CFTR corrector that facilitates the cellular processing and trafficking of normal CFTR and multiple mutant CFTR forms, including the common Phe508del form, thereby increasing the amount of CFTR protein at the cell surface and resulting in increased chloride transport.",
+            "Results showed important clinical benefit with both combination tezacaftor-ivacaftor treatment and treatment with ivacaftor alone.",
+            "These findings confirm the benefits of potentiator therapy in patients with residual CFTR function mutations and the added benefit conferred by corrector-potentiator combination therapy in this population.",
+            "The benefit with respect to spirometric measurements that was observed with tezacaftor-ivacaftor -and, to a lesser extent, with ivacaftor alone -was notable.",
+            "Differences versus placebo were rapid in onset and were sustained at all trial visits, similar to those in other trials of effective CFTR modulators.",
+            "12, 15, 17, [24] [25] [26] Furthermore, differences versus placebo were consistent across all prespecified subgroup analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Significant differences between the active-treatment groups and the placebo group with respect to the CFQ-R respiratory domain score were observed, indicating benefits with regard to respiratory health in patients with cystic fibrosis. The mean change with active treatment exceeded the known minimally clinically important difference, which is tightly linked to the expected benefits of treatment. 27 Significant benefits with respect to pulmonary exacerbations and BMI were not expected in this population treated over a period of only 8 weeks and warrant further investigation in a longer, powered study. The findings related to levels of immunoreactive trypsinogen and fecal elastase-1, although exploratory, raise the possibility that CFTR modulation with tezacaftor-ivacaftor may have the potential to improve or preserve pan-creatic function in some patients with residual function.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Significant differences between the active-treatment groups and the placebo group with respect to the CFQ-R respiratory domain score were observed, indicating benefits with regard to respiratory health in patients with cystic fibrosis.",
+            "The mean change with active treatment exceeded the known minimally clinically important difference, which is tightly linked to the expected benefits of treatment.",
+            "27 Significant benefits with respect to pulmonary exacerbations and BMI were not expected in this population treated over a period of only 8 weeks and warrant further investigation in a longer, powered study.",
+            "The findings related to levels of immunoreactive trypsinogen and fecal elastase-1, although exploratory, raise the possibility that CFTR modulation with tezacaftor-ivacaftor may have the potential to improve or preserve pan-creatic function in some patients with residual function."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Overall, tezacaftor-ivacaftor treatment was safe, with no treatment discontinuations and no new risks identified. Tezacaftor-ivacaftor combination therapy was specifically not associated with respiratory adverse events or acute, transient reductions in FEV 1 , as has been reported previously regarding CFTR modulator therapy with lumacaftor. 13, 17 This represents a potential advantage of tezacaftor-ivacaftor combination therapy in patients with low baseline lung function or a component of reactive airway disease.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Overall, tezacaftor-ivacaftor treatment was safe, with no treatment discontinuations and no new risks identified.",
+            "Tezacaftor-ivacaftor combination therapy was specifically not associated with respiratory adverse events or acute, transient reductions in FEV 1 , as has been reported previously regarding CFTR modulator therapy with lumacaftor.",
+            "13, 17 This represents a potential advantage of tezacaftor-ivacaftor combination therapy in patients with low baseline lung function or a component of reactive airway disease."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "One of the major challenges in investigating new therapies for residual-function mutations is the relative rarity of these genotypes; hence, they were treated as a single group owing to their common epidemiologic characteristics, physiological properties, and the propensity of mutant CFTR to respond to ivacaftor alone. 3, 28 The data with ivacaftor monotherapy validate previous clinical case reports in a more controlled setting. 14, 15 Sweat chloride concentrations, a biomarker of CFTR modulation, decreased from baseline in both active-treatment groups, a finding that is consistent with the mechanism of action of CFTR modulation. The magnitude of change in sweat chloride concentration that was observed with ivacaftor in this trial was less than that in patients with gating mutations such as the G551D CFTR mutation, even though robust lung function and CFQ-R changes were observed in the present trial. 12, 14, 29 One possible cause for this difference could be that the baseline sweat chloride concentration is lower in patients with residual-function mutations than in those with gating mutations. This equates to a smaller dynamic range over which improvement can occur. 30, 31 A second cause may be the inherent differential responsiveness of gating mutations and residual-function mutations to CFTR potentiation. The varied cellular defects (processing and trafficking, gating, and conductance) that are associated with residual function would be expected to show smaller relative improvements in CFTR function with ivacaftor than would gating defects, because the principal effect of a potentiator is to restore or augment channel gating.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "One of the major challenges in investigating new therapies for residual-function mutations is the relative rarity of these genotypes; hence, they were treated as a single group owing to their common epidemiologic characteristics, physiological properties, and the propensity of mutant CFTR to respond to ivacaftor alone.",
+            "3, 28 The data with ivacaftor monotherapy validate previous clinical case reports in a more controlled setting.",
+            "14, 15 Sweat chloride concentrations, a biomarker of CFTR modulation, decreased from baseline in both active-treatment groups, a finding that is consistent with the mechanism of action of CFTR modulation.",
+            "The magnitude of change in sweat chloride concentration that was observed with ivacaftor in this trial was less than that in patients with gating mutations such as the G551D CFTR mutation, even though robust lung function and CFQ-R changes were observed in the present trial.",
+            "12, 14, 29 One possible cause for this difference could be that the baseline sweat chloride concentration is lower in patients with residual-function mutations than in those with gating mutations.",
+            "This equates to a smaller dynamic range over which improvement can occur.",
+            "30, 31 A second cause may be the inherent differential responsiveness of gating mutations and residual-function mutations to CFTR potentiation.",
+            "The varied cellular defects (processing and trafficking, gating, and conductance) that are associated with residual function would be expected to show smaller relative improvements in CFTR function with ivacaftor than would gating defects, because the principal effect of a potentiator is to restore or augment channel gating."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Our findings show the safety and efficacy of tezacaftor-ivacaftor treatment in patients who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a second mutation",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Our findings show the safety and efficacy of tezacaftor-ivacaftor treatment in patients who had cystic fibrosis and were heterozygous for the Phe508del CFTR mutation and a second mutation"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF ALBERTA LIBRARY on March 17, 2020. For personal use only. No other uses without permission.",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "The New England Journal of Medicine Downloaded from nejm.org at UNIVERSITY OF ALBERTA LIBRARY on March 17, 2020.",
+            "For personal use only.",
+            "No other uses without permission."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "Copyright \u00a9 2017 Massachusetts Medical Society. All rights reserved.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "Copyright \u00a9 2017 Massachusetts Medical Society.",
+            "All rights reserved."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "n engl j med 377;21 nejm.org November 23, 2017",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "n engl j med 377;21 nejm.org November 23, 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35222",
+        "text": "T h e ne w e ngl a nd jou r na l o f m e dicine resulting in CFTR residual function; furthermore, although our findings also show the safety and efficacy of ivacaftor alone, the combination of tezacaftor and ivacaftor had greater efficacy. These results indicate that effective CFTR modulator therapy can be beneficial in this group of patients. A companion trial (VX14-661-106) that is now reported in the Journal 32 shows that patients who were homozygous for the Phe508del CFTR mutation also benefited from tezacaftor-ivacaftor therapy. Collectively, these data underscore the benefit of tezacaftor-ivacaftor treatment in a broad population of patients with cystic fibrosis.",
+        "section": "2034",
+        "section_number": 32,
+        "sentences": [
+            "T h e ne w e ngl a nd jou r na l o f m e dicine resulting in CFTR residual function; furthermore, although our findings also show the safety and efficacy of ivacaftor alone, the combination of tezacaftor and ivacaftor had greater efficacy.",
+            "These results indicate that effective CFTR modulator therapy can be beneficial in this group of patients.",
+            "A companion trial (VX14-661-106) that is now reported in the Journal 32 shows that patients who were homozygous for the Phe508del CFTR mutation also benefited from tezacaftor-ivacaftor therapy.",
+            "Collectively, these data underscore the benefit of tezacaftor-ivacaftor treatment in a broad population of patients with cystic fibrosis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

@@ -1,0 +1,969 @@
+[
+    {
+        "doc_id": "42297",
+        "text": "Background: The neutropenic diet (ND) is prescribed to avoid introduction of bacteria into a host's gastrointestinal tract and reduce infection. Due to a lack of evidence to support the ND, there continues to be debate among pediatric oncologists regarding its usefulness. This prospective randomized controlled trial evaluated the difference in neutropenic infection rates in pediatric oncology patients randomized to Food and Drug Administration approved food safety guidelines (FSGs) versus the ND plus FSGs during one cycle of chemotherapy. Procedure: Pediatric patients receiving cancer treatment with myelosuppressive chemotherapy were eligible. Neutropenic infection was the primary outcome and defined as (i) fever with neutropenia or (ii) hospital admission and treatment for clinical infection and neutropenia. The rate of neutropenic infection was compared with Student's t-test for independent samples. Documented infections were identified by comprehensive chart review and compared between groups using a 2 test. Results: : One hundred fifty patients were randomly assigned to FSGs (n = 73) or ND + FSGs (n = 77). The most common diagnoses were acute lymphoblastic leukemia (32%) and sarcoma (32%). There was no significant difference between the groups in the percentage of patients who developed neutropenic infection: FSGs 33% versus ND + FSGs 35% (P = 0.78). Patients randomized to ND + FSGs reported that following the diet required more effort than those on FSGs alone. Conclusion: The ND offers no benefit over FSGs in the prevention of infection in pediatric oncology patients undergoing myelosuppressive chemotherapy and adherence requires more effort for patients and families. Institutions caring for children with cancer should consider replacing ND guidelines with FSGs.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: The neutropenic diet (ND) is prescribed to avoid introduction of bacteria into a host's gastrointestinal tract and reduce infection.",
+            "Due to a lack of evidence to support the ND, there continues to be debate among pediatric oncologists regarding its usefulness.",
+            "This prospective randomized controlled trial evaluated the difference in neutropenic infection rates in pediatric oncology patients randomized to Food and Drug Administration approved food safety guidelines (FSGs) versus the ND plus FSGs during one cycle of chemotherapy.",
+            "Procedure: Pediatric patients receiving cancer treatment with myelosuppressive chemotherapy were eligible.",
+            "Neutropenic infection was the primary outcome and defined as (i) fever with neutropenia or (ii) hospital admission and treatment for clinical infection and neutropenia.",
+            "The rate of neutropenic infection was compared with Student's t-test for independent samples.",
+            "Documented infections were identified by comprehensive chart review and compared between groups using a 2 test.",
+            "Results: : One hundred fifty patients were randomly assigned to FSGs (n = 73) or ND + FSGs (n = 77).",
+            "The most common diagnoses were acute lymphoblastic leukemia (32%) and sarcoma (32%).",
+            "There was no significant difference between the groups in the percentage of patients who developed neutropenic infection: FSGs 33% versus ND + FSGs 35% (P = 0.78).",
+            "Patients randomized to ND + FSGs reported that following the diet required more effort than those on FSGs alone.",
+            "Conclusion: The ND offers no benefit over FSGs in the prevention of infection in pediatric oncology patients undergoing myelosuppressive chemotherapy and adherence requires more effort for patients and families.",
+            "Institutions caring for children with cancer should consider replacing ND guidelines with FSGs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Multimodal treatments, including aggressive chemotherapy regimens, have significantly improved the long-term survival rate of children with cancer in recent years. 1, 2 However, severe neutropenia remains the main risk factor for infection in children with cancer. The majority of these infections are a result of the patients' own microbiota. 3 Notably, the gut microbiome is involved in protecting a host from infection due to harmful bacteria. However, little is known about how to impact the gut microbiome via diet in children with cancer to reduce the incidence of infection. 4, 5 It is understood that patients with cancer can experience dysbiosis, or an unhealthy imbalance between potentially beneficial and pathogenic bacteria, due to exposure to broad-spectrum antibiotics and certain antineoplastic agents, as well as changes in gut motility and integrity. 6 These patients may be at increased risk for neutropenic infections, particularly neutropenic colitis, 6 especially in combination with mucositis. Mucositis and neutropenia are the main risk factors for bacterial translocation from the gut to the bloodstream. 7 In an effort to reduce the incidence of infections in neutropenic patients, a low bacteria diet, also known as the neutropenic diet (ND), was conceived to reduce the introduction of bacteria into the gut. 8, 9 Greater than 90% of NDs restrict the consumption of fresh vegetables, fresh fruits, and fruit juices; however, there exists no standard definition of the ND. 10 Despite widespread recommendations for the ND by pediatric oncologists, there are, to date, no clinically relevant data to support the effectiveness of this intervention to reduce infection in children with chemotherapy-induced neutropenia. [11] [12] [13] Given insufficient evidence to support the use of the ND in the pediatric oncology population, and since unsafe food-handling practices have been shown to be the primary mode of transmission for foodborne illness, the Food and Drug Administration (FDA) created the food safety guidelines (FSGs) for people with cancer. 14, 15 Safe food handling, defined as \"protecting food from contamination,\" is also promoted by the Centers for Disease Control and Prevention and the U.S.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Multimodal treatments, including aggressive chemotherapy regimens, have significantly improved the long-term survival rate of children with cancer in recent years.",
+            "1, 2 However, severe neutropenia remains the main risk factor for infection in children with cancer.",
+            "The majority of these infections are a result of the patients' own microbiota.",
+            "3 Notably, the gut microbiome is involved in protecting a host from infection due to harmful bacteria.",
+            "However, little is known about how to impact the gut microbiome via diet in children with cancer to reduce the incidence of infection.",
+            "4, 5 It is understood that patients with cancer can experience dysbiosis, or an unhealthy imbalance between potentially beneficial and pathogenic bacteria, due to exposure to broad-spectrum antibiotics and certain antineoplastic agents, as well as changes in gut motility and integrity.",
+            "6 These patients may be at increased risk for neutropenic infections, particularly neutropenic colitis, 6 especially in combination with mucositis.",
+            "Mucositis and neutropenia are the main risk factors for bacterial translocation from the gut to the bloodstream.",
+            "7 In an effort to reduce the incidence of infections in neutropenic patients, a low bacteria diet, also known as the neutropenic diet (ND), was conceived to reduce the introduction of bacteria into the gut.",
+            "8, 9 Greater than 90% of NDs restrict the consumption of fresh vegetables, fresh fruits, and fruit juices; however, there exists no standard definition of the ND.",
+            "10 Despite widespread recommendations for the ND by pediatric oncologists, there are, to date, no clinically relevant data to support the effectiveness of this intervention to reduce infection in children with chemotherapy-induced neutropenia. [",
+            "11] [12] [13] Given insufficient evidence to support the use of the ND in the pediatric oncology population, and since unsafe food-handling practices have been shown to be the primary mode of transmission for foodborne illness, the Food and Drug Administration (FDA) created the food safety guidelines (FSGs) for people with cancer.",
+            "14, 15 Safe food handling, defined as \"protecting food from contamination,\" is also promoted by the Centers for Disease Control and Prevention and the U.S."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Department of Agriculture for people with cancer. 16 Though the FSGs have been updated over the years, one thing that has not waivered is a primary emphasis on safe food-handling practices, rather than restriction of certain food groups. 14 In addition to the lack of evidence for the ND, there may be inherent disadvantages in restricting food for children with cancer. Specifically, in the context of gastrointestinal toxicity from chemotherapy including mucositis, nausea and vomiting, food aversions and changes in taste and smell, strict dietary guidelines may further compromise the quality of life and nutritional status of children in this population.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Department of Agriculture for people with cancer.",
+            "16 Though the FSGs have been updated over the years, one thing that has not waivered is a primary emphasis on safe food-handling practices, rather than restriction of certain food groups.",
+            "14 In addition to the lack of evidence for the ND, there may be inherent disadvantages in restricting food for children with cancer.",
+            "Specifically, in the context of gastrointestinal toxicity from chemotherapy including mucositis, nausea and vomiting, food aversions and changes in taste and smell, strict dietary guidelines may further compromise the quality of life and nutritional status of children in this population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "In a pilot randomized controlled trial (RCT) of 19 pediatric oncology patients, our research team found the methodology described herein to be safe and feasible. 17 This multicenter trial further evaluates the effectiveness of ND restrictions on infection rate in a larger population of pediatric oncology patients.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "In a pilot randomized controlled trial (RCT) of 19 pediatric oncology patients, our research team found the methodology described herein to be safe and feasible.",
+            "17 This multicenter trial further evaluates the effectiveness of ND restrictions on infection rate in a larger population of pediatric oncology patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "This was a multicenter, prospective, RCT of pediatric oncology patients recruited from six medical institutions across the United States. These Patients were eligible if they met the following criteria: aged 1-30 years, had a diagnosis of acute leukemia, lymphoma, or a malignant solid tumor, and were going to receive a cycle of myelosuppressive chemotherapy (defined as having a greater than 70% risk of grade 4 neutropenia [absolute neutrophil count, or ANC, <500 \u00d7 10 9 /l]). In addition, patients were required to be taking >50% of their calories by mouth at the time of enrollment. Specifically, if patients were being fed through a G-tube and they were receiving >50% of their average daily calories from formula they were excluded from participation. Patients were excluded if they were receiving myeloblative chemotherapy in preparation for a bone marrow or stem cell transplant, were actively receiving radiation to the head, neck or gastrointestinal tract, had an immunosuppressive comorbidity, had asplenia, or had a documented infection at the time of enrollment. Patients received Pneumocystis carini pneumonia (PCP) prophylaxis and granulocyte-colony stimulating factor (G-CSF) according to their treatment protocol guidelines.",
+        "section": "METHODS",
+        "section_number": 4,
+        "sentences": [
+            "This was a multicenter, prospective, RCT of pediatric oncology patients recruited from six medical institutions across the United States.",
+            "These Patients were eligible if they met the following criteria: aged 1-30 years, had a diagnosis of acute leukemia, lymphoma, or a malignant solid tumor, and were going to receive a cycle of myelosuppressive chemotherapy (defined as having a greater than 70% risk of grade 4 neutropenia [absolute neutrophil count, or ANC, <500 \u00d7 10 9 /l]).",
+            "In addition, patients were required to be taking >50% of their calories by mouth at the time of enrollment.",
+            "Specifically, if patients were being fed through a G-tube and they were receiving >50% of their average daily calories from formula they were excluded from participation.",
+            "Patients were excluded if they were receiving myeloblative chemotherapy in preparation for a bone marrow or stem cell transplant, were actively receiving radiation to the head, neck or gastrointestinal tract, had an immunosuppressive comorbidity, had asplenia, or had a documented infection at the time of enrollment.",
+            "Patients received Pneumocystis carini pneumonia (PCP) prophylaxis and granulocyte-colony stimulating factor (G-CSF) according to their treatment protocol guidelines."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "After consent and collection of baseline data, subjects were stratified by disease, and randomly assigned by a statistician to either the FSGs or the ND + FSGs. Five disease strata were used: acute lymphoblastic leukemia and lymphoma, acute myeloid leukemia (AML), central nervous system (CNS) tumors, non-CNS solid tumors, and nasopharyngeal carcinoma. Central randomization was performed in blocks of 10 using a computer-based system developed by the statistician. Site project managers were notified of diet allocation by phone from the home site.",
+        "section": "Randomization and blinding",
+        "section_number": 5,
+        "sentences": [
+            "After consent and collection of baseline data, subjects were stratified by disease, and randomly assigned by a statistician to either the FSGs or the ND + FSGs.",
+            "Five disease strata were used: acute lymphoblastic leukemia and lymphoma, acute myeloid leukemia (AML), central nervous system (CNS) tumors, non-CNS solid tumors, and nasopharyngeal carcinoma.",
+            "Central randomization was performed in blocks of 10 using a computer-based system developed by the statistician.",
+            "Site project managers were notified of diet allocation by phone from the home site."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "To avoid bias, diet allocation was concealed from study personnel until after consent was obtained. Patients were blinded to their diet assignment in that they were not told explicitly if their assigned diet was in accordance with ND or FSGs.",
+        "section": "Randomization and blinding",
+        "section_number": 6,
+        "sentences": [
+            "To avoid bias, diet allocation was concealed from study personnel until after consent was obtained.",
+            "Patients were blinded to their diet assignment in that they were not told explicitly if their assigned diet was in accordance with ND or FSGs."
+        ],
+        "sentence_labels": [
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "42297",
+        "text": "The FSGs used in this study were based on FDA recommendations for immunocompromised patients. 14 They represent a practical guide to reduce foodborne illness through safe food handling, preparation, and consumption. These evidence-based guidelines include recommendations regarding food shopping, food storage, food preparation, and safe cooking/serving of food (Table 1 ).",
+        "section": "Intervention",
+        "section_number": 7,
+        "sentences": [
+            "The FSGs used in this study were based on FDA recommendations for immunocompromised patients.",
+            "14 They represent a practical guide to reduce foodborne illness through safe food handling, preparation, and consumption.",
+            "These evidence-based guidelines include recommendations regarding food shopping, food storage, food preparation, and safe cooking/serving of food (Table 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "The ND, as defined in this study, was established based on extensive literature review and consensus among collaborating institutions.",
+        "section": "Control",
+        "section_number": 8,
+        "sentences": [
+            "The ND, as defined in this study, was established based on extensive literature review and consensus among collaborating institutions."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "The ND restrictions included avoidance of raw fruits and vegetables (except for bananas and oranges, which could be peeled by hand), cold meat cuts, takeout and fast food, aged cheese, raw nuts, and yogurt. In addition to these restrictions, patients on the ND arm were also provided with a handout outlining the FDA-endorsed FSGs (Table 1) . At each site, collaboration with food services and/or a dietician was necessary to ensure that institutional standardization of the ND and FSGs was consistent with this study protocol. Of note, the regular hospital diet was in accordance with FSGs at all institutions.",
+        "section": "Control",
+        "section_number": 9,
+        "sentences": [
+            "The ND restrictions included avoidance of raw fruits and vegetables (except for bananas and oranges, which could be peeled by hand), cold meat cuts, takeout and fast food, aged cheese, raw nuts, and yogurt.",
+            "In addition to these restrictions, patients on the ND arm were also provided with a handout outlining the FDA-endorsed FSGs (Table 1) .",
+            "At each site, collaboration with food services and/or a dietician was necessary to ensure that institutional standardization of the ND and FSGs was consistent with this study protocol.",
+            "Of note, the regular hospital diet was in accordance with FSGs at all institutions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "FDA-approved food safety guidelines (FSGs) (A) Shopping 1. Never choose packages that are ripped or leaking or cans that are dented or jars that are cracked. Safety buttons on metal lids should be down and not move or make a clicking noise when pushed.",
+        "section": "TA B L E 1 Diet protocols",
+        "section_number": 10,
+        "sentences": [
+            "FDA-approved food safety guidelines (FSGs) (A) Shopping 1.",
+            "Never choose packages that are ripped or leaking or cans that are dented or jars that are cracked.",
+            "Safety buttons on metal lids should be down and not move or make a clicking noise when pushed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Do not purchase foods if \"sell by\" or \"best used by\" date has passed.",
+        "section": "2.",
+        "section_number": 11,
+        "sentences": [
+            "Do not purchase foods if \"sell by\" or \"best used by\" date has passed."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Choose only pasteurized milk, cheeses, or juices.",
+        "section": "3.",
+        "section_number": 12,
+        "sentences": [
+            "Choose only pasteurized milk, cheeses, or juices."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Buy cold foods last and get them to a refrigerator or freezer as soon as possible. If you are driving in hot weather, place perishable items inside air-conditioned car and not in trunk.",
+        "section": "4.",
+        "section_number": 13,
+        "sentences": [
+            "Buy cold foods last and get them to a refrigerator or freezer as soon as possible.",
+            "If you are driving in hot weather, place perishable items inside air-conditioned car and not in trunk."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Put raw meat, fish, and poultry into a plastic bag so the juices will not contaminate other foods.",
+        "section": "5.",
+        "section_number": 14,
+        "sentences": [
+            "Put raw meat, fish, and poultry into a plastic bag so the juices will not contaminate other foods."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "(B) Food storage 1. Place securely wrapped raw meat, fish, and poultry into the meat drawer or on the bottom of the refrigerator so that the juices will not leak onto other foods.",
+        "section": "5.",
+        "section_number": 15,
+        "sentences": [
+            "(B) Food storage 1.",
+            "Place securely wrapped raw meat, fish, and poultry into the meat drawer or on the bottom of the refrigerator so that the juices will not leak onto other foods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Keep the refrigerator temperature at 40 \u2022 Fahrenheit, the freezer at 0 \u2022 .",
+        "section": "2.",
+        "section_number": 16,
+        "sentences": [
+            "Keep the refrigerator temperature at 40 \u2022 Fahrenheit, the freezer at 0 \u2022 ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Cook or freeze fresh ground meats, fish, and poultry within 2 days; other beef, pork, veal, or lamb within 3-5 days.",
+        "section": "3.",
+        "section_number": 17,
+        "sentences": [
+            "Cook or freeze fresh ground meats, fish, and poultry within 2 days; other beef, pork, veal, or lamb within 3-5 days."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "(C) Food preparation 1. Wash hands well in hot soapy water prior to preparing or eating food.",
+        "section": "3.",
+        "section_number": 18,
+        "sentences": [
+            "(C) Food preparation 1.",
+            "Wash hands well in hot soapy water prior to preparing or eating food."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Wash hands before and after handling raw meat, poultry, or fish.",
+        "section": "2.",
+        "section_number": 19,
+        "sentences": [
+            "Wash hands before and after handling raw meat, poultry, or fish."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "3. Do not cross-contaminate. Keep raw meat, fish, and poultry and their juices away from other food. After cutting these foods, wash utensils, cutting board, knife, and counter top with hot soapy water.",
+        "section": "2.",
+        "section_number": 20,
+        "sentences": [
+            "3.",
+            "Do not cross-contaminate.",
+            "Keep raw meat, fish, and poultry and their juices away from other food.",
+            "After cutting these foods, wash utensils, cutting board, knife, and counter top with hot soapy water."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Sanitize cutting board in a solution of one teaspoon of chlorine bleach in 1 quart of water.",
+        "section": "4.",
+        "section_number": 21,
+        "sentences": [
+            "Sanitize cutting board in a solution of one teaspoon of chlorine bleach in 1 quart of water."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Wash kitchen towels often in hot water in the washing machine.",
+        "section": "5.",
+        "section_number": 22,
+        "sentences": [
+            "Wash kitchen towels often in hot water in the washing machine."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Always wash fresh fruits and vegetables under cool running tap water before eating.",
+        "section": "6.",
+        "section_number": 23,
+        "sentences": [
+            "Always wash fresh fruits and vegetables under cool running tap water before eating."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Use a scrub brush on potatoes or carrots if the skins are to be consumed. 2. Cook poultry until it has an internal temperature of 180 \u2022 . It is done when the juices run clear and it is white in the middle. Never eat rare poultry.",
+        "section": "7.",
+        "section_number": 24,
+        "sentences": [
+            "Use a scrub brush on potatoes or carrots if the skins are to be consumed.",
+            "2.",
+            "Cook poultry until it has an internal temperature of 180 \u2022 .",
+            "It is done when the juices run clear and it is white in the middle.",
+            "Never eat rare poultry."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Cook fish until it is opaque or white and flaky.",
+        "section": "3.",
+        "section_number": 25,
+        "sentences": [
+            "Cook fish until it is opaque or white and flaky."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Cook ground meat to 160 \u2022 . It is done when it is brown inside. This is especially critical with hamburger meat.",
+        "section": "4.",
+        "section_number": 26,
+        "sentences": [
+            "Cook ground meat to 160 \u2022 .",
+            "It is done when it is brown inside.",
+            "This is especially critical with hamburger meat."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "(E) Safe serving of food 1. Keep hot foods hot and cold foods cold. Do not leave food out more than 2 hr unless on a heat source or on ice.",
+        "section": "4.",
+        "section_number": 27,
+        "sentences": [
+            "(E) Safe serving of food 1.",
+            "Keep hot foods hot and cold foods cold.",
+            "Do not leave food out more than 2 hr unless on a heat source or on ice."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Use leftovers within 4 days.",
+        "section": "2.",
+        "section_number": 28,
+        "sentences": [
+            "Use leftovers within 4 days."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "This group received the same information as the food safety arm and the following additional recommendations:",
+        "section": "Neutropenic diet (ND)",
+        "section_number": 29,
+        "sentences": [
+            "This group received the same information as the food safety arm and the following additional recommendations:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "1. Avoid raw vegetables.",
+        "section": "Neutropenic diet (ND)",
+        "section_number": 30,
+        "sentences": [
+            "1.",
+            "Avoid raw vegetables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid fruits that cannot be peeled. Oranges and bananas are okay.",
+        "section": "2.",
+        "section_number": 31,
+        "sentences": [
+            "Avoid fruits that cannot be peeled.",
+            "Oranges and bananas are okay."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid takeout foods and fast foods.",
+        "section": "3.",
+        "section_number": 32,
+        "sentences": [
+            "Avoid takeout foods and fast foods."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid aged cheese (blue, Roquefort, brie, etc.).",
+        "section": "4.",
+        "section_number": 33,
+        "sentences": [
+            "Avoid aged cheese (blue, Roquefort, brie, etc.)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid raw (not roasted) nuts, roasted nuts in a shell, and freshly ground nut butters.",
+        "section": "5.",
+        "section_number": 34,
+        "sentences": [
+            "Avoid raw (not roasted) nuts, roasted nuts in a shell, and freshly ground nut butters."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "6. Avoid yogurt.",
+        "section": "5.",
+        "section_number": 35,
+        "sentences": [
+            "6.",
+            "Avoid yogurt."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid unpasteurized juice, milk, or cheese.",
+        "section": "7.",
+        "section_number": 36,
+        "sentences": [
+            "Avoid unpasteurized juice, milk, or cheese."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Cook all produce to well done. Eggs must be hard-boiled.",
+        "section": "8.",
+        "section_number": 37,
+        "sentences": [
+            "Cook all produce to well done.",
+            "Eggs must be hard-boiled."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Avoid deli meats.",
+        "section": "9.",
+        "section_number": 38,
+        "sentences": [
+            "Avoid deli meats."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Demographic and clinical data were collected after informed consent was obtained. Children ages 7-17 provided assent in addition to their parents' consent. Health-related quality of life (HRQL) was measured at baseline and at study endpoint. For both intervention (FSGs) and control (ND + FSGs) arms, diet assignment handouts were given to patients and any caregivers present at the time of study initiation.",
+        "section": "Study procedures",
+        "section_number": 39,
+        "sentences": [
+            "Demographic and clinical data were collected after informed consent was obtained.",
+            "Children ages 7-17 provided assent in addition to their parents' consent.",
+            "Health-related quality of life (HRQL) was measured at baseline and at study endpoint.",
+            "For both intervention (FSGs) and control (ND + FSGs) arms, diet assignment handouts were given to patients and any caregivers present at the time of study initiation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "These handouts were reviewed orally, in detail, by qualified study personnel and any questions were addressed at this time.",
+        "section": "Study procedures",
+        "section_number": 40,
+        "sentences": [
+            "These handouts were reviewed orally, in detail, by qualified study personnel and any questions were addressed at this time."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Subjects on both arms were instructed to begin their diet assignments upon initiation of the eligible cycle of chemotherapy and continue until completion of that cycle (about 3-4 weeks Patient's complete blood counts (CBCs) were followed from the start of the chemotherapy cycle until ANC recovery (>500 \u00d7 10 9 /l) on two consecutive CBCs or the start of the next chemotherapy cycle (whichever occurred first). The time at which the ANC fell below 500 \u00d7 10 9 /l was marked. Study subjects were followed for fever (defined below) and, if detected, were admitted to the hospital and started on broad-spectrum antibiotics as per standard of care.",
+        "section": "Study procedures",
+        "section_number": 41,
+        "sentences": [
+            "Subjects on both arms were instructed to begin their diet assignments upon initiation of the eligible cycle of chemotherapy and continue until completion of that cycle (about 3-4 weeks Patient's complete blood counts (CBCs) were followed from the start of the chemotherapy cycle until ANC recovery (>500 \u00d7 10 9 /l) on two consecutive CBCs or the start of the next chemotherapy cycle (whichever occurred first).",
+            "The time at which the ANC fell below 500 \u00d7 10 9 /l was marked.",
+            "Study subjects were followed for fever (defined below) and, if detected, were admitted to the hospital and started on broad-spectrum antibiotics as per standard of care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "If a subject was admitted to the hospital, all admission documentation was reviewed by study personnel. These data were used to ascertain whether the admission was for neutropenic infection, nonneutropenic infection, chemotherapy, or other diagnoses.",
+        "section": "Study procedures",
+        "section_number": 42,
+        "sentences": [
+            "If a subject was admitted to the hospital, all admission documentation was reviewed by study personnel.",
+            "These data were used to ascertain whether the admission was for neutropenic infection, nonneutropenic infection, chemotherapy, or other diagnoses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Those patients admitted to the hospital that met study criteria for ",
+        "section": "Study procedures",
+        "section_number": 43,
+        "sentences": [
+            "Those patients admitted to the hospital that met study criteria for"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Neutropenic infection was chosen as the primary outcome and defined as (i) fever with neutropenia or (ii) admission to the hospital and treatment with broad-spectrum antibiotics for presumed infection (based on clinical findings) and neutropenia. Fever was defined as a single oral temperature of \u226538.3 \u2022 C, or two oral temperatures of \u226538.0 \u2022 C taken 1 hr apart (as measured by a parent or hospital/clinic staff). Neutropenia was defined as an ANC < 500 \u00d7 10 9 /l, or ANC of < 1,000 \u00d7 10 9 /l and expected to fall over the next 48 hr. Documented infections were identified by comprehensive chart review and tracked for both groups.",
+        "section": "Outcomes and measures",
+        "section_number": 44,
+        "sentences": [
+            "Neutropenic infection was chosen as the primary outcome and defined as (i) fever with neutropenia or (ii) admission to the hospital and treatment with broad-spectrum antibiotics for presumed infection (based on clinical findings) and neutropenia.",
+            "Fever was defined as a single oral temperature of \u226538.3 \u2022 C, or two oral temperatures of \u226538.0 \u2022 C taken 1 hr apart (as measured by a parent or hospital/clinic staff).",
+            "Neutropenia was defined as an ANC < 500 \u00d7 10 9 /l, or ANC of < 1,000 \u00d7 10 9 /l and expected to fall over the next 48 hr.",
+            "Documented infections were identified by comprehensive chart review and tracked for both groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Diet adherence was determined with the 24-hr diet recall multiplepass method using the Nutrition Consulting Enterprise 2D Food Portion Visual (NCE-FPV). It has been validated in men, women, and children. 18 This gold standard method was chosen because it is an extremely reliable way to assess food intake and is estimated to have >90% accuracy, 95% of the time. 19 Upon enrollment, subjects were familiarized with the NCE-FPV and used it to participate in the interview. 19 Diet acceptability was measured with the FAQ. It is a 10-question, cancer. [21] [22] [23] The EORTC QLQ-30 has been shown to be reliable and valid in adult patients with cancer. 24 ",
+        "section": "Outcomes and measures",
+        "section_number": 45,
+        "sentences": [
+            "Diet adherence was determined with the 24-hr diet recall multiplepass method using the Nutrition Consulting Enterprise 2D Food Portion Visual (NCE-FPV).",
+            "It has been validated in men, women, and children.",
+            "18 This gold standard method was chosen because it is an extremely reliable way to assess food intake and is estimated to have >90% accuracy, 95% of the time.",
+            "19 Upon enrollment, subjects were familiarized with the NCE-FPV and used it to participate in the interview.",
+            "19 Diet acceptability was measured with the FAQ.",
+            "It is a 10-question, cancer. [",
+            "21] [22] [23] The EORTC QLQ-30 has been shown to be reliable and valid in adult patients with cancer.",
+            "24"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "To evaluate whether the two groups were comparable, baseline vari- ",
+        "section": "Statistical analysis",
+        "section_number": 46,
+        "sentences": [
+            "To evaluate whether the two groups were comparable, baseline vari-"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "ables",
+        "section": "Statistical analysis",
+        "section_number": 47,
+        "sentences": [
+            "ables"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Of 286 patient chart reviews, 186 patients met eligibility criteria and were approached to take part in the study; 36 declined to participate due to concerns about inability to follow ND restrictions, or because of feeling overwhelmed, or due to a lack of interest in participating in research. The remaining 150 patients were consented and randomized; however, one patient on the FSGs arm was lost to follow-up. Using an ITT approach, 73 patients on the FSGs and 77 on the ND + FSGs arms were evaluated for the primary outcome. However, only the 72 patients on FSGs whose data were available were followed for all study outcomes. The most common diagnoses were acute lymphoblastic leukemia (32%) and sarcoma (32%); 90 subjects were male (60%) and the mean age at enrollment was 11.5 years (ranging from 1 to 28 years).",
+        "section": "RESULTS",
+        "section_number": 48,
+        "sentences": [
+            "Of 286 patient chart reviews, 186 patients met eligibility criteria and were approached to take part in the study; 36 declined to participate due to concerns about inability to follow ND restrictions, or because of feeling overwhelmed, or due to a lack of interest in participating in research.",
+            "The remaining 150 patients were consented and randomized; however, one patient on the FSGs arm was lost to follow-up.",
+            "Using an ITT approach, 73 patients on the FSGs and 77 on the ND + FSGs arms were evaluated for the primary outcome.",
+            "However, only the 72 patients on FSGs whose data were available were followed for all study outcomes.",
+            "The most common diagnoses were acute lymphoblastic leukemia (32%) and sarcoma (32%); 90 subjects were male (60%) and the mean age at enrollment was 11.5 years (ranging from 1 to 28 years)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "There were no significant differences in demographic characteristics, clinical characteristics, or quality of life between the two groups at baseline with the following exception: more patients on the ND + FSGs had a history of following a special diet (P = 0.026; Table 2 and Supplementary Table S1 ). Patients were evenly distributed among arms with relation to use of G-CSF, incidence of mucositis, steroid exposure, PCP, and antifungal prophylaxis ( Table 3 ).",
+        "section": "RESULTS",
+        "section_number": 49,
+        "sentences": [
+            "There were no significant differences in demographic characteristics, clinical characteristics, or quality of life between the two groups at baseline with the following exception: more patients on the ND + FSGs had a history of following a special diet (P = 0.026; Table 2 and Supplementary Table S1 ).",
+            "Patients were evenly distributed among arms with relation to use of G-CSF, incidence of mucositis, steroid exposure, PCP, and antifungal prophylaxis ( Table 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Twenty-four (33%) patients on the FSGs and 27 (35%) patients on the ND + FSGs developed a neutropenic infection by study criteria and were admitted to the hospital (P = 0.78). Of these 51 patients, all but 4 patients had a chief complaint of fever upon admission. There were no significant differences between the two groups with respect to pre- Table 4 ). In addition, the time to neutropenic infection from the first day of the chemotherapy cycle did not vary between the two groups (P = 0.47; Fig. 1 ).",
+        "section": "Neutropenic infection",
+        "section_number": 50,
+        "sentences": [
+            "Twenty-four (33%) patients on the FSGs and 27 (35%) patients on the ND + FSGs developed a neutropenic infection by study criteria and were admitted to the hospital (P = 0.78).",
+            "Of these 51 patients, all but 4 patients had a chief complaint of fever upon admission.",
+            "There were no significant differences between the two groups with respect to pre- Table 4 ).",
+            "In addition, the time to neutropenic infection from the first day of the chemotherapy cycle did not vary between the two groups (P = 0.47; Fig. 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Average length of time on study for the FSGs and ND + FSGs arms was 24 and 25 days, respectively (P = 0.72). Seventy-one percent of patients on the FSGs and 74% of those on the ND + FSGs developed grade 4 neutropenia during their time on study (P = 0.72). The average nadir (lowest recorded ANC level) for those patients who dropped below this threshold on the FSGs and ND + FSGs arms was 101.1 \u00d7 10 9 /l and 110.5 \u00d7 10 9 /l, respectively. The mean number of days with an ANC < 500 \u00d7 10 9 /l was 9.6 in the FSGs and 10.5 in the ND + FSGs groups. Differences between arms in average nadir and days with ANC below 500 were not statistically significant.",
+        "section": "Degree and duration of neutropenia",
+        "section_number": 51,
+        "sentences": [
+            "Average length of time on study for the FSGs and ND + FSGs arms was 24 and 25 days, respectively (P = 0.72).",
+            "Seventy-one percent of patients on the FSGs and 74% of those on the ND + FSGs developed grade 4 neutropenia during their time on study (P = 0.72).",
+            "The average nadir (lowest recorded ANC level) for those patients who dropped below this threshold on the FSGs and ND + FSGs arms was 101.1 \u00d7 10 9 /l and 110.5 \u00d7 10 9 /l, respectively.",
+            "The mean number of days with an ANC < 500 \u00d7 10 9 /l was 9.6 in the FSGs and 10.5 in the ND + FSGs groups.",
+            "Differences between arms in average nadir and days with ANC below 500 were not statistically significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Diet adherence for the FSGs arm was 99.26 \u00b1 4.8%, which was superior to the ND + FSGs group adherence of 92.64 \u00b1 15.32% (P < 0.001).",
+        "section": "Diet adherence and acceptability",
+        "section_number": 52,
+        "sentences": [
+            "Diet adherence for the FSGs arm was 99.26 \u00b1 4.8%, which was superior to the ND + FSGs group adherence of 92.64 \u00b1 15.32% (P < 0.001)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Patients on the ND + FSGs arm reported that the diet required a significantly higher level of effort to follow than patients on the FSGs (P = 0.016). In addition, compared to patients following FSGs alone, those on the ND + FSGs diet reported significantly less satisfaction after eating a meal as well as less appeal for the appearance of the foods (P = 0.012 and 0.028, respectively). Notably, both groups reported that their dietary guidelines had \"no effect\" on the cost of their food (P = 0.97).",
+        "section": "Diet adherence and acceptability",
+        "section_number": 53,
+        "sentences": [
+            "Patients on the ND + FSGs arm reported that the diet required a significantly higher level of effort to follow than patients on the FSGs (P = 0.016).",
+            "In addition, compared to patients following FSGs alone, those on the ND + FSGs diet reported significantly less satisfaction after eating a meal as well as less appeal for the appearance of the foods (P = 0.012 and 0.028, respectively).",
+            "Notably, both groups reported that their dietary guidelines had \"no effect\" on the cost of their food (P = 0.97)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "Comparison of patients following the neutropenic diet versus the food safety guidelines according to baseline demographic and clinical characteristics ",
+        "section": "TA B L E 2",
+        "section_number": 54,
+        "sentences": [
+            "Comparison of patients following the neutropenic diet versus the food safety guidelines according to baseline demographic and clinical characteristics"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "There were no significant differences in patients. 21, 22 Due to age, there were very limited data collected from the EORTC QLQ-30 (N = 5), therefore these data were not analyzed.",
+        "section": "Quality of life",
+        "section_number": 55,
+        "sentences": [
+            "There were no significant differences in patients.",
+            "21, 22 Due to age, there were very limited data collected from the EORTC QLQ-30 (N = 5), therefore these data were not analyzed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "This is the first study to demonstrate lack of benefit for the ND in reducing neutropenic infections in pediatric oncology patients in a prospective multicenter RCT. These data are consistent with the results found in hospitalized adults with leukemia, 25, 26 adults with solid tumors, lymphoma, and myeloma in the outpatient setting, 27 and in adult patients with cancer undergoing hematopoietic stem cell transplant (HSCT). 28 In addition, we found no increase in bacteremia for patients following a liberalized diet versus an ND. This result is consistent with results from adults undergoing HSCT, 28 but in contrast to hospitalized adults undergoing induction chemotherapy for AML. 25 Notably in the adults undergoing induction chemotherapy for AML, the increased bacteremia was not thought to be related to diet. Also of note, in the adults undergoing HSCT, the authors found an increased incidence in gastrointestinal infections in the ND group after neutrophil recovery. 25, 28 To our knowledge, there are as yet no data to support the continued use of the ND in either the inpatient or outpatient adult or pediatric cancer populations. Our results also indicate that in pediatric oncology patients, a liberalized diet requires less effort and is easier to adhere to compared with an ND. This is important because children and adults with cancer have reported that food restrictions negatively impact their quality of life and can be burdensome. [31] [32] [33] Although we did not find any significant differences in overall HRQL, our composite HRQL scale scores were likely insensitive to specific effects of diet. Our findings support the results of a previous study that showed that adult patients with cancer \"emphatically\" preferred a liberalized (general hospital) diet over an ND because it was less restrictive and allowed them more easily to meet caloric needs. 28 Interestingly, these authors also noted that there were institutional cost savings secondary to liberalizing the ND for hospitalized patients.",
+        "section": "DISCUSSION",
+        "section_number": 56,
+        "sentences": [
+            "This is the first study to demonstrate lack of benefit for the ND in reducing neutropenic infections in pediatric oncology patients in a prospective multicenter RCT.",
+            "These data are consistent with the results found in hospitalized adults with leukemia, 25, 26 adults with solid tumors, lymphoma, and myeloma in the outpatient setting, 27 and in adult patients with cancer undergoing hematopoietic stem cell transplant (HSCT).",
+            "28 In addition, we found no increase in bacteremia for patients following a liberalized diet versus an ND.",
+            "This result is consistent with results from adults undergoing HSCT, 28 but in contrast to hospitalized adults undergoing induction chemotherapy for AML.",
+            "25 Notably in the adults undergoing induction chemotherapy for AML, the increased bacteremia was not thought to be related to diet.",
+            "Also of note, in the adults undergoing HSCT, the authors found an increased incidence in gastrointestinal infections in the ND group after neutrophil recovery.",
+            "25, 28 To our knowledge, there are as yet no data to support the continued use of the ND in either the inpatient or outpatient adult or pediatric cancer populations.",
+            "Our results also indicate that in pediatric oncology patients, a liberalized diet requires less effort and is easier to adhere to compared with an ND.",
+            "This is important because children and adults with cancer have reported that food restrictions negatively impact their quality of life and can be burdensome. [",
+            "31] [32] [33] Although we did not find any significant differences in overall HRQL, our composite HRQL scale scores were likely insensitive to specific effects of diet.",
+            "Our findings support the results of a previous study that showed that adult patients with cancer \"emphatically\" preferred a liberalized (general hospital) diet over an ND because it was less restrictive and allowed them more easily to meet caloric needs.",
+            "28 Interestingly, these authors also noted that there were institutional cost savings secondary to liberalizing the ND for hospitalized patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42297",
+        "text": "The major limitation of this study is the lack of inclusion of pediatric patients undergoing HSCT as this is the population currently most affected by the use of an ND. Due to safety concerns, the clinicians involved in this study aimed to establish safety of a liberalized diet in myelosuppressed patients prior to testing a liberalized diet in patients undergoing HSCT. Due to this exclusion, we had a very low rate of documented mucositis, precluding any conclusions to be drawn on the benefit of an ND in the setting of mucositis. This study followed patients through only one episode of severe neutropenia (3-4 ",
+        "section": "DISCUSSION",
+        "section_number": 57,
+        "sentences": [
+            "The major limitation of this study is the lack of inclusion of pediatric patients undergoing HSCT as this is the population currently most affected by the use of an ND.",
+            "Due to safety concerns, the clinicians involved in this study aimed to establish safety of a liberalized diet in myelosuppressed patients prior to testing a liberalized diet in patients undergoing HSCT.",
+            "Due to this exclusion, we had a very low rate of documented mucositis, precluding any conclusions to be drawn on the benefit of an ND in the setting of mucositis.",
+            "This study followed patients through only one episode of severe neutropenia (3-4"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

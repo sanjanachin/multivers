@@ -1,0 +1,825 @@
+[
+    {
+        "doc_id": "39401",
+        "text": "Background: In the United States, 17% of children are currently obese. Increasing feelings of fullness may prevent excessive energy intake, lead to better diet quality, and promote long-term maintenance of healthy weight. Objective: The purpose of this study was to develop a fullness-rating tool (aim 1) and to determine whether a high-protein (HP), high-fiber (HF), and combined HP and HF (HPHF) breakfast increases preschoolers\u00d5 feelings of fullness before (pre) and after (post) breakfast and pre-lunch, as well as their diet quality, as measured by using a composite diet quality assessment tool, the Revised Children\u00d5s Diet Quality Index (aim 2). Methods: Children aged 4 and 5 y (n = 41; 22 girls and 19 boys) from local Head Start centers participated in this randomized intervention trial. Sixteen percent of boys and 32% of girls were overweight or obese. After the baseline week, children rotated through four 1-wk periods of consuming ad libitum HP (19-20 g protein), HF (10-11 g fiber), HPHF (19-21 g protein, 10-12 g fiber), or usual (control) breakfasts. Food intake at breakfast was estimated daily, and for breakfast, lunch, and snack on day 3 of each study week Student\u00d5s t tests and ANOVA were used to determine statistical differences. Results: Children\u00d5s post-breakfast and pre-lunch fullness ratings were $1 point higher than those of pre-breakfast (aim 1). Although children consumed, on average, 65 kcal less energy during the intervention breakfasts (P < 0.007) than during the control breakfast, fullness ratings did not differ (P = 0.76). Relative to the control breakfast, improved diet quality (12%) was calculated for the HP and HF breakfasts (P < 0.027) but not for the HPHF breakfast (aim 2). Conclusions: Post-breakfast fullness ratings were not affected by the intervention breakfasts relative to the control breakfast. HP and HF breakfasts resulted in higher diet quality. Serving HP or HF breakfasts may be valuable in improving diet quality without lowering feelings of satiation or satiety. This trial was registered at clinicaltrials.gov as NCT02122224.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: In the United States, 17% of children are currently obese.",
+            "Increasing feelings of fullness may prevent excessive energy intake, lead to better diet quality, and promote long-term maintenance of healthy weight.",
+            "Objective: The purpose of this study was to develop a fullness-rating tool (aim 1) and to determine whether a high-protein (HP), high-fiber (HF), and combined HP and HF (HPHF) breakfast increases preschoolers\u00d5 feelings of fullness before (pre) and after (post) breakfast and pre-lunch, as well as their diet quality, as measured by using a composite diet quality assessment tool, the Revised Children\u00d5s Diet Quality Index (aim 2).",
+            "Methods: Children aged 4 and 5 y (n = 41; 22 girls and 19 boys) from local Head Start centers participated in this randomized intervention trial.",
+            "Sixteen percent of boys and 32% of girls were overweight or obese.",
+            "After the baseline week, children rotated through four 1-wk periods of consuming ad libitum HP (19-20 g protein), HF (10-11 g fiber), HPHF (19-21 g protein, 10-12 g fiber), or usual (control) breakfasts.",
+            "Food intake at breakfast was estimated daily, and for breakfast, lunch, and snack on day 3 of each study week Student\u00d5s t tests and ANOVA were used to determine statistical differences.",
+            "Results: Children\u00d5s post-breakfast and pre-lunch fullness ratings were $1 point higher than those of pre-breakfast (aim 1).",
+            "Although children consumed, on average, 65 kcal less energy during the intervention breakfasts (P < 0.007) than during the control breakfast, fullness ratings did not differ (P = 0.76).",
+            "Relative to the control breakfast, improved diet quality (12%) was calculated for the HP and HF breakfasts (P < 0.027) but not for the HPHF breakfast (aim 2).",
+            "Conclusions: Post-breakfast fullness ratings were not affected by the intervention breakfasts relative to the control breakfast.",
+            "HP and HF breakfasts resulted in higher diet quality.",
+            "Serving HP or HF breakfasts may be valuable in improving diet quality without lowering feelings of satiation or satiety.",
+            "This trial was registered at clinicaltrials.gov as NCT02122224."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The rate of obesity in American children has increased over the past few decades, with 17% of children now classified as obese (1) . In preschool children, the prevalence of obesity increased from 7% in 1988 to 12% in 2013 (2, 3) . Obesity is associated with an increased risk of several chronic diseases, including type 2 diabetes and cardiovascular disease (4, 5) , risk factors that are apparent as early as preschool age (6) . Early nutrition intervention is essential because weight status and eating behaviors track from early childhood through later life (7) (8) (9) (10) . Eating behaviors, such as food responsiveness [''eating in response to environmental cues'' (11) ] and satiety responsiveness [''ability of a child to reduce food intake after eating to regulate its energy intake'' (11) ], are correlated in children aged 4-10 y (12) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The rate of obesity in American children has increased over the past few decades, with 17% of children now classified as obese (1) .",
+            "In preschool children, the prevalence of obesity increased from 7% in 1988 to 12% in 2013 (2, 3) .",
+            "Obesity is associated with an increased risk of several chronic diseases, including type 2 diabetes and cardiovascular disease (4, 5) , risk factors that are apparent as early as preschool age (6) .",
+            "Early nutrition intervention is essential because weight status and eating behaviors track from early childhood through later life (7) (8) (9) (10) .",
+            "Eating behaviors, such as food responsiveness [''eating in response to environmental cues'' (11) ] and satiety responsiveness [''ability of a child to reduce food intake after eating to regulate its energy intake'' (11) ], are correlated in children aged 4-10 y (12) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Modifying energy intake at an early age is a viable approach to decrease the prevalence of obesity. One possible way to decrease excess energy intake may be to increase feelings of fullness. Fullness reflects satiation and satiety. Satiation refers to feelings that will increase during an eating occasion and eventually prompt the cessation of that eating occasion (feeling full at the end of the snack or meal), whereas satiety refers to the feelings initiated at the end of an eating occasion and continuing through the intermeal period (13) . Results from parent reports (14, 15) suggest that children who are overweight or obese have decreased satiety responses compared with children of average weight. Consistent with these findings are data that indicate that satiety responsiveness tracks from preschool to preadolescence (12) . Lower satiety responsiveness may lead to more frequent eating and therefore increased energy intake and body weight.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Modifying energy intake at an early age is a viable approach to decrease the prevalence of obesity.",
+            "One possible way to decrease excess energy intake may be to increase feelings of fullness.",
+            "Fullness reflects satiation and satiety.",
+            "Satiation refers to feelings that will increase during an eating occasion and eventually prompt the cessation of that eating occasion (feeling full at the end of the snack or meal), whereas satiety refers to the feelings initiated at the end of an eating occasion and continuing through the intermeal period (13) .",
+            "Results from parent reports (14, 15) suggest that children who are overweight or obese have decreased satiety responses compared with children of average weight.",
+            "Consistent with these findings are data that indicate that satiety responsiveness tracks from preschool to preadolescence (12) .",
+            "Lower satiety responsiveness may lead to more frequent eating and therefore increased energy intake and body weight."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The consumption of foods and beverages that result in greater feelings of satiation and satiety (16, 17) can help reduce excessive energy intake. Food components known for their association with increased feelings of fullness are protein and fiber. Protein is generally considered the most satiating macronutrient, and fiber activates stretch receptors and can slow the dispersion of digestive enzymes and nutrient absorption (16, 18) . Many studies have evaluated these effects in adults, but data on preschool children are limited, due, in part, to the complexity of conducting research in that age group.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The consumption of foods and beverages that result in greater feelings of satiation and satiety (16, 17) can help reduce excessive energy intake.",
+            "Food components known for their association with increased feelings of fullness are protein and fiber.",
+            "Protein is generally considered the most satiating macronutrient, and fiber activates stretch receptors and can slow the dispersion of digestive enzymes and nutrient absorption (16, 18) .",
+            "Many studies have evaluated these effects in adults, but data on preschool children are limited, due, in part, to the complexity of conducting research in that age group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "In older children and adults, fullness ratings are typically obtained through visual analog scales (19) (20) (21) (22) . Only 2 tools have been developed for young children (23) (24) (25) : one targeted primary school children (ages 5-9 y old) (23) and the other was developed in 20 children aged 4-6 y who were asked to rate feelings of hunger and fullness in response to imaginary eating occasions by using a 5-point scale (24) . The latter task may not be developmentally appropriate for preschoolers because serration and ordering skills usually develop between the ages of 4 and 5 y. However, preschool children are able to compare amounts, and a 2-level comparison approach is developmentally appropriate (26) . We developed a fullness-rating tool by using 2 silhouettes (Supplemental Figure 1 ) that preschool children are able to distinguish (26) . To our knowledge, no research is available to evaluate how fullness ratings of imaginary events would compare with an actual eating occasion.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "In older children and adults, fullness ratings are typically obtained through visual analog scales (19) (20) (21) (22) .",
+            "Only 2 tools have been developed for young children (23) (24) (25) : one targeted primary school children (ages 5-9 y old) (23) and the other was developed in 20 children aged 4-6 y who were asked to rate feelings of hunger and fullness in response to imaginary eating occasions by using a 5-point scale (24) .",
+            "The latter task may not be developmentally appropriate for preschoolers because serration and ordering skills usually develop between the ages of 4 and 5 y. However, preschool children are able to compare amounts, and a 2-level comparison approach is developmentally appropriate (26) .",
+            "We developed a fullness-rating tool by using 2 silhouettes (Supplemental Figure 1 ) that preschool children are able to distinguish (26) .",
+            "To our knowledge, no research is available to evaluate how fullness ratings of imaginary events would compare with an actual eating occasion."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Preschool children from low-income families are more likely to have poor diet quality than are children of higher socioeconomic status (27) , and the prevalence of obesity in low-income children is almost twice the national average for their age group (28) ; thus, low-income preschool children are a high-priority population for nutrition interventions. Preschools offer excellent opportunities for nutrition interventions, because at least 60% of American children aged <6 y spend time in care outside the household (29) .",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Preschool children from low-income families are more likely to have poor diet quality than are children of higher socioeconomic status (27) , and the prevalence of obesity in low-income children is almost twice the national average for their age group (28) ; thus, low-income preschool children are a high-priority population for nutrition interventions.",
+            "Preschools offer excellent opportunities for nutrition interventions, because at least 60% of American children aged <6 y spend time in care outside the household (29) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The purpose of this study was to determine the effect of consuming high-protein (HP) 8 , high-fiber (HF), and combined HP and HF (HPHF) breakfasts on low-income preschoolers\u00d5 feelings of fullness and their diet quality, which was measured by using a composite diet quality score.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "The purpose of this study was to determine the effect of consuming high-protein (HP) 8 , high-fiber (HF), and combined HP and HF (HPHF) breakfasts on low-income preschoolers\u00d5 feelings of fullness and their diet quality, which was measured by using a composite diet quality score."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "We conducted 2 independent studies to 1) develop a fullness-rating tool that is age-appropriate for preschool children and 2) to evaluate the effect of serving children 3 types of intervention breakfasts-HF (10 g fiber/d), HP (20 g protein/d), and HPHF (20 g protein and 10 g fiber/d, respectively)-compared with usual breakfasts (control) at local preschools serving low-income populations (Head Start centers). The nutrient content of the study breakfasts is shown in Table 1 . The intervention breakfasts were matched for energy content to the control preschool breakfasts (300 6 25 kcal). The HPHF breakfasts contained $1.5 times the average protein or fiber served in the control breakfast, which represented the highest achievable amounts with the use of childfriendly foods and adhering to Child and Adult Care Food Guidelines (30) . All of the study foods were tested for acceptability at a nonparticipating childcare center and recipes were modified until $80% of children rated the study foods as ''acceptable.''",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "We conducted 2 independent studies to 1) develop a fullness-rating tool that is age-appropriate for preschool children and 2) to evaluate the effect of serving children 3 types of intervention breakfasts-HF (10 g fiber/d), HP (20 g protein/d), and HPHF (20 g protein and 10 g fiber/d, respectively)-compared with usual breakfasts (control) at local preschools serving low-income populations (Head Start centers).",
+            "The nutrient content of the study breakfasts is shown in Table 1 .",
+            "The intervention breakfasts were matched for energy content to the control preschool breakfasts (300 6 25 kcal).",
+            "The HPHF breakfasts contained $1.5 times the average protein or fiber served in the control breakfast, which represented the highest achievable amounts with the use of childfriendly foods and adhering to Child and Adult Care Food Guidelines (30) .",
+            "All of the study foods were tested for acceptability at a nonparticipating childcare center and recipes were modified until $80% of children rated the study foods as ''acceptable.''"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Teachers and parents of 4-and 5-y-old children were approached through the centers. Recruitment packets included a questionnaire to ascertain information on selected demographic characteristics and children\u00d5s food allergies. Children with known food allergies were excluded from participation.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "Teachers and parents of 4-and 5-y-old children were approached through the centers.",
+            "Recruitment packets included a questionnaire to ascertain information on selected demographic characteristics and children\u00d5s food allergies.",
+            "Children with known food allergies were excluded from participation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "All data collection procedures were standardized through extensive training with research staff and followed a written protocol to ensure age-appropriate and consistent communications with the children. The protocols for these studies were approved by the Institutional Review Board of Purdue University, and the feeding trial was registered at clinicaltrials.gov as NCT02122224. Parents provided written consent, and all participating children were asked for verbal assent before each study procedure; children\u00d5s refusal to participate was honored.",
+        "section": "Methods",
+        "section_number": 9,
+        "sentences": [
+            "All data collection procedures were standardized through extensive training with research staff and followed a written protocol to ensure age-appropriate and consistent communications with the children.",
+            "The protocols for these studies were approved by the Institutional Review Board of Purdue University, and the feeding trial was registered at clinicaltrials.gov as NCT02122224.",
+            "Parents provided written consent, and all participating children were asked for verbal assent before each study procedure; children\u00d5s refusal to participate was honored."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Food intake while at preschool was recorded by research staff by using a validated method (Diet Observation for Child Care) to assess food consumption in children by direct observation (31) . This method was preferable to alternative methods, such as measuring plate waste, to minimize disruption to classroom procedures. The training manual was followed, and research staff practiced visually estimating portion sizes of >20 commonly served foods and beverages at the participating preschools. On the basis of the validated training methods, practice continued until all study staff accurately estimated portion sizes within 2 tablespoons of food. To assess what children were eating and drinking outside of preschool hours, parents were asked to keep a record of what their child ate and drank on Wednesdays of each study week before and after preschool. Parents were instructed on how to complete food records for their child with the booklet from Nutrient Data System for Research as an aid in estimating portion sizes.",
+        "section": "Methods",
+        "section_number": 10,
+        "sentences": [
+            "Food intake while at preschool was recorded by research staff by using a validated method (Diet Observation for Child Care) to assess food consumption in children by direct observation (31) .",
+            "This method was preferable to alternative methods, such as measuring plate waste, to minimize disruption to classroom procedures.",
+            "The training manual was followed, and research staff practiced visually estimating portion sizes of >20 commonly served foods and beverages at the participating preschools.",
+            "On the basis of the validated training methods, practice continued until all study staff accurately estimated portion sizes within 2 tablespoons of food.",
+            "To assess what children were eating and drinking outside of preschool hours, parents were asked to keep a record of what their child ate and drank on Wednesdays of each study week before and after preschool.",
+            "Parents were instructed on how to complete food records for their child with the booklet from Nutrient Data System for Research as an aid in estimating portion sizes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "All dietary data were entered in Nutrient Data System for Research version 2012, developed by the Nutrition Coordinating Center, University of Minnesota, to calculate gram, energy, food group, and nutrient intakes. Diet quality was calculated with the Revised Children\u00d5s Diet Quality Index (RC-DQI) (32) to rate actual intake compared with age-and sex-specific population intake guidelines for important foods and nutrients. The RC-DQI was chosen over the Healthy Eating Index because it includes components specific to child growth and health concerns and does not dichotomize the population into those with poor and good diets, as the Healthy Eating Index has been shown to do (33) . The RC-DQI scoring theme was originally designed based on repeated 24-h dietary intake data to assess total diet. The study was designed to assess total daily intake; however, because only a very few parents of the subjects enrolled in this study returned the 24-h food intake forms, diet quality estimates were assessed on the basis of the directly observed meals at the centers. Intakes during breakfast, lunch, and snack were observed on day 3 of each study week. According to the literature, an estimated 66% of preschoolers\u00d5 total food intake occurs during those eating occasions (34) . The RC-DQI scoring was adjusted to reflect a target goal of two-thirds of the intake recommendation for the entire day.",
+        "section": "Methods",
+        "section_number": 11,
+        "sentences": [
+            "All dietary data were entered in Nutrient Data System for Research version 2012, developed by the Nutrition Coordinating Center, University of Minnesota, to calculate gram, energy, food group, and nutrient intakes.",
+            "Diet quality was calculated with the Revised Children\u00d5s Diet Quality Index (RC-DQI) (32) to rate actual intake compared with age-and sex-specific population intake guidelines for important foods and nutrients.",
+            "The RC-DQI was chosen over the Healthy Eating Index because it includes components specific to child growth and health concerns and does not dichotomize the population into those with poor and good diets, as the Healthy Eating Index has been shown to do (33) .",
+            "The RC-DQI scoring theme was originally designed based on repeated 24-h dietary intake data to assess total diet.",
+            "The study was designed to assess total daily intake; however, because only a very few parents of the subjects enrolled in this study returned the 24-h food intake forms, diet quality estimates were assessed on the basis of the directly observed meals at the centers.",
+            "Intakes during breakfast, lunch, and snack were observed on day 3 of each study week.",
+            "According to the literature, an estimated 66% of preschoolers\u00d5 total food intake occurs during those eating occasions (34) .",
+            "The RC-DQI scoring was adjusted to reflect a target goal of two-thirds of the intake recommendation for the entire day."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Children aged 4-5 y (n = 65) were recruited from local preschools for a week-long pilot study to test a child-appropriate adaptation of a visual analog scale to assess feelings of fullness before and after eating a meal (lunch). Study procedures were conducted in the classroom and followed the usual schedule of activities: snack at 0900, lunch between 1130 and 1200, naptime, and snack at 1430. On the first day of the study, all children in the classroom listened to a short (;5 min) story about the differences between having an ''empty tummy'' compared with having a ''full tummy.'' The story was read in English and Spanish, when appropriate, and introduced the labeling of the feelings associated with an ''empty versus full tummy.'' The story was followed by application exercises as visual examples of fictitious characters who had eaten different amounts of food were shown, and the children were asked to describe if the character\u00d5s ''tummy'' was feeling empty or full and the estimated magnitude of the feeling (a little or very). Children responded verbally or pointed to the silhouettes of ''empty'' and ''full.'' Within 5 min of the beginning and the end of lunch, children were shown the pictures of the silhouettes and research staff first asked ''How does your tummy feel right now? Does it feel empty or full?'' as the staff member pointed to each silhouette. After the child responded, he or she was then asked, ''Does your tummy feel a little empty/full, or very empty/full?'' Although the questions were read in order, the prompting of the reply ''empty or full'' and ''a little or very'' was used at random, often triggered by the participant pointing to the response before the sentence with the question had been completed.",
+        "section": "Aim 1: tool development to assess feelings of fullness",
+        "section_number": 12,
+        "sentences": [
+            "Children aged 4-5 y (n = 65) were recruited from local preschools for a week-long pilot study to test a child-appropriate adaptation of a visual analog scale to assess feelings of fullness before and after eating a meal (lunch).",
+            "Study procedures were conducted in the classroom and followed the usual schedule of activities: snack at 0900, lunch between 1130 and 1200, naptime, and snack at 1430.",
+            "On the first day of the study, all children in the classroom listened to a short (;5 min) story about the differences between having an ''empty tummy'' compared with having a ''full tummy.''",
+            "The story was read in English and Spanish, when appropriate, and introduced the labeling of the feelings associated with an ''empty versus full tummy.''",
+            "The story was followed by application exercises as visual examples of fictitious characters who had eaten different amounts of food were shown, and the children were asked to describe if the character\u00d5s ''tummy'' was feeling empty or full and the estimated magnitude of the feeling (a little or very).",
+            "Children responded verbally or pointed to the silhouettes of ''empty'' and ''full.''",
+            "Within 5 min of the beginning and the end of lunch, children were shown the pictures of the silhouettes and research staff first asked ''How does your tummy feel right now?",
+            "Does it feel empty or full?''",
+            "as the staff member pointed to each silhouette.",
+            "After the child responded, he or she was then asked, ''Does your tummy feel a little empty/full, or very empty/full?''",
+            "Although the questions were read in order, the prompting of the reply ''empty or full'' and ''a little or very'' was used at random, often triggered by the participant pointing to the response before the sentence with the question had been completed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "This crossover, randomized, controlled intervention trial was conducted in 2 preschools (n = 41) that did not participate in the study for aim 1. A sample size of 18 subjects was needed for 95% power to detect a 1-point change in the fullness score [1.1 SD 35] with a 2-sided error of a = 0.05.",
+        "section": "Aim 2: feeding intervention study",
+        "section_number": 13,
+        "sentences": [
+            "This crossover, randomized, controlled intervention trial was conducted in 2 preschools (n = 41) that did not participate in the study for aim 1.",
+            "A sample size of 18 subjects was needed for 95% power to detect a 1-point change in the fullness score [1.1 SD 35] with a 2-sided error of a = 0.05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Teachers of 6 classrooms of 4-and 5-y-old children were approached and agreed to participate in the study. Packets were sent home with parents, and if the parents chose to have their child participate, signed packets were returned to the teachers. All data collection was conducted in the classrooms with teachers and nonparticipating children present on Monday through Thursday (centers were closed on Friday) over the course of 9 wk. The study schedule and weekly study procedures are shown in Supplemental Figure 2 . Groups 1 and 2 were located in the same preschool and began the study 1 wk earlier than groups 3 and 4, allowing for study staff to conduct the study at a single preschool at a time (groups 1 and 2 were in washout phases when data collection commenced in groups 3 and 4). The first week of the study was used for baseline data collection and as an acclimation period for children to become accustomed to the presence of the research staff.",
+        "section": "Aim 2: feeding intervention study",
+        "section_number": 14,
+        "sentences": [
+            "Teachers of 6 classrooms of 4-and 5-y-old children were approached and agreed to participate in the study.",
+            "Packets were sent home with parents, and if the parents chose to have their child participate, signed packets were returned to the teachers.",
+            "All data collection was conducted in the classrooms with teachers and nonparticipating children present on Monday through Thursday (centers were closed on Friday) over the course of 9 wk.",
+            "The study schedule and weekly study procedures are shown in Supplemental Figure 2 .",
+            "Groups 1 and 2 were located in the same preschool and began the study 1 wk earlier than groups 3 and 4, allowing for study staff to conduct the study at a single preschool at a time (groups 1 and 2 were in washout phases when data collection commenced in groups 3 and 4).",
+            "The first week of the study was used for baseline data collection and as an acclimation period for children to become accustomed to the presence of the research staff."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "On Tuesday of the baseline week and weeks 3 and 7, study staff took children\u00d5s anthropometric measurements with the use of a standardized height rod attached to the stand of a calibrated body weight scale (Seneca) to record standing height and weight, without shoes, to the nearest 1 cm and 0.05 kg, respectively. Children were classified as underweight or normal weight or as overweight or obese at baseline as per CDC guidelines (36) .",
+        "section": "Aim 2: feeding intervention study",
+        "section_number": 15,
+        "sentences": [
+            "On Tuesday of the baseline week and weeks 3 and 7, study staff took children\u00d5s anthropometric measurements with the use of a standardized height rod attached to the stand of a calibrated body weight scale (Seneca) to record standing height and weight, without shoes, to the nearest 1 cm and 0.05 kg, respectively.",
+            "Children were classified as underweight or normal weight or as overweight or obese at baseline as per CDC guidelines (36) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The order of the study conditions (one of the interventions or control) was selected at random for the entire group. On each study day, participating children reported their feelings of fullness on 3 occasions: before breakfast, after breakfast, and before lunch. The procedures described for aim 1 were followed to assess feelings of fullness with one modification: the training story was read on Monday and Tuesday of the baseline week as well as on the Monday of each study week thereafter.",
+        "section": "Aim 2: feeding intervention study",
+        "section_number": 16,
+        "sentences": [
+            "The order of the study conditions (one of the interventions or control) was selected at random for the entire group.",
+            "On each study day, participating children reported their feelings of fullness on 3 occasions: before breakfast, after breakfast, and before lunch.",
+            "The procedures described for aim 1 were followed to assess feelings of fullness with one modification: the training story was read on Monday and Tuesday of the baseline week as well as on the Monday of each study week thereafter."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Due to inclement weather and the associated center closings, some of the data collection days were not completed as originally scheduled and make-up days were scheduled. Study procedures were identical to those of the missed day.",
+        "section": "Aim 2: feeding intervention study",
+        "section_number": 17,
+        "sentences": [
+            "Due to inclement weather and the associated center closings, some of the data collection days were not completed as originally scheduled and make-up days were scheduled.",
+            "Study procedures were identical to those of the missed day."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "All of the data were entered into Excel (Microsoft Corporation) spreadsheets with the use of double-entry procedures, and analyses were conducted by using Stata 11.2 (Stata Statistical Software, release 12; StataCorp LP). Significance was assumed at a < 0.05. Aim 1. Because day 1 of the study was an ''acclimation day'' for children and attendance in preschool was very low on day 5 (Friday; n = 17), only data for days 2-4 were analyzed. Children\u00d5s responses were coded on a Likert scale, with ''1'' being ''very empty,'' ''2'' being ''a little empty,'' ''3'' being ''a little full,'' and ''4'' being ''very full.'' If a child chose not to answer the second survey question (n = 2) to describe their tummy as ''very'' or ''a little'' empty or full, the response was dropped from analysis. Descriptive statistics were used to describe the sample, and paired t tests were used to compare the participants\u00d5 pre-to post-meal ratings. Spearman correlations were used to compare actual energy and gram intakes with the fullness ratings.",
+        "section": "Data analysis",
+        "section_number": 18,
+        "sentences": [
+            "All of the data were entered into Excel (Microsoft Corporation) spreadsheets with the use of double-entry procedures, and analyses were conducted by using Stata 11.2 (Stata Statistical Software, release 12; StataCorp LP).",
+            "Significance was assumed at a < 0.05.",
+            "Aim 1.",
+            "Because day 1 of the study was an ''acclimation day'' for children and attendance in preschool was very low on day 5 (Friday; n = 17), only data for days 2-4 were analyzed.",
+            "Children\u00d5s responses were coded on a Likert scale, with ''1'' being ''very empty,'' ''2'' being ''a little empty,'' ''3'' being ''a little full,'' and ''4'' being ''very full.''",
+            "If a child chose not to answer the second survey question (n = 2) to describe their tummy as ''very'' or ''a little'' empty or full, the response was dropped from analysis.",
+            "Descriptive statistics were used to describe the sample, and paired t tests were used to compare the participants\u00d5 pre-to post-meal ratings.",
+            "Spearman correlations were used to compare actual energy and gram intakes with the fullness ratings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Aim 2. An intent-to-treat analysis was completed. Data from absent children were maintained in the data set, and other missing data (i.e., children chose not to eat) were not imputed.",
+        "section": "Data analysis",
+        "section_number": 19,
+        "sentences": [
+            "Aim 2.",
+            "An intent-to-treat analysis was completed.",
+            "Data from absent children were maintained in the data set, and other missing data (i.e., children chose not to eat) were not imputed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The fullness score analysis was modified from that for aim 1 in that if a child had answered the first question (''hungry'' or ''full'') but did not further specify ''a little'' or ''very'' hungry or full, the response was recorded as a half-way point. For example, for a child who only reported feeling hungry, a 1.5-point score was assigned.",
+        "section": "Data analysis",
+        "section_number": 20,
+        "sentences": [
+            "The fullness score analysis was modified from that for aim 1 in that if a child had answered the first question (''hungry'' or ''full'') but did not further specify ''a little'' or ''very'' hungry or full, the response was recorded as a half-way point.",
+            "For example, for a child who only reported feeling hungry, a 1.5-point score was assigned."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Descriptive statistics were used to characterize the sample (means, SDs, proportions) and to describe mean scores and food intake. Student\u00d5s t tests were used to directly compare differences in rating scores from pre-and post-breakfast as well as pre-lunch. Mean differences were also calculated and tested to assess differences in actual food intake by breakfast type. Bonferroni corrections were applied to account for multiple testing.",
+        "section": "Data analysis",
+        "section_number": 21,
+        "sentences": [
+            "Descriptive statistics were used to characterize the sample (means, SDs, proportions) and to describe mean scores and food intake.",
+            "Student\u00d5s t tests were used to directly compare differences in rating scores from pre-and post-breakfast as well as pre-lunch.",
+            "Mean differences were also calculated and tested to assess differences in actual food intake by breakfast type.",
+            "Bonferroni corrections were applied to account for multiple testing."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Repeated-measures ANOVAs were performed to determine if breakfast type was associated with differences in energy intake at lunch or with diet quality, controlling for week. Ordered logistic regression was performed to determine if breakfast type had any effect on fullness survey responses after breakfast or before lunch, controlling for study week, age, sex, race, and weight status.",
+        "section": "Data analysis",
+        "section_number": 22,
+        "sentences": [
+            "Repeated-measures ANOVAs were performed to determine if breakfast type was associated with differences in energy intake at lunch or with diet quality, controlling for week.",
+            "Ordered logistic regression was performed to determine if breakfast type had any effect on fullness survey responses after breakfast or before lunch, controlling for study week, age, sex, race, and weight status."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Aim 1. Sixty-five children from 10 classrooms were recruited into the study. Characteristics of all participants included in the analysis (n = 59) are presented in Table 2 . Six children did not provide any fullness data or were absent (n = 5) on $50% of data collection days. Fifteen children (7.7%) were absent at some point over the course of the study. Some children refused to answer the survey questions before breakfast (n = 8) and 1 child started eating before the questions could be asked, resulting in 4.5% missing pre-meal data points. Only 1 child refused to complete the fullness questionnaire after breakfast (<1% of post-meal responses).",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "Aim 1.",
+            "Sixty-five children from 10 classrooms were recruited into the study.",
+            "Characteristics of all participants included in the analysis (n = 59) are presented in Table 2 .",
+            "Six children did not provide any fullness data or were absent (n = 5) on $50% of data collection days.",
+            "Fifteen children (7.7%) were absent at some point over the course of the study.",
+            "Some children refused to answer the survey questions before breakfast (n = 8) and 1 child started eating before the questions could be asked, resulting in 4.5% missing pre-meal data points.",
+            "Only 1 child refused to complete the fullness questionnaire after breakfast (<1% of post-meal responses)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The primary outcome variable of this aim of the randomized controlled trial was the change in fullness ratings. The daily mean self-reported fullness rating was 2.0 (ranging from 1.7 to 2.4), which significantly (P < 0.05) increased after lunch (mean: 3.7; ranging from 3.6 to 3.9). Daily energy intakes at lunch fluctuated between 179 6 122 and 194 6 98 kcal (mean 6 SD), and there was no significant difference in protein, carbohydrate, or fat intakes ( Table 3) . No significant associations were observed between the energy and grams consumed at lunch and the pre-and post-meal fullness ratings or between the energy and grams consumed and the change in self-reported fullness.",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "The primary outcome variable of this aim of the randomized controlled trial was the change in fullness ratings.",
+            "The daily mean self-reported fullness rating was 2.0 (ranging from 1.7 to 2.4), which significantly (P < 0.05) increased after lunch (mean: 3.7; ranging from 3.6 to 3.9).",
+            "Daily energy intakes at lunch fluctuated between 179 6 122 and 194 6 98 kcal (mean 6 SD), and there was no significant difference in protein, carbohydrate, or fat intakes ( Table 3) .",
+            "No significant associations were observed between the energy and grams consumed at lunch and the pre-and post-meal fullness ratings or between the energy and grams consumed and the change in self-reported fullness."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "A total of 44 children were recruited for the nutrition intervention study. Two children were withdrawn from the preschool and 1 child withdrew from participation after week 1, leaving 41 children in the analysis. Of those, 5 children were absent for >2 d in a study week.",
+        "section": "Aim 2.",
+        "section_number": 25,
+        "sentences": [
+            "A total of 44 children were recruited for the nutrition intervention study.",
+            "Two children were withdrawn from the preschool and 1 child withdrew from participation after week 1, leaving 41 children in the analysis.",
+            "Of those, 5 children were absent for >2 d in a study week."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The majority of the sample was 4 y old at baseline, and there were similar numbers of boys and girls ( Table 4) . Most children (75%) were classified as being of normal weight. Although family income data were not collected, all of the children were from low-income families, as specified by Head Start Program participation guidelines (37) .",
+        "section": "Aim 2.",
+        "section_number": 26,
+        "sentences": [
+            "The majority of the sample was 4 y old at baseline, and there were similar numbers of boys and girls ( Table 4) .",
+            "Most children (75%) were classified as being of normal weight.",
+            "Although family income data were not collected, all of the children were from low-income families, as specified by Head Start Program participation guidelines (37) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The primary outcome variable of this aim of the randomized controlled trial was change in food intake. Weekly mean energy and nutrient intakes are shown in Table 5 , which included children who did not consume food at breakfast (n = 5 total during the intervention weeks, and n = 8 during the control week). Baseline intake means were similar to those of the control week, with the exception of a higher mean fat intake during the baseline week than during the control week (P = 0.017). As expected, variations in energy and nutrient intakes were observed throughout the study. Children consumed significantly less total energy during the intervention breakfasts, which was consistent with the significantly lower intake of fat compared with the control breakfast. Mean protein intake did not differ from control, but mean protein density (g/100 kcal) was higher during the HP (P = 0.003) and HPHF (P = 0.003) weeks than during the control week. Mean fiber intake and fiber density (g/100 kcal) were higher during all 3 study breakfast weeks, and mean carbohydrate intake was lower compared with control in the HP and HPHF but not the HF breakfast week.",
+        "section": "Aim 2.",
+        "section_number": 27,
+        "sentences": [
+            "The primary outcome variable of this aim of the randomized controlled trial was change in food intake.",
+            "Weekly mean energy and nutrient intakes are shown in Table 5 , which included children who did not consume food at breakfast (n = 5 total during the intervention weeks, and n = 8 during the control week).",
+            "Baseline intake means were similar to those of the control week, with the exception of a higher mean fat intake during the baseline week than during the control week (P = 0.017).",
+            "As expected, variations in energy and nutrient intakes were observed throughout the study.",
+            "Children consumed significantly less total energy during the intervention breakfasts, which was consistent with the significantly lower intake of fat compared with the control breakfast.",
+            "Mean protein intake did not differ from control, but mean protein density (g/100 kcal) was higher during the HP (P = 0.003) and HPHF (P = 0.003) weeks than during the control week.",
+            "Mean fiber intake and fiber density (g/100 kcal) were higher during all 3 study breakfast weeks, and mean carbohydrate intake was lower compared with control in the HP and HPHF but not the HF breakfast week."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Mean fullness responses by intervention week are shown in Figure 1 , which indicates that participants felt significantly ''less full'' before breakfast than after breakfast in each week (P < 0.05). Similarly, participants reported higher mean fullness after breakfast than pre-lunch (P < 0.05). Ordered logistic regression suggested that breakfast type had no effect on post-breakfast (P = 0.76) or pre-lunch (P = 0.68) fullness. Study week was the only significant predictor of fullness ratings (P = 0.008). Sex, age, race, and weight status were not predictors of the association. In addition, neither fiber density nor protein density were significant predictors of post-breakfast or pre-lunch fullness ratings.",
+        "section": "Aim 2.",
+        "section_number": 28,
+        "sentences": [
+            "Mean fullness responses by intervention week are shown in Figure 1 , which indicates that participants felt significantly ''less full'' before breakfast than after breakfast in each week (P < 0.05).",
+            "Similarly, participants reported higher mean fullness after breakfast than pre-lunch (P < 0.05).",
+            "Ordered logistic regression suggested that breakfast type had no effect on post-breakfast (P = 0.76) or pre-lunch (P = 0.68) fullness.",
+            "Study week was the only significant predictor of fullness ratings (P = 0.008).",
+            "Sex, age, race, and weight status were not predictors of the association.",
+            "In addition, neither fiber density nor protein density were significant predictors of post-breakfast or pre-lunch fullness ratings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Children\u00d5s food intake and RC-DQI scores were intended to reflect children\u00d5s daily (24-h) intakes. However, because the number of diet records returned by parents was deemed too low for analysis (<15 records returned for each intervention week), mean daily energy and nutrient intakes as well as RC-DQI scores were calculated on the basis of the foods and beverages consumed at preschool. The RC-DQI scoring scheme was adapted to reflect that only ;66% of children\u00d5s daily diets were captured. Thus, the scoring scheme was modified to allow full points when children met two-thirds of the intake goals. Mean energy intakes on day 3 of each intervention week are shown in Figure 2 . Repeated-measures ANOVA suggested differences in energy intakes at breakfast and lunch in the control week compared with the 3 intervention breakfast weeks (P < 0.01 and P = 0.048, respectively) but not at snack (P = 0.51) or over the school day (P = 0.45; data not shown). No significant differences in energy or nutrient intake were observed by children\u00d5s weight status.",
+        "section": "Aim 2.",
+        "section_number": 29,
+        "sentences": [
+            "Children\u00d5s food intake and RC-DQI scores were intended to reflect children\u00d5s daily (24-h) intakes.",
+            "However, because the number of diet records returned by parents was deemed too low for analysis (<15 records returned for each intervention week), mean daily energy and nutrient intakes as well as RC-DQI scores were calculated on the basis of the foods and beverages consumed at preschool.",
+            "The RC-DQI scoring scheme was adapted to reflect that only ;66% of children\u00d5s daily diets were captured.",
+            "Thus, the scoring scheme was modified to allow full points when children met two-thirds of the intake goals.",
+            "Mean energy intakes on day 3 of each intervention week are shown in Figure 2 .",
+            "Repeated-measures ANOVA suggested differences in energy intakes at breakfast and lunch in the control week compared with the 3 intervention breakfast weeks (P < 0.01 and P = 0.048, respectively) but not at snack (P = 0.51) or over the school day (P = 0.45; data not shown).",
+            "No significant differences in energy or nutrient intake were observed by children\u00d5s weight status."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Diet quality component scores are shown in Figure 3 . Overall diet quality scores differed between intervention breakfasts (P = 0.027), and the highest diet quality scores were observed during the HP and HF breakfast conditions (Figure 4 ). There were no differences in diet quality scores by children\u00d5s weight status (P = 0.76).",
+        "section": "Aim 2.",
+        "section_number": 30,
+        "sentences": [
+            "Diet quality component scores are shown in Figure 3 .",
+            "Overall diet quality scores differed between intervention breakfasts (P = 0.027), and the highest diet quality scores were observed during the HP and HF breakfast conditions (Figure 4 ).",
+            "There were no differences in diet quality scores by children\u00d5s weight status (P = 0.76)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Feelings of fullness contribute to energy balance, and some nutrients have been shown to affect fullness (38) . A recent laboratory study in 29 children aged 10 y showed that increased protein content of breakfast (compared with higher carbohydrate content) led to increased energy expenditure, fat oxidation, and higher satiety (39) . However, whether these associations hold true in preschool children has not been studied to date to our knowledge.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "Feelings of fullness contribute to energy balance, and some nutrients have been shown to affect fullness (38) .",
+            "A recent laboratory study in 29 children aged 10 y showed that increased protein content of breakfast (compared with higher carbohydrate content) led to increased energy expenditure, fat oxidation, and higher satiety (39) .",
+            "However, whether these associations hold true in preschool children has not been studied to date to our knowledge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "One challenge for research on feelings of fullness in young children is that preschool children have limited cognitive and concentration abilities. We used previously published methods to develop a new age-appropriate self-assessment tool for 4-and 5-y-olds to communicate their feeling of fullness (24, 25) . Our tool does not require lengthy and individual training sessions and is therefore user-friendly for classroom or clinical settings.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "One challenge for research on feelings of fullness in young children is that preschool children have limited cognitive and concentration abilities.",
+            "We used previously published methods to develop a new age-appropriate self-assessment tool for 4-and 5-y-olds to communicate their feeling of fullness (24, 25) .",
+            "Our tool does not require lengthy and individual training sessions and is therefore user-friendly for classroom or clinical settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "The feeding intervention reported here is not consistent with a recent study in slightly older children (22) . This may be due to the unique eating environment found in childcare centers and preschools. For safety and socialization reasons, center policy usually demands that all children sit at the table for snacks or meals, even when not hungry. Sitting at the table with food within easy reach may trigger eating because children\u00d5s eating behavior is socially facilitated (40) . However, there is no evidence for this phenomenon and one could argue that preschoolers simply do not (yet) respond to changes in breakfast nutrient profile. Other results suggest that preschoolers consumed less energy when served an HP (compare with a high-carbohydrate) lunch and continued to consume less during an afternoon snack (41) . Some might argue that there is no difference by the time of day, but research in children supports a unique role of breakfast for learning and food-intake control (42) (43) (44) , which is not consistently reported in adults (45, 46) .",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "The feeding intervention reported here is not consistent with a recent study in slightly older children (22) .",
+            "This may be due to the unique eating environment found in childcare centers and preschools.",
+            "For safety and socialization reasons, center policy usually demands that all children sit at the table for snacks or meals, even when not hungry.",
+            "Sitting at the table with food within easy reach may trigger eating because children\u00d5s eating behavior is socially facilitated (40) .",
+            "However, there is no evidence for this phenomenon and one could argue that preschoolers simply do not (yet) respond to changes in breakfast nutrient profile.",
+            "Other results suggest that preschoolers consumed less energy when served an HP (compare with a high-carbohydrate) lunch and continued to consume less during an afternoon snack (41) .",
+            "Some might argue that there is no difference by the time of day, but research in children supports a unique role of breakfast for learning and food-intake control (42) (43) (44) , which is not consistently reported in adults (45, 46) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "As in all studies, limitations must be acknowledged. Ideally, our fullness-rating tool would have been validated by comparing results to a ''gold standard''; however, no such standard exists. Our results may have been different if fullness ratings had been collected $15 min after the meal, a time at which they may peak (42, 47) . Due to the schedules of preschools, which include outdoor playtime after the meal, and preschoolers\u00d5 very limited ability to focus on a task while other ''fun'' activities are ongoing, it was necessary to collect fullness responses immediately after eating. Children in this study showed reduced energy intake during the intervention breakfast. This result is due in part to the study design, in which the intervention breakfasts had lower fat and higher protein and fiber density. In addition, preschoolers might have experienced food neophobia-an aversion to consuming new foods-which might have led to lower food intake. Food neophobia has been shown to disappear with repeated exposure to the foods. However, due to the study design, an acclimation period to the new foods could not be accommodated because of the burden on the participating teachers.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "As in all studies, limitations must be acknowledged.",
+            "Ideally, our fullness-rating tool would have been validated by comparing results to a ''gold standard''; however, no such standard exists.",
+            "Our results may have been different if fullness ratings had been collected $15 min after the meal, a time at which they may peak (42, 47) .",
+            "Due to the schedules of preschools, which include outdoor playtime after the meal, and preschoolers\u00d5 very limited ability to focus on a task while other ''fun'' activities are ongoing, it was necessary to collect fullness responses immediately after eating.",
+            "Children in this study showed reduced energy intake during the intervention breakfast.",
+            "This result is due in part to the study design, in which the intervention breakfasts had lower fat and higher protein and fiber density.",
+            "In addition, preschoolers might have experienced food neophobia-an aversion to consuming new foods-which might have led to lower food intake.",
+            "Food neophobia has been shown to disappear with repeated exposure to the foods.",
+            "However, due to the study design, an acclimation period to the new foods could not be accommodated because of the burden on the participating teachers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "There is a lack of data on preschoolers\u00d5 daily intakes when they attend preschool. Several studies have indicated that children consume an estimated $66% of their daily energy and nutrients while at preschool; however, this estimate likely differs according to children\u00d5s socioeconomic background, with some low-income children consuming $90% of their diet while at preschool (34) .",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "There is a lack of data on preschoolers\u00d5 daily intakes when they attend preschool.",
+            "Several studies have indicated that children consume an estimated $66% of their daily energy and nutrients while at preschool; however, this estimate likely differs according to children\u00d5s socioeconomic background, with some low-income children consuming $90% of their diet while at preschool (34) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Although it would have been preferable to have dietary intake data on the children for the entire day to examine if diet quality varies in the 4 different breakfast conditions, the lack of complete intake reports did not allow for such analysis. However, because the observed diet in the preschools covered the same time period for each participant, calculation of a complete daily diet quality score was not necessary to compare diet quality between the 4 breakfast conditions. In lieu of comparing participants\u00d5 daily diet quality, we were able to assess the relative change in component and total scores under each of the study conditions. Interestingly, higher scores were seen with the HP and HF breakfasts, but the expected additive effect of combining the 2 was not observed. This result calls for more research to determine a possible ceiling effect or potentially overlapping fullness responses to protein and fiber. Overall diet quality is important to consider in obesity research, because children who skip breakfast are at higher risk of overweight and poor diet quality than are those who habitually consume breakfast (48) . Better diet quality has been associated with improved BMI values among low-income overweight children (49) .",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "Although it would have been preferable to have dietary intake data on the children for the entire day to examine if diet quality varies in the 4 different breakfast conditions, the lack of complete intake reports did not allow for such analysis.",
+            "However, because the observed diet in the preschools covered the same time period for each participant, calculation of a complete daily diet quality score was not necessary to compare diet quality between the 4 breakfast conditions.",
+            "In lieu of comparing participants\u00d5 daily diet quality, we were able to assess the relative change in component and total scores under each of the study conditions.",
+            "Interestingly, higher scores were seen with the HP and HF breakfasts, but the expected additive effect of combining the 2 was not observed.",
+            "This result calls for more research to determine a possible ceiling effect or potentially overlapping fullness responses to protein and fiber.",
+            "Overall diet quality is important to consider in obesity research, because children who skip breakfast are at higher risk of overweight and poor diet quality than are those who habitually consume breakfast (48) .",
+            "Better diet quality has been associated with improved BMI values among low-income overweight children (49) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Young children from families with low socioeconomic status are disproportionally affected by obesity (28) . Early nutrition intervention to prevent and treat obesity is vital, because risk factors for chronic disease associated with obesity can present during the preschool years (6) . This study targeted an identified research priority by offering data from a well-controlled intervention study in the preschool setting (50) . Some of the study results could be used to develop future studies. For instance, a similar study design in which children are able to freely choose what they eat in the meals and snacks after the study breakfasts would allow a better understanding of a possible compensation mechanism. In addition, total diet should be included in the examination of feeding interventions in children. However, until data collection tools that allow the recording of food intake outside of preschools are developed or venues to increase parental self-report are available, capturing total diet remains a challenge.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "Young children from families with low socioeconomic status are disproportionally affected by obesity (28) .",
+            "Early nutrition intervention to prevent and treat obesity is vital, because risk factors for chronic disease associated with obesity can present during the preschool years (6) .",
+            "This study targeted an identified research priority by offering data from a well-controlled intervention study in the preschool setting (50) .",
+            "Some of the study results could be used to develop future studies.",
+            "For instance, a similar study design in which children are able to freely choose what they eat in the meals and snacks after the study breakfasts would allow a better understanding of a possible compensation mechanism.",
+            "In addition, total diet should be included in the examination of feeding interventions in children.",
+            "However, until data collection tools that allow the recording of food intake outside of preschools are developed or venues to increase parental self-report are available, capturing total diet remains a challenge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "In conclusion, we showed that the preschoolers in this study were able to communicate their feelings of fullness by using a newly developed pictorial assessment tool. Crossover exposure to 3 experimental and 1 control breakfast conditions showed an overall consistent change in energy and nutrient intakes for all 3 intervention breakfasts. Our results differ from other published results, in that the children in this study compensated for the reduced energy intake at breakfast during lunch. This study offers a further step toward a better understanding of preschool child nutrition. The role of satiation and satiety may be a critical aspect of obesity prevention and treatment in early childhood.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "In conclusion, we showed that the preschoolers in this study were able to communicate their feelings of fullness by using a newly developed pictorial assessment tool.",
+            "Crossover exposure to 3 experimental and 1 control breakfast conditions showed an overall consistent change in energy and nutrient intakes for all 3 intervention breakfasts.",
+            "Our results differ from other published results, in that the children in this study compensated for the reduced energy intake at breakfast during lunch.",
+            "This study offers a further step toward a better understanding of preschool child nutrition.",
+            "The role of satiation and satiety may be a critical aspect of obesity prevention and treatment in early childhood."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "First published online January 11, 2017; doi:10.3945/jn.116.234153.",
+        "section": "",
+        "section_number": 39,
+        "sentences": [
+            "First published online January 11, 2017; doi:10.3945/jn.116.234153."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Abbreviations used: HF, high-fiber; HP, high-protein; HPHF, high-protein and high-fiber; RC-DQI, Revised Children\u00d5s Diet Quality Index.",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "Abbreviations used: HF, high-fiber; HP, high-protein; HPHF, high-protein and high-fiber; RC-DQI, Revised Children\u00d5s Diet Quality Index."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Values are n (%).",
+        "section": "",
+        "section_number": 41,
+        "sentences": [
+            "Values are n (%)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39401",
+        "text": "Values are means 6 SDs. *Different from control, P , 0.05. HF, high-fiber diet; HP, high-protein diet; HPHF, high-protein and high-fiber diet.",
+        "section": "",
+        "section_number": 42,
+        "sentences": [
+            "Values are means 6 SDs. *",
+            "Different from control, P , 0.05.",
+            "HF, high-fiber diet; HP, high-protein diet; HPHF, high-protein and high-fiber diet."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "doc_id": "46891",
+        "text": "Background and objective: Phenylephrine is the first-line choice for prevention and treatment of hypotension during spinal anesthesia for cesarean section. However, the serious bradycardia caused by phenylephrine is a concern. This study compared the effects of prophylactic bolus norepinephrine and phenylephrine on hypotension during spinal anesthesia for cesarean section. Methods: A total of 132 healthy parturients having cesarean section under spinal anesthesia were enrolled in this prospective, randomized, double-blinded, parallel-group trial. Patients were randomized to receive prophylactic bolus norepinephrine (10 \u03bcg) or phenylephrine (50 \u03bcg) immediately after spinal anesthesia. The primary outcome compared was incidence of bradycardia (defined as heart rate < 60 beats/ min). The secondary outcomes were blood pressure, heart rate, cardiac output, nausea and vomiting, and neonatal outcome. Results: The incidence of bradycardia was significantly lower in the norepinephrine group (2%) than that in the phenylephrine group (13%, P < 0.05). Five patients had heart rate lower than 55 beats/min and needed atropine 0.5 mg administration in the phenylephrine group. Cardiac output at 5 min was significantly greater in the norepinephrine group than that in the phenylephrine group (P < 0.05). From induction until delivery, there were no significant differences in systolic blood pressure. Neonatal outcome was similar between groups. Conclusions: Norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on heart rate and greater cardiac output than phenylephrine during caesarean section.",
+        "section": "Abstract",
+        "sentences": [
+            "Background and objective: Phenylephrine is the first-line choice for prevention and treatment of hypotension during spinal anesthesia for cesarean section.",
+            "However, the serious bradycardia caused by phenylephrine is a concern.",
+            "This study compared the effects of prophylactic bolus norepinephrine and phenylephrine on hypotension during spinal anesthesia for cesarean section.",
+            "Methods: A total of 132 healthy parturients having cesarean section under spinal anesthesia were enrolled in this prospective, randomized, double-blinded, parallel-group trial.",
+            "Patients were randomized to receive prophylactic bolus norepinephrine (10 \u03bcg) or phenylephrine (50 \u03bcg) immediately after spinal anesthesia.",
+            "The primary outcome compared was incidence of bradycardia (defined as heart rate < 60 beats/ min).",
+            "The secondary outcomes were blood pressure, heart rate, cardiac output, nausea and vomiting, and neonatal outcome.",
+            "Results: The incidence of bradycardia was significantly lower in the norepinephrine group (2%) than that in the phenylephrine group (13%, P < 0.05).",
+            "Five patients had heart rate lower than 55 beats/min and needed atropine 0.5 mg administration in the phenylephrine group.",
+            "Cardiac output at 5 min was significantly greater in the norepinephrine group than that in the phenylephrine group (P < 0.05).",
+            "From induction until delivery, there were no significant differences in systolic blood pressure.",
+            "Neonatal outcome was similar between groups.",
+            "Conclusions: Norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on heart rate and greater cardiac output than phenylephrine during caesarean section."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Hypotension is a common side effect of spinal anesthesia for cesarean section, with an incidence of up to 71% [1] . Currently, phenylephrine is the first-line choice for prevention of hypotension during spinal anesthesia for cesarean section [2] . However, the serious bradycardia caused by phenylephrine is a concern and it requires atropine treatment [3] . Furthermore, phenylephrine is ineffective in some patients and thus other vasopressor agents are needed.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Hypotension is a common side effect of spinal anesthesia for cesarean section, with an incidence of up to 71% [1] .",
+            "Currently, phenylephrine is the first-line choice for prevention of hypotension during spinal anesthesia for cesarean section [2] .",
+            "However, the serious bradycardia caused by phenylephrine is a concern and it requires atropine treatment [3] .",
+            "Furthermore, phenylephrine is ineffective in some patients and thus other vasopressor agents are needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Norepinephrine, like phenylephrine, also has \u03b1-adrenergic properties that can be used to treat spinal anesthesia-induced vasodilatation. But unlike phenylephrine, norepinephrine has mild and dose-dependent \u03b2-adrenergic effects that might be beneficial to counteract pure vasoconstriction [4] . In our routine practice, we have observed that norepinephrine was associated with a lower incidence of bradycardia than phenylephrine. We postulate that norepinephrine might therefore be a more effective vasopressor for preventing and maintaining blood pressure during spinal anesthesia.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Norepinephrine, like phenylephrine, also has \u03b1-adrenergic properties that can be used to treat spinal anesthesia-induced vasodilatation.",
+            "But unlike phenylephrine, norepinephrine has mild and dose-dependent \u03b2-adrenergic effects that might be beneficial to counteract pure vasoconstriction [4] .",
+            "In our routine practice, we have observed that norepinephrine was associated with a lower incidence of bradycardia than phenylephrine.",
+            "We postulate that norepinephrine might therefore be a more effective vasopressor for preventing and maintaining blood pressure during spinal anesthesia."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "The primary aim of this randomized, doubleblinded study is to compare the effects of prophylactic bolus norepinephrine and phenylephrine on hypotension during spinal anesthesia for cesarean section. The adverse effects and effects on heart rate and cardiac output were evaluated. We also measured Apgar scores and umbilical cord blood pH to evaluate the effect of these two vasopressor drugs on neonatal outcome.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The primary aim of this randomized, doubleblinded study is to compare the effects of prophylactic bolus norepinephrine and phenylephrine on hypotension during spinal anesthesia for cesarean section.",
+            "The adverse effects and effects on heart rate and cardiac output were evaluated.",
+            "We also measured Apgar scores and umbilical cord blood pH to evaluate the effect of these two vasopressor drugs on neonatal outcome."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "This prospective, randomized, double-blinded, parallel-group study enrolled 132 patients. Patients were evaluated at the day before surgery by an anesthesiologist. The inclusion criteria were: ASA (American Society of Anesthesiologists) physical status 1 to 2, singleton term pregnancy, and scheduled for elective cesarean section under spinal anesthesia. Exclusion criteria were: age less than 18 year, height less than 150 cm or more than 180 cm, weight less than 50 kg or more than 100 kg, contraindications to spinal anesthesia, allergy to drugs used in the study, preeclampsia, placenta praevia, diabetes mellitus, hypertension, or cardiovascular disease. Approval for this study was obtained from the Ethic committee of Qianfoshan Hospital, Shandong University, Shandong, China. Written informed consent was obtained from all subjects.",
+        "section": "Patient and randomization",
+        "section_number": 4,
+        "sentences": [
+            "This prospective, randomized, double-blinded, parallel-group study enrolled 132 patients.",
+            "Patients were evaluated at the day before surgery by an anesthesiologist.",
+            "The inclusion criteria were: ASA (American Society of Anesthesiologists) physical status 1 to 2, singleton term pregnancy, and scheduled for elective cesarean section under spinal anesthesia.",
+            "Exclusion criteria were: age less than 18 year, height less than 150 cm or more than 180 cm, weight less than 50 kg or more than 100 kg, contraindications to spinal anesthesia, allergy to drugs used in the study, preeclampsia, placenta praevia, diabetes mellitus, hypertension, or cardiovascular disease.",
+            "Approval for this study was obtained from the Ethic committee of Qianfoshan Hospital, Shandong University, Shandong, China.",
+            "Written informed consent was obtained from all subjects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Patients were fasted for at least 8 hours and had no premedication. Patients were in the supine position with left lateral tilt on the operating table, and they were monitored by electrocardiogram, automated noninvasive arterial blood pressure monitors, and pulse oximetry. An 18-gauge intravenous cannula connected to a three-way stopcock was placed in a forearm vein, but no prehydration. Baseline arterial blood pressure was defined as the mean of three consecutive readings at 1-minute intervals with differences less than 10%. The mean heart rates (HR) at these times were defined as baseline HRs. Baseline cardiac output (CO) was defined as mean of three noninvasive suprasternal Doppler measurements. The mean values of three measurements were defined as the baseline value. All measurements were made by the same experienced operator who was blinded to group assignment.",
+        "section": "Baseline measurement",
+        "section_number": 5,
+        "sentences": [
+            "Patients were fasted for at least 8 hours and had no premedication.",
+            "Patients were in the supine position with left lateral tilt on the operating table, and they were monitored by electrocardiogram, automated noninvasive arterial blood pressure monitors, and pulse oximetry.",
+            "An 18-gauge intravenous cannula connected to a three-way stopcock was placed in a forearm vein, but no prehydration.",
+            "Baseline arterial blood pressure was defined as the mean of three consecutive readings at 1-minute intervals with differences less than 10%.",
+            "The mean heart rates (HR) at these times were defined as baseline HRs.",
+            "Baseline cardiac output (CO) was defined as mean of three noninvasive suprasternal Doppler measurements.",
+            "The mean values of three measurements were defined as the baseline value.",
+            "All measurements were made by the same experienced operator who was blinded to group assignment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "All the patients underwent a combined spinalepidural anesthesia using a needle-throughneedle set in the right lateral position at the estimated L2-L3 or L3-L4 vertebral interspace. When free-flowing cerebrospinal fluid was observed, 0.5% isobaric ropivacaine (15 mg) (Astra Zeneca Pharmaceuticals, Sweden) was injected intrathecally. After intrathecal injection, an epidural catheter was inserted 5 cm into the epidural space and fixed after confirming the absence of cerebrospinal fluid or blood. No drug was injected into the epidural catheter at this time. At the start of intrathecal injection, 10 mL/kg of Ringer's lactate solution was performed rapidly.",
+        "section": "Spinal-epidural anesthesia",
+        "section_number": 6,
+        "sentences": [
+            "All the patients underwent a combined spinalepidural anesthesia using a needle-throughneedle set in the right lateral position at the estimated L2-L3 or L3-L4 vertebral interspace.",
+            "When free-flowing cerebrospinal fluid was observed, 0.5% isobaric ropivacaine (15 mg) (Astra Zeneca Pharmaceuticals, Sweden) was injected intrathecally.",
+            "After intrathecal injection, an epidural catheter was inserted 5 cm into the epidural space and fixed after confirming the absence of cerebrospinal fluid or blood.",
+            "No drug was injected into the epidural catheter at this time.",
+            "At the start of intrathecal injection, 10 mL/kg of Ringer's lactate solution was performed rapidly."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "After the block, the patient was placed in the supine position with standard left lateral tilt until delivery of the baby. Success of spinal anesthesia was defined as a bilateral T6 sensory level to pinprick within 10 min of intrathecal injection. The failure of spinal anesthesia was recorded when a T6 sensory level was not obtained within 10 min. Patients with failure of spinal anesthesia were excluded from the study. If the failure was recorded, 5 ml increments of 2% lidocaine were administered through the epidural catheter every 5 min until block height attained T6 level.",
+        "section": "Spinal-epidural anesthesia",
+        "section_number": 7,
+        "sentences": [
+            "After the block, the patient was placed in the supine position with standard left lateral tilt until delivery of the baby.",
+            "Success of spinal anesthesia was defined as a bilateral T6 sensory level to pinprick within 10 min of intrathecal injection.",
+            "The failure of spinal anesthesia was recorded when a T6 sensory level was not obtained within 10 min.",
+            "Patients with failure of spinal anesthesia were excluded from the study.",
+            "If the failure was recorded, 5 ml increments of 2% lidocaine were administered through the epidural catheter every 5 min until block height attained T6 level."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "When spinal anesthesia was finished, all the patients were randomized into norepinephrine group and phenylephrine group. Patients in the norepinephrine group received an i.v. bolus of norepinephrine 10 \u03bcg (10 \u03bcg/ml) and those in the phenylephrine group received an i.v. bolus of phenylephrine 50 \u03bcg (50 \u03bcg/ml). All the drugs were prepared by dilution in 5% dextrose solution. Randomization was performed according to computer-generated codes contained in opaque, sealed and sequentially-numbered envelopes. The anesthesiologist, patients, operator and midwives involved in the study were blinded to the patient grouping. The doses of phenylephrine and norepinephrine were chosen empirically, based on our clinical experience.",
+        "section": "Prophylactic bolus treatment and patient grouping",
+        "section_number": 8,
+        "sentences": [
+            "When spinal anesthesia was finished, all the patients were randomized into norepinephrine group and phenylephrine group.",
+            "Patients in the norepinephrine group received an i.v.",
+            "bolus of norepinephrine 10 \u03bcg (10 \u03bcg/ml) and those in the phenylephrine group received an i.v.",
+            "bolus of phenylephrine 50 \u03bcg (50 \u03bcg/ml).",
+            "All the drugs were prepared by dilution in 5% dextrose solution.",
+            "Randomization was performed according to computer-generated codes contained in opaque, sealed and sequentially-numbered envelopes.",
+            "The anesthesiologist, patients, operator and midwives involved in the study were blinded to the patient grouping.",
+            "The doses of phenylephrine and norepinephrine were chosen empirically, based on our clinical experience."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "46891",
+        "text": "The noninvasive blood pressure and HR were measured at 1 min intervals and the CO level was measured at 5 min intervals until delivery from the time of finishing intrathecal injection. The incidences of hypotension (defined as systolic blood pressure (SBP) < 80% of baseline), hypertension (defined as SBP > 120% of baseline), bradycardia (defined as HR < 60 beats/ min), nausea and vomiting were recorded.",
+        "section": "Measurements and outcomes",
+        "section_number": 9,
+        "sentences": [
+            "The noninvasive blood pressure and HR were measured at 1 min intervals and the CO level was measured at 5 min intervals until delivery from the time of finishing intrathecal injection.",
+            "The incidences of hypotension (defined as systolic blood pressure (SBP) < 80% of baseline), hypertension (defined as SBP > 120% of baseline), bradycardia (defined as HR < 60 beats/ min), nausea and vomiting were recorded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "If SBP < 80% of baseline, the patient was treated with the same rescue doses of the same vasopressors until hypotension resolved. If one drug showed no effect on the hypotension for two administrations, an alternative vasopressor was used. If HR decreased to less than 55 beats/min, 0.5 mg atropine was administered.",
+        "section": "Measurements and outcomes",
+        "section_number": 10,
+        "sentences": [
+            "If SBP < 80% of baseline, the patient was treated with the same rescue doses of the same vasopressors until hypotension resolved.",
+            "If one drug showed no effect on the hypotension for two administrations, an alternative vasopressor was used.",
+            "If HR decreased to less than 55 beats/min, 0.5 mg atropine was administered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "The time points of spinal anaesthesia, surgical incision, delivery, and any technical problems during surgery were recorded. The attending midwife assessed Apgar scores at 1 and 5 min after delivery. Neonatal birth weight, umbilical arterial blood gas values and umbilical venous blood gas values were measured.",
+        "section": "Measurements and outcomes",
+        "section_number": 11,
+        "sentences": [
+            "The time points of spinal anaesthesia, surgical incision, delivery, and any technical problems during surgery were recorded.",
+            "The attending midwife assessed Apgar scores at 1 and 5 min after delivery.",
+            "Neonatal birth weight, umbilical arterial blood gas values and umbilical venous blood gas values were measured."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Statistical analysis was performed using IBM SPSS Statistics version 22 (IBM SPSS Inc., USA) and Microsoft Excel 2010 (Microsoft Corporation, USA). Parametric data are presented The patient flow diagram is illustrated in Figure 1 . One hundred and thirty-two patients were enrolled in the study. Six were excluded due to failure of spinal anesthesia. Finally, there were 62 patients included in the norepinephrine group and 64 patients included in the phenylephrine group. Patient characteristics and surgical times are shown in Table 1 . There was no difference between groups in patient characteristics and surgical times.",
+        "section": "Statistical analysis",
+        "section_number": 12,
+        "sentences": [
+            "Statistical analysis was performed using IBM SPSS Statistics version 22 (IBM SPSS Inc., USA) and Microsoft Excel 2010 (Microsoft Corporation, USA).",
+            "Parametric data are presented The patient flow diagram is illustrated in Figure 1 .",
+            "One hundred and thirty-two patients were enrolled in the study.",
+            "Six were excluded due to failure of spinal anesthesia.",
+            "Finally, there were 62 patients included in the norepinephrine group and 64 patients included in the phenylephrine group.",
+            "Patient characteristics and surgical times are shown in Table 1 .",
+            "There was no difference between groups in patient characteristics and surgical times."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "To determine the effects of norepinephrine and phenylephrine on SBP, HR, and CO, their values were recorded after spinal anesthesia and were compared. As shown in Figure 2A , there were no significant differences in SBP over time. However, HR at 2 and 4 min after spinal anesthesia were significantly higher in the norepinephrine group compared with those in the phenylephrine group (P < 0.05) ( Figure 2B ). CO at 5 min was significantly greater in the norepinephrine group than that in the phenylephrine group (P < 0.05) ( Figure 2C ). These results indicate that norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has greater CO compared with phenylephrine.",
+        "section": "Effects of norepinephrine and phenylephrine on SBP, HR, and CO",
+        "section_number": 13,
+        "sentences": [
+            "To determine the effects of norepinephrine and phenylephrine on SBP, HR, and CO, their values were recorded after spinal anesthesia and were compared.",
+            "As shown in Figure 2A , there were no significant differences in SBP over time.",
+            "However, HR at 2 and 4 min after spinal anesthesia were significantly higher in the norepinephrine group compared with those in the phenylephrine group (P < 0.05) ( Figure 2B ).",
+            "CO at 5 min was significantly greater in the norepinephrine group than that in the phenylephrine group (P < 0.05) ( Figure 2C ).",
+            "These results indicate that norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has greater CO compared with phenylephrine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "The effects of norepinephrine and phenylephrine on neonatal outcomes were further analyzed and are summarized in Table 2 . One neo- as mean values \u00b1 standard deviation (SD) and non-parametric data as medians (range), as appropriate. Univariate intergroup comparisons were conducted using the unpaired Student t test or the Mann-Whitney U test.",
+        "section": "Comparison of norepinephrine and phenylephrine on neonatal outcomes",
+        "section_number": 14,
+        "sentences": [
+            "The effects of norepinephrine and phenylephrine on neonatal outcomes were further analyzed and are summarized in Table 2 .",
+            "One neo- as mean values \u00b1 standard deviation (SD) and non-parametric data as medians (range), as appropriate.",
+            "Univariate intergroup comparisons were conducted using the unpaired Student t test or the Mann-Whitney U test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Nominal data were compared using the chi-square test or the Fisher exact test.",
+        "section": "Comparison of norepinephrine and phenylephrine on neonatal outcomes",
+        "section_number": 15,
+        "sentences": [
+            "Nominal data were compared using the chi-square test or the Fisher exact test."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "P values < 0.05 were considered statistically significant. nate had an Apgar score of 8 at 1 min in the phenylephrine group, whereas the rest had Apgar scores of 9. All neonates had Apgar scores of 9 at 5 min. No neonate in either group had an Apgar score of less than 8. Umbilical arterial blood samples could not be obtained from one patient in the norepinephrine group and two in the phenylephrine group. Umbilical arterial blood gases could not be measured for two patients in the norepinephrine group. No neonate had UA pH less than 7.2. There was no significant difference between the two groups in the neonatal outcomes.",
+        "section": "Comparison of norepinephrine and phenylephrine on neonatal outcomes",
+        "section_number": 16,
+        "sentences": [
+            "P values < 0.05 were considered statistically significant.",
+            "nate had an Apgar score of 8 at 1 min in the phenylephrine group, whereas the rest had Apgar scores of 9.",
+            "All neonates had Apgar scores of 9 at 5 min.",
+            "No neonate in either group had an Apgar score of less than 8.",
+            "Umbilical arterial blood samples could not be obtained from one patient in the norepinephrine group and two in the phenylephrine group.",
+            "Umbilical arterial blood gases could not be measured for two patients in the norepinephrine group.",
+            "No neonate had UA pH less than 7.2.",
+            "There was no significant difference between the two groups in the neonatal outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Adverse effects of norepinephrine and phenylephrine are summarized in Table 3 . The incidence of bradycardia (defined as HR less than 60 beats/min) was significantly lower in the norepinephrine group compared with that in the phenylephrine group (2% vs. 13%, P < 0.05).",
+        "section": "Adverse effects",
+        "section_number": 17,
+        "sentences": [
+            "Adverse effects of norepinephrine and phenylephrine are summarized in Table 3 .",
+            "The incidence of bradycardia (defined as HR less than 60 beats/min) was significantly lower in the norepinephrine group compared with that in the phenylephrine group (2% vs. 13%, P < 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Five patients had HR less than 55 beats/min and needed atropine 0.5 mg administration in the phenylephrine group. The incidences of nausea in the norepinephrine group and the phenylephrine group showed no statistically significant differences (3% vs. 5%, P = 0.68). No patient had vomiting. These results indicate that norepinephrine has less adverse effects on HR compared with phenylephrine during caesarean section.",
+        "section": "Adverse effects",
+        "section_number": 18,
+        "sentences": [
+            "Five patients had HR less than 55 beats/min and needed atropine 0.5 mg administration in the phenylephrine group.",
+            "The incidences of nausea in the norepinephrine group and the phenylephrine group showed no statistically significant differences (3% vs. 5%, P = 0.68).",
+            "No patient had vomiting.",
+            "These results indicate that norepinephrine has less adverse effects on HR compared with phenylephrine during caesarean section."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "The results of our study suggest that norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on HR and greater CO compared with phenylephrine during caesarean section.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "The results of our study suggest that norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on HR and greater CO compared with phenylephrine during caesarean section."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Use of vasopressors for the prevention and treatment of spinal hypotension has been a key research area within the field of obstetric anesthesia in recent years [5] . The ideal vasopressor has the features of inexpensive, easily available, quick in onset, reliable, favorably affecting maternal HR, and minimizing detrimental effects upon the fetus and placental perfusion [6] . Until fairly recently, phenylephrine became the first-line vasopressor for the prevention and treatment of spinal hypotension. Phenylephrine is highly effective for preventing hypotension and, most importantly, the associated unpleasant maternal symptoms [7] [8] [9] . Use of phenylephrine results in higher fetal pH compared with ephedrine [10, 11] . In the clinical practice, we have found that phenylephrine could cause reflex bradycardia, which required atropine treatment. Moreover, phenylephrine is not effective in some patients, and we have to choose other vasopressors to treat spinal hypotension.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "Use of vasopressors for the prevention and treatment of spinal hypotension has been a key research area within the field of obstetric anesthesia in recent years [5] .",
+            "The ideal vasopressor has the features of inexpensive, easily available, quick in onset, reliable, favorably affecting maternal HR, and minimizing detrimental effects upon the fetus and placental perfusion [6] .",
+            "Until fairly recently, phenylephrine became the first-line vasopressor for the prevention and treatment of spinal hypotension.",
+            "Phenylephrine is highly effective for preventing hypotension and, most importantly, the associated unpleasant maternal symptoms [7] [8] [9] .",
+            "Use of phenylephrine results in higher fetal pH compared with ephedrine [10, 11] .",
+            "In the clinical practice, we have found that phenylephrine could cause reflex bradycardia, which required atropine treatment.",
+            "Moreover, phenylephrine is not effective in some patients, and we have to choose other vasopressors to treat spinal hypotension."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "More recent studies suggest that in fluidreplete parturients, spinal hypotension is primarily driven by a decrease in sympathetic tone in the arterial system and not by a reduction in central venous pressure due to increased venous capacitance [12] . Studies using minimally invasive cardiac output monitors have demonstrated marked reduction in systemic dycardia compared with phenylephrine group. Consistently, in the present study, the incidence of bradycardia in norepinephrine group was 2%, significantly lower than that in the phenylephrine group (13%). These results indicate that norepinephrine is better than phenylephrine at reducing the incidence of bradycardia.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "More recent studies suggest that in fluidreplete parturients, spinal hypotension is primarily driven by a decrease in sympathetic tone in the arterial system and not by a reduction in central venous pressure due to increased venous capacitance [12] .",
+            "Studies using minimally invasive cardiac output monitors have demonstrated marked reduction in systemic dycardia compared with phenylephrine group.",
+            "Consistently, in the present study, the incidence of bradycardia in norepinephrine group was 2%, significantly lower than that in the phenylephrine group (13%).",
+            "These results indicate that norepinephrine is better than phenylephrine at reducing the incidence of bradycardia."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Neonatal outcome showed no significant difference between the two groups. Nausea and vomiting are common symptom of hypotension in the setting of neuraxial anesthesia. There was no significant difference between two groups. This data suggest that the adverse effects of norepinephrine are similar to those of phenylephrine.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Neonatal outcome showed no significant difference between the two groups.",
+            "Nausea and vomiting are common symptom of hypotension in the setting of neuraxial anesthesia.",
+            "There was no significant difference between two groups.",
+            "This data suggest that the adverse effects of norepinephrine are similar to those of phenylephrine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "In the study of continuous invasive blood pressure and CO monitoring during caesarean section [13] , the hemodynamic curves showed an approximately 30% decrease in systemic vas- vascular resistance and a modest increase in cardiac output, heart rate, and stroke volume after induction of spinal anesthesia [13, 14] . These studies suggest \u03b1-agonist vasopressors are the most reliable method for preventing and treating spinal hypotension during cesarean delivery. Norepinephrine, which has a strong \u03b1-adrenergic effect and only a mild \u03b2-adrenergic effect, is often used to treat anesthesia-induced vasodilatation by increasing systemic vascular resistance [4] . In our study, the CO and HR were greater in patients treated with norepinephrine compared with those treated with phenylephrine. This benefit may be induced by the mild \u03b2-adrenergic effect of norepinephrine.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "In the study of continuous invasive blood pressure and CO monitoring during caesarean section [13] , the hemodynamic curves showed an approximately 30% decrease in systemic vas- vascular resistance and a modest increase in cardiac output, heart rate, and stroke volume after induction of spinal anesthesia [13, 14] .",
+            "These studies suggest \u03b1-agonist vasopressors are the most reliable method for preventing and treating spinal hypotension during cesarean delivery.",
+            "Norepinephrine, which has a strong \u03b1-adrenergic effect and only a mild \u03b2-adrenergic effect, is often used to treat anesthesia-induced vasodilatation by increasing systemic vascular resistance [4] .",
+            "In our study, the CO and HR were greater in patients treated with norepinephrine compared with those treated with phenylephrine.",
+            "This benefit may be induced by the mild \u03b2-adrenergic effect of norepinephrine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Bradycardia after spinal anesthesia is another recognized risk of spinal anesthesia in the use of phenylephrine, in addition to hypotension. The use of phenylephrine would compound the potential bradycardia. Anusorntanawat R et al. [3] reported that norepinephrine group had the lower incidence of bra-cular resistance in the first 3 min after spinal anesthesia and a concomitant increase in CO with a peak effect approximately 3 min after spinal anesthesia. HR showed a trend of rise to decline. To prevent the immediate hemodynamic changes, the prophylactic vasopressors were administered simultaneously after the intrathecal injection in our study. Increasing the SVR as soon as possible may be a better approach to reduce hemodynamic instability.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Bradycardia after spinal anesthesia is another recognized risk of spinal anesthesia in the use of phenylephrine, in addition to hypotension.",
+            "The use of phenylephrine would compound the potential bradycardia.",
+            "Anusorntanawat R et al. [3] reported that norepinephrine group had the lower incidence of bra-cular resistance in the first 3 min after spinal anesthesia and a concomitant increase in CO with a peak effect approximately 3 min after spinal anesthesia.",
+            "HR showed a trend of rise to decline.",
+            "To prevent the immediate hemodynamic changes, the prophylactic vasopressors were administered simultaneously after the intrathecal injection in our study.",
+            "Increasing the SVR as soon as possible may be a better approach to reduce hemodynamic instability."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Compared to bupivacaine, the proposed advantage of spinal ropivacaine is less, because there are less cardiotoxicity and greater motorsensory block differentiation, resulting in less motor block [15] [16] [17] . Knudsen reported that ropivacaine did not have a marked effect on the cardiovascular system, which may be related to its partial vasoconstrictor effect [18] .",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Compared to bupivacaine, the proposed advantage of spinal ropivacaine is less, because there are less cardiotoxicity and greater motorsensory block differentiation, resulting in less motor block [15] [16] [17] .",
+            "Knudsen reported that ropivacaine did not have a marked effect on the cardiovascular system, which may be related to its partial vasoconstrictor effect [18] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Ropivacaine is also expected to lead to less cephalad spread than bupivacaine in similar doses [19, 20] . Isobaric solutions may have potential advantages (less hypotension and nausea) over hyperbaric solutions, which could be a result of a more gradual spinal block onset that associated with hypobaric solutions [21, 22] . We chose 0.5% isobaric ropivacaine (15 mg) without the addition of an opioid for the intrathecal local anesthetic. Our ropivacaine dose is similar to the 50% effective dose described by others [23] [24] [25] . Further work is required to compare different concentrations, baricity, and doses of ropivacaine on hypotension during spinal anesthesia for cesarean section.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Ropivacaine is also expected to lead to less cephalad spread than bupivacaine in similar doses [19, 20] .",
+            "Isobaric solutions may have potential advantages (less hypotension and nausea) over hyperbaric solutions, which could be a result of a more gradual spinal block onset that associated with hypobaric solutions [21, 22] .",
+            "We chose 0.5% isobaric ropivacaine (15 mg) without the addition of an opioid for the intrathecal local anesthetic.",
+            "Our ropivacaine dose is similar to the 50% effective dose described by others [23] [24] [25] .",
+            "Further work is required to compare different concentrations, baricity, and doses of ropivacaine on hypotension during spinal anesthesia for cesarean section."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "In our study, both vasopressor drugs were administered by bolus alone. This administration does not require an infusion pump, so it is easy to perform and clinically practice. Most clinicians favor the intermittent boluses of vasopressors rather than infusions [26] . The similar study by Ngan Kee et al. used a closedloop computer-controlled system developed by themselves to infuse the vasopressors [12] . However, this technology is for research purposes, and currently not a recommendation or commercially available for clinical practice. Further work is required to determine the efficacy of norepinephrine given by manually controlled infusion in obstetric patients.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "In our study, both vasopressor drugs were administered by bolus alone.",
+            "This administration does not require an infusion pump, so it is easy to perform and clinically practice.",
+            "Most clinicians favor the intermittent boluses of vasopressors rather than infusions [26] .",
+            "The similar study by Ngan Kee et al. used a closedloop computer-controlled system developed by themselves to infuse the vasopressors [12] .",
+            "However, this technology is for research purposes, and currently not a recommendation or commercially available for clinical practice.",
+            "Further work is required to determine the efficacy of norepinephrine given by manually controlled infusion in obstetric patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "Hypotension is a principal side effect of spinal anesthesia for cesarean section. Reducing the dose of intrathecal local anesthetic will improve hemodynamic stability. Studies have extensively focused on measures to prevent and treat hypotension. We should take more efforts to intrathecal local anesthetic and anesthetic technique, such as the dose, volume, concentration of local anesthetic and the speed of administration, which can influence the incidence of hypotension. Ideal intrathecal anesthesia for cesarean section is characterized by localized effect, minimal impact on motor function, low doses, minimal maternal and fetal side effects, and reversibility [27] . For the elective cesarean section, combined spinal-epidural anesthesia offers benefits of both spinal and epidural techniques with fewer disadvantages. This technique allows the rapid onset of a dense reliable block while allowing the block time or height to be extended with use of the epidural catheter. Future studies are warranted to search for better ways to reduce the incidence of hypotension.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Hypotension is a principal side effect of spinal anesthesia for cesarean section.",
+            "Reducing the dose of intrathecal local anesthetic will improve hemodynamic stability.",
+            "Studies have extensively focused on measures to prevent and treat hypotension.",
+            "We should take more efforts to intrathecal local anesthetic and anesthetic technique, such as the dose, volume, concentration of local anesthetic and the speed of administration, which can influence the incidence of hypotension.",
+            "Ideal intrathecal anesthesia for cesarean section is characterized by localized effect, minimal impact on motor function, low doses, minimal maternal and fetal side effects, and reversibility [27] .",
+            "For the elective cesarean section, combined spinal-epidural anesthesia offers benefits of both spinal and epidural techniques with fewer disadvantages.",
+            "This technique allows the rapid onset of a dense reliable block while allowing the block time or height to be extended with use of the epidural catheter.",
+            "Future studies are warranted to search for better ways to reduce the incidence of hypotension."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "In summary, norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on HR and greater CO compared with phenylephrine during caesarean section. Further work is needed to confirm the safety and efficacy of norepinephrine in obstetric patients.",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "In summary, norepinephrine is as effective as phenylephrine in preventing spinal hypotension but has less adverse effects on HR and greater CO compared with phenylephrine during caesarean section.",
+            "Further work is needed to confirm the safety and efficacy of norepinephrine in obstetric patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46891",
+        "text": "None.",
+        "section": "Disclosure of conflict of interest",
+        "section_number": 30,
+        "sentences": [
+            "None."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

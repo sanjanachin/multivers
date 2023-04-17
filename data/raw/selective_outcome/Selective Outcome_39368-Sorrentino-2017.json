@@ -1,0 +1,835 @@
+[
+    {
+        "doc_id": "39368",
+        "text": "Background: The heel stick is the method of choice in most neonatal units for capillary blood sampling, and it represents the most common event among all painful procedures performed on newborns. The type and design of heel stick device and the clinical procedure to collect a blood sample may have an impact on newborn pain response as well. Objective: To compare the pain response and efficiency of different automated devices for capillary blood collection in newborns. Design: Randomized clinical trial. Setting: Postnatal ward of a tertiary-care university hospital in Italy. Participants: Newborn infants at gestational age \u226534 weeks undergoing the metabolic screening test after the 49th hour of life. Methods: A total of 762 neonates were recruited and randomized into 6 groups (127 babies in each group) assigned to 6 different capillary blood collection devices (Ames Minilet\u2122 Lancet; Cardinal Health Gentleheel \u00ae ; Natus Medical NeatNick\u2122; BD Quikheel\u2122 Lancet; Vitrex Steriheel \u00ae Baby Lancet; Accriva Diagnostics Tenderfoot \u00ae). Main outcome measures: The following data were collected and assessed for each of the 6 groups evaluated: a) number of heel sticks, b) pain score according to the Neonatal Infant Pain Scale (NIPS) and c) need to squeeze the heel. Results: The Ames Minilet\u2122 Lancet device was found to perform by far the worst compared to the five device underexamination: it required the highest number of sticks (mean = 3.91; 95% CI: 3.46-4.36), evoked the most intense pain (mean = 3.98; 95% CI: 3.77-4.20), and most frequently necessitated squeezing the heel (92.9%; 95% CI: 86.9-96.3). The five devices under examination appeared to be similar in terms of the number of sticks required, but differed slightly in NIPS score and in need to squeeze the heel. Conclusion: The Accriva Diagnostics Tenderfoot \u00ae device demonstrated the greatest efficiency for blood sampling and evoked the least pain. With this device, the metabolic screening test could be performed with a single skin incision in the large majority of infants (98.4%), heel squeezing was limited to only 6.3% of infants, and the NIPS score turns out to be lower than other devices in our study (1.22; 95% CI 1.05-1.39). What is already known about the topic? \u2022 Heel stick is a painful procedure commonly used for capillary blood collection in neonates. \u2022 Automatic incision devices have been shown to be less traumatic and more effective than manual lancet-type devices.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: The heel stick is the method of choice in most neonatal units for capillary blood sampling, and it represents the most common event among all painful procedures performed on newborns.",
+            "The type and design of heel stick device and the clinical procedure to collect a blood sample may have an impact on newborn pain response as well.",
+            "Objective: To compare the pain response and efficiency of different automated devices for capillary blood collection in newborns.",
+            "Design: Randomized clinical trial.",
+            "Setting: Postnatal ward of a tertiary-care university hospital in Italy.",
+            "Participants: Newborn infants at gestational age \u226534 weeks undergoing the metabolic screening test after the 49th hour of life.",
+            "Methods: A total of 762 neonates were recruited and randomized into 6 groups (127 babies in each group) assigned to 6 different capillary blood collection devices (Ames Minilet\u2122 Lancet; Cardinal Health Gentleheel \u00ae ; Natus Medical NeatNick\u2122; BD Quikheel\u2122 Lancet; Vitrex Steriheel \u00ae Baby Lancet; Accriva Diagnostics Tenderfoot \u00ae).",
+            "Main outcome measures: The following data were collected and assessed for each of the 6 groups evaluated: a) number of heel sticks, b) pain score according to the Neonatal Infant Pain Scale (NIPS) and c) need to squeeze the heel.",
+            "Results: The Ames Minilet\u2122 Lancet device was found to perform by far the worst compared to the five device underexamination: it required the highest number of sticks (mean = 3.91; 95% CI: 3.46-4.36), evoked the most intense pain (mean = 3.98; 95% CI: 3.77-4.20), and most frequently necessitated squeezing the heel (92.9%; 95% CI: 86.9-96.3).",
+            "The five devices under examination appeared to be similar in terms of the number of sticks required, but differed slightly in NIPS score and in need to squeeze the heel.",
+            "Conclusion: The Accriva Diagnostics Tenderfoot \u00ae device demonstrated the greatest efficiency for blood sampling and evoked the least pain.",
+            "With this device, the metabolic screening test could be performed with a single skin incision in the large majority of infants (98.4%), heel squeezing was limited to only 6.3% of infants, and the NIPS score turns out to be lower than other devices in our study (1.22; 95% CI 1.05-1.39).",
+            "What is already known about the topic? \u2022",
+            "Heel stick is a painful procedure commonly used for capillary blood collection in neonates. \u2022",
+            "Automatic incision devices have been shown to be less traumatic and more effective than manual lancet-type devices."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "A heel stick is the most commonly used procedure for capillary blood sampling in neonates, particularly for metabolic screening tests performed within the first hours of life in all newborn infants (Balk, 2007; Losacco et al., 2011; Shah and Ohlsson, 2011) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "A heel stick is the most commonly used procedure for capillary blood sampling in neonates, particularly for metabolic screening tests performed within the first hours of life in all newborn infants (Balk, 2007; Losacco et al., 2011; Shah and Ohlsson, 2011) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Although universally accepted as standard blood collection technique, a heel stick is not without its consequences. Infants undergoing a heel stick experience pain that has been associated with the breakage of the skin, squeezing of the heel and bruising, and the short-term complication of infection (Lindh et al., 1999; Shepherd et al., 2006; Onesimo et al., 2011; Koklu et al., 2013) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Although universally accepted as standard blood collection technique, a heel stick is not without its consequences.",
+            "Infants undergoing a heel stick experience pain that has been associated with the breakage of the skin, squeezing of the heel and bruising, and the short-term complication of infection (Lindh et al., 1999; Shepherd et al., 2006; Onesimo et al., 2011; Koklu et al., 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Although evidence suggests the use of venipuncture for blood sampling in neonates (Shah and Ohlsson, 2011) , heel stick still constitutes the method of choice in most neonatal units and represents the most common painful event among all procedures performed on newborns (Carbajal et al., 2008; Cruz et al., 2016) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Although evidence suggests the use of venipuncture for blood sampling in neonates (Shah and Ohlsson, 2011) , heel stick still constitutes the method of choice in most neonatal units and represents the most common painful event among all procedures performed on newborns (Carbajal et al., 2008; Cruz et al., 2016) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The rationale for the widespread use of heel stick in newborns is associated mainly with their limited arterial and venous patrimony, thus limiting the use of venipuncture; performing a heel prick is an easy procedure that can be conducted by one nurse working alone, which represents a common situation in many neonatal wards.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The rationale for the widespread use of heel stick in newborns is associated mainly with their limited arterial and venous patrimony, thus limiting the use of venipuncture; performing a heel prick is an easy procedure that can be conducted by one nurse working alone, which represents a common situation in many neonatal wards."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Pain-related stress in neonates, particularly in preterm infants, has been associated with possible long-lasting detrimental effects on brain organization and neuroendocrine responses to stress (Grunau et al., 2005; Smith et al., 2011; Grunau, 2013; Vinall and Grunau, 2014) . Sophisticated magnetic resonance studies in preterm babies at school age demonstrated an association between pain exposure and microstructural changes in the developing brain (Brummelte et al., 2012) . In addition, epigenetic changes have been reported in preterm babies exposed to high levels of pain-related stress during the neonatal period (Provenzi et al., 2015; Montirosso et al., 2016) . Pharmacological as well as non-pharmacological strategies are highly recommended to prevent and control pain in newborn infants (Hall and Anand, 2014 ; Committee on Fetus and Newborn and Section on Anesthesiology and Pain Medicine, 2016).",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Pain-related stress in neonates, particularly in preterm infants, has been associated with possible long-lasting detrimental effects on brain organization and neuroendocrine responses to stress (Grunau et al., 2005; Smith et al., 2011; Grunau, 2013; Vinall and Grunau, 2014) .",
+            "Sophisticated magnetic resonance studies in preterm babies at school age demonstrated an association between pain exposure and microstructural changes in the developing brain (Brummelte et al., 2012) .",
+            "In addition, epigenetic changes have been reported in preterm babies exposed to high levels of pain-related stress during the neonatal period (Provenzi et al., 2015; Montirosso et al., 2016) .",
+            "Pharmacological as well as non-pharmacological strategies are highly recommended to prevent and control pain in newborn infants (Hall and Anand, 2014 ; Committee on Fetus and Newborn and Section on Anesthesiology and Pain Medicine, 2016)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Non-pharmacological approaches, including breastfeeding, oral glucose, skin to skin contact, and wrapping with warm drapes, have been shown to be effective in pain control with a synergic effect (Aguilar Cordero et al., 2014; Morrow et al., 2010) . To prevent or reduce the pain experienced in the context of a heel stick, nonpharmacological approaches have been incorporated into clinical practice.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "Non-pharmacological approaches, including breastfeeding, oral glucose, skin to skin contact, and wrapping with warm drapes, have been shown to be effective in pain control with a synergic effect (Aguilar Cordero et al., 2014; Morrow et al., 2010) .",
+            "To prevent or reduce the pain experienced in the context of a heel stick, nonpharmacological approaches have been incorporated into clinical practice."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The primary painful aspects associated with heel stick consist of skin breakage, squeezing of the heel and subsequent localized bruising of the sampling site. Factors such as the type and design of the heel stick device and the method to collect blood sample may have an impact on newborn pain response as well (Lindh et al., 1999; Shepherd et al., 2006; Cruz et al., 2016) . Techniques such as warming the heel prior to the stick have been shown to be ineffective in reducing the need for heel squeezing or the stress it creates (Barker et al., 1996; Janes et al., 2002) .",
+        "section": "Introduction",
+        "section_number": 7,
+        "sentences": [
+            "The primary painful aspects associated with heel stick consist of skin breakage, squeezing of the heel and subsequent localized bruising of the sampling site.",
+            "Factors such as the type and design of the heel stick device and the method to collect blood sample may have an impact on newborn pain response as well (Lindh et al., 1999; Shepherd et al., 2006; Cruz et al., 2016) .",
+            "Techniques such as warming the heel prior to the stick have been shown to be ineffective in reducing the need for heel squeezing or the stress it creates (Barker et al., 1996; Janes et al., 2002) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "previously published studies measured the distance between the skin and the perichondrium of the calcaneum by using ultrasound scanning in order to define the safe area for heel stick. Accepted practice dictates that the depth should be restricted to 2.2 mm or less to avoid complications (Arena et al., 2005) .",
+        "section": "Introduction",
+        "section_number": 8,
+        "sentences": [
+            "previously published studies measured the distance between the skin and the perichondrium of the calcaneum by using ultrasound scanning in order to define the safe area for heel stick.",
+            "Accepted practice dictates that the depth should be restricted to 2.2 mm or less to avoid complications (Arena et al., 2005) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Automatic devices are designed to penetrate the skin at a controlled, safe depth, exposing the vascular bed while avoiding contact with deep pain fibres, thus limiting tissue damage, pain, trauma and the need for heel squeezing (Barker et al., 1994; Kellam et al., 2001 ). Most published studies that have compared manual to automatic lancet devices are consistent in demonstrating a lower pain response with use of automatic devices (Barker et al., 1994; Kellam et al., 2001 Kellam et al., 2001 ). Moreover, Vertanen et al. (2001) demonstrated that the use of the automatic device was associated with reduced heel bruising and inflammation.",
+        "section": "Introduction",
+        "section_number": 9,
+        "sentences": [
+            "Automatic devices are designed to penetrate the skin at a controlled, safe depth, exposing the vascular bed while avoiding contact with deep pain fibres, thus limiting tissue damage, pain, trauma and the need for heel squeezing (Barker et al., 1994; Kellam et al., 2001 ).",
+            "Most published studies that have compared manual to automatic lancet devices are consistent in demonstrating a lower pain response with use of automatic devices (Barker et al., 1994; Kellam et al., 2001 Kellam et al., 2001 ).",
+            "Moreover, Vertanen et al. (2001) demonstrated that the use of the automatic device was associated with reduced heel bruising and inflammation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "A variety of automatic heel stick devices for capillary blood collection in newborns are commercially available. However, there are no published studies comparing these devices relative to their efficacy and evoked pain in newborn infants.",
+        "section": "Introduction",
+        "section_number": 10,
+        "sentences": [
+            "A variety of automatic heel stick devices for capillary blood collection in newborns are commercially available.",
+            "However, there are no published studies comparing these devices relative to their efficacy and evoked pain in newborn infants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "This study was designed to test the hypothesis that the efficiency of blood sampling and pain-control can be improved when a carefully selected heel stick device for neonates is adopted. With this objective, benefits and harms of different commercially available automatic heel stick devices were compared and assessed based on the number of repeated sticks required for the metabolic screening test, the need to squeeze the heel to obtain sufficient blood, and the pain response elicited during the procedure.",
+        "section": "Introduction",
+        "section_number": 11,
+        "sentences": [
+            "This study was designed to test the hypothesis that the efficiency of blood sampling and pain-control can be improved when a carefully selected heel stick device for neonates is adopted.",
+            "With this objective, benefits and harms of different commercially available automatic heel stick devices were compared and assessed based on the number of repeated sticks required for the metabolic screening test, the need to squeeze the heel to obtain sufficient blood, and the pain response elicited during the procedure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Furthermore, the possible influence of the professional profile and the nurse work shift have been considered in the outcome measurements.",
+        "section": "Introduction",
+        "section_number": 12,
+        "sentences": [
+            "Furthermore, the possible influence of the professional profile and the nurse work shift have been considered in the outcome measurements."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "This monocentric randomized clinical trial was carried out on 6 groups of newborn infants in the postnatal ward of a tertiary-care university hospital in Milan, Italy, that has approximately 7000 live births per year. The study was conducted after approval of the local Ethics Committee on 12th October 2012 (reference number: 338/ 2012).",
+        "section": "Study design",
+        "section_number": 13,
+        "sentences": [
+            "This monocentric randomized clinical trial was carried out on 6 groups of newborn infants in the postnatal ward of a tertiary-care university hospital in Milan, Italy, that has approximately 7000 live births per year.",
+            "The study was conducted after approval of the local Ethics Committee on 12th October 2012 (reference number: 338/ 2012)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "As reported in the study protocol, with the usual significance level of 0.05, 127 neonates per group were required to detect, with a power of 80%, a difference of at least 0.5 in the number of heel sticks needed to collect a sufficient blood sample between each of the five devices under evaluation (Cardinal Health Gentleheel \u00ae ; Natus Medical NeatNick\u2122; BD Quikheel\u2122 Lancet; Vitrex Steriheel \u00ae Baby Lancet; Accriva Diagnostics Tenderfoot \u00ae ) and the Ames Minilet\u2122 Lancet device routinely used by the caregivers in the clinical. The rationale for the selection of these five automated devices was the commercial availability of heel prick devices in Italy. We chose the more commonly used devices in the Italian postnatal wards as we wanted the study to be representative of the real-life setting of the neonatal units in Italy.",
+        "section": "Study design",
+        "section_number": 14,
+        "sentences": [
+            "As reported in the study protocol, with the usual significance level of 0.05, 127 neonates per group were required to detect, with a power of 80%, a difference of at least 0.5 in the number of heel sticks needed to collect a sufficient blood sample between each of the five devices under evaluation (Cardinal Health Gentleheel \u00ae ; Natus Medical NeatNick\u2122; BD Quikheel\u2122 Lancet; Vitrex Steriheel \u00ae Baby Lancet; Accriva Diagnostics Tenderfoot \u00ae ) and the Ames Minilet\u2122 Lancet device routinely used by the caregivers in the clinical.",
+            "The rationale for the selection of these five automated devices was the commercial availability of heel prick devices in Italy.",
+            "We chose the more commonly used devices in the Italian postnatal wards as we wanted the study to be representative of the real-life setting of the neonatal units in Italy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The sample size was computed to allow for the Dunnett's multiple comparison procedure (Dunnett, 1955) , using the PASS 2002 software (NCSS, Kaysville, UT, USA). The value of 0.5 was chosen as the minimum clinically important difference since it avoids a further heel stick to a neonate out of two. A standard deviation (SD) of the number of heel sticks of 0.77 was calculated based on previous data collected at the same investigation site using the Ames Minilet\u2122 Lancet device. Parents received the consent form at the time of neonatal ward admittance. Information was provided by either the principal investigator or the staff nurses, and signed parental informed consent was collected by staff nurses just before the metabolic screening test was performed.",
+        "section": "Study design",
+        "section_number": 15,
+        "sentences": [
+            "The sample size was computed to allow for the Dunnett's multiple comparison procedure (Dunnett, 1955) , using the PASS 2002 software (NCSS, Kaysville, UT, USA).",
+            "The value of 0.5 was chosen as the minimum clinically important difference since it avoids a further heel stick to a neonate out of two.",
+            "A standard deviation (SD) of the number of heel sticks of 0.77 was calculated based on previous data collected at the same investigation site using the Ames Minilet\u2122 Lancet device.",
+            "Parents received the consent form at the time of neonatal ward admittance.",
+            "Information was provided by either the principal investigator or the staff nurses, and signed parental informed consent was collected by staff nurses just before the metabolic screening test was performed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "All inborn infants with a gestational age \u226534 weeks and admitted to the neonatal ward, undergoing the metabolic screening test after the 49th hour of life, were eligible for study participation.",
+        "section": "Inclusion criteria",
+        "section_number": 16,
+        "sentences": [
+            "All inborn infants with a gestational age \u226534 weeks and admitted to the neonatal ward, undergoing the metabolic screening test after the 49th hour of life, were eligible for study participation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Participants were excluded from the study if they were admitted to the Neonatal Intensive Care Unit before the 49th hour of life and if they did not fulfill the inclusion criteria.",
+        "section": "Exclusion criteria",
+        "section_number": 17,
+        "sentences": [
+            "Participants were excluded from the study if they were admitted to the Neonatal Intensive Care Unit before the 49th hour of life and if they did not fulfill the inclusion criteria."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "A computer-generated randomization list was used to assign newborns to one of the six groups. This information was available only to the principal investigator. Infants were assigned a sequential, number that was placed in an opaque, sealed envelope by the nurse who received the signed parental informed consent. When the newborn was scheduled to undergo the metabolic screening test, the envelope was opened by the nurse who performed the test.",
+        "section": "Randomisation",
+        "section_number": 18,
+        "sentences": [
+            "A computer-generated randomization list was used to assign newborns to one of the six groups.",
+            "This information was available only to the principal investigator.",
+            "Infants were assigned a sequential, number that was placed in an opaque, sealed envelope by the nurse who received the signed parental informed consent.",
+            "When the newborn was scheduled to undergo the metabolic screening test, the envelope was opened by the nurse who performed the test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "All devices produce an automatic heel stick by employing a trigger and spring loaded mechanism that causes the blade to both cut the skin and self-retract into its housing to limit biohazard exposure. The mechanical designs of the different devices used are shown in Table 1 .",
+        "section": "Intervention",
+        "section_number": 19,
+        "sentences": [
+            "All devices produce an automatic heel stick by employing a trigger and spring loaded mechanism that causes the blade to both cut the skin and self-retract into its housing to limit biohazard exposure.",
+            "The mechanical designs of the different devices used are shown in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The heel sticks were performed in the neonatal ward according to the routine clinical protocol, which does not include warming the heel prior to obtaining a capillary blood sample. Non-pharmacological strategies for pain control were used according to the institutional protocol for procedural pain prevention in newborns, and all infants received 1 ml of oral 10% glucose two minutes before the heel stick procedure; another 1 ml of oral 10% glucose was administered in case a second stick was necessary; no infant received more than 2 ml of 10% glucose.",
+        "section": "Intervention",
+        "section_number": 20,
+        "sentences": [
+            "The heel sticks were performed in the neonatal ward according to the routine clinical protocol, which does not include warming the heel prior to obtaining a capillary blood sample.",
+            "Non-pharmacological strategies for pain control were used according to the institutional protocol for procedural pain prevention in newborns, and all infants received 1 ml of oral 10% glucose two minutes before the heel stick procedure; another 1 ml of oral 10% glucose was administered in case a second stick was necessary; no infant received more than 2 ml of 10% glucose."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "After blood sample collection, the following information was collected by the nurse performing the procedure in a predefined form:",
+        "section": "Data collection",
+        "section_number": 21,
+        "sentences": [
+            "After blood sample collection, the following information was collected by the nurse performing the procedure in a predefined form:"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "-Newborn demographic characteristics (gestational age, birth weight, postnatal age and body weight at the study time) -Nurse work shift during which the test was performed -Caregiver's professional profile (paediatric nurse or general staff nurse) -Type of device Outcome measurements",
+        "section": "Data collection",
+        "section_number": 22,
+        "sentences": [
+            "-Newborn demographic characteristics (gestational age, birth weight, postnatal age and body weight at the study time) -Nurse work shift during which the test was performed -Caregiver's professional profile (paediatric nurse or general staff nurse) -Type of device Outcome measurements"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "\u2022 Number of punctures performed to collect blood \u2022 NIPS score \u2022 The need to squeeze the heel (defined as pressure on the heel to increase blood flow) (Shepherd et al., 2006) .",
+        "section": "Data collection",
+        "section_number": 23,
+        "sentences": [
+            "\u2022 Number of punctures performed to collect blood \u2022 NIPS score \u2022 The need to squeeze the heel (defined as pressure on the heel to increase blood flow) (Shepherd et al., 2006) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Procedural pain associated with the entire blood collection procedure was measured using the validated Neonatal Infant Pain Scale (NIPS) assessing the following parameters: facial expression, cry, breathing patterns, arm and leg movement, and state of arousal (Lawrence et al., 1993) . A score was attributed to each behavioral indicator (from 0 to 1 except for cry, which was scored from 0 to 2) and a total pain score was calculated (ranging from 0 to 7): the lower the NIPS score the lower the pain response. A NIPS score \u22654 indicates moderate-to-severe pain (Marin Gabriel et al., 2013) .",
+        "section": "Data collection",
+        "section_number": 24,
+        "sentences": [
+            "Procedural pain associated with the entire blood collection procedure was measured using the validated Neonatal Infant Pain Scale (NIPS) assessing the following parameters: facial expression, cry, breathing patterns, arm and leg movement, and state of arousal (Lawrence et al., 1993) .",
+            "A score was attributed to each behavioral indicator (from 0 to 1 except for cry, which was scored from 0 to 2) and a total pain score was calculated (ranging from 0 to 7): the lower the NIPS score the lower the pain response.",
+            "A NIPS score \u22654 indicates moderate-to-severe pain (Marin Gabriel et al., 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Endpoints evaluated:",
+        "section": "Data collection",
+        "section_number": 25,
+        "sentences": [
+            "Endpoints evaluated:"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "\u2022 Number of punctures performed \u2022 NIPS score \u2022 Need to squeeze the heel",
+        "section": "Data collection",
+        "section_number": 26,
+        "sentences": [
+            "\u2022 Number of punctures performed \u2022 NIPS score \u2022 Need to squeeze the heel"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "For each heel stick device under evaluation, the mean and the 95% confidence interval for the three endpoints, 1) number of punctures, 2) NIPS score of pain and 3) need to squeeze the heel, were calculated and compared to the means of the control device Ames Minilet\u2122 Lancet with generalized linear models based on different distributions and link functions: 1) Poisson distribution with the logarithmic link function for the number of heel sticks, 2) Gaussian distribution with the identity link function for the NIPS score, and 3) binomial distribution with the logit link function for the need to squeeze the heel. For the NIPS score, the analysis was also performed with the logarithmic link function, since its distribution is moderately positively skewed. The above estimates and comparisons were performed without and with adjustment for some covariates that might affect the endpoints under study, including gestational age, birth weight, postnatal age and body weight at sample collection, nurse work shift at heel stick, and nurse's professional profile. The comparisons between the five devices under test and the control device were performed with the Dunnett's procedure (Dunnett, 1955) . The comparisons between the five devices under test were performed with the Tukey procedure (Tukey, 1949) .",
+        "section": "Statistical analysis",
+        "section_number": 27,
+        "sentences": [
+            "For each heel stick device under evaluation, the mean and the 95% confidence interval for the three endpoints, 1) number of punctures, 2) NIPS score of pain and 3) need to squeeze the heel, were calculated and compared to the means of the control device Ames Minilet\u2122 Lancet with generalized linear models based on different distributions and link functions: 1) Poisson distribution with the logarithmic link function for the number of heel sticks, 2) Gaussian distribution with the identity link function for the NIPS score, and 3) binomial distribution with the logit link function for the need to squeeze the heel.",
+            "For the NIPS score, the analysis was also performed with the logarithmic link function, since its distribution is moderately positively skewed.",
+            "The above estimates and comparisons were performed without and with adjustment for some covariates that might affect the endpoints under study, including gestational age, birth weight, postnatal age and body weight at sample collection, nurse work shift at heel stick, and nurse's professional profile.",
+            "The comparisons between the five devices under test and the control device were performed with the Dunnett's procedure (Dunnett, 1955) .",
+            "The comparisons between the five devices under test were performed with the Tukey procedure (Tukey, 1949) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The differences between the devices were evaluated according to the three criteria and estimated with generalized linear models based on different distributions and link functions: average number of attempts (Poisson distribution and logarithmic link function), NIPS score of pain (Gaussian distribution and identity link function), and need to squeeze the heel (logistic distribution and logit link function). The analysis was carried out with SAS software ver. 9.2 4 (SAS Institute, Inc. Cary, NC, USA).",
+        "section": "Statistical analysis",
+        "section_number": 28,
+        "sentences": [
+            "The differences between the devices were evaluated according to the three criteria and estimated with generalized linear models based on different distributions and link functions: average number of attempts (Poisson distribution and logarithmic link function), NIPS score of pain (Gaussian distribution and identity link function), and need to squeeze the heel (logistic distribution and logit link function).",
+            "The analysis was carried out with SAS software ver.",
+            "9.2 4 (SAS Institute, Inc. Cary, NC, USA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Seven-hundred and sixty-two neonates were enrolled during a fourteen-month period (June 2013-August 2014).",
+        "section": "Participants",
+        "section_number": 29,
+        "sentences": [
+            "Seven-hundred and sixty-two neonates were enrolled during a fourteen-month period (June 2013-August 2014)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "No significant differences among groups were observed in terms of gender, birth weight, gestational age, body weight and postnatal age at the study time (Table 2) .",
+        "section": "Participants",
+        "section_number": 30,
+        "sentences": [
+            "No significant differences among groups were observed in terms of gender, birth weight, gestational age, body weight and postnatal age at the study time (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The majority of blood collections were performed by paediatric nurses: from 78.7% in the Ames Minilet\u2122 Lancet and Accriva Diagnostics Tenderfoot \u00ae groups to 84.2% in the Vitrex Steriheel \u00ae Baby Lancet group. Almost all screening tests were performed during the morning shift: from 94.5% in the Natus Medical NeatNick\u2122 and Vitrex Steriheel \u00ae Baby Lancet groups to 99.2% in the Cardinal Health Gentleheel \u00ae group.",
+        "section": "Organizational factors",
+        "section_number": 31,
+        "sentences": [
+            "The majority of blood collections were performed by paediatric nurses: from 78.7% in the Ames Minilet\u2122 Lancet and Accriva Diagnostics Tenderfoot \u00ae groups to 84.2% in the Vitrex Steriheel \u00ae Baby Lancet group.",
+            "Almost all screening tests were performed during the morning shift: from 94.5% in the Natus Medical NeatNick\u2122 and Vitrex Steriheel \u00ae Baby Lancet groups to 99.2% in the Cardinal Health Gentleheel \u00ae group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "On average, the number of heel sticks needed to obtain the blood sample with the Ames Minilet\u2122 Lancet device (3.91) was greater than threefold that needed with all the other devices (1.02-1.27); the percentage of neonates subjected to a single stick was only 11.8% in the Ames Minilet\u2122, whereas all other devices ranged from 79.5 to 98.4%. The BD Quikheel Lancet device required the second highest number of repeated heel sticks at 2.65 (95% CI: 2.16-3.13), at least four times the anticipated minimum clinically important difference of 0.5. No significant difference was found between the remaining devices evaluated. The model that included all the covariates showed that the number of heel sticks per neonate made by general staff nurses was 1.6 times that made by paediatric nurses (p = 0.033). No other covariate showed significant effects.",
+        "section": "Number of punctures",
+        "section_number": 32,
+        "sentences": [
+            "On average, the number of heel sticks needed to obtain the blood sample with the Ames Minilet\u2122 Lancet device (3.91) was greater than threefold that needed with all the other devices (1.02-1.27); the percentage of neonates subjected to a single stick was only 11.8% in the Ames Minilet\u2122, whereas all other devices ranged from 79.5 to 98.4%.",
+            "The BD Quikheel Lancet device required the second highest number of repeated heel sticks at 2.65 (95% CI: 2.16-3.13), at least four times the anticipated minimum clinically important difference of 0.5.",
+            "No significant difference was found between the remaining devices evaluated.",
+            "The model that included all the covariates showed that the number of heel sticks per neonate made by general staff nurses was 1.6 times that made by paediatric nurses (p = 0.033).",
+            "No other covariate showed significant effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The NIPS score assessed by the nurse who performed the procedure was appreciably higher for the Ames Minilet\u2122 (3.98) than for the other devices (1.22-2.02). The average NIPS score recorded in the Accriva Diagnostics Tenderfoot \u00ae group was significantly lower than the scores recorded for the Quikheel\u2122 Lancet, Neatnick\u2122, Cardinal Health Gentleheel \u00ae groups by 0.80 (95% CI: 0.35-1.25), 0.52 (95% CI: 0.07-0.97) and 0.51 (95% CI: 0.05-0.95) units, respectively. The model that included all the covariates showed that, on average, the NIPS score was lower when the procedure and assessment were carried out by a general staff nurse (1.85) than by a paediatric nurse (2.14); the difference (0.28; 95% CI: 0.5-0.51) was statistically significant (p = 0.015). No other covariate showed significant effects.",
+        "section": "Pain response",
+        "section_number": 33,
+        "sentences": [
+            "The NIPS score assessed by the nurse who performed the procedure was appreciably higher for the Ames Minilet\u2122 (3.98) than for the other devices (1.22-2.02).",
+            "The average NIPS score recorded in the Accriva Diagnostics Tenderfoot \u00ae group was significantly lower than the scores recorded for the Quikheel\u2122 Lancet, Neatnick\u2122, Cardinal Health Gentleheel \u00ae groups by 0.80 (95% CI: 0.35-1.25), 0.52 (95% CI: 0.07-0.97) and 0.51 (95% CI: 0.05-0.95) units, respectively.",
+            "The model that included all the covariates showed that, on average, the NIPS score was lower when the procedure and assessment were carried out by a general staff nurse (1.85) than by a paediatric nurse (2.14); the difference (0.28; 95% CI: 0.5-0.51) was statistically significant (p = 0.015).",
+            "No other covariate showed significant effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The percentage of neonates subjected to heel squeezing was 3-15 times higher for the Ames Minilet\u2122 device (92.9%) than for the other devices (6.3-32.3%). For a neonate the odds of undergoing heel squeezing in the Tenderfoot \u00ae group was significantly lower than the odds observed in the Quikheel\u2122 Lancet group (OR (odds-ratio) = 0.14; 95% CI: 0.04-0.46) and Gentleheel \u00ae group (OR = 0.27; 95% CI: 0.08-0.93). The model that included all the covariates showed that general staff nurses resorted to heel squeezing more often than paediatric nurses (OR = 1.65; 95% CI: 1.02-2.66; p = 0.040). No other covariate showed significant effects. Fig. 1 presents, for each device, the means and the 95% confidence intervals (95% CI) for the number of heel sticks needed to obtain the blood sample (top), the NIPS score assessed by the nurse who performed the procedure (middle), and the number of neonates subjected to heel squeezing (bottom). The adjustment for possible confounders, such as gestational age, birth weight, postnatal age and body weight at sample collection, nurse work shift at heel stick, and nurse's professional profile affected the estimates to a negligible extent.",
+        "section": "Heel squeezing",
+        "section_number": 34,
+        "sentences": [
+            "The percentage of neonates subjected to heel squeezing was 3-15 times higher for the Ames Minilet\u2122 device (92.9%) than for the other devices (6.3-32.3%).",
+            "For a neonate the odds of undergoing heel squeezing in the Tenderfoot \u00ae group was significantly lower than the odds observed in the Quikheel\u2122 Lancet group (OR (odds-ratio) = 0.14; 95% CI: 0.04-0.46) and Gentleheel \u00ae group (OR = 0.27; 95% CI: 0.08-0.93).",
+            "The model that included all the covariates showed that general staff nurses resorted to heel squeezing more often than paediatric nurses (OR = 1.65; 95% CI: 1.02-2.66; p = 0.040).",
+            "No other covariate showed significant effects.",
+            "Fig. 1 presents, for each device, the means and the 95% confidence intervals (95% CI) for the number of heel sticks needed to obtain the blood sample (top), the NIPS score assessed by the nurse who performed the procedure (middle), and the number of neonates subjected to heel squeezing (bottom).",
+            "The adjustment for possible confounders, such as gestational age, birth weight, postnatal age and body weight at sample collection, nurse work shift at heel stick, and nurse's professional profile affected the estimates to a negligible extent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Our study demonstrates that pain response to heel sticks in term and late preterm infants is significantly associated with the type of device used.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "Our study demonstrates that pain response to heel sticks in term and late preterm infants is significantly associated with the type of device used."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The Ames Minilet\u2122 Lancet device was found to be the worst performer when compared to the five other devices tested. It required the highest number of sticks (mean = 3.91; 95% CI: 3.46-4.36), evoked the most intense pain in terms of NIPS (mean = 3.98; 95% CI: 3.77-4.20), and necessitated heel squeezing at the highest frequency (92.9%; 95% CI: 86.9-96.3).",
+        "section": "Endpoints evaluated",
+        "section_number": 36,
+        "sentences": [
+            "The Ames Minilet\u2122 Lancet device was found to be the worst performer when compared to the five other devices tested.",
+            "It required the highest number of sticks (mean = 3.91; 95% CI: 3.46-4.36), evoked the most intense pain in terms of NIPS (mean = 3.98; 95% CI: 3.77-4.20), and necessitated heel squeezing at the highest frequency (92.9%; 95% CI: 86.9-96.3)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The five other devices studied appeared to be similar in terms of the number of sticks required, but differed slightly in NIPS score and in the need to squeeze the heel.",
+        "section": "Endpoints evaluated",
+        "section_number": 37,
+        "sentences": [
+            "The five other devices studied appeared to be similar in terms of the number of sticks required, but differed slightly in NIPS score and in the need to squeeze the heel."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Accriva Diagnostics Tenderfoot \u00ae ranked higher than all the others, demonstrating the best performance in terms of the least evoked pain and greatest efficiency for blood sampling. Using this device, the metabolic screening test could be performed in the majority of infants (98.4%) with a single skin incision and the lowest need for heel squeezing, which was limited to only 6.3% of infants, resulting in the lowest NIPS score (1.22, 95% CI 1.05-1.39).",
+        "section": "Endpoints evaluated",
+        "section_number": 38,
+        "sentences": [
+            "Accriva Diagnostics Tenderfoot \u00ae ranked higher than all the others, demonstrating the best performance in terms of the least evoked pain and greatest efficiency for blood sampling.",
+            "Using this device, the metabolic screening test could be performed in the majority of infants (98.4%) with a single skin incision and the lowest need for heel squeezing, which was limited to only 6.3% of infants, resulting in the lowest NIPS score (1.22, 95% CI 1.05-1.39)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The recorded number of heel sticks required when using the Accriva Diagnostics Tenderfoot \u00ae was consistent with previously published data by Kellam et al. (2001) , who studied a small population (81 neonates).",
+        "section": "Endpoints evaluated",
+        "section_number": 39,
+        "sentences": [
+            "The recorded number of heel sticks required when using the Accriva Diagnostics Tenderfoot \u00ae was consistent with previously published data by Kellam et al. (2001) , who studied a small population (81 neonates)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Heel squeezing has been demonstrated to be the most stressful part of the capillary blood collection procedure, and this observation is supported by the association between the need for heel squeezing and a higher NIPS score in our population: 68.25% of newborns with a NIPS score \u22654 required heel squeezing (Lindh et al., 1999; Shepherd et al., 2006) .",
+        "section": "Endpoints evaluated",
+        "section_number": 40,
+        "sentences": [
+            "Heel squeezing has been demonstrated to be the most stressful part of the capillary blood collection procedure, and this observation is supported by the association between the need for heel squeezing and a higher NIPS score in our population: 68.25% of newborns with a NIPS score \u22654 required heel squeezing (Lindh et al., 1999; Shepherd et al., 2006) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "According to the literature, a total score \u22654 indicates moderate-tosevere procedural pain in neonates (Marin Gabriel et al., 2013) . Only 16.5% of the infants in our population scored \u22654 and the overwhelming majority (56.3%) belonged to Ames Minilet\u2122 group. The mean NIPS scores in the other groups were low, ranging between 1.2 and 1.7. However, considering the high number of skin punctures that sick neonates usually undergo in the NICU, it is advisable to use the device that causes the least amount of discomfort to the patient (Cruz et al., 2016; Vertanen et al., 2001) .",
+        "section": "Endpoints evaluated",
+        "section_number": 41,
+        "sentences": [
+            "According to the literature, a total score \u22654 indicates moderate-tosevere procedural pain in neonates (Marin Gabriel et al., 2013) .",
+            "Only 16.5% of the infants in our population scored \u22654 and the overwhelming majority (56.3%) belonged to Ames Minilet\u2122 group.",
+            "The mean NIPS scores in the other groups were low, ranging between 1.2 and 1.7.",
+            "However, considering the high number of skin punctures that sick neonates usually undergo in the NICU, it is advisable to use the device that causes the least amount of discomfort to the patient (Cruz et al., 2016; Vertanen et al., 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The reasons for differences in performances may be found in the mechanical characteristics of the devices (see Methods section).",
+        "section": "Endpoints evaluated",
+        "section_number": 42,
+        "sentences": [
+            "The reasons for differences in performances may be found in the mechanical characteristics of the devices (see Methods section)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The best blood volume characteristics were shown by devices that used an arc-like incision ( Table 1) . Devices that incise horizontally to a controlled depth are supposed to recruit a greater surface area across the capillary bed, enhancing blood flow and volume. This simultaneously reduces the risk of stimulating deep nerve endings that are associated with the pain response, yielding a low NIPS score (Barker et al., 1994; Kellam et al., 2001 ). Based on these observations, we can speculate that automated devices with an arc-like incision may represent the most appropriate devices for heel sticks in newborns.",
+        "section": "Endpoints evaluated",
+        "section_number": 43,
+        "sentences": [
+            "The best blood volume characteristics were shown by devices that used an arc-like incision ( Table 1) .",
+            "Devices that incise horizontally to a controlled depth are supposed to recruit a greater surface area across the capillary bed, enhancing blood flow and volume.",
+            "This simultaneously reduces the risk of stimulating deep nerve endings that are associated with the pain response, yielding a low NIPS score (Barker et al., 1994; Kellam et al., 2001 ).",
+            "Based on these observations, we can speculate that automated devices with an arc-like incision may represent the most appropriate devices for heel sticks in newborns."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Our results suggest that the professional profile affects the endpoints; in particular, paediatric nurses performed fewer heel sticks, squeezed the heel less often and recorded higher NIPS scores compared to general nurses. As expected, advanced education in the paediatric field results in higher professional skills with a direct impact on patient healthcare, but little data is available in the literature on this topic. Better trained nurses are also more likely to recognize signs of infant stress and pain, thus explaining the higher NIPS scores recorded by paediatric nurses (Glasper, 1995; Bradley, 2003) .",
+        "section": "Endpoints evaluated",
+        "section_number": 44,
+        "sentences": [
+            "Our results suggest that the professional profile affects the endpoints; in particular, paediatric nurses performed fewer heel sticks, squeezed the heel less often and recorded higher NIPS scores compared to general nurses.",
+            "As expected, advanced education in the paediatric field results in higher professional skills with a direct impact on patient healthcare, but little data is available in the literature on this topic.",
+            "Better trained nurses are also more likely to recognize signs of infant stress and pain, thus explaining the higher NIPS scores recorded by paediatric nurses (Glasper, 1995; Bradley, 2003) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "These observations support the need to include paediatric nurses among caregivers taking care of neonatal and paediatric patients in order to improve the quality of healthcare provided and enhance patient comfort.",
+        "section": "Endpoints evaluated",
+        "section_number": 45,
+        "sentences": [
+            "These observations support the need to include paediatric nurses among caregivers taking care of neonatal and paediatric patients in order to improve the quality of healthcare provided and enhance patient comfort."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The primary strengths of our investigation are the sample size and the characteristics of the studied population. The study was designed to investigate only newborn infants with a gestational age \u226534, thereby excluding very preterm infants. Because of our selected patient population, we were able to isolate our observations to avoid confounding factors when assessing the pain response to different heel stick devices. Very preterm infants are often exposed to repeated and different painful procedures, and their pain response is modulated by prematurity as well as by previous experiences (Fitzgerald, 2005; Ranger et al., 2007) .",
+        "section": "Strengths and limitations",
+        "section_number": 46,
+        "sentences": [
+            "The primary strengths of our investigation are the sample size and the characteristics of the studied population.",
+            "The study was designed to investigate only newborn infants with a gestational age \u226534, thereby excluding very preterm infants.",
+            "Because of our selected patient population, we were able to isolate our observations to avoid confounding factors when assessing the pain response to different heel stick devices.",
+            "Very preterm infants are often exposed to repeated and different painful procedures, and their pain response is modulated by prematurity as well as by previous experiences (Fitzgerald, 2005; Ranger et al., 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "We selected healthier babies at a defined postnatal age (> 48 h of life), and we standardized the volume of blood sampled, as required by the metabolic screening test. This study design permitted the investigation of the effect of different heel stick devices on pain response and on the efficiency of capillary blood sampling.",
+        "section": "Strengths and limitations",
+        "section_number": 47,
+        "sentences": [
+            "We selected healthier babies at a defined postnatal age (> 48 h of life), and we standardized the volume of blood sampled, as required by the metabolic screening test.",
+            "This study design permitted the investigation of the effect of different heel stick devices on pain response and on the efficiency of capillary blood sampling."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The Ames Minilet\u2122 device was currently used in our institution at the time of the study. This could have represented a positive bias in the results because caregivers were more familiar with its operation. However, this device showed the worst performance, which supports the hypothesis that results were not related to the skills of the end-user but solely to the functional properties of the devices.",
+        "section": "Strengths and limitations",
+        "section_number": 48,
+        "sentences": [
+            "The Ames Minilet\u2122 device was currently used in our institution at the time of the study.",
+            "This could have represented a positive bias in the results because caregivers were more familiar with its operation.",
+            "However, this device showed the worst performance, which supports the hypothesis that results were not related to the skills of the end-user but solely to the functional properties of the devices."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "A limitation of this study is that we did not include data on shortterm complications or the need to repeat the test due to erroneous laboratory results (Lindh et al., 1999; Shepherd et al., 2006; Onesimo et al., 2011; Koklu et al., 2013) . The majority of the metabolic tests were collected just before home discharge; consequently, complications of the heel stick could not be assessed by the staff involved in the study. Further studies should address the documentation of short-term complications and how they may impact pain related to the heel stick procedure.",
+        "section": "Strengths and limitations",
+        "section_number": 49,
+        "sentences": [
+            "A limitation of this study is that we did not include data on shortterm complications or the need to repeat the test due to erroneous laboratory results (Lindh et al., 1999; Shepherd et al., 2006; Onesimo et al., 2011; Koklu et al., 2013) .",
+            "The majority of the metabolic tests were collected just before home discharge; consequently, complications of the heel stick could not be assessed by the staff involved in the study.",
+            "Further studies should address the documentation of short-term complications and how they may impact pain related to the heel stick procedure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Other issues potentially limiting the study results are represented by the lack of blindness to the intervention, the limited number of devices studied, the intervention fidelity among nurses and the lack of reliability and validity estimates of NIPS in the current study.",
+        "section": "Strengths and limitations",
+        "section_number": 50,
+        "sentences": [
+            "Other issues potentially limiting the study results are represented by the lack of blindness to the intervention, the limited number of devices studied, the intervention fidelity among nurses and the lack of reliability and validity estimates of NIPS in the current study."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "We used commercially available devices that could not be masked for the sake of the study; the devices were therefore identifiable by nurses performing the study, but most of these devices have never been used before by the investigators, who were \"blind\" to their efficiency.",
+        "section": "Strengths and limitations",
+        "section_number": 51,
+        "sentences": [
+            "We used commercially available devices that could not be masked for the sake of the study; the devices were therefore identifiable by nurses performing the study, but most of these devices have never been used before by the investigators, who were \"blind\" to their efficiency."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "The number of devices studied was relatively limited because we decided to test the most commonly used devices in postnatal wards in order to provide new criteria for choosing the most efficient device for capillary blood collection in newborns among heel stick devices commonly available on the market.",
+        "section": "Strengths and limitations",
+        "section_number": 52,
+        "sentences": [
+            "The number of devices studied was relatively limited because we decided to test the most commonly used devices in postnatal wards in order to provide new criteria for choosing the most efficient device for capillary blood collection in newborns among heel stick devices commonly available on the market."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "To reduce variability in performing the procedure and assessing pain response, all the nurses involved in the study underwent a sixweek training period with a final evaluation, thus reducing the need to investigate the intervention fidelity among nurses.",
+        "section": "Strengths and limitations",
+        "section_number": 53,
+        "sentences": [
+            "To reduce variability in performing the procedure and assessing pain response, all the nurses involved in the study underwent a sixweek training period with a final evaluation, thus reducing the need to investigate the intervention fidelity among nurses."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "Finally, we used non-pharmacological strategies for pain control. However, all different strategies were used according to the institutional protocol for procedural pain prevention in newborns; the same protocol was applied to all newborns enrolled in the study in order to avoid potential bias that may have affected the results.",
+        "section": "Strengths and limitations",
+        "section_number": 54,
+        "sentences": [
+            "Finally, we used non-pharmacological strategies for pain control.",
+            "However, all different strategies were used according to the institutional protocol for procedural pain prevention in newborns; the same protocol was applied to all newborns enrolled in the study in order to avoid potential bias that may have affected the results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39368",
+        "text": "To the best of our knowledge, this is the first study to compare different automated devices in a very large population of newborn infants and to investigate clinically driven endpoints. We demonstrated that the use of an appropriate device can limit the need for heel squeezing, minimize repeated skin sticks and reduce the pain response in term and late preterm infants undergoing the metabolic screening test. There observations may have increased relevance if the same consideration is offered to the sickest infants, those requiring intensive care. The selection of the most appropriate heel stick device in this fragile population, who undergo numerous capillary blood collections procedures, may contribute to a reduction in the potential long-term adverse effects related to prolonged distress and repeated pain exposure in the neonatal period.",
+        "section": "Conclusions",
+        "section_number": 55,
+        "sentences": [
+            "To the best of our knowledge, this is the first study to compare different automated devices in a very large population of newborn infants and to investigate clinically driven endpoints.",
+            "We demonstrated that the use of an appropriate device can limit the need for heel squeezing, minimize repeated skin sticks and reduce the pain response in term and late preterm infants undergoing the metabolic screening test.",
+            "There observations may have increased relevance if the same consideration is offered to the sickest infants, those requiring intensive care.",
+            "The selection of the most appropriate heel stick device in this fragile population, who undergo numerous capillary blood collections procedures, may contribute to a reduction in the potential long-term adverse effects related to prolonged distress and repeated pain exposure in the neonatal period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

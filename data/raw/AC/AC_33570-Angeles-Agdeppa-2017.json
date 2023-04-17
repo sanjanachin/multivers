@@ -1,0 +1,817 @@
+[
+    {
+        "doc_id": "33570",
+        "text": "This study evaluated the effects of a multi-micronutrient fortified juice drink given in different frequencies of consumption on hemoglobin (Hb) concentration of schoolchildren. Hb was measured in 2423 schoolchildren aged 6-to 9-years-old at baseline. All anemic children (n = 246) were randomly allocated into groups: Daily dose (HD: high dose), 5X/week (MD: Moderate Dose), 3X/week (LD: Low Dose) and unfortified (Control). Pre-and post-study measurements of micronutrients were collected from 228 children. At the endpoint, significant Hb increases were observed in all groups, but there was no significant difference between groups. There was a significant reduction in anemia prevalence in all groups from 100% to 36% (Control), 30% (LD), 23% (MD) and 26% (HD). No dose-response effect was observed in Hb in this population. Most likely, this resulted from better than expected micronutrient status and lower than expected severity of anemia and micronutrient deficiencies in this cohort. It is unlikely that the addition of a fortified beverage to school feeding programs in this population would have a positive impact. Whether such an intervention would be cost-effective as a preventative approach needs to be assessed. This study demonstrates the importance of targeting such interventions to appropriate populations.",
+        "section": "Abstract",
+        "sentences": [
+            "This study evaluated the effects of a multi-micronutrient fortified juice drink given in different frequencies of consumption on hemoglobin (Hb) concentration of schoolchildren.",
+            "Hb was measured in 2423 schoolchildren aged 6-to 9-years-old at baseline.",
+            "All anemic children (n = 246) were randomly allocated into groups: Daily dose (HD: high dose), 5X/week (MD: Moderate Dose), 3X/week (LD: Low Dose) and unfortified (Control).",
+            "Pre-and post-study measurements of micronutrients were collected from 228 children.",
+            "At the endpoint, significant Hb increases were observed in all groups, but there was no significant difference between groups.",
+            "There was a significant reduction in anemia prevalence in all groups from 100% to 36% (Control), 30% (LD), 23% (MD) and 26% (HD).",
+            "No dose-response effect was observed in Hb in this population.",
+            "Most likely, this resulted from better than expected micronutrient status and lower than expected severity of anemia and micronutrient deficiencies in this cohort.",
+            "It is unlikely that the addition of a fortified beverage to school feeding programs in this population would have a positive impact.",
+            "Whether such an intervention would be cost-effective as a preventative approach needs to be assessed.",
+            "This study demonstrates the importance of targeting such interventions to appropriate populations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Nutritional anemia can be caused by different micronutrient deficiencies such as folate, riboflavin, vitamin A and cobalamin, but iron deficiency is the major contributor worldwide [1] . Iron deficiency is often caused by inadequate food intake and the presence of infections. In terms of the loss of healthy life expressed as disability-adjusted life years (DALYs), iron-deficiency anemia results in 25 million DALYs lost or 2.4% of the global total [2, 3] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Nutritional anemia can be caused by different micronutrient deficiencies such as folate, riboflavin, vitamin A and cobalamin, but iron deficiency is the major contributor worldwide [1] .",
+            "Iron deficiency is often caused by inadequate food intake and the presence of infections.",
+            "In terms of the loss of healthy life expressed as disability-adjusted life years (DALYs), iron-deficiency anemia results in 25 million DALYs lost or 2.4% of the global total [2, 3] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The prevalence of anemia in the Philippines is routinely monitored in national assessments [4] . Following the high prevalence of anemia observed in the 1998 assessments, the Philippine government passed the Food Fortification Law in 2000. The law requires mandatory fortification of staples like rice (with iron) and oil (with vitamin A) while voluntary fortification with iron, vitamin A or iodine was encouraged for processed foods. The National Food Authority (NFA) for rice, the Food and Drug Admisitration (FDA) for wheat flour, and the Philippine Coconut Authority (PCA) for cooking oil are the government agencies that are responsible for monitoring the implementation of fortification of staple foods. For processed products, the Department of Health (DOH) puts a seal of excellence (Sangkap Pinoy Seal) on food labels if the fortification level has reached 30% of the recommended requirement of the major micronutrients such as iron, vitamin A and iodine. The FDA is the overall monitoring agency for product registration. From the period of 2003 to 2008, the prevalence of anemia in children aged 6 to 12 years old decreased from 29% to 20% [4] . Despite this, anemia and iron deficiency remain problematic in certain population groups: 6 to 11 months (56%), pregnant women (42%), lactating women (31%), \u226560 years (32%). In the same 2008 nationwide Food Consumption Survey, only 8.8% of the households surveyed met the Estimated Average Requirement (EAR) for iron [4] . The current study was developed in 2013, the period when the National Survey was in progress; hence, prevalence data from 2008 was used as a reference.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The prevalence of anemia in the Philippines is routinely monitored in national assessments [4] .",
+            "Following the high prevalence of anemia observed in the 1998 assessments, the Philippine government passed the Food Fortification Law in 2000.",
+            "The law requires mandatory fortification of staples like rice (with iron) and oil (with vitamin A) while voluntary fortification with iron, vitamin A or iodine was encouraged for processed foods.",
+            "The National Food Authority (NFA) for rice, the Food and Drug Admisitration (FDA) for wheat flour, and the Philippine Coconut Authority (PCA) for cooking oil are the government agencies that are responsible for monitoring the implementation of fortification of staple foods.",
+            "For processed products, the Department of Health (DOH) puts a seal of excellence (Sangkap Pinoy Seal) on food labels if the fortification level has reached 30% of the recommended requirement of the major micronutrients such as iron, vitamin A and iodine.",
+            "The FDA is the overall monitoring agency for product registration.",
+            "From the period of 2003 to 2008, the prevalence of anemia in children aged 6 to 12 years old decreased from 29% to 20% [4] .",
+            "Despite this, anemia and iron deficiency remain problematic in certain population groups: 6 to 11 months (56%), pregnant women (42%), lactating women (31%), \u226560 years (32%).",
+            "In the same 2008 nationwide Food Consumption Survey, only 8.8% of the households surveyed met the Estimated Average Requirement (EAR) for iron [4] .",
+            "The current study was developed in 2013, the period when the National Survey was in progress; hence, prevalence data from 2008 was used as a reference."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Improved diets, affordable food fortification and supplementation programs integrated into carefully planned community, school and health initiatives directly improve nutrition and ameliorate the human and economic consequences of an undernourished population at its core [5] . Among food intervention programs, food fortification is highlighted as one of the most cost-effective health solutions to fight malnutrition among children and iron deficiency in women [6] [7] [8] . Our aim was to assess the addition of a multi-micronutrient fortified beverage to school feeding programs in order to inform cost-effective scale-up. We set out to evaluate the dose response effect of a multi-micronutrient, fortified juice drink at different daily intervals of consumption on Hb concentration and biomarkers of micronutrient status such as ferritin, retinol binding protein (RBP), zinc, and vitamins C and D of schoolchildren aged six to nine years old after 120 feeding days.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Improved diets, affordable food fortification and supplementation programs integrated into carefully planned community, school and health initiatives directly improve nutrition and ameliorate the human and economic consequences of an undernourished population at its core [5] .",
+            "Among food intervention programs, food fortification is highlighted as one of the most cost-effective health solutions to fight malnutrition among children and iron deficiency in women [6] [7] [8] .",
+            "Our aim was to assess the addition of a multi-micronutrient fortified beverage to school feeding programs in order to inform cost-effective scale-up.",
+            "We set out to evaluate the dose response effect of a multi-micronutrient, fortified juice drink at different daily intervals of consumption on Hb concentration and biomarkers of micronutrient status such as ferritin, retinol binding protein (RBP), zinc, and vitamins C and D of schoolchildren aged six to nine years old after 120 feeding days."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "To our knowledge, there are no studies that have assessed the lowest frequency of fortified juice drink consumption that has a significant effect on Hb concentration and micronutrient status. Understanding the optimal dosing and frequency is essential for ensuring a meaningful intervention under real-world conditions where costs need to be minimized and compliance varies.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "To our knowledge, there are no studies that have assessed the lowest frequency of fortified juice drink consumption that has a significant effect on Hb concentration and micronutrient status.",
+            "Understanding the optimal dosing and frequency is essential for ensuring a meaningful intervention under real-world conditions where costs need to be minimized and compliance varies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The study was conducted in 6 public elementary schools in 2 municipalities of Rizal province in the Philippines. The schools were selected because they are adjacent to each other and have similar socio-economic and environmental characteristics.",
+        "section": "Study Design and Sampling Size",
+        "section_number": 5,
+        "sentences": [
+            "The study was conducted in 6 public elementary schools in 2 municipalities of Rizal province in the Philippines.",
+            "The schools were selected because they are adjacent to each other and have similar socio-economic and environmental characteristics."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "All eligible children aged 6 to 9 years old were invited to participate in the study; however, only children with written parental consent were selected for screening. Children not suffering from any infections (diarrhea, fever, acute respiratory infections) or severe acute malnutrition during the time of examination and for the two weeks prior to the assessment period were further assessed for Hb concentration. Children found to be anemic with Hb > 70 g/L to < 120 g/L (altitude adjusted norm) [9] and with normal weight-for-age z-score (WAZ) less than \u22122 to +2 standard deviation [10] were included as participants in this study. Children with acute illnesses, severely underweight (WAZ \u2264 3 SD), profound anemia (Hb < 70 g/L), history of a blood disorder or malaria, currently taking vitamins and not willing to stop during the intervention, and participants in a nutrition program during the last 4 months were excluded, and children with acute illnesses or severe anemia were referred to the nearest health facility for management ( Figure 1 ). Thirty-five children per group were needed for this study. The sample size was calculated to detect a minimum change of 7 g/L in Hb concentration with an estimated SD of 9 g/L, a confidence interval of 95%, and a power of 90% to allow for a 30% attrition rate, the sample size was increased to 50 per group [11] [12] [13] . A total of 2423 eligible children were screened for anemia prior to the study. Those with anemia were randomly allocated into four groups in a double-masked, placebo-controlled manner. Each child received one color-coded box containing seven pouches of 200 mL unbranded foil pouch with the same color code per pack. The high dose (HD) group received fortified juice drink 7 days a week; the Moderate Dose (MD) group received 5 fortified and 2 unfortified juice drinks; the Low Dose (LD) group received 3 fortified and 4 unfortified juice drinks; and the Control group received only unfortified juice drink. Since 7 similar color coded pouches were contained in one box as the weekly allocation for each child, the researchers were blinded as to the day the unfortified juice was given in the LD and MD groups. Therefore, the exact spacing in which the fortified drink was consumed was unknown.",
+        "section": "Study Design and Sampling Size",
+        "section_number": 6,
+        "sentences": [
+            "All eligible children aged 6 to 9 years old were invited to participate in the study; however, only children with written parental consent were selected for screening.",
+            "Children not suffering from any infections (diarrhea, fever, acute respiratory infections) or severe acute malnutrition during the time of examination and for the two weeks prior to the assessment period were further assessed for Hb concentration.",
+            "Children found to be anemic with Hb > 70 g/L to < 120 g/L (altitude adjusted norm) [9] and with normal weight-for-age z-score (WAZ) less than \u22122 to +2 standard deviation [10] were included as participants in this study.",
+            "Children with acute illnesses, severely underweight (WAZ \u2264 3 SD), profound anemia (Hb < 70 g/L), history of a blood disorder or malaria, currently taking vitamins and not willing to stop during the intervention, and participants in a nutrition program during the last 4 months were excluded, and children with acute illnesses or severe anemia were referred to the nearest health facility for management ( Figure 1 ).",
+            "Thirty-five children per group were needed for this study.",
+            "The sample size was calculated to detect a minimum change of 7 g/L in Hb concentration with an estimated SD of 9 g/L, a confidence interval of 95%, and a power of 90% to allow for a 30% attrition rate, the sample size was increased to 50 per group [11] [12] [13] .",
+            "A total of 2423 eligible children were screened for anemia prior to the study.",
+            "Those with anemia were randomly allocated into four groups in a double-masked, placebo-controlled manner.",
+            "Each child received one color-coded box containing seven pouches of 200 mL unbranded foil pouch with the same color code per pack.",
+            "The high dose (HD) group received fortified juice drink 7 days a week; the Moderate Dose (MD) group received 5 fortified and 2 unfortified juice drinks; the Low Dose (LD) group received 3 fortified and 4 unfortified juice drinks; and the Control group received only unfortified juice drink.",
+            "Since 7 similar color coded pouches were contained in one box as the weekly allocation for each child, the researchers were blinded as to the day the unfortified juice was given in the LD and MD groups.",
+            "Therefore, the exact spacing in which the fortified drink was consumed was unknown."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The study product is a multi-micronutrient fortified juice drink, enriched with iron (in the form of ferrous gluconate), zinc, vitamin A, C, D and B-complex. (Table 1 ) An independent Expert Committee designed the study formulation, and nutrient analysis was verified by an external laboratory. A responsible person, not a member of the research team, directly supervised the packing and ensured that the correct number of pouches of fortified and/or unfortified juice drinks were in the box. The codes for each group were safeguarded until the end of the study. The juice drink was directly administered during the morning school break between 9:00 and 10:00 a.m., leaving about 2 h before the child's next food consumption as the children go home for lunch at 11:30 a.m. or 12:00 p.m. The juice drink was given with a locally-manufactured, non-whole grain, butter or cream-filled 30 g biscuit with less than 30 kcal. The juice drink and biscuits were given five days per week under a supervised regimen for 120 days (Figure 1 ). A total of 2423 eligible children were screened for anemia prior to the study. Those with anemia were randomly allocated into four groups in a double-masked, placebo-controlled manner. Each child received one color-coded box containing seven pouches of 200 mL unbranded foil pouch with the same color code per pack. The high dose (HD) group received fortified juice drink 7 days a week; the Moderate Dose (MD) group received 5 fortified and 2 unfortified juice drinks; the Low Dose (LD) group received 3 fortified and 4 unfortified juice drinks; and the Control group received only unfortified juice drink. Since 7 similar color coded pouches were contained in one box as the weekly allocation for each child, the researchers were blinded as to the day the unfortified juice was given in the LD and MD groups. Therefore, the exact spacing in which the fortified drink was consumed was unknown.",
+        "section": "Study Design and Sampling Size",
+        "section_number": 7,
+        "sentences": [
+            "The study product is a multi-micronutrient fortified juice drink, enriched with iron (in the form of ferrous gluconate), zinc, vitamin A, C, D and B-complex. (",
+            "Table 1 ) An independent Expert Committee designed the study formulation, and nutrient analysis was verified by an external laboratory.",
+            "A responsible person, not a member of the research team, directly supervised the packing and ensured that the correct number of pouches of fortified and/or unfortified juice drinks were in the box.",
+            "The codes for each group were safeguarded until the end of the study.",
+            "The juice drink was directly administered during the morning school break between 9:00 and 10:00 a.m., leaving about 2 h before the child's next food consumption as the children go home for lunch at 11:30 a.m. or 12:00 p.m. The juice drink was given with a locally-manufactured, non-whole grain, butter or cream-filled 30 g biscuit with less than 30 kcal.",
+            "The juice drink and biscuits were given five days per week under a supervised regimen for 120 days (Figure 1 ).",
+            "A total of 2423 eligible children were screened for anemia prior to the study.",
+            "Those with anemia were randomly allocated into four groups in a double-masked, placebo-controlled manner.",
+            "Each child received one color-coded box containing seven pouches of 200 mL unbranded foil pouch with the same color code per pack.",
+            "The high dose (HD) group received fortified juice drink 7 days a week; the Moderate Dose (MD) group received 5 fortified and 2 unfortified juice drinks; the Low Dose (LD) group received 3 fortified and 4 unfortified juice drinks; and the Control group received only unfortified juice drink.",
+            "Since 7 similar color coded pouches were contained in one box as the weekly allocation for each child, the researchers were blinded as to the day the unfortified juice was given in the LD and MD groups.",
+            "Therefore, the exact spacing in which the fortified drink was consumed was unknown."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The study product is a multi-micronutrient fortified juice drink, enriched with iron (in the form of ferrous gluconate), zinc, vitamin A, C, D and B-complex. (Table 1 ) An independent Expert Committee designed the study formulation, and nutrient analysis was verified by an external laboratory. A responsible person, not a member of the research team, directly supervised the packing and ensured that the correct number of pouches of fortified and/or unfortified juice drinks were in the box. The codes for each group were safeguarded until the end of the study. The juice drink was directly administered during the morning school break between 9:00 and 10:00 a.m., leaving about 2 h before the child's next food consumption as the children go home for lunch at 11:30 a.m. or 12:00 p.m. The juice drink was given with a locally-manufactured, non-whole grain, butter or cream-filled 30 g biscuit with less than 30 kcal. The juice drink and biscuits were given five days per week under a supervised regimen for 120 days (Figure 1 ). ",
+        "section": "Study Design and Sampling Size",
+        "section_number": 8,
+        "sentences": [
+            "The study product is a multi-micronutrient fortified juice drink, enriched with iron (in the form of ferrous gluconate), zinc, vitamin A, C, D and B-complex. (",
+            "Table 1 ) An independent Expert Committee designed the study formulation, and nutrient analysis was verified by an external laboratory.",
+            "A responsible person, not a member of the research team, directly supervised the packing and ensured that the correct number of pouches of fortified and/or unfortified juice drinks were in the box.",
+            "The codes for each group were safeguarded until the end of the study.",
+            "The juice drink was directly administered during the morning school break between 9:00 and 10:00 a.m., leaving about 2 h before the child's next food consumption as the children go home for lunch at 11:30 a.m. or 12:00 p.m. The juice drink was given with a locally-manufactured, non-whole grain, butter or cream-filled 30 g biscuit with less than 30 kcal.",
+            "The juice drink and biscuits were given five days per week under a supervised regimen for 120 days (Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The children were required to consume the entire serving throughout the duration of the study. If classes were suspended or the child was absent for a maximum of 3 successive days, juice allocation was resumed when the child returned to class. This child was then given 2 juice drinks and 2 biscuits per day taken early in the morning before his class starts and another pack was given before the child goes home until all the missing doses were consumed. If children were absent for more than three days and were counted as absent by the class teacher due to illness, a home visit was conducted to deliver the allocation. However, if the residence was far from the school, the field teams asked the parents to claim the child's allocation at the school and were instructed on how to administer the beverage. Continuous absence for two weeks constituted a drop-out and the child was dis-enrolled. The cause of absence or drop out, such as illness, was recorded in the Individual Case Report Form (ICRF).",
+        "section": "Monitoring of Intake",
+        "section_number": 9,
+        "sentences": [
+            "The children were required to consume the entire serving throughout the duration of the study.",
+            "If classes were suspended or the child was absent for a maximum of 3 successive days, juice allocation was resumed when the child returned to class.",
+            "This child was then given 2 juice drinks and 2 biscuits per day taken early in the morning before his class starts and another pack was given before the child goes home until all the missing doses were consumed.",
+            "If children were absent for more than three days and were counted as absent by the class teacher due to illness, a home visit was conducted to deliver the allocation.",
+            "However, if the residence was far from the school, the field teams asked the parents to claim the child's allocation at the school and were instructed on how to administer the beverage.",
+            "Continuous absence for two weeks constituted a drop-out and the child was dis-enrolled.",
+            "The cause of absence or drop out, such as illness, was recorded in the Individual Case Report Form (ICRF)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "A Manual of Operations and Instructions was developed to maintain standards during data collection, implementation, data organization and management. Face-to-face interviews were done by trained field teams to collect information on household socio-economic and demographic data and food intake. Household socio-economic and demographic data were obtained only at baseline while food intake was calculated at baseline, midpoint and endpoint by trained nutritionists using the 24-h food recall method on two non-consecutive days (weekday and weekend). The presence of the child during the interview helped to validate food intake outside the home [15] . Food intakes were translated into energy and nutrient values using the Individual Dietary Evaluation System (IDES) developed by the Department of Science and Technology-Food and Nutrition Research Institute (DOST-FNRI). Adequacy of intakes was computed as the percentage of actual nutrient intake to values published in the Recommended Nutrient Intake (RNI) of the PDRI [14].",
+        "section": "Measurements",
+        "section_number": 10,
+        "sentences": [
+            "A Manual of Operations and Instructions was developed to maintain standards during data collection, implementation, data organization and management.",
+            "Face-to-face interviews were done by trained field teams to collect information on household socio-economic and demographic data and food intake.",
+            "Household socio-economic and demographic data were obtained only at baseline while food intake was calculated at baseline, midpoint and endpoint by trained nutritionists using the 24-h food recall method on two non-consecutive days (weekday and weekend).",
+            "The presence of the child during the interview helped to validate food intake outside the home [15] .",
+            "Food intakes were translated into energy and nutrient values using the Individual Dietary Evaluation System (IDES) developed by the Department of Science and Technology-Food and Nutrition Research Institute (DOST-FNRI).",
+            "Adequacy of intakes was computed as the percentage of actual nutrient intake to values published in the Recommended Nutrient Intake (RNI) of the PDRI [14]."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Non-fasted blood samples were drawn in the morning between 7:00 a.m. and 11:30 a.m. Phlebotomy was done by trained medical technologists from DOST-FNRI in a clean room in the school facility to avoid environmental contamination [16] . Venous blood samples were collected using disposable 22-24 gauge syringes and transferred to trace element-free BD (Becton Dickinson) Vacutainer \u00ae (BD Company, Franklin Lakes, NJ, USA) PLUS Blood Collection Tubes. Approximately 5 mL of blood was collected from each child to measure hemoglobin concentration, serum transferrin receptor, serum ferritin, retinol binding protein (RBP), zinc and vitamin C and D levels. At the FNRI ISO Laboratory, Taguig City, Philippines, serum zinc was analyzed using a Flame Atomic Absorption spectrometer. The recommended cut-off for children below 10 years old is 9.9 \u00b5mol/L (65 \u00b5g/dL) [17] . Vitamin C was measured spectrophotometrically at 520 nm. Serum vitamin C concentration (mg AA/dL) was computed from the regression of absorbance vs. concentration of the standard [18] . In this study, a cut-off value of <0.20 \u00b5g/dL defines vitamin C deficiency [18] . Vitamin D was analyzed using electrochemiluminescence immunoassay (ECLIA) for quantification of serum 25 hydroxy vitamin D. In this study, deficiency is described as <75 nmol/L [19] .",
+        "section": "Measurements",
+        "section_number": 11,
+        "sentences": [
+            "Non-fasted blood samples were drawn in the morning between 7:00 a.m. and 11:30 a.m. Phlebotomy was done by trained medical technologists from DOST-FNRI in a clean room in the school facility to avoid environmental contamination [16] .",
+            "Venous blood samples were collected using disposable 22-24 gauge syringes and transferred to trace element-free BD (Becton Dickinson) Vacutainer \u00ae (BD Company, Franklin Lakes, NJ, USA) PLUS Blood Collection Tubes.",
+            "Approximately 5 mL of blood was collected from each child to measure hemoglobin concentration, serum transferrin receptor, serum ferritin, retinol binding protein (RBP), zinc and vitamin C and D levels.",
+            "At the FNRI ISO Laboratory, Taguig City, Philippines, serum zinc was analyzed using a Flame Atomic Absorption spectrometer.",
+            "The recommended cut-off for children below 10 years old is 9.9 \u00b5mol/L (65 \u00b5g/dL) [17] .",
+            "Vitamin C was measured spectrophotometrically at 520 nm.",
+            "Serum vitamin C concentration (mg AA/dL) was computed from the regression of absorbance vs. concentration of the standard [18] .",
+            "In this study, a cut-off value of <0.20 \u00b5g/dL defines vitamin C deficiency [18] .",
+            "Vitamin D was analyzed using electrochemiluminescence immunoassay (ECLIA) for quantification of serum 25 hydroxy vitamin D. In this study, deficiency is described as <75 nmol/L [19] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Serum samples were collected in a polyethylene micro-centrifuge tube separately for each analysis. All samples were transported in a cool box with wet ice to the FNRI Laboratory where these were stored immediately at \u221240 \u2022 C until analysis. All biochemical markers were analyzed at baseline and the end of the study except for hemoglobin, in which midpoint assessment was also accomplished.",
+        "section": "Measurements",
+        "section_number": 12,
+        "sentences": [
+            "Serum samples were collected in a polyethylene micro-centrifuge tube separately for each analysis.",
+            "All samples were transported in a cool box with wet ice to the FNRI Laboratory where these were stored immediately at \u221240 \u2022 C until analysis.",
+            "All biochemical markers were analyzed at baseline and the end of the study except for hemoglobin, in which midpoint assessment was also accomplished."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Hemoglobin concentration was measured for the 2423 children who were potential subjects. Those who were anemic were invited to participate in the intervention study. The Hb concentration at screening served as the baseline Hb. All Hb measurements (baseline, midpoint and endpoint) were performed in an ISO (International Standards Organization) accredited FNRI Biochemical laboratory using the cyanmethemoglobin method and accuracy was determined by measuring the hemoglobin concentration of control blood [20, 21] . In this study, hemoglobin cut-off points for anemia at sea level were used; hence, a hemoglobin concentration of >70 g/L to <120 g/L [9] was considered anemic.",
+        "section": "Measurements",
+        "section_number": 13,
+        "sentences": [
+            "Hemoglobin concentration was measured for the 2423 children who were potential subjects.",
+            "Those who were anemic were invited to participate in the intervention study.",
+            "The Hb concentration at screening served as the baseline Hb.",
+            "All Hb measurements (baseline, midpoint and endpoint) were performed in an ISO (International Standards Organization) accredited FNRI Biochemical laboratory using the cyanmethemoglobin method and accuracy was determined by measuring the hemoglobin concentration of control blood [20, 21] .",
+            "In this study, hemoglobin cut-off points for anemia at sea level were used; hence, a hemoglobin concentration of >70 g/L to <120 g/L [9] was considered anemic."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Remaining blood samples were centrifuged within 1-2 h after phlebotomy at 2500 to 3000 rpm for 15-20 min. Serum ferritin, serum transferrin receptor RBP, C-reactive protein (CRP) and alpha-1-acid glycoprotein (AGP) samples were packed under maximum quality control conditions for analysis using the Sandwich ELISA technique [22] at VitMin Laboratory in City, Germany. Serum ferritin < 30 \u00b5g/L indicated iron deficiency [9] ; serum transferrin receptors > 8.3 mg/L demonstrated low iron storage [23] . CRP values > 10 mg/L and AGP > 1 g/L [24] described the presence of acute and chronic infections, respectively. Using CRP and AGP, an adjustment to the ferritin values was made utilizing Thurnham's correction factor (CF) [23] .",
+        "section": "Measurements",
+        "section_number": 14,
+        "sentences": [
+            "Remaining blood samples were centrifuged within 1-2 h after phlebotomy at 2500 to 3000 rpm for 15-20 min.",
+            "Serum ferritin, serum transferrin receptor RBP, C-reactive protein (CRP) and alpha-1-acid glycoprotein (AGP) samples were packed under maximum quality control conditions for analysis using the Sandwich ELISA technique [22] at VitMin Laboratory in City, Germany.",
+            "Serum ferritin < 30 \u00b5g/L indicated iron deficiency [9] ; serum transferrin receptors > 8.3 mg/L demonstrated low iron storage [23] .",
+            "CRP values > 10 mg/L and AGP > 1 g/L [24] described the presence of acute and chronic infections, respectively.",
+            "Using CRP and AGP, an adjustment to the ferritin values was made utilizing Thurnham's correction factor (CF) [23] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The study was approved by the Food and Nutrition Research Institute Institutional Ethics Review Committee and was carried out in accordance with the Declaration of Helsinki, guided by the Council for International Organizations of Medical Sciences Ethical Guidelines for Biomedical Research Involving Human Subjects [25] and the National Guidelines for Biomedical/Behavioral Research [26] . The parents were clearly informed of the objectives, procedures, risks and benefit that their children may encounter by participation in the study. Individual signed parental Informed Consent Forms (ICF) was obtained.",
+        "section": "Ethical Considerations",
+        "section_number": 15,
+        "sentences": [
+            "The study was approved by the Food and Nutrition Research Institute Institutional Ethics Review Committee and was carried out in accordance with the Declaration of Helsinki, guided by the Council for International Organizations of Medical Sciences Ethical Guidelines for Biomedical Research Involving Human Subjects [25] and the National Guidelines for Biomedical/Behavioral Research [26] .",
+            "The parents were clearly informed of the objectives, procedures, risks and benefit that their children may encounter by participation in the study.",
+            "Individual signed parental Informed Consent Forms (ICF) was obtained."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Any adverse events (AE) and/or complaints experienced by the children based on self-report were recorded in a prescribed AE Form. As per protocol, any reported AE, such as abdominal pain, diarrhea or gastric irritation, was to be referred to the Study Physician. However, during the course of the study, no serious adverse events were reported.",
+        "section": "Ethical Considerations",
+        "section_number": 16,
+        "sentences": [
+            "Any adverse events (AE) and/or complaints experienced by the children based on self-report were recorded in a prescribed AE Form.",
+            "As per protocol, any reported AE, such as abdominal pain, diarrhea or gastric irritation, was to be referred to the Study Physician.",
+            "However, during the course of the study, no serious adverse events were reported."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Pearson's \u03c7 2 test was performed to determine if the demographic variables were associated with groups. For socio-economic characteristics, f -test using one-way analysis of variance (ANOVA) was done to determine the differences among groups; Pearson's \u03c7 2 test was used to determine the association between the socio-economic variable and groups.",
+        "section": "Statistical Analysis",
+        "section_number": 17,
+        "sentences": [
+            "Pearson's \u03c7 2 test was performed to determine if the demographic variables were associated with groups.",
+            "For socio-economic characteristics, f -test using one-way analysis of variance (ANOVA) was done to determine the differences among groups; Pearson's \u03c7 2 test was used to determine the association between the socio-economic variable and groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "For dietary assessment, means and standard errors were computed. An f -test using one-way ANOVA was used to test intergroup changes while a t-test using paired samples was done to test the intragroup changes. The variations in proportion of children meeting the RENI from baseline to endpoint were calculated for each nutrient and were tested using Pearson's \u03c7 2 test. To determine if the proportion of subjects not meeting the RNI of a micronutrient from baseline to endpoint remained significant, McNemar's test was used.",
+        "section": "Statistical Analysis",
+        "section_number": 18,
+        "sentences": [
+            "For dietary assessment, means and standard errors were computed.",
+            "An f -test using one-way ANOVA was used to test intergroup changes while a t-test using paired samples was done to test the intragroup changes.",
+            "The variations in proportion of children meeting the RENI from baseline to endpoint were calculated for each nutrient and were tested using Pearson's \u03c7 2 test.",
+            "To determine if the proportion of subjects not meeting the RNI of a micronutrient from baseline to endpoint remained significant, McNemar's test was used."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The means and standard error of nutritional biochemical markers were computed. First, we tested the normality of the data. f -test using one-way ANOVA was used to test the differences among groups while t-test using paired samples was done to test the differences between time periods. To test the difference within groups, we subtracted the endpoint from the baseline values and tested the mean intragroup difference by time periods using one-way ANOVA. An intragroup difference was done to determine the increase or decrease in individual biomarkers at different time periods when significant group-wise comparisons were observed. The association between the prevalence of deficiency and groups was determined using Pearson's \u03c7 2 test. To determine if the proportion of inadequate levels of biochemical markers from baseline to endpoint remained significant, McNemar's test was used. Adjustments were made for serum ferritin [27] and to account for the effect of inflammation.",
+        "section": "Statistical Analysis",
+        "section_number": 19,
+        "sentences": [
+            "The means and standard error of nutritional biochemical markers were computed.",
+            "First, we tested the normality of the data.",
+            "f -test using one-way ANOVA was used to test the differences among groups while t-test using paired samples was done to test the differences between time periods.",
+            "To test the difference within groups, we subtracted the endpoint from the baseline values and tested the mean intragroup difference by time periods using one-way ANOVA.",
+            "An intragroup difference was done to determine the increase or decrease in individual biomarkers at different time periods when significant group-wise comparisons were observed.",
+            "The association between the prevalence of deficiency and groups was determined using Pearson's \u03c7 2 test.",
+            "To determine if the proportion of inadequate levels of biochemical markers from baseline to endpoint remained significant, McNemar's test was used.",
+            "Adjustments were made for serum ferritin [27] and to account for the effect of inflammation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "A total of 246 or 10% of 2423 aged 6-to 9-year-old children were anemic and participated in this study (Figure 1 ). Only 228 (92.7%) had a complete data set available for analysis from baseline to endpoint. The total drop-out rate was similar across groups and was within the assumed 30% attrition rate [15, 16] . The reasons and number of children who dropped-out were: withdrawal by parents because of inability to come for feeding during holidays (n = 7); relocation to another area (n = 5); absence for 2 consecutive weeks (n = 4); and refusal for endpoint phlebotomy (n = 2). The mean hemoglobin at baseline, age and sex of drop-outs were not statistically different from the remaining subjects.",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "A total of 246 or 10% of 2423 aged 6-to 9-year-old children were anemic and participated in this study (Figure 1 ).",
+            "Only 228 (92.7%) had a complete data set available for analysis from baseline to endpoint.",
+            "The total drop-out rate was similar across groups and was within the assumed 30% attrition rate [15, 16] .",
+            "The reasons and number of children who dropped-out were: withdrawal by parents because of inability to come for feeding during holidays (n = 7); relocation to another area (n = 5); absence for 2 consecutive weeks (n = 4); and refusal for endpoint phlebotomy (n = 2).",
+            "The mean hemoglobin at baseline, age and sex of drop-outs were not statistically different from the remaining subjects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The mean age of the children was 7.32 years old, and the age and gender distributions were similar between groups. The mean monthly family income was approximately Php 14,000.00 ($300 U.S.) with mean daily food expenditure of Php 260.00 ($5.50 US) with an average household size of six persons. No significant differences between groups were found in mean monthly family income (p = 0.266), daily food expenditure (p = 0.201), mean age of the respondents (p = 0.325) and household size (p = 0.547). The percentage of families with > 3 earning family members was significantly higher in HD than in the Control (p < 0.05). The percentage of families that owned residential lots was higher in the Control group than in the HD; thus, the percentage of renting the residential lot is higher in HD than in the Control group (Table 2) .",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "The mean age of the children was 7.32 years old, and the age and gender distributions were similar between groups.",
+            "The mean monthly family income was approximately Php 14,000.00 ($300 U.S.) with mean daily food expenditure of Php 260.00 ($5.50 US) with an average household size of six persons.",
+            "No significant differences between groups were found in mean monthly family income (p = 0.266), daily food expenditure (p = 0.201), mean age of the respondents (p = 0.325) and household size (p = 0.547).",
+            "The percentage of families with > 3 earning family members was significantly higher in HD than in the Control (p < 0.05).",
+            "The percentage of families that owned residential lots was higher in the Control group than in the HD; thus, the percentage of renting the residential lot is higher in HD than in the Control group (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "At baseline, hemoglobin concentration of children ranged from 10.0 to 11.4 g/dL. Mean hemoglobin concentration was significantly lower in the control group (10.8 g/dL) than in the fortified groups (11.1 g/dL) at baseline. The clinical relevance of this difference is marginal in terms of anemia severity (i.e., all groups fell in the same category of mildly anemic). At endpoint, mean hemoglobin had significantly increased in all groups with the highest increase in HD of 1.0 g/dL. The prevalence of anemia, which was 100% at baseline by study design, significantly decreased in all groups with MD having the highest reduction (76.8%) followed by HD (74.1%) while the Control group had 64% and the LD 70%, but no significant intergroup changes were observed (Table 3) . Mean adjusted serum ferritin of the fortified groups increased from baseline to endpoint ranging from 2.2 \u00b5g/L both in LD and HD to 4.5 \u00b5g/L in MD, while Control increased by 3 \u00b5g/L. However, there were no significant differences between groups (p > 0.05). Serum transferrin receptor levels did not differ significantly among all groups at baseline and endpoint. Using both serum transferrin receptor (sTrf > 8.3 mg/L) and corrected serum ferritin (SF < 30 \u00b5g/L) as indicators of iron deficiency, only two children met this criteria (Control = 1; MD = 1) at baseline. Using adjusted serum ferritin level (SF < 30 \u00b5g/L) alone as the criterion, 16 children were iron deficient at baseline but utilizing SF < 15 as the cut-off, only 3 children were found to be iron deficient. At endpoint, only one child (from the MD group) remained iron deficient. Changes in the prevalence of iron deficiency as measured by serum ferritin, serum transferrin, and body iron stores, from baseline to endpoint were not significant between and within groups during the study. In addition, the prevalence of anemia and iron deficiency was not associated with the frequency of administration, which indicates that no dose response effect was observed (Table 3) . For other biomarkers, results showed that from baseline to endpoint, there was a significant increase in retinol binding protein (RBP) in all groups; vitamin D status improved in all except LD; vitamin C only improved in those groups consuming the fortified beverage; zinc status was only improved in MD (Table 4) . Dietary intakes at baseline showed that only the mean of the two-day intake of niacin was significantly different between groups with the control group having the lowest (10.2 mg), while HD had the highest intake (14.6 mg). Mean iron intake at baseline was similar in all groups. At endpoint, the mean iron intake in the control group remained similar to the baseline value (from 7 to 7.6 mg) while the fortified groups had significantly increased intakes with the HD having the highest increment (10.12 mg) of which 42% came from the juice drink. In other groups, LD increased by 8.95 mg and MD by 9.05 mg with about 23.1 mg and 35.4 mg contributed by the juice drink, respectively. Vitamin C intake increased significantly in all the fortified groups but not in the Control group. All groups consuming the fortified juice drink had a significantly increased proportion of children meeting the Estimated Average Requirement (EAR) for iron, vitamin C, thiamin, niacin and riboflavin as compared with baseline. The study feedings with iron contributed to 23% (LD), 35% (MD) and 42% (HD) of the intake for total iron intake, respectively. The fortified beverage was considered an important contributor to intake of essential micronutrients often lacking in the diet, including iron, thiamin, riboflavin, vitamin C, folate, potassium calcium and vitamin D. All groups consuming the fortified juices had a significantly increased proportion of children meeting the Estimated Average Requirement (EAR) for iron, vitamin C, thiamine, niacin and riboflavin from baseline. (Table 5 ) The total dietary intake could not be estimated for the other nutrients, as these data were not available per the existing food composition databases. Results on awareness of fortified food products or the Sangkap Pinoy Seal (SPS) showed that, among groups, more than half of the guardians (68%) were not aware of these products. The MD group had the highest percentage (69.6%). Among those who were aware, the HD group had the lowest percentage of guardians (80.0%) serving fortified foods to children. However, test for comparisons did not show a significant difference between groups. More than half of the guardians from the Control group (65%) stated that they serve these products because they \"make my child healthy\" while only 37.5% from the HD group did so. The source of fortified products was mainly from the grocery stores, but the control and LD groups also buy from public markets and village variety stores. children from whom a complete data set was collected from baseline to endpoint. The total dropout rate was similar across groups and was within the 8% assumed attrition rate. The characteristics of drop-outs including age, sex, and basal hemoglobin did not change the pooled values of the remaining subjects within their respective groups.",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "At baseline, hemoglobin concentration of children ranged from 10.0 to 11.4 g/dL. Mean hemoglobin concentration was significantly lower in the control group (10.8 g/dL) than in the fortified groups (11.1 g/dL) at baseline.",
+            "The clinical relevance of this difference is marginal in terms of anemia severity (i.e., all groups fell in the same category of mildly anemic).",
+            "At endpoint, mean hemoglobin had significantly increased in all groups with the highest increase in HD of 1.0 g/dL. The prevalence of anemia, which was 100% at baseline by study design, significantly decreased in all groups with MD having the highest reduction (76.8%) followed by HD (74.1%) while the Control group had 64% and the LD 70%, but no significant intergroup changes were observed (Table 3) .",
+            "Mean adjusted serum ferritin of the fortified groups increased from baseline to endpoint ranging from 2.2 \u00b5g/L both in LD and HD to 4.5 \u00b5g/L in MD, while Control increased by 3 \u00b5g/L. However, there were no significant differences between groups (p > 0.05).",
+            "Serum transferrin receptor levels did not differ significantly among all groups at baseline and endpoint.",
+            "Using both serum transferrin receptor (sTrf > 8.3 mg/L) and corrected serum ferritin (SF < 30 \u00b5g/L) as indicators of iron deficiency, only two children met this criteria (Control = 1; MD = 1) at baseline.",
+            "Using adjusted serum ferritin level (SF < 30 \u00b5g/L) alone as the criterion, 16 children were iron deficient at baseline but utilizing SF < 15 as the cut-off, only 3 children were found to be iron deficient.",
+            "At endpoint, only one child (from the MD group) remained iron deficient.",
+            "Changes in the prevalence of iron deficiency as measured by serum ferritin, serum transferrin, and body iron stores, from baseline to endpoint were not significant between and within groups during the study.",
+            "In addition, the prevalence of anemia and iron deficiency was not associated with the frequency of administration, which indicates that no dose response effect was observed (Table 3) .",
+            "For other biomarkers, results showed that from baseline to endpoint, there was a significant increase in retinol binding protein (RBP) in all groups; vitamin D status improved in all except LD; vitamin C only improved in those groups consuming the fortified beverage; zinc status was only improved in MD (Table 4) .",
+            "Dietary intakes at baseline showed that only the mean of the two-day intake of niacin was significantly different between groups with the control group having the lowest (10.2 mg), while HD had the highest intake (14.6 mg).",
+            "Mean iron intake at baseline was similar in all groups.",
+            "At endpoint, the mean iron intake in the control group remained similar to the baseline value (from 7 to 7.6 mg) while the fortified groups had significantly increased intakes with the HD having the highest increment (10.12 mg) of which 42% came from the juice drink.",
+            "In other groups, LD increased by 8.95 mg and MD by 9.05 mg with about 23.1 mg and 35.4 mg contributed by the juice drink, respectively.",
+            "Vitamin C intake increased significantly in all the fortified groups but not in the Control group.",
+            "All groups consuming the fortified juice drink had a significantly increased proportion of children meeting the Estimated Average Requirement (EAR) for iron, vitamin C, thiamin, niacin and riboflavin as compared with baseline.",
+            "The study feedings with iron contributed to 23% (LD), 35% (MD) and 42% (HD) of the intake for total iron intake, respectively.",
+            "The fortified beverage was considered an important contributor to intake of essential micronutrients often lacking in the diet, including iron, thiamin, riboflavin, vitamin C, folate, potassium calcium and vitamin D. All groups consuming the fortified juices had a significantly increased proportion of children meeting the Estimated Average Requirement (EAR) for iron, vitamin C, thiamine, niacin and riboflavin from baseline. (",
+            "Table 5 ) The total dietary intake could not be estimated for the other nutrients, as these data were not available per the existing food composition databases.",
+            "Results on awareness of fortified food products or the Sangkap Pinoy Seal (SPS) showed that, among groups, more than half of the guardians (68%) were not aware of these products.",
+            "The MD group had the highest percentage (69.6%).",
+            "Among those who were aware, the HD group had the lowest percentage of guardians (80.0%) serving fortified foods to children.",
+            "However, test for comparisons did not show a significant difference between groups.",
+            "More than half of the guardians from the Control group (65%) stated that they serve these products because they \"make my child healthy\" while only 37.5% from the HD group did so.",
+            "The source of fortified products was mainly from the grocery stores, but the control and LD groups also buy from public markets and village variety stores.",
+            "children from whom a complete data set was collected from baseline to endpoint.",
+            "The total dropout rate was similar across groups and was within the 8% assumed attrition rate.",
+            "The characteristics of drop-outs including age, sex, and basal hemoglobin did not change the pooled values of the remaining subjects within their respective groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The present study showed no significant hemoglobin differences in between group comparisons. Hemoglobin concentrations significantly increased in all groups including the Control group at endpoint (p < 0.001), but HD had the highest absolute mean increase in hemoglobin (10 g/L). Consequently, the percentage decline in the prevalence of anemia was similar in all groups 64% (Control), 70% (LD) 77% (MD) and 74% (HD). In addition, no significant difference between groups comparison in serum ferritin and serum transferrin receptors was observed at endpoint. For other biomarkers, from baseline to endpoint, there was a significant increase in retinol binding protein (RBP) in all groups; vitamin D status improved in all except LD; vitamin C only improved in those groups consuming the fortified beverage; zinc status was only improved in MD. Two relevant questions arise from these results: why was there an improvement in the prevalence of anemia in all groups, and why did we not see a dose-response effect from the intervention?",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "The present study showed no significant hemoglobin differences in between group comparisons.",
+            "Hemoglobin concentrations significantly increased in all groups including the Control group at endpoint (p < 0.001), but HD had the highest absolute mean increase in hemoglobin (10 g/L).",
+            "Consequently, the percentage decline in the prevalence of anemia was similar in all groups 64% (Control), 70% (LD) 77% (MD) and 74% (HD).",
+            "In addition, no significant difference between groups comparison in serum ferritin and serum transferrin receptors was observed at endpoint.",
+            "For other biomarkers, from baseline to endpoint, there was a significant increase in retinol binding protein (RBP) in all groups; vitamin D status improved in all except LD; vitamin C only improved in those groups consuming the fortified beverage; zinc status was only improved in MD.",
+            "Two relevant questions arise from these results: why was there an improvement in the prevalence of anemia in all groups, and why did we not see a dose-response effect from the intervention?"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The severity of anemia at baseline was mild in all groups. It is possible that this could be a seasonal trend. The baseline data was collected in July, a month after the one and a half month school break. Children might have increased their iron intake due to better maternal care.",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "The severity of anemia at baseline was mild in all groups.",
+            "It is possible that this could be a seasonal trend.",
+            "The baseline data was collected in July, a month after the one and a half month school break.",
+            "Children might have increased their iron intake due to better maternal care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The comparable significant increments in Hb in all groups are similar to earlier published intervention studies with fortified foods. In a trial in India, despite receiving no micronutrient premix, the control group exhibited improvements in hemoglobin (121.7 to 122.5 g/L), and reduction in iron-deficiency anemia (9.8% to 4.3%), which was only marginally different than the intervention group [28] . Similar results were also observed in Indonesia [29] , in Vietnam [30] , and in Brazil [27] . The authors postulated that communicating the goals of the study to the participants' parents or caregivers could have caused an intervention bias that led them to modify and improve their child's dietary intake. We could also attribute some of the improvement of Hb in the control group to what may be called \"study effect\", wherein the intervention itself changed the behaviors of parents to the benefit of their children's nutritional status. In addition, parents in the Control group had slightly better knowledge about heath practices and nutritional fortification and had better access to fortified products. This group had the highest percentage with a single earning family member, usually the father. Hence, mothers were left behind to care for the children as compared with the intervention groups and presumably were more attentive to the dietary needs of their child during the study. In the HD, a higher percentage of families had two to three members working, including the mother, but, despite this, the family income was similar to the Control group. In general, the socio-economic status of the Control group was better than the intervention groups. Socio-economic variables may determine purchasing power, food choices, and time available to mothers to care for their children's needs at home. These advantages might have been further accentuated during the course of the study.",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "The comparable significant increments in Hb in all groups are similar to earlier published intervention studies with fortified foods.",
+            "In a trial in India, despite receiving no micronutrient premix, the control group exhibited improvements in hemoglobin (121.7 to 122.5 g/L), and reduction in iron-deficiency anemia (9.8% to 4.3%), which was only marginally different than the intervention group [28] .",
+            "Similar results were also observed in Indonesia [29] , in Vietnam [30] , and in Brazil [27] .",
+            "The authors postulated that communicating the goals of the study to the participants' parents or caregivers could have caused an intervention bias that led them to modify and improve their child's dietary intake.",
+            "We could also attribute some of the improvement of Hb in the control group to what may be called \"study effect\", wherein the intervention itself changed the behaviors of parents to the benefit of their children's nutritional status.",
+            "In addition, parents in the Control group had slightly better knowledge about heath practices and nutritional fortification and had better access to fortified products.",
+            "This group had the highest percentage with a single earning family member, usually the father.",
+            "Hence, mothers were left behind to care for the children as compared with the intervention groups and presumably were more attentive to the dietary needs of their child during the study.",
+            "In the HD, a higher percentage of families had two to three members working, including the mother, but, despite this, the family income was similar to the Control group.",
+            "In general, the socio-economic status of the Control group was better than the intervention groups.",
+            "Socio-economic variables may determine purchasing power, food choices, and time available to mothers to care for their children's needs at home.",
+            "These advantages might have been further accentuated during the course of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The lack of dose response could be attributed to several possibilities that would account for this finding. First, the subjects were rather iron-replete as only nine or fewer subjects had actual iron deficiency at baseline in each group. This may be due to previous exposure to iron fortified foods. It would not be expected that the response to a fortified drink would be as robust as it would in a more iron deficient cohort; Second, the dose of iron in the beverage was relatively low and, although beneficial as a preventative measure for the progression to iron deficiency, may not have been high enough to have a statistically significant effect in this study population. The duration of the study was relatively short and might have required a longer period of administration to demonstrate a positive benefit. Prior studies have shown that iron status does not change rapidly with fortification [31] , especially when the level of the added nutrient is low. A bioavailability study using stable isotopes in Peruvian children aged 6-9 years old children with a multiple micronutrient fortified beverage containing an iron dose of 7 mg/serving revealed that iron absorption was significantly lower with a meal than without (9.8 \u00b1 6.7% versus 11.6 \u00b1 6.9%, p = 0.04) [32] . In our study, iron content per 200 mL serving was lower and only provided 50% (5.4 mg) of the intake in the HD, 38% or 3.9 mg (MD) and 23% or 2 mg (LD). It could also be possible that the biscuit that was consumed at the same time as the beverage had a mild effect on iron absorption.",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "The lack of dose response could be attributed to several possibilities that would account for this finding.",
+            "First, the subjects were rather iron-replete as only nine or fewer subjects had actual iron deficiency at baseline in each group.",
+            "This may be due to previous exposure to iron fortified foods.",
+            "It would not be expected that the response to a fortified drink would be as robust as it would in a more iron deficient cohort; Second, the dose of iron in the beverage was relatively low and, although beneficial as a preventative measure for the progression to iron deficiency, may not have been high enough to have a statistically significant effect in this study population.",
+            "The duration of the study was relatively short and might have required a longer period of administration to demonstrate a positive benefit.",
+            "Prior studies have shown that iron status does not change rapidly with fortification [31] , especially when the level of the added nutrient is low.",
+            "A bioavailability study using stable isotopes in Peruvian children aged 6-9 years old children with a multiple micronutrient fortified beverage containing an iron dose of 7 mg/serving revealed that iron absorption was significantly lower with a meal than without (9.8 \u00b1 6.7% versus 11.6 \u00b1 6.9%, p = 0.04) [32] .",
+            "In our study, iron content per 200 mL serving was lower and only provided 50% (5.4 mg) of the intake in the HD, 38% or 3.9 mg (MD) and 23% or 2 mg (LD).",
+            "It could also be possible that the biscuit that was consumed at the same time as the beverage had a mild effect on iron absorption."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Other considerations that may contribute to the findings include the interactions of micronutrients in an aqueous solution. In aqueous solutions and at higher intake levels, competition between micronutrients with similar chemical characteristics and uptake by non-regulated processes can take place. These interactions have clearly been demonstrated in experimental absorption studies and to some extent have been confirmed in supplementation studies [33] . Negative effects of zinc supplementation on iron and copper status have been reported [34] although at higher doses than used in our study. Studies on human subjects have shown that calcium (Ca) can inhibit iron (Fe) absorption, regardless of whether it is given as Ca salts or in dairy products. However, a thorough review of studies on humans in which Ca intake was substantially increased for long periods shows no changes in hematological measures or indicators of iron status. Thus, the inhibitory effect may be of short duration and there also may be compensatory mechanisms [35] . The juice drink was fortified with calcium with contributions ranging from 66 mg in the LD, 110 mg in MD to 154 mg in the HD. With the limited data that we have from our study, it is not possible to ascertain whether this interaction is only of theoretical interest and not of clinical significance.",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "Other considerations that may contribute to the findings include the interactions of micronutrients in an aqueous solution.",
+            "In aqueous solutions and at higher intake levels, competition between micronutrients with similar chemical characteristics and uptake by non-regulated processes can take place.",
+            "These interactions have clearly been demonstrated in experimental absorption studies and to some extent have been confirmed in supplementation studies [33] .",
+            "Negative effects of zinc supplementation on iron and copper status have been reported [34] although at higher doses than used in our study.",
+            "Studies on human subjects have shown that calcium (Ca) can inhibit iron (Fe) absorption, regardless of whether it is given as Ca salts or in dairy products.",
+            "However, a thorough review of studies on humans in which Ca intake was substantially increased for long periods shows no changes in hematological measures or indicators of iron status.",
+            "Thus, the inhibitory effect may be of short duration and there also may be compensatory mechanisms [35] .",
+            "The juice drink was fortified with calcium with contributions ranging from 66 mg in the LD, 110 mg in MD to 154 mg in the HD.",
+            "With the limited data that we have from our study, it is not possible to ascertain whether this interaction is only of theoretical interest and not of clinical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The role of hepcidin and its regulation of iron absorption may also play a role in the optimum dosing frequency of the beverage. In a study using stable isotopes of iron, showed that iron supplements at doses of 60 mg Fe as FeSO 4 in young women induced higher hepcidin levels in the blood for up to 24 h and were associated with lower iron absorption on the following day. This raises the possibility that optimal dosing may not be on a daily basis but with higher doses on alternate days. While the amount of iron contained in the beverage was much lower than was used in the study by Moretti, it is possible that there is a subtle effect mediated by hepcidin that might have played a role in our results [36] . The influence of hepcidin on iron absorption and optimal dosing of iron-fortified beverages remains to be investigated. Finally, concomitant deficiencies such as folic acid, and the prevalence of hemoglobinopathies in the study population may have minimized the effect of the intervention. In the 2013 Nationwide Nutrition Survey, a subsample thalassemia study in Metro Manila, Philippines revealed that the prevalence of hemoglobinopathies among anemic individuals was 27.8% and alpha thalassemia was 20.8% [37] .",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "The role of hepcidin and its regulation of iron absorption may also play a role in the optimum dosing frequency of the beverage.",
+            "In a study using stable isotopes of iron, showed that iron supplements at doses of 60 mg Fe as FeSO 4 in young women induced higher hepcidin levels in the blood for up to 24 h and were associated with lower iron absorption on the following day.",
+            "This raises the possibility that optimal dosing may not be on a daily basis but with higher doses on alternate days.",
+            "While the amount of iron contained in the beverage was much lower than was used in the study by Moretti, it is possible that there is a subtle effect mediated by hepcidin that might have played a role in our results [36] .",
+            "The influence of hepcidin on iron absorption and optimal dosing of iron-fortified beverages remains to be investigated.",
+            "Finally, concomitant deficiencies such as folic acid, and the prevalence of hemoglobinopathies in the study population may have minimized the effect of the intervention.",
+            "In the 2013 Nationwide Nutrition Survey, a subsample thalassemia study in Metro Manila, Philippines revealed that the prevalence of hemoglobinopathies among anemic individuals was 27.8% and alpha thalassemia was 20.8% [37] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "The juice drink is fortified with folic acid, and B-vitamins, but no laboratory analysis of B12 levels, serum or red cell folate was done; hence, no further conclusions can be made about micronutrient deficiencies that could have contributed to anemia among the study children. In fact, the current Philippine Food Composition Table (FCT) does not include values for folate and other nutrients in the juice drink; therefore, the authors could not analyze the contribution of these nutrients to total intake. The prevalence of hemoglobinopathies in the study population was also not investigated. Various forms of thalassemia, for example, could have resulted in mild anemia, yet would not have responded to iron supplementation.",
+        "section": "Limitations of This Study",
+        "section_number": 29,
+        "sentences": [
+            "The juice drink is fortified with folic acid, and B-vitamins, but no laboratory analysis of B12 levels, serum or red cell folate was done; hence, no further conclusions can be made about micronutrient deficiencies that could have contributed to anemia among the study children.",
+            "In fact, the current Philippine Food Composition Table (FCT) does not include values for folate and other nutrients in the juice drink; therefore, the authors could not analyze the contribution of these nutrients to total intake.",
+            "The prevalence of hemoglobinopathies in the study population was also not investigated.",
+            "Various forms of thalassemia, for example, could have resulted in mild anemia, yet would not have responded to iron supplementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Based on the lower than expected prevalence of anemia and micronutrient deficiencies in the Philippines 2013 national survey and in this study population, and the availability of other food-based interventions, a decision should be made on whether it is necessary to use fortified beverages in this setting. Intervening (or not) based on population needs is critically important both in terms of impact and ethics. The results from the 2013 national assessment showed a decrease of 8.4% in the prevalence of anemia from the previous 2008 survey. This information was not available during the time of the study; however, in hindsight, it does appear that existing strategies to reduce anemia and micronutrient deficiencies in the population are effective. Further work should assess whether more targeted approaches may be appropriate among those not reached, and/or whether other population groups besides children (women of child-bearing age, for example) have not benefited from existing micronutrient strategies.",
+        "section": "Further Work",
+        "section_number": 30,
+        "sentences": [
+            "Based on the lower than expected prevalence of anemia and micronutrient deficiencies in the Philippines 2013 national survey and in this study population, and the availability of other food-based interventions, a decision should be made on whether it is necessary to use fortified beverages in this setting.",
+            "Intervening (or not) based on population needs is critically important both in terms of impact and ethics.",
+            "The results from the 2013 national assessment showed a decrease of 8.4% in the prevalence of anemia from the previous 2008 survey.",
+            "This information was not available during the time of the study; however, in hindsight, it does appear that existing strategies to reduce anemia and micronutrient deficiencies in the population are effective.",
+            "Further work should assess whether more targeted approaches may be appropriate among those not reached, and/or whether other population groups besides children (women of child-bearing age, for example) have not benefited from existing micronutrient strategies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "This study attempted to address the question of micronutrient dose and frequency in a fortified beverage; however, the results leave this question unanswered. Further work to optimize dose and frequency of fortification interventions targeted to children (and other population groups) is important to inform cost-effective scale-up strategies in real world settings.",
+        "section": "Further Work",
+        "section_number": 31,
+        "sentences": [
+            "This study attempted to address the question of micronutrient dose and frequency in a fortified beverage; however, the results leave this question unanswered.",
+            "Further work to optimize dose and frequency of fortification interventions targeted to children (and other population groups) is important to inform cost-effective scale-up strategies in real world settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Although the study found minimal impact in the study population, it is still likely that the intervention may have a preventative effect. Further work to assess the appropriateness of the current intervention as a preventative measure is warranted. From a cost-effectiveness perspective, prevention of anemia and micronutrient deficiencies is favored over treatment approaches.",
+        "section": "Further Work",
+        "section_number": 32,
+        "sentences": [
+            "Although the study found minimal impact in the study population, it is still likely that the intervention may have a preventative effect.",
+            "Further work to assess the appropriateness of the current intervention as a preventative measure is warranted.",
+            "From a cost-effectiveness perspective, prevention of anemia and micronutrient deficiencies is favored over treatment approaches."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "There is good evidence to suggest that when micronutrient deficiencies are present, micronutrient interventions, including micronutrient-fortified beverages, can have a positive impact [17] . The current study found minimal benefit from the intervention across study groups. The most plausible explanation for these findings is the better than expected micronutrient status and the lower than expected prevalence and severity of anemia and micronutrient deficiencies in the study population. The dose of iron in the beverage is relatively low and, although beneficial as a preventive measure for progression to iron deficiency, probably is not high enough to have a statistically significant effect in this relatively iron-replete population. The duration of the study was short and may have required a longer period of administration to demonstrate a positive benefit. Other considerations that may contribute to the findings include the interactions of micronutrients in an aqueous solution, the role of hepcidin in inhibiting iron absorption after dosing, concomitant deficiencies such as folic acid, and the prevalence of hemoglobinopathies in the study population. Given the results of this study, and the lower prevalence of anemia and micronutrient deficiencies found in the 2013 national survey, it is unlikely that the addition of a fortified beverage to school feeding programs would carry a significant positive impact. The question of whether such an intervention would be cost-effective as a preventative approach needs to be assessed. As demonstrated by the current study, it is critically important to intervene only when there is a justified need in the population.",
+        "section": "Conclusions",
+        "section_number": 33,
+        "sentences": [
+            "There is good evidence to suggest that when micronutrient deficiencies are present, micronutrient interventions, including micronutrient-fortified beverages, can have a positive impact [17] .",
+            "The current study found minimal benefit from the intervention across study groups.",
+            "The most plausible explanation for these findings is the better than expected micronutrient status and the lower than expected prevalence and severity of anemia and micronutrient deficiencies in the study population.",
+            "The dose of iron in the beverage is relatively low and, although beneficial as a preventive measure for progression to iron deficiency, probably is not high enough to have a statistically significant effect in this relatively iron-replete population.",
+            "The duration of the study was short and may have required a longer period of administration to demonstrate a positive benefit.",
+            "Other considerations that may contribute to the findings include the interactions of micronutrients in an aqueous solution, the role of hepcidin in inhibiting iron absorption after dosing, concomitant deficiencies such as folic acid, and the prevalence of hemoglobinopathies in the study population.",
+            "Given the results of this study, and the lower prevalence of anemia and micronutrient deficiencies found in the 2013 national survey, it is unlikely that the addition of a fortified beverage to school feeding programs would carry a significant positive impact.",
+            "The question of whether such an intervention would be cost-effective as a preventative approach needs to be assessed.",
+            "As demonstrated by the current study, it is critically important to intervene only when there is a justified need in the population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "Pearson's \u03c7 2 test of independence and f -test; * p < 0.05.",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "Pearson's \u03c7 2 test of independence and f -test; * p < 0.05."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "33570",
+        "text": "f -test using one-way ANOVA; * significant at \u03b1 = 0.05; a Adjusted ferritin level was done using the correction factors by stage (Thurnham CF).",
+        "section": "",
+        "section_number": 35,
+        "sentences": [
+            "f -test using one-way ANOVA; * significant at \u03b1 = 0.05; a Adjusted ferritin level was done using the correction factors by stage (Thurnham CF)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

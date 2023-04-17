@@ -1,0 +1,751 @@
+[
+    {
+        "doc_id": "34901",
+        "text": "Context: Children with type 1 diabetes have vascular dysfunction preceding atherosclerosis. Early interventions are needed to reduce cardiovascular disease. Objective: To evaluate the effect of metformin on vascular function in children with type 1 diabetes. Design: Twelve-month double-blind, randomized, placebo-controlled trial. Setting: Tertiary pediatric diabetes clinic. Participants: Ninety children (8 to 18 years of age), .50th percentile body mass index (BMI), with type 1 diabetes. Intervention: Metformin (up to 1 g twice a day) or placebo. Main Outcome Measure: Vascular function measured by brachial artery ultrasound [flow-mediated dilatation/glyceryl trinitrate-mediated dilatation (GTN)]. Results: Ninety participants were enrolled [41 boys, 13.6 (2.5) years of age, 45 per group], 10 discontinued intervention, and 1 was lost to follow-up. On metformin, GTN improved, independent of glycosylated hemoglobin (HbA1c), by 3.3 percentage units [95% confidence interval (CI) 0.3, 6.3, P = 0.03] and insulin dose reduced by 0.2 U/kg/d (95% CI 0.1, 0.3, P = 0.001) during 12 months, with effects from 3 months. Metformin had a beneficial effect on HbA1c at 3 months (P = 0.001) and difference in adjusted HbA1c between groups during 12 months was 1.0%; 95% CI 0.4, 1.5 (10.9 mmol/mol; 95% CI 4.4, 16.4), P = 0.001. There were no effects on carotid/aortic intima media thickness, BMI, lipids, blood pressure, or other cardiovascular risk factors. Median (95% CI) adherence, evaluated by electronic monitoring, was 75.5% (65.7, 81.5), without group differences. More gastrointestinal side effects were reported on metformin (incidence rate ratio 1.65, 95% CI 1.08, 2.52, P = 0.02), with no difference in hypoglycemia or diabetic ketoacidosis. Conclusions: Metformin improved vascular smooth muscle function and HbA1c, and lowered insulin dose in type 1 diabetes children. These benefits and good safety profile warrant further consideration of its use.",
+        "section": "Abstract",
+        "sentences": [
+            "Context: Children with type 1 diabetes have vascular dysfunction preceding atherosclerosis.",
+            "Early interventions are needed to reduce cardiovascular disease.",
+            "Objective: To evaluate the effect of metformin on vascular function in children with type 1 diabetes.",
+            "Design: Twelve-month double-blind, randomized, placebo-controlled trial.",
+            "Setting: Tertiary pediatric diabetes clinic.",
+            "Participants: Ninety children (8 to 18 years of age), .50th percentile body mass index (BMI), with type 1 diabetes.",
+            "Intervention: Metformin (up to 1 g twice a day) or placebo.",
+            "Main Outcome Measure: Vascular function measured by brachial artery ultrasound [flow-mediated dilatation/glyceryl trinitrate-mediated dilatation (GTN)].",
+            "Results: Ninety participants were enrolled [41 boys, 13.6 (2.5) years of age, 45 per group], 10 discontinued intervention, and 1 was lost to follow-up.",
+            "On metformin, GTN improved, independent of glycosylated hemoglobin (HbA1c), by 3.3 percentage units [95% confidence interval (CI) 0.3, 6.3, P = 0.03] and insulin dose reduced by 0.2 U/kg/d (95% CI 0.1, 0.3, P = 0.001) during 12 months, with effects from 3 months.",
+            "Metformin had a beneficial effect on HbA1c at 3 months (P = 0.001) and difference in adjusted HbA1c between groups during 12 months was 1.0%; 95% CI 0.4, 1.5 (10.9 mmol/mol; 95% CI 4.4, 16.4), P = 0.001.",
+            "There were no effects on carotid/aortic intima media thickness, BMI, lipids, blood pressure, or other cardiovascular risk factors.",
+            "Median (95% CI) adherence, evaluated by electronic monitoring, was 75.5% (65.7, 81.5), without group differences.",
+            "More gastrointestinal side effects were reported on metformin (incidence rate ratio 1.65, 95% CI 1.08, 2.52, P = 0.02), with no difference in hypoglycemia or diabetic ketoacidosis.",
+            "Conclusions: Metformin improved vascular smooth muscle function and HbA1c, and lowered insulin dose in type 1 diabetes children.",
+            "These benefits and good safety profile warrant further consideration of its use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "C ardiovascular disease is the leading cause of mortality in type 1 diabetes (1) , and glycemic control is the major modifiable risk factor for prevention of vascular complications. However, individuals with type 1 diabetes and excellent glycemic control still have three times the risk for cardiovascular causes of death as matched controls (2) , so that many patients need additional strategies to improve cardiovascular health.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "C ardiovascular disease is the leading cause of mortality in type 1 diabetes (1) , and glycemic control is the major modifiable risk factor for prevention of vascular complications.",
+            "However, individuals with type 1 diabetes and excellent glycemic control still have three times the risk for cardiovascular causes of death as matched controls (2) , so that many patients need additional strategies to improve cardiovascular health."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Vascular dysfunction is a critical event in the development of cardiovascular disease and is detectable years before cardiovascular disease develops (3) . Vascular function can be assessed by ultrasound measurement of brachial artery responses to increase in flow [flowmediated dilatation (FMD)] and to glyceryl trinitrate [glyceryl trinitrate-mediated dilatation (GTN)]. FMD increases in artery diameter are dependent on endothelium nitric oxide release (endothelium-dependent response). Glyceryl trinitrate is a nitric oxide donor that increases the artery diameter independent of the endothelium and, therefore, assesses vascular smooth muscle response (4) . Vascular function, measured by FMD and GTN, correlates with coronary atherosclerosis on angiography (5, 6) and with cardiovascular risk factors (6) (7) (8) .",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "Vascular dysfunction is a critical event in the development of cardiovascular disease and is detectable years before cardiovascular disease develops (3) .",
+            "Vascular function can be assessed by ultrasound measurement of brachial artery responses to increase in flow [flowmediated dilatation (FMD)] and to glyceryl trinitrate [glyceryl trinitrate-mediated dilatation (GTN)].",
+            "FMD increases in artery diameter are dependent on endothelium nitric oxide release (endothelium-dependent response).",
+            "Glyceryl trinitrate is a nitric oxide donor that increases the artery diameter independent of the endothelium and, therefore, assesses vascular smooth muscle response (4) .",
+            "Vascular function, measured by FMD and GTN, correlates with coronary atherosclerosis on angiography (5, 6) and with cardiovascular risk factors (6) (7) (8) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "We and others have shown that vascular function is impaired and intima media thickness (IMT) is increased in children at increased risk of atherosclerosis, including children with type 1 diabetes (4, (9) (10) (11) (12) . Importantly, these early vascular changes in function and structure are potentially reversible.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "We and others have shown that vascular function is impaired and intima media thickness (IMT) is increased in children at increased risk of atherosclerosis, including children with type 1 diabetes (4, (9) (10) (11) (12) .",
+            "Importantly, these early vascular changes in function and structure are potentially reversible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Metformin reduces cardiovascular events and improves body composition and glycemic control in adults with type 2 diabetes (13, 14) . In adults with type 1 diabetes, metformin has inconsistently improved glycosylated hemoglobin (HbA1c), body mass index (BMI), and insulin dose (15, 16) . In one pilot study in adults with type 1 diabetes, metformin improved endothelial function (17) . In children with type 1 diabetes, metformin can reduce HbA1c, insulin dose, and BMI (18) (19) (20) , but there are no data on its effect on vascular health. Metformin stimulates nitric oxide synthesis in vitro in endothelium and smooth muscle (21) . Therefore, we aimed to determine the effect of metformin on vascular health in children with type 1 diabetes and above average weight. We hypothesized that metformin would improve vascular function, independent of other benefits on cardiovascular risk factors.",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "Metformin reduces cardiovascular events and improves body composition and glycemic control in adults with type 2 diabetes (13, 14) .",
+            "In adults with type 1 diabetes, metformin has inconsistently improved glycosylated hemoglobin (HbA1c), body mass index (BMI), and insulin dose (15, 16) .",
+            "In one pilot study in adults with type 1 diabetes, metformin improved endothelial function (17) .",
+            "In children with type 1 diabetes, metformin can reduce HbA1c, insulin dose, and BMI (18) (19) (20) , but there are no data on its effect on vascular health.",
+            "Metformin stimulates nitric oxide synthesis in vitro in endothelium and smooth muscle (21) .",
+            "Therefore, we aimed to determine the effect of metformin on vascular health in children with type 1 diabetes and above average weight.",
+            "We hypothesized that metformin would improve vascular function, independent of other benefits on cardiovascular risk factors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "This parallel, randomized, placebo-controlled trial was conducted at a single site at Women's and Children's Hospital in Adelaide (SA, Australia). It was approved by two recruitment sites (Women's and Children's Hospital HREC 2327/12/13 and Flinders Medical Centre HREC 443.12) and prospectively registered with the Australian New Zealand Clinical Trials Registry (ACTRN12611000148976). Participants were recruited from August 2011 and the trial was completed in June 2015. Written informed consent was obtained from all participants' parents, and written informed assent was obtained from all participants. Assessments were done at baseline, 3, 6, and 12 months. The study protocol was published (22) and is summarized later.",
+        "section": "Study design and setting",
+        "section_number": 5,
+        "sentences": [
+            "This parallel, randomized, placebo-controlled trial was conducted at a single site at Women's and Children's Hospital in Adelaide (SA, Australia).",
+            "It was approved by two recruitment sites (Women's and Children's Hospital HREC 2327/12/13 and Flinders Medical Centre HREC 443.12) and prospectively registered with the Australian New Zealand Clinical Trials Registry (ACTRN12611000148976).",
+            "Participants were recruited from August 2011 and the trial was completed in June 2015.",
+            "Written informed consent was obtained from all participants' parents, and written informed assent was obtained from all participants.",
+            "Assessments were done at baseline, 3, 6, and 12 months.",
+            "The study protocol was published (22) and is summarized later."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Participants were eligible for the study if they were diagnosed with type 1 diabetes at least 6 months prior, had an insulin requirement .0.5 U insulin/kg/d, aged 8 to 18 years, and a BMI .50th percentile for age and sex (Centers for Disease Control and Prevention 2000 standardized reference charts; http://wwwn.cdc.gov/epiinfo/). They were excluded if they had a severe hypoglycemic episode in 6 months prior to recruitment, more than two episodes of diabetes ketoacidosis in the previous 12 months, serious comorbidities, contraindication to metformin therapy, or were already on metformin, statins, multivitamins, or antihypertensives. Participants were recruited and enrolled by a single investigator (J.J.A.A.) and assigned a code in sequence (1 to 90). Participants were allocated in a 1:1 ratio to metformin or placebo by the pharmacist using the randomization list generated by a statistician external to the study using statistical software S-PLUS version 8.1. Medication bottles were identical between groups aside from batch number, which the pharmacist used to allocate participants to treatment group (labeled as A or B). Participants, their care providers, and investigators were blinded to treatment group (22) .",
+        "section": "Study participants",
+        "section_number": 6,
+        "sentences": [
+            "Participants were eligible for the study if they were diagnosed with type 1 diabetes at least 6 months prior, had an insulin requirement .0.5 U insulin/kg/d, aged 8 to 18 years, and a BMI .50th percentile for age and sex (Centers for Disease Control and Prevention 2000 standardized reference charts; http://wwwn.cdc.gov/epiinfo/).",
+            "They were excluded if they had a severe hypoglycemic episode in 6 months prior to recruitment, more than two episodes of diabetes ketoacidosis in the previous 12 months, serious comorbidities, contraindication to metformin therapy, or were already on metformin, statins, multivitamins, or antihypertensives.",
+            "Participants were recruited and enrolled by a single investigator (J.J.A.A.) and assigned a code in sequence (1 to 90).",
+            "Participants were allocated in a 1:1 ratio to metformin or placebo by the pharmacist using the randomization list generated by a statistician external to the study using statistical software S-PLUS version 8.1.",
+            "Medication bottles were identical between groups aside from batch number, which the pharmacist used to allocate participants to treatment group (labeled as A or B).",
+            "Participants, their care providers, and investigators were blinded to treatment group (22) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "34901",
+        "text": "Participants received up to 1 g twice a day according to weight ($60 kg, 1 g twice per day; ,60 kg, 500 mg twice per day). The dose was increased during 2 to 6 weeks up to the full dose, as tolerated. Metformin and placebo tablets (Generic Health, Melbourne, VIC, Australia) were identical in appearance and ingredients aside from the active ingredient, metformin hydrochloride. All participants received standardized type 1 diabetes dietary advice for 60 minutes from the one dietitian at baseline and 3 months (22) .",
+        "section": "Intervention",
+        "section_number": 7,
+        "sentences": [
+            "Participants received up to 1 g twice a day according to weight ($60 kg, 1 g twice per day; ,60 kg, 500 mg twice per day).",
+            "The dose was increased during 2 to 6 weeks up to the full dose, as tolerated.",
+            "Metformin and placebo tablets (Generic Health, Melbourne, VIC, Australia) were identical in appearance and ingredients aside from the active ingredient, metformin hydrochloride.",
+            "All participants received standardized type 1 diabetes dietary advice for 60 minutes from the one dietitian at baseline and 3 months (22) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "FMD and GTN were assessed at each visit, as we have previously described (4, 9, 12, 22, 23) . Experienced and blinded sonographers (trained by R.G.) performed B mode ultrasound examinations with a 17 to 5 MHz linear array transducer (iU22; Phillips, Bothel, WA). In brief, brachial arterial diameter was measured in four scans: (1) baseline artery diameter scan; (2) reactive hyperemia was induced by occluding arterial blood flow using a sphygmomanometer inflated to 250 mm Hg for 4 minutes; FMD scan was recorded 45 to 75 seconds after cuff deflation; (3) recontrol scan 10 to 15 minutes later; and (4) GTN scan, taken 4 minutes after sublingual administration of GTN spray (400 mg, Nitrolingual pumpspray, G. Pohl-Boskamp, Hohenlockstedt, Germany). For each scan, measurements were made using ultrasonic calipers by observers blinded to intervention type over four consecutive cardiac cycles, incident with R wave on electrocardiogram (i.e., at end-diastole).",
+        "section": "Vascular function outcomes: FMD (primary outcome measure) and GTN (secondary outcome measure)",
+        "section_number": 8,
+        "sentences": [
+            "FMD and GTN were assessed at each visit, as we have previously described (4, 9, 12, 22, 23) .",
+            "Experienced and blinded sonographers (trained by R.G.) performed B mode ultrasound examinations with a 17 to 5 MHz linear array transducer (iU22; Phillips, Bothel, WA).",
+            "In brief, brachial arterial diameter was measured in four scans: (1) baseline artery diameter scan; (2) reactive hyperemia was induced by occluding arterial blood flow using a sphygmomanometer inflated to 250 mm Hg for 4 minutes; FMD scan was recorded 45 to 75 seconds after cuff deflation; (3) recontrol scan 10 to 15 minutes later; and (4) GTN scan, taken 4 minutes after sublingual administration of GTN spray (400 mg, Nitrolingual pumpspray, G. Pohl-Boskamp, Hohenlockstedt, Germany).",
+            "For each scan, measurements were made using ultrasonic calipers by observers blinded to intervention type over four consecutive cardiac cycles, incident with R wave on electrocardiogram (i.e., at end-diastole)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Measurements were averaged and expressed as percentages of the baseline artery diameter scan. Our coefficient of variation between 20 controls was 3.9% for FMD and 4.0% for GTN (9, 22) .",
+        "section": "Vascular function outcomes: FMD (primary outcome measure) and GTN (secondary outcome measure)",
+        "section_number": 9,
+        "sentences": [
+            "Measurements were averaged and expressed as percentages of the baseline artery diameter scan.",
+            "Our coefficient of variation between 20 controls was 3.9% for FMD and 4.0% for GTN (9, 22) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "HbA1c, insulin dose, BMI, body composition, waist circumference, mean of three consecutive blood pressures, fasting lipid profile, high-sensitivity C-reactive protein, adiponectin, leptin, and early morning urinary albumin/creatinine ratio were evaluated at all visits, as previously described (22) . Estimated insulin sensitivity was calculated using a validated equation as follows: 4.06154 2 0.01317 3 waist (cm) 2 1.09615 3 insulin dose (U/kg/d) + 0.02027 3 adiponectin (mg/mL) 2 0.27168 3 triglycerides (mmol/L) 2 0.00733 3 diastolic blood pressure (mm Hg) (24) . This surrogate marker of insulin sensitivity has been shown to correlate well with measured glucose infusion rate in euglycemic hyperinsulinemic clamps in adolescents and adults with type 1 diabetes (24) .",
+        "section": "Secondary and other outcomes",
+        "section_number": 10,
+        "sentences": [
+            "HbA1c, insulin dose, BMI, body composition, waist circumference, mean of three consecutive blood pressures, fasting lipid profile, high-sensitivity C-reactive protein, adiponectin, leptin, and early morning urinary albumin/creatinine ratio were evaluated at all visits, as previously described (22) .",
+            "Estimated insulin sensitivity was calculated using a validated equation as follows: 4.06154 2 0.01317 3 waist (cm) 2 1.09615 3 insulin dose (U/kg/d) + 0.02027 3 adiponectin (mg/mL) 2 0.27168 3 triglycerides (mmol/L) 2 0.00733 3 diastolic blood pressure (mm Hg) (24) .",
+            "This surrogate marker of insulin sensitivity has been shown to correlate well with measured glucose infusion rate in euglycemic hyperinsulinemic clamps in adolescents and adults with type 1 diabetes (24) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Mean/maximum carotid IMT, aortic IMT, and total body dual-energy x-ray absorptiometry (DXA) scan were assessed at baseline and 12 months as previously described (11, 12, 22) .",
+        "section": "Secondary and other outcomes",
+        "section_number": 11,
+        "sentences": [
+            "Mean/maximum carotid IMT, aortic IMT, and total body dual-energy x-ray absorptiometry (DXA) scan were assessed at baseline and 12 months as previously described (11, 12, 22) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Participants received fortnightly phone calls (J.J.A.A.) for the first 3 monthly and monthly phone calls thereafter to complete a side effects questionnaire, titrate medication, and adjust insulin doses. The single blinded investigator (J.J.A.A.) adjusted insulin during the commencement of the study medication, as the dose was increased according to the protocol, and then throughout the study participants were able to phone J.J.A.A. for adjustments and were requested to do so if there was any increased frequency of hypoglycemia. Additionally, all participants continued to see their standard health professionals (pediatric endocrinologist and diabetes educator) at 3 monthly intervals at diabetes clinics according to routine care and aiming for a target HbA1c of ,7.5%.",
+        "section": "Safety outcomes and adherence assessment",
+        "section_number": 12,
+        "sentences": [
+            "Participants received fortnightly phone calls (J.J.A.A.) for the first 3 monthly and monthly phone calls thereafter to complete a side effects questionnaire, titrate medication, and adjust insulin doses.",
+            "The single blinded investigator (J.J.A.A.) adjusted insulin during the commencement of the study medication, as the dose was increased according to the protocol, and then throughout the study participants were able to phone J.J.A.A. for adjustments and were requested to do so if there was any increased frequency of hypoglycemia.",
+            "Additionally, all participants continued to see their standard health professionals (pediatric endocrinologist and diabetes educator) at 3 monthly intervals at diabetes clinics according to routine care and aiming for a target HbA1c of ,7.5%."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "The questionnaire included gastrointestinal and other side effects, as well as hypoglycemic events (defined as moderate if the participant required assistance and severe if the participant collapsed or had a seizure). Side effects were also recorded at study visits. Any hospital admissions were reported within 24 hours to an independent safety-monitoring committee. Events were reported regardless of whether they were considered related to medication. Lactate, liver, and renal function tests, vitamin B12, and folate status were measured at each visit (22) . Study medication adherence was assessed at each visit by pill count and medication event monitoring system (MEMS) cap download (Aardex Group, Sion, Switzerland).",
+        "section": "Safety outcomes and adherence assessment",
+        "section_number": 13,
+        "sentences": [
+            "The questionnaire included gastrointestinal and other side effects, as well as hypoglycemic events (defined as moderate if the participant required assistance and severe if the participant collapsed or had a seizure).",
+            "Side effects were also recorded at study visits.",
+            "Any hospital admissions were reported within 24 hours to an independent safety-monitoring committee.",
+            "Events were reported regardless of whether they were considered related to medication.",
+            "Lactate, liver, and renal function tests, vitamin B12, and folate status were measured at each visit (22) .",
+            "Study medication adherence was assessed at each visit by pill count and medication event monitoring system (MEMS) cap download (Aardex Group, Sion, Switzerland)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Demographic measures were summarized by mean and standard deviation (SD) or median and interquartile range for continuous variables according to normality. Distributions of all variables were assessed for normality using histograms and Kolmogorov-Smirnov tests. Variables with skewed distributions were log transformed, as appropriate, and the transformed variables were analyzed; geometric means were then reported for these transformed variables. Statistical significance was set at P , 0.05 (two-sided) with no adjustment for multiple comparisons. All analyses followed a prespecified analysis plan and used Stata version 14.1 (StataCorp, College Station, TX).",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "Demographic measures were summarized by mean and standard deviation (SD) or median and interquartile range for continuous variables according to normality.",
+            "Distributions of all variables were assessed for normality using histograms and Kolmogorov-Smirnov tests.",
+            "Variables with skewed distributions were log transformed, as appropriate, and the transformed variables were analyzed; geometric means were then reported for these transformed variables.",
+            "Statistical significance was set at P , 0.05 (two-sided) with no adjustment for multiple comparisons.",
+            "All analyses followed a prespecified analysis plan and used Stata version 14.1 (StataCorp, College Station, TX)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Analyses were performed (L.C.G.) on an intention-to-treat basis and blinded to which treatment group was metformin (i.e., analyses were conducted comparing groups A and B). Once the analyses were completed, unblinding of groups occurred (A corresponded to placebo and B to metformin). Continuous outcomes were analyzed with linear mixed effects models, including treatment group, time, and their interaction in the models. Treatment effects were expressed as differences in means and 95% confidence interval (CI). Analyses were adjusted for age and HbA1c at each time point as well as sex.",
+        "section": "Statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "Analyses were performed (L.C.G.) on an intention-to-treat basis and blinded to which treatment group was metformin (i.e., analyses were conducted comparing groups A and B).",
+            "Once the analyses were completed, unblinding of groups occurred (A corresponded to placebo and B to metformin).",
+            "Continuous outcomes were analyzed with linear mixed effects models, including treatment group, time, and their interaction in the models.",
+            "Treatment effects were expressed as differences in means and 95% confidence interval (CI).",
+            "Analyses were adjusted for age and HbA1c at each time point as well as sex."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "A random subject effect was included in each statistical model to allow for correlation between observations on the same subject at different time points. Multiple imputation was performed separately by treatment group using chained equations to create 100 complete datasets (25) . Sensitivity analyses with available data and different imputation models were performed to assess stability of results. The relative risk and associated 95% CI of any side effects for metformin vs placebo was calculated. Similarly, incidence rate ratios and 95% CI were calculated to compare total count of each side effect per participant between treatment groups.",
+        "section": "Statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "A random subject effect was included in each statistical model to allow for correlation between observations on the same subject at different time points.",
+            "Multiple imputation was performed separately by treatment group using chained equations to create 100 complete datasets (25) .",
+            "Sensitivity analyses with available data and different imputation models were performed to assess stability of results.",
+            "The relative risk and associated 95% CI of any side effects for metformin vs placebo was calculated.",
+            "Similarly, incidence rate ratios and 95% CI were calculated to compare total count of each side effect per participant between treatment groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Although no studies have looked at the effect of metformin on vascular function (FMD or GTN) in type 1 diabetes in this age group, our previous work found improvement in FMD of 3.1% (SD 4.3) in children with type 1 diabetes receiving folic acid during 8 weeks (23) . Assuming equivalent improvement with metformin from baseline to 12 months, we estimated a total sample size of 90 participants would have 90% statistical power (with two-tailed a level of 0.05) to detect an absolute mean difference in FMD of 3.1% (SD 4.3) in comparison of metformin and placebo groups, allowing for 10% attrition.",
+        "section": "Statistical analysis",
+        "section_number": 17,
+        "sentences": [
+            "Although no studies have looked at the effect of metformin on vascular function (FMD or GTN) in type 1 diabetes in this age group, our previous work found improvement in FMD of 3.1% (SD 4.3) in children with type 1 diabetes receiving folic acid during 8 weeks (23) .",
+            "Assuming equivalent improvement with metformin from baseline to 12 months, we estimated a total sample size of 90 participants would have 90% statistical power (with two-tailed a level of 0.05) to detect an absolute mean difference in FMD of 3.1% (SD 4.3) in comparison of metformin and placebo groups, allowing for 10% attrition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Of 428 consecutive clinic patients, 215 were ineligible, 123 declined, and 90 participants were randomized to metformin or placebo. One participant was lost to follow-up; 10 discontinued intervention ( Fig. 1 ). Mean (SD) age of participants was 13.6 (3.5) years, and 54% (n = 49) were female. Median (interquartile range) HbA1c was 8.7% (8.1 to 9.9)/72 mmol/mol (65 to 85) and mean (SD) BMI z score was 0.89 (0.57). Fifty-four participants had normal BMI (BMI 50% to 84%), 25 were overweight (BMI 85% to 95%), and 11 were obese (BMI . 95%). Eighty-eight (97%) participants were white, one was African, and one was Asian. Twenty-one of 45 (47%) placebo and 22 of 45 (49%) metformin participants were ,60 kg. There were no statistically significant differences between groups at baseline in each measured variable with the exception of diastolic blood pressure (Table 1) .",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "Of 428 consecutive clinic patients, 215 were ineligible, 123 declined, and 90 participants were randomized to metformin or placebo.",
+            "One participant was lost to follow-up; 10 discontinued intervention ( Fig. 1 ).",
+            "Mean (SD) age of participants was 13.6 (3.5) years, and 54% (n = 49) were female.",
+            "Median (interquartile range) HbA1c was 8.7% (8.1 to 9.9)/72 mmol/mol (65 to 85) and mean (SD) BMI z score was 0.89 (0.57).",
+            "Fifty-four participants had normal BMI (BMI 50% to 84%), 25 were overweight (BMI 85% to 95%), and 11 were obese (BMI .",
+            "95%).",
+            "Eighty-eight (97%) participants were white, one was African, and one was Asian.",
+            "Twenty-one of 45 (47%) placebo and 22 of 45 (49%) metformin participants were ,60 kg.",
+            "There were no statistically significant differences between groups at baseline in each measured variable with the exception of diastolic blood pressure (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Median (95% CI) adherence, evaluated by MEMS and pill count, was 75.5% (65.7, 81.5) and 76.6% (69.7, 80.5), respectively, during 12 months, with no differences between metformin and placebo groups. Adherence was highest at 3 months [MEMS median 88.9% (77.0, 91.6); pill count 87.1% (78.2, 90.5)] and decreased over time (time effect P , 0.001 for MEMS and pill count). All participants tolerated the full dose according to the weight criteria, described previously, except for three participants ,60 kg receiving metformin (two tolerated 250 mg twice per day and one tolerated 250 mg per day) and three participants .60 kg who tolerated 250 mg to 1.5 g per day. Side effects in these six patients included nausea (five of six), reduced appetite (one of six), vomiting (four of six), and diarrhea (two of six). All side effects resolved on the reduced metformin dose.",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "Median (95% CI) adherence, evaluated by MEMS and pill count, was 75.5% (65.7, 81.5) and 76.6% (69.7, 80.5), respectively, during 12 months, with no differences between metformin and placebo groups.",
+            "Adherence was highest at 3 months [MEMS median 88.9% (77.0, 91.6); pill count 87.1% (78.2, 90.5)] and decreased over time (time effect P , 0.001 for MEMS and pill count).",
+            "All participants tolerated the full dose according to the weight criteria, described previously, except for three participants ,60 kg receiving metformin (two tolerated 250 mg twice per day and one tolerated 250 mg per day) and three participants .60 kg who tolerated 250 mg to 1.5 g per day.",
+            "Side effects in these six patients included nausea (five of six), reduced appetite (one of six), vomiting (four of six), and diarrhea (two of six).",
+            "All side effects resolved on the reduced metformin dose."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Vascular smooth muscle function (GTN) improved, independent of HbA1c, by 3.3 percentage units (95% CI 0.3, 6.3, P = 0.03) during the 12-month intervention in the metformin group compared with placebo ( Table 2) . The improvement in GTN was also independent of baseline pubertal status in the participants (coefficient 3.4 percentage units; 95% CI 0.4, 6.4, P = 0.03). Sensitivity analyses with available data and different imputation models showed the same results. GTN adjusted for covariates (age, sex, and HbA1c) was highest in the metformin group at 3 months compared with placebo There was no significant effect of metformin on other measures of vascular health and cardiovascular risk factors, including FMD, blood pressure, BMI, waist and hip circumference, fat mass, lipid profile, high-sensitivity C-reactive protein, adiponectin, adiponectin/leptin ratio, and urine albumin creatinine ratio during 12 months. There was a significant decrease in leptin in the metformin group (Table 2) . Inclusion of study medication dose/kg/d and adherence, as measured by tablet count or MEMS made no significant difference in the results for FMD or GTN (data not shown).",
+        "section": "Cardiovascular health and risk factors",
+        "section_number": 20,
+        "sentences": [
+            "Vascular smooth muscle function (GTN) improved, independent of HbA1c, by 3.3 percentage units (95% CI 0.3, 6.3, P = 0.03) during the 12-month intervention in the metformin group compared with placebo ( Table 2) .",
+            "The improvement in GTN was also independent of baseline pubertal status in the participants (coefficient 3.4 percentage units; 95% CI 0.4, 6.4, P = 0.03).",
+            "Sensitivity analyses with available data and different imputation models showed the same results.",
+            "GTN adjusted for covariates (age, sex, and HbA1c) was highest in the metformin group at 3 months compared with placebo There was no significant effect of metformin on other measures of vascular health and cardiovascular risk factors, including FMD, blood pressure, BMI, waist and hip circumference, fat mass, lipid profile, high-sensitivity C-reactive protein, adiponectin, adiponectin/leptin ratio, and urine albumin creatinine ratio during 12 months.",
+            "There was a significant decrease in leptin in the metformin group (Table 2) .",
+            "Inclusion of study medication dose/kg/d and adherence, as measured by tablet count or MEMS made no significant difference in the results for FMD or GTN (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "There ",
+        "section": "Cardiovascular health and risk factors",
+        "section_number": 21,
+        "sentences": [
+            "There"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "There was a significant benefit in adjusted (age, sex) HbA1c at 3 months for the metformin group (8.4%; 95% CI 8.0, 8.8) (68 mmol/mol; 95% CI 64, 73) vs placebo group (9.3%; 95% CI 9.0, 9.7) (78 mmol/mol; 95% CI 75, 83) (P = 0.001), and this was primarily responsible for the overall benefit of metformin compared with placebo during the study period. The adjusted overall difference in HbA1c between the groups during the intervention was 1.0% (95% CI 0.4, 1.5) 10.9 mmol/mol (95% CI 4.4, 16.4), P = 0.001 (Table 2 ) during 12 months. HbA1c was significantly related to study medication dose, measured in mg/kg/d, but the magnitude of the dose effect was very small (0.08%; 95% CI 0.04, 0.12) (0.9 mmol/mol; 95% CI 0.4, 1.3) (P , 0.001).",
+        "section": "Glycemic control and insulin dose",
+        "section_number": 22,
+        "sentences": [
+            "There was a significant benefit in adjusted (age, sex) HbA1c at 3 months for the metformin group (8.4%; 95% CI 8.0, 8.8) (68 mmol/mol; 95% CI 64, 73) vs placebo group (9.3%; 95% CI 9.0, 9.7) (78 mmol/mol; 95% CI 75, 83) (P = 0.001), and this was primarily responsible for the overall benefit of metformin compared with placebo during the study period.",
+            "The adjusted overall difference in HbA1c between the groups during the intervention was 1.0% (95% CI 0.4, 1.5) 10.9 mmol/mol (95% CI 4.4, 16.4), P = 0.001 (Table 2 ) during 12 months.",
+            "HbA1c was significantly related to study medication dose, measured in mg/kg/d, but the magnitude of the dose effect was very small (0.08%; 95% CI 0.04, 0.12) (0.9 mmol/mol; 95% CI 0.4, 1.3) (P , 0.001)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Total daily insulin dose was reduced by 0.2 U/kg/d during 12 months (95% CI 0.1, 0.3, P = 0.001) in the metformin group compared with placebo ( Table 2 ). The adjusted insulin doses remained the same in each group from 3 to 12 months [metformin, 0.7 (95% CI 0.4, 21.0); placebo, 0.9 (95% CI 0.6, 21.2) U/kg/d, P = 0.001]. Estimated insulin sensitivity as calculated previously remained 0.2 U higher during 12 months (95% CI 0.06, 0.34, P = 0.005) in the metformin group compared with placebo.",
+        "section": "Glycemic control and insulin dose",
+        "section_number": 23,
+        "sentences": [
+            "Total daily insulin dose was reduced by 0.2 U/kg/d during 12 months (95% CI 0.1, 0.3, P = 0.001) in the metformin group compared with placebo ( Table 2 ).",
+            "The adjusted insulin doses remained the same in each group from 3 to 12 months [metformin, 0.7 (95% CI 0.4, 21.0); placebo, 0.9 (95% CI 0.6, 21.2) U/kg/d, P = 0.001].",
+            "Estimated insulin sensitivity as calculated previously remained 0.2 U higher during 12 months (95% CI 0.06, 0.34, P = 0.005) in the metformin group compared with placebo."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Those who discontinued intervention (n = 11, metformin = 7, placebo = 4) vs those who continued intervention for 12 months (n = 79) had higher baseline (mean 6 SD) HbA1c (10. ",
+        "section": "Glycemic control and insulin dose",
+        "section_number": 24,
+        "sentences": [
+            "Those who discontinued intervention (n = 11, metformin = 7, placebo = 4) vs those who continued intervention for 12 months (n = 79) had higher baseline (mean 6 SD) HbA1c (10."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "A total of 133 side effects were reported with more side effects in the metformin group compared with placebo [80 vs 53, relative risk 1.51 (95% CI 1.05, 2.18), P = 0.02]. Gastrointestinal side effects were more common in the metformin group compared with placebo ( Table 3 ). There were no significant differences in nongastrointestinal side effects, moderate hypoglycemic events, or diabetes ketoacidosis between groups (Table 3 ). There were no episodes of severe hypoglycemia or lactic acidosis during 12 months.",
+        "section": "Safety data",
+        "section_number": 25,
+        "sentences": [
+            "A total of 133 side effects were reported with more side effects in the metformin group compared with placebo [80 vs 53, relative risk 1.51 (95% CI 1.05, 2.18), P = 0.02].",
+            "Gastrointestinal side effects were more common in the metformin group compared with placebo ( Table 3 ).",
+            "There were no significant differences in nongastrointestinal side effects, moderate hypoglycemic events, or diabetes ketoacidosis between groups (Table 3 ).",
+            "There were no episodes of severe hypoglycemia or lactic acidosis during 12 months."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Vitamin B12 levels were significantly lower overall in the metformin group compared with placebo but were still within reported reference range (140 to 700 pmol/L) with no change in homocysteine levels ( Table 2 ). There was no significant difference in lactate, liver function, and renal function tests between metformin and placebo groups during 12 months (Table 2 ).",
+        "section": "Safety data",
+        "section_number": 26,
+        "sentences": [
+            "Vitamin B12 levels were significantly lower overall in the metformin group compared with placebo but were still within reported reference range (140 to 700 pmol/L) with no change in homocysteine levels ( Table 2 ).",
+            "There was no significant difference in lactate, liver function, and renal function tests between metformin and placebo groups during 12 months (Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "We report that metformin improved vascular smooth muscle function during 12 months in above average weight children with type 1 diabetes. The effect was modest and independent of the improvement in HbA1c on metformin. Benefits for both vascular smooth function and HbA1c were greatest at 3 months, when the participants' adherence was at its highest. These benefits were seen in participants who were prepubertal or pubertal at baseline. There was no significant benefit of metformin on measures of vascular structure, nor on traditional cardiovascular risk factors. The study contributes important original findings to our knowledge of metformin use in children with type 1 diabetes. First, it has shown an effect on vascular function. Second, children studied were above average weight but most were not overweight, unlike other metformin studies in adolescents (18, 26) . Therefore, our results can be applied to patients of a wider weight range and different pubertal status. Third, the study was of longer duration than previous studies in childhood and as such was well placed to demonstrate a good safety profile during 12 months. Finally, adherence was measured objectively using prospective electronic monitoring.",
+        "section": "Conclusions",
+        "section_number": 27,
+        "sentences": [
+            "We report that metformin improved vascular smooth muscle function during 12 months in above average weight children with type 1 diabetes.",
+            "The effect was modest and independent of the improvement in HbA1c on metformin.",
+            "Benefits for both vascular smooth function and HbA1c were greatest at 3 months, when the participants' adherence was at its highest.",
+            "These benefits were seen in participants who were prepubertal or pubertal at baseline.",
+            "There was no significant benefit of metformin on measures of vascular structure, nor on traditional cardiovascular risk factors.",
+            "The study contributes important original findings to our knowledge of metformin use in children with type 1 diabetes.",
+            "First, it has shown an effect on vascular function.",
+            "Second, children studied were above average weight but most were not overweight, unlike other metformin studies in adolescents (18, 26) .",
+            "Therefore, our results can be applied to patients of a wider weight range and different pubertal status.",
+            "Third, the study was of longer duration than previous studies in childhood and as such was well placed to demonstrate a good safety profile during 12 months.",
+            "Finally, adherence was measured objectively using prospective electronic monitoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "The significance of vascular smooth muscle function as measured by GTN is as follows: it relates to preclinical carotid atherosclerosis in children (27) and in adults (28) with accelerated atherosclerosis. It is impaired in adults with coronary artery disease (6) . It can be impaired independently of endothelial dysfunction (7) and in some studies it is a better predictor than FMD of cardiovascular events and coronary artery calcification (29, 30) . Furthermore, the improvement in vascular function, independent of HbA1c, is consistent with metformin's direct effect in vitro on smooth muscle by stimulating nitric oxide synthesis via activation of AMP kinase in smooth muscle (21) , which is reflected by improvement in GTN rather than FMD. The effect on GTN alone rather than both GTN and FMD does suggest a more modest benefit of metformin on vascular function.",
+        "section": "Conclusions",
+        "section_number": 28,
+        "sentences": [
+            "The significance of vascular smooth muscle function as measured by GTN is as follows: it relates to preclinical carotid atherosclerosis in children (27) and in adults (28) with accelerated atherosclerosis.",
+            "It is impaired in adults with coronary artery disease (6) .",
+            "It can be impaired independently of endothelial dysfunction (7) and in some studies it is a better predictor than FMD of cardiovascular events and coronary artery calcification (29, 30) .",
+            "Furthermore, the improvement in vascular function, independent of HbA1c, is consistent with metformin's direct effect in vitro on smooth muscle by stimulating nitric oxide synthesis via activation of AMP kinase in smooth muscle (21) , which is reflected by improvement in GTN rather than FMD.",
+            "The effect on GTN alone rather than both GTN and FMD does suggest a more modest benefit of metformin on vascular function."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "The HbA1c improvement with a fall in insulin dose, and an increase in estimated insulin sensitivity during 12 months in the metformin group, provides a significant clinical benefit. Note that overall benefit of metformin was primarily explained by the improvement in HbA1c at 3 months, which then waned over time. Most children with type 1 diabetes in Australia do not achieve target HbA1c levels (31, 32) , and approximately a third of children with type 1 diabetes in Australia are overweight (32) . Therefore, the combination of improved metabolic control and a lower insulin dose requirement is particularly relevant to this group. A similar improvement in HbA1c from a similar baseline level was not sustained beyond 13 weeks in a recent randomized controlled trial of metformin in adolescents with type 1 diabetes (18). There were several differences in this United States study in comparison with our study that may explain this: the adolescents were all overweight/obese, had a higher insulin dose, were older and mostly postpubertal, and had a longer duration of type 1 diabetes. Additionally, these adolescents were required to be adherent with blood glucose monitoring prior to study entry, and HbA1c level .10% was an exclusion criteria. Additionally, the study duration was 6 months and was conducted in 26 centers, with a higher number of clinicians adjusting insulin doses, whereas our study was conducted in one center with only four pediatric endocrinologists, in addition to the primary investigator, adjusting insulin doses throughout the study to aid consistency. Metformin was well tolerated in our study, as expected from previous systematic reviews in children (33, 34) . The mild fall in vitamin B12 detected on metformin, without homocysteine changes, would not normally be regarded as clinically significant, unless baseline levels of vitamin B12 were already low. No participant experienced severe hypoglycemia, and moderate hypoglycemia was not significantly increased in the metformin group. In addition to weekly phone calls, participants had 24-hour access to one of four clinicians if they experienced an increase in mild hypoglycemic events, and insulin dose was adjusted accordingly. This consistency in care may explain why we had no severe hypoglycemia unlike some other studies (18, 20, 26) .",
+        "section": "Conclusions",
+        "section_number": 29,
+        "sentences": [
+            "The HbA1c improvement with a fall in insulin dose, and an increase in estimated insulin sensitivity during 12 months in the metformin group, provides a significant clinical benefit.",
+            "Note that overall benefit of metformin was primarily explained by the improvement in HbA1c at 3 months, which then waned over time.",
+            "Most children with type 1 diabetes in Australia do not achieve target HbA1c levels (31, 32) , and approximately a third of children with type 1 diabetes in Australia are overweight (32) .",
+            "Therefore, the combination of improved metabolic control and a lower insulin dose requirement is particularly relevant to this group.",
+            "A similar improvement in HbA1c from a similar baseline level was not sustained beyond 13 weeks in a recent randomized controlled trial of metformin in adolescents with type 1 diabetes (18).",
+            "There were several differences in this United States study in comparison with our study that may explain this: the adolescents were all overweight/obese, had a higher insulin dose, were older and mostly postpubertal, and had a longer duration of type 1 diabetes.",
+            "Additionally, these adolescents were required to be adherent with blood glucose monitoring prior to study entry, and HbA1c level .10% was an exclusion criteria.",
+            "Additionally, the study duration was 6 months and was conducted in 26 centers, with a higher number of clinicians adjusting insulin doses, whereas our study was conducted in one center with only four pediatric endocrinologists, in addition to the primary investigator, adjusting insulin doses throughout the study to aid consistency.",
+            "Metformin was well tolerated in our study, as expected from previous systematic reviews in children (33, 34) .",
+            "The mild fall in vitamin B12 detected on metformin, without homocysteine changes, would not normally be regarded as clinically significant, unless baseline levels of vitamin B12 were already low.",
+            "No participant experienced severe hypoglycemia, and moderate hypoglycemia was not significantly increased in the metformin group.",
+            "In addition to weekly phone calls, participants had 24-hour access to one of four clinicians if they experienced an increase in mild hypoglycemic events, and insulin dose was adjusted accordingly.",
+            "This consistency in care may explain why we had no severe hypoglycemia unlike some other studies (18, 20, 26) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "We did not demonstrate any reduction in BMI, body fat percentage, waist circumference, or adiponectin/leptin ratio during 12 months. This is in contrast to other studies of metformin in overweight/obese children with type 1 diabetes. The difference may be explained by our inclusion criteria threshold of BMI . 50th percentile rather than overweight/obese. Meta-analysis supports this difference in study findings whereby BMI is reduced in overweight/ obese, but not in above average weight, populations (33) . The loss in lean body mass in the metformin group was an unexpected finding of uncertain clinical significance.",
+        "section": "Conclusions",
+        "section_number": 30,
+        "sentences": [
+            "We did not demonstrate any reduction in BMI, body fat percentage, waist circumference, or adiponectin/leptin ratio during 12 months.",
+            "This is in contrast to other studies of metformin in overweight/obese children with type 1 diabetes.",
+            "The difference may be explained by our inclusion criteria threshold of BMI .",
+            "50th percentile rather than overweight/obese.",
+            "Meta-analysis supports this difference in study findings whereby BMI is reduced in overweight/ obese, but not in above average weight, populations (33) .",
+            "The loss in lean body mass in the metformin group was an unexpected finding of uncertain clinical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "The strengths of our study are that it was conducted at a single center with the same experienced sonographer performing ultrasound studies for assessment of vascular function and conferring high fidelity on all measures. Adherence was accurately assessed with two objective measures (MEMS caps and pill count), and there was a high study retention rate during 12 months. Limitations were that the duration of 12 months only provided the opportunity to realistically detect change in vascular function. Change in vascular structure likely requires several years of follow-up in type 1 diabetes (35) (36) (37) , and the study was powered to detect significant change in vascular dysfunction, not other vascular structural markers. Additionally, we relied on participant reports of hypoglycemia, so accurate assessment of severe and moderate episodes, but not mild episodes, of hypoglycemia could be made. 0 (0,0) 0 (0,0) 0 (0,0) 1.00 b (0.14-7.10) 1.00",
+        "section": "Conclusions",
+        "section_number": 31,
+        "sentences": [
+            "The strengths of our study are that it was conducted at a single center with the same experienced sonographer performing ultrasound studies for assessment of vascular function and conferring high fidelity on all measures.",
+            "Adherence was accurately assessed with two objective measures (MEMS caps and pill count), and there was a high study retention rate during 12 months.",
+            "Limitations were that the duration of 12 months only provided the opportunity to realistically detect change in vascular function.",
+            "Change in vascular structure likely requires several years of follow-up in type 1 diabetes (35) (36) (37) , and the study was powered to detect significant change in vascular dysfunction, not other vascular structural markers.",
+            "Additionally, we relied on participant reports of hypoglycemia, so accurate assessment of severe and moderate episodes, but not mild episodes, of hypoglycemia could be made.",
+            "0 (0,0) 0 (0,0) 0 (0,0) 1.00 b (0.14-7.10) 1.00"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Abbreviations: IQR, interquartile range; IRR, incidence rate ratio; RR, risk ratio. a Risk ratios reported for comparison of participants with side effects between metformin and placebo.",
+        "section": "Conclusions",
+        "section_number": 32,
+        "sentences": [
+            "Abbreviations: IQR, interquartile range; IRR, incidence rate ratio; RR, risk ratio.",
+            "a Risk ratios reported for comparison of participants with side effects between metformin and placebo."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "b Incidence rate ratios for comparison of number of events per participant between metformin and placebo.",
+        "section": "Conclusions",
+        "section_number": 33,
+        "sentences": [
+            "b Incidence rate ratios for comparison of number of events per participant between metformin and placebo."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "In summary, the demonstrated benefit of metformin on vascular function, HbA1c, insulin dose, and estimated insulin sensitivity during 12 months in children with type 1 diabetes who are above average weight, as well as the good safety profile, warrants ongoing consideration of its use in this population.",
+        "section": "Conclusions",
+        "section_number": 34,
+        "sentences": [
+            "In summary, the demonstrated benefit of metformin on vascular function, HbA1c, insulin dose, and estimated insulin sensitivity during 12 months in children with type 1 diabetes who are above average weight, as well as the good safety profile, warrants ongoing consideration of its use in this population."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "doi: 10.1210/jc.2017-00781 https://academic.oup.com/jcem",
+        "section": "",
+        "section_number": 35,
+        "sentences": [
+            "doi: 10.1210/jc.2017-00781 https://academic.oup.com/jcem"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Downloaded from https://academic.oup.com/jcem/article-abstract/102/12/4448/4364960 by University of Alberta user on 28 February 2020",
+        "section": "",
+        "section_number": 36,
+        "sentences": [
+            "Downloaded from https://academic.oup.com/jcem/article-abstract/102/12/4448/4364960 by University of Alberta user on 28 February 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34901",
+        "text": "Metformin in Children With Type 1 Diabetes J Clin Endocrinol Metab, December 2017, 102(12):4448-4456 Downloaded from https://academic.oup.com/jcem/article-abstract/102/12/4448/4364960 by University of Alberta user on 28 February 2020",
+        "section": "",
+        "section_number": 37,
+        "sentences": [
+            "Metformin in Children With Type 1 Diabetes J Clin Endocrinol Metab, December 2017, 102(12):4448-4456 Downloaded from https://academic.oup.com/jcem/article-abstract/102/12/4448/4364960 by University of Alberta user on 28 February 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

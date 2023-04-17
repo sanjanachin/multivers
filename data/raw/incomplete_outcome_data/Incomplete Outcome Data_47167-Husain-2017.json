@@ -1,0 +1,748 @@
+[
+    {
+        "doc_id": "47167",
+        "text": "Aim: The aim of this study was to evaluate the efficacy of oral misoprostol and Foley's catheter versus oral misoprostol alone for induction of labor. Methods: This open-label randomized controlled trial included 335 women requiring induction of labor. A total of 166 women were randomly allocated to induction with oral misoprostol alone and 169 women were assigned for induction with Foley's balloon catheter and oral misoprostol using a computer-generated allocation sequence. The primary outcome was rate of failure to achieve vaginal delivery within 24 h of induction. Results: The proportion of women failing to achieve vaginal delivery within 24 h in the combination group was lower (11.8% vs 28.7%, P = 0.001). When the two groups were stratified according to parity, the difference remained statistically significant only for parous women. The median induction-to-delivery interval (13.0 h vs 19 h, P = 0.000) and the median number of doses of misoprostol used (2 vs 3, P = 0.000) were lower in the combination group. The number of women who delivered vaginally in the combination group was significantly higher (91% vs 79%, P = 0.001). More neonates born to women in the misoprostol group had Apgar scores < 7 and were admitted to the neonatal intensive care unit (P = 0.016 and P = 0.007, respectively). Conclusion: The rate of failure to achieve vaginal delivery within 24 h was lower with Foley's balloon and oral misoprostol as compared to oral misoprostol alone.",
+        "section": "Abstract",
+        "sentences": [
+            "Aim: The aim of this study was to evaluate the efficacy of oral misoprostol and Foley's catheter versus oral misoprostol alone for induction of labor.",
+            "Methods: This open-label randomized controlled trial included 335 women requiring induction of labor.",
+            "A total of 166 women were randomly allocated to induction with oral misoprostol alone and 169 women were assigned for induction with Foley's balloon catheter and oral misoprostol using a computer-generated allocation sequence.",
+            "The primary outcome was rate of failure to achieve vaginal delivery within 24 h of induction.",
+            "Results: The proportion of women failing to achieve vaginal delivery within 24 h in the combination group was lower (11.8% vs 28.7%, P = 0.001).",
+            "When the two groups were stratified according to parity, the difference remained statistically significant only for parous women.",
+            "The median induction-to-delivery interval (13.0 h vs 19 h, P = 0.000) and the median number of doses of misoprostol used (2 vs 3, P = 0.000) were lower in the combination group.",
+            "The number of women who delivered vaginally in the combination group was significantly higher (91% vs 79%, P = 0.001).",
+            "More neonates born to women in the misoprostol group had Apgar scores < 7 and were admitted to the neonatal intensive care unit (P = 0.016 and P = 0.007, respectively).",
+            "Conclusion: The rate of failure to achieve vaginal delivery within 24 h was lower with Foley's balloon and oral misoprostol as compared to oral misoprostol alone."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "47167",
+        "text": "Labor is induced when delivery will be of benefit to the health of the fetus, the mother, or both. 1 Labor induction has many risks, including infection, hyperstimulation, fetal distress, uterine rupture, and the need for cesarean section (CS). 2, 3 Labor induction is more likely to be successful if the cervix is ripe. 4 Calculating the Bishop score before induction is important. 5 When the Bishop score is <6 it is recommended that a cervical ripening agent be used prior to induction. 6, 7 Methods of induction presently used include mechanical, pharmacological, or a combination of both pharmacological and mechanical methods.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Labor is induced when delivery will be of benefit to the health of the fetus, the mother, or both.",
+            "1 Labor induction has many risks, including infection, hyperstimulation, fetal distress, uterine rupture, and the need for cesarean section (CS).",
+            "2, 3 Labor induction is more likely to be successful if the cervix is ripe.",
+            "4 Calculating the Bishop score before induction is important.",
+            "5 When the Bishop score is <6 it is recommended that a cervical ripening agent be used prior to induction.",
+            "6, 7 Methods of induction presently used include mechanical, pharmacological, or a combination of both pharmacological and mechanical methods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Prostaglandins have emerged as the current standard for labor induction in pharmacological methods. Among the prostaglandins, misoprostol has been proven to be more effective than prostaglandin E2 (PGE2), placebo, and oxytocin. 8 Oral administration has been shown to be superior to the vaginal route. 6 Mechanical methods include single-and doubleballoon catheters. The balloon-insertion-to-delivery interval is significantly shorter and the CS rate is significantly lower with double-balloon catheters, whereas Foley's catheter is cheaper and more easily available in most situations. 9, 10 Foley's catheter affects changes on the various components of the Bishop score 11 and does not cause over-stimulation of the uterus, does not increase the risk of rupture or intrauterine infection, and does not adversely affect the fetus and new born. 12, 13 In a combination approach, both ripening agents appear to act independently rather than synergistically. 14 Intravaginal misoprostol is more effective in improving the scores of cervical length and consistency, while transcervical Foley catheter is better at improving the cervical os dilatation score at pre-induction cervical ripening; thus, both improve different parameters. 15 Several studies have demonstrated the effect of a combination of agents; such an approach may lead to a decrease in dose of misoprostol and, thus, side-effects as well as failed induction. 16 Similarly, delivery within 24 h has also been used as a parameter to indicate superiority. 17 There is no agreement on the best method of induction. Many combinations have been proposed as they affect the cervix differently.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Prostaglandins have emerged as the current standard for labor induction in pharmacological methods.",
+            "Among the prostaglandins, misoprostol has been proven to be more effective than prostaglandin E2 (PGE2), placebo, and oxytocin.",
+            "8 Oral administration has been shown to be superior to the vaginal route.",
+            "6 Mechanical methods include single-and doubleballoon catheters.",
+            "The balloon-insertion-to-delivery interval is significantly shorter and the CS rate is significantly lower with double-balloon catheters, whereas Foley's catheter is cheaper and more easily available in most situations.",
+            "9, 10 Foley's catheter affects changes on the various components of the Bishop score 11 and does not cause over-stimulation of the uterus, does not increase the risk of rupture or intrauterine infection, and does not adversely affect the fetus and new born.",
+            "12, 13 In a combination approach, both ripening agents appear to act independently rather than synergistically.",
+            "14 Intravaginal misoprostol is more effective in improving the scores of cervical length and consistency, while transcervical Foley catheter is better at improving the cervical os dilatation score at pre-induction cervical ripening; thus, both improve different parameters.",
+            "15 Several studies have demonstrated the effect of a combination of agents; such an approach may lead to a decrease in dose of misoprostol and, thus, side-effects as well as failed induction.",
+            "16 Similarly, delivery within 24 h has also been used as a parameter to indicate superiority.",
+            "17 There is no agreement on the best method of induction.",
+            "Many combinations have been proposed as they affect the cervix differently."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Kehl et al. found that failure of induction of labor in their oral misoprostol and double-balloon catheter group and oral misoprostol alone group were 9.3% and 21.2%, respectively, in patients undergoing induction of labor. 18 Double-balloon catheters are expensive and Foley's catheter is still the most widely used mechanical method worldwide. 19 No randomized controlled trials have been carried out to assess oral misoprostol alone versus oral misoprostol and Foley's catheter for induction of labor.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Kehl et al. found that failure of induction of labor in their oral misoprostol and double-balloon catheter group and oral misoprostol alone group were 9.3% and 21.2%, respectively, in patients undergoing induction of labor.",
+            "18 Double-balloon catheters are expensive and Foley's catheter is still the most widely used mechanical method worldwide.",
+            "19 No randomized controlled trials have been carried out to assess oral misoprostol alone versus oral misoprostol and Foley's catheter for induction of labor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The aim of this study was therefore to evaluate the rate of failure to achieve vaginal delivery within 24 h of induction of labor using oral misoprostol and Foley's catheter and oral misoprostol alone.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The aim of this study was therefore to evaluate the rate of failure to achieve vaginal delivery within 24 h of induction of labor using oral misoprostol and Foley's catheter and oral misoprostol alone."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Women needing induction of labor were recruited in the antenatal clinic of Abbasi Shaheed Hospital in Karachi, Pakistan from 1 May 2016 to 31 October 2016. The hospital is one of the three tertiary care centers of the city. The study was approved by the ethical review committee of the institution. All women provided informed consent before randomization. The study was an open-label randomized controlled trial registered with clinicaltrial.gov.",
+        "section": "Methods",
+        "section_number": 5,
+        "sentences": [
+            "Women needing induction of labor were recruited in the antenatal clinic of Abbasi Shaheed Hospital in Karachi, Pakistan from 1 May 2016 to 31 October 2016.",
+            "The hospital is one of the three tertiary care centers of the city.",
+            "The study was approved by the ethical review committee of the institution.",
+            "All women provided informed consent before randomization.",
+            "The study was an open-label randomized controlled trial registered with clinicaltrial.gov."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Women aged 20 to 40 years, with singleton pregnancy and a fetus in cephalic presentation as assessed by ultrasound at term (i.e., gestational age \u2265 37 weeks by last menstrual period and dating scan) were included.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "Women aged 20 to 40 years, with singleton pregnancy and a fetus in cephalic presentation as assessed by ultrasound at term (i.e., gestational age \u2265 37 weeks by last menstrual period and dating scan) were included."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Excluded from the study were those with a Bishop score of >4, cephalopelvic disproportion on examination, history of placenta previa or unexplained vaginal bleeding, history of previous CS or other uterine surgery, active herpes simplex infection suspected on examination and history, chorioamnionitis suspected on history and examination, any contraindication to use of prostaglandins (e.g. hypersensitivity, asthma), acute pelvic inflammatory disease, or any contraindication to vaginal delivery. Women with a nonreassuring fetal heart rate pattern prior to induction were also excluded.",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "Excluded from the study were those with a Bishop score of >4, cephalopelvic disproportion on examination, history of placenta previa or unexplained vaginal bleeding, history of previous CS or other uterine surgery, active herpes simplex infection suspected on examination and history, chorioamnionitis suspected on history and examination, any contraindication to use of prostaglandins (e.g. hypersensitivity, asthma), acute pelvic inflammatory disease, or any contraindication to vaginal delivery.",
+            "Women with a nonreassuring fetal heart rate pattern prior to induction were also excluded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Women were enrolled by the doctors in the labor room. They were randomly allocated to induction with Foley's balloon catheter and oral misoprostol or oral misoprostol alone.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "Women were enrolled by the doctors in the labor room.",
+            "They were randomly allocated to induction with Foley's balloon catheter and oral misoprostol or oral misoprostol alone."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "A computer-generated randomization scheme was used to create the randomization sequence with 1:1 allocation for each arm of the study. The randomization sequence was created using EXCEL 2007 (Microsoft) using random block sizes of 2 and 4. To ensure concealment of the random allocation from those responsible for recruiting participants into the study, sealed opaque envelopes were prepared. Blinding of the woman or the care provider was not possible due to the nature of the intervention received.",
+        "section": "Methods",
+        "section_number": 9,
+        "sentences": [
+            "A computer-generated randomization scheme was used to create the randomization sequence with 1:1 allocation for each arm of the study.",
+            "The randomization sequence was created using EXCEL 2007 (Microsoft) using random block sizes of 2 and 4.",
+            "To ensure concealment of the random allocation from those responsible for recruiting participants into the study, sealed opaque envelopes were prepared.",
+            "Blinding of the woman or the care provider was not possible due to the nature of the intervention received."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Women were counseled about the procedure in detail before initiating the research and consent for the emergency lower-segment CS was taken.",
+        "section": "Methods",
+        "section_number": 10,
+        "sentences": [
+            "Women were counseled about the procedure in detail before initiating the research and consent for the emergency lower-segment CS was taken."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Each woman underwent cervical assessment before induction, in order to determine the Bishop score. 20 To ensure uniformity, all assessments were done by one of the principal investigators (S.A.H. or S.O.H.).",
+        "section": "Methods",
+        "section_number": 11,
+        "sentences": [
+            "Each woman underwent cervical assessment before induction, in order to determine the Bishop score.",
+            "20 To ensure uniformity, all assessments were done by one of the principal investigators (S.A.H. or S.O.H.)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Each recruited woman was randomized to one of two groups: the oral misoprostol and Foley's catheter combination group (the study group); and the misoprostol group (the control group). The combination group received oral misoprostol (50-\u03bcg tab cytotec \u00bc tablets; Searle) and intracervical Foley's catheter whereas the misoprostol group received oral misoprostol (50-\u03bcg tab cytotec \u00bc tablets; Searle) only.",
+        "section": "Methods",
+        "section_number": 12,
+        "sentences": [
+            "Each recruited woman was randomized to one of two groups: the oral misoprostol and Foley's catheter combination group (the study group); and the misoprostol group (the control group).",
+            "The combination group received oral misoprostol (50-\u03bcg tab cytotec \u00bc tablets; Searle) and intracervical Foley's catheter whereas the misoprostol group received oral misoprostol (50-\u03bcg tab cytotec \u00bc tablets; Searle) only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "In the combination group, the cervix was visualized with a sterile speculum and under direct visualization a 16-or 18-Fr Foley catheter was introduced into the cervix. The balloon was filled with 30 cm 3 of 0.9% NaCl or water. The external end of the Foley's catheter was taped to the thigh without giving traction. Foley catheter location after placement was evaluated digitally. These women then received 50 \u03bcg misoprostol orally; misoprostol was repeated every 4 h for a maximum of four doses. The second dose was withheld if regular contractions were established (three contractions per 10 min), or if tachysystole (six contractions in 10 min), hyperstimulation (single contraction lasting \u22652 min), or non-reassuring fetal heart rate were seen. Women were instructed to observe 1 h of bedrest after the first dose, while fetal condition and uterine activity were monitored.",
+        "section": "Methods",
+        "section_number": 13,
+        "sentences": [
+            "In the combination group, the cervix was visualized with a sterile speculum and under direct visualization a 16-or 18-Fr Foley catheter was introduced into the cervix.",
+            "The balloon was filled with 30 cm 3 of 0.9% NaCl or water.",
+            "The external end of the Foley's catheter was taped to the thigh without giving traction.",
+            "Foley catheter location after placement was evaluated digitally.",
+            "These women then received 50 \u03bcg misoprostol orally; misoprostol was repeated every 4 h for a maximum of four doses.",
+            "The second dose was withheld if regular contractions were established (three contractions per 10 min), or if tachysystole (six contractions in 10 min), hyperstimulation (single contraction lasting \u22652 min), or non-reassuring fetal heart rate were seen.",
+            "Women were instructed to observe 1 h of bedrest after the first dose, while fetal condition and uterine activity were monitored."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "For the study purpose, if labor was not established within 4 h of the administration of the fourth dose of misoprostol, induction was considered to have failed and such cases were then delivered by CS.",
+        "section": "Methods",
+        "section_number": 14,
+        "sentences": [
+            "For the study purpose, if labor was not established within 4 h of the administration of the fourth dose of misoprostol, induction was considered to have failed and such cases were then delivered by CS."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "In the misoprostol group, oral misoprostol 50 \u03bcg was administered. Misoprostol was repeated 4-hourly for a maximum of four doses. Further dosing was withheld when similar criteria as for the combination group were met. This was followed by oxytocin infusion when needed (uterine contractions < three in 10 min). Standard preparation and infusion rates were used. Labor was monitored and partogram was maintained.",
+        "section": "Methods",
+        "section_number": 15,
+        "sentences": [
+            "In the misoprostol group, oral misoprostol 50 \u03bcg was administered.",
+            "Misoprostol was repeated 4-hourly for a maximum of four doses.",
+            "Further dosing was withheld when similar criteria as for the combination group were met.",
+            "This was followed by oxytocin infusion when needed (uterine contractions < three in 10 min).",
+            "Standard preparation and infusion rates were used.",
+            "Labor was monitored and partogram was maintained."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "To calculate an adequate sample size, we searched the literature for comparisons between oral misoprostol and combination. There is only one study that directly compares induction between the two but they used a double-balloon catheter. 18 Using that study as a reference and assuming similar proportions for the combination and misoprostol alone, the sample size for the study came to be n = 155 patients in each group. The sample size for failure of induction of labor was calculated by using the World Health Organization software where, alpha = 10%, power of the test 1-beta = 90%, anticipated population proportion 1 = 9.3%, and anticipated population proportion 2 = 21.2%. We used the two-group test (two-sided test) of equivalence in proportion to calculate the sample size (Sample Size Determination in Health Studies, Version 2.00, Copyright (c) 1996-98, World Health Organization). To compensate for protocol deviation, the sample size was inflated by 3% so that a minimum of 160 women was randomized to each arm of the study.",
+        "section": "Methods",
+        "section_number": 16,
+        "sentences": [
+            "To calculate an adequate sample size, we searched the literature for comparisons between oral misoprostol and combination.",
+            "There is only one study that directly compares induction between the two but they used a double-balloon catheter.",
+            "18 Using that study as a reference and assuming similar proportions for the combination and misoprostol alone, the sample size for the study came to be n = 155 patients in each group.",
+            "The sample size for failure of induction of labor was calculated by using the World Health Organization software where, alpha = 10%, power of the test 1-beta = 90%, anticipated population proportion 1 = 9.3%, and anticipated population proportion 2 = 21.2%.",
+            "We used the two-group test (two-sided test) of equivalence in proportion to calculate the sample size (Sample Size Determination in Health Studies, Version 2.00, Copyright (c) 1996-98, World Health Organization).",
+            "To compensate for protocol deviation, the sample size was inflated by 3% so that a minimum of 160 women was randomized to each arm of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "There is no fixed definition of failed induction of labor. For the study purpose, if labor was not established (i.e., no contractions within 4 h of the administration of the fourth dose of misoprostol), induction was considered to have failed and such cases were then assessed by the consultant on call and given a choice between CS and repeat induction. The indications for CS were failed induction of labor, failure to progress (i.e., cervical dilation < 4 cm after onset of three regular uterine contractions in 10 min), or non-reassuring fetal heart rate as assessed by continuous electronic fetal monitoring by the doctor attending the parturient.",
+        "section": "Methods",
+        "section_number": 17,
+        "sentences": [
+            "There is no fixed definition of failed induction of labor.",
+            "For the study purpose, if labor was not established (i.e., no contractions within 4 h of the administration of the fourth dose of misoprostol), induction was considered to have failed and such cases were then assessed by the consultant on call and given a choice between CS and repeat induction.",
+            "The indications for CS were failed induction of labor, failure to progress (i.e., cervical dilation < 4 cm after onset of three regular uterine contractions in 10 min), or non-reassuring fetal heart rate as assessed by continuous electronic fetal monitoring by the doctor attending the parturient."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The primary outcome was rate of failure to achieve vaginal delivery after 24 h. Secondary outcomes were induction-to-delivery interval, mode of delivery, reason for CS (i.e., suspected fetal distress and/or failure of induction), maternal complications, and neonatal intensive care unit (NICU) admissions.",
+        "section": "Methods",
+        "section_number": 18,
+        "sentences": [
+            "The primary outcome was rate of failure to achieve vaginal delivery after 24 h. Secondary outcomes were induction-to-delivery interval, mode of delivery, reason for CS (i.e., suspected fetal distress and/or failure of induction), maternal complications, and neonatal intensive care unit (NICU) admissions."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The quantitative variables age, gestational age, parity, Bishop score, induction-to-delivery interval, and number of doses of misoprostol are presented as medians and range; the Mann-Whitney U-test was used to compare the groups. Frequency and percentages were computed for qualitative variables: failure to achieve vaginal delivery within 24 h; vaginal delivery in groups; indication for induction; and maternal and neonatal complications. The \u03c7 2 -test and Fischer's exact test were used to compare these variables with a P < 0.05 level of significance.",
+        "section": "Methods",
+        "section_number": 19,
+        "sentences": [
+            "The quantitative variables age, gestational age, parity, Bishop score, induction-to-delivery interval, and number of doses of misoprostol are presented as medians and range; the Mann-Whitney U-test was used to compare the groups.",
+            "Frequency and percentages were computed for qualitative variables: failure to achieve vaginal delivery within 24 h; vaginal delivery in groups; indication for induction; and maternal and neonatal complications.",
+            "The \u03c7 2 -test and Fischer's exact test were used to compare these variables with a P < 0.05 level of significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Time to delivery was analyzed using Kaplan-Meier survival plots and curves were compared by means of the Mantel-Haenszel log-rank test. A significance level of 5% was chosen. SPSS 15.0 (SPSS Inc.) was used for all statistical analyses.",
+        "section": "Methods",
+        "section_number": 20,
+        "sentences": [
+            "Time to delivery was analyzed using Kaplan-Meier survival plots and curves were compared by means of the Mantel-Haenszel log-rank test.",
+            "A significance level of 5% was chosen.",
+            "SPSS 15.0 (SPSS Inc.) was used for all statistical analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Over the study period, 636 women underwent induction of labor. Of these, 410 met the inclusion criteria and were invited to participate and 75 refused to participate. The remaining 335 women who consented were randomized. The trial profile is shown in Figure 1 .",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "Over the study period, 636 women underwent induction of labor.",
+            "Of these, 410 met the inclusion criteria and were invited to participate and 75 refused to participate.",
+            "The remaining 335 women who consented were randomized.",
+            "The trial profile is shown in Figure 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "A total of 166 women were randomly allocated to the induction with oral misoprostol alone group. Nine had to be excluded from analysis because of protocol deviation (n = 5) or because they requested CS and withdrew from the study (n = 4).",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "A total of 166 women were randomly allocated to the induction with oral misoprostol alone group.",
+            "Nine had to be excluded from analysis because of protocol deviation (n = 5) or because they requested CS and withdrew from the study (n = 4)."
+        ],
+        "sentence_labels": [
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "47167",
+        "text": "The combination group consisted of 169 women who were assigned for induction with Foley's balloon catheter and oral misoprostol. Eight had to be excluded because of deviation from protocol (n = 3) and due to insertion difficulties (n = 5).",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "The combination group consisted of 169 women who were assigned for induction with Foley's balloon catheter and oral misoprostol.",
+            "Eight had to be excluded because of deviation from protocol (n = 3) and due to insertion difficulties (n = 5)."
+        ],
+        "sentence_labels": [
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "47167",
+        "text": "The demographic and pregnancy characteristics of both groups are shown in Table 1 . Both groups were similar in terms of characteristics. The table also shows the indications for induction in the two groups. Gestational age > 40 weeks was the most common indication, followed by pregnancy-induced hypertension and gestational diabetes.",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "The demographic and pregnancy characteristics of both groups are shown in Table 1 .",
+            "Both groups were similar in terms of characteristics.",
+            "The table also shows the indications for induction in the two groups.",
+            "Gestational age > 40 weeks was the most common indication, followed by pregnancy-induced hypertension and gestational diabetes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The primary outcome measure was women who failed to deliver within 24 h of induction. The proportion of women failing to achieve vaginal delivery within 24 h in the study group was 19 (11.8%) and in the misoprostol alone group this proportion was 45 (28.7%). This difference was statistically significant (P < 0.001; Table 2 ). When the two groups were stratified according to parity, the difference remained statistically significant for parous women but not for nulliparous women ( Table 3) .",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "The primary outcome measure was women who failed to deliver within 24 h of induction.",
+            "The proportion of women failing to achieve vaginal delivery within 24 h in the study group was 19 (11.8%) and in the misoprostol alone group this proportion was 45 (28.7%).",
+            "This difference was statistically significant (P < 0.001; Table 2 ).",
+            "When the two groups were stratified according to parity, the difference remained statistically significant for parous women but not for nulliparous women ( Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The median induction-to-delivery interval for the combination group was 13.0 h and that for the misoprostol alone group was 19.0 h (Fig. 2) . This difference reached statistical significance (P < 0.001; log-rank test; Table 2 ).",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "The median induction-to-delivery interval for the combination group was 13.0 h and that for the misoprostol alone group was 19.0 h (Fig. 2) .",
+            "This difference reached statistical significance (P < 0.001; log-rank test; Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The number of women who delivered vaginally in the combination group was significantly higher than that in the misoprostol alone group (P = 0.001). The difference did not reach statistical significance in the nulliparous group (Table 3) . The median number of doses of misoprostol used in the combination group was lower than that in the misoprostol alone group (two doses vs three doses; Table 2 ).",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "The number of women who delivered vaginally in the combination group was significantly higher than that in the misoprostol alone group (P = 0.001).",
+            "The difference did not reach statistical significance in the nulliparous group (Table 3) .",
+            "The median number of doses of misoprostol used in the combination group was lower than that in the misoprostol alone group (two doses vs three doses; Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "More neonates born to women in the misoprostol alone group had an Apgar score < 7 (24 vs 11; P = 0.016) and were admitted to the NICU (26 vs 11; Tables 2 and 3 .",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "More neonates born to women in the misoprostol alone group had an Apgar score < 7 (24 vs 11; P = 0.016) and were admitted to the NICU (26 vs 11; Tables 2 and 3 ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Endometritis occurred in one woman in the combination group and three women in the misoprostol alone group, whereas seven women in the combination group had uterine hyperstimulation as compared to 11 in the misoprostol alone group. All these complications were seen in the parous women except two cases of hyperstimulation in the nulliparous women (Tables 2 and 3 ).",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "Endometritis occurred in one woman in the combination group and three women in the misoprostol alone group, whereas seven women in the combination group had uterine hyperstimulation as compared to 11 in the misoprostol alone group.",
+            "All these complications were seen in the parous women except two cases of hyperstimulation in the nulliparous women (Tables 2 and 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The present study evaluates the role of a combination of Foley's balloon catheter and oral misoprostol. Our study shows that a combination of Foley's balloon catheter and oral misoprostol reduces the failure rate of achieving vaginal delivery within 24 h of induction and decreases the induction-to-delivery interval.",
+        "section": "Main findings",
+        "section_number": 30,
+        "sentences": [
+            "The present study evaluates the role of a combination of Foley's balloon catheter and oral misoprostol.",
+            "Our study shows that a combination of Foley's balloon catheter and oral misoprostol reduces the failure rate of achieving vaginal delivery within 24 h of induction and decreases the induction-to-delivery interval."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The number of doses of misoprostol required for induction is lower with a combination approach.",
+        "section": "Main findings",
+        "section_number": 31,
+        "sentences": [
+            "The number of doses of misoprostol required for induction is lower with a combination approach."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "NICU admissions and Apgar scores of <7 were also less common in our combination group. When stratifying according to parity, these differences remained significant only for the parous group.",
+        "section": "Main findings",
+        "section_number": 32,
+        "sentences": [
+            "NICU admissions and Apgar scores of <7 were also less common in our combination group.",
+            "When stratifying according to parity, these differences remained significant only for the parous group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The strength of this study is the prospective randomized controlled design, use of the most easily available balloon device, and the incorporation of misoprostol via its most acceptable route of administration (i.e., oral).",
+        "section": "Strengths and limitations",
+        "section_number": 33,
+        "sentences": [
+            "The strength of this study is the prospective randomized controlled design, use of the most easily available balloon device, and the incorporation of misoprostol via its most acceptable route of administration (i.e., oral)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Our study utilized Foley's balloon catheter, which is the most widely available and cost-effective cervical ripening balloon device. Mei-Dan et al. also showed that Foley's balloon is more cost-effective than the doubleballoon catheter. 9 Our study did not include many nulliparous women, so results for this subpopulation need further evaluation in larger trials.",
+        "section": "Strengths and limitations",
+        "section_number": 34,
+        "sentences": [
+            "Our study utilized Foley's balloon catheter, which is the most widely available and cost-effective cervical ripening balloon device.",
+            "Mei-Dan et al. also showed that Foley's balloon is more cost-effective than the doubleballoon catheter.",
+            "9 Our study did not include many nulliparous women, so results for this subpopulation need further evaluation in larger trials."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Induction of labor has become a common practice in the discipline of obstetrics and gynecology. Indications for induction are growing; as a result, more women with unfavorable cervices require induction. This scenario leads to many failed inductions if contemporary methods of induction are not adopted. 11, 14, 16, 18 Our analysis reports the first ever randomized controlled trial carried out in Pakistan to compare a combination of Foley's balloon catheter and oral misoprostol with oral misoprostol alone. The findings show that the combination approach led to fewer women remaining undelivered after 24 h of induction and fewer women requiring CS. These findings remained significant for parous women but not nulliparous women. This may be due to the fact that fewer nulliparous women were included in the analysis and their smaller number did not reach statistical significance.",
+        "section": "Interpretation",
+        "section_number": 35,
+        "sentences": [
+            "Induction of labor has become a common practice in the discipline of obstetrics and gynecology.",
+            "Indications for induction are growing; as a result, more women with unfavorable cervices require induction.",
+            "This scenario leads to many failed inductions if contemporary methods of induction are not adopted.",
+            "11, 14, 16, 18 Our analysis reports the first ever randomized controlled trial carried out in Pakistan to compare a combination of Foley's balloon catheter and oral misoprostol with oral misoprostol alone.",
+            "The findings show that the combination approach led to fewer women remaining undelivered after 24 h of induction and fewer women requiring CS.",
+            "These findings remained significant for parous women but not nulliparous women.",
+            "This may be due to the fact that fewer nulliparous women were included in the analysis and their smaller number did not reach statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "The indications for induction of labor in our study were similar to the indications in the published literature. 11, 14, 16, 18 Due to the association of premature rupture of membranes in triggering labor, women with ruptured membranes were excluded. Endometritis was seen in one woman in the combination group compared to three in the misoprostol alone group.",
+        "section": "Interpretation",
+        "section_number": 36,
+        "sentences": [
+            "The indications for induction of labor in our study were similar to the indications in the published literature.",
+            "11, 14, 16, 18 Due to the association of premature rupture of membranes in triggering labor, women with ruptured membranes were excluded.",
+            "Endometritis was seen in one woman in the combination group compared to three in the misoprostol alone group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "Patient acceptability and cost-effectiveness are two major areas of concern when inducing labor. Another aspect is expectation from the method employed in terms of duration from induction to delivery. A few analyses evaluating a combination approach have been published. 14, [16] [17] [18] Most of these studies used the double-balloon catheter as it is licensed for labor induction, while Foley's catheter is inexpensive and readily available in all situations. All published evidence shows that there are no significant differences between the two catheters. 21 The results of Kehl et al. are similar to our study, showing no significant differences between the two, other than the cost. 18 Oral misoprostol is considered safer and allows more consistent administration of dose as compared to the vaginal route. The oral route has additional benefit of user acceptance. 6 We used oral misoprostol to ensure that doses are adequately administered. Our results are in agreement with other studies. 17 The total number of doses required for inducing delivery decrease when an additional method of induction is used; this culminates in decreased incidence of complications (such as hyperstimulation and decreased Apgar scores at birth). The combination group required one dose less (two vs three) in our study. Further, fewer neonates in the combination group had Apgar scores <7 and fewer were admitted to the NICU in the combination group. This difference remained significant in the parous group but not in the nulliparous group.",
+        "section": "Interpretation",
+        "section_number": 37,
+        "sentences": [
+            "Patient acceptability and cost-effectiveness are two major areas of concern when inducing labor.",
+            "Another aspect is expectation from the method employed in terms of duration from induction to delivery.",
+            "A few analyses evaluating a combination approach have been published.",
+            "14, [16] [17] [18] Most of these studies used the double-balloon catheter as it is licensed for labor induction, while Foley's catheter is inexpensive and readily available in all situations.",
+            "All published evidence shows that there are no significant differences between the two catheters.",
+            "21 The results of Kehl et al. are similar to our study, showing no significant differences between the two, other than the cost.",
+            "18 Oral misoprostol is considered safer and allows more consistent administration of dose as compared to the vaginal route.",
+            "The oral route has additional benefit of user acceptance.",
+            "6 We used oral misoprostol to ensure that doses are adequately administered.",
+            "Our results are in agreement with other studies.",
+            "17 The total number of doses required for inducing delivery decrease when an additional method of induction is used; this culminates in decreased incidence of complications (such as hyperstimulation and decreased Apgar scores at birth).",
+            "The combination group required one dose less (two vs three) in our study.",
+            "Further, fewer neonates in the combination group had Apgar scores <7 and fewer were admitted to the NICU in the combination group.",
+            "This difference remained significant in the parous group but not in the nulliparous group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "It has been suggested that mechanical induction increases the likelihood of oxytocin use. 22, 23 Previous trials do not denote the indication for oxytocin use. As our study design did not incorporate the routine use of oxytocin, there was no significant difference between the two groups in terms of oxytocin use. This has also been established by other studies. 18, 24, 25 We suggest further trials evaluating the reduction in induction-to-delivery interval with a combination of Foley's balloon and oral misoprostol and a reduction in CS rates using this combination. The cost reduction anticipated by the use of Foley's catheter might be advantageous in all situations.",
+        "section": "Interpretation",
+        "section_number": 38,
+        "sentences": [
+            "It has been suggested that mechanical induction increases the likelihood of oxytocin use.",
+            "22, 23 Previous trials do not denote the indication for oxytocin use.",
+            "As our study design did not incorporate the routine use of oxytocin, there was no significant difference between the two groups in terms of oxytocin use.",
+            "This has also been established by other studies.",
+            "18, 24, 25 We suggest further trials evaluating the reduction in induction-to-delivery interval with a combination of Foley's balloon and oral misoprostol and a reduction in CS rates using this combination.",
+            "The cost reduction anticipated by the use of Foley's catheter might be advantageous in all situations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": "\u00a9 2017 Japan Society of Obstetrics and Gynecology",
+        "section": "",
+        "section_number": 39,
+        "sentences": [
+            "\u00a9 2017 Japan Society of Obstetrics and Gynecology"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47167",
+        "text": ", Fischer's exact test, or Mann-Whitney U-test *P-value is significant at < 0.05. CS, cesarean section; NICU, neonatal intensive care unit.S. Husain et al.\u00a9 2017 Japan Society of Obstetrics and Gynecology",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            ", Fischer's exact test, or Mann-Whitney U-test *P-value is significant at < 0.05.",
+            "CS, cesarean section; NICU, neonatal intensive care unit.",
+            "S. Husain et al.\u00a9 2017 Japan Society of Obstetrics and Gynecology"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

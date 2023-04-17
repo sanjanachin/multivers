@@ -1,0 +1,616 @@
+[
+    {
+        "doc_id": "34857",
+        "text": "Background: To compare changes in child dental anxiety after treatment for early childhood caries (ECC) using two treatment approaches. Methods: Children with ECC were randomized to test (atraumatic restorative treatment (ART)-based approach) or control (standard care approach) groups. Children aged 3 years or older completed a dental anxiety scale at baseline and follow up. Changes in child dental anxiety from baseline to follow up were tested using the chi-squared statistic, Wilcoxon rank sum test, McNemar's test and multinomial logistic regression. Results: Two hundred and fifty-four children were randomized (N = 127 test, N = 127 control). At baseline, 193 children completed the dental anxiety scale, 211 at follow up and 170 completed the scale on both occasions. Children who were anxious at baseline (11%) were no longer anxious at follow up, and 11% non-anxious children became anxious. Multinomial logistic regression found each increment in the number of visits increased the odds of worsening dental anxiety (odds ratio (OR), 2.2; P < 0.05), whereas each increment in the number of treatments lowered the odds of worsening anxiety (OR, 0.50; P = 0.05). Conclusions: The ART-based approach to managing ECC resulted in similar levels of dental anxiety to the standard treatment approach and provides a valuable alternative approach to the management of ECC in a primary dental care setting.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: To compare changes in child dental anxiety after treatment for early childhood caries (ECC) using two treatment approaches.",
+            "Methods: Children with ECC were randomized to test (atraumatic restorative treatment (ART)-based approach) or control (standard care approach) groups.",
+            "Children aged 3 years or older completed a dental anxiety scale at baseline and follow up.",
+            "Changes in child dental anxiety from baseline to follow up were tested using the chi-squared statistic, Wilcoxon rank sum test, McNemar's test and multinomial logistic regression.",
+            "Results: Two hundred and fifty-four children were randomized (N = 127 test, N = 127 control).",
+            "At baseline, 193 children completed the dental anxiety scale, 211 at follow up and 170 completed the scale on both occasions.",
+            "Children who were anxious at baseline (11%) were no longer anxious at follow up, and 11% non-anxious children became anxious.",
+            "Multinomial logistic regression found each increment in the number of visits increased the odds of worsening dental anxiety (odds ratio (OR), 2.2; P < 0.05), whereas each increment in the number of treatments lowered the odds of worsening anxiety (OR, 0.50; P = 0.05).",
+            "Conclusions: The ART-based approach to managing ECC resulted in similar levels of dental anxiety to the standard treatment approach and provides a valuable alternative approach to the management of ECC in a primary dental care setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Dental anxiety is a highly prevalent condition in our population, affecting approximately 16% of Australian adults and 10% of Australian children. 1 Dental anxiety has significant individual and public health impacts and can lead to avoidance of dental care, resulting in poorer oral health and greater dental treatment needs. 2 The genesis of dental anxiety and fear is much debated. A birth cohort study in New Zealand in which dental anxiety was measured at ages 15, 18, 26 and 32 years defined six discrete dental anxiety groups through adolescence into adulthood: (i) stable non-anxious low; (ii) stable non-anxious medium; (iii) recovery; (iv) adult-onset anxious; (v) stable anxious; and (vi) adolescent-onset anxious. 3 In a multivariate analysis, controlling for personality traits measured at aged 18 years, the study found that caries experience at age 5 years was a predictor for membership in the stable anxious group.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Dental anxiety is a highly prevalent condition in our population, affecting approximately 16% of Australian adults and 10% of Australian children.",
+            "1 Dental anxiety has significant individual and public health impacts and can lead to avoidance of dental care, resulting in poorer oral health and greater dental treatment needs.",
+            "2 The genesis of dental anxiety and fear is much debated.",
+            "A birth cohort study in New Zealand in which dental anxiety was measured at ages 15, 18, 26 and 32 years defined six discrete dental anxiety groups through adolescence into adulthood: (i) stable non-anxious low; (ii) stable non-anxious medium; (iii) recovery; (iv) adult-onset anxious; (v) stable anxious; and (vi) adolescent-onset anxious.",
+            "3 In a multivariate analysis, controlling for personality traits measured at aged 18 years, the study found that caries experience at age 5 years was a predictor for membership in the stable anxious group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "There are suggestions that dental anxiety is most likely initiated during childhood and related to conditioning experiences. 4 A cross-sectional study in Canada reported that 16.4% of the adults surveyed were dentally anxious, and half reported that their dental anxiety started in childhood. 5 The aetiology of dental anxiety is not well understood; however, there are generally three proposed mechanisms for the development of dental anxiety: (i) directly through direct conditioning; (ii) indirectly via vicarious learning or modelling; 6 or (iii) a person's inherent personality traits. 7 There is support from longitudinal studies for all three mechanisms. 8, 9 Canadian adults who experienced pain during dental treatment, were treated in a cold uncaring manner, or were embarrassed or humiliated by the dental practitioner were more likely to become dentally anxious. 8 Experience of invasive dental treatment and having experienced dental extractions in combination with psychological factors were also predictive of onset of dental anxiety among young adults in New Zealand. 9 The acquisition of dental anxiety appears more complex among children. A longitudinal study that assessed children aged between 9 and 12 years to determine the association between dental experience and changes in dental anxiety reported that children who did not receive invasive treatment were significantly more anxious than those who had. 10 However, for those children who attended regularly and received invasive treatment, their dental anxiety did not change significantly. The children who attended irregularly and received invasive treatment showed the greatest increases in dental anxiety. Communication interactions between the clinician, the child and the parent may also play a critical role. 11 Where the communication between the clinician, child and parent was classified as 'disturbed', children scored higher on the anxiety scale.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "There are suggestions that dental anxiety is most likely initiated during childhood and related to conditioning experiences.",
+            "4 A cross-sectional study in Canada reported that 16.4% of the adults surveyed were dentally anxious, and half reported that their dental anxiety started in childhood.",
+            "5 The aetiology of dental anxiety is not well understood; however, there are generally three proposed mechanisms for the development of dental anxiety: (i) directly through direct conditioning; (ii) indirectly via vicarious learning or modelling; 6 or (iii) a person's inherent personality traits.",
+            "7 There is support from longitudinal studies for all three mechanisms.",
+            "8, 9 Canadian adults who experienced pain during dental treatment, were treated in a cold uncaring manner, or were embarrassed or humiliated by the dental practitioner were more likely to become dentally anxious.",
+            "8 Experience of invasive dental treatment and having experienced dental extractions in combination with psychological factors were also predictive of onset of dental anxiety among young adults in New Zealand.",
+            "9 The acquisition of dental anxiety appears more complex among children.",
+            "A longitudinal study that assessed children aged between 9 and 12 years to determine the association between dental experience and changes in dental anxiety reported that children who did not receive invasive treatment were significantly more anxious than those who had.",
+            "10 However, for those children who attended regularly and received invasive treatment, their dental anxiety did not change significantly.",
+            "The children who attended irregularly and received invasive treatment showed the greatest increases in dental anxiety.",
+            "Communication interactions between the clinician, the child and the parent may also play a critical role.",
+            "11 Where the communication between the clinician, child and parent was classified as 'disturbed', children scored higher on the anxiety scale."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Managing dental caries in children by the use of the atraumatic restorative treatment (ART) approach has been reported to result in less stressful behaviour in children undergoing restorative treatment, 12 and children may experience less dental anxiety and pain in comparison with standard care approaches. 13, 14 A recent systematic review, however, found no statistically significant difference in the level of anxiety among children treated with ART or a conventional approach. 15 This study reports on the changes in dental anxiety in children after treatment for early childhood caries (ECC), using an ART-based care approach compared with the standard care approach, in a primary public dental health care setting in Perth, Western Australia.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Managing dental caries in children by the use of the atraumatic restorative treatment (ART) approach has been reported to result in less stressful behaviour in children undergoing restorative treatment, 12 and children may experience less dental anxiety and pain in comparison with standard care approaches.",
+            "13, 14 A recent systematic review, however, found no statistically significant difference in the level of anxiety among children treated with ART or a conventional approach.",
+            "15 This study reports on the changes in dental anxiety in children after treatment for early childhood caries (ECC), using an ART-based care approach compared with the standard care approach, in a primary public dental health care setting in Perth, Western Australia."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The University of Western Australia Human Research Ethics Committee granted ethical approval for the study. Signed informed consent was provided by participating parents.",
+        "section": "Ethics",
+        "section_number": 4,
+        "sentences": [
+            "The University of Western Australia Human Research Ethics Committee granted ethical approval for the study.",
+            "Signed informed consent was provided by participating parents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The study design and sample selection has been reported. 16 Briefly, the study was a pragmatic, twoarm, parallel group, open label, randomized controlled trial undertaken in a primary public health care setting of the Dental Health Service (DHS) in Perth, Western Australia. Over a 12-month period, participants in the study were recruited through invitation poster displays, which were placed at preschool centres, child health clinics and school dental service clinics. Inclusion and exclusion criteria were applied; children younger than 6 years of age with early childhood caries were included. Children 6 years of age or older; were caries free; with acute dental pain and/or infection; with physical/mental disability which limited dental treatment in the primary care setting; or with general or dental developmental conditions which required specialist management (such as amelogenesis imperfecta, cleft lip/palate) were excluded.",
+        "section": "Study design",
+        "section_number": 5,
+        "sentences": [
+            "The study design and sample selection has been reported.",
+            "16 Briefly, the study was a pragmatic, twoarm, parallel group, open label, randomized controlled trial undertaken in a primary public health care setting of the Dental Health Service (DHS) in Perth, Western Australia.",
+            "Over a 12-month period, participants in the study were recruited through invitation poster displays, which were placed at preschool centres, child health clinics and school dental service clinics.",
+            "Inclusion and exclusion criteria were applied; children younger than 6 years of age with early childhood caries were included.",
+            "Children 6 years of age or older; were caries free; with acute dental pain and/or infection; with physical/mental disability which limited dental treatment in the primary care setting; or with general or dental developmental conditions which required specialist management (such as amelogenesis imperfecta, cleft lip/palate) were excluded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Initial screening of participants was done over the phone and secondary screening was conducted at a baseline clinical examination. Two dentists undertook the clinical examinations at baseline, prior to random allocation and at follow up, blind to group allocation status (inter-examiner j = 0.77). Children were stratified on caries experience and randomly allocated to test (T) or control (C) groups using a computer-generated block randomization procedure.",
+        "section": "Participants",
+        "section_number": 6,
+        "sentences": [
+            "Initial screening of participants was done over the phone and secondary screening was conducted at a baseline clinical examination.",
+            "Two dentists undertook the clinical examinations at baseline, prior to random allocation and at follow up, blind to group allocation status (inter-examiner j = 0.77).",
+            "Children were stratified on caries experience and randomly allocated to test (T) or control (C) groups using a computer-generated block randomization procedure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Parents and children aged 3 years or older completed a scale to measure dental anxiety while waiting for their dental examination. The parent (mother) completed a dental fear and anxiety schedule (IDAF-4C). 17 This is an eight-item scale that measures dental anxiety and fear in adults. The scale score was obtained by summing the score of each item; higher scores indicate higher dental anxiety.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "Parents and children aged 3 years or older completed a scale to measure dental anxiety while waiting for their dental examination.",
+            "The parent (mother) completed a dental fear and anxiety schedule (IDAF-4C).",
+            "17 This is an eight-item scale that measures dental anxiety and fear in adults.",
+            "The scale score was obtained by summing the score of each item; higher scores indicate higher dental anxiety."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Parents also completed a child oral health-related quality of life (COHRQoL) measure to assess changes in COHRQoL. 18 The findings with respect to changes in COHRQoL have been reported. 19 Conditioning factors were evaluated through counting the number of dental visits, number of treatments the child underwent and whether the child was referred for specialist paediatric dental care by reference to information in the patient record.",
+        "section": "Participants",
+        "section_number": 8,
+        "sentences": [
+            "Parents also completed a child oral health-related quality of life (COHRQoL) measure to assess changes in COHRQoL. 18 The findings with respect to changes in COHRQoL have been reported.",
+            "19 Conditioning factors were evaluated through counting the number of dental visits, number of treatments the child underwent and whether the child was referred for specialist paediatric dental care by reference to information in the patient record."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The outcome of interest in this study was the change in anxiety levels among children from baseline to follow up.",
+        "section": "Outcomes",
+        "section_number": 9,
+        "sentences": [
+            "The outcome of interest in this study was the change in anxiety levels among children from baseline to follow up."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Each child aged 3 years or older completed a facial image scale (FIS) to assess child dental anxiety at baseline and follow-up examinations (at~12 months after baseline examination). 20 The FIS has shown good validity when compared with the Venham picture test (VPT) in children aged 3-18 years. The scale comprises five faces ranging from very unhappy (score 1) to very happy (score 5) ( Fig. 1 ). Children were asked by the examiner's assistant to point to the face that best represented how they were feeling at that moment, without any parental assistance. Scores were dichotomized and defined as 'afraid' (score 1 or 2) or 'not afraid' (score 3, 4 or 5). Anxiety change scores were determined by subtracting the baseline score from the follow-up score; a positive changed score was deemed to be 'improved' dental anxiety and a negative changed score was a 'worsened' dental anxiety whilst a zero changed score was 'no change' in the level of anxiety. The changes were used to determine the global context of anxiety change and not on the exact quantum of change.",
+        "section": "Outcomes",
+        "section_number": 10,
+        "sentences": [
+            "Each child aged 3 years or older completed a facial image scale (FIS) to assess child dental anxiety at baseline and follow-up examinations (at~12 months after baseline examination).",
+            "20 The FIS has shown good validity when compared with the Venham picture test (VPT) in children aged 3-18 years.",
+            "The scale comprises five faces ranging from very unhappy (score 1) to very happy (score 5) ( Fig. 1 ).",
+            "Children were asked by the examiner's assistant to point to the face that best represented how they were feeling at that moment, without any parental assistance.",
+            "Scores were dichotomized and defined as 'afraid' (score 1 or 2) or 'not afraid' (score 3, 4 or 5).",
+            "Anxiety change scores were determined by subtracting the baseline score from the follow-up score; a positive changed score was deemed to be 'improved' dental anxiety and a negative changed score was a 'worsened' dental anxiety whilst a zero changed score was 'no change' in the level of anxiety.",
+            "The changes were used to determine the global context of anxiety change and not on the exact quantum of change."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Sample size estimation was based on demonstrating non-inferiority of effect between the two arms of the randomized trial on the primary outcome of the number of children referred for specialist paediatric dental care for ECC. 21 A sample size of 145 was required to demonstrate non-inferiority of effect for the primary outcome. The findings were deemed statistically significant at a = 0.05 with an 80% power to detect a true difference (b = 0.2).",
+        "section": "Sample size",
+        "section_number": 11,
+        "sentences": [
+            "Sample size estimation was based on demonstrating non-inferiority of effect between the two arms of the randomized trial on the primary outcome of the number of children referred for specialist paediatric dental care for ECC.",
+            "21 A sample size of 145 was required to demonstrate non-inferiority of effect for the primary outcome.",
+            "The findings were deemed statistically significant at a = 0.05 with an 80% power to detect a true difference (b = 0.2)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "School dental therapists (N = 5) provided with additional training on the ART approach treated the test (T) children. A pragmatic approach was adopted, and while hand instruments principally were used for caries removal, the use of rotary instruments and local analgesia was allowed if the clinician believed the procedure required it and the child was a suitable patient. Clinicians were instructed to provide care to the best of their ability and to strive for caries-free status at the dentino-enamel junction, however, to leave deep pulpal caries if its removal was likely to expose the pulp. Glass-ionomer cement (GIC) was used to restore the prepared cavity, and any remaining at-risk pits and fissures were sealed. Fluoride varnish was applied to all approximal tooth surfaces and initial enamel lesions and oral hygiene instruction was given to parents/patients.",
+        "section": "Test",
+        "section_number": 12,
+        "sentences": [
+            "School dental therapists (N = 5) provided with additional training on the ART approach treated the test (T) children.",
+            "A pragmatic approach was adopted, and while hand instruments principally were used for caries removal, the use of rotary instruments and local analgesia was allowed if the clinician believed the procedure required it and the child was a suitable patient.",
+            "Clinicians were instructed to provide care to the best of their ability and to strive for caries-free status at the dentino-enamel junction, however, to leave deep pulpal caries if its removal was likely to expose the pulp.",
+            "Glass-ionomer cement (GIC) was used to restore the prepared cavity, and any remaining at-risk pits and fissures were sealed.",
+            "Fluoride varnish was applied to all approximal tooth surfaces and initial enamel lesions and oral hygiene instruction was given to parents/patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Control children were treated by dentists employed at 10 government general dental clinics in metropolitan Perth (in one clinic, a dental therapist treated four children). Clinicians in the general clinics were directed to treat the participants in the usual way and using the standard care approach for a child of this age, with the children to be reviewed as per DHS requirements. No other instructions were provided. The use of local anaesthetic, rotary instruments and adhesive restorative materials (GIC or resin cements) often constitute the standard treatment approach. Patient management techniques were mainly behavioural management techniques. Nitrous oxide sedation was not available and the use of pharmacological approaches was at the discretion of the treating dentist.",
+        "section": "Control",
+        "section_number": 13,
+        "sentences": [
+            "Control children were treated by dentists employed at 10 government general dental clinics in metropolitan Perth (in one clinic, a dental therapist treated four children).",
+            "Clinicians in the general clinics were directed to treat the participants in the usual way and using the standard care approach for a child of this age, with the children to be reviewed as per DHS requirements.",
+            "No other instructions were provided.",
+            "The use of local anaesthetic, rotary instruments and adhesive restorative materials (GIC or resin cements) often constitute the standard treatment approach.",
+            "Patient management techniques were mainly behavioural management techniques.",
+            "Nitrous oxide sedation was not available and the use of pharmacological approaches was at the discretion of the treating dentist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "A referral for specialist paediatric dental care was an available option for all clinicians in the study if they felt the care for the child was best managed by a specialist.",
+        "section": "Control",
+        "section_number": 14,
+        "sentences": [
+            "A referral for specialist paediatric dental care was an available option for all clinicians in the study if they felt the care for the child was best managed by a specialist."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Data were analysed on an intention-to-treat basis. Test of proportions for categorical variables between the two groups (chi-square) and paired test of proportions (McNemar's test) and test of means using parametric (t-test) and non-parametric (Wilcoxon rank sum test) statistical procedures were used. Multinomial logistic regression was undertaken of children grouped into those whose anxiety improved, worsened or no change to determine factors that may affect changes in child dental anxiety. Children with no change in dental anxiety was the reference group. Variable selection and model fitting was undertaken following the approach of Hosmer et al. (2013) to obtain a parsimonious model, with group allocation status being retained in the model irrespective of its statistical significance. 22 Statistical analyses were undertaken on a desktop computer using STATA 12. 23 Score = 1 Score = 2 Score = 3 Score = 4 Score = 5 Fig. 1 Facial image scale.",
+        "section": "Data analysis",
+        "section_number": 15,
+        "sentences": [
+            "Data were analysed on an intention-to-treat basis.",
+            "Test of proportions for categorical variables between the two groups (chi-square) and paired test of proportions (McNemar's test) and test of means using parametric (t-test) and non-parametric (Wilcoxon rank sum test) statistical procedures were used.",
+            "Multinomial logistic regression was undertaken of children grouped into those whose anxiety improved, worsened or no change to determine factors that may affect changes in child dental anxiety.",
+            "Children with no change in dental anxiety was the reference group.",
+            "Variable selection and model fitting was undertaken following the approach of Hosmer et al. (2013) to obtain a parsimonious model, with group allocation status being retained in the model irrespective of its statistical significance.",
+            "22 Statistical analyses were undertaken on a desktop computer using STATA 12.",
+            "23 Score = 1 Score = 2 Score = 3 Score = 4 Score = 5 Fig. 1 Facial image scale."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The CONSORT participant flowchart is shown in Fig. 2 . At follow up (mean interval, 11.4 months), 220 children were examined. Of those children who were lost to follow up, four children relocated, 27 were non-contactable and three failed to attend the follow-up appointments. The FIS was completed by 193 children at baseline, 211 children at follow up, and by 170 children at baseline and follow-up. The 23 children who completed the fear scale at baseline but not at follow up were significantly younger (mean, 3.44; 95% confidence interval (CI), 3.0-3.9) than those who completed the fear scale at baseline and follow up (mean, 4.06; 95% CI, 4.0-4.2; P < 0.05). Table 1 shows the distribution of baseline characteristics of the study participants overall and within T and C groups. There were no statistically significant differences between the T and C groups in any of the baseline characteristics. The age range of study Minimal intervention child dental anxiety participants was 1.0-5.5 years for the T group and 1.1-5.2 years for the C group. At follow up, more children from the C group had been referred for specialist paediatric dental care (53/ 108 vs 6/123, v 2 = 59.1, P < 0.001), while children in the T group had more visits (T mean, 3.8; standard deviation (SD), 2.0; C mean, 1.8; SD, 1.8; Wilcoxon rank sum test, P < 0.001) and received more treatments (T mean, 3.5; SD, 2.0; C mean, 0.9; SD, 1.6; Wilcoxon rank sum test, P < 0.001) than the control children.",
+        "section": "RESULTS",
+        "section_number": 16,
+        "sentences": [
+            "The CONSORT participant flowchart is shown in Fig. 2 .",
+            "At follow up (mean interval, 11.4 months), 220 children were examined.",
+            "Of those children who were lost to follow up, four children relocated, 27 were non-contactable and three failed to attend the follow-up appointments.",
+            "The FIS was completed by 193 children at baseline, 211 children at follow up, and by 170 children at baseline and follow-up.",
+            "The 23 children who completed the fear scale at baseline but not at follow up were significantly younger (mean, 3.44; 95% confidence interval (CI), 3.0-3.9) than those who completed the fear scale at baseline and follow up (mean, 4.06; 95% CI, 4.0-4.2; P < 0.05).",
+            "Table 1 shows the distribution of baseline characteristics of the study participants overall and within T and C groups.",
+            "There were no statistically significant differences between the T and C groups in any of the baseline characteristics.",
+            "The age range of study Minimal intervention child dental anxiety participants was 1.0-5.5 years for the T group and 1.1-5.2 years for the C group.",
+            "At follow up, more children from the C group had been referred for specialist paediatric dental care (53/ 108 vs 6/123, v 2 = 59.1, P < 0.001), while children in the T group had more visits (T mean, 3.8; standard deviation (SD), 2.0; C mean, 1.8; SD, 1.8; Wilcoxon rank sum test, P < 0.001) and received more treatments (T mean, 3.5; SD, 2.0; C mean, 0.9; SD, 1.6; Wilcoxon rank sum test, P < 0.001) than the control children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "There was no statistically significant difference in child anxiety levels between T and C at baseline and follow up (baseline data are shown in Table 1 ). The anxiety status of the participants at baseline and follow up is shown in Table 2 . The majority of children were not dentally anxious at baseline and remained non-anxious at follow up (78%).",
+        "section": "RESULTS",
+        "section_number": 17,
+        "sentences": [
+            "There was no statistically significant difference in child anxiety levels between T and C at baseline and follow up (baseline data are shown in Table 1 ).",
+            "The anxiety status of the participants at baseline and follow up is shown in Table 2 .",
+            "The majority of children were not dentally anxious at baseline and remained non-anxious at follow up (78%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Changes in dental anxiety for the total sample are shown in Table 3 . All of the children who were anxious at baseline were no longer anxious at follow up (~11%), and a similar percentage of children developed anxiety during the course of the study (almost 11%) The difference in change from baseline to follow up was not statistically significant (McNemar's v 2 = 0.03, P = 0.87).",
+        "section": "RESULTS",
+        "section_number": 18,
+        "sentences": [
+            "Changes in dental anxiety for the total sample are shown in Table 3 .",
+            "All of the children who were anxious at baseline were no longer anxious at follow up (~11%), and a similar percentage of children developed anxiety during the course of the study (almost 11%) The difference in change from baseline to follow up was not statistically significant (McNemar's v 2 = 0.03, P = 0.87)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Results of a multinomial logistic regression analysis with no change in anxiety levels as the reference group is shown in Table 4 . Each increment in the number of visits was associated with a twofold increased odds of worsening dental anxiety while each increment in the number of treatments was associated with a 50% lowered odds of worsening anxiety.",
+        "section": "RESULTS",
+        "section_number": 19,
+        "sentences": [
+            "Results of a multinomial logistic regression analysis with no change in anxiety levels as the reference group is shown in Table 4 .",
+            "Each increment in the number of visits was associated with a twofold increased odds of worsening dental anxiety while each increment in the number of treatments was associated with a 50% lowered odds of worsening anxiety."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The primary aim of this pragmatic randomized controlled trial was to compare the outcomes of using a minimally invasive treatment approach against standard care approaches for ECC in primary care settings. In keeping with the pragmatic study design, clinicians were advised to manage the child to provide the needed care to the best of their ability, relying principally on behavioural management techniques, without any further instructions.",
+        "section": "DISCUSSION",
+        "section_number": 20,
+        "sentences": [
+            "The primary aim of this pragmatic randomized controlled trial was to compare the outcomes of using a minimally invasive treatment approach against standard care approaches for ECC in primary care settings.",
+            "In keeping with the pragmatic study design, clinicians were advised to manage the child to provide the needed care to the best of their ability, relying principally on behavioural management techniques, without any further instructions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The percentage of children with dental anxiety at baseline overall was 11.4%, which was similar to the reported prevalence of Australian children with high dental anxiety (10.5% among children aged 5-13 years) while the parents in the study had higher levels of dental anxiety than the Australian population average (16.7 vs 14.4). 1, 24 There was no statistically significant difference in child anxiety levels between T and C groups at baseline and follow up. The ARTbased approach resulted in similar levels of dental Table 1 . Characteristics of study participants overall and within groups at baseline, and referral to paediatric dental specialist, number of dental visits and number of treatment visits anxiety to the standard treatment approach, but enabled more children and teeth to be provided with care.",
+        "section": "DISCUSSION",
+        "section_number": 21,
+        "sentences": [
+            "The percentage of children with dental anxiety at baseline overall was 11.4%, which was similar to the reported prevalence of Australian children with high dental anxiety (10.5% among children aged 5-13 years) while the parents in the study had higher levels of dental anxiety than the Australian population average (16.7 vs 14.4).",
+            "1, 24 There was no statistically significant difference in child anxiety levels between T and C groups at baseline and follow up.",
+            "The ARTbased approach resulted in similar levels of dental Table 1 .",
+            "Characteristics of study participants overall and within groups at baseline, and referral to paediatric dental specialist, number of dental visits and number of treatment visits anxiety to the standard treatment approach, but enabled more children and teeth to be provided with care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "Of the 220 children examined at follow up, data were available for 170 children for dental anxiety at baseline and follow up (77% of the children). Because of no statistically significant difference between groups with respect to changes in dental anxiety, multivariate analysis using multinomial logistic regression was undertaken to determine the impact of other factors on changes in dental anxiety, controlling for group status. The majority of children were nonanxious at baseline and remained non-anxious at follow up. All (~11%) of the children who were anxious at baseline were without dental anxiety at follow up and a similar percentage of children had acquired dental anxiety at follow up. These findings give support to findings from other longitudinal studies showing that dental anxiety is not static but instead changes with time. 3, 25 Some children had dental anxiety without prior experience of dental care and then lost their anxiety, while other children acquired anxiety over time.",
+        "section": "DISCUSSION",
+        "section_number": 22,
+        "sentences": [
+            "Of the 220 children examined at follow up, data were available for 170 children for dental anxiety at baseline and follow up (77% of the children).",
+            "Because of no statistically significant difference between groups with respect to changes in dental anxiety, multivariate analysis using multinomial logistic regression was undertaken to determine the impact of other factors on changes in dental anxiety, controlling for group status.",
+            "The majority of children were nonanxious at baseline and remained non-anxious at follow up.",
+            "All (~11%) of the children who were anxious at baseline were without dental anxiety at follow up and a similar percentage of children had acquired dental anxiety at follow up.",
+            "These findings give support to findings from other longitudinal studies showing that dental anxiety is not static but instead changes with time.",
+            "3, 25 Some children had dental anxiety without prior experience of dental care and then lost their anxiety, while other children acquired anxiety over time."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The findings from a prospective observational study of 5 year old children in the UK, in which parents reported on their child's level of dental anxiety and history of dental care (extractions and restorative care), found that the majority of children anxious at the age of 5 years were no longer anxious at 9 years of age, while some non-anxious children became anxious (11.7%). 25 However, our findings differ from the UK study in that in our study there was no association with changes in dental anxiety with baseline level of dental anxiety, parental fear or gender of the child. The UK study found that dental anxiety as reported by the parent of the child at 9 years of age was significantly associated with girls, being dentally anxious at 5 years of age, parental anxiety, a history of extraction and irregular, symptomatic dental visiting. At 5 or 9 years, there was no association between dental anxiety and history of restorative care. Although the UK study was observational, based on parental report of child dental anxiety, the findings with respect to changes in dental anxiety were similar to this study.",
+        "section": "DISCUSSION",
+        "section_number": 23,
+        "sentences": [
+            "The findings from a prospective observational study of 5 year old children in the UK, in which parents reported on their child's level of dental anxiety and history of dental care (extractions and restorative care), found that the majority of children anxious at the age of 5 years were no longer anxious at 9 years of age, while some non-anxious children became anxious (11.7%).",
+            "25 However, our findings differ from the UK study in that in our study there was no association with changes in dental anxiety with baseline level of dental anxiety, parental fear or gender of the child.",
+            "The UK study found that dental anxiety as reported by the parent of the child at 9 years of age was significantly associated with girls, being dentally anxious at 5 years of age, parental anxiety, a history of extraction and irregular, symptomatic dental visiting.",
+            "At 5 or 9 years, there was no association between dental anxiety and history of restorative care.",
+            "Although the UK study was observational, based on parental report of child dental anxiety, the findings with respect to changes in dental anxiety were similar to this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The differences between the studies may be due to the difference in how the information on dental fear and anxiety was collected; self-reported in this study versus parent report in the UK study. The FIS used in this study was developed specifically to cater to the limited cognitive and linguistic skills of young children and uses faces as an indication of anxiety levels. It is simple, time efficient, easy to score and easier for very young children to understand. The FIS has shown good validity, with a strong correlation between VPS, and a systematic review suggested that it may be valuable for clinicians gaining an immediate reflection of a child's feelings. 26 However, it may be possible that very young children (<5 years of age) are not capable of providing a reliable self-measure of their anxiety. Parental report of their child's dental anxiety, however, also has limitations. It is unclear if a parent can provide an accurate assessment of their child's dental anxiety. It could be argued that self-reporting of anxiety provides a more accurate result than a parental report. There is currently no ideal tool for measurement of dental anxiety in a very young child. 26 In our study, membership of T or C groups had no statistically significant association with changes in child dental anxiety. There was also no statistically significant association between parental dental anxiety and child dental anxiety at baseline and follow up, and with changes in child dental anxiety. Multivariate analysis found that children who had an increasing number of dental visits had higher odds of worsening dental anxiety compared with children who had no change in their anxiety levels, whilst children who had an increasing number of treatments were at lower odds of worsening dental anxiety. These findings provide some support for the effect of conditioning on dental anxiety. It is possible that children with more frequent visits, where treatment might not have been able to be provided, triggered a change in dental anxiety, whilst children for whom treatments were able to be provided might have accepted dental care and, thus, led to a lowered risk of their dental anxiety worsening. Frequency of visits and treatments, however, had no statistically significant effect on improving dental anxiety compared with children who had no change in their dental anxiety levels.",
+        "section": "DISCUSSION",
+        "section_number": 24,
+        "sentences": [
+            "The differences between the studies may be due to the difference in how the information on dental fear and anxiety was collected; self-reported in this study versus parent report in the UK study.",
+            "The FIS used in this study was developed specifically to cater to the limited cognitive and linguistic skills of young children and uses faces as an indication of anxiety levels.",
+            "It is simple, time efficient, easy to score and easier for very young children to understand.",
+            "The FIS has shown good validity, with a strong correlation between VPS, and a systematic review suggested that it may be valuable for clinicians gaining an immediate reflection of a child's feelings.",
+            "26 However, it may be possible that very young children (<5 years of age) are not capable of providing a reliable self-measure of their anxiety.",
+            "Parental report of their child's dental anxiety, however, also has limitations.",
+            "It is unclear if a parent can provide an accurate assessment of their child's dental anxiety.",
+            "It could be argued that self-reporting of anxiety provides a more accurate result than a parental report.",
+            "There is currently no ideal tool for measurement of dental anxiety in a very young child.",
+            "26 In our study, membership of T or C groups had no statistically significant association with changes in child dental anxiety.",
+            "There was also no statistically significant association between parental dental anxiety and child dental anxiety at baseline and follow up, and with changes in child dental anxiety.",
+            "Multivariate analysis found that children who had an increasing number of dental visits had higher odds of worsening dental anxiety compared with children who had no change in their anxiety levels, whilst children who had an increasing number of treatments were at lower odds of worsening dental anxiety.",
+            "These findings provide some support for the effect of conditioning on dental anxiety.",
+            "It is possible that children with more frequent visits, where treatment might not have been able to be provided, triggered a change in dental anxiety, whilst children for whom treatments were able to be provided might have accepted dental care and, thus, led to a lowered risk of their dental anxiety worsening.",
+            "Frequency of visits and treatments, however, had no statistically significant effect on improving dental anxiety compared with children who had no change in their dental anxiety levels."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The findings are similar to the study of children between 8 and 13 years of age in the Netherlands, 27 which found that conditioning through treatment was a factor influencing further development of dental fear and that fear was not a stable factor over time. Dental extractions were the only treatment variable that resulted in increased dental fear. There were few extractions in our study, thus its impact on dental anxiety could not be evaluated. The findings from this study are consistent with the conditioning theory of fear acquisition, and that gradual restorative dental treatment exposure may mitigate worsening dental fear in children. The ART-based care approach is complementary to the recommendation of gradual dental exposure as it supports nurturing a patient over a number of visits and providing treatment and procedures when the patient is capable of accepting them.",
+        "section": "DISCUSSION",
+        "section_number": 25,
+        "sentences": [
+            "The findings are similar to the study of children between 8 and 13 years of age in the Netherlands, 27 which found that conditioning through treatment was a factor influencing further development of dental fear and that fear was not a stable factor over time.",
+            "Dental extractions were the only treatment variable that resulted in increased dental fear.",
+            "There were few extractions in our study, thus its impact on dental anxiety could not be evaluated.",
+            "The findings from this study are consistent with the conditioning theory of fear acquisition, and that gradual restorative dental treatment exposure may mitigate worsening dental fear in children.",
+            "The ART-based care approach is complementary to the recommendation of gradual dental exposure as it supports nurturing a patient over a number of visits and providing treatment and procedures when the patient is capable of accepting them."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "The outcomes with respect to the number of children managed, restorative outcomes and changes in COHRQoL with the use of the ART-based care have been reported. 16, 19, 28 This study reports on the findings with respect to changes in child dental anxiety. The ART-based care to managing ECC resulted in similar levels of dental anxiety to the standard treatment approach. An increasing number of treatments were found to have a preventive effect on worsening of dental anxiety whilst an increasing number of visits were more likely to worsen dental anxiety. The ARTbased care enabled more children to be provided with a greater amount of restorative care without adversely impacting on child dental anxiety and its use may have a mitigating effect on lowering the risk of worsening dental anxiety, thus providing a valuable alternative approach to the management of ECC in the primary dental care setting.",
+        "section": "CONCLUSIONS",
+        "section_number": 26,
+        "sentences": [
+            "The outcomes with respect to the number of children managed, restorative outcomes and changes in COHRQoL with the use of the ART-based care have been reported.",
+            "16, 19, 28 This study reports on the findings with respect to changes in child dental anxiety.",
+            "The ART-based care to managing ECC resulted in similar levels of dental anxiety to the standard treatment approach.",
+            "An increasing number of treatments were found to have a preventive effect on worsening of dental anxiety whilst an increasing number of visits were more likely to worsen dental anxiety.",
+            "The ARTbased care enabled more children to be provided with a greater amount of restorative care without adversely impacting on child dental anxiety and its use may have a mitigating effect on lowering the risk of worsening dental anxiety, thus providing a valuable alternative approach to the management of ECC in the primary dental care setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "\u00a9 2016 Australian Dental Association P Arrow and E Klobas",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "\u00a9 2016 Australian Dental Association P Arrow and E Klobas"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "\u00a9 2016 Australian Dental Association",
+        "section": "",
+        "section_number": 28,
+        "sentences": [
+            "\u00a9 2016 Australian Dental Association"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "\u00a9 2016 Australian Dental Association P Arrow and E Klobas",
+        "section": "",
+        "section_number": 29,
+        "sentences": [
+            "\u00a9 2016 Australian Dental Association P Arrow and E Klobas"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34857",
+        "text": "\u00a9 2016 Australian Dental Association P Arrow and E Klobas",
+        "section": "",
+        "section_number": 30,
+        "sentences": [
+            "\u00a9 2016 Australian Dental Association P Arrow and E Klobas"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

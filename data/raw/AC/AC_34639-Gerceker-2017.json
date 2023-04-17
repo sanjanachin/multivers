@@ -1,0 +1,556 @@
+[
+    {
+        "doc_id": "34639",
+        "text": "To compare the effects of the care bundles including chlorhexidine dressing and advanced dressings on the catheter-related bloodstream infection (CRBSI) rates in pediatric hematology-oncology patients with central venous catheters (CVCs). Method: Twenty-seven PHO patients were recruited to participate in a prospective, randomized study in Turkey. The researcher used care bundles with chlorhexidine dressing in the experimental group (n \u00bc 14), and care bundles with advanced dressings in the control group (n \u00bc 13). Results: According to the study results, 28.6% of the patients in the experimental group had CRBSI, while this rate was 38.5% in the control group patients. The CRBSI rate in the experimental group was 3.9, and the control group had 4.4 per 1000 inpatient catheter days. There was no exit-site infection in the experimental group. However, the control group had 1.7 per 1000 inpatient catheter days. Conclusions: Even though there was no difference between the two groups in which the researcher implemented care bundles with chlorhexidine dressing and advanced dressings in terms of CRBSI development, there was reduction in the CRBSI rates thanks to the care bundle approach. It is possible to control the CRBSI rates using care bundles in pediatric hematology-oncology patients.",
+        "section": "Abstract",
+        "sentences": [
+            "To compare the effects of the care bundles including chlorhexidine dressing and advanced dressings on the catheter-related bloodstream infection (CRBSI) rates in pediatric hematology-oncology patients with central venous catheters (CVCs).",
+            "Method: Twenty-seven PHO patients were recruited to participate in a prospective, randomized study in Turkey.",
+            "The researcher used care bundles with chlorhexidine dressing in the experimental group (n \u00bc 14), and care bundles with advanced dressings in the control group (n \u00bc 13).",
+            "Results: According to the study results, 28.6% of the patients in the experimental group had CRBSI, while this rate was 38.5% in the control group patients.",
+            "The CRBSI rate in the experimental group was 3.9, and the control group had 4.4 per 1000 inpatient catheter days.",
+            "There was no exit-site infection in the experimental group.",
+            "However, the control group had 1.7 per 1000 inpatient catheter days.",
+            "Conclusions: Even though there was no difference between the two groups in which the researcher implemented care bundles with chlorhexidine dressing and advanced dressings in terms of CRBSI development, there was reduction in the CRBSI rates thanks to the care bundle approach.",
+            "It is possible to control the CRBSI rates using care bundles in pediatric hematology-oncology patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "The Joint Committee's National Patient Security Goals included the theme \"Preventing Infections\" for which initiations were put forward relating to the performance elements to prevent central venous catheter (CVC) infections (Joint Commission, 2017) . Several studies managed to reduce the infection rates in the pediatric population as a result of interventions aimed at preventing catheter-related bloodstream infections (CRBSI). These interventions consisted of simple and inexpensive methods, including the daily examination of the catheter, maintenance of care, hand hygiene, and feedback/cooperation about infection rates (Bundy et al., 2014; Choi et al., 2013; Costello et al., 2009; Jeffries et al., 2009; McKee et al., 2008; Miller et al., 2011; Rinke et al., 2013) . The infection rates are quite high in CVCs, and the catheters are frequently taken out, both of which show that the guides and catheter care in the pediatric population are very important (Zachariah et al., 2014) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The Joint Committee's National Patient Security Goals included the theme \"Preventing Infections\" for which initiations were put forward relating to the performance elements to prevent central venous catheter (CVC) infections (Joint Commission, 2017) .",
+            "Several studies managed to reduce the infection rates in the pediatric population as a result of interventions aimed at preventing catheter-related bloodstream infections (CRBSI).",
+            "These interventions consisted of simple and inexpensive methods, including the daily examination of the catheter, maintenance of care, hand hygiene, and feedback/cooperation about infection rates (Bundy et al., 2014; Choi et al., 2013; Costello et al., 2009; Jeffries et al., 2009; McKee et al., 2008; Miller et al., 2011; Rinke et al., 2013) .",
+            "The infection rates are quite high in CVCs, and the catheters are frequently taken out, both of which show that the guides and catheter care in the pediatric population are very important (Zachariah et al., 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Central venous catheters play a major role in chemotherapy implementation; yet they create a massive risk for the Catheter-Related Bloodstream Infections (Allen et al., 2008) . CRBSI is a remarkable cause of mortality and morbidity patients whose immune systems are suppressed. Neutropenia, mucositis, corticosteroid intake, donor incompatibility, graft versus host disease (GVHD) and hyposplenism may increase the risk for bacterial and fungal bloodstream infections. In hematology and oncology patients, infection may lead to delays in chemotherapy, extended hospital stay, and increases in costs due to the anti-microbial treatment (Worth and Slavin, 2009) . For this reason, this study focuses on the prevention and reduction of CRBSI in the pediatric hematologyoncology (PHO) population.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Central venous catheters play a major role in chemotherapy implementation; yet they create a massive risk for the Catheter-Related Bloodstream Infections (Allen et al., 2008) .",
+            "CRBSI is a remarkable cause of mortality and morbidity patients whose immune systems are suppressed.",
+            "Neutropenia, mucositis, corticosteroid intake, donor incompatibility, graft versus host disease (GVHD) and hyposplenism may increase the risk for bacterial and fungal bloodstream infections.",
+            "In hematology and oncology patients, infection may lead to delays in chemotherapy, extended hospital stay, and increases in costs due to the anti-microbial treatment (Worth and Slavin, 2009) .",
+            "For this reason, this study focuses on the prevention and reduction of CRBSI in the pediatric hematologyoncology (PHO) population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "An initial retrospective study that comprised 34 PHO patients who were treated in Ege University Pediatric Hematology Unit between January 2013 and July 2014 demonstrated the high CRBSI rates and highlighted the requirement for prevention strategies to reduce CRBSI (Ger\u00e7eker, 2015) . The following studies that implemented care bundles to prevent CRBSI in the PHO population provided a considerable reduction in infection rates (Bundy et al., 2014; Choi et al., 2013; Duffy et al., 2015; Rinke et al., 2012) . A \"care bundle\" is a set of approaches that includes several interventions and has a positive impact on the recovery process with a collective application of these interventions. The prevention of CRBSI is one of the implementation areas of the care bundle (Marschall et al., 2014; O'Grady et al., 2011; \u015e ardan et al., 2013) . The use of chlorhexidine-containing dressings is recommended in units where infection rates are very high (Marschall et al., 2014) , but the number of the studies using this dressing is still limited with the pediatric population. In the current study, the efficacy of care bundles in reducing CRBSI was assessed prospectively in the Pediatric Hematology Unit. This prospective study was also designed to assess whether chlorhexidine-containing dressing had a further advantage in CRBSI prevention, compared to transparent dressing.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "An initial retrospective study that comprised 34 PHO patients who were treated in Ege University Pediatric Hematology Unit between January 2013 and July 2014 demonstrated the high CRBSI rates and highlighted the requirement for prevention strategies to reduce CRBSI (Ger\u00e7eker, 2015) .",
+            "The following studies that implemented care bundles to prevent CRBSI in the PHO population provided a considerable reduction in infection rates (Bundy et al., 2014; Choi et al., 2013; Duffy et al., 2015; Rinke et al., 2012) .",
+            "A \"care bundle\" is a set of approaches that includes several interventions and has a positive impact on the recovery process with a collective application of these interventions.",
+            "The prevention of CRBSI is one of the implementation areas of the care bundle (Marschall et al., 2014; O'Grady et al., 2011; \u015e ardan et al., 2013) .",
+            "The use of chlorhexidine-containing dressings is recommended in units where infection rates are very high (Marschall et al., 2014) , but the number of the studies using this dressing is still limited with the pediatric population.",
+            "In the current study, the efficacy of care bundles in reducing CRBSI was assessed prospectively in the Pediatric Hematology Unit.",
+            "This prospective study was also designed to assess whether chlorhexidine-containing dressing had a further advantage in CRBSI prevention, compared to transparent dressing."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "This prospective randomized controlled and single-blinded study was designed to compare care bundles with the following transparent dressings; (1) 3M\u2122 Tegaderm\u2122 Chlorhexidine Gluconate (CHG) I.V. Securement Dressings (experimental group) (2) 3M\u2122 Tegaderm\u2122 I.V. Advanced Securement Dressings (control group) in prevention of CRBSI. This study was conducted in the Ege University Pediatric Hematology Unit between October 2014 and May 2015. The study was approved by the Ege University Institutional Ethical Committee (14e3.1/15).",
+        "section": "Study design",
+        "section_number": 4,
+        "sentences": [
+            "This prospective randomized controlled and single-blinded study was designed to compare care bundles with the following transparent dressings; (1) 3M\u2122 Tegaderm\u2122 Chlorhexidine Gluconate (CHG) I.V. Securement Dressings (experimental group) (2) 3M\u2122 Tegaderm\u2122 I.V. Advanced Securement Dressings (control group) in prevention of CRBSI.",
+            "This study was conducted in the Ege University Pediatric Hematology Unit between October 2014 and May 2015.",
+            "The study was approved by the Ege University Institutional Ethical Committee (14e3.1/15)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "The author investigated care bundles suggested by Rinke et al. (Rinke et al., 2012) and Choi et al. (Choi et al., 2013) , and guidelines suggesting the use of transparent or chlorhexidine containing dressings as a part of a care bundle (Marschall et al., 2014; O'Grady et al., 2011) . The guidelines also provide strong evidence for the use of checklists related to catheter intervention (Marschall et al., 2014; O'Grady et al., 2011) . The components of the care bundle used throughout the study and the checklists for the standardization of CVC interventions determined by researchers. The researcher described the implementation stages of the catheter interventions and created checklists for \"Medication Administration Through the CVC\", \"Connection and Changing of the Infusion Sets to the CVC\", \"Maintenance of CVC Exit Site\", and \"Port Use-Connection and Disconnection of the Port Needle\". The care bundle and checklists were evaluated and confirmed by an independent group comprising six academic teaching staff and three nurses experienced in the management of the PHO patients with CVCs.",
+        "section": "Intervention",
+        "section_number": 5,
+        "sentences": [
+            "The author investigated care bundles suggested by Rinke et al. (Rinke et al., 2012) and Choi et al. (Choi et al., 2013) , and guidelines suggesting the use of transparent or chlorhexidine containing dressings as a part of a care bundle (Marschall et al., 2014; O'Grady et al., 2011) .",
+            "The guidelines also provide strong evidence for the use of checklists related to catheter intervention (Marschall et al., 2014; O'Grady et al., 2011) .",
+            "The components of the care bundle used throughout the study and the checklists for the standardization of CVC interventions determined by researchers.",
+            "The researcher described the implementation stages of the catheter interventions and created checklists for \"Medication Administration Through the CVC\", \"Connection and Changing of the Infusion Sets to the CVC\", \"Maintenance of CVC Exit Site\", and \"Port Use-Connection and Disconnection of the Port Needle\".",
+            "The care bundle and checklists were evaluated and confirmed by an independent group comprising six academic teaching staff and three nurses experienced in the management of the PHO patients with CVCs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "The care bundle included: 1) Catheter entries (hand hygiene, closed intravenous system); 2) Catheter site care (chlorhexidine gluconate skin antisepsis, checklist for CVC exit site care and port needle change); 3) Daily dressing/site assessment performed; 4) Catheter cap/hub/tubing care (split septum needleless connector, checklist for medication administration and infusion sets change/ connection); 5) Providing patient and family training for catheter safety ( Table 1 ). The researchers examined the guidelines on the use of transparent dressings, and decided to make a comparison between the use of chlorhexidine-containing dressings for CVCs in patients over two months of age (quality of evidence: I) which is also recommended by the relevant guidelines (Marschall et al., 2014) , and transparent dressings. Staff training on the care bundle and the use of checklists was conducted prior to the implementation with all nursing staff between June and September 2014.",
+        "section": "Intervention",
+        "section_number": 6,
+        "sentences": [
+            "The care bundle included: 1) Catheter entries (hand hygiene, closed intravenous system); 2) Catheter site care (chlorhexidine gluconate skin antisepsis, checklist for CVC exit site care and port needle change); 3) Daily dressing/site assessment performed; 4) Catheter cap/hub/tubing care (split septum needleless connector, checklist for medication administration and infusion sets change/ connection); 5) Providing patient and family training for catheter safety ( Table 1 ).",
+            "The researchers examined the guidelines on the use of transparent dressings, and decided to make a comparison between the use of chlorhexidine-containing dressings for CVCs in patients over two months of age (quality of evidence: I) which is also recommended by the relevant guidelines (Marschall et al., 2014) , and transparent dressings.",
+            "Staff training on the care bundle and the use of checklists was conducted prior to the implementation with all nursing staff between June and September 2014."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Each nurse working in the relevant unit was observed by the researcher according to checklists. Before the observations, the researcher obtained written consent from the nurses to observe the catheter intervention. As there was no specific time for catheter interventions, the researcher made the observations during the day shift (8.00e16.00 p.m.). The researcher also anticipated that one observation of catheter intervention would not provide sufficient or accurate data, and environmental factors would alter the data and restrict the observation. Thus, the observation period was determined to be eight hours during the day shift. The eight nurses working in the hematology unit were observed using the checklists during the catheter interventions. At the end of the interventions, the researcher informed the nurses about any inaccurate steps of the intervention, and asked them to repeat the intervention. Following the observation of the nurses, the researcher provided a two-session training session to the nurses on the steps of the care bundles and CRBSI prevention. The researcher administered a test before and after the training with the aim of evaluating its efficiency. After the training, the researcher re-observed the nurses during the day shift. At the end of the observation process, if any inaccurate steps were included, the researcher asked the nurses to repeat the catheter intervention. The nurses who had deficiencies in the implementation stages were re-observed by the researcher for one day. The researcher continued to observe nurses' CVC interventions when necessary to ensure they were performed correctly and safely.",
+        "section": "Staff training",
+        "section_number": 7,
+        "sentences": [
+            "Each nurse working in the relevant unit was observed by the researcher according to checklists.",
+            "Before the observations, the researcher obtained written consent from the nurses to observe the catheter intervention.",
+            "As there was no specific time for catheter interventions, the researcher made the observations during the day shift (8.00e16.00 p.m.).",
+            "The researcher also anticipated that one observation of catheter intervention would not provide sufficient or accurate data, and environmental factors would alter the data and restrict the observation.",
+            "Thus, the observation period was determined to be eight hours during the day shift.",
+            "The eight nurses working in the hematology unit were observed using the checklists during the catheter interventions.",
+            "At the end of the interventions, the researcher informed the nurses about any inaccurate steps of the intervention, and asked them to repeat the intervention.",
+            "Following the observation of the nurses, the researcher provided a two-session training session to the nurses on the steps of the care bundles and CRBSI prevention.",
+            "The researcher administered a test before and after the training with the aim of evaluating its efficiency.",
+            "After the training, the researcher re-observed the nurses during the day shift.",
+            "At the end of the observation process, if any inaccurate steps were included, the researcher asked the nurses to repeat the catheter intervention.",
+            "The nurses who had deficiencies in the implementation stages were re-observed by the researcher for one day.",
+            "The researcher continued to observe nurses' CVC interventions when necessary to ensure they were performed correctly and safely."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Data on CRBSIs, patients and catheter characteristics for PHO patients was collected prospectively between October 20, 2014 and April 30, 2015. Potential patients with CVCs were identified through clinic visits and their electronic and written charts screened for the presence of a CVC, day of catheterization and positive blood cultures. The participants of the study were selected from the patients who had Hickman or Port catheters, were older than two months, had been staying at the hospital for longer than 48 h, did not have any systemic infections, did not have bacterial growth in their catheter blood drawn in the last 48 h, and provided their written consent. In total, 27 patients enrolled the study. Using results from our previous work (Ger\u00e7eker, 2015) a power analysis calculation at GPower 3.0 program showed that 3350 catheter days were needed to detect a 20% difference using 80% power and a 5% significance level. Due to running out of materials after six months and ten days, the follow-up was performed for 2130 inpatient catheter days. The power analysis revealed that the strength of the sample was 60%.",
+        "section": "Study population",
+        "section_number": 8,
+        "sentences": [
+            "Data on CRBSIs, patients and catheter characteristics for PHO patients was collected prospectively between October 20, 2014 and April 30, 2015.",
+            "Potential patients with CVCs were identified through clinic visits and their electronic and written charts screened for the presence of a CVC, day of catheterization and positive blood cultures.",
+            "The participants of the study were selected from the patients who had Hickman or Port catheters, were older than two months, had been staying at the hospital for longer than 48 h, did not have any systemic infections, did not have bacterial growth in their catheter blood drawn in the last 48 h, and provided their written consent.",
+            "In total, 27 patients enrolled the study.",
+            "Using results from our previous work (Ger\u00e7eker, 2015) a power analysis calculation at GPower 3.0 program showed that 3350 catheter days were needed to detect a 20% difference using 80% power and a 5% significance level.",
+            "Due to running out of materials after six months and ten days, the follow-up was performed for 2130 inpatient catheter days.",
+            "The power analysis revealed that the strength of the sample was 60%."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Twenty-seven patients enrolled the study and were allocated to the intervention (n \u00bc 14) or control group (n \u00bc 13) by block randomization according to gender, age (<6 years, 6e12 years, >12 years) and diagnosis (ALL, AML and others). Allocation concealment was guaranteed by the use of random numbers. The final sample was comprised of 27 patients who met the inclusion criteria as illustrated in the flow diagram in Fig. 1 (Schulz et al., 2010) .",
+        "section": "Randomization",
+        "section_number": 9,
+        "sentences": [
+            "Twenty-seven patients enrolled the study and were allocated to the intervention (n \u00bc 14) or control group (n \u00bc 13) by block randomization according to gender, age (<6 years, 6e12 years, >12 years) and diagnosis (ALL, AML and others).",
+            "Allocation concealment was guaranteed by the use of random numbers.",
+            "The final sample was comprised of 27 patients who met the inclusion criteria as illustrated in the flow diagram in Fig. 1 (Schulz et al., 2010) ."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "34639",
+        "text": "During the study, we evaluated patients with a positive blood culture was considered to have a CRBSI. Laboratory-Confirmed Bloodstream Infection-I criteria defined by Centers for Disease Control and Prevention used in the study (CDC, 2017) . Also definitions of the Infectious Diseases Working Party of the German Society of Hematology and Medical Oncology were used to define CRBSI, 'Definite' CRBSI, 'Probable' CRBSI, 'Possible' CRBSI/Catheter colonization, exit site infection in the study (Hentrich et al., 2014) . These rates were defined per 1000 catheter days.",
+        "section": "Measures",
+        "section_number": 10,
+        "sentences": [
+            "During the study, we evaluated patients with a positive blood culture was considered to have a CRBSI.",
+            "Laboratory-Confirmed Bloodstream Infection-I criteria defined by Centers for Disease Control and Prevention used in the study (CDC, 2017) .",
+            "Also definitions of the Infectious Diseases Working Party of the German Society of Hematology and Medical Oncology were used to define CRBSI, 'Definite' CRBSI, 'Probable' CRBSI, 'Possible' CRBSI/Catheter colonization, exit site infection in the study (Hentrich et al., 2014) .",
+            "These rates were defined per 1000 catheter days."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "The study data were analyzed using SPSS 21.0 software. Descriptive statistics for demographic and catheter characteristics were summarized for all patients. Categorical variables were summarized by the number and percentage of patients. Continuous variables were summarized by number, mean, and standard deviation (SD). The Shapiro-Wilk analysis used to test whether the data were consistent with the normal distribution. In addition, the patients in the experimental and control groups were compared in terms of variables using Fisher's Exact Test, T-Test and Mann Whitney U test. The study computed the odds of CRBSI and exit-site infection, as well as the odds ratios of these two elements. These rates with 95% confidence intervals (CI) were calculated assuming a Poisson distribution. We calculated the reduction in CRBSI and exitsite infection rates in the experimental and control groups. The results of the previous study which was conducted in the same unit, and made a retrospective analysis of 34 patients were utilized to detect reduction in infection rates (Ger\u00e7eker, 2015) .",
+        "section": "Statistical analysis",
+        "section_number": 11,
+        "sentences": [
+            "The study data were analyzed using SPSS 21.0 software.",
+            "Descriptive statistics for demographic and catheter characteristics were summarized for all patients.",
+            "Categorical variables were summarized by the number and percentage of patients.",
+            "Continuous variables were summarized by number, mean, and standard deviation (SD).",
+            "The Shapiro-Wilk analysis used to test whether the data were consistent with the normal distribution.",
+            "In addition, the patients in the experimental and control groups were compared in terms of variables using Fisher's Exact Test, T-Test and Mann Whitney U test.",
+            "The study computed the odds of CRBSI and exit-site infection, as well as the odds ratios of these two elements.",
+            "These rates with 95% confidence intervals (CI) were calculated assuming a Poisson distribution.",
+            "We calculated the reduction in CRBSI and exitsite infection rates in the experimental and control groups.",
+            "The results of the previous study which was conducted in the same unit, and made a retrospective analysis of 34 patients were utilized to detect reduction in infection rates (Ger\u00e7eker, 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "This study included 27 patients; 14 patients were randomly assigned to intervention and 13 patients to the control group. The mean age of the study population was 73.3 \u00b1 61.9 months, 59.3% of patients were male and 74.1% of patients diagnosed with ALL, 64% of patients were a high-risk group. The control and interventions groups were homogeneous by age, gender, diagnosis, leukemia risk categories, catheter types, and total catheter days (p > 0.05) ( Table 2) .",
+        "section": "Results",
+        "section_number": 12,
+        "sentences": [
+            "This study included 27 patients; 14 patients were randomly assigned to intervention and 13 patients to the control group.",
+            "The mean age of the study population was 73.3 \u00b1 61.9 months, 59.3% of patients were male and 74.1% of patients diagnosed with ALL, 64% of patients were a high-risk group.",
+            "The control and interventions groups were homogeneous by age, gender, diagnosis, leukemia risk categories, catheter types, and total catheter days (p > 0.05) ( Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Of the patients in the experimental group, 28.6% (n: 4) had CRBSI infection, while this rate was 38.5% (n: 5) in the control group. All patients with CRBSI (n:9) in the study met the CDC criteria for Laboratory-Confirmed Bloodstream Infection-I (CDC, 2017). Growth of same pathogen from the blood culture of peripheral vein and CVC and differential time positivity is in four, results in Definitive CRBSI (Hentrich et al., 2014) . It was found that two patients in the experimental group had Definitive CRBSI (Ralstonia pickettii, Enterobacter cloaca). Also, in the experimental group, the researcher detected Coagulase-negative Staphylococcus (CoNS) in one patient, and another patient was diagnosed with R. pickettii based on the blood culture of CVC. These two patients met possible CRBSI/Catheter colonization criteria (Hentrich et al., 2014) . Two patients in the control group had CoNS in the blood culture of their peripheral vein and CVC. These two patients met the criteria for probable CRBSI (Hentrich et al., 2014) . Three patients in the control group had CoNS, Burkholderia cepacia and R. pickettii in their CVC blood culture. These three patients met the criteria for possible CRBSI/Catheter colonization (Hentrich et al., 2014) .",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "Of the patients in the experimental group, 28.6% (n: 4) had CRBSI infection, while this rate was 38.5% (n: 5) in the control group.",
+            "All patients with CRBSI (n:9) in the study met the CDC criteria for Laboratory-Confirmed Bloodstream Infection-I (CDC, 2017).",
+            "Growth of same pathogen from the blood culture of peripheral vein and CVC and differential time positivity is in four, results in Definitive CRBSI (Hentrich et al., 2014) .",
+            "It was found that two patients in the experimental group had Definitive CRBSI (Ralstonia pickettii, Enterobacter cloaca).",
+            "Also, in the experimental group, the researcher detected Coagulase-negative Staphylococcus (CoNS) in one patient, and another patient was diagnosed with R. pickettii based on the blood culture of CVC.",
+            "These two patients met possible CRBSI/Catheter colonization criteria (Hentrich et al., 2014) .",
+            "Two patients in the control group had CoNS in the blood culture of their peripheral vein and CVC.",
+            "These two patients met the criteria for probable CRBSI (Hentrich et al., 2014) .",
+            "Three patients in the control group had CoNS, Burkholderia cepacia and R. pickettii in their CVC blood culture.",
+            "These three patients met the criteria for possible CRBSI/Catheter colonization (Hentrich et al., 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "None of the patients in the experimental group had CVC exit site infection, while it was present in 15.4% of the control group patients. No patient included in the experimental group developed an allergic reaction. Of the patients with CRBSI in the experimental group, 50% had R. pickettii, and 60% of the patients in the control group had CoNS. Of the patients in the control group, 14.3% had their catheter removed due to CRBSI (CoNS, R. pickettii), and 11.1% of the control group patients' catheter removed due to CRBSI (R. pickettii). There was no significant difference between the experimental and control groups regarding CRBSI development, microorganisms, exit-site infection, and catheter removal due to CRBSI (p > 0.05) (Table 3) .",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "None of the patients in the experimental group had CVC exit site infection, while it was present in 15.4% of the control group patients.",
+            "No patient included in the experimental group developed an allergic reaction.",
+            "Of the patients with CRBSI in the experimental group, 50% had R. pickettii, and 60% of the patients in the control group had CoNS.",
+            "Of the patients in the control group, 14.3% had their catheter removed due to CRBSI (CoNS, R. pickettii), and 11.1% of the control group patients' catheter removed due to CRBSI (R. pickettii).",
+            "There was no significant difference between the experimental and control groups regarding CRBSI development, microorganisms, exit-site infection, and catheter removal due to CRBSI (p > 0.05) (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "In the experimental group, the incidence of CRBSI was 3.9, \"Possible\" CRBSI/Catheter colonization was 1.9, and \"Definite\" CRBSI was 1.9 per 1000 inpatient catheter-days. \"Probable\" CRBSI and exit-site infection wasn't seen in the experimental group. In the control group, the incidence of CRBSI was 4.4, \"Possible\" CRBSI/ Catheter colonization was 2.6, \"Probable\" CRBSI was 1.7, and exitsite infection was 1.7 per 1000 inpatient catheter-days. \"Definite\" CRBSI wasn't observed in the control group. In Ger\u00e7eker's study (2015), the incidence of CRBSI was 7.8, \"Possible\" CRBSI/Catheter colonization was 3.7, \"Definite\" CRBSI was 2.2, \"Probable\" CRBSI was 1.8, and exit-site infection was 1.8 per 1000 inpatient catheterdays. The CRBSI rates in that study (Ger\u00e7eker, 2015) to the CRBSI rate in the experimental group was 1.99 (0.68e5.82), and the CRBSI rate in the experimental group was 1.75 (0.65e4.66). The CRBSI rate in the previous study (Ger\u00e7eker, 2015) was 1.99 times faster than the CRBSI rate in the experimental group, and 1.75 times faster than the CRBSI rate in the control group; however, the risk coefficient regarding these differences was not significant (p > .05) (Table 4) . By reducing the CRBSI rate in the previous study to 3.9 in the experimental group and 4.4 per 1000 inpatient catheter-days in the control group, CRBSI reduction of 50% in the experimental group and 43% in the control group was achieved. The exit-site infection rate in the study by Ger\u00e7eker (2015) to the exit-site infection rate of the control group was 1,04 (0.20e5.36). There was no exit-site infection in the experimental group, which prevented making an exit-site infection calculation for this group. The exit-site infection rate in the previous study was 1,04 times faster than the infection rate in the control group, yet the risk coefficient was not significant (p > .05) (Table 4 ). The exit-site infection rate in the previous study was reduced to zero in the experimental group, and to 1.8 per 1000 inpatient catheter-days in the control group, which meant 100% exit-site infection reduction in the experimental group and 5% exit-site infection reduction in the control group. ",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "In the experimental group, the incidence of CRBSI was 3.9, \"Possible\" CRBSI/Catheter colonization was 1.9, and \"Definite\" CRBSI was 1.9 per 1000 inpatient catheter-days. \"",
+            "Probable\" CRBSI and exit-site infection wasn't seen in the experimental group.",
+            "In the control group, the incidence of CRBSI was 4.4, \"Possible\" CRBSI/ Catheter colonization was 2.6, \"Probable\" CRBSI was 1.7, and exitsite infection was 1.7 per 1000 inpatient catheter-days. \"",
+            "Definite\" CRBSI wasn't observed in the control group.",
+            "In Ger\u00e7eker's study (2015), the incidence of CRBSI was 7.8, \"Possible\" CRBSI/Catheter colonization was 3.7, \"Definite\" CRBSI was 2.2, \"Probable\" CRBSI was 1.8, and exit-site infection was 1.8 per 1000 inpatient catheterdays.",
+            "The CRBSI rates in that study (Ger\u00e7eker, 2015) to the CRBSI rate in the experimental group was 1.99 (0.68e5.82), and the CRBSI rate in the experimental group was 1.75 (0.65e4.66).",
+            "The CRBSI rate in the previous study (Ger\u00e7eker, 2015) was 1.99 times faster than the CRBSI rate in the experimental group, and 1.75 times faster than the CRBSI rate in the control group; however, the risk coefficient regarding these differences was not significant (p > .05) (Table 4) .",
+            "By reducing the CRBSI rate in the previous study to 3.9 in the experimental group and 4.4 per 1000 inpatient catheter-days in the control group, CRBSI reduction of 50% in the experimental group and 43% in the control group was achieved.",
+            "The exit-site infection rate in the study by Ger\u00e7eker (2015) to the exit-site infection rate of the control group was 1,04 (0.20e5.36).",
+            "There was no exit-site infection in the experimental group, which prevented making an exit-site infection calculation for this group.",
+            "The exit-site infection rate in the previous study was 1,04 times faster than the infection rate in the control group, yet the risk coefficient was not significant (p > .05) (Table 4 ).",
+            "The exit-site infection rate in the previous study was reduced to zero in the experimental group, and to 1.8 per 1000 inpatient catheter-days in the control group, which meant 100% exit-site infection reduction in the experimental group and 5% exit-site infection reduction in the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "This study made a prospective comparison between the two care bundles and determined similar CRBSI rates in their usage. The study also found CRBSI rates which are specific to the disease population included in the study, using the standardized CRBSI descriptions developed by Infectious Diseases Working Party of the German Society of Hematology and Medical Oncology (Hentrich et al., 2014) . Although this study did not find any difference between the experimental and control groups regarding the numbers of CRBSI cases, there was a significant decrease observed in these numbers compared to the rates in the recently-conducted study (Ger\u00e7eker, 2015) in the unit. This study used only Hickman and Port catheters as permanent catheters may affect the treatment and mortality of patients. The researcher was aware that it was possible to extend the lives of the catheters. This study not only examined the care bundle, but also developed checklists that could be used after the completion of the study to ensure catheter safety, which helped standardize the interventions.",
+        "section": "Discussion",
+        "section_number": 16,
+        "sentences": [
+            "This study made a prospective comparison between the two care bundles and determined similar CRBSI rates in their usage.",
+            "The study also found CRBSI rates which are specific to the disease population included in the study, using the standardized CRBSI descriptions developed by Infectious Diseases Working Party of the German Society of Hematology and Medical Oncology (Hentrich et al., 2014) .",
+            "Although this study did not find any difference between the experimental and control groups regarding the numbers of CRBSI cases, there was a significant decrease observed in these numbers compared to the rates in the recently-conducted study (Ger\u00e7eker, 2015) in the unit.",
+            "This study used only Hickman and Port catheters as permanent catheters may affect the treatment and mortality of patients.",
+            "The researcher was aware that it was possible to extend the lives of the catheters.",
+            "This study not only examined the care bundle, but also developed checklists that could be used after the completion of the study to ensure catheter safety, which helped standardize the interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "Bundy et al. (2014) applied a very comprehensive and extensive care bundle based on the recommendations and standards provided by the Centers for Disease Control and Prevention, and reduced the catheter days from Central Line Associated Bloodstream Infection (CLABSI) from 2.85 to 2.04 per 1000 catheter days. The care bundle was administered for three years, which is a relatively long intervention period, and the study was successful in decreasing the incidence of CLABSI; yet, this decrease was not statistically associated with the changes in CRBSI rates. Rinke et al. (2012) reduced CLABSI rates from 2.2 to 1.79 in the baseline period and 2.2 to 0.81 CLABSIs per 1000 catheter days in the second 12 months of the intervention. In Choi et al. (2013) found that their pre-intervention CLABSI incidence was 2.92 per 1000 catheter days, in the post-intervention period their CLABSI rate decreased substantially to 1.61 per 1000 catheter days. Although the decrease in the study by Rinke et al. (2012) was not significant, the decrease found by Choi et al. (2013) was significant. In this regard, the factor determining the statistical significance of the decrease is the number of total catheter days. Duffy et al. (2015) evaluated CVC daily maintenance-care bundle compliance and CLABSI, and CLABSI rates decreased during their intervention. Four of the six months during their intervention period had a CLABSI rate of zero. But, CLABSI rates were not statistically significant. Considering the possible effects of these decreases on patient safety, costeffectiveness and the mortality of PHO population, the decreases appear to be important. It was observed that the relevant studies managed to reduce or even prevent CLABSI, and there were remarkable decreases in the studies that were conducted with pediatric populations when administering a catheter maintenance bundle (Ahmed et al., 2012; Costello et al., 2009; Jeffries et al., 2009; McKee et al., 2008; Miller et al., 2011) . Despite being statistically insignificant, the CRBSI rate was reduced to 3.9 in the experimental group and to 4.4 per 1000 inpatient cathater days in the control group. Thus, the decrease was 50% in the experimental group and 43% in the control group. Even though these reduction rates were successful, the absence of a difference between the experimental and control groups regarding CRBSI showed that the care bundle with chlorhexidine-containing transparent dressings were not more effective than the care bundle with transparent dressings in preventing CRBSI. There are no studies conducted to compare the care bundles. However, there is evidence found by studies examining the effectiveness of chlorhexidine dressings that they prevent CRBSI (Timsit et al., 2012 (Timsit et al., , 2009 , but there are only a limited number of studies conducted with pediatric populations focusing on chlorhexidine dressings (Levy et al., 2005) . The other studies in this area mainly have a \"before and after\" design (Ahmed et al., 2012) . The study by Ahmed et al. (2012) is similar to this one; it used a multidisciplinary approach to include different elements such as placing chlorhexidine-impregnated disks and using needleless connectors instead of stopcocks. The elements undertaken in this multidisciplinary approaches (Ahmed et al., 2012; McKee et al., 2008) like this study, are components of care bundle. However, there are insufficient bundle studies which specifically use chlorhexidine with the PHO population.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "Bundy et al. (2014) applied a very comprehensive and extensive care bundle based on the recommendations and standards provided by the Centers for Disease Control and Prevention, and reduced the catheter days from Central Line Associated Bloodstream Infection (CLABSI) from 2.85 to 2.04 per 1000 catheter days.",
+            "The care bundle was administered for three years, which is a relatively long intervention period, and the study was successful in decreasing the incidence of CLABSI; yet, this decrease was not statistically associated with the changes in CRBSI rates.",
+            "Rinke et al. (2012) reduced CLABSI rates from 2.2 to 1.79 in the baseline period and 2.2 to 0.81 CLABSIs per 1000 catheter days in the second 12 months of the intervention.",
+            "In Choi et al. (2013) found that their pre-intervention CLABSI incidence was 2.92 per 1000 catheter days, in the post-intervention period their CLABSI rate decreased substantially to 1.61 per 1000 catheter days.",
+            "Although the decrease in the study by Rinke et al. (2012) was not significant, the decrease found by Choi et al. (2013) was significant.",
+            "In this regard, the factor determining the statistical significance of the decrease is the number of total catheter days.",
+            "Duffy et al. (2015) evaluated CVC daily maintenance-care bundle compliance and CLABSI, and CLABSI rates decreased during their intervention.",
+            "Four of the six months during their intervention period had a CLABSI rate of zero.",
+            "But, CLABSI rates were not statistically significant.",
+            "Considering the possible effects of these decreases on patient safety, costeffectiveness and the mortality of PHO population, the decreases appear to be important.",
+            "It was observed that the relevant studies managed to reduce or even prevent CLABSI, and there were remarkable decreases in the studies that were conducted with pediatric populations when administering a catheter maintenance bundle (Ahmed et al., 2012; Costello et al., 2009; Jeffries et al., 2009; McKee et al., 2008; Miller et al., 2011) .",
+            "Despite being statistically insignificant, the CRBSI rate was reduced to 3.9 in the experimental group and to 4.4 per 1000 inpatient cathater days in the control group.",
+            "Thus, the decrease was 50% in the experimental group and 43% in the control group.",
+            "Even though these reduction rates were successful, the absence of a difference between the experimental and control groups regarding CRBSI showed that the care bundle with chlorhexidine-containing transparent dressings were not more effective than the care bundle with transparent dressings in preventing CRBSI.",
+            "There are no studies conducted to compare the care bundles.",
+            "However, there is evidence found by studies examining the effectiveness of chlorhexidine dressings that they prevent CRBSI (Timsit et al., 2012 (Timsit et al., , 2009 , but there are only a limited number of studies conducted with pediatric populations focusing on chlorhexidine dressings (Levy et al., 2005) .",
+            "The other studies in this area mainly have a \"before and after\" design (Ahmed et al., 2012) .",
+            "The study by Ahmed et al. (2012) is similar to this one; it used a multidisciplinary approach to include different elements such as placing chlorhexidine-impregnated disks and using needleless connectors instead of stopcocks.",
+            "The elements undertaken in this multidisciplinary approaches (Ahmed et al., 2012; McKee et al., 2008) like this study, are components of care bundle.",
+            "However, there are insufficient bundle studies which specifically use chlorhexidine with the PHO population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "There was no exit-site infection development in the experimental group patients, which shows that chlorhexidine-containing transparent dressings are effective in the prevention of exit-site infection. Of the patients with CRBSI in the experimental group, 50% had R. pickettii, and 60% of the patients in the control group had CoNS. There was no statistically significant difference between experimental and control groups regarding the reproducing microorganisms. In Timsit et al. (2009) , CoNS was the microorganism which was the most frequent cause of catheter colonization in the groups of chlorhexidine-impregnated dressings and control dressings. The reproductions in the experimental and control groups were similar to each other in this study as well; CoNS led to colonization in three patients in the control group and in one patient in the experimental group. This result shows that the care bundle with chlorhexidine-containing transparent dressings reduced the catheter colonization caused by CoNS. R. pickettii was another common microorganism observed in this study. It is a gram-negative microorganism that should be handled carefully. A patient who was not in the research group came to the unit four days after discharge due to high fever, and was hospitalized. There was R. pickettii reproduction in the first blood culture of the patient which was drawn in 48 h. In the days following this case, there was R. pickettii reproduction in two patients in the experimental group and in one patient in the control group. R. pickettii has very high virulence and it can be caused by contaminated solutions including distilled water, injection waters, and even chlorhexidine solutions. It may also cause serious infections including meningitis, septic arthritis, and osteomyelitis (Ryan et al., 2006) . Due to the CRBSI that resulted from this pathogen, the researcher had to remove the catheters from a majority of the patients in the study. For instance; in the case of CoNS in tunneled CVCs, clinicians may decide to remove the catheter without the confirmation of the laboratory if the patients are septic or they cannot control the patients' fever (Boersma et al., 2007) . The structure of the units that receive care and treatment of PHO patients is very important. In this study and in all studies in the relevant literature, taking control of the environmental conditions has a primary importance on CRBSI prevention efforts. The CRBSI rate increased due to the presence of R. pickettii, however, despite this increase, this study was successful in creating a significant reduction in the CRBSI rate. Although the previous studies have found reduced infection rates, there is the possibility of serious methodological limitations. CRBSI rates may be higher. It is necessary to focus on patient safety in studies to be able to comply with quality development initiatives (Huskins, 2012) . The researcher believes that this study produced important results by having patient safety as the primary concern.",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "There was no exit-site infection development in the experimental group patients, which shows that chlorhexidine-containing transparent dressings are effective in the prevention of exit-site infection.",
+            "Of the patients with CRBSI in the experimental group, 50% had R. pickettii, and 60% of the patients in the control group had CoNS.",
+            "There was no statistically significant difference between experimental and control groups regarding the reproducing microorganisms.",
+            "In Timsit et al. (2009) , CoNS was the microorganism which was the most frequent cause of catheter colonization in the groups of chlorhexidine-impregnated dressings and control dressings.",
+            "The reproductions in the experimental and control groups were similar to each other in this study as well; CoNS led to colonization in three patients in the control group and in one patient in the experimental group.",
+            "This result shows that the care bundle with chlorhexidine-containing transparent dressings reduced the catheter colonization caused by CoNS.",
+            "R. pickettii was another common microorganism observed in this study.",
+            "It is a gram-negative microorganism that should be handled carefully.",
+            "A patient who was not in the research group came to the unit four days after discharge due to high fever, and was hospitalized.",
+            "There was R. pickettii reproduction in the first blood culture of the patient which was drawn in 48 h. In the days following this case, there was R. pickettii reproduction in two patients in the experimental group and in one patient in the control group.",
+            "R. pickettii has very high virulence and it can be caused by contaminated solutions including distilled water, injection waters, and even chlorhexidine solutions.",
+            "It may also cause serious infections including meningitis, septic arthritis, and osteomyelitis (Ryan et al., 2006) .",
+            "Due to the CRBSI that resulted from this pathogen, the researcher had to remove the catheters from a majority of the patients in the study.",
+            "For instance; in the case of CoNS in tunneled CVCs, clinicians may decide to remove the catheter without the confirmation of the laboratory if the patients are septic or they cannot control the patients' fever (Boersma et al., 2007) .",
+            "The structure of the units that receive care and treatment of PHO patients is very important.",
+            "In this study and in all studies in the relevant literature, taking control of the environmental conditions has a primary importance on CRBSI prevention efforts.",
+            "The CRBSI rate increased due to the presence of R. pickettii, however, despite this increase, this study was successful in creating a significant reduction in the CRBSI rate.",
+            "Although the previous studies have found reduced infection rates, there is the possibility of serious methodological limitations.",
+            "CRBSI rates may be higher.",
+            "It is necessary to focus on patient safety in studies to be able to comply with quality development initiatives (Huskins, 2012) .",
+            "The researcher believes that this study produced important results by having patient safety as the primary concern."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "The limitations of the study were related to the period of data collection and the necessary material being in short supply, and to the number of the patients. Even though this study does not provide significant data in statistical terms, the decrease in the CRBSI rate gives important data, including the invisibility of exit-site infections in the experimental group. Well larger cohort studies can be planned and investigate other central line types as peripherally inserted central catheter, short term CVCs. Also, future studies consider number of entries into the CVCs related to CRBSIs and compare hematological malignancies versus solid tumors and the immune system diseases at time of CRBSI, blood counts, timing of chemotherapy.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "The limitations of the study were related to the period of data collection and the necessary material being in short supply, and to the number of the patients.",
+            "Even though this study does not provide significant data in statistical terms, the decrease in the CRBSI rate gives important data, including the invisibility of exit-site infections in the experimental group.",
+            "Well larger cohort studies can be planned and investigate other central line types as peripherally inserted central catheter, short term CVCs.",
+            "Also, future studies consider number of entries into the CVCs related to CRBSIs and compare hematological malignancies versus solid tumors and the immune system diseases at time of CRBSI, blood counts, timing of chemotherapy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34639",
+        "text": "This study managed to reduce the CRBSI rates by developing care bundles for PHO patients, and creating checklists to standardize CVC interventions. The study included only long term CVCs and was successful in preventing catheter removal due to CRBSI. Despite the small sample, the study has made an important contribution to the relevant literature by making a comparison between care bundles with chlorhexidine-containing transparent dressings and care bundles with transparent dressings. Although no statistical significance in between the two groups in terms of CRBSI frequencies, the clinical significance is so important. CHG dressings are common standard and supported by no exit site infections developed in experimental group. CHG dressings also reduced catheter colonization caused by CoNS. It is critical to have knowledge, use of checklists at CVC interventions, ongoing education about CRBSI, competency and consistency in care bundle provided by nursing staff to continue this great effort of CRBSI prevention. The researcher suggests that future studies be planned to examine the use of care bundles with larger PHO samples.",
+        "section": "Conclusion",
+        "section_number": 20,
+        "sentences": [
+            "This study managed to reduce the CRBSI rates by developing care bundles for PHO patients, and creating checklists to standardize CVC interventions.",
+            "The study included only long term CVCs and was successful in preventing catheter removal due to CRBSI.",
+            "Despite the small sample, the study has made an important contribution to the relevant literature by making a comparison between care bundles with chlorhexidine-containing transparent dressings and care bundles with transparent dressings.",
+            "Although no statistical significance in between the two groups in terms of CRBSI frequencies, the clinical significance is so important.",
+            "CHG dressings are common standard and supported by no exit site infections developed in experimental group.",
+            "CHG dressings also reduced catheter colonization caused by CoNS.",
+            "It is critical to have knowledge, use of checklists at CVC interventions, ongoing education about CRBSI, competency and consistency in care bundle provided by nursing staff to continue this great effort of CRBSI prevention.",
+            "The researcher suggests that future studies be planned to examine the use of care bundles with larger PHO samples."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

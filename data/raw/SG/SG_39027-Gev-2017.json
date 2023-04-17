@@ -1,0 +1,990 @@
+[
+    {
+        "doc_id": "39027",
+        "text": "Emotion recognition (ER) and understanding deficits are characteristic of autism spectrum disorder (ASD). The Transporters (TT) animated series has shown promising results in teaching children with ASD to recognize emotions, with mixed findings about generalization and maintenance of effects. This study aimed to evaluate the unique role of TT and of parental support in the acquisition, generalization, and maintenance of acquired ER skills in children with ASD. 77 Israeli children with high functioning ASD, aged 4-7 were randomly assigned into four groups according to a 2 3 2 design of the factors Series (TT, control series) and Parental Support (with/without). Thirty typically developing children, matched to the ASD groups on mental age, were tested with no intervention. Participants' ER (on three generalization levels) and emotional vocabulary (EV) were tested pre and post 8 weeks of intervention, and at 3 months' follow-up. Compared to the control series, watching TT significantly improved children's ER skills at all generalization levels, with good skill maintenance. All groups improved equally on EV. The amount of parental support given, in the groups that had received it, contributed to the generalization and maintenance of ER skills. Autism severity negatively correlated with ER improvement. The current study provides evidence to the unique role of TT in ER skill acquisition, generalization, and maintenance in children with high functioning ASD. In addition, this study provides evidence for a successful cultural adaptation of TT to a non-English speaking culture.",
+        "section": "Abstract",
+        "sentences": [
+            "Emotion recognition (ER) and understanding deficits are characteristic of autism spectrum disorder (ASD).",
+            "The Transporters (TT) animated series has shown promising results in teaching children with ASD to recognize emotions, with mixed findings about generalization and maintenance of effects.",
+            "This study aimed to evaluate the unique role of TT and of parental support in the acquisition, generalization, and maintenance of acquired ER skills in children with ASD.",
+            "77 Israeli children with high functioning ASD, aged 4-7 were randomly assigned into four groups according to a 2 3 2 design of the factors Series (TT, control series) and Parental Support (with/without).",
+            "Thirty typically developing children, matched to the ASD groups on mental age, were tested with no intervention.",
+            "Participants' ER (on three generalization levels) and emotional vocabulary (EV) were tested pre and post 8 weeks of intervention, and at 3 months' follow-up.",
+            "Compared to the control series, watching TT significantly improved children's ER skills at all generalization levels, with good skill maintenance.",
+            "All groups improved equally on EV.",
+            "The amount of parental support given, in the groups that had received it, contributed to the generalization and maintenance of ER skills.",
+            "Autism severity negatively correlated with ER improvement.",
+            "The current study provides evidence to the unique role of TT in ER skill acquisition, generalization, and maintenance in children with high functioning ASD.",
+            "In addition, this study provides evidence for a successful cultural adaptation of TT to a non-English speaking culture."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The recognition of emotions and mental states is a core difficulty for individuals with autism spectrum disorder (ASD), hampering their socio-emotional functioning [Baron-Cohen, 1995; Hobson, 1994] . Such difficulties have been identified through cognitive, behavioral, and neuro-imaging studies, which have demonstrated difficulties in recognizing emotions from facial expressions [Golan, Sinai-Gavrilov, & Baron-Cohen, 2015; Hobson, 1986] , from vocal intonation [Golan, Baron-Cohen, Hill, & Rutherford, 2007; Paul, Augustyn, Klin, & Volkmar, 2005] ; from contextual information [Happe, 1994] , and from the integration of multimodal emotional information [Golan, Baron-Cohen, & Golan, 2008; Yirmiya, Sigman, Kasari, & Mundy, 1992] . In addition, individuals with ASD tend to use less emotional and mental state words in their speech [Tager-Flusberg, 1992 . Children with ASD process faces differently and show reduced attention to faces and to facial expressions [Dawson et al., 2004; Klin et al., 2002] . They may also not find others' facial expressions intrinsically rewarding, possibly due to the mentalistic and emotional information conveyed by the eyes [Baron-Cohen, 1995] and facial expressions, which they find hard to read. Developmentally, deficits in attending to emotional cues in ASD, such as facial expressions, may lead to lack of specialization in collection of relevant emotional information and its interpretation. Redirecting children's attention to these cues may facilitate emotional understanding and consequently social functioning [Dawson & Zanolli, 2003; Howlin, 1998 ].",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The recognition of emotions and mental states is a core difficulty for individuals with autism spectrum disorder (ASD), hampering their socio-emotional functioning [Baron-Cohen, 1995; Hobson, 1994] .",
+            "Such difficulties have been identified through cognitive, behavioral, and neuro-imaging studies, which have demonstrated difficulties in recognizing emotions from facial expressions [Golan, Sinai-Gavrilov, & Baron-Cohen, 2015; Hobson, 1986] , from vocal intonation [Golan, Baron-Cohen, Hill, & Rutherford, 2007; Paul, Augustyn, Klin, & Volkmar, 2005] ; from contextual information [Happe, 1994] , and from the integration of multimodal emotional information [Golan, Baron-Cohen, & Golan, 2008; Yirmiya, Sigman, Kasari, & Mundy, 1992] .",
+            "In addition, individuals with ASD tend to use less emotional and mental state words in their speech [Tager-Flusberg, 1992 .",
+            "Children with ASD process faces differently and show reduced attention to faces and to facial expressions [Dawson et al., 2004; Klin et al., 2002] .",
+            "They may also not find others' facial expressions intrinsically rewarding, possibly due to the mentalistic and emotional information conveyed by the eyes [Baron-Cohen, 1995] and facial expressions, which they find hard to read.",
+            "Developmentally, deficits in attending to emotional cues in ASD, such as facial expressions, may lead to lack of specialization in collection of relevant emotional information and its interpretation.",
+            "Redirecting children's attention to these cues may facilitate emotional understanding and consequently social functioning [Dawson & Zanolli, 2003; Howlin, 1998 ]."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Attempts to teach emotion and mental state recognition, either on an individual basis [Bowler & Strom, 1998; Fisher & Happe, 2005] or as part of social skills group training [Bauminger, 2002; Hadwin, Baron-Cohen, Howlin, & Hill, 1996] , have shown mixed results. Most studies reported limited generalization to situations not included in the training program, besides improvement on taught curriculum.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Attempts to teach emotion and mental state recognition, either on an individual basis [Bowler & Strom, 1998; Fisher & Happe, 2005] or as part of social skills group training [Bauminger, 2002; Hadwin, Baron-Cohen, Howlin, & Hill, 1996] , have shown mixed results.",
+            "Most studies reported limited generalization to situations not included in the training program, besides improvement on taught curriculum."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Another medium for ER training that has been gaining popularity is computer-based training. The predictable, controllable, and structured computerized environment is especially appealing for Individuals with ASD [Moore, McGrath, & Thorpe, 2000] , partly because it enables them to use their strong systemizing skills [Baron-Cohen, Wheelwright, Lawson, Griffin, & Hill, 2002] . Their attraction for systems is apparent in the circumscribed interests they possess [Baron-Cohen & Wheelwright, 1999] , such as spinning objects, mechanics, and computers.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Another medium for ER training that has been gaining popularity is computer-based training.",
+            "The predictable, controllable, and structured computerized environment is especially appealing for Individuals with ASD [Moore, McGrath, & Thorpe, 2000] , partly because it enables them to use their strong systemizing skills [Baron-Cohen, Wheelwright, Lawson, Griffin, & Hill, 2002] .",
+            "Their attraction for systems is apparent in the circumscribed interests they possess [Baron-Cohen & Wheelwright, 1999] , such as spinning objects, mechanics, and computers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "However, generalization difficulties have been found in computer-based interventions despite the systematic nature of such programs [B\u20ac olte et al., 2002; Golan & Baron-Cohen, 2006] . The limited effectiveness of these interventions may be due to a lack of intrinsic motivation. Motivation is a major challenge when trying to teach ER skills to children with ASD. Whereas the motivation for social communication and interaction increases among adolescents with ASD [Tantam, 2000 [Tantam, , 2003 , intrinsic social motivation is usually lower in younger children [Dawson, 2008; Zeeland et al., 2010] and consequently their interest in such training is initiated and retained externally [Koegel, Vernon, & Koegel, 2009] . Harnessing the child's circumscribed interests when teaching socio-emotional communication may help increase intrinsic motivation [Attwood, 2006] .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "However, generalization difficulties have been found in computer-based interventions despite the systematic nature of such programs [B\u20ac olte et al., 2002; Golan & Baron-Cohen, 2006] .",
+            "The limited effectiveness of these interventions may be due to a lack of intrinsic motivation.",
+            "Motivation is a major challenge when trying to teach ER skills to children with ASD.",
+            "Whereas the motivation for social communication and interaction increases among adolescents with ASD [Tantam, 2000 [Tantam, , 2003 , intrinsic social motivation is usually lower in younger children [Dawson, 2008; Zeeland et al., 2010] and consequently their interest in such training is initiated and retained externally [Koegel, Vernon, & Koegel, 2009] .",
+            "Harnessing the child's circumscribed interests when teaching socio-emotional communication may help increase intrinsic motivation [Attwood, 2006] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "An attempt to create a systematic training environment, relying on intrinsic motivation for young children with ASD resulted in The Transporters (TT) animated series [www.thetransporters.com; Baron-Cohen et al., 2007] . TT aims to teach children with ASD about emotions, their causes and effects, and their corresponding facial expressions. In order to motivate children with ASD to learn about emotions and to look at facial expressions, real-life faces of actors expressing emotions were grafted onto eight rail-based vehicle characters, who take part in the series' fifteen 5-min long episodes. Each episode focuses on a key emotion or mental state (including: happy, sad, angry, afraid, disgusted, surprised, excited, tired, unfriendly, kind, sorry, proud, jealous, joking, and ashamed) , presenting it through a short narrated story, while labeling the emotion, highlighting the facial expression, and providing the context underlying the emotional experience. The mechanical, rule-based motion of the characters was assumed to be autism-friendly due to its predictable, repetitive, nature. Repeated watching of TT's episodes enables children with ASD, instead of avoiding faces, to tune into them without even realizing they are doing so, allowing them to pick up crucial information for learning about emotional expressions. The wide developmental range of the curriculum ensured that the series would be relevant as a teaching tool for children with ASD throughout early childhood. A user guide provides parents with various activities, aimed to enhance generalization of the knowledge acquired through TT into everyday life.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "An attempt to create a systematic training environment, relying on intrinsic motivation for young children with ASD resulted in The Transporters (TT) animated series [www.thetransporters.com; Baron-Cohen et al., 2007] .",
+            "TT aims to teach children with ASD about emotions, their causes and effects, and their corresponding facial expressions.",
+            "In order to motivate children with ASD to learn about emotions and to look at facial expressions, real-life faces of actors expressing emotions were grafted onto eight rail-based vehicle characters, who take part in the series' fifteen 5-min long episodes.",
+            "Each episode focuses on a key emotion or mental state (including: happy, sad, angry, afraid, disgusted, surprised, excited, tired, unfriendly, kind, sorry, proud, jealous, joking, and ashamed) , presenting it through a short narrated story, while labeling the emotion, highlighting the facial expression, and providing the context underlying the emotional experience.",
+            "The mechanical, rule-based motion of the characters was assumed to be autism-friendly due to its predictable, repetitive, nature.",
+            "Repeated watching of TT's episodes enables children with ASD, instead of avoiding faces, to tune into them without even realizing they are doing so, allowing them to pick up crucial information for learning about emotional expressions.",
+            "The wide developmental range of the curriculum ensured that the series would be relevant as a teaching tool for children with ASD throughout early childhood.",
+            "A user guide provides parents with various activities, aimed to enhance generalization of the knowledge acquired through TT into everyday life."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The efficacy of TT has been evaluated in several studies: Golan et al. [2010] evaluated the use of TT with children aged 4-7 years with high functioning ASD. Children with ASD who received intervention for 4 weeks were compared with two matched control groups who have not received intervention. The intervention group improved significantly more than the clinical control group on emotion vocabulary (EV) and ER tasks, performing, post intervention, comparably to typical controls. Another randomized controlled trial evaluated the efficacy of TT compared to a control series employing mechanical characters (\"Thomas the Tank Engine\") with high functioning children with ASD aged 4-8. Results showed the ability of children with ASD to identify and label basic and complex facial expressions following a 2-week home based DVD intervention significantly improved when viewing TT, but not the control series [Young & Posselt, 2012] . A similar RCT evaluated TT's effectiveness, compared to the same control series with lower-functioning 4-7 year olds with ASD . Results indicated lower efficacy in teaching basic ER skills to children with ASD and intellectual disability. Children in the TT group showed improved performance in the recognition of anger compared to the control group, with few improvements maintained at 3-month follow-up. There was no generalization of skills to theory of mind or social skills [Williams, Gray, & Tonge, 2012] .",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "The efficacy of TT has been evaluated in several studies: Golan et al. [2010] evaluated the use of TT with children aged 4-7 years with high functioning ASD.",
+            "Children with ASD who received intervention for 4 weeks were compared with two matched control groups who have not received intervention.",
+            "The intervention group improved significantly more than the clinical control group on emotion vocabulary (EV) and ER tasks, performing, post intervention, comparably to typical controls.",
+            "Another randomized controlled trial evaluated the efficacy of TT compared to a control series employing mechanical characters (\"Thomas the Tank Engine\") with high functioning children with ASD aged 4-8.",
+            "Results showed the ability of children with ASD to identify and label basic and complex facial expressions following a 2-week home based DVD intervention significantly improved when viewing TT, but not the control series [Young & Posselt, 2012] .",
+            "A similar RCT evaluated TT's effectiveness, compared to the same control series with lower-functioning 4-7 year olds with ASD .",
+            "Results indicated lower efficacy in teaching basic ER skills to children with ASD and intellectual disability.",
+            "Children in the TT group showed improved performance in the recognition of anger compared to the control group, with few improvements maintained at 3-month follow-up.",
+            "There was no generalization of skills to theory of mind or social skills [Williams, Gray, & Tonge, 2012] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Out of the three evaluations of TT described above, only one included data on maintenance of the intervention effects in a follow-up assessment [Williams et al., 2012] . The inclusion of lower functioning children in this study may present a potential confound of cognitive abilities, accounting for the poor maintenance of acquired skills. Hence, the question whether high functioning young children with ASD maintain their acquired ER skills following the TT intervention remained open. This question was examined in the current study.",
+        "section": "Introduction",
+        "section_number": 7,
+        "sentences": [
+            "Out of the three evaluations of TT described above, only one included data on maintenance of the intervention effects in a follow-up assessment [Williams et al., 2012] .",
+            "The inclusion of lower functioning children in this study may present a potential confound of cognitive abilities, accounting for the poor maintenance of acquired skills.",
+            "Hence, the question whether high functioning young children with ASD maintain their acquired ER skills following the TT intervention remained open.",
+            "This question was examined in the current study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In addition, it is important to note TT series is accompanied by a parental guide, aimed to facilitate consolidation of learned skills. Previous evaluations did not examine whether TT's effect could be attributed to the series itself or alternatively to parental support. The inclusion of parents (as well as other family members) has been identified as an essential component of effective early intervention programs [National Research Council, 2001 ] and many autism studies have demonstrated the positive effects of parent-delivered and parent-mediated interventions on parent and child outcomes [Oono, Honey, & McConachie, 2013] . Parental mediation has been shown to increase children's nonverbal and verbal communication skills, improve play and imitation skills, and decrease behavior problems [Dawson et al, 2010; Koegel, Koegel, & Surratt, 1992; Rogers et al., 2012] with better generalization and maintenance of acquired skills [Koegel et al., 1992] .",
+        "section": "Introduction",
+        "section_number": 8,
+        "sentences": [
+            "In addition, it is important to note TT series is accompanied by a parental guide, aimed to facilitate consolidation of learned skills.",
+            "Previous evaluations did not examine whether TT's effect could be attributed to the series itself or alternatively to parental support.",
+            "The inclusion of parents (as well as other family members) has been identified as an essential component of effective early intervention programs [National Research Council, 2001 ] and many autism studies have demonstrated the positive effects of parent-delivered and parent-mediated interventions on parent and child outcomes [Oono, Honey, & McConachie, 2013] .",
+            "Parental mediation has been shown to increase children's nonverbal and verbal communication skills, improve play and imitation skills, and decrease behavior problems [Dawson et al, 2010; Koegel, Koegel, & Surratt, 1992; Rogers et al., 2012] with better generalization and maintenance of acquired skills [Koegel et al., 1992] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Although technology based interventions have been shown to be effective in developing ER and EV in children with ASD, the role of parental involvement in such interventions has not been explored yet. The current study aimed to examine the unique role of TT series and parental support, and their effect on the maintenance of acquired ER and EV skills in a randomized control trial of high functioning 4-7 year-old children with ASD.",
+        "section": "Introduction",
+        "section_number": 9,
+        "sentences": [
+            "Although technology based interventions have been shown to be effective in developing ER and EV in children with ASD, the role of parental involvement in such interventions has not been explored yet.",
+            "The current study aimed to examine the unique role of TT series and parental support, and their effect on the maintenance of acquired ER and EV skills in a randomized control trial of high functioning 4-7 year-old children with ASD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "It was hypothesized that watching TT will improve ER and EV, their generalization and maintenance, more than the control series, and that having parental support will improve generalization and maintenance more than the no support condition. The combination of TT with parental support was hypothesized to improve participants' performance, generalization, and maintenance more than all other conditions.",
+        "section": "Introduction",
+        "section_number": 10,
+        "sentences": [
+            "It was hypothesized that watching TT will improve ER and EV, their generalization and maintenance, more than the control series, and that having parental support will improve generalization and maintenance more than the no support condition.",
+            "The combination of TT with parental support was hypothesized to improve participants' performance, generalization, and maintenance more than all other conditions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The two between-group factors tested (intervention series and parental support) yielded four intervention groups for children with ASD:",
+        "section": "Design",
+        "section_number": 11,
+        "sentences": [
+            "The two between-group factors tested (intervention series and parental support) yielded four intervention groups for children with ASD:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "1. Transporters with Parental Support (TT 1 PS): Children in this group were asked to watch a Hebrew narrated version of TT for a minimum of 10 min (i.e., two episodes) per day, over a period of 8 weeks. Parents were provided with an activity guide, comprising 12 play activities and discussions about the emotions included in the series (e.g., emotion chardes, highlighting emotions in stories read with the child). Parents were asked to employ these activities throughout the intervention period, and to highlight the appearance of learned emotions in their child's everyday life. Parental delivery of the 12 emotion-focused activities and discussions was monitored by the research team on a weekly basis throughout the intervention period. Parents were also offered consultation about challenges in applying the activities with their child, and incorporating them into their natural environment. 2. Transporters with no parental support (TT): children in this group were asked to watch the Hebrew dubbed version of TT in the same manner as the children in group 1, but with no parental tutoring.",
+        "section": "Design",
+        "section_number": 12,
+        "sentences": [
+            "1.",
+            "Transporters with Parental Support (TT 1 PS): Children in this group were asked to watch a Hebrew narrated version of TT for a minimum of 10 min (i.e., two episodes) per day, over a period of 8 weeks.",
+            "Parents were provided with an activity guide, comprising 12 play activities and discussions about the emotions included in the series (e.g., emotion chardes, highlighting emotions in stories read with the child).",
+            "Parents were asked to employ these activities throughout the intervention period, and to highlight the appearance of learned emotions in their child's everyday life.",
+            "Parental delivery of the 12 emotion-focused activities and discussions was monitored by the research team on a weekly basis throughout the intervention period.",
+            "Parents were also offered consultation about challenges in applying the activities with their child, and incorporating them into their natural environment.",
+            "2.",
+            "Transporters with no parental support (TT): children in this group were asked to watch the Hebrew dubbed version of TT in the same manner as the children in group 1, but with no parental tutoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Parents were asked to keep their intervention to technical support (e.g., turning on the DVD player).",
+        "section": "Design",
+        "section_number": 13,
+        "sentences": [
+            "Parents were asked to keep their intervention to technical support (e.g., turning on the DVD player)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "3. Control series with parental support (CS 1 PS): children in this group, and their parents were asked to follow the same guidelines as in group 1, watching Charlie & Dodo, a control animated series. This series comprised fifteen 5-min-long episodes (as in TT) which included social situations with unstructured facial and emotional expressions. Parents were provided with an activity guide adapted for this series, with similar guidelines and recommendations to those appearing in TT's guide. Children's and parents' activity was monitored by the research team, mirroring group 1. 4. Control series with no parental support (CS): This group mirrored group 2, with children watching the control series, instead of TT.",
+        "section": "Design",
+        "section_number": 14,
+        "sentences": [
+            "3.",
+            "Control series with parental support (CS 1 PS): children in this group, and their parents were asked to follow the same guidelines as in group 1, watching Charlie & Dodo, a control animated series.",
+            "This series comprised fifteen 5-min-long episodes (as in TT) which included social situations with unstructured facial and emotional expressions.",
+            "Parents were provided with an activity guide adapted for this series, with similar guidelines and recommendations to those appearing in TT's guide.",
+            "Children's and parents' activity was monitored by the research team, mirroring group 1.",
+            "4.",
+            "Control series with no parental support (CS): This group mirrored group 2, with children watching the control series, instead of TT."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In addition, a fifth group of Typically Developing (TD) children took part in the study as controls. These children attended the assessments, but did not get any particular intervention facilitating emotion recognition, or parental support.",
+        "section": "Design",
+        "section_number": 15,
+        "sentences": [
+            "In addition, a fifth group of Typically Developing (TD) children took part in the study as controls.",
+            "These children attended the assessments, but did not get any particular intervention facilitating emotion recognition, or parental support."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "All of the groups described above were assessed three times: at baseline, pre-intervention (T1), after 8 weeks of intervention (T2), and 3 months after the intervention's completion (T3).",
+        "section": "Design",
+        "section_number": 16,
+        "sentences": [
+            "All of the groups described above were assessed three times: at baseline, pre-intervention (T1), after 8 weeks of intervention (T2), and 3 months after the intervention's completion (T3)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Background measures. Before the intervention, participants with ASD were administered The Autism Diagnostic Observation Schedule, second edition-(ADOS-2) [Lord et al., 2012] , to verify their diagnosis. All participants were administered the survey form of the Vineland Adaptive Behaviour Scales, 2nd edition (VABS-2) [Sparrow, Cicchetti, & Balla, 2005] , and four subtests from the 3rd edition of the Wechsler Preschool and Primary Scale of Intelligence (WPPSI-III), which were used to verify their level of adaptive functioning, and cognitive abilities.",
+        "section": "Instruments",
+        "section_number": 17,
+        "sentences": [
+            "Background measures.",
+            "Before the intervention, participants with ASD were administered The Autism Diagnostic Observation Schedule, second edition-(ADOS-2) [Lord et al., 2012] , to verify their diagnosis.",
+            "All participants were administered the survey form of the Vineland Adaptive Behaviour Scales, 2nd edition (VABS-2) [Sparrow, Cicchetti, & Balla, 2005] , and four subtests from the 3rd edition of the Wechsler Preschool and Primary Scale of Intelligence (WPPSI-III), which were used to verify their level of adaptive functioning, and cognitive abilities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "ER Tasks. ER skills were tested using a Hebrew translation of the original three level computerized tasks (CT), used to evaluate TT in the United Kingdom [Golan et al., 2010 ]:",
+        "section": "Instruments",
+        "section_number": 18,
+        "sentences": [
+            "ER Tasks.",
+            "ER skills were tested using a Hebrew translation of the original three level computerized tasks (CT), used to evaluate TT in the United Kingdom [Golan et al., 2010 ]:"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "1. Familiar close generalization: matching familiar situations taken from the intervention series to facial expressions of familiar characters from the series. 2. Unfamiliar close generalization: matching novel situations with novel expressions from TT characters. These expressions were not shown by these characters in the intervention series, and thus require some generalization.",
+        "section": "Instruments",
+        "section_number": 19,
+        "sentences": [
+            "1.",
+            "Familiar close generalization: matching familiar situations taken from the intervention series to facial expressions of familiar characters from the series.",
+            "2.",
+            "Unfamiliar close generalization: matching novel situations with novel expressions from TT characters.",
+            "These expressions were not shown by these characters in the intervention series, and thus require some generalization."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "To test generalization to facial expressions that are not attached to vehicles, participants had to match novel situations with novel expressions using a selection of human non-Transporters faces taken from the Mind Reading software [ Baron-Cohen et al., 2004] .",
+        "section": "Distant generalization:",
+        "section_number": 20,
+        "sentences": [
+            "To test generalization to facial expressions that are not attached to vehicles, participants had to match novel situations with novel expressions using a selection of human non-Transporters faces taken from the Mind Reading software [ Baron-Cohen et al., 2004] ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In each task, participants were provided with a short scenario, and then asked to choose from three video clips of facial expressions the one that matches the emotion evoked by the situation (see Fig. 1 ). The tasks focus on the 16 emotions covered in TT (the 15 detailed above, plus worried which appears in several different episodes). Accuracy scores for each task range between 0 and 16.",
+        "section": "Distant generalization:",
+        "section_number": 21,
+        "sentences": [
+            "In each task, participants were provided with a short scenario, and then asked to choose from three video clips of facial expressions the one that matches the emotion evoked by the situation (see Fig. 1 ).",
+            "The tasks focus on the 16 emotions covered in TT (the 15 detailed above, plus worried which appears in several different episodes).",
+            "Accuracy scores for each task range between 0 and 16."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In order to test intervention maintenance effects, a 3rd version of each task was created. The translated tasks were validated on a group of 46 typically developing children aged 4-7 (24 males, 22 females), to ensure they are culturally appropriate.",
+        "section": "Distant generalization:",
+        "section_number": 22,
+        "sentences": [
+            "In order to test intervention maintenance effects, a 3rd version of each task was created.",
+            "The translated tasks were validated on a group of 46 typically developing children aged 4-7 (24 males, 22 females), to ensure they are culturally appropriate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Emotion Vocabulary Task. This verbal task was also adapted from Golan et al. [2010] , and was administered three times, at times 1-3. The task evaluates participants' emotional vocabulary (EV) by asking them to define the 16 emotion words included in TT (e.g., \"tell me what happy means\") and to give examples of situations that evoke them (e.g., \"Tell me of a time you felt happy\"). Appropriateness of definitions and examples were scored by two independent judges. Scores of 0, 1, or 2 were given for each emotion following the rationale used in the vocabulary subtest of the WPPSI manual. 2point answers included a good synonym, one or more definitive or primary features, correct descriptive features that indicate understanding of the emotion, or a definite example (e.g., happy is when someone feels nice, it's an emotion . . . I'm happy when I watch movies and also while eating ice cream). 1-point answers included a vague or less pertinent synonym, an attribute that is correct but not a definitive or distinguishing feature, an example that is not elaborated enough, a correct definition of a related emotion, or a demonstration that is not elaborated in words (e.g., worried is when someone forgot something . . . I was worried when someone forgot something important and he had to come and take it). 0-point answers were given when the response was obviously incorrect, or when the response was vague, associative, repetitive, trivial, or demonstrating a lack of content (e.g., Ashamed is someone who does not say anything, just like my cousin . . . I don't feel ashamed). A score was given per emotion in relation to the definition and example together, so that the best performance was taken into account. Task scores ranged between 0 and 32. Average inter-rater agreement between the two judges scoring participants' responses was 0.91.",
+        "section": "Distant generalization:",
+        "section_number": 23,
+        "sentences": [
+            "Emotion Vocabulary Task.",
+            "This verbal task was also adapted from Golan et al. [2010] , and was administered three times, at times 1-3.",
+            "The task evaluates participants' emotional vocabulary (EV) by asking them to define the 16 emotion words included in TT (e.g., \"tell me what happy means\") and to give examples of situations that evoke them (e.g., \"Tell me of a time you felt happy\").",
+            "Appropriateness of definitions and examples were scored by two independent judges.",
+            "Scores of 0, 1, or 2 were given for each emotion following the rationale used in the vocabulary subtest of the WPPSI manual.",
+            "2point answers included a good synonym, one or more definitive or primary features, correct descriptive features that indicate understanding of the emotion, or a definite example (e.g., happy is when someone feels nice, it's an emotion . . .",
+            "I'm happy when I watch movies and also while eating ice cream).",
+            "1-point answers included a vague or less pertinent synonym, an attribute that is correct but not a definitive or distinguishing feature, an example that is not elaborated enough, a correct definition of a related emotion, or a demonstration that is not elaborated in words (e.g., worried is when someone forgot something . . .",
+            "I was worried when someone forgot something important and he had to come and take it).",
+            "0-point answers were given when the response was obviously incorrect, or when the response was vague, associative, repetitive, trivial, or demonstrating a lack of content (e.g., Ashamed is someone who does not say anything, just like my cousin . . .",
+            "I don't feel ashamed).",
+            "A score was given per emotion in relation to the definition and example together, so that the best performance was taken into account.",
+            "Task scores ranged between 0 and 32.",
+            "Average inter-rater agreement between the two judges scoring participants' responses was 0.91."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Children with ASD, aged 4-7, were recruited through the Association for Children at Risk, an Israeli organization that operates kindergartens and clinical centers for children with ASD throughout the country. In addition, adverts were placed in internet forums of professionals and parents of children with ASD. Of the 107 families who volunteered for the study, 77 children met the inclusion criteria: WPPSI subtest standardized scores >6, and VABS communication score >80. These 77 children, diagnosed with ASD according to established DSM-IV-TR [American Psychiatric Association, 2000] criteria, and meeting criteria for ASD on the ADOS-2 [Lord et al., 2012] , were randomly allocated into the four intervention groups (see Fig. 2 ). During the 8 weeks of intervention, eight participants dropped out for various reasons: Five participants did not find the series interesting (two participants from the TT group and three participants from the CS 1 PS and CS groups); three participants (one from the TT group, one from the TT 1 PS group, Figure 1 . Screenshots of items from computer tasks-generalization levels 2 (left) and 3 (right).",
+        "section": "Participants",
+        "section_number": 24,
+        "sentences": [
+            "Children with ASD, aged 4-7, were recruited through the Association for Children at Risk, an Israeli organization that operates kindergartens and clinical centers for children with ASD throughout the country.",
+            "In addition, adverts were placed in internet forums of professionals and parents of children with ASD.",
+            "Of the 107 families who volunteered for the study, 77 children met the inclusion criteria: WPPSI subtest standardized scores >6, and VABS communication score >80.",
+            "These 77 children, diagnosed with ASD according to established DSM-IV-TR [American Psychiatric Association, 2000] criteria, and meeting criteria for ASD on the ADOS-2 [Lord et al., 2012] , were randomly allocated into the four intervention groups (see Fig. 2 ).",
+            "During the 8 weeks of intervention, eight participants dropped out for various reasons: Five participants did not find the series interesting (two participants from the TT group and three participants from the CS 1 PS and CS groups); three participants (one from the TT group, one from the TT 1 PS group, Figure 1 .",
+            "Screenshots of items from computer tasks-generalization levels 2 (left) and 3 (right)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "39027",
+        "text": "and one from CS 1 PS group) dropped out due to parental difficulties to continue their participation. In addition, eight participants failed to show up to the T3 assessment. Overall, 59 participants with ASD completed the entire study protocol.",
+        "section": "Participants",
+        "section_number": 25,
+        "sentences": [
+            "and one from CS 1 PS group) dropped out due to parental difficulties to continue their participation.",
+            "In addition, eight participants failed to show up to the T3 assessment.",
+            "Overall, 59 participants with ASD completed the entire study protocol."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The TD control group comprised 25 participants, recruited using adverts in mainstream kindergartens and internet parent groups. They were screened out for ASD using the Childhood Autism Spectrum Test [CAST; Scott et al., 2002] , and none scored above the cut-off for ASD. All five groups were matched on gender (v 2 [4] 5 2.75, n.s.) and on the other background measures as detailed in Table 1 .",
+        "section": "Participants",
+        "section_number": 26,
+        "sentences": [
+            "The TD control group comprised 25 participants, recruited using adverts in mainstream kindergartens and internet parent groups.",
+            "They were screened out for ASD using the Childhood Autism Spectrum Test [CAST; Scott et al., 2002] , and none scored above the cut-off for ASD.",
+            "All five groups were matched on gender (v 2 [4] 5 2.75, n.s.)",
+            "and on the other background measures as detailed in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Participants were tested at home or at school, according to the parents' preference. First, parents were asked to fill in the VABS-II survey form. Next, the research team visited participants at their homes or schools and their language ability was tested using four WPPSI-III subtests. Participants with ASD were also administered the ADOS-2. Parents of children who failed to meet inclusion criteria were then informed and ended the testing procedure.",
+        "section": "Procedure",
+        "section_number": 27,
+        "sentences": [
+            "Participants were tested at home or at school, according to the parents' preference.",
+            "First, parents were asked to fill in the VABS-II survey form.",
+            "Next, the research team visited participants at their homes or schools and their language ability was tested using four WPPSI-III subtests.",
+            "Participants with ASD were also administered the ADOS-2.",
+            "Parents of children who failed to meet inclusion criteria were then informed and ended the testing procedure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Time 1-3 assessments included one session each, lasting around 60 min. At each session, participants were given the emotion vocabulary task. Then they were seated in front of a laptop positioned directly in front of them and adjusted for individual eye-level accordingly. The ER tasks were then presented in level order, from Levels 1 to 3, and run using a powerpoint slideshow. For each of the 16 questions at each level, a still shot of the scene was presented, and a scenario description relating to the scene was read out to the participant. The three silent animated clips of a character showing different emotional expressions were then played one after another and the child was asked to pick which clip of the three best matched the particular scenario (i.e., how would the character be feeling in reaction to the situation). In order to do this, the child had to point clearly to whichever clip they had chosen. Participants' answers were recorded manually by the experimenter.",
+        "section": "Procedure",
+        "section_number": 28,
+        "sentences": [
+            "Time 1-3 assessments included one session each, lasting around 60 min.",
+            "At each session, participants were given the emotion vocabulary task.",
+            "Then they were seated in front of a laptop positioned directly in front of them and adjusted for individual eye-level accordingly.",
+            "The ER tasks were then presented in level order, from Levels 1 to 3, and run using a powerpoint slideshow.",
+            "For each of the 16 questions at each level, a still shot of the scene was presented, and a scenario description relating to the scene was read out to the participant.",
+            "The three silent animated clips of a character showing different emotional expressions were then played one after another and the child was asked to pick which clip of the three best matched the particular scenario (i.e., how would the character be feeling in reaction to the situation).",
+            "In order to do this, the child had to point clearly to whichever clip they had chosen.",
+            "Participants' answers were recorded manually by the experimenter."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "At the end of T1 testing session, the parents were given a DVD copy of TT series or the control series and told that their child should watch a minimum of two episodes per day during the 8-week intervention period. Parents of participants from the parental support groups were also given the parent guide, and were provided with a thorough guidance on its use. They were asked to support their child's learning, using the activities set in the guide. T2 testing took place 8 weeks later, and T3 testing took place 12 weeks after T2 (or as near to 12 weeks as was possible). The experimental procedures were identical to that described for T1, except for the administration of different versions of the three ER tasks at each level. Administration order of the different versions of the computerized tasks at Time 1-3 was counterbalanced within each generalization level. At the end of T3 testing, participants and their parents were debriefed with details about the purpose and future directions of the study and all the children received a free copy of TT DVD.",
+        "section": "Procedure",
+        "section_number": 29,
+        "sentences": [
+            "At the end of T1 testing session, the parents were given a DVD copy of TT series or the control series and told that their child should watch a minimum of two episodes per day during the 8-week intervention period.",
+            "Parents of participants from the parental support groups were also given the parent guide, and were provided with a thorough guidance on its use.",
+            "They were asked to support their child's learning, using the activities set in the guide.",
+            "T2 testing took place 8 weeks later, and T3 testing took place 12 weeks after T2 (or as near to 12 weeks as was possible).",
+            "The experimental procedures were identical to that described for T1, except for the administration of different versions of the three ER tasks at each level.",
+            "Administration order of the different versions of the computerized tasks at Time 1-3 was counterbalanced within each generalization level.",
+            "At the end of T3 testing, participants and their parents were debriefed with details about the purpose and future directions of the study and all the children received a free copy of TT DVD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "First, the entire TD and ASD samples were compared at T1 to confirm the tasks differentiate between the groups. As expected, significant group differences were found for CT1 (t (72.36) 5 2.94, P < 0.01, M(S.D.) 5 9.03(2.72) for ASD and Next, to evaluate the effects of series and of parental support on intervention outcome and maintenance on the three levels of the computerized ER tasks, a repeated measures MANCOVA was conducted, with Time (1, 2, and 3) and Level (1, 2, and 3) as within subject factors, and Series (TT or CS) and PS (with or without) as between subject factors. Age, verbal ability (Wechsler vocabulary) and autism severity (ADOS comparison score) were entered as covariates. The analysis yielded significant main effects for Time (F (2,51) 5 6.36, P <0.01, g 2 5 0.20), with lower scores for T1 compared to T2 and T3; and Series (F (1,52) 5 10.48, P < 0.005, g 2 5 0.17), with higher scores for TT users, compared to CS users. Verbal ability's effect as a covariate was also significant (F (1,52) 5 14.44, P <0.001, g 2 5 0.22). In addition to the main effects, a significant Time 3 Series interaction was found (F (2,51) 5 7.97, P < 0.001, g 2 5 0.24). Post hoc pairwise comparisons corrected for Bonferroni revealed that while no difference was found between the two series at T1 (M(SEM) 5 8.97(.39) for TT. M(SEM) 5 8.67, SEM 5 0.38 for CS; F (1,52) 5 0.29, ns), participants watching TT (M(SEM) 5 11.01(0.43)) performed significantly better than participants watching CS (M(SEM) 5 9.02(0.42)) at T2 (F (1,52) 5 10.33, P <0.005). This difference was maintained at T3 (M(SEM) 5 11.64(.44) for TT. M(SEM) 5 9.18(0.43) for CS; F (1,52) 5 15.49, P <0.001). Figure 3 illustrates the Time 3 Series interaction for each level separately. Parental support had no significant main effect or interaction with Time, Level, or Series. The covariate Autism severity had a significant interaction with Time (F (2,51) 5 6.56, P < 0.005, g 2 5 0.20), with a negative correlation between autism severity and ER task improvement over time (r 5 20.22, p < 0.05). Age had no significant effects as a covariate.",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "First, the entire TD and ASD samples were compared at T1 to confirm the tasks differentiate between the groups.",
+            "As expected, significant group differences were found for CT1 (t (72.36) 5 2.94, P < 0.01, M(S.D.) 5 9.03(2.72) for ASD and Next, to evaluate the effects of series and of parental support on intervention outcome and maintenance on the three levels of the computerized ER tasks, a repeated measures MANCOVA was conducted, with Time (1, 2, and 3) and Level (1, 2, and 3) as within subject factors, and Series (TT or CS) and PS (with or without) as between subject factors.",
+            "Age, verbal ability (Wechsler vocabulary) and autism severity (ADOS comparison score) were entered as covariates.",
+            "The analysis yielded significant main effects for Time (F (2,51) 5 6.36, P <0.01, g 2 5 0.20), with lower scores for T1 compared to T2 and T3; and Series (F (1,52) 5 10.48, P < 0.005, g 2 5 0.17), with higher scores for TT users, compared to CS users.",
+            "Verbal ability's effect as a covariate was also significant (F (1,52) 5 14.44, P <0.001, g 2 5 0.22).",
+            "In addition to the main effects, a significant Time 3 Series interaction was found (F (2,51) 5 7.97, P < 0.001, g 2 5 0.24).",
+            "Post hoc pairwise comparisons corrected for Bonferroni revealed that while no difference was found between the two series at T1 (M(SEM) 5 8.97(.39) for TT.",
+            "M(SEM) 5 8.67, SEM 5 0.38 for CS; F (1,52) 5 0.29, ns), participants watching TT (M(SEM) 5 11.01(0.43)) performed significantly better than participants watching CS (M(SEM) 5 9.02(0.42)) at T2 (F (1,52) 5 10.33, P <0.005).",
+            "This difference was maintained at T3 (M(SEM) 5 11.64(.44) for TT.",
+            "M(SEM) 5 9.18(0.43) for CS; F (1,52) 5 15.49, P <0.001).",
+            "Figure 3 illustrates the Time 3 Series interaction for each level separately.",
+            "Parental support had no significant main effect or interaction with Time, Level, or Series.",
+            "The covariate Autism severity had a significant interaction with Time (F (2,51) 5 6.56, P < 0.005, g 2 5 0.20), with a negative correlation between autism severity and ER task improvement over time (r 5 20.22, p < 0.05).",
+            "Age had no significant effects as a covariate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In order to examine Series, PS, and Time effects on the children's emotion vocabulary, we conducted a repeated measures MANOVA with Time (1, 2, and 3) as a within subject factor, and with Series (TT or CS) and PS (with or without) as between subject factors. The analysis yielded a significant main effect for Time (F (2,54) 5 22.47, P < 0.001, g 2 5 0.45). Post hoc pairwise comparisons corrected for Bonferroni revealed that scores were higher at T2, compared to T1, and higher at T3, compared to T2 (M(SEM) 5 16.38(1.00) for T1. M(SEM) 5 19.4(1.03) for T2. M(SEM) 5 21.22(0.93) for T3). No other significant main effects or interaction effects were found in this analysis.",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "In order to examine Series, PS, and Time effects on the children's emotion vocabulary, we conducted a repeated measures MANOVA with Time (1, 2, and 3) as a within subject factor, and with Series (TT or CS) and PS (with or without) as between subject factors.",
+            "The analysis yielded a significant main effect for Time (F (2,54) 5 22.47, P < 0.001, g 2 5 0.45).",
+            "Post hoc pairwise comparisons corrected for Bonferroni revealed that scores were higher at T2, compared to T1, and higher at T3, compared to T2 (M(SEM) 5 16.38(1.00) for T1.",
+            "M(SEM) 5 19.4(1.03) for T2.",
+            "M(SEM) 5 21.22(0.93) for T3).",
+            "No other significant main effects or interaction effects were found in this analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In order to examine the performance of the children in the ASD intervention groups in comparison to the TD control group, considering the previous analysis did not show any effect for PS, we grouped the participants with ASD according to Series, over and above PS. This allowed us to perform a repeated measures MANOVA with Time (1, 2, and 3) and Level (1, 2, and 3) as within subject factors, and Group (TT, CS, and TD) as a between subject factor. The analysis yielded main effects for Time (F (2,80) 5 20.21, P < 0.001, g 2 5 0.34), with higher scores at T2 and T3, compared to T1; Level (F (2,80) 5 4.42, P < 0.05, g 2 5 0.1), with higher scores for level 1, compared to levels 2 and 3; and Group (F (2,81) 5 12.35, P < 0.001, g 2 5 0.23), with lower scores for the CS group, compared to TT and TD. A significant interaction was found for Time 3 Group (F (4,160) 5 3.48, P < 0.01, g 2 5 0.08). Post hoc pairwise comparisons corrected for Bonferroni revealed that while at T1 the TD group performed significantly better than both TT and CS groups, which did not differ from each other (M(SEM) 5 10.69(0.46) for TD. M(SEM) 5 9.15(0.43) for TT. M(SEM) 5 8.48(0.42) for CS; F (2,81) 5 6.59, P < 0.01, g 2 5 0.14), at T2 the TT group performed as well as the TD and significantly better than the CS group (M(SEM) 5 11.36(0.46) for TD. M(SEM) 5 11.23(0.42) for TT. M(SEM) 5 8.82(0.42) for CS; F (2,81) 5 11.28, P < 0.001, g 2 5 0.22). This pattern was maintained at T3 D.) are presented for all measures except gender, which comprises M:F frequencies; TT, the transporters; PS, parental support; CS, control series; TD, typically developing; ADOS, autism diagnostic observation schedule (2nd Ed.); VABS, vineland adaptive behavior Scales (2nd Ed.); WPPSI Wechsler Preschool and Primary Scale of Intelligence (3rd. Ed.); *P < 0.01.",
+        "section": "Results",
+        "section_number": 32,
+        "sentences": [
+            "In order to examine the performance of the children in the ASD intervention groups in comparison to the TD control group, considering the previous analysis did not show any effect for PS, we grouped the participants with ASD according to Series, over and above PS.",
+            "This allowed us to perform a repeated measures MANOVA with Time (1, 2, and 3) and Level (1, 2, and 3) as within subject factors, and Group (TT, CS, and TD) as a between subject factor.",
+            "The analysis yielded main effects for Time (F (2,80) 5 20.21, P < 0.001, g 2 5 0.34), with higher scores at T2 and T3, compared to T1; Level (F (2,80) 5 4.42, P < 0.05, g 2 5 0.1), with higher scores for level 1, compared to levels 2 and 3; and Group (F (2,81) 5 12.35, P < 0.001, g 2 5 0.23), with lower scores for the CS group, compared to TT and TD.",
+            "A significant interaction was found for Time 3 Group (F (4,160) 5 3.48, P < 0.01, g 2 5 0.08).",
+            "Post hoc pairwise comparisons corrected for Bonferroni revealed that while at T1 the TD group performed significantly better than both TT and CS groups, which did not differ from each other (M(SEM) 5 10.69(0.46) for TD.",
+            "M(SEM) 5 9.15(0.43) for TT.",
+            "M(SEM) 5 8.48(0.42) for CS; F (2,81) 5 6.59, P < 0.01, g 2 5 0.14), at T2 the TT group performed as well as the TD and significantly better than the CS group (M(SEM) 5 11.36(0.46) for TD.",
+            "M(SEM) 5 11.23(0.42) for TT.",
+            "M(SEM) 5 8.82(0.42) for CS; F (2,81) 5 11.28, P < 0.001, g 2 5 0.22).",
+            "This pattern was maintained at T3 D.) are presented for all measures except gender, which comprises M:F frequencies; TT, the transporters; PS, parental support; CS, control series; TD, typically developing; ADOS, autism diagnostic observation schedule (2nd Ed.);",
+            "VABS, vineland adaptive behavior Scales (2nd Ed.);",
+            "WPPSI Wechsler Preschool and Primary Scale of Intelligence (3rd.",
+            "Ed.); *",
+            "P < 0.01."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "(M(SEM) 5 11.94(0.48) for TD. M(SEM) 5 11.58(0.44) for TT. M(SEM) 5 9.23(0.43) for CS; F (2,81) 5 10.88, P < 0.001, g 2 5 0.21). Figure 4 illustrates this interaction. Another significant interaction was found for Group 3 Level (F (4,160) 5 3.59, P <0.01, g 2 5 0.09). Post hoc pairwise comparisons corrected for Bonferroni revealed that the source of this significance was the different scores children in the TT group achieved at the various levels, with scores for level 1 being significantly higher than scores for levels 2 and 3 (M(SEM) 5 11.31(0.40) for level 1, M(SEM) 5 10.55(0.42) for level 2, and M(SEM) 5 10.09(0.37) for level 3; F (2,80) 5 10.38, P <0.001, g 2 5 0.21). Scores at the various levels did not significantly differ for the CS and TD groups.",
+        "section": "Results",
+        "section_number": 33,
+        "sentences": [
+            "(M(SEM) 5 11.94(0.48) for TD.",
+            "M(SEM) 5 11.58(0.44) for TT.",
+            "M(SEM) 5 9.23(0.43) for CS; F (2,81) 5 10.88, P < 0.001, g 2 5 0.21).",
+            "Figure 4 illustrates this interaction.",
+            "Another significant interaction was found for Group 3 Level (F (4,160) 5 3.59, P <0.01, g 2 5 0.09).",
+            "Post hoc pairwise comparisons corrected for Bonferroni revealed that the source of this significance was the different scores children in the TT group achieved at the various levels, with scores for level 1 being significantly higher than scores for levels 2 and 3 (M(SEM) 5 11.31(0.40) for level 1, M(SEM) 5 10.55(0.42) for level 2, and M(SEM) 5 10.09(0.37) for level 3; F (2,80) 5 10.38, P <0.001, g 2 5 0.21).",
+            "Scores at the various levels did not significantly differ for the CS and TD groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Since PS had no significant effect when represented dichotomously (i.e., with/without PS), and in order to examine more closely whether PS had contributed to the intervention outcome, we performed a repeated measures MANCOVA only for participants who had received PS. Time (1, 2, and 3) and Level (1, 2, and 3) were defined as within subject factors, and Group (TT 1 PS or CS 1 PS) as a between subject factor. The number of activities employed with each child along the 8 intervention weeks (ranging between 0 and 96) was entered as a covariate named PS-total. Of the 31 families that practiced PS, tracking was fully available for 23 families (n 5 10 for TT 1 PS and n 5 13 for CS 1 PS). The analysis yielded a main effect for Group (F (1,20) 5 9.8, P < 0.01, g 2 5 0.33), with TT 1 PS scoring higher than CS 1 PS over and above Time and Level (M(SEM) 5 10.64(0.61) for TT. M(SEM) 5 8.1(0.53) for CS). In addition, a Time 3 Group interaction (F (2,19) 5 3.51, P 5 0.05, g 2 5 0.27) and a Time 3 Level interaction (F (4,17) 5 3.07, P < 0.05, g 2 5 0.42) were found, replicating previous findings on the whole sample. The analysis also yielded a Level 3 PS-total interaction (F (2,19) 5 5.64, P < 0.05, g 2 5 0.37), and a Time 3 Level 3 PS-total interaction (F (4,17) 5 3.43, P < 0.05, g 2 5 0.45). In order to analyze these interaction effects, we performed three multiple regression analyses, one for each CT level, with T3-T1 score differences as the predicted variables, and with Series, PS-total and Series 3 PS-Total interaction (computed as the multiplication of the two variables' standard scores) as the predictors. As shown in Table 2 , T3-T1 CT difference scores were significantly predicted only by Series for level 1 (b 5 0.47, R 2 5 0.38, F (3,19) 5 3.84, P < 0.05), and only by PS-total for level 2 (b 5 0.53, R 2 5 0.36, F (3,19) 5 3.57, P < 0.05). The regression for level 3 was non-significant (R 2 5 0.11, F (3,19) 5 0.78, n.s.).",
+        "section": "Results",
+        "section_number": 34,
+        "sentences": [
+            "Since PS had no significant effect when represented dichotomously (i.e., with/without PS), and in order to examine more closely whether PS had contributed to the intervention outcome, we performed a repeated measures MANCOVA only for participants who had received PS.",
+            "Time (1, 2, and 3) and Level (1, 2, and 3) were defined as within subject factors, and Group (TT 1 PS or CS 1 PS) as a between subject factor.",
+            "The number of activities employed with each child along the 8 intervention weeks (ranging between 0 and 96) was entered as a covariate named PS-total.",
+            "Of the 31 families that practiced PS, tracking was fully available for 23 families (n 5 10 for TT 1 PS and n 5 13 for CS 1 PS).",
+            "The analysis yielded a main effect for Group (F (1,20) 5 9.8, P < 0.01, g 2 5 0.33), with TT 1 PS scoring higher than CS 1 PS over and above Time and Level (M(SEM) 5 10.64(0.61) for TT.",
+            "M(SEM) 5 8.1(0.53) for CS).",
+            "In addition, a Time 3 Group interaction (F (2,19) 5 3.51, P 5 0.05, g 2 5 0.27) and a Time 3 Level interaction (F (4,17) 5 3.07, P < 0.05, g 2 5 0.42) were found, replicating previous findings on the whole sample.",
+            "The analysis also yielded a Level 3 PS-total interaction (F (2,19) 5 5.64, P < 0.05, g 2 5 0.37), and a Time 3 Level 3 PS-total interaction (F (4,17) 5 3.43, P < 0.05, g 2 5 0.45).",
+            "In order to analyze these interaction effects, we performed three multiple regression analyses, one for each CT level, with T3-T1 score differences as the predicted variables, and with Series, PS-total and Series 3 PS-Total interaction (computed as the multiplication of the two variables' standard scores) as the predictors.",
+            "As shown in Table 2 , T3-T1 CT difference scores were significantly predicted only by Series for level 1 (b 5 0.47, R 2 5 0.38, F (3,19) 5 3.84, P < 0.05), and only by PS-total for level 2 (b 5 0.53, R 2 5 0.36, F (3,19) 5 3.57, P < 0.05).",
+            "The regression for level 3 was non-significant (R 2 5 0.11, F (3,19) 5 0.78, n.s.)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The current study examined the unique roles of TT animated series and of parental support, and their effects on the acquisition, generalization and maintenance of ER skills and emotion vocabulary. This was examined in a randomized control trial with high functioning preschoolers with ASD. Our results show that watching TT led preschoolers with high functioning ASD to significant improvement in their ER skills, which were generalized beyond taught material and maintained 3 months after training. However, children who watched TT in our study did not differ from children who watched the control series in their significant improvement on emotion vocabulary. Having parental support or lacking it did not categorically affect children's ER gains. However, the amount of parental support, in the groups that had received it, contributed to the generalization and maintenance of acquired ER skills.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "The current study examined the unique roles of TT animated series and of parental support, and their effects on the acquisition, generalization and maintenance of ER skills and emotion vocabulary.",
+            "This was examined in a randomized control trial with high functioning preschoolers with ASD.",
+            "Our results show that watching TT led preschoolers with high functioning ASD to significant improvement in their ER skills, which were generalized beyond taught material and maintained 3 months after training.",
+            "However, children who watched TT in our study did not differ from children who watched the control series in their significant improvement on emotion vocabulary.",
+            "Having parental support or lacking it did not categorically affect children's ER gains.",
+            "However, the amount of parental support, in the groups that had received it, contributed to the generalization and maintenance of acquired ER skills."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "While no pre-training ER differences were found between the children allocated to watch TT and the control series on the three generalization levels, TT users performed significantly better than control series users post intervention and at follow-up, over and above generalization level. These results support Figure 3 . Series by time interaction effects for the three generalization levels. Note: Level 1: facial expressions and scenarios taken from TT; Level 2: novel facial expressions on known TT characters with novel scenarios; Level 3: novel human facial expressions and novel scenarios; *P < 0.05, ***P < 0.001. previous findings on the effectiveness of TT as a systemized, motivating, technological intervention for children with ASD [Golan et al., 2010; Young & Posselt, 2012] . Our findings also support the intrinsic motivation of children in the TT group to watch the series. Over 90% of TT users showed good fidelity and easily met the required criterion of ten episodes per week. Many parents of children from both TT groups reported their children watched TT with great interest and enjoyment. Among some of the children, TT became an intensive area of interest that was shared with family members and friends, and was spontaneously included in their imaginary play and play interactions with peers and siblings. As previously mentioned, two participants (i.e., 6.9%) had found the TT series uninteresting and refused to continue watching it during the first week. Both were very high functioning and relatively older children who, according to parental report, had found the series' theme childish. Overall, the series was applicable to its designated age range (4-7) among children with high functioning ASD.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "While no pre-training ER differences were found between the children allocated to watch TT and the control series on the three generalization levels, TT users performed significantly better than control series users post intervention and at follow-up, over and above generalization level.",
+            "These results support Figure 3 .",
+            "Series by time interaction effects for the three generalization levels.",
+            "Note: Level 1: facial expressions and scenarios taken from TT; Level 2: novel facial expressions on known TT characters with novel scenarios; Level 3: novel human facial expressions and novel scenarios; *P < 0.05, ***P < 0.001.",
+            "previous findings on the effectiveness of TT as a systemized, motivating, technological intervention for children with ASD [Golan et al., 2010; Young & Posselt, 2012] .",
+            "Our findings also support the intrinsic motivation of children in the TT group to watch the series.",
+            "Over 90% of TT users showed good fidelity and easily met the required criterion of ten episodes per week.",
+            "Many parents of children from both TT groups reported their children watched TT with great interest and enjoyment.",
+            "Among some of the children, TT became an intensive area of interest that was shared with family members and friends, and was spontaneously included in their imaginary play and play interactions with peers and siblings.",
+            "As previously mentioned, two participants (i.e., 6.9%) had found the TT series uninteresting and refused to continue watching it during the first week.",
+            "Both were very high functioning and relatively older children who, according to parental report, had found the series' theme childish.",
+            "Overall, the series was applicable to its designated age range (4-7) among children with high functioning ASD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Our findings demonstrate TT's effects not only on acquisition of ER skills, but also on their maintenance. These findings are in contrast to those of Williams et al. [2012] that indicated poorer efficacy of TT in teaching basic ER skills to lower functioning children with ASD, who failed to generalize skills and to maintain them at follow-up [Williams et al., 2012] . Presumably, these differences stem from participants' level of functioning, so that whereas higher functioning preschoolers with ASD acquire, generalize and maintain ER skills, children with comorbid intellectual impairment fail to show ER skill generalization and maintenance. The presence of a comorbid intellectual impairment is considered to be the main factor affecting outcomes in children with ASD [Henninger & Taylor, 2013; Howlin, 2004] . Future studies should examine whether TT can be effective in teaching ER to older children with ASD and a comorbid intellectual impairment.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "Our findings demonstrate TT's effects not only on acquisition of ER skills, but also on their maintenance.",
+            "These findings are in contrast to those of Williams et al. [2012] that indicated poorer efficacy of TT in teaching basic ER skills to lower functioning children with ASD, who failed to generalize skills and to maintain them at follow-up [Williams et al., 2012] .",
+            "Presumably, these differences stem from participants' level of functioning, so that whereas higher functioning preschoolers with ASD acquire, generalize and maintain ER skills, children with comorbid intellectual impairment fail to show ER skill generalization and maintenance.",
+            "The presence of a comorbid intellectual impairment is considered to be the main factor affecting outcomes in children with ASD [Henninger & Taylor, 2013; Howlin, 2004] .",
+            "Future studies should examine whether TT can be effective in teaching ER to older children with ASD and a comorbid intellectual impairment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The current study was the first one, to our knowledge, to explore the role of parental support in technology based interventions, hypothesizing that having parental support will improve generalization and maintenance of children's acquired skills more than the no support condition. Contrary to our hypotheses, the availability of parental support had no significant effect on children's learning and generalization of ER skills. One of the possible explanations for the limited effect of parental support found in our study may be related to the amount of parental support essential for generalizing children's ER skills. Our analysis revealed that the amount of parental support played a role in the second level of generalization assessment, overpowering the effect of series. These findings support the need for parental involvement in the generalization of acquired ER skills by children with ASD. The effects of parental support may be more pronounced in more ecologic settings, requiring implementation of ER skills in everyday social interaction [Frankel et al., 2010] .",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "The current study was the first one, to our knowledge, to explore the role of parental support in technology based interventions, hypothesizing that having parental support will improve generalization and maintenance of children's acquired skills more than the no support condition.",
+            "Contrary to our hypotheses, the availability of parental support had no significant effect on children's learning and generalization of ER skills.",
+            "One of the possible explanations for the limited effect of parental support found in our study may be related to the amount of parental support essential for generalizing children's ER skills.",
+            "Our analysis revealed that the amount of parental support played a role in the second level of generalization assessment, overpowering the effect of series.",
+            "These findings support the need for parental involvement in the generalization of acquired ER skills by children with ASD.",
+            "The effects of parental support may be more pronounced in more ecologic settings, requiring implementation of ER skills in everyday social interaction [Frankel et al., 2010] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "In addition, the significant effects of TT that are independent of parental support, suggest it could be used flexibly within different educational, therapeutic, or even leisure time activities, without the need for parental involvement and guidance.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "In addition, the significant effects of TT that are independent of parental support, suggest it could be used flexibly within different educational, therapeutic, or even leisure time activities, without the need for parental involvement and guidance."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "The lack of series or parental support effects on emotion vocabulary does not correspond to previous findings [Golan et al., 2010] . However, this original evaluation of TT did not provide participants in the control group with an alternative series to watch. In our study, children in the control group watched an animated series (Charlie & Dodo), comprising socioemotional events, experienced by child and adult like characters. The significant time effect over and above series, suggests both series may have enhanced children's EV, whereas only TT improved participants' ability to recognize emotions from facial expressions. It is, however, also possible that the time effect found for both series resulted merely from the administration of . Average Emotion Recognition Computer Tasks' scores for participants with ASD grouped by series, and for typically developing controls. Note: CT, Computer Tasks; TT, the transporters; CS, control series; TD, typically developing; **P < 0.01, ***P < 0.001.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "The lack of series or parental support effects on emotion vocabulary does not correspond to previous findings [Golan et al., 2010] .",
+            "However, this original evaluation of TT did not provide participants in the control group with an alternative series to watch.",
+            "In our study, children in the control group watched an animated series (Charlie & Dodo), comprising socioemotional events, experienced by child and adult like characters.",
+            "The significant time effect over and above series, suggests both series may have enhanced children's EV, whereas only TT improved participants' ability to recognize emotions from facial expressions.",
+            "It is, however, also possible that the time effect found for both series resulted merely from the administration of .",
+            "Average Emotion Recognition Computer Tasks' scores for participants with ASD grouped by series, and for typically developing controls.",
+            "Note: CT, Computer Tasks; TT, the transporters; CS, control series; TD, typically developing; **P < 0.01, ***P < 0.001."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "the same task three times, which yielded a learning effect. In addition, the lack of series or parental support effects on the EV task may have resulted from of a more stringent scoring system, employed in the present study, as well as the cultural differences between English and Hebrew speakers. Since some of the emotional and mental states included in TT do not have unique Hebrew equivalents (e.g., unfriendly), children were challenged when asked to present verbal definitions of these emotions. This was not a problem in the computerized tasks, which required no verbal labeling of emotions. The present study aimed to resolve some of the limitations of previous research on TT by randomly assigning participants to one of four intervention groups, including a control series and parental involvement. It was also the first study reporting on a successful implementation of TT in a non-English speaking culture. Alongside these unique contributions, a few limitations should be noted:",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "the same task three times, which yielded a learning effect.",
+            "In addition, the lack of series or parental support effects on the EV task may have resulted from of a more stringent scoring system, employed in the present study, as well as the cultural differences between English and Hebrew speakers.",
+            "Since some of the emotional and mental states included in TT do not have unique Hebrew equivalents (e.g., unfriendly), children were challenged when asked to present verbal definitions of these emotions.",
+            "This was not a problem in the computerized tasks, which required no verbal labeling of emotions.",
+            "The present study aimed to resolve some of the limitations of previous research on TT by randomly assigning participants to one of four intervention groups, including a control series and parental involvement.",
+            "It was also the first study reporting on a successful implementation of TT in a non-English speaking culture.",
+            "Alongside these unique contributions, a few limitations should be noted:"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "One such limitation regards the ER instruments used in our study. Whereas the tasks have been used in Golan et al.'s [2010] original study, they were not widely replicated. In addition, two of the three tasks relied on TT characters, potentially giving participants in TT groups an advantage over their peers who watched the control series. Another limitation of the study lies in the examination of generalization in the current study. There is a difference between generalization of ER from video clips of familiar characters to unfamiliar characters and generalization to real-world recognition of emotions in actual social situations. While our findings supported the narrower form of generalization, generalization to real life settings was not examined. Future studies should examine the generalization of TT based ER acquired skills into more natural social settings. In addition, the use of TT in educational settings, as a part of a more general social skills training context [Bauminger, 2007; Kasari, Rotheram-Fuller, Locke, & Gulsrud, 2012 ] should be tested.",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "One such limitation regards the ER instruments used in our study.",
+            "Whereas the tasks have been used in Golan et al.'s [2010] original study, they were not widely replicated.",
+            "In addition, two of the three tasks relied on TT characters, potentially giving participants in TT groups an advantage over their peers who watched the control series.",
+            "Another limitation of the study lies in the examination of generalization in the current study.",
+            "There is a difference between generalization of ER from video clips of familiar characters to unfamiliar characters and generalization to real-world recognition of emotions in actual social situations.",
+            "While our findings supported the narrower form of generalization, generalization to real life settings was not examined.",
+            "Future studies should examine the generalization of TT based ER acquired skills into more natural social settings.",
+            "In addition, the use of TT in educational settings, as a part of a more general social skills training context [Bauminger, 2007; Kasari, Rotheram-Fuller, Locke, & Gulsrud, 2012 ] should be tested."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "We conclude that TT is a motivating and effective means to teach ER skills to young children with high functioning ASD, with some effects of parental support on generalization of these skills, which form an important component of adaptive social functioning.",
+        "section": "Discussion",
+        "section_number": 43,
+        "sentences": [
+            "We conclude that TT is a motivating and effective means to teach ER skills to young children with high functioning ASD, with some effects of parental support on generalization of these skills, which form an important component of adaptive social functioning."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39027",
+        "text": "Gev et al./The transporters: randomized controlled trial",
+        "section": "",
+        "section_number": 44,
+        "sentences": [
+            "Gev et al./The transporters: randomized controlled trial"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

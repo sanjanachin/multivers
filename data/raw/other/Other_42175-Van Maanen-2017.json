@@ -1,0 +1,855 @@
+[
+    {
+        "doc_id": "42175",
+        "text": "Study Objectives: Chronic sleep onset insomnia with late melatonin onset is prevalent in childhood, and has negative daytime consequences. Melatonin treatment is known to be effective in treating these sleep problems. Bright light therapy might be an alternative treatment, with potential advantages over melatonin treatment. In this study, we compare the effects of melatonin and bright light treatment with a placebo condition in children with chronic sleep onset insomnia and late melatonin onset. Methods: Eighty-four children (mean age 10.0 years, 61% boys) first entered a baseline week, after which they received melatonin (N = 26), light (N = 30), or placebo pills (N = 28) for 3 to 4 weeks. Sleep was measured daily with sleep diaries and actigraphy. Before and after treatment children completed a questionnaire on chronic sleep reduction, and Dim Light Melatonin Onset (DLMO) was measured. Results were analyzed with linear mixed model analyses. Results: Melatonin treatment and light therapy decreased sleep latency (sleep diary) and advanced sleep onset (sleep diary and actigraphy), although for sleep onset the effects of melatonin were stronger. In addition, melatonin treatment advanced DLMO and had positive effects on sleep latency and sleep efficiency (actigraphy data), and sleep time (sleep diary and actigraphy data). However, wake after sleep onset (actigraphy) increased with melatonin treatment. No effects on chronic sleep reduction were found. Conclusions: We found positive effects of both melatonin and light treatment on various sleep outcomes, but more and stronger effects were found for melatonin treatment.",
+        "section": "Abstract",
+        "sentences": [
+            "Study Objectives: Chronic sleep onset insomnia with late melatonin onset is prevalent in childhood, and has negative daytime consequences.",
+            "Melatonin treatment is known to be effective in treating these sleep problems.",
+            "Bright light therapy might be an alternative treatment, with potential advantages over melatonin treatment.",
+            "In this study, we compare the effects of melatonin and bright light treatment with a placebo condition in children with chronic sleep onset insomnia and late melatonin onset.",
+            "Methods: Eighty-four children (mean age 10.0 years, 61% boys) first entered a baseline week, after which they received melatonin (N = 26), light (N = 30), or placebo pills (N = 28) for 3 to 4 weeks.",
+            "Sleep was measured daily with sleep diaries and actigraphy.",
+            "Before and after treatment children completed a questionnaire on chronic sleep reduction, and Dim Light Melatonin Onset (DLMO) was measured.",
+            "Results were analyzed with linear mixed model analyses.",
+            "Results: Melatonin treatment and light therapy decreased sleep latency (sleep diary) and advanced sleep onset (sleep diary and actigraphy), although for sleep onset the effects of melatonin were stronger.",
+            "In addition, melatonin treatment advanced DLMO and had positive effects on sleep latency and sleep efficiency (actigraphy data), and sleep time (sleep diary and actigraphy data).",
+            "However, wake after sleep onset (actigraphy) increased with melatonin treatment.",
+            "No effects on chronic sleep reduction were found.",
+            "Conclusions: We found positive effects of both melatonin and light treatment on various sleep outcomes, but more and stronger effects were found for melatonin treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Chronic sleep onset insomnia (SOI) is a sleep disorder characterized by complaints of inability to fall asleep at the desired clock time, accompanied with problems in daytime functioning. A subset of children with chronic SOI shows a delay in markers of the circadian pacemaker (eg, dim light melatonin onset [DLMO] ), which is indicative of a Delayed Sleep Wake-Phase Disorder (DSWPD). 1 However, since the diagnosis of DSWPD is not clearly defined and recognized in children, we use the term \"chronic SOI with late melatonin onset.\"",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Chronic sleep onset insomnia (SOI) is a sleep disorder characterized by complaints of inability to fall asleep at the desired clock time, accompanied with problems in daytime functioning.",
+            "A subset of children with chronic SOI shows a delay in markers of the circadian pacemaker (eg, dim light melatonin onset [DLMO] ), which is indicative of a Delayed Sleep Wake-Phase Disorder (DSWPD).",
+            "1 However, since the diagnosis of DSWPD is not clearly defined and recognized in children, we use the term \"chronic SOI with late melatonin onset.\""
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The prevalence of DSWPD is high in adolescence, with reported rates of 6%-8%. 2, 3 However, its onset may occur already during childhood, 4 particularly in children with psychiatric disorders such as Attention Deficit Hyperactivity Disorder (ADHD) 5 or autism spectrum disorders. 6 Research showed that 64% of the adult patients with circadian rhythm sleep disorders retrospectively reported early childhood as the age of onset, while 25% reported onset during beginning of puberty and 10% during adulthood. 7 As children with SOI still need to get up on time in the morning to go to school, many of these children do not get enough sleep. This can have important negative consequences on mood, behavior, cognitive functioning, and school performance. [8] [9] [10] Moreover, sleep problems in childhood predict later behavioral and emotional problems, 11, 12 which stresses the importance of early intervention.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "The prevalence of DSWPD is high in adolescence, with reported rates of 6%-8%.",
+            "2, 3 However, its onset may occur already during childhood, 4 particularly in children with psychiatric disorders such as Attention Deficit Hyperactivity Disorder (ADHD) 5 or autism spectrum disorders.",
+            "6 Research showed that 64% of the adult patients with circadian rhythm sleep disorders retrospectively reported early childhood as the age of onset, while 25% reported onset during beginning of puberty and 10% during adulthood.",
+            "7 As children with SOI still need to get up on time in the morning to go to school, many of these children do not get enough sleep.",
+            "This can have important negative consequences on mood, behavior, cognitive functioning, and school performance. [",
+            "8] [9] [10] Moreover, sleep problems in childhood predict later behavioral and emotional problems, 11, 12 which stresses the importance of early intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Well-timed and well-dosed exogenous melatonin treatment has proven to be effective in treating chronic SOI with late me-latonin onset in children. 13 Several randomized controlled trials have found effects of melatonin treatment on DLMO and sleep onset [14] [15] [16] and total sleep time, 14, 16 and a meta-analysis concluded that melatonin is effective in advancing the melatonin and sleepwake rhythm. 17 Moreover, previous research showed positive effects on health, 15 behavior problems, and parenting stress. 18 However, as long as the safety of long-term melatonin use has not been established with certainty, 19 despite strong indications for its safety, 20 it is recommendable to investigate potential alternatives for melatonin use in the treatment of SOI with late melatonin onset in children, such as bright light therapy.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Well-timed and well-dosed exogenous melatonin treatment has proven to be effective in treating chronic SOI with late me-latonin onset in children.",
+            "13 Several randomized controlled trials have found effects of melatonin treatment on DLMO and sleep onset [14] [15] [16] and total sleep time, 14, 16 and a meta-analysis concluded that melatonin is effective in advancing the melatonin and sleepwake rhythm.",
+            "17 Moreover, previous research showed positive effects on health, 15 behavior problems, and parenting stress.",
+            "18 However, as long as the safety of long-term melatonin use has not been established with certainty, 19 despite strong indications for its safety, 20 it is recommendable to investigate potential alternatives for melatonin use in the treatment of SOI with late melatonin onset in children, such as bright light therapy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Light therapy can be considered as an alternative treatment for SOI related to delayed melatonin onset, as it has the capacity to advance the circadian rhythm and has alerting effects. [21] [22] [23] The effects of bright light on the biological clock rhythm have been reported as similar to, or even stronger than those of melatonin in healthy adults. 24 Light has additional positive effects on cognitive function and mood, and these effects are sustained throughout the entire waking day. 25 Furthermore, the effects of light are likely more durable (less relapse after cessation than with melatonin treatment). Studies in adults with sleep onset problems showed that positive effects of bright morning light on sleep, daytime sleepiness and -functioning were maintained after 3 weeks to 6 months post-treatment, 26, 27 whereas effects of melatonin in children with SOI and late melatonin onset immediately disappeared after discontinuing short term use. 18 ",
+        "section": "INTRODUCTION",
+        "section_number": 4,
+        "sentences": [
+            "Light therapy can be considered as an alternative treatment for SOI related to delayed melatonin onset, as it has the capacity to advance the circadian rhythm and has alerting effects. [",
+            "21] [22] [23] The effects of bright light on the biological clock rhythm have been reported as similar to, or even stronger than those of melatonin in healthy adults.",
+            "24 Light has additional positive effects on cognitive function and mood, and these effects are sustained throughout the entire waking day.",
+            "25 Furthermore, the effects of light are likely more durable (less relapse after cessation than with melatonin treatment).",
+            "Studies in adults with sleep onset problems showed that positive effects of bright morning light on sleep, daytime sleepiness and -functioning were maintained after 3 weeks to 6 months post-treatment, 26, 27 whereas effects of melatonin in children with SOI and late melatonin onset immediately disappeared after discontinuing short term use.",
+            "18"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Melatonin treatment is effective in reducing sleep onset problems in children with chronic sleep onset insomnia with late melatonin onset. Although bright light therapy might be an alternative treatment with some advantages over melatonin treatment, this has barely been investigated in children. The present study compares both treatments with a placebo condition. Results show that although light therapy had effects on some of the subjective and objective sleep outcomes, melatonin treatment had more and stronger effects. Future research should investigate other light therapy protocols in order to further investigate this treatment in children.",
+        "section": "Statement of Significance",
+        "section_number": 5,
+        "sentences": [
+            "Melatonin treatment is effective in reducing sleep onset problems in children with chronic sleep onset insomnia with late melatonin onset.",
+            "Although bright light therapy might be an alternative treatment with some advantages over melatonin treatment, this has barely been investigated in children.",
+            "The present study compares both treatments with a placebo condition.",
+            "Results show that although light therapy had effects on some of the subjective and objective sleep outcomes, melatonin treatment had more and stronger effects.",
+            "Future research should investigate other light therapy protocols in order to further investigate this treatment in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "A recent meta-analysis of the effects of light therapy on different types of sleep disturbances 23 showed positive effects of light therapy on sleep problems in general and on specific types of sleep disturbances, among which circadian rhythm sleep disorders and insomnia. Most effect sizes were small to medium, with largest effect sizes on circadian and insomnia outcome measures. The results were based on studies in adolescents and adults, as the effects of light therapy on sleep problems in children have not been investigated yet. Light therapy effects may be different in children, as they may require a lower dose than adults due to age-related changes in lens density and retinal photoreceptors. 28, 29 Indeed, research has shown that pre-to mid-pubertal children are more sensitive to evening light than late-to post-pubertal adolescents. 30 As light therapy might be a potential effective treatment of SOI in children and a suitable substitute for melatonin until safety of long-term melatonin use has been established, it is important to investigate its efficacy and feasibility in this age group. In order to gain more insight into the effectiveness of bright light therapy in children's SOI compared to melatonin, we conducted a randomized controlled trial in which we investigated the effects of light therapy and melatonin. In order to make sure that improvements would not be caused by expectations of beneficial effects, we also included a placebo condition for melatonin. We hypothesized that both light and melatonin treatment would be more effective than placebo in advancing DLMO and sleep in children with chronic SOI. Considering the well-established effects of melatonin found in previous research in children, [14] [15] [16] [17] [18] we expected that melatonin would have stronger effects than light therapy. As there are age-related sleep changes in childhood and sleep may differ between school days and weekends and between boys and girls, 31 which might also affect treatment effectiveness, we added age, weekend and gender as control variables in our analyses.",
+        "section": "Statement of Significance",
+        "section_number": 6,
+        "sentences": [
+            "A recent meta-analysis of the effects of light therapy on different types of sleep disturbances 23 showed positive effects of light therapy on sleep problems in general and on specific types of sleep disturbances, among which circadian rhythm sleep disorders and insomnia.",
+            "Most effect sizes were small to medium, with largest effect sizes on circadian and insomnia outcome measures.",
+            "The results were based on studies in adolescents and adults, as the effects of light therapy on sleep problems in children have not been investigated yet.",
+            "Light therapy effects may be different in children, as they may require a lower dose than adults due to age-related changes in lens density and retinal photoreceptors.",
+            "28, 29 Indeed, research has shown that pre-to mid-pubertal children are more sensitive to evening light than late-to post-pubertal adolescents.",
+            "30 As light therapy might be a potential effective treatment of SOI in children and a suitable substitute for melatonin until safety of long-term melatonin use has been established, it is important to investigate its efficacy and feasibility in this age group.",
+            "In order to gain more insight into the effectiveness of bright light therapy in children's SOI compared to melatonin, we conducted a randomized controlled trial in which we investigated the effects of light therapy and melatonin.",
+            "In order to make sure that improvements would not be caused by expectations of beneficial effects, we also included a placebo condition for melatonin.",
+            "We hypothesized that both light and melatonin treatment would be more effective than placebo in advancing DLMO and sleep in children with chronic SOI.",
+            "Considering the well-established effects of melatonin found in previous research in children, [14] [15] [16] [17] [18] we expected that melatonin would have stronger effects than light therapy.",
+            "As there are age-related sleep changes in childhood and sleep may differ between school days and weekends and between boys and girls, 31 which might also affect treatment effectiveness, we added age, weekend and gender as control variables in our analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The study was conducted during the period October 2013 to November 2015 at the Centre for Sleep-Wake Disorders and Chronobiology in a general hospital in the Netherlands. Children were referred to the center by their general practitioner or specialist (eg, child psychiatrist) because of their sleep onset problems. Inclusion criteria for participation were (1) age between 7 and 12 years old; (2) chronic sleep onset problems, as indicated by (a) complaints of inability to fall asleep at the desired clock time (sleep onset later than 20:45 h in children aged 7 years and for older children 15 minutes later per year) and a latency between lights-off time and sleep onset (sleep onset latency) of more than 30 minutes, and (b) the symptoms were present for at least four nights a week, for at least 1 month during a regular school period; (c) the sleep problems resulted in problems with daytime functioning. 5, 14 Exclusion criteria were (1) a diagnosis of a childhood psychiatric disorder other than ADHD or autism spectrum disorder; (2) chronic pain; (3) known disturbed hepatic or renal function; (4) Roter or Dubin-Johnson syndrome; (5) epilepsy; (6) use of neuroleptics, benzodiazepines, clonidine, antidepressants, hypnotics, or \u03b2-blockers within 4 weeks before enrolment; (7) intellectual disability. We excluded other psychiatric disorders than ADHD or autism, for example, bipolar disorders, because these are often associated with a broader range of sleep problems, for example also with early morning awakening, wake after sleep onset and hypersomnia, [32] [33] [34] which may be less successfully targeted with melatonin treatment or light therapy. The inclusion and exclusion criteria were assessed in an interview with the neurologist. Eighty-four children (mean age = 10.0 years, SD = 1.5, 61% boys) were selected for participation in the study and randomly assigned to the three treatment groups. For an overview of the screening of participants, see Figure 1 .",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "The study was conducted during the period October 2013 to November 2015 at the Centre for Sleep-Wake Disorders and Chronobiology in a general hospital in the Netherlands.",
+            "Children were referred to the center by their general practitioner or specialist (eg, child psychiatrist) because of their sleep onset problems.",
+            "Inclusion criteria for participation were (1) age between 7 and 12 years old; (2) chronic sleep onset problems, as indicated by (a) complaints of inability to fall asleep at the desired clock time (sleep onset later than 20:45 h in children aged 7 years and for older children 15 minutes later per year) and a latency between lights-off time and sleep onset (sleep onset latency) of more than 30 minutes, and (b) the symptoms were present for at least four nights a week, for at least 1 month during a regular school period; (c) the sleep problems resulted in problems with daytime functioning.",
+            "5, 14 Exclusion criteria were (1) a diagnosis of a childhood psychiatric disorder other than ADHD or autism spectrum disorder; (2) chronic pain; (3) known disturbed hepatic or renal function; (4) Roter or Dubin-Johnson syndrome; (5) epilepsy; (6) use of neuroleptics, benzodiazepines, clonidine, antidepressants, hypnotics, or \u03b2-blockers within 4 weeks before enrolment; (7) intellectual disability.",
+            "We excluded other psychiatric disorders than ADHD or autism, for example, bipolar disorders, because these are often associated with a broader range of sleep problems, for example also with early morning awakening, wake after sleep onset and hypersomnia, [32] [33] [34] which may be less successfully targeted with melatonin treatment or light therapy.",
+            "The inclusion and exclusion criteria were assessed in an interview with the neurologist.",
+            "Eighty-four children (mean age = 10.0 years, SD = 1.5, 61% boys) were selected for participation in the study and randomly assigned to the three treatment groups.",
+            "For an overview of the screening of participants, see Figure 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The study used an experimental design (randomized placebo-controlled trial) with three groups: melatonin, placebo pills, and light therapy, and was double-blind for melatonin/placebo. Randomization took place using a preset list specifying whether a participant should receive medication (melatonin or placebo) or light on a 2:1 ratio. Children who were randomized to medication received either melatonin or placebo, dependent on a coding determined by the manufacturer, blind for the researcher and treatment provider (neurologist). Only at post-treatment, when they returned to the center, the code was broken by the neurologist.",
+        "section": "Design",
+        "section_number": 8,
+        "sentences": [
+            "The study used an experimental design (randomized placebo-controlled trial) with three groups: melatonin, placebo pills, and light therapy, and was double-blind for melatonin/placebo.",
+            "Randomization took place using a preset list specifying whether a participant should receive medication (melatonin or placebo) or light on a 2:1 ratio.",
+            "Children who were randomized to medication received either melatonin or placebo, dependent on a coding determined by the manufacturer, blind for the researcher and treatment provider (neurologist).",
+            "Only at post-treatment, when they returned to the center, the code was broken by the neurologist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "After a baseline period of 1 week, children received melatonin, placebo, or light therapy for 3 to 4 weeks, dependent on when the appointment in the hospital could take place. Daily sleep measures (sleep logs and actigraphs) were obtained during the whole study period. In addition, DLMO was measured at baseline and at the end of the treatment period, and children completed a questionnaire on chronic sleep reduction (see description of measures below).",
+        "section": "Design",
+        "section_number": 9,
+        "sentences": [
+            "After a baseline period of 1 week, children received melatonin, placebo, or light therapy for 3 to 4 weeks, dependent on when the appointment in the hospital could take place.",
+            "Daily sleep measures (sleep logs and actigraphs) were obtained during the whole study period.",
+            "In addition, DLMO was measured at baseline and at the end of the treatment period, and children completed a questionnaire on chronic sleep reduction (see description of measures below)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Twenty-six children received melatonin treatment, of which 17 boys and 9 girls, with a mean age of 10.01 years (SD = 1.47). Mean DLMO was 21:15 h (SD = 1:02). Five children had a diagnosis of AD(H)D and two children were diagnosed with an autism spectrum disorder. One child dropped out of the study as he experienced various complaints (joint pains, headache, and emotional moods) since he started using melatonin.",
+        "section": "Melatonin Group",
+        "section_number": 10,
+        "sentences": [
+            "Twenty-six children received melatonin treatment, of which 17 boys and 9 girls, with a mean age of 10.01 years (SD = 1.47).",
+            "Mean DLMO was 21:15 h (SD = 1:02).",
+            "Five children had a diagnosis of AD(H)D and two children were diagnosed with an autism spectrum disorder.",
+            "One child dropped out of the study as he experienced various complaints (joint pains, headache, and emotional moods) since he started using melatonin."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Twenty-eight children received placebo treatment, of which 16 boys and 12 girls, with a mean age of 10.04 years (SD = 1.63) and mean DLMO of 21:00 h (SD = 1:24). Six children had a diagnosis of ADHD, one child was diagnosed with an autism spectrum disorder, and two children with both. One child stopped using placebo and received melatonin before the end of the study period as the parents did not want to wait longer for treatment effects. Of this child, only the data before he switched to melatonin treatment were included in the analysis.",
+        "section": "Placebo Group",
+        "section_number": 11,
+        "sentences": [
+            "Twenty-eight children received placebo treatment, of which 16 boys and 12 girls, with a mean age of 10.04 years (SD = 1.63) and mean DLMO of 21:00 h (SD = 1:24).",
+            "Six children had a diagnosis of ADHD, one child was diagnosed with an autism spectrum disorder, and two children with both.",
+            "One child stopped using placebo and received melatonin before the end of the study period as the parents did not want to wait longer for treatment effects.",
+            "Of this child, only the data before he switched to melatonin treatment were included in the analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The light group consisted of 30 children, 18 boys, and 12 girls, with a mean age of 10.08 years (SD = 1.49). Mean DLMO was 21:03 h (SD = 1:07). Eight children had a diagnosis of AD(H)D, one child was diagnosed with an autism spectrum disorder, and two children with both. One child dropped out of the study as participation was experienced too burdensome for this family, and one child switched to using melatonin as he experienced headache using the light cap. Of this child, we included only the data before he switched to melatonin treatment.",
+        "section": "Light Group",
+        "section_number": 12,
+        "sentences": [
+            "The light group consisted of 30 children, 18 boys, and 12 girls, with a mean age of 10.08 years (SD = 1.49).",
+            "Mean DLMO was 21:03 h (SD = 1:07).",
+            "Eight children had a diagnosis of AD(H)D, one child was diagnosed with an autism spectrum disorder, and two children with both.",
+            "One child dropped out of the study as participation was experienced too burdensome for this family, and one child switched to using melatonin as he experienced headache using the light cap.",
+            "Of this child, we included only the data before he switched to melatonin treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The study was approved by the Medical Ethics Committee of the Academic Medical Centre of the University of Amsterdam, and by the executive board of the hospital. The study was registered in the Dutch Trial Register (NTR4045).",
+        "section": "Procedure",
+        "section_number": 13,
+        "sentences": [
+            "The study was approved by the Medical Ethics Committee of the Academic Medical Centre of the University of Amsterdam, and by the executive board of the hospital.",
+            "The study was registered in the Dutch Trial Register (NTR4045)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Before the first appointment in the hospital, parents and children received a letter with information about the study. During the first appointment in the hospital, a neurologist/somnologist checked whether children met the inclusion and exclusion criteria. If considered eligible to participate, they were asked to participate in the study. If both parent and child agreed, they subsequently, had an appointment with the researcher in which the study procedures were explained in more detail. They received the study materials (eg, melatonin/placebo tablets, light caps, and actiwatches) and written sleep hygiene instructions with information about effects of light and noise, exercise, caffeine, temperature, watching TV and using the bed for activities other than sleep, and about the importance of keeping regular bedtimes and bedtime routines. Parents gave active written informed consent for participation. They were contacted by telephone in the first treatment week to discuss their experiences, and they received e-mails or text messages during the study to remind them of the start of treatment, completion of sleep diaries, etc. In the sleep diaries a question about if the tablet was taken or the light cap was used was included, to measure treatment adherence.",
+        "section": "Procedure",
+        "section_number": 14,
+        "sentences": [
+            "Before the first appointment in the hospital, parents and children received a letter with information about the study.",
+            "During the first appointment in the hospital, a neurologist/somnologist checked whether children met the inclusion and exclusion criteria.",
+            "If considered eligible to participate, they were asked to participate in the study.",
+            "If both parent and child agreed, they subsequently, had an appointment with the researcher in which the study procedures were explained in more detail.",
+            "They received the study materials (eg, melatonin/placebo tablets, light caps, and actiwatches) and written sleep hygiene instructions with information about effects of light and noise, exercise, caffeine, temperature, watching TV and using the bed for activities other than sleep, and about the importance of keeping regular bedtimes and bedtime routines.",
+            "Parents gave active written informed consent for participation.",
+            "They were contacted by telephone in the first treatment week to discuss their experiences, and they received e-mails or text messages during the study to remind them of the start of treatment, completion of sleep diaries, etc.",
+            "In the sleep diaries a question about if the tablet was taken or the light cap was used was included, to measure treatment adherence."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Children were instructed to take the melatonin tablets (3 mg. fast release, Pharma Nord) at 19:00 h. Children in the melatonin condition received melatonin for 3 to 4 weeks. In the placebo condition, children received placebo tablets, which looked identical to the melatonin tablets. Sleep diary reports indicated that children took melatonin tablets on 96% and placebo tablets on 91% of the treatment days. On average, melatonin tablets were taken at 19:25 h (SD = 0:43 h) and placebo tablets at 19:16 h (SD = 0:35 h), which was 1 hour and 50 minutes and 1 hour and 44 minutes before mean DLMO respectively. After the treatment period, when parents and children returned to the hospital, the code was broken and children were able to continue or start melatonin treatment in consultation with the neurologist.",
+        "section": "Treatment",
+        "section_number": 15,
+        "sentences": [
+            "Children were instructed to take the melatonin tablets (3 mg.",
+            "fast release, Pharma Nord) at 19:00 h. Children in the melatonin condition received melatonin for 3 to 4 weeks.",
+            "In the placebo condition, children received placebo tablets, which looked identical to the melatonin tablets.",
+            "Sleep diary reports indicated that children took melatonin tablets on 96% and placebo tablets on 91% of the treatment days.",
+            "On average, melatonin tablets were taken at 19:25 h (SD = 0:43 h) and placebo tablets at 19:16 h (SD = 0:35 h), which was 1 hour and 50 minutes and 1 hour and 44 minutes before mean DLMO respectively.",
+            "After the treatment period, when parents and children returned to the hospital, the code was broken and children were able to continue or start melatonin treatment in consultation with the neurologist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Light therapy consisted of daily bright blue-green light exposure (500 nm peak, 8000 lux; Feel Bright Light, Physician Engineered Products Inc.) during 30 minutes between 6:00 and 8:00 h, following a protocol developed by Van der Heijden (Leiden University). This time window was chosen as we wanted children to use the light as early as possible, without forcing them to wake-up too early in order to prevent sleepiness during the day. Lights were fixed to a cap, so children did not have to sit still in front of a lamp. Sleep diary reports indicated that children used the light caps on 89% of the treatment days, and put on the light cap on average at 7:33 h (SD = 0:32 h), which was 10.5 hours after mean DLMO. After the 3-to 4-weeks trial, children could continue using light therapy or start with melatonin treatment.",
+        "section": "Treatment",
+        "section_number": 16,
+        "sentences": [
+            "Light therapy consisted of daily bright blue-green light exposure (500 nm peak, 8000 lux; Feel Bright Light, Physician Engineered Products Inc.) during 30 minutes between 6:00 and 8:00 h, following a protocol developed by Van der Heijden (Leiden University).",
+            "This time window was chosen as we wanted children to use the light as early as possible, without forcing them to wake-up too early in order to prevent sleepiness during the day.",
+            "Lights were fixed to a cap, so children did not have to sit still in front of a lamp.",
+            "Sleep diary reports indicated that children used the light caps on 89% of the treatment days, and put on the light cap on average at 7:33 h (SD = 0:32 h), which was 10.5 hours after mean DLMO.",
+            "After the 3-to 4-weeks trial, children could continue using light therapy or start with melatonin treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Parents filled in sleep diaries daily via internet. The sleep diary consisted of questions concerning bedtime, lights-off time, sleep onset time, awakenings during the night, wake-up time, and get-up time, whether the child was rested in the morning, and questions about use of the light cap and tablets. Sleep latency (time children spent in bed before falling asleep), sleep onset time, and assumed sleep time (time between sleep onset and wake-up time) were used as sleep variables in the analyses. Parents were allowed to complete sleep diaries to a maximum of two nights, as retrospective data with a larger time span were considered unreliable.",
+        "section": "Sleep Diaries",
+        "section_number": 17,
+        "sentences": [
+            "Parents filled in sleep diaries daily via internet.",
+            "The sleep diary consisted of questions concerning bedtime, lights-off time, sleep onset time, awakenings during the night, wake-up time, and get-up time, whether the child was rested in the morning, and questions about use of the light cap and tablets.",
+            "Sleep latency (time children spent in bed before falling asleep), sleep onset time, and assumed sleep time (time between sleep onset and wake-up time) were used as sleep variables in the analyses.",
+            "Parents were allowed to complete sleep diaries to a maximum of two nights, as retrospective data with a larger time span were considered unreliable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "In addition to the sleep diaries, sleep was measured with AW4 actiwatches (Cambridge Neurotechnology Ltd, Cambridge, UK). The actiwatches were used to obtain objective information about sleep latency, sleep onset, wake after sleep onset, total sleep time (time in bed minus sleep onset latency, wake after sleep onset and early morning awakening), and sleep efficiency (total sleep time/time in bed). Children were instructed to wear the actiwatch on their non-dominant wrist when they went to bed and to remove it in the morning when they got out of bed. Nocturnal activity data were logged at 1-minute epochs and converted into sleep parameters by Actiwatch Sleep Analysis 7 software with a medium sensitivity algorithm (Cambridge Neurotechnology Ltd, Cambridge, UK), using sleep log derived bed times and get-up times to manually verify actigraphy parameters with sleep diary data.",
+        "section": "Actigraphy",
+        "section_number": 18,
+        "sentences": [
+            "In addition to the sleep diaries, sleep was measured with AW4 actiwatches (Cambridge Neurotechnology Ltd, Cambridge, UK).",
+            "The actiwatches were used to obtain objective information about sleep latency, sleep onset, wake after sleep onset, total sleep time (time in bed minus sleep onset latency, wake after sleep onset and early morning awakening), and sleep efficiency (total sleep time/time in bed).",
+            "Children were instructed to wear the actiwatch on their non-dominant wrist when they went to bed and to remove it in the morning when they got out of bed.",
+            "Nocturnal activity data were logged at 1-minute epochs and converted into sleep parameters by Actiwatch Sleep Analysis 7 software with a medium sensitivity algorithm (Cambridge Neurotechnology Ltd, Cambridge, UK), using sleep log derived bed times and get-up times to manually verify actigraphy parameters with sleep diary data."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "A few weeks before the first appointment in the hospital, DLMO was measured in saliva, as part of the regular intake procedure of the hospital. Parents were asked to instruct their children to chew on cotton plugs hourly from 19:00 to 23:00 h. To prevent suppression of melatonin secretion by bright light, parents were instructed that curtains needed to be closed, and only one dim light was allowed during the entire measurement period. 15, 16 The DLMO measurement was repeated at the end of the treatment period, to get an indication of a change in melatonin onset. Children in the melatonin/placebo groups were not allowed to take the tablets on the evening DLMO was measured.",
+        "section": "Dim Light Melatonin Onset",
+        "section_number": 19,
+        "sentences": [
+            "A few weeks before the first appointment in the hospital, DLMO was measured in saliva, as part of the regular intake procedure of the hospital.",
+            "Parents were asked to instruct their children to chew on cotton plugs hourly from 19:00 to 23:00 h. To prevent suppression of melatonin secretion by bright light, parents were instructed that curtains needed to be closed, and only one dim light was allowed during the entire measurement period.",
+            "15, 16 The DLMO measurement was repeated at the end of the treatment period, to get an indication of a change in melatonin onset.",
+            "Children in the melatonin/placebo groups were not allowed to take the tablets on the evening DLMO was measured."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "DLMO was operationalized as the clock time at which the endogenous melatonin secretion reached the threshold of 4 pg/ mL, 35, 36 which in most cases was somewhere between 19:00 and 23:00 h. In case the threshold was already reached before the first measurement or was not yet reached after the last measurement, we imputed DLMO data at 1 hour before or 1 hour after the last measurement, respectively. DLMO was imputed for nine children in the melatonin group, six children in the placebo group, and four children in the light therapy group, for baseline or post-treatment measurements. Radioimmunoassay was used to analyze saliva samples. 37 ",
+        "section": "Dim Light Melatonin Onset",
+        "section_number": 20,
+        "sentences": [
+            "DLMO was operationalized as the clock time at which the endogenous melatonin secretion reached the threshold of 4 pg/ mL, 35, 36 which in most cases was somewhere between 19:00 and 23:00 h. In case the threshold was already reached before the first measurement or was not yet reached after the last measurement, we imputed DLMO data at 1 hour before or 1 hour after the last measurement, respectively.",
+            "DLMO was imputed for nine children in the melatonin group, six children in the placebo group, and four children in the light therapy group, for baseline or post-treatment measurements.",
+            "Radioimmunoassay was used to analyze saliva samples.",
+            "37"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "At baseline and at the end of the treatment period, children completed the Chronic Sleep Reduction Questionnaire (CSRQ). 38, 39 The CSRQ contains of 20 items measuring different symptoms of chronic sleep reduction (ie, shortness of sleep, sleepiness, loss of energy, and irritation) with three response categories. Total scores could vary from 20 to 60. A higher total score on the CSRQ indicates more symptoms of chronic sleep reduction. Reliability (Cronbach's alpha) was 0.86 at baseline and 0.84 post-treatment.",
+        "section": "Chronic Sleep Reduction",
+        "section_number": 21,
+        "sentences": [
+            "At baseline and at the end of the treatment period, children completed the Chronic Sleep Reduction Questionnaire (CSRQ).",
+            "38, 39 The CSRQ contains of 20 items measuring different symptoms of chronic sleep reduction (ie, shortness of sleep, sleepiness, loss of energy, and irritation) with three response categories.",
+            "Total scores could vary from 20 to 60.",
+            "A higher total score on the CSRQ indicates more symptoms of chronic sleep reduction.",
+            "Reliability (Cronbach's alpha) was 0.86 at baseline and 0.84 post-treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Data were analyzed using linear mixed models in SPSS, treating the repeated observations as nested within children. In this way all available data were used to answer the research questions, including data from children with missing observations. As a result, the number of observations per child in the analysis varied, up to 35 observations in 5 weeks.",
+        "section": "Analyses",
+        "section_number": 22,
+        "sentences": [
+            "Data were analyzed using linear mixed models in SPSS, treating the repeated observations as nested within children.",
+            "In this way all available data were used to answer the research questions, including data from children with missing observations.",
+            "As a result, the number of observations per child in the analysis varied, up to 35 observations in 5 weeks."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Outcome variables were sleep variables measured daily during baseline and treatment, and DLMO and self-reported chronic sleep reduction measured once at baseline and once at the end of the treatment period. Changes in sleep were tested by including main effects of treatment phase (treatment weeks vs. baseline) and group (melatonin or light vs. placebo) as explanatory variables.",
+        "section": "Analyses",
+        "section_number": 23,
+        "sentences": [
+            "Outcome variables were sleep variables measured daily during baseline and treatment, and DLMO and self-reported chronic sleep reduction measured once at baseline and once at the end of the treatment period.",
+            "Changes in sleep were tested by including main effects of treatment phase (treatment weeks vs. baseline) and group (melatonin or light vs. placebo) as explanatory variables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "To investigate whether treatment effects were different for the melatonin and light therapy groups compared to placebo, we tested interaction effects of treatment phase with group. We added main effects of weekend, age, and gender as control variables, to take into account that sleep may vary between weekdays and weekends, and with age and gender. We also checked whether treatment effects vary with the control variables, by including all interactions of the control variables with groups (melatonin, light) and treatment period, and comparing the difference in fit of models with and without these interaction effects. These global tests were conducted separately for each of the three control variables, for each sleep outcome measure.",
+        "section": "Analyses",
+        "section_number": 24,
+        "sentences": [
+            "To investigate whether treatment effects were different for the melatonin and light therapy groups compared to placebo, we tested interaction effects of treatment phase with group.",
+            "We added main effects of weekend, age, and gender as control variables, to take into account that sleep may vary between weekdays and weekends, and with age and gender.",
+            "We also checked whether treatment effects vary with the control variables, by including all interactions of the control variables with groups (melatonin, light) and treatment period, and comparing the difference in fit of models with and without these interaction effects.",
+            "These global tests were conducted separately for each of the three control variables, for each sleep outcome measure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "For DLMO and chronic sleep reduction that were only measured two times, we included main effects of measurement occasion (post-treatment vs. baseline) and group (melatonin or light vs. placebo), and interaction effects of measurement occasion with group. We added age and gender as control variables, and checked whether they affected treatment outcomes by also examining interaction effects.",
+        "section": "Analyses",
+        "section_number": 25,
+        "sentences": [
+            "For DLMO and chronic sleep reduction that were only measured two times, we included main effects of measurement occasion (post-treatment vs. baseline) and group (melatonin or light vs. placebo), and interaction effects of measurement occasion with group.",
+            "We added age and gender as control variables, and checked whether they affected treatment outcomes by also examining interaction effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "In order to be able to directly compare effects of light therapy and melatonin, we executed additional analyses with melatonin as a reference group if analyses showed effects of both treatments. Data were analyzed on an intention to treat basis. Table 1 gives means and standard deviations of all variables for the baseline and treatment period by group, and effect sizes for the changes from baseline to treatment. Overall, the largest effect sizes were found for melatonin treatment. For a graphical display of some of the effects, see Figure 2A -D. Differences between groups and changes during treatment were tested for significance through linear mixed models analyses described below. Table 2 shows no significant differences between groups at baseline on any of the sleep diary variables. Sleep latency reduced significantly during melatonin treatment and light therapy (\u03b2 = \u22120 34, p < .01 and \u03b2 = \u22120.23, p < .01, compared to the change in the placebo group). Additional analysis showed that the effects of melatonin and light therapy did not significantly differ from each other (\u03b2 = 0.11, p = .15, see Table 3 ).",
+        "section": "Analyses",
+        "section_number": 26,
+        "sentences": [
+            "In order to be able to directly compare effects of light therapy and melatonin, we executed additional analyses with melatonin as a reference group if analyses showed effects of both treatments.",
+            "Data were analyzed on an intention to treat basis.",
+            "Table 1 gives means and standard deviations of all variables for the baseline and treatment period by group, and effect sizes for the changes from baseline to treatment.",
+            "Overall, the largest effect sizes were found for melatonin treatment.",
+            "For a graphical display of some of the effects, see Figure 2A -D. Differences between groups and changes during treatment were tested for significance through linear mixed models analyses described below.",
+            "Table 2 shows no significant differences between groups at baseline on any of the sleep diary variables.",
+            "Sleep latency reduced significantly during melatonin treatment and light therapy (\u03b2 = \u22120 34, p < .01 and \u03b2 = \u22120.23, p < .01, compared to the change in the placebo group).",
+            "Additional analysis showed that the effects of melatonin and light therapy did not significantly differ from each other (\u03b2 = 0.11, p = .15, see Table 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Sleep onset advanced during melatonin treatment and light therapy (\u03b2 = \u22120.69, p < .01 and \u03b2 = \u22120.31, p < .01, compared to the change in the placebo group). The advance in the melatonin group was larger than the advance in the light group (\u03b2 = 0.38, p < .01, see Table 3 ).",
+        "section": "Sleep Diaries",
+        "section_number": 27,
+        "sentences": [
+            "Sleep onset advanced during melatonin treatment and light therapy (\u03b2 = \u22120.69, p < .01 and \u03b2 = \u22120.31, p < .01, compared to the change in the placebo group).",
+            "The advance in the melatonin group was larger than the advance in the light group (\u03b2 = 0.38, p < .01, see Table 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Assumed sleep time (time between sleep onset and wakeup time) increased for children receiving melatonin treatment (\u03b2 = 0.49, p < .01, compared to the change in the placebo group). No effect of light therapy was found.",
+        "section": "Sleep Diaries",
+        "section_number": 28,
+        "sentences": [
+            "Assumed sleep time (time between sleep onset and wakeup time) increased for children receiving melatonin treatment (\u03b2 = 0.49, p < .01, compared to the change in the placebo group).",
+            "No effect of light therapy was found."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "We also found significant effects of weekend, indicating that sleep latency was shorter and sleep onset time was later during weekends. In addition, older children had later sleep onset time, and shorter assumed sleep time. For assumed sleep time, adding interaction effects with weekend improved model fit. The results indicated that the effect of melatonin treatment on assumed sleep time was especially strong on weekdays; in the weekends all groups slept somewhat longer during the treatment phase. Table 4 summarizes the results of the effects of treatment on actigraphy outcomes. Only for total sleep time a significant baseline difference between the groups was found, which indicated that the light therapy group slept shorter during the baseline period than the placebo group.",
+        "section": "Sleep Diaries",
+        "section_number": 29,
+        "sentences": [
+            "We also found significant effects of weekend, indicating that sleep latency was shorter and sleep onset time was later during weekends.",
+            "In addition, older children had later sleep onset time, and shorter assumed sleep time.",
+            "For assumed sleep time, adding interaction effects with weekend improved model fit.",
+            "The results indicated that the effect of melatonin treatment on assumed sleep time was especially strong on weekdays; in the weekends all groups slept somewhat longer during the treatment phase.",
+            "Table 4 summarizes the results of the effects of treatment on actigraphy outcomes.",
+            "Only for total sleep time a significant baseline difference between the groups was found, which indicated that the light therapy group slept shorter during the baseline period than the placebo group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Sleep latency significantly reduced during melatonin treatment (\u03b2 = \u22120.33, p < .01, compared to the change in the placebo group). No effect of light therapy was found. In the placebo SLEEP, Vol. 40 group, sleep onset was significantly later during the treatment period compared to baseline (\u03b2 = 0.17, p = .01). On the contrary, sleep onset time advanced during melatonin treatment and light therapy (\u03b2 = \u22120.65, p < .01 and \u03b2 = \u22120.23, p = .02, compared to the change with placebo). Additional analysis showed that the advance in the melatonin group was larger than the advance in the light group (\u03b2 = 0.42, p < .01, see Table 3 ).",
+        "section": "Actigraphy",
+        "section_number": 30,
+        "sentences": [
+            "Sleep latency significantly reduced during melatonin treatment (\u03b2 = \u22120.33, p < .01, compared to the change in the placebo group).",
+            "No effect of light therapy was found.",
+            "In the placebo SLEEP, Vol.",
+            "40 group, sleep onset was significantly later during the treatment period compared to baseline (\u03b2 = 0.17, p = .01).",
+            "On the contrary, sleep onset time advanced during melatonin treatment and light therapy (\u03b2 = \u22120.65, p < .01 and \u03b2 = \u22120.23, p = .02, compared to the change with placebo).",
+            "Additional analysis showed that the advance in the melatonin group was larger than the advance in the light group (\u03b2 = 0.42, p < .01, see Table 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Wake after sleep onset increased during treatment in the melatonin group (\u03b2 = 0.17, p < .01, compared to the change in the placebo group). Total sleep time was shorter during placebo treatment compared to baseline (\u03b2 = \u22120.15, p = .02), and longer during melatonin treatment (\u03b2 = 0.23, p = .01, compared to the reduction in total sleep time in the placebo group). No effect of light therapy was found. Sleep efficiency increased during treatment in the melatonin group (\u03b2 = 1.51, p = .03, compared to the change in the placebo group).",
+        "section": "Actigraphy",
+        "section_number": 31,
+        "sentences": [
+            "Wake after sleep onset increased during treatment in the melatonin group (\u03b2 = 0.17, p < .01, compared to the change in the placebo group).",
+            "Total sleep time was shorter during placebo treatment compared to baseline (\u03b2 = \u22120.15, p = .02), and longer during melatonin treatment (\u03b2 = 0.23, p = .01, compared to the reduction in total sleep time in the placebo group).",
+            "No effect of light therapy was found.",
+            "Sleep efficiency increased during treatment in the melatonin group (\u03b2 = 1.51, p = .03, compared to the change in the placebo group)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "We also found significant effects of weekend, indicating that sleep latency was shorter during weekends but sleep onset time was later. Total sleep time was shorter during weekends and sleep efficiency was higher. In addition, older children had a later sleep onset and shorter total sleep time. For wake after sleep onset, interaction effects with age indicated that the increase in wake after sleep onset in the melatonin group was especially true for younger children. We also found interaction effects with weekend, indicating that in the weekends, the placebo group also experienced some increase in wake after sleep onset. Table 5 shows the effects of treatment on DLMO and self-reported chronic sleep reduction. There were no significant differences in DLMO between the three groups at baseline. DLMO significantly advanced during melatonin treatment (\u03b2 = \u22120.99, p = .01, compared to the change in the placebo group), but not during light therapy. For chronic sleep reduction, we found that the melatonin group reported lower scores on chronic sleep reduction symptoms at baseline than the placebo group (\u03b2 = \u22125.25, p < .01). No significant changes were found during treatment for any of the groups.",
+        "section": "Actigraphy",
+        "section_number": 32,
+        "sentences": [
+            "We also found significant effects of weekend, indicating that sleep latency was shorter during weekends but sleep onset time was later.",
+            "Total sleep time was shorter during weekends and sleep efficiency was higher.",
+            "In addition, older children had a later sleep onset and shorter total sleep time.",
+            "For wake after sleep onset, interaction effects with age indicated that the increase in wake after sleep onset in the melatonin group was especially true for younger children.",
+            "We also found interaction effects with weekend, indicating that in the weekends, the placebo group also experienced some increase in wake after sleep onset.",
+            "Table 5 shows the effects of treatment on DLMO and self-reported chronic sleep reduction.",
+            "There were no significant differences in DLMO between the three groups at baseline.",
+            "DLMO significantly advanced during melatonin treatment (\u03b2 = \u22120.99, p = .01, compared to the change in the placebo group), but not during light therapy.",
+            "For chronic sleep reduction, we found that the melatonin group reported lower scores on chronic sleep reduction symptoms at baseline than the placebo group (\u03b2 = \u22125.25, p < .01).",
+            "No significant changes were found during treatment for any of the groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "The present study showed that melatonin treatment was more effective in advancing the sleep-wake rhythm than light therapy. Although effects of light therapy on sleep latency (only for sleep diary data) and sleep onset time were also found, the effects on sleep onset were stronger with melatonin treatment. Moreover, melatonin treatment exerted additional effects on parent-reported assumed sleep time and on actigraphy outcomes sleep latency, total sleep time, and sleep efficiency, for which no light therapy effects were found. On the contrary, wake after sleep onset increased significantly (with approximately 7 minutes) during treatment in the melatonin group, but has not affected total sleep time negatively since it was compensated by the positive effects of melatonin treatment on sleep latency (15-minute reduction). A further finding was that DLMO advanced after melatonin treatment. However, no treatment effects on chronic sleep reduction were found. The positive effects of melatonin treatment with medium to large effect sizes (following the criteria of Cohen 40 ) for sleep diary data and small to medium effect sizes for actigraphy data are in line with earlier research that showed beneficial effects of melatonin use in children. 15, 16, 18 However, it must be noted that despite these relatively large effect sizes, sleep latency in the melatonin group decreased with only approximately 15 minutes and was still longer than 30 minutes, and total sleep time increased with only 5 minutes, contrary to earlier studies that found larger changes in sleep times. 15, 16 However, although sleep duration was only 5 minutes longer after treatment, sleep onset advanced with half an hour. Taking into account the 7-minute increase in wake after sleep onset implies that wakeup time in the melatonin group also advanced with more than 15 minutes, suggesting that there was a phase-advance after melatonin treatment. \u03b2 = regression coefficient; SE = standard error; p = p value. The treatment effects of melatonin and light therapy are additive to the treatment effect in the placebo group. So the change in the melatonin group for sleep latency should be interpreted as \u22120.28 (0.06 \u22120.34). \u03b2 = regression coefficient; SE = standard error; p = p value. In these analyses we used an alternative parametrization in order to directly compare effects of melatonin and light therapy, only for those sleep variables on which both melatonin and light had significant effects.",
+        "section": "DISCUSSION",
+        "section_number": 33,
+        "sentences": [
+            "The present study showed that melatonin treatment was more effective in advancing the sleep-wake rhythm than light therapy.",
+            "Although effects of light therapy on sleep latency (only for sleep diary data) and sleep onset time were also found, the effects on sleep onset were stronger with melatonin treatment.",
+            "Moreover, melatonin treatment exerted additional effects on parent-reported assumed sleep time and on actigraphy outcomes sleep latency, total sleep time, and sleep efficiency, for which no light therapy effects were found.",
+            "On the contrary, wake after sleep onset increased significantly (with approximately 7 minutes) during treatment in the melatonin group, but has not affected total sleep time negatively since it was compensated by the positive effects of melatonin treatment on sleep latency (15-minute reduction).",
+            "A further finding was that DLMO advanced after melatonin treatment.",
+            "However, no treatment effects on chronic sleep reduction were found.",
+            "The positive effects of melatonin treatment with medium to large effect sizes (following the criteria of Cohen 40 ) for sleep diary data and small to medium effect sizes for actigraphy data are in line with earlier research that showed beneficial effects of melatonin use in children.",
+            "15, 16, 18 However, it must be noted that despite these relatively large effect sizes, sleep latency in the melatonin group decreased with only approximately 15 minutes and was still longer than 30 minutes, and total sleep time increased with only 5 minutes, contrary to earlier studies that found larger changes in sleep times.",
+            "15, 16 However, although sleep duration was only 5 minutes longer after treatment, sleep onset advanced with half an hour.",
+            "Taking into account the 7-minute increase in wake after sleep onset implies that wakeup time in the melatonin group also advanced with more than 15 minutes, suggesting that there was a phase-advance after melatonin treatment.",
+            "\u03b2 = regression coefficient; SE = standard error; p = p value.",
+            "The treatment effects of melatonin and light therapy are additive to the treatment effect in the placebo group.",
+            "So the change in the melatonin group for sleep latency should be interpreted as \u22120.28 (0.06 \u22120.34).",
+            "\u03b2 = regression coefficient; SE = standard error; p = p value.",
+            "In these analyses we used an alternative parametrization in order to directly compare effects of melatonin and light therapy, only for those sleep variables on which both melatonin and light had significant effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "In order to increase the effects of melatonin treatment, adherence should be emphasized. Post hoc analyses with adherence and its interactions with the various treatments as covariates, showed interactions with melatonin treatment (with regression coefficients varying from \u03b2 = \u22120.31, p = .02 to \u03b2 = \u22120.91, p < .01 for sleep latency and sleep onset as measured with sleep diaries). Although overall adherence in the melatonin group was 96%, there were some children who took their tablets only on 75%-85% of treatment days. As melatonin has an immediate effect on sleep, this impacts the treatment results and stresses the importance of adherence for melatonin treatment.",
+        "section": "DISCUSSION",
+        "section_number": 34,
+        "sentences": [
+            "In order to increase the effects of melatonin treatment, adherence should be emphasized.",
+            "Post hoc analyses with adherence and its interactions with the various treatments as covariates, showed interactions with melatonin treatment (with regression coefficients varying from \u03b2 = \u22120.31, p = .02 to \u03b2 = \u22120.91, p < .01 for sleep latency and sleep onset as measured with sleep diaries).",
+            "Although overall adherence in the melatonin group was 96%, there were some children who took their tablets only on 75%-85% of treatment days.",
+            "As melatonin has an immediate effect on sleep, this impacts the treatment results and stresses the importance of adherence for melatonin treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Children were instructed to take melatonin tablets at 19:00 h, as this time had been proven to advance sleep onset in earlier trials with melatonin in children with SOI and late DLMO. [14] [15] [16] 41 In our patient group 19:00 h was about 2 hours before DLMO, suggesting that advancement of sleep onset can be attributed to the chronobiological effects of melatonin. This does however not exclude a role for its soporific effects. 42 Possibly the chronobiological effect could have been stronger if melatonin was administered 3-5 hours before DLMO, as recommended by recent guidelines. 13 There might be various explanations for the fact that we did not find substantial effects of light therapy. First, in order to make light therapy feasible for application in children, we did not ask the children to advance the timing of the light therapy throughout the study period, which is recommended to enlarge potential effects. 43, 44 In fact, we noticed that applying light therapy at the dedicated time, in this study during 30 minutes between 6:00 and 8:00 h, was already problematic for some families, as in approximately 12% of the mornings light therapy was applied later than the prescribed time window. In addition, it could be that the daily treatment duration of 30 minutes was too short. Research has shown that increasing the duration of light therapy may be more beneficial than increasing light intensity. 45 In order to examine optimal light treatment for this group of children, future research should investigate the use of other light therapy protocols (eg, with shifts in timing of bright light use, limiting light exposure in the evening by having children wear dark goggles). Moreover, children in the melatonin and placebo groups also experienced outdoor light in the morning when they went to school, which could have strengthened the effect of melatonin. However, as treatment was randomized all groups will have experienced about equal amounts of morning outdoor light exposure, so we do not think that this has influenced our results. Nevertheless, for future research it would be interesting to measure light exposure levels so that this can be taken into account. Surprisingly, although melatonin treatment had positive effects on all other sleep outcomes, wake after sleep onset increased during melatonin treatment. Previous studies either did not report about such effects or did not find any effects on wake after sleep onset. 46, 47 However, these studies did not involve treatment of children with melatonin. Current clinical experience at the Dutch Centre of Sleep-Wake Disorders and Chronobiology suggests that increased wake after sleep may disappear when melatonin dose is lowered (M.G. Smits, personal communication, April 26, 2016) . When the dose is too high, response to melatonin treatment may be lost, due to slow melatonin metabolism, which might be associated with CYP1A2 polymorphisms. 48, 49 Consequently, recent recommendations for melatonin treatment in children 13 are to start melatonin at a lower dose (ie, 1 mg) than the dose we used in the present study. Future studies are needed to investigate the possible relation between the dose of melatonin treatment and wake after sleep onset.",
+        "section": "DISCUSSION",
+        "section_number": 35,
+        "sentences": [
+            "Children were instructed to take melatonin tablets at 19:00 h, as this time had been proven to advance sleep onset in earlier trials with melatonin in children with SOI and late DLMO. [",
+            "14] [15] [16] 41 In our patient group 19:00 h was about 2 hours before DLMO, suggesting that advancement of sleep onset can be attributed to the chronobiological effects of melatonin.",
+            "This does however not exclude a role for its soporific effects.",
+            "42 Possibly the chronobiological effect could have been stronger if melatonin was administered 3-5 hours before DLMO, as recommended by recent guidelines.",
+            "13 There might be various explanations for the fact that we did not find substantial effects of light therapy.",
+            "First, in order to make light therapy feasible for application in children, we did not ask the children to advance the timing of the light therapy throughout the study period, which is recommended to enlarge potential effects.",
+            "43, 44 In fact, we noticed that applying light therapy at the dedicated time, in this study during 30 minutes between 6:00 and 8:00 h, was already problematic for some families, as in approximately 12% of the mornings light therapy was applied later than the prescribed time window.",
+            "In addition, it could be that the daily treatment duration of 30 minutes was too short.",
+            "Research has shown that increasing the duration of light therapy may be more beneficial than increasing light intensity.",
+            "45 In order to examine optimal light treatment for this group of children, future research should investigate the use of other light therapy protocols (eg, with shifts in timing of bright light use, limiting light exposure in the evening by having children wear dark goggles).",
+            "Moreover, children in the melatonin and placebo groups also experienced outdoor light in the morning when they went to school, which could have strengthened the effect of melatonin.",
+            "However, as treatment was randomized all groups will have experienced about equal amounts of morning outdoor light exposure, so we do not think that this has influenced our results.",
+            "Nevertheless, for future research it would be interesting to measure light exposure levels so that this can be taken into account.",
+            "Surprisingly, although melatonin treatment had positive effects on all other sleep outcomes, wake after sleep onset increased during melatonin treatment.",
+            "Previous studies either did not report about such effects or did not find any effects on wake after sleep onset.",
+            "46, 47 However, these studies did not involve treatment of children with melatonin.",
+            "Current clinical experience at the Dutch Centre of Sleep-Wake Disorders and Chronobiology suggests that increased wake after sleep may disappear when melatonin dose is lowered (M.G. Smits, personal communication, April 26, 2016) .",
+            "When the dose is too high, response to melatonin treatment may be lost, due to slow melatonin metabolism, which might be associated with CYP1A2 polymorphisms.",
+            "48, 49 Consequently, recent recommendations for melatonin treatment in children 13 are to start melatonin at a lower dose (ie, 1 mg) than the dose we used in the present study.",
+            "Future studies are needed to investigate the possible relation between the dose of melatonin treatment and wake after sleep onset."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Mean DLMO was considerably later at baseline for the children in our study (mean DLMO = 21:06 h, SD = 1:11; mean age = 10.0 years, SD = 1.5) than mean DLMO of nine healthy children reported in an earlier study (mean = 19:45 h, SD = 1:00; mean age = 8.5 years, SD = 2.1. 15 This suggests that children with chronic SOI have a great chance to suffer from DSWPD. As DLMO strongly advanced in the melatonin group after treatment (effect size \u22121.26) to 19:44 h (SD = 1:26), this suggests that DSWPD can be effectively treated in these children with melatonin treatment. However, it is of note that reliable sets of normative data on DLMO in healthy children are currently lacking and that the intra-individual stability of DLMO values in children is not well-established.",
+        "section": "DISCUSSION",
+        "section_number": 36,
+        "sentences": [
+            "Mean DLMO was considerably later at baseline for the children in our study (mean DLMO = 21:06 h, SD = 1:11; mean age = 10.0 years, SD = 1.5) than mean DLMO of nine healthy children reported in an earlier study (mean = 19:45 h, SD = 1:00; mean age = 8.5 years, SD = 2.1.",
+            "15 This suggests that children with chronic SOI have a great chance to suffer from DSWPD.",
+            "As DLMO strongly advanced in the melatonin group after treatment (effect size \u22121.26) to 19:44 h (SD = 1:26), this suggests that DSWPD can be effectively treated in these children with melatonin treatment.",
+            "However, it is of note that reliable sets of normative data on DLMO in healthy children are currently lacking and that the intra-individual stability of DLMO values in children is not well-established."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "We did not find a treatment effect on chronic sleep reduction as reported by the children. A possible explanation for the lack of an effect could be that the treatment period was too short to establish a change on this outcome. Melatonin and light therapy are expected to have a direct effect on DLMO and sleep, but it may require a longer period before symptoms of chronic sleep reduction diminish. Besides, it should be kept in mind that total sleep time increased with only 5 minutes. Moreover, the placebo group reported more symptoms of chronic sleep reduction at baseline and also showed the strongest decrease. As the effects for the other groups were compared to the placebo condition, it may not be surprising that no significant effect was found.",
+        "section": "DISCUSSION",
+        "section_number": 37,
+        "sentences": [
+            "We did not find a treatment effect on chronic sleep reduction as reported by the children.",
+            "A possible explanation for the lack of an effect could be that the treatment period was too short to establish a change on this outcome.",
+            "Melatonin and light therapy are expected to have a direct effect on DLMO and sleep, but it may require a longer period before symptoms of chronic sleep reduction diminish.",
+            "Besides, it should be kept in mind that total sleep time increased with only 5 minutes.",
+            "Moreover, the placebo group reported more symptoms of chronic sleep reduction at baseline and also showed the strongest decrease.",
+            "As the effects for the other groups were compared to the placebo condition, it may not be surprising that no significant effect was found."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "This study has several strengths, including its design (randomized controlled trial which was double-blind for melatonin/ placebo), daily assessments of sleep and the use of objective sleep and DLMO measurements, in a naturalistic setting. However, also some limitations should be mentioned. First, as already mentioned above, we did not advance the timing of light therapy as recommended by some studies. 43, 44 In addition, we had no placebo condition for light therapy. We also did not control for light exposure in the evening, although information about the importance of restricting light in the evening was included in the sleep hygiene instructions that were handed out to all participants. We did not check the effect of the sleep hygiene instructions. However, as treatment was randomized, we do not have any indication to suspect that children in the light group would have had more exposure to evening light than children in the other two groups, or that one group would have benefited more from sleep hygiene instructions. \u03b2 = regression coefficient, SE = standard error, p = p value. The treatment effects of melatonin and light therapy are additive to the treatment effect in the placebo group. So the change in the melatonin group for dim light melatonin onset should be interpreted as \u22120.94 (0.05 \u22120.99).",
+        "section": "DISCUSSION",
+        "section_number": 38,
+        "sentences": [
+            "This study has several strengths, including its design (randomized controlled trial which was double-blind for melatonin/ placebo), daily assessments of sleep and the use of objective sleep and DLMO measurements, in a naturalistic setting.",
+            "However, also some limitations should be mentioned.",
+            "First, as already mentioned above, we did not advance the timing of light therapy as recommended by some studies.",
+            "43, 44 In addition, we had no placebo condition for light therapy.",
+            "We also did not control for light exposure in the evening, although information about the importance of restricting light in the evening was included in the sleep hygiene instructions that were handed out to all participants.",
+            "We did not check the effect of the sleep hygiene instructions.",
+            "However, as treatment was randomized, we do not have any indication to suspect that children in the light group would have had more exposure to evening light than children in the other two groups, or that one group would have benefited more from sleep hygiene instructions.",
+            "\u03b2 = regression coefficient, SE = standard error, p = p value.",
+            "The treatment effects of melatonin and light therapy are additive to the treatment effect in the placebo group.",
+            "So the change in the melatonin group for dim light melatonin onset should be interpreted as \u22120.94 (0.05 \u22120.99)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42175",
+        "text": "Downloaded from https://academic.oup.com/sleep/article-abstract/40/2/zsw038/2666484 by University of Alberta user on 06 March 2020",
+        "section": "",
+        "section_number": 39,
+        "sentences": [
+            "Downloaded from https://academic.oup.com/sleep/article-abstract/40/2/zsw038/2666484 by University of Alberta user on 06 March 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

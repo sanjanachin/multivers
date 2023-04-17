@@ -1,0 +1,607 @@
+[
+    {
+        "doc_id": "39000",
+        "text": "Background: Surgical stress index (SSI) is an established indicator for intraoperative nociception. Opioids are used to block stimulus of cranial pinning in neurosurgery. We investigated the effect of different infusion rates of sufentanil on SSI during cranial pinning in children under general anaesthesia. Methods: Forty-nine children (2-12 years of age) underwent neurosurgery with pinning. The children were randomized into three groups based on the rate of sufentanil infusion: 0.2, 0.5, and 0.8 \u03bcg\u2022kg \u22121 \u2022hr. \u22121. Continuous sufentanil infusion began following neuromuscular blockade administration, at a rate determined by each patient's assigned treatment group. Following preparation for surgery, cranial pinning was performed. Systolic, diastolic, and mean blood pressures, along with heart rate and photoplethysmographic data, were continuously recorded from 1 min prior to cranial pinning through 5 min after cranial pinning, in 1-min intervals. SSI was calculated following the completion of surgery. Differences in measured outcomes over time among the three groups were evaluated using a generalized estimation equation. Differences in pinning outcomes in the same group were evaluated with Freidman test. Results: We found no statistical differences in long-term SSI that were associated with different infusion rates of sufentanil during cranial pinning. Blood pressures in all groups increased for 2 min after cranial pinning, and then decreased; we found no statistical difference in long-term blood pressure values among the groups. Heart rate increased after pinning in the group that received a low-dose infusion of sufentanil. Conclusions: Since SSI was intended to measure the blunting effects of sufentanil towards the noxious stimulus of cranial pinning, our results suggest that SSI might not be sufficiently sensitive to monitor the nociceptive response in children.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Surgical stress index (SSI) is an established indicator for intraoperative nociception.",
+            "Opioids are used to block stimulus of cranial pinning in neurosurgery.",
+            "We investigated the effect of different infusion rates of sufentanil on SSI during cranial pinning in children under general anaesthesia.",
+            "Methods: Forty-nine children (2-12 years of age) underwent neurosurgery with pinning.",
+            "The children were randomized into three groups based on the rate of sufentanil infusion: 0.2, 0.5, and 0.8 \u03bcg\u2022kg \u22121 \u2022hr.",
+            "\u22121.",
+            "Continuous sufentanil infusion began following neuromuscular blockade administration, at a rate determined by each patient's assigned treatment group.",
+            "Following preparation for surgery, cranial pinning was performed.",
+            "Systolic, diastolic, and mean blood pressures, along with heart rate and photoplethysmographic data, were continuously recorded from 1 min prior to cranial pinning through 5 min after cranial pinning, in 1-min intervals.",
+            "SSI was calculated following the completion of surgery.",
+            "Differences in measured outcomes over time among the three groups were evaluated using a generalized estimation equation.",
+            "Differences in pinning outcomes in the same group were evaluated with Freidman test.",
+            "Results: We found no statistical differences in long-term SSI that were associated with different infusion rates of sufentanil during cranial pinning.",
+            "Blood pressures in all groups increased for 2 min after cranial pinning, and then decreased; we found no statistical difference in long-term blood pressure values among the groups.",
+            "Heart rate increased after pinning in the group that received a low-dose infusion of sufentanil.",
+            "Conclusions: Since SSI was intended to measure the blunting effects of sufentanil towards the noxious stimulus of cranial pinning, our results suggest that SSI might not be sufficiently sensitive to monitor the nociceptive response in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Pain is a term that describes an emotional and personal experience. However, patients cannot express a conscious sense of surgical pain during general anaesthesia. Nonetheless, patients can respond to surgical stimuli; this response appears to be blunted by the administration of anaesthesia. Importantly, insufficient management of the nociceptive response can affect postoperative outcomes [1] [2] [3] [4] . Therefore, maintenance of the balance between nociception and antinociception is important during anaesthesia. Traditionally, autonomic responses, such as tachycardia, hypertension, or sweating, have been used to assess nociception during general anaesthesia. However, the reliability of these responses may vary because of potential confounders [5, 6] .",
+        "section": "Background",
+        "section_number": 1,
+        "sentences": [
+            "Pain is a term that describes an emotional and personal experience.",
+            "However, patients cannot express a conscious sense of surgical pain during general anaesthesia.",
+            "Nonetheless, patients can respond to surgical stimuli; this response appears to be blunted by the administration of anaesthesia.",
+            "Importantly, insufficient management of the nociceptive response can affect postoperative outcomes [1] [2] [3] [4] .",
+            "Therefore, maintenance of the balance between nociception and antinociception is important during anaesthesia.",
+            "Traditionally, autonomic responses, such as tachycardia, hypertension, or sweating, have been used to assess nociception during general anaesthesia.",
+            "However, the reliability of these responses may vary because of potential confounders [5, 6] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Recently, a variety of methods have been suggested to monitor nociception during anaesthesia: pupillometry [7] , surgical pleth index (SPI) [8] , surgical stress index (SSI) [9] , skin conductance [10] , analgesia/nociception index [11] , cardiovascular depth of analgesia index [12] , wavelet transform cardiorespiratory coherence [13] , photoplethysmogram amplitude (PPGA) [14] , and nociception level index [15] . However, as most of these measurements require specific monitoring devices, they may be impossible to implement without the aid of specific devices that are not available in every clinical setting. Among the measurements listed above, SSI based on photoplethysmogram (PPG) may best facilitate monitoring of nociception during anaesthesia because all patients are monitored by PPG during anaesthesia using standard devices that are present in a wide range of clinical settings.",
+        "section": "Background",
+        "section_number": 2,
+        "sentences": [
+            "Recently, a variety of methods have been suggested to monitor nociception during anaesthesia: pupillometry [7] , surgical pleth index (SPI) [8] , surgical stress index (SSI) [9] , skin conductance [10] , analgesia/nociception index [11] , cardiovascular depth of analgesia index [12] , wavelet transform cardiorespiratory coherence [13] , photoplethysmogram amplitude (PPGA) [14] , and nociception level index [15] .",
+            "However, as most of these measurements require specific monitoring devices, they may be impossible to implement without the aid of specific devices that are not available in every clinical setting.",
+            "Among the measurements listed above, SSI based on photoplethysmogram (PPG) may best facilitate monitoring of nociception during anaesthesia because all patients are monitored by PPG during anaesthesia using standard devices that are present in a wide range of clinical settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Pinning for head fixation (also known as cranial pinning) during neurosurgery is a very short and strong stimulus; the responses to cranial pinning under insufficient analgesia might include hypertension, tachycardia, increased intracranial pressure, or disturbance of cerebral perfusion [16] . Additionally, sufentanil is an opioid that is commonly used to blunt the noxious stimulus during neurosurgical anaesthesia; its infusion rate is typically adjusted according to blood pressure (BP) or heart rate (HR). However, BP and HR may not be appropriate reference measurements because they might be affected by stimuli other than the balance between nociception and anti-nociception, such as volume state or use of vasopressors.",
+        "section": "Background",
+        "section_number": 3,
+        "sentences": [
+            "Pinning for head fixation (also known as cranial pinning) during neurosurgery is a very short and strong stimulus; the responses to cranial pinning under insufficient analgesia might include hypertension, tachycardia, increased intracranial pressure, or disturbance of cerebral perfusion [16] .",
+            "Additionally, sufentanil is an opioid that is commonly used to blunt the noxious stimulus during neurosurgical anaesthesia; its infusion rate is typically adjusted according to blood pressure (BP) or heart rate (HR).",
+            "However, BP and HR may not be appropriate reference measurements because they might be affected by stimuli other than the balance between nociception and anti-nociception, such as volume state or use of vasopressors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "In this study, we investigated the effect of different infusion rates of sufentanil on SSI, which is a known method for intraoperative nociceptive monitoring, during cranial pinning in children under general anaesthesia.",
+        "section": "Background",
+        "section_number": 4,
+        "sentences": [
+            "In this study, we investigated the effect of different infusion rates of sufentanil on SSI, which is a known method for intraoperative nociceptive monitoring, during cranial pinning in children under general anaesthesia."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "This study was approved by the institutional review board of Seoul National University Hospital (H-1310-044-526, Seoul, Korea) and registered at cris.nih.go.kr (KCT0000978, Jan-07, 2014).",
+        "section": "Ethics, consent and permissions",
+        "section_number": 5,
+        "sentences": [
+            "This study was approved by the institutional review board of Seoul National University Hospital (H-1310-044-526, Seoul, Korea) and registered at cris.nih.go.kr (KCT0000978, Jan-07, 2014)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "After obtaining informed consent from parents or guardians of children who were scheduled for elective neurosurgery under general anaesthesia, we enrolled 51 children (2-12 years of age) who had a physical status of 2 or 3, per guidelines from the American Society of Anesthesiologists. All surgeries included cranial pinning prior to the neurosurgical procedure. Exclusion criteria included known peripheral vascular disease, cardiovascular disease, respiratory disease, increased intracranial pressure or an allergy to opioids.",
+        "section": "Ethics, consent and permissions",
+        "section_number": 6,
+        "sentences": [
+            "After obtaining informed consent from parents or guardians of children who were scheduled for elective neurosurgery under general anaesthesia, we enrolled 51 children (2-12 years of age) who had a physical status of 2 or 3, per guidelines from the American Society of Anesthesiologists.",
+            "All surgeries included cranial pinning prior to the neurosurgical procedure.",
+            "Exclusion criteria included known peripheral vascular disease, cardiovascular disease, respiratory disease, increased intracranial pressure or an allergy to opioids."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Patients were randomly assigned to three groups prior to surgery (https://www.randomizer.org/) ( Fig. 1 :",
+        "section": "Ethics, consent and permissions",
+        "section_number": 7,
+        "sentences": [
+            "Patients were randomly assigned to three groups prior to surgery (https://www.randomizer.org/) ( Fig. 1 :"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "CONSORT diagram): 0.2 \u03bcg\u2022kg \u22121 \u2022hr. \u22121 of sufentanil ad- ministration, group L; 0.5 \u03bcg\u2022kg \u22121 \u2022hr. \u22121 of sufentanil ad- ministration, group M; 0.8 \u03bcg\u2022kg \u22121 \u2022hr. \u22121 of sufentanil administration, group H.",
+        "section": "Ethics, consent and permissions",
+        "section_number": 8,
+        "sentences": [
+            "CONSORT diagram): 0.2 \u03bcg\u2022kg \u22121 \u2022hr.",
+            "\u22121 of sufentanil ad- ministration, group L; 0.5 \u03bcg\u2022kg \u22121 \u2022hr.",
+            "\u22121 of sufentanil ad- ministration, group M; 0.8 \u03bcg\u2022kg \u22121 \u2022hr.",
+            "\u22121 of sufentanil administration, group H."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "An equal number of patients were assigned to each group.",
+        "section": "Ethics, consent and permissions",
+        "section_number": 9,
+        "sentences": [
+            "An equal number of patients were assigned to each group."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Each patient was fasted per preoperative fasting guidelines and arrived at the operating theatre without premedication. The patients were appropriately hydrated with intravenous Ringer's lactate solution, according to Holliday-Segar guideline [17] ; this was confirmed by acceptable initial vital signs, which were compared with ward values. Each patient was transported to the operating room and monitored by electrocardiograph (ECG), non-invasive blood pressure, pulse oximeter (SpO 2 ) on the finger, end-tidal carbon dioxide (E T CO 2 ) with patient monitor (Solar 8000; GE Medical, Milwaukee, WI, USA), and Bispectral Index\u2122 (BIS; Covidien, Mansfield, MA, USA). Anaesthesia was induced with atropine (0.02 mg\u2022kg \u22121 , 0.5 mg maximal dose) and sodium thiopental (5 mg\u2022kg \u22121 ) in patients who were <3 years old; in patients who were 3-12 years old, anaesthesia was induced with propofol (2-2.5 mg\u2022kg \u22121 ). Patients were ventilated with 8% sevoflurane in 100% oxygen (vol/vol). Tracheal intubation was performed after full relaxation via administration of 0.6 mg/kg of rocuronium. Subsequently, sufentanil was administered through an infusion port directly connected to the patient, per the assigned treatment group. General anaesthesia was maintained with sevoflurane or desflurane in air with 35% oxygen, and ventilation was adjusted to maintain 35-40 mmHg of E T CO 2 . The concentration of inhalation agents was adjusted to achieve 1-1.5 minimal alveolar concentration of inhalational agents per the patient's vital signs and BIS values (40-60), as well as at the discretion of the attending anaesthesiologist.",
+        "section": "Ethics, consent and permissions",
+        "section_number": 10,
+        "sentences": [
+            "Each patient was fasted per preoperative fasting guidelines and arrived at the operating theatre without premedication.",
+            "The patients were appropriately hydrated with intravenous Ringer's lactate solution, according to Holliday-Segar guideline [17] ; this was confirmed by acceptable initial vital signs, which were compared with ward values.",
+            "Each patient was transported to the operating room and monitored by electrocardiograph (ECG), non-invasive blood pressure, pulse oximeter (SpO 2 ) on the finger, end-tidal carbon dioxide (E T CO 2 ) with patient monitor (Solar 8000; GE Medical, Milwaukee, WI, USA), and Bispectral Index\u2122 (BIS; Covidien, Mansfield, MA, USA).",
+            "Anaesthesia was induced with atropine (0.02 mg\u2022kg \u22121 , 0.5 mg maximal dose) and sodium thiopental (5 mg\u2022kg \u22121 ) in patients who were <3 years old; in patients who were 3-12 years old, anaesthesia was induced with propofol (2-2.5 mg\u2022kg \u22121 ).",
+            "Patients were ventilated with 8% sevoflurane in 100% oxygen (vol/vol).",
+            "Tracheal intubation was performed after full relaxation via administration of 0.6 mg/kg of rocuronium.",
+            "Subsequently, sufentanil was administered through an infusion port directly connected to the patient, per the assigned treatment group.",
+            "General anaesthesia was maintained with sevoflurane or desflurane in air with 35% oxygen, and ventilation was adjusted to maintain 35-40 mmHg of E T CO 2 .",
+            "The concentration of inhalation agents was adjusted to achieve 1-1.5 minimal alveolar concentration of inhalational agents per the patient's vital signs and BIS values (40-60), as well as at the discretion of the attending anaesthesiologist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Cranial pinning was performed by the attending surgeon after local infiltration with lidocaine and at least 1 h following the start of sufentanil administration. After the pinning procedure, no stimuli were applied to each patient for a period of 5 min. Conventional surgical procedures were performed and patients were transferred to the post-anaesthetic care unit or intensive care unit after the completion of surgical procedures.",
+        "section": "Ethics, consent and permissions",
+        "section_number": 11,
+        "sentences": [
+            "Cranial pinning was performed by the attending surgeon after local infiltration with lidocaine and at least 1 h following the start of sufentanil administration.",
+            "After the pinning procedure, no stimuli were applied to each patient for a period of 5 min.",
+            "Conventional surgical procedures were performed and patients were transferred to the post-anaesthetic care unit or intensive care unit after the completion of surgical procedures."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "All patients' data, including ECG and PPG recordings, were collected and transferred from the patient's monitor to the personal computer using analogue-to-digital converter (DA 149, DATAQ Instruments, Akron, OH, USA) at 1000 Hz. The data collection period was from 1 min prior to cranial pinning through 5 min after cranial pinning; during this 5-min period, no additional stimulation was provided to each patient. Additionally, BP and HR were recorded in 1-min intervals during the same period of ECG data collection. The SSI is a dimensionless number between 0 (low stress) and 100 (high stress) that is calculated from the ECG and the PPG with 8-s data averaging that are performed after data is obtained. The precise algorithm was described in a previous report [16] .",
+        "section": "Data collection",
+        "section_number": 12,
+        "sentences": [
+            "All patients' data, including ECG and PPG recordings, were collected and transferred from the patient's monitor to the personal computer using analogue-to-digital converter (DA 149, DATAQ Instruments, Akron, OH, USA) at 1000 Hz.",
+            "The data collection period was from 1 min prior to cranial pinning through 5 min after cranial pinning; during this 5-min period, no additional stimulation was provided to each patient.",
+            "Additionally, BP and HR were recorded in 1-min intervals during the same period of ECG data collection.",
+            "The SSI is a dimensionless number between 0 (low stress) and 100 (high stress) that is calculated from the ECG and the PPG with 8-s data averaging that are performed after data is obtained.",
+            "The precise algorithm was described in a previous report [16] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "The calculation of SSI is below:",
+        "section": "Data collection",
+        "section_number": 13,
+        "sentences": [
+            "The calculation of SSI is below:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "SSI \u00bc 100\u2212 0:33 \u00c3 PBI norm \u00fe 0:67 \u00c3 PPGA norm \u00f0 \u00de ;",
+        "section": "Data collection",
+        "section_number": 14,
+        "sentences": [
+            "SSI \u00bc 100\u2212 0:33 \u00c3 PBI norm \u00fe 0:67 \u00c3 PPGA norm \u00f0 \u00de ;"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "where PBI norm represents the normalized pulse beat interval (PBI) and PPGA norm represents the normalized PPGA from the PPG. Our primary outcome was change in SSI during cranial pinning among the three treatment groups in 1-min intervals over time; the secondary outcomes were changes in systolic BP (SBP), mean BP (MBP), diastolic BP (DBP), and HR over time. Additionally, changes in BP, HR, and SSI over time, within each group, were subanalysed.",
+        "section": "Data collection",
+        "section_number": 15,
+        "sentences": [
+            "where PBI norm represents the normalized pulse beat interval (PBI) and PPGA norm represents the normalized PPGA from the PPG.",
+            "Our primary outcome was change in SSI during cranial pinning among the three treatment groups in 1-min intervals over time; the secondary outcomes were changes in systolic BP (SBP), mean BP (MBP), diastolic BP (DBP), and HR over time.",
+            "Additionally, changes in BP, HR, and SSI over time, within each group, were subanalysed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "We based our sample size calculations on a previous study performed on adult patients [14] , as there was no similar study in children, and used G*Power\u00a9 software Differences in mean-to-peak ratios of PPG were assumed to be 0.02 and the standard deviation was assumed to be 0.02, according to the previous study. Our thresholds were set at a power level of 0.8 and a significance level of 0.017 (for 3 groups); at least 15 patients were needed in each group, and a total of 51 patients was required because of an expected attrition rate of 10% in each group.",
+        "section": "Sample size estimation and statistics",
+        "section_number": 16,
+        "sentences": [
+            "We based our sample size calculations on a previous study performed on adult patients [14] , as there was no similar study in children, and used G*Power\u00a9 software Differences in mean-to-peak ratios of PPG were assumed to be 0.02 and the standard deviation was assumed to be 0.02, according to the previous study.",
+            "Our thresholds were set at a power level of 0.8 and a significance level of 0.017 (for 3 groups); at least 15 patients were needed in each group, and a total of 51 patients was required because of an expected attrition rate of 10% in each group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "We tested the normality of our data distribution using the Shapiro-Wilk test. Differences in demographic data, primary outcomes, and secondary outcomes among three groups over time were evaluated using generalized estimation equations, as data were not normally distributed. Additionally, the pinning-associated change in parameters was evaluated using the Friedman test with post-hoc analysis. Data are presented as median [Interquartile range] or numbers, as appropriate. A value of p < 0.05 was considered to indicate statistical significance. All statistical analyses were performed using SPSS software (SPSS 21.0, IBM Inc., Chicago, Illinois, USA).",
+        "section": "Sample size estimation and statistics",
+        "section_number": 17,
+        "sentences": [
+            "We tested the normality of our data distribution using the Shapiro-Wilk test.",
+            "Differences in demographic data, primary outcomes, and secondary outcomes among three groups over time were evaluated using generalized estimation equations, as data were not normally distributed.",
+            "Additionally, the pinning-associated change in parameters was evaluated using the Friedman test with post-hoc analysis.",
+            "Data are presented as median [Interquartile range] or numbers, as appropriate.",
+            "A value of p < 0.05 was considered to indicate statistical significance.",
+            "All statistical analyses were performed using SPSS software (SPSS 21.0, IBM Inc., Chicago, Illinois, USA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "In total, 51 patients were enrolled, and 49 patients (group L; 17, group M; 16, group H; 16) completed the study. One patient was excluded because of an excess of two cranial pinning attempts, and the other patient was removed from the study because of loss of patient data. Demographic data indicated no differences among the three groups (Table 1) .",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "In total, 51 patients were enrolled, and 49 patients (group L; 17, group M; 16, group H; 16) completed the study.",
+            "One patient was excluded because of an excess of two cranial pinning attempts, and the other patient was removed from the study because of loss of patient data.",
+            "Demographic data indicated no differences among the three groups (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "39000",
+        "text": "The calculated SSI during cranial pinning of head fixation did not indicate differences among the groups over time. Although the baseline value of SSI in group L (57.8[50.9-63.4; IQR]) was slightly higher than SSI in other groups (52. 6 4 ; IQR] in group H), there were no significant differences across all groups. Further, SSI values decreased over time but there were also no differences among the groups (Table 2) .",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "The calculated SSI during cranial pinning of head fixation did not indicate differences among the groups over time.",
+            "Although the baseline value of SSI in group L (57.8[50.9-63.4; IQR]) was slightly higher than SSI in other groups (52.",
+            "6 4 ; IQR] in group H), there were no significant differences across all groups.",
+            "Further, SSI values decreased over time but there were also no differences among the groups (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Baseline SBP, MBP and DBP were similar among the three groups. The values of SBP, MBP, and DBP significantly increased at both 1 and 2 min following cranial pinning in all three groups, with the exception of DBP in group M at 2 min after pinning; after this initial period, all BP values subsequently decreased (Table 3) . Importantly, we observed no differences in BP among the three groups at all measured time points.",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "Baseline SBP, MBP and DBP were similar among the three groups.",
+            "The values of SBP, MBP, and DBP significantly increased at both 1 and 2 min following cranial pinning in all three groups, with the exception of DBP in group M at 2 min after pinning; after this initial period, all BP values subsequently decreased (Table 3) .",
+            "Importantly, we observed no differences in BP among the three groups at all measured time points."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "In addition, baseline HR did not demonstrate differences among the three groups. Further, HR only increased in group L at 1 and 2 min after cranial pinning, after which it returned to baseline values. In groups M and H, there was weak statistical evidence for a trend towards an increase in HR. We observed differences in HR among the three groups over time; these also demonstrated weak statistical evidence (Table 4) . Although the HR decreased after cranial pinning, there was no significant bradycardia that required clinical management.",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "In addition, baseline HR did not demonstrate differences among the three groups.",
+            "Further, HR only increased in group L at 1 and 2 min after cranial pinning, after which it returned to baseline values.",
+            "In groups M and H, there was weak statistical evidence for a trend towards an increase in HR.",
+            "We observed differences in HR among the three groups over time; these also demonstrated weak statistical evidence (Table 4) .",
+            "Although the HR decreased after cranial pinning, there was no significant bradycardia that required clinical management."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "In this study, SSI changes did not vary with the infusion rate of sufentanil used for prevention of the noxious cranial pinning stimulus in children during general anaesthesia.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "In this study, SSI changes did not vary with the infusion rate of sufentanil used for prevention of the noxious cranial pinning stimulus in children during general anaesthesia."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Currently, nociceptive response monitoring remains a challenge during general anaesthesia. In the past, SSI, which was derived from the photoplethysmographic waveform amplitude and heart beat-to-beat intervals, was used as a surrogate marker of analgesia [18] .",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Currently, nociceptive response monitoring remains a challenge during general anaesthesia.",
+            "In the past, SSI, which was derived from the photoplethysmographic waveform amplitude and heart beat-to-beat intervals, was used as a surrogate marker of analgesia [18] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "SSI is a composite measurement that may be used to monitor the patient's hemodynamic responses to surgical stimuli and analgesic medications during general anaesthesia. It reflects the patient's responses, which result from increased sympathetic activity as a reaction to nociceptive stimuli. A previous study showed that multiple stress indicators (SSI, PPGA, HR, BP, response entropy and state entropy) succeeded in detecting the nociceptive stimulus caused by intubation and surgery in anaesthetized children [19] . These findings indicated a clinical use for SSI during general anaesthesia in children, suggesting that SSI might be useful as an indicator of nociceptive stimulus. Therefore, we hypothesized that, if high dose of opioid could block the nociceptive stimulus, a patient's SSI might remain stable in the presence of a high opioid dose; in contrast, a low dose of opioid would not prevent changes in SSI. Here, we compared different infusion rates of opioid (sufentanil) with SSI values, along with traditional parameters such as BP and HR, to measure nociceptive response. We used cranial pinning as the nociceptive stimulus during general anaesthesia. However, we found no differences in SSI values in the presence of differing infusion rates of sufentanil, in contrast to the previous study; however, other traditional parameters might vary over time during cranial pinning. In our study, BP changed with the cranial pinning stimulus, demonstrating an increase at 1 and 2 min after cranial pinning in all groups; subsequently, BP decreased. Importantly, this finding was consistent with a previous study [20] . However, SSI did not follow this trend, thereby demonstrating that SSI measurements and traditional clinical findings were quite disparate. This can be explained in multiple ways. First, the algorithm to calculate SSI is based on a 'normalized' PPGA wave (67% included in the final index) and pulse beat interval (PBI, 33%); however, this algorithm is proprietary and does not include BP [21] , which may explain the lack of differences seen in SSI. Another possible explanation is that there is an uncertainty in SSI due to the nociceptive response in children. Lastly, we checked BP and averaged SSI, both in 1 min intervals. Therefore, we might have missed changes in SSI by averaging the SSI values, which were calculated every 8 s, even though the noxious stimulus of cranial pinning was very short. Interestingly, HR increased in low-dose infusion of sufentanil, unlike in the other two groups, despite there being no differences among the three groups.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "SSI is a composite measurement that may be used to monitor the patient's hemodynamic responses to surgical stimuli and analgesic medications during general anaesthesia.",
+            "It reflects the patient's responses, which result from increased sympathetic activity as a reaction to nociceptive stimuli.",
+            "A previous study showed that multiple stress indicators (SSI, PPGA, HR, BP, response entropy and state entropy) succeeded in detecting the nociceptive stimulus caused by intubation and surgery in anaesthetized children [19] .",
+            "These findings indicated a clinical use for SSI during general anaesthesia in children, suggesting that SSI might be useful as an indicator of nociceptive stimulus.",
+            "Therefore, we hypothesized that, if high dose of opioid could block the nociceptive stimulus, a patient's SSI might remain stable in the presence of a high opioid dose; in contrast, a low dose of opioid would not prevent changes in SSI.",
+            "Here, we compared different infusion rates of opioid (sufentanil) with SSI values, along with traditional parameters such as BP and HR, to measure nociceptive response.",
+            "We used cranial pinning as the nociceptive stimulus during general anaesthesia.",
+            "However, we found no differences in SSI values in the presence of differing infusion rates of sufentanil, in contrast to the previous study; however, other traditional parameters might vary over time during cranial pinning.",
+            "In our study, BP changed with the cranial pinning stimulus, demonstrating an increase at 1 and 2 min after cranial pinning in all groups; subsequently, BP decreased.",
+            "Importantly, this finding was consistent with a previous study [20] .",
+            "However, SSI did not follow this trend, thereby demonstrating that SSI measurements and traditional clinical findings were quite disparate.",
+            "This can be explained in multiple ways.",
+            "First, the algorithm to calculate SSI is based on a 'normalized' PPGA wave (67% included in the final index) and pulse beat interval (PBI, 33%); however, this algorithm is proprietary and does not include BP [21] , which may explain the lack of differences seen in SSI.",
+            "Another possible explanation is that there is an uncertainty in SSI due to the nociceptive response in children.",
+            "Lastly, we checked BP and averaged SSI, both in 1 min intervals.",
+            "Therefore, we might have missed changes in SSI by averaging the SSI values, which were calculated every 8 s, even though the noxious stimulus of cranial pinning was very short.",
+            "Interestingly, HR increased in low-dose infusion of sufentanil, unlike in the other two groups, despite there being no differences among the three groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Interestingly, HR only increased in the low-dose group (0.2 \u03bcg\u2022kg \u22121 \u2022hr. \u22121 ) immediately after pinning, and then decreased to baseline. Across all three groups, BP changed after pinning, while HR increased only in the lowdose group. A previous study showed that decreases in HR were sustained and were achieved more rapidly than changes in BP that were achieved with the same dose of sufentanil [22] . Therefore, sufentanil seems to affect HR more profoundly than BP. In addition, another study of sternotomy patients reported that HR did not change in a group that was treated with sufentanil, compared with a group that was treated with both remifentanil and sufentanil; however, SBP and MBP did change in both groups [23] . These findings demonstrate different responses in HR and BP after administration of the same dose of opioid. This might be similar to our observations of no changes in HR upon noxious stimulus, but clear changes in BP with high dose of opioid. These differences might be explained by factors that influence BP and HR. Notably, cardiac output, total peripheral resistance, arterial stiffness and clinical states are factors that influence BP. In contrast, HR is influenced by hormones, electrolytes, chemoreceptors and baroreceptors. Therefore, opioids might differently influence each component that affects BP or HR.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Interestingly, HR only increased in the low-dose group (0.2 \u03bcg\u2022kg \u22121 \u2022hr.",
+            "\u22121 ) immediately after pinning, and then decreased to baseline.",
+            "Across all three groups, BP changed after pinning, while HR increased only in the lowdose group.",
+            "A previous study showed that decreases in HR were sustained and were achieved more rapidly than changes in BP that were achieved with the same dose of sufentanil [22] .",
+            "Therefore, sufentanil seems to affect HR more profoundly than BP.",
+            "In addition, another study of sternotomy patients reported that HR did not change in a group that was treated with sufentanil, compared with a group that was treated with both remifentanil and sufentanil; however, SBP and MBP did change in both groups [23] .",
+            "These findings demonstrate different responses in HR and BP after administration of the same dose of opioid.",
+            "This might be similar to our observations of no changes in HR upon noxious stimulus, but clear changes in BP with high dose of opioid.",
+            "These differences might be explained by factors that influence BP and HR.",
+            "Notably, cardiac output, total peripheral resistance, arterial stiffness and clinical states are factors that influence BP.",
+            "In contrast, HR is influenced by hormones, electrolytes, chemoreceptors and baroreceptors.",
+            "Therefore, opioids might differently influence each component that affects BP or HR."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "There are several studies that have used SPI as the nociceptive monitor. As the algorithm to calculate SPI is essentially the same as that used to calculate SSI, findings from studies that use SPI might be applicable to the results in our present study. A previous study showed that SPI had moderate correlation with stress hormones during anaesthesia, thereby indicating that SPI could predict adrenocorticotropin values with high sensitivity and specificity [24] . Interestingly, the SPI group (remifentanil administration adjusted based on SPI values) and the control group (remifentanil administration adjusted based on traditional signs and symptoms, such as heart rate and blood pressure) did not show differences in SPI values between baseline and the intubation event; further, SPI decreased at maximal surgical stimulus. Although the report did not provide the concentration of remifentanil of the two groups, SPI values were similar between baseline and the intubation event, suggesting that the remifentanil could prevent a nociceptive response to intubation. In addition, the previous report indicated that intubation stimulus was the most powerful pain according to SPI measurements, because the maximal surgical stimulus exhibited a lower SPI value. In our study, SSI was similar between baseline and post-cranial pinning measurements, so we infer that the stimulus of cranial pinning is similar to an intubation event. However, changes in blood pressure during our study were not consistent with the previous report. On the contrary, blood pressure was increased 1 min after cranial pinning and immediately decreased, suggesting that this clinical assessment might be more sensitive than SSI. This discrepancy might be explained by the subjects recruited in that study (adults vs. children) and the type of noxious stimulus. Other reports have shown that SPI is influenced by several factors, such as posture and anaesthetic technique, and that changes in SPI and heart rate were not correlated each other [25] . Therefore, SPI and clinical findings, such as heart rate, are not always matched; this is consistent with our study.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "There are several studies that have used SPI as the nociceptive monitor.",
+            "As the algorithm to calculate SPI is essentially the same as that used to calculate SSI, findings from studies that use SPI might be applicable to the results in our present study.",
+            "A previous study showed that SPI had moderate correlation with stress hormones during anaesthesia, thereby indicating that SPI could predict adrenocorticotropin values with high sensitivity and specificity [24] .",
+            "Interestingly, the SPI group (remifentanil administration adjusted based on SPI values) and the control group (remifentanil administration adjusted based on traditional signs and symptoms, such as heart rate and blood pressure) did not show differences in SPI values between baseline and the intubation event; further, SPI decreased at maximal surgical stimulus.",
+            "Although the report did not provide the concentration of remifentanil of the two groups, SPI values were similar between baseline and the intubation event, suggesting that the remifentanil could prevent a nociceptive response to intubation.",
+            "In addition, the previous report indicated that intubation stimulus was the most powerful pain according to SPI measurements, because the maximal surgical stimulus exhibited a lower SPI value.",
+            "In our study, SSI was similar between baseline and post-cranial pinning measurements, so we infer that the stimulus of cranial pinning is similar to an intubation event.",
+            "However, changes in blood pressure during our study were not consistent with the previous report.",
+            "On the contrary, blood pressure was increased 1 min after cranial pinning and immediately decreased, suggesting that this clinical assessment might be more sensitive than SSI.",
+            "This discrepancy might be explained by the subjects recruited in that study (adults vs. children) and the type of noxious stimulus.",
+            "Other reports have shown that SPI is influenced by several factors, such as posture and anaesthetic technique, and that changes in SPI and heart rate were not correlated each other [25] .",
+            "Therefore, SPI and clinical findings, such as heart rate, are not always matched; this is consistent with our study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "Before we obtained clinical data, sufentanil was administered at the same concentration for at least 1 h. As we did not check the sufentanil concentration, we estimated each patient's sufentanil concentration using Guay's paediatric sufentanil model [26] ; sufentanil concentrations required nearly 45 min to reach steady-state between plasma and effect-site concentrations.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "Before we obtained clinical data, sufentanil was administered at the same concentration for at least 1 h. As we did not check the sufentanil concentration, we estimated each patient's sufentanil concentration using Guay's paediatric sufentanil model [26] ; sufentanil concentrations required nearly 45 min to reach steady-state between plasma and effect-site concentrations."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "The limitations of our study include our failure to measure the blood concentration of sufentanil. Although the duration of sufentanil administration was sufficient to achieve steady-state and we estimated sufentanil concentration for each patient, we did not check the blood concentration of sufentanil. Therefore, the three groups could not be distinguished according to the real concentration of sufentanil, but could be differentiated on the basis of the initial dose of sufentanil given to patients. The other limitation is the different force of cranial pinning, according to the attending surgeon. Although the force was not identical in all patients, SSI or other clinical response did not differ across the three groups, and thus, the pinning force did not affect the results. Another limitation is the administration of atropine; although it might cause significant HR variability or changes in SSI, we administered atropine to all patients to reduce bias in the data. Lastly, we did not check the other markers of stress response, such as plasma catecholamine levels, to confirm stress in our patient population.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "The limitations of our study include our failure to measure the blood concentration of sufentanil.",
+            "Although the duration of sufentanil administration was sufficient to achieve steady-state and we estimated sufentanil concentration for each patient, we did not check the blood concentration of sufentanil.",
+            "Therefore, the three groups could not be distinguished according to the real concentration of sufentanil, but could be differentiated on the basis of the initial dose of sufentanil given to patients.",
+            "The other limitation is the different force of cranial pinning, according to the attending surgeon.",
+            "Although the force was not identical in all patients, SSI or other clinical response did not differ across the three groups, and thus, the pinning force did not affect the results.",
+            "Another limitation is the administration of atropine; although it might cause significant HR variability or changes in SSI, we administered atropine to all patients to reduce bias in the data.",
+            "Lastly, we did not check the other markers of stress response, such as plasma catecholamine levels, to confirm stress in our patient population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39000",
+        "text": "In conclusion, SSI changes during cranial pinning under general anaesthesia were not different due to different doses of sufentanil administration.",
+        "section": "Conclusions",
+        "section_number": 29,
+        "sentences": [
+            "In conclusion, SSI changes during cranial pinning under general anaesthesia were not different due to different doses of sufentanil administration."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

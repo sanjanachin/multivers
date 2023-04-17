@@ -1,0 +1,721 @@
+[
+    {
+        "doc_id": "34302",
+        "text": "Background Although rabbit anti-T-lymphocyte globulin (ATLG) is largely used for the prevention of immunemediated complications in patients given allogeneic haemopoietic stem-cell transplantation (HSCT) from an unrelated donor, the optimum dose of this drug in children is still undefined. We aimed to test whether a higher dose of ATLG was superior to a lower dose for prevention of grade II-IV acute graft-versus-host disease (GVHD). Methods We conducted a multicentre, randomised, open-label, phase 3 trial in seven Italian centres comparing two different doses of ATLG (30 mg/kg vs 15 mg/kg, given intravenously over 3 days, from day-4 to-2) in children (aged 0-18 years) with haematological malignancies transplanted from an unrelated donor, selected using high-resolution typing for HLA-class I/II loci. All patients received a myeloablative regimen and cyclosporine-A plus short-term methotrexate as post-transplantation GVHD prophylaxis. Patients were randomly assigned (1:1) to either of the two groups and were stratified by the degree of HLA-compatibility with their donor, the source of haemopoietic stem cells used (bone marrow vs peripheral blood stem cells), and the disease risk category. The randomisation was open label; all investigators were aware of the treatment allocation. The primary endpoint of the study was 100-day cumulative incidence of grade II-IV acute GVHD. Statistical analyses were done according to the per-protocol principle. Other outcomes included cumulative incidence of chronic GVHD, non-relapse mortality, disease recurrence, and probability of overall survival and event-free survival. This study was registered with ClinicalTrials.gov, number NCT00934557.",
+        "section": "Abstract",
+        "sentences": [
+            "Background Although rabbit anti-T-lymphocyte globulin (ATLG) is largely used for the prevention of immunemediated complications in patients given allogeneic haemopoietic stem-cell transplantation (HSCT) from an unrelated donor, the optimum dose of this drug in children is still undefined.",
+            "We aimed to test whether a higher dose of ATLG was superior to a lower dose for prevention of grade II-IV acute graft-versus-host disease (GVHD).",
+            "Methods We conducted a multicentre, randomised, open-label, phase 3 trial in seven Italian centres comparing two different doses of ATLG (30 mg/kg vs 15 mg/kg, given intravenously over 3 days, from day-4 to-2) in children (aged 0-18 years) with haematological malignancies transplanted from an unrelated donor, selected using high-resolution typing for HLA-class I/II loci.",
+            "All patients received a myeloablative regimen and cyclosporine-A plus short-term methotrexate as post-transplantation GVHD prophylaxis.",
+            "Patients were randomly assigned (1:1) to either of the two groups and were stratified by the degree of HLA-compatibility with their donor, the source of haemopoietic stem cells used (bone marrow vs peripheral blood stem cells), and the disease risk category.",
+            "The randomisation was open label; all investigators were aware of the treatment allocation.",
+            "The primary endpoint of the study was 100-day cumulative incidence of grade II-IV acute GVHD.",
+            "Statistical analyses were done according to the per-protocol principle.",
+            "Other outcomes included cumulative incidence of chronic GVHD, non-relapse mortality, disease recurrence, and probability of overall survival and event-free survival.",
+            "This study was registered with ClinicalTrials.gov, number NCT00934557."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Acute and chronic graft-versus-host disease (GVHD) remain major complications of allogeneic haemopoietic stem-cell transplantation (HSCT). GVHD is associated with an increased risk of non-relapse mortality and a reduction in quality of life. [1] [2] [3] Anti-T-lymphocyte globulin (ATLG) has been widely used for prevention of acute and chronic GVHD in patients given allogeneic HSCT. In the past few years, different groups have shown in randomised clinical trials that the addition of ATLG to GVHD prophylaxis decreases the risk of both acute and chronic GVHD in adults receiving either HSCT from an unrelated donor [4] [5] [6] [7] or peripheral blood stem-cell transplantation from an HLA-identical sibling. 8 However, recent findings have suggested that treatment with ATLG could increase the risk of relapse and infections, potentially hampering the benefits of improved GVHD prevention. 9 In fact, ATLG administration has been shown to be associated with delayed T-cell reconstitution, including that of naive and memory T lymphocytes, and with an increased risk of infectious complications and post-transplant lymphoproliferative disease. [10] [11] [12] Rabbit ATLG is the preferred agent for approaches of GVHD prevention through serotherapy in HSCT. However, two diverse rabbit ATLG preparations are available for clinical use in patients given allogeneic HSCT, which can have different effects on outcome and markedly different efficacies because their different preparation methods cause them to differ substantially in potency and dosing. 13 None of the previously published trials has focused on a paediatric population. We hypothesised that fine tuning of GVHD prophylaxis and, particularly, of the dose of ATLG administered before allogeneic unrelated donor HSCT, could have an important role in the outcome of paediatric patients. To try to define the better dose of rabbit ATLG, we did a prospective, multicentre, clinical trial comparing two different doses of the drug (15 mg/kg vs 30 mg/kg) in children affected by haematological malignancies transplanted with either bone marrow or peripheral blood stem cells from an unrelated donor selected using high-resolution molecular typing for class I and II HLA loci. We chose to compare 30 mg/kg versus 15 mg/kg of ATLG instead of the dose of 60 mg/kg used in unrelated donor HSCT recipients in the trial published by Finke and colleagues 6 because children are less prone to developing GVHD compared to adults. 3, 14 This choice is supported by a retrospective analysis showing that 30 mg/kg of ATLG in a single dose was as effective for the prevention of GVHD as 60 mg/kg administered over 3 days in adults with haematological malignancies given HSCT from an unrelated volunteer. 15 In that trial, the 2-year non-relapse mortality was lower for the ATLG 30 mg/kg group than",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Acute and chronic graft-versus-host disease (GVHD) remain major complications of allogeneic haemopoietic stem-cell transplantation (HSCT).",
+            "GVHD is associated with an increased risk of non-relapse mortality and a reduction in quality of life. [",
+            "1] [2] [3] Anti-T-lymphocyte globulin (ATLG) has been widely used for prevention of acute and chronic GVHD in patients given allogeneic HSCT.",
+            "In the past few years, different groups have shown in randomised clinical trials that the addition of ATLG to GVHD prophylaxis decreases the risk of both acute and chronic GVHD in adults receiving either HSCT from an unrelated donor [4] [5] [6] [7] or peripheral blood stem-cell transplantation from an HLA-identical sibling.",
+            "8 However, recent findings have suggested that treatment with ATLG could increase the risk of relapse and infections, potentially hampering the benefits of improved GVHD prevention.",
+            "9 In fact, ATLG administration has been shown to be associated with delayed T-cell reconstitution, including that of naive and memory T lymphocytes, and with an increased risk of infectious complications and post-transplant lymphoproliferative disease. [",
+            "10] [11] [12] Rabbit ATLG is the preferred agent for approaches of GVHD prevention through serotherapy in HSCT.",
+            "However, two diverse rabbit ATLG preparations are available for clinical use in patients given allogeneic HSCT, which can have different effects on outcome and markedly different efficacies because their different preparation methods cause them to differ substantially in potency and dosing.",
+            "13 None of the previously published trials has focused on a paediatric population.",
+            "We hypothesised that fine tuning of GVHD prophylaxis and, particularly, of the dose of ATLG administered before allogeneic unrelated donor HSCT, could have an important role in the outcome of paediatric patients.",
+            "To try to define the better dose of rabbit ATLG, we did a prospective, multicentre, clinical trial comparing two different doses of the drug (15 mg/kg vs 30 mg/kg) in children affected by haematological malignancies transplanted with either bone marrow or peripheral blood stem cells from an unrelated donor selected using high-resolution molecular typing for class I and II HLA loci.",
+            "We chose to compare 30 mg/kg versus 15 mg/kg of ATLG instead of the dose of 60 mg/kg used in unrelated donor HSCT recipients in the trial published by Finke and colleagues 6 because children are less prone to developing GVHD compared to adults.",
+            "3, 14 This choice is supported by a retrospective analysis showing that 30 mg/kg of ATLG in a single dose was as effective for the prevention of GVHD as 60 mg/kg administered over 3 days in adults with haematological malignancies given HSCT from an unrelated volunteer.",
+            "15 In that trial, the 2-year non-relapse mortality was lower for the ATLG 30 mg/kg group than"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Evidence before this study This study was designed in 2007 with the aim of identifying the recommended dose of rabbit anti-T-lymphocyte globulin (ATLG) for prevention of acute graft-versus-host disease (GVHD) in children with haematological malignancies given allogeneic haemopoietic stem-cell transplantation (HSCT) from an unrelated donor. At that time, a previously published randomised trial in adult recipients of HSCT had shown that, in comparison with patients given placebo, patients treated with high-dose ATLG had a lower incidence and severity of GVHD, at the price of a greater risk of infection-related mortality. A second randomised trial of ATLG in adults given allogeneic HSCT from an unrelated donor was published in 2009, with a follow-up report in 2011. This second study confirmed that patients given ATLG (60 mg/kg) benefited from lower incidence and severity of acute GVHD, but also found a decrease in the incidence of chronic GVHD in comparison with patients receiving the placebo. A third randomised trial published in 2016 in adults given unrelated donor HSCT and comparing rabbit ATLG versus placebo provided support to previous findings, reporting that ATLG prophylaxis of GVHD decreased the number of patients needing immunosuppressive treatment at 1 year after transplantation.",
+        "section": "Research in context",
+        "section_number": 2,
+        "sentences": [
+            "Evidence before this study This study was designed in 2007 with the aim of identifying the recommended dose of rabbit anti-T-lymphocyte globulin (ATLG) for prevention of acute graft-versus-host disease (GVHD) in children with haematological malignancies given allogeneic haemopoietic stem-cell transplantation (HSCT) from an unrelated donor.",
+            "At that time, a previously published randomised trial in adult recipients of HSCT had shown that, in comparison with patients given placebo, patients treated with high-dose ATLG had a lower incidence and severity of GVHD, at the price of a greater risk of infection-related mortality.",
+            "A second randomised trial of ATLG in adults given allogeneic HSCT from an unrelated donor was published in 2009, with a follow-up report in 2011.",
+            "This second study confirmed that patients given ATLG (60 mg/kg) benefited from lower incidence and severity of acute GVHD, but also found a decrease in the incidence of chronic GVHD in comparison with patients receiving the placebo.",
+            "A third randomised trial published in 2016 in adults given unrelated donor HSCT and comparing rabbit ATLG versus placebo provided support to previous findings, reporting that ATLG prophylaxis of GVHD decreased the number of patients needing immunosuppressive treatment at 1 year after transplantation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "However, none of the three studies focused on paediatric patients or addressed the issue of the dose of ATLG needed to prevent GVHD occurrence while preserving recovery of pathogen-specific immunity.",
+        "section": "Research in context",
+        "section_number": 3,
+        "sentences": [
+            "However, none of the three studies focused on paediatric patients or addressed the issue of the dose of ATLG needed to prevent GVHD occurrence while preserving recovery of pathogen-specific immunity."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "We updated this information by searching MEDLINE for articles published in any language between Jan 1, 2008, and Jan 1, 2017, using the search terms \"hematopoietic stem cell transplantation\" OR \"bone marrow transplantation\" OR \"stem cell transplantation\" OR \"peripheral blood stem cell transplantation\" AND \"antithymocyte globulin\" OR \"anti-T-lymphocyte globulin\" OR \"GvHD prophylaxis in children\", but identified no additional prospective randomised trials of ATLG done in children receiving unrelated donor transplantation",
+        "section": "Research in context",
+        "section_number": 4,
+        "sentences": [
+            "We updated this information by searching MEDLINE for articles published in any language between Jan 1, 2008, and Jan 1, 2017, using the search terms \"hematopoietic stem cell transplantation\" OR \"bone marrow transplantation\" OR \"stem cell transplantation\" OR \"peripheral blood stem cell transplantation\" AND \"antithymocyte globulin\" OR \"anti-T-lymphocyte globulin\" OR \"GvHD prophylaxis in children\", but identified no additional prospective randomised trials of ATLG done in children receiving unrelated donor transplantation"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "To the best of our knowledge, this is the first randomised clinical trial comparing two different doses of ATLG in unrelated donor HSCT recipients ever done. Moreover, none of the previously mentioned studies have focused on paediatric patients, whereas our own prospective randomised trial included only children. We have a long follow-up (median value for surviving patients: 4\u20222 years, IQR 3",
+        "section": "Added value of this study",
+        "section_number": 5,
+        "sentences": [
+            "To the best of our knowledge, this is the first randomised clinical trial comparing two different doses of ATLG in unrelated donor HSCT recipients ever done.",
+            "Moreover, none of the previously mentioned studies have focused on paediatric patients, whereas our own prospective randomised trial included only children.",
+            "We have a long follow-up (median value for surviving patients: 4\u20222 years, IQR 3"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": ", rendering our data reliable and robust enough to draw definitive conclusions. The results of our study show that children with haematological malignancies given an unrelated donor HSCT should receive low-dose (15 mg/kg) instead of high-dose (30 mg/kg) ATLG to avoid the increased risk of non-relapse mortality and subsequent decreased probability of event-free survival.",
+        "section": "Added value of this study",
+        "section_number": 6,
+        "sentences": [
+            ", rendering our data reliable and robust enough to draw definitive conclusions.",
+            "The results of our study show that children with haematological malignancies given an unrelated donor HSCT should receive low-dose (15 mg/kg) instead of high-dose (30 mg/kg) ATLG to avoid the increased risk of non-relapse mortality and subsequent decreased probability of event-free survival."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The advantage of low-dose ATLG is further supported in the subset of children with acute lymphoblastic leukaemia, which represents the most frequent indication to HSCT in comparison with other childhood haematological malignancies. Notably, a reduction in the ATLG dose to 15 mg/kg did not affect the time to engraftment and, more importantly, the incidence of acute or chronic GVHD.",
+        "section": "Implications of all the available evidence",
+        "section_number": 7,
+        "sentences": [
+            "The advantage of low-dose ATLG is further supported in the subset of children with acute lymphoblastic leukaemia, which represents the most frequent indication to HSCT in comparison with other childhood haematological malignancies.",
+            "Notably, a reduction in the ATLG dose to 15 mg/kg did not affect the time to engraftment and, more importantly, the incidence of acute or chronic GVHD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "the 60 mg/kg group (12% vs 33%, p=0\u202202), mainly because of a higher incidence of fatal infections in the 60 mg/kg group. 15 ",
+        "section": "Implications of all the available evidence",
+        "section_number": 8,
+        "sentences": [
+            "the 60 mg/kg group (12% vs 33%, p=0\u202202), mainly because of a higher incidence of fatal infections in the 60 mg/kg group.",
+            "15"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "This multicentre, randomised, open-label, phase 3 study, enrolling children with haematological malignancies given allogeneic HSCT from an unrelated donor, was done in seven Italian centres in collaboration with the HSCT Working Group of the Italian Association for Paediatric Haematology and Oncology (AIEOP) network (appendix p 15).",
+        "section": "Study design and participants",
+        "section_number": 9,
+        "sentences": [
+            "This multicentre, randomised, open-label, phase 3 study, enrolling children with haematological malignancies given allogeneic HSCT from an unrelated donor, was done in seven Italian centres in collaboration with the HSCT Working Group of the Italian Association for Paediatric Haematology and Oncology (AIEOP) network (appendix p 15)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Inclusion criteria were: diagnosis of acute leukaemia in morphological complete remission, or, Philadelphiapositive chronic myeloid leukaemia in chronic phase, non-Hodgkin lymphoma in complete remission, or myelodysplasia; aged 0-18 years at transplantation; a life expectancy of at least 2 months; the availability of an unrelated donor selected with high-resolution molecular typing of HLA-A, HLA-B, HLA-C, and DRB1 loci, with no more than two allelic disparities, or one antigenic difference; and use of bone marrow-derived stem cells or granulocyte-colony stimulating factor-mobilised peripheral blood stem cell. Patients must also have had acceptable cardiac, renal, liver, and pulmonary function to tolerate the transplantation procedure. Exclusion criteria were: previous allogeneic or autol ogous HSCT; use of cord blood as stem-cell source; treatment with rabbit ATLG in the 3 months before transplantation (no previous treatment with any other drug represented an exclusion criterion); previous history of allergic reactions to ATLG; or absence of signed informed consent.",
+        "section": "Study design and participants",
+        "section_number": 10,
+        "sentences": [
+            "Inclusion criteria were: diagnosis of acute leukaemia in morphological complete remission, or, Philadelphiapositive chronic myeloid leukaemia in chronic phase, non-Hodgkin lymphoma in complete remission, or myelodysplasia; aged 0-18 years at transplantation; a life expectancy of at least 2 months; the availability of an unrelated donor selected with high-resolution molecular typing of HLA-A, HLA-B, HLA-C, and DRB1 loci, with no more than two allelic disparities, or one antigenic difference; and use of bone marrow-derived stem cells or granulocyte-colony stimulating factor-mobilised peripheral blood stem cell.",
+            "Patients must also have had acceptable cardiac, renal, liver, and pulmonary function to tolerate the transplantation procedure.",
+            "Exclusion criteria were: previous allogeneic or autol ogous HSCT; use of cord blood as stem-cell source; treatment with rabbit ATLG in the 3 months before transplantation (no previous treatment with any other drug represented an exclusion criterion); previous history of allergic reactions to ATLG; or absence of signed informed consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The institutional review board or ethical committee of each participating centre approved the study. Written, informed consent was obtained from patients' parents or their legal guardians before enrolment. The study protocol is available in the appendix (pp [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] .",
+        "section": "Study design and participants",
+        "section_number": 11,
+        "sentences": [
+            "The institutional review board or ethical committee of each participating centre approved the study.",
+            "Written, informed consent was obtained from patients' parents or their legal guardians before enrolment.",
+            "The study protocol is available in the appendix (pp [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "To avoid imbalance between the two groups, before randomisation, patients were stratified according to the degree of compatibility with their donor (zero or one allelic disparity vs two allelic disparities or one antigenic disparity at the HLA loci), the source of haemopoietic stem cells used (bone marrow vs peripheral blood stem cells), and the disease risk category (standard risk vs high risk). Details on the stratification criteria are reported in the appendix (p 2). Patients were then randomly assigned (1:1) to receive ATLG at a total dose of either 30 mg/kg or 15 mg/kg.",
+        "section": "Randomisation",
+        "section_number": 12,
+        "sentences": [
+            "To avoid imbalance between the two groups, before randomisation, patients were stratified according to the degree of compatibility with their donor (zero or one allelic disparity vs two allelic disparities or one antigenic disparity at the HLA loci), the source of haemopoietic stem cells used (bone marrow vs peripheral blood stem cells), and the disease risk category (standard risk vs high risk).",
+            "Details on the stratification criteria are reported in the appendix (p 2).",
+            "Patients were then randomly assigned (1:1) to receive ATLG at a total dose of either 30 mg/kg or 15 mg/kg."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Randomisation was done through a remote AIEOP data entry system; the personnel of the trial units and the individual investigators did not have access to any randomisation listings. The randomisation code was generated by nQuery Advisor (version 5.0), with the use of a block randomisation plan and a block size of four.",
+        "section": "Randomisation",
+        "section_number": 13,
+        "sentences": [
+            "Randomisation was done through a remote AIEOP data entry system; the personnel of the trial units and the individual investigators did not have access to any randomisation listings.",
+            "The randomisation code was generated by nQuery Advisor (version 5.0), with the use of a block randomisation plan and a block size of four."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The randomisation was open label; all investigators were aware of the treatment allocation.",
+        "section": "Randomisation",
+        "section_number": 14,
+        "sentences": [
+            "The randomisation was open label; all investigators were aware of the treatment allocation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "All patients were given a myeloablative regimen, chosen according to the disease and the policy of each participating centre (see table 1 for further details on the conditioning regimens used). GVHD prophylaxis consisted of the combination of cyclosporine-A, administered intravenously at an initial dose of 3 mg/kg per day in two divided doses, starting from day -7, until the drug could be administered orally at a dose of 6 mg/kg per day in two divided doses, and short-term methotrexate (15 mg/m\u00b2 on day 1 and 10 mg/m\u00b2 on days 3, 6, and 11 after transplantation). Rabbit ATLG (Grafalon; provided by Fresenius/Neovii) was given as intravenous infusion on days -4, -3, and -2 at a dose of either 10 mg/kg per day (total dose of 30 mg/kg) or 5 mg/kg per day (total dose of 15 mg/kg). Patients who had leukaemia relapse after randomisation were not excluded from the study (ie, they were followed up) but were not included in the per-protocol analysis. Dose modification of ATLG and interruption of the drug administration were not permitted, and would lead to patient removal from the study.",
+        "section": "Procedures",
+        "section_number": 15,
+        "sentences": [
+            "All patients were given a myeloablative regimen, chosen according to the disease and the policy of each participating centre (see table 1 for further details on the conditioning regimens used).",
+            "GVHD prophylaxis consisted of the combination of cyclosporine-A, administered intravenously at an initial dose of 3 mg/kg per day in two divided doses, starting from day -7, until the drug could be administered orally at a dose of 6 mg/kg per day in two divided doses, and short-term methotrexate (15 mg/m\u00b2 on day 1 and 10 mg/m\u00b2 on days 3, 6, and 11 after transplantation).",
+            "Rabbit ATLG (Grafalon; provided by Fresenius/Neovii) was given as intravenous infusion on days -4, -3, and -2 at a dose of either 10 mg/kg per day (total dose of 30 mg/kg) or 5 mg/kg per day (total dose of 15 mg/kg).",
+            "Patients who had leukaemia relapse after randomisation were not excluded from the study (ie, they were followed up) but were not included in the per-protocol analysis.",
+            "Dose modification of ATLG and interruption of the drug administration were not permitted, and would lead to patient removal from the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Tests for blood cell count and liver and kidney function were taken at least every other day until the patient was discharged. The same laboratory monitoring was repeated at least twice per week until day 100 after transplantation and then every month until 1 year after the allograft. We assessed adverse events continuously throughout the treatment period.",
+        "section": "Procedures",
+        "section_number": 16,
+        "sentences": [
+            "Tests for blood cell count and liver and kidney function were taken at least every other day until the patient was discharged.",
+            "The same laboratory monitoring was repeated at least twice per week until day 100 after transplantation and then every month until 1 year after the allograft.",
+            "We assessed adverse events continuously throughout the treatment period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "We diagnosed and staged haematological malignancies both before and regularly after HSCT on an ad-hoc basis using standard techniques of bone marrow aspiration, bone marrow biopsy, flow cytometry, histological stains, karyotyping, and molecular probes, as needed, following well established international diagnostic and staging recommendations for each malignancy. In particular, the state of remission of patients' neoplastic disease was assessed at 3, 6, 9, and 12 months after transplantation.",
+        "section": "Procedures",
+        "section_number": 17,
+        "sentences": [
+            "We diagnosed and staged haematological malignancies both before and regularly after HSCT on an ad-hoc basis using standard techniques of bone marrow aspiration, bone marrow biopsy, flow cytometry, histological stains, karyotyping, and molecular probes, as needed, following well established international diagnostic and staging recommendations for each malignancy.",
+            "In particular, the state of remission of patients' neoplastic disease was assessed at 3, 6, 9, and 12 months after transplantation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Recipients at risk of infection with human cytomegalovirus (ie, children either positive for cytomegalovirus antibodies or negative but transplanted from a seropositive donor) were regularly monitored for infection by quantitative PCR on blood samples. Recommendations for management of adenovirus and Epstein-Barr virus infection included regular screening of all enrolled participants by quantitative PCR on blood samples.",
+        "section": "Procedures",
+        "section_number": 18,
+        "sentences": [
+            "Recipients at risk of infection with human cytomegalovirus (ie, children either positive for cytomegalovirus antibodies or negative but transplanted from a seropositive donor) were regularly monitored for infection by quantitative PCR on blood samples.",
+            "Recommendations for management of adenovirus and Epstein-Barr virus infection included regular screening of all enrolled participants by quantitative PCR on blood samples."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The primary endpoint of the study was 100-day cumulative incidence of grade II-IV acute GVHD in the two randomisation groups. Secondary endpoints included cumulative incidence of chronic GVHD, disease recurrence, non-relapse mortality (defined as the probability of death from time of HSCT from any cause other than disease recurrence or progression), viral reactivations (Epstein-Barr virus, cytomegalovirus, and adenovirus), post-transplantation lymphoproliferative disorders, fungal infections in the two groups, and overall survival. Neutrophil and platelet engraftment (time from HSCT to the first of 3 consecutive days with an absolute neutrophil count greater than or equal to 0\u20225 \u00d7 10\u2079/L, and time from HSCT to the first of 7 consecutive days with an unsupported platelet count greater than or equal to 50 \u00d7 10\u2079/L, respectively), the probability of event-free survival (defined as the probability of survival without evidence of disease at any time after transplant; death, relapse and rejection with or without autologous hematopoietic reconstitution were considered events, while patients who were alive, who had sustained donor engraftment and were disease-free were censored at last follow-up), and the composite endpoint of chronic GVHDfree and relapse-free survival were assessed post hoc. 16 Safety assessments included reports of adverse events graded according to Common Terminology Criteria 4.02 and incidences of serious infection including reactivation of Epstein-Barr virus, cytomegalovirus, or adenovirus. ",
+        "section": "Outcomes",
+        "section_number": 19,
+        "sentences": [
+            "The primary endpoint of the study was 100-day cumulative incidence of grade II-IV acute GVHD in the two randomisation groups.",
+            "Secondary endpoints included cumulative incidence of chronic GVHD, disease recurrence, non-relapse mortality (defined as the probability of death from time of HSCT from any cause other than disease recurrence or progression), viral reactivations (Epstein-Barr virus, cytomegalovirus, and adenovirus), post-transplantation lymphoproliferative disorders, fungal infections in the two groups, and overall survival.",
+            "Neutrophil and platelet engraftment (time from HSCT to the first of 3 consecutive days with an absolute neutrophil count greater than or equal to 0\u20225 \u00d7 10\u2079/L, and time from HSCT to the first of 7 consecutive days with an unsupported platelet count greater than or equal to 50 \u00d7 10\u2079/L, respectively), the probability of event-free survival (defined as the probability of survival without evidence of disease at any time after transplant; death, relapse and rejection with or without autologous hematopoietic reconstitution were considered events, while patients who were alive, who had sustained donor engraftment and were disease-free were censored at last follow-up), and the composite endpoint of chronic GVHDfree and relapse-free survival were assessed post hoc.",
+            "16 Safety assessments included reports of adverse events graded according to Common Terminology Criteria 4.02 and incidences of serious infection including reactivation of Epstein-Barr virus, cytomegalovirus, or adenovirus."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "We calculated the sample size on the basis of an expected 100-day rate of grade II-IV acute GVHD of 25% in the 30 mg/kg ATLG group and of 50% in the 15 mg/kg ATLG group. We estimated a sample size of 160 patients (80 patients in each group) considering a power of 0\u202280 and \u03b1 equal to 0\u202205 to reject the null hypothesis in a logrank test model. The detailed trial protocol is provided in the appendix (pp [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] . Data on patients randomly assigned in the study were collected in the data warehouse of the AIEOP HSCT group. Both primary and secondary endpoints were assessed by the two statisticians of the group (CR and MZ). Data were analysed as of March 1, 2016. All statistical analyses were done according to the perprotocol principle.",
+        "section": "Statistical analysis",
+        "section_number": 20,
+        "sentences": [
+            "We calculated the sample size on the basis of an expected 100-day rate of grade II-IV acute GVHD of 25% in the 30 mg/kg ATLG group and of 50% in the 15 mg/kg ATLG group.",
+            "We estimated a sample size of 160 patients (80 patients in each group) considering a power of 0\u202280 and \u03b1 equal to 0\u202205 to reject the null hypothesis in a logrank test model.",
+            "The detailed trial protocol is provided in the appendix (pp [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] .",
+            "Data on patients randomly assigned in the study were collected in the data warehouse of the AIEOP HSCT group.",
+            "Both primary and secondary endpoints were assessed by the two statisticians of the group (CR and MZ).",
+            "Data were analysed as of March 1, 2016.",
+            "All statistical analyses were done according to the perprotocol principle."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Acute and chronic GVHD, rejection, engraftment, overall survival, event-free survival, non-relapse mortality, and relapse incidence were estimated from the date of transplantation to the date of an event or last follow-up. Probabilities of overall survival and event-free survival were calculated according to the Kaplan-Meier method. We calculated acute GVHD, chronic GVHD, non-relapse mortality, and relapse as cumulative incidence curves to adjust the estimates for competing risks. All results were expressed as probability or cumulative incidence and 95% CI. 17, 18 All transplanted patients were assessed for acute GVHD occurrence (assessed at day 100 after transplantation), whereas patients surviving more than 100 days were assessed for chronic GVHD. We assessed severity of acute GVHD according to the Glucksberg criteria and chronic GVHD according to the modified Seattle criteria (for categorisation of chronic GVHD as clinically limited or extensive). 19, 20 When we estimated GVHD occurrence, we regarded both rejection and nonrelapse mortality as competing events. 21 We estimated the significance of differences between event-free survival and overall survival with the log-rank test (Mantel-Cox), and used Gray's test to assess, in univariable analyses, differences between cumulative incidences. 22 The following variables were investigated for their effect on cumulative incidence of grade II-IV acute GVHD and event-free survival: patient sex, patient age, diagnosis, risk stratification, HLA-disparity, stemcell source, cytomegalovirus serology in the donorrecipient pair, use of total body irradiation during the conditioning regimen, and dose of ATLG. Effect of chronic GVHD on event-free survival was also investigated. Multivariable analysis was done using the Cox proportional hazard regression model. 17, 18 All variables found to be significant in the univariable analysis and the variables used for patient stratification were included in the multivariable model. Analyses were done in the per-protocol population. Other details on statistical analysis are shown in the appendix (p 2).",
+        "section": "Statistical analysis",
+        "section_number": 21,
+        "sentences": [
+            "Acute and chronic GVHD, rejection, engraftment, overall survival, event-free survival, non-relapse mortality, and relapse incidence were estimated from the date of transplantation to the date of an event or last follow-up.",
+            "Probabilities of overall survival and event-free survival were calculated according to the Kaplan-Meier method.",
+            "We calculated acute GVHD, chronic GVHD, non-relapse mortality, and relapse as cumulative incidence curves to adjust the estimates for competing risks.",
+            "All results were expressed as probability or cumulative incidence and 95% CI.",
+            "17, 18 All transplanted patients were assessed for acute GVHD occurrence (assessed at day 100 after transplantation), whereas patients surviving more than 100 days were assessed for chronic GVHD.",
+            "We assessed severity of acute GVHD according to the Glucksberg criteria and chronic GVHD according to the modified Seattle criteria (for categorisation of chronic GVHD as clinically limited or extensive).",
+            "19, 20 When we estimated GVHD occurrence, we regarded both rejection and nonrelapse mortality as competing events.",
+            "21 We estimated the significance of differences between event-free survival and overall survival with the log-rank test (Mantel-Cox), and used Gray's test to assess, in univariable analyses, differences between cumulative incidences.",
+            "22 The following variables were investigated for their effect on cumulative incidence of grade II-IV acute GVHD and event-free survival: patient sex, patient age, diagnosis, risk stratification, HLA-disparity, stemcell source, cytomegalovirus serology in the donorrecipient pair, use of total body irradiation during the conditioning regimen, and dose of ATLG.",
+            "Effect of chronic GVHD on event-free survival was also investigated.",
+            "Multivariable analysis was done using the Cox proportional hazard regression model.",
+            "17, 18 All variables found to be significant in the univariable analysis and the variables used for patient stratification were included in the multivariable model.",
+            "Analyses were done in the per-protocol population.",
+            "Other details on statistical analysis are shown in the appendix (p 2)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Statistical analysis was performed using NCSS 10 and R 2.5.0 software package. 23, 24 This study was registered with ClinicalTrials.gov, number NCT00934557.",
+        "section": "Statistical analysis",
+        "section_number": 22,
+        "sentences": [
+            "Statistical analysis was performed using NCSS 10 and R 2.5.0 software package.",
+            "23, 24 This study was registered with ClinicalTrials.gov, number NCT00934557."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Neovii Biotech, which provided the ATLG (Grafalon), had no role in study design, data collection, data analysis, data interpretation, or writing of the report. FL, MEB, and MZ had full access to all the data in the study and all the authors made the decision to submit the manuscript for publication.",
+        "section": "Role of the funding source",
+        "section_number": 23,
+        "sentences": [
+            "Neovii Biotech, which provided the ATLG (Grafalon), had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+            "FL, MEB, and MZ had full access to all the data in the study and all the authors made the decision to submit the manuscript for publication."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Between Jan 15, 2008, and Sept 25, 2012, 187 patients were screened for inclusion in the present study. Seven patients were excluded from randomisation because they did not fulfil all the inclusion criteria. 180 patients were enrolled and randomly assigned: 89 were assigned to the 30 mg/kg ATLG group and 91 to the 15 mg/kg ATLG group (figure 1). Eight patients, five in the 30 mg/kg ATLG group and three in the 15 mg/kg ATLG group, did not proceed to transplantation due to relapse before HSCT and were subsequently excluded from the analysis. The remaining 172 patients (84 in the ATLG 30 mg/kg group and 88 in the 15 mg/kg group), underwent HSCT and were included in this analysis. No patient required dose reduction or discontinued the planned treatment for any reason, including drug-related toxicity.",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "Between Jan 15, 2008, and Sept 25, 2012, 187 patients were screened for inclusion in the present study.",
+            "Seven patients were excluded from randomisation because they did not fulfil all the inclusion criteria.",
+            "180 patients were enrolled and randomly assigned: 89 were assigned to the 30 mg/kg ATLG group and 91 to the 15 mg/kg ATLG group (figure 1).",
+            "Eight patients, five in the 30 mg/kg ATLG group and three in the 15 mg/kg ATLG group, did not proceed to transplantation due to relapse before HSCT and were subsequently excluded from the analysis.",
+            "The remaining 172 patients (84 in the ATLG 30 mg/kg group and 88 in the 15 mg/kg group), underwent HSCT and were included in this analysis.",
+            "No patient required dose reduction or discontinued the planned treatment for any reason, including drug-related toxicity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The two randomisation groups were similar for all demographic and transplant-related variables assessed (table 1) .",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "The two randomisation groups were similar for all demographic and transplant-related variables assessed (table 1) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The figure 2, appendix p 3) .",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "The figure 2, appendix p 3) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The overall cumulative incidence of extensive chronic GVHD alone was 8% (95% CI 4-14): 6% (2-14) for the 30 mg/kg ATLG patients and 10% (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) figure 2) .",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "The overall cumulative incidence of extensive chronic GVHD alone was 8% (95% CI 4-14): 6% (2-14) for the 30 mg/kg ATLG patients and 10% (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) figure 2) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "23 (13%) of 172 patients died in remission due to transplant-related causes: 15 (18%) of 84 patients in the 30 mg/kg ATLG group and eight (9%) in the mg/kg ATLG group. The overall cumulative incidence of nonrelapse mortality was 14% (95% CI 9-21; figure 3). Different causes of death in the two groups are detailed in the appendix (p 6). Notably, more infection-related deaths occurred in the 30 mg/kg ATLG group (seven) than in the 15 mg/kg ATLG group (three).",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "23 (13%) of 172 patients died in remission due to transplant-related causes: 15 (18%) of 84 patients in the 30 mg/kg ATLG group and eight (9%) in the mg/kg ATLG group.",
+            "The overall cumulative incidence of nonrelapse mortality was 14% (95% CI 9-21; figure 3).",
+            "Different causes of death in the two groups are detailed in the appendix (p 6).",
+            "Notably, more infection-related deaths occurred in the 30 mg/kg ATLG group (seven) than in the 15 mg/kg ATLG group (three)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Appendix (p 7) shows the cumulative incidence of viral infections (human cytomegalovirus, Epstein-Barr virus, (11) 47 (18) 41 (18) 38 (27) (figure 3) . The cumulative incidence of relapse was not statistically affected by the occurrence of chronic GVHD (appendix p 2). No patient received prophylactic donor lymphocyte infusions for prevention of leukaemia recurrence. Relapsing patients were treated with several therapies, none of which showed greater benefit in comparison with the others (data not shown).",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "Appendix (p 7) shows the cumulative incidence of viral infections (human cytomegalovirus, Epstein-Barr virus, (11) 47 (18) 41 (18) 38 (27) (figure 3) .",
+            "The cumulative incidence of relapse was not statistically affected by the occurrence of chronic GVHD (appendix p 2).",
+            "No patient received prophylactic donor lymphocyte infusions for prevention of leukaemia recurrence.",
+            "Relapsing patients were treated with several therapies, none of which showed greater benefit in comparison with the others (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "123 (72%) patients were alive at time of the last followup (69 in the 15 mg/kg ATLG group vs 54 in the 30 mg/kg ATLG group): 120 (68 vs 52) were in continuous complete remission after HSCT, and three (one vs two) were alive after a post-transplantation leukaemia relapse. At time of writing, no patient has developed a secondary malignancy.",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "123 (72%) patients were alive at time of the last followup (69 in the 15 mg/kg ATLG group vs 54 in the 30 mg/kg ATLG group): 120 (68 vs 52) were in continuous complete remission after HSCT, and three (one vs two) were alive after a post-transplantation leukaemia relapse.",
+            "At time of writing, no patient has developed a secondary malignancy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "The 5-year overall survival probability was 70% (95% CI 62-77) for the whole study population: 62% (50-73) for the patients in the 30 mg/kg ATLG group and 78% \u2022028; figure 3 ). Analysis of other variables potentially affecting event-free survival is shown in appendix (p 8-9). The results of the post-hoc survival analysis for specific subgroups of patients, including patients with acute leukaemia and subsets of patients stratified according to disease risk category, degree of donor-recipient HLA compatibility, and source of stem cells, are summarised in the appendix (pp 10-12). Event-free survival and overall survival was better in patients who received a 15 mg/kg dose of ATLG (appendix p 14) and a transplant from a donor who was not fully HLA-compatible than in patients who received 30 mg/kg doses of ATLG. Children with standard-risk disease had a better event-free survival probability than high-risk patients (appendix p 10), and patients transplanted from a donor who was HLA-identical or one allelic disparate had better outcomes than patients transplanted from a donor showing a greater disparity with the recipient, although the difference in the univariable analysis was not significant (appendix p 12). Notably, in many other post-hoc subgroup analyses, we saw an advantage in terms of event-free survival for patients who received ATLG at the 15 mg/kg dose versus patients who received the 30 mg/kg dose (appendix pp 10-11). This advantage was significant for all patients with acute leukaemia (p=0\u2022049) and for patients affected by acute lymphoblastic leukaemia (p=0\u2022049). We also assessed chronic GVHDfree plus relapse-free survival, and extensive chronic GVHD-free plus relapse-free survival (appendix p 3, 13). There were no significantly better differences between the two groups. Table 2 summarises the results of multivariable analysis of grade II-IV acute GVHD, event-free survival, non-relapse mortality, and relapse. In the multivariable analysis of event-free survival, the following variables were associated with worse outcome: ATLG dose of 30 mg/kg, HLA disparity of more than one allele, and high-risk disease. Only the high-risk disease group was significantly associated with an increased risk of relapse, whereas the ATLG dose of 30 mg/kg was associated with an increased risk of non-relapse mortality.",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "The 5-year overall survival probability was 70% (95% CI 62-77) for the whole study population: 62% (50-73) for the patients in the 30 mg/kg ATLG group and 78% \u2022028; figure 3 ).",
+            "Analysis of other variables potentially affecting event-free survival is shown in appendix (p 8-9).",
+            "The results of the post-hoc survival analysis for specific subgroups of patients, including patients with acute leukaemia and subsets of patients stratified according to disease risk category, degree of donor-recipient HLA compatibility, and source of stem cells, are summarised in the appendix (pp 10-12).",
+            "Event-free survival and overall survival was better in patients who received a 15 mg/kg dose of ATLG (appendix p 14) and a transplant from a donor who was not fully HLA-compatible than in patients who received 30 mg/kg doses of ATLG.",
+            "Children with standard-risk disease had a better event-free survival probability than high-risk patients (appendix p 10), and patients transplanted from a donor who was HLA-identical or one allelic disparate had better outcomes than patients transplanted from a donor showing a greater disparity with the recipient, although the difference in the univariable analysis was not significant (appendix p 12).",
+            "Notably, in many other post-hoc subgroup analyses, we saw an advantage in terms of event-free survival for patients who received ATLG at the 15 mg/kg dose versus patients who received the 30 mg/kg dose (appendix pp 10-11).",
+            "This advantage was significant for all patients with acute leukaemia (p=0\u2022049) and for patients affected by acute lymphoblastic leukaemia (p=0\u2022049).",
+            "We also assessed chronic GVHDfree plus relapse-free survival, and extensive chronic GVHD-free plus relapse-free survival (appendix p 3, 13).",
+            "There were no significantly better differences between the two groups.",
+            "Table 2 summarises the results of multivariable analysis of grade II-IV acute GVHD, event-free survival, non-relapse mortality, and relapse.",
+            "In the multivariable analysis of event-free survival, the following variables were associated with worse outcome: ATLG dose of 30 mg/kg, HLA disparity of more than one allele, and high-risk disease.",
+            "Only the high-risk disease group was significantly associated with an increased risk of relapse, whereas the ATLG dose of 30 mg/kg was associated with an increased risk of non-relapse mortality."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Our results show that, in an era in which high-resolution molecular typing for class I and class II HLA loci has significantly improved the clinical outcome of unrelated donor-HSCT by decreasing the risk of immunological complications, 14, 25 lowering the ATLG dose to 15 mg/kg did not affect the time to engraftment and, more importantly, the incidence of acute or chronic GVHD, and was associated with an improved probability of Although in-vivo serotherapy has been mainly used in the past two decades to reduce the incidence and severity of GVHD, few randomised trials have been done [4] [5] [6] [7] [8] [9] and, to the best of our knowledge, none of these in paediatric patients. Moreover, all of these controlled trials compared either rabbit-antihuman T-cell line (Jurkat) globulin (Grafalon, Neovii Biotech) versus no ATLG 6, 8, 9 or rabbitantihuman thymocyte globulin (Thymoglobulin, Genzyme) versus no ATLG, 4, 5, 7 but no randomised study has addressed the issue of drug dose. As such, the optimum ATLG therapeutic window and the timing of treatment have not yet been defined. We report the results of the first randomised clinical trial designed to establish the better of two doses of rabbit ATLG for the prevention of acute GVHD, while maintaining the capacity of effectively controlling or eradicating infections and leukaemia regrowth in children undergoing transplantation with either bone marrow-derived or peripheral blood stem cell-derived grafts from an unrelated donor.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "Our results show that, in an era in which high-resolution molecular typing for class I and class II HLA loci has significantly improved the clinical outcome of unrelated donor-HSCT by decreasing the risk of immunological complications, 14, 25 lowering the ATLG dose to 15 mg/kg did not affect the time to engraftment and, more importantly, the incidence of acute or chronic GVHD, and was associated with an improved probability of Although in-vivo serotherapy has been mainly used in the past two decades to reduce the incidence and severity of GVHD, few randomised trials have been done [4] [5] [6] [7] [8] [9] and, to the best of our knowledge, none of these in paediatric patients.",
+            "Moreover, all of these controlled trials compared either rabbit-antihuman T-cell line (Jurkat) globulin (Grafalon, Neovii Biotech) versus no ATLG 6, 8, 9 or rabbitantihuman thymocyte globulin (Thymoglobulin, Genzyme) versus no ATLG, 4, 5, 7 but no randomised study has addressed the issue of drug dose.",
+            "As such, the optimum ATLG therapeutic window and the timing of treatment have not yet been defined.",
+            "We report the results of the first randomised clinical trial designed to establish the better of two doses of rabbit ATLG for the prevention of acute GVHD, while maintaining the capacity of effectively controlling or eradicating infections and leukaemia regrowth in children undergoing transplantation with either bone marrow-derived or peripheral blood stem cell-derived grafts from an unrelated donor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Limitations of our study include supportive care continually changing over the course of the trial, the heterogeneity of disease treated with transplantation (including chronic myelogenous leukaemia, which is rarely treated with an allograft nowadays) and of conditioning regimens used, and the scarcity of data on immune reconstitution, particularly on pathogen-specific immunity. Despite these limitations and the choice of administering ATLG in an open-label manner, we found that children given 30 mg/kg ATLG had a higher incidence of infection-related deaths than children given the 15 mg/kg dose (seven deaths vs three); moreover, the children given 30 mg/kg ATLG also had an increased risk of adenovirus and Epstein-Barr virus infections. Although we do not have data on virus-specific immune reconstitution in the two groups, several studies 11, 26 have reported that ATLG has a half-life of 7-14 days, which means that patients are exposed to ATLG both before and after HSCT, and substantial evidence exists that higher doses of ATLG are associated with slower recovery of pathogen-specific immunity and higher incidence of fatal infections. 4, 9, 10, 12 Among patients undergoing HSCT, adenovirus infections have a much higher prevalence in paediatric patients (20-26%) than in adults (9%), possibly because of the reservoir of adenovirus in the general paediatric population. 27, 28 The high doses of ATLG depleting antiviral T cells transferred with the graft due to the long half-life of the polyclonal antibodies could have a detrimental effect on recovery of pathogen-specific T-cell immunity, which was shown to be crucial for clearing the viral infection and preventing dissemination of adenovirus infection. 27 Previous reports have also documented that both T-cell depletion and high rabbit ATLG serum concentrations on day 7 after HSCT are associated with increased risk of Epstein-Barr virus infection and post-transplantation lymphoproliferative disorders. 29, 30 Among children given 30 mg/kg ATLG in our study, one child of the two developing posttransplantation lymphoproliferative disorders died from this complication. Notably, a study 31 published in 2017 showed that detection of multiple double-stranded DNA viruses has a dose-dependent association with increased mortality after HSCT. 31 The use of 15 mg/kg ATLG was associated with statistically improved event-free survival in the subgroups of children with acute leukaemia or with acute lymphoblastic leukaemia, which represents the more frequent indication for an allograft in haematological malignancies of childhood. The 78% probability of eventfree survival at 5 years reported in the 50 children with acute lymphoblastic leukaemia given 15 mg/kg ATLG compares favourably to the results reported by Peters and colleagues 25 in 306 children transplanted from an unrelated donor with a standardised transplantation and GVHD prophylaxis protocol (71% at 4 years).",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "Limitations of our study include supportive care continually changing over the course of the trial, the heterogeneity of disease treated with transplantation (including chronic myelogenous leukaemia, which is rarely treated with an allograft nowadays) and of conditioning regimens used, and the scarcity of data on immune reconstitution, particularly on pathogen-specific immunity.",
+            "Despite these limitations and the choice of administering ATLG in an open-label manner, we found that children given 30 mg/kg ATLG had a higher incidence of infection-related deaths than children given the 15 mg/kg dose (seven deaths vs three); moreover, the children given 30 mg/kg ATLG also had an increased risk of adenovirus and Epstein-Barr virus infections.",
+            "Although we do not have data on virus-specific immune reconstitution in the two groups, several studies 11, 26 have reported that ATLG has a half-life of 7-14 days, which means that patients are exposed to ATLG both before and after HSCT, and substantial evidence exists that higher doses of ATLG are associated with slower recovery of pathogen-specific immunity and higher incidence of fatal infections.",
+            "4, 9, 10, 12 Among patients undergoing HSCT, adenovirus infections have a much higher prevalence in paediatric patients (20-26%) than in adults (9%), possibly because of the reservoir of adenovirus in the general paediatric population.",
+            "27, 28 The high doses of ATLG depleting antiviral T cells transferred with the graft due to the long half-life of the polyclonal antibodies could have a detrimental effect on recovery of pathogen-specific T-cell immunity, which was shown to be crucial for clearing the viral infection and preventing dissemination of adenovirus infection.",
+            "27 Previous reports have also documented that both T-cell depletion and high rabbit ATLG serum concentrations on day 7 after HSCT are associated with increased risk of Epstein-Barr virus infection and post-transplantation lymphoproliferative disorders.",
+            "29, 30 Among children given 30 mg/kg ATLG in our study, one child of the two developing posttransplantation lymphoproliferative disorders died from this complication.",
+            "Notably, a study 31 published in 2017 showed that detection of multiple double-stranded DNA viruses has a dose-dependent association with increased mortality after HSCT.",
+            "31 The use of 15 mg/kg ATLG was associated with statistically improved event-free survival in the subgroups of children with acute leukaemia or with acute lymphoblastic leukaemia, which represents the more frequent indication for an allograft in haematological malignancies of childhood.",
+            "The 78% probability of eventfree survival at 5 years reported in the 50 children with acute lymphoblastic leukaemia given 15 mg/kg ATLG compares favourably to the results reported by Peters and colleagues 25 in 306 children transplanted from an unrelated donor with a standardised transplantation and GVHD prophylaxis protocol (71% at 4 years)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Remarkably, the advantage of 15 mg/kg ATLG over the 30 mg/kg dose was evident in patients transplanted from donors with one or more HLA-disparities, who represented almost half of the study population. This advantage was also found in patients given peripheral blood stem cells, a stem-cell source that, in comparison with bone marrow, was shown to be associated with more chronic GVHD in a randomised trial 32 done in unrelated donor-HSCT recipients, probably reflecting the protective effect of intensive GVHD prophylaxis with cyclosporine, methotrexate, and rabbit ATLG.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "Remarkably, the advantage of 15 mg/kg ATLG over the 30 mg/kg dose was evident in patients transplanted from donors with one or more HLA-disparities, who represented almost half of the study population.",
+            "This advantage was also found in patients given peripheral blood stem cells, a stem-cell source that, in comparison with bone marrow, was shown to be associated with more chronic GVHD in a randomised trial 32 done in unrelated donor-HSCT recipients, probably reflecting the protective effect of intensive GVHD prophylaxis with cyclosporine, methotrexate, and rabbit ATLG."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "In our cohort, the most frequent cause of treatment failure after transplantation was disease recurrence, which occurred in the first or, more rarely, second year after transplantation. The probability of relapse was not statistically affected by the dose of ATLG given, but instead mainly by the disease risk category, confirming that the stratification criterion chosen had a high predictive value on final outcome. Moreover, in our cohort, the 5-year overall survival probability was 70% and the event-free survival probability was 69%, indicating that once a child relapsed the chance of their rescue was negligible.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "In our cohort, the most frequent cause of treatment failure after transplantation was disease recurrence, which occurred in the first or, more rarely, second year after transplantation.",
+            "The probability of relapse was not statistically affected by the dose of ATLG given, but instead mainly by the disease risk category, confirming that the stratification criterion chosen had a high predictive value on final outcome.",
+            "Moreover, in our cohort, the 5-year overall survival probability was 70% and the event-free survival probability was 69%, indicating that once a child relapsed the chance of their rescue was negligible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "In this study, the composite endpoint of survival free from both chronic GVHD and relapse was similar between children given either 30 mg/kg or 15 mg/kg ATLG, suggesting that a lower dose of serotherapy does not affect the quality of life of surviving patients.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "In this study, the composite endpoint of survival free from both chronic GVHD and relapse was similar between children given either 30 mg/kg or 15 mg/kg ATLG, suggesting that a lower dose of serotherapy does not affect the quality of life of surviving patients."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Different types of ATLG preparations have been tested as part of conditioning regimens to achieve in-vivo T-cell depletion or modulation and, thus, to prevent GVHD. The ATLG preparation used in our study is a polyclonal anti-human-T-lymphocyte immune globulin derived from rabbits after immunisation with the Jurkat human T-cell line. This product preferentially targets T cells; however, because other antigens such as CD19 or CD138 are also targeted by ATLG, 33 we cannot exclude a direct antitumor effect of the drug in B-cell acute lymphoblastic leukaemia and to a lesser extent in myeloid leukaemias, particularly in the context of pretransplantation persisting minimal residual disease.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "Different types of ATLG preparations have been tested as part of conditioning regimens to achieve in-vivo T-cell depletion or modulation and, thus, to prevent GVHD.",
+            "The ATLG preparation used in our study is a polyclonal anti-human-T-lymphocyte immune globulin derived from rabbits after immunisation with the Jurkat human T-cell line.",
+            "This product preferentially targets T cells; however, because other antigens such as CD19 or CD138 are also targeted by ATLG, 33 we cannot exclude a direct antitumor effect of the drug in B-cell acute lymphoblastic leukaemia and to a lesser extent in myeloid leukaemias, particularly in the context of pretransplantation persisting minimal residual disease."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "Pharmacokinetic analysis of ATLG was not done in our study. Notably, data reported in 2015 on pharmacokinetics of ATLG in the paediatric population have shown that older children have a disproportionately higher exposure than younger children because they have a lower clearance of the drug per kilogram of bodyweight. 10, 11 Additionally, low lymphocyte count of the recipient at time of ATLG infusion was shown to translate into high exposure of donor T cells to the drug. 10, 11 These observations provide a rationale to envisage more sophisticated strategies in the future for the dose and timing of administration of ATLG on the basis of pharmacokinetics parameters.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "Pharmacokinetic analysis of ATLG was not done in our study.",
+            "Notably, data reported in 2015 on pharmacokinetics of ATLG in the paediatric population have shown that older children have a disproportionately higher exposure than younger children because they have a lower clearance of the drug per kilogram of bodyweight.",
+            "10, 11 Additionally, low lymphocyte count of the recipient at time of ATLG infusion was shown to translate into high exposure of donor T cells to the drug.",
+            "10, 11 These observations provide a rationale to envisage more sophisticated strategies in the future for the dose and timing of administration of ATLG on the basis of pharmacokinetics parameters."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "In summary, our data obtained in a randomised clinical trial with a long follow-up indicate that, in children with haematological malignancies transplanted from an unrelated donor selected through high-resolution HLA typing, the use of 15 mg/kg rabbit ATLG results in better overall survival and event-free survival than a 30 mg/kg dose. 15 mg/kg ATLG can spare life-threatening viral infections without significantly increasing the incidence of acute and chronic GVHD, and without adversely affecting other outcomes such as engraftment or relapse.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "In summary, our data obtained in a randomised clinical trial with a long follow-up indicate that, in children with haematological malignancies transplanted from an unrelated donor selected through high-resolution HLA typing, the use of 15 mg/kg rabbit ATLG results in better overall survival and event-free survival than a 30 mg/kg dose.",
+            "15 mg/kg ATLG can spare life-threatening viral infections without significantly increasing the incidence of acute and chronic GVHD, and without adversely affecting other outcomes such as engraftment or relapse."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34302",
+        "text": "www.thelancet.com/oncology Vol 18 August 2017",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "www.thelancet.com/oncology Vol 18 August 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

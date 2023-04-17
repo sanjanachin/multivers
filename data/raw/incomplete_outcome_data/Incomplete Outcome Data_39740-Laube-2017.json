@@ -1,0 +1,685 @@
+[
+    {
+        "doc_id": "39740",
+        "text": "Background Ventilated preterm infants frequently develop bronchopulmonary dysplasia (BPD) which is associated with elevated inflammatory mediators in their tracheal aspirates (TA). In animal models of BPD, inhaled nitric oxide (iNO) has been shown to reduce lung inflammation, but data for human preterm infants is missing. Methods Within a European multicenter trial of NO inhalation for preterm infants to prevent BPD (EUNO), TA was collected to determine the effects of iNO on pulmonary inflammation. TA was collected from 43 premature infants randomly assigned to receive either iNO or placebo gas (birth weight 530-1230 g, median 800 g, gestational age 24 to 28 2/7 weeks, median 26 weeks). Interleukin (IL)-1\u03b2, IL-6, IL-8, transforming growth factor (TGF)-\u03b2 1 , interferon \u03b3induced protein 10 (IP-10), macrophage inflammatory protein (MIP)-1\u03b1, acid sphingomyelinase (ASM), neuropeptide Y and leukotriene B 4 were measured in serial TA samples from postnatal day 2 to 14. Furthermore, TA levels of nitrotyrosine and nitrite were determined under iNO therapy. Results The TA levels of IP-10, IL-6, IL-8, MIP-1\u03b1, IL-1\u03b2, ASM and albumin increased with advancing postnatal age in critically ill preterm infants, whereas nitrotyrosine TA levels declined in both, iNO-treated and placebo-treated infants. The iNO treatment generally increased nitrite TA levels, whereas nitrotyrosine TA levels were not affected by iNO treatment. Furthermore, iNO treatment transiently reduced early inflammatory and fibrotic markers associated with PLOS ONE |",
+        "section": "Abstract",
+        "sentences": [
+            "Background Ventilated preterm infants frequently develop bronchopulmonary dysplasia (BPD) which is associated with elevated inflammatory mediators in their tracheal aspirates (TA).",
+            "In animal models of BPD, inhaled nitric oxide (iNO) has been shown to reduce lung inflammation, but data for human preterm infants is missing.",
+            "Methods Within a European multicenter trial of NO inhalation for preterm infants to prevent BPD (EUNO), TA was collected to determine the effects of iNO on pulmonary inflammation.",
+            "TA was collected from 43 premature infants randomly assigned to receive either iNO or placebo gas (birth weight 530-1230 g, median 800 g, gestational age 24 to 28 2/7 weeks, median 26 weeks).",
+            "Interleukin (IL)-1\u03b2, IL-6, IL-8, transforming growth factor (TGF)-\u03b2 1 , interferon \u03b3induced protein 10 (IP-10), macrophage inflammatory protein (MIP)-1\u03b1, acid sphingomyelinase (ASM), neuropeptide Y and leukotriene B 4 were measured in serial TA samples from postnatal day 2 to 14.",
+            "Furthermore, TA levels of nitrotyrosine and nitrite were determined under iNO therapy.",
+            "Results The TA levels of IP-10, IL-6, IL-8, MIP-1\u03b1, IL-1\u03b2, ASM and albumin increased with advancing postnatal age in critically ill preterm infants, whereas nitrotyrosine TA levels declined in both, iNO-treated and placebo-treated infants.",
+            "The iNO treatment generally increased nitrite TA levels, whereas nitrotyrosine TA levels were not affected by iNO treatment.",
+            "Furthermore, iNO treatment transiently reduced early inflammatory and fibrotic markers associated with PLOS ONE |"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Survival of preterm infants is frequently associated with a chronic lung disease called bronchopulmonary dysplasia (BPD). Infants who develop BPD often require long-term oxygen supplementation [1, 2] and frequent re-admissions to hospitals [3, 4] , resulting in high health care costs [5] . Quality of life may be reduced, especially since pulmonary function abnormalities may persist into adulthood [6, 7] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Survival of preterm infants is frequently associated with a chronic lung disease called bronchopulmonary dysplasia (BPD).",
+            "Infants who develop BPD often require long-term oxygen supplementation [1, 2] and frequent re-admissions to hospitals [3, 4] , resulting in high health care costs [5] .",
+            "Quality of life may be reduced, especially since pulmonary function abnormalities may persist into adulthood [6, 7] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Lung injury induced by mechanical ventilation and oxygen supplementation triggers proinflammatory responses and repair processes [8] [9] [10] . Cytokines can be measured in tracheal aspirates (TA) and reflect the extent of inflammatory reactions [11, 12] . It was reported that interleukin (IL)-1, IL-6, IL-8, intercellular adhesion molecule-1 (ICAM-1), macrophage inflammatory protein (MIP)-1\u03b1, transforming growth factor (TGF)-\u03b2 1 and leukotriene B 4 (LTB 4 ) were increased within the first 10 days of life in the bronchoalveolar lavage (BAL) fluid of preterm infants who later developed BPD as compared to those who did not [13] [14] [15] [16] [17] [18] [19] . In a multicenter high frequency oscillatory ventilation trial [20] , the outcome of the trial was predicted by IL-8 and LTB 4 TA levels [21] . One further important chemokine in lung injury that is critical for leukocyte activation is CXCL10 (IP-10) [22] . Another potentially interesting mediator is neuropeptide Y (NPY), because it may be involved in the so-called neuro-immune axis [23] . In addition, increased levels of glycolipids, such as ceramide, were found in the BAL fluid of patients with respiratory distress syndrome (RDS) [24] and in an ovine BPD model [25] . Furthermore, acid sphingomyelinase (ASM), an enzyme generating ceramide, was increased in ovine BPD [25] and in septic patients, where it correlated with their mortality [26] . These findings are remarkable, because the ASM pathway is critical for edema formation in many models of acute lung injury [27] including neonatal piglet models [28, 29] and may also promote apoptosis in lung epithelial cells [30, 31] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Lung injury induced by mechanical ventilation and oxygen supplementation triggers proinflammatory responses and repair processes [8] [9] [10] .",
+            "Cytokines can be measured in tracheal aspirates (TA) and reflect the extent of inflammatory reactions [11, 12] .",
+            "It was reported that interleukin (IL)-1, IL-6, IL-8, intercellular adhesion molecule-1 (ICAM-1), macrophage inflammatory protein (MIP)-1\u03b1, transforming growth factor (TGF)-\u03b2 1 and leukotriene B 4 (LTB 4 ) were increased within the first 10 days of life in the bronchoalveolar lavage (BAL) fluid of preterm infants who later developed BPD as compared to those who did not [13] [14] [15] [16] [17] [18] [19] .",
+            "In a multicenter high frequency oscillatory ventilation trial [20] , the outcome of the trial was predicted by IL-8 and LTB 4 TA levels [21] .",
+            "One further important chemokine in lung injury that is critical for leukocyte activation is CXCL10 (IP-10) [22] .",
+            "Another potentially interesting mediator is neuropeptide Y (NPY), because it may be involved in the so-called neuro-immune axis [23] .",
+            "In addition, increased levels of glycolipids, such as ceramide, were found in the BAL fluid of patients with respiratory distress syndrome (RDS) [24] and in an ovine BPD model [25] .",
+            "Furthermore, acid sphingomyelinase (ASM), an enzyme generating ceramide, was increased in ovine BPD [25] and in septic patients, where it correlated with their mortality [26] .",
+            "These findings are remarkable, because the ASM pathway is critical for edema formation in many models of acute lung injury [27] including neonatal piglet models [28, 29] and may also promote apoptosis in lung epithelial cells [30, 31] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Nitric oxide (NO) is a gaseous mediator that-apart from its vasodilatatory properties-has various effects on inflammation [32, 33] and vascular endothelial growth factor (VEGF)-mediated tissue remodeling [34] , both possibly modifying the development of BPD. In animal models of BPD, inhaled NO (iNO) has been shown to reduce lung inflammation, apoptosis and oxidative stress, to maintain surfactant activity, and to improve lung structure and alveolarization [33, [35] [36] [37] [38] [39] [40] [41] . In humans, a randomized trial demonstrated that iNO reduced the incidence of BPD without increasing the risk of intracranial bleeding in mechanically ventilated preterm infants [42] . However, subsequent studies did not observe similar beneficial effects [43] [44] [45] . Aside from possible benefits, NO is a free radical, potentially capable of causing oxidative tissue damage. Furthermore, it might combine with superoxide to form peroxynitrite, a powerful nitrating and tissue damaging substance [46] . Reactive oxygen and nitrogen species, such as peroxynitrite, also participate in lung injury [47, 48] . Although they cannot be measured directly because of their instability, peroxynitrite formation can be estimated from the resulting nitration products, especially nitrated tyrosine residues on various proteins including surfactant protein A [49, 50] . On the other hand, iNO may alleviate free radical toxicity, as NO has been shown to decrease lipid peroxidation and spare \u03b1-tocopherol by scavenging peroxy radicals [51, 52] .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Nitric oxide (NO) is a gaseous mediator that-apart from its vasodilatatory properties-has various effects on inflammation [32, 33] and vascular endothelial growth factor (VEGF)-mediated tissue remodeling [34] , both possibly modifying the development of BPD.",
+            "In animal models of BPD, inhaled NO (iNO) has been shown to reduce lung inflammation, apoptosis and oxidative stress, to maintain surfactant activity, and to improve lung structure and alveolarization [33, [35] [36] [37] [38] [39] [40] [41] .",
+            "In humans, a randomized trial demonstrated that iNO reduced the incidence of BPD without increasing the risk of intracranial bleeding in mechanically ventilated preterm infants [42] .",
+            "However, subsequent studies did not observe similar beneficial effects [43] [44] [45] .",
+            "Aside from possible benefits, NO is a free radical, potentially capable of causing oxidative tissue damage.",
+            "Furthermore, it might combine with superoxide to form peroxynitrite, a powerful nitrating and tissue damaging substance [46] .",
+            "Reactive oxygen and nitrogen species, such as peroxynitrite, also participate in lung injury [47, 48] .",
+            "Although they cannot be measured directly because of their instability, peroxynitrite formation can be estimated from the resulting nitration products, especially nitrated tyrosine residues on various proteins including surfactant protein A [49, 50] .",
+            "On the other hand, iNO may alleviate free radical toxicity, as NO has been shown to decrease lipid peroxidation and spare \u03b1-tocopherol by scavenging peroxy radicals [51, 52] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Within a European multicenter trial of NO inhalation for preterm infants to prevent BPD (EUNO trial) [45] , TA were collected at two study centers to determine the effects of iNO on pulmonary inflammation. We hypothesized that iNO reduces pro-inflammatory and profibrotic cytokines and ASM in TA. Furthermore, we hypothesized that iNO may be associated with a higher amount of nitrite and nitrotyrosine possibly indicating increased peroxynitrite formation.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Within a European multicenter trial of NO inhalation for preterm infants to prevent BPD (EUNO trial) [45] , TA were collected at two study centers to determine the effects of iNO on pulmonary inflammation.",
+            "We hypothesized that iNO reduces pro-inflammatory and profibrotic cytokines and ASM in TA.",
+            "Furthermore, we hypothesized that iNO may be associated with a higher amount of nitrite and nitrotyrosine possibly indicating increased peroxynitrite formation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "In brief, infants with a gestational age between 24 and 28 2/7 weeks were enrolled if they weighed at least 500 g and required surfactant or continuous positive airway pressure for RDS within 24 h of birth. Treatment was initiated within 2 h of enrollment, but not later than 26 h of life. Infants were randomized to receive either iNO (5 parts per million [ppm]) or placebo gas (nitrogen gas) for a minimum of 7 days and a maximum of 21 days in a double-blind fashion [45] . BPD at 36 weeks' postmenstrual age was defined by the physiological criteria of Walsh and colleagues [53, 54] . Infants enrolled at two of the study centers (Marburg and Ulm, Germany) were eligible for TA sampling if they were endotracheally intubated for mechanical ventilation.",
+        "section": "The EUNO trial",
+        "section_number": 5,
+        "sentences": [
+            "In brief, infants with a gestational age between 24 and 28 2/7 weeks were enrolled if they weighed at least 500 g and required surfactant or continuous positive airway pressure for RDS within 24 h of birth.",
+            "Treatment was initiated within 2 h of enrollment, but not later than 26 h of life.",
+            "Infants were randomized to receive either iNO (5 parts per million [ppm]) or placebo gas (nitrogen gas) for a minimum of 7 days and a maximum of 21 days in a double-blind fashion [45] .",
+            "BPD at 36 weeks' postmenstrual age was defined by the physiological criteria of Walsh and colleagues [53, 54] .",
+            "Infants enrolled at two of the study centers (Marburg and Ulm, Germany) were eligible for TA sampling if they were endotracheally intubated for mechanical ventilation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "This sub-study was specifically approved by the institutional review board (INOT27, reference number 220/2004, Ulm, Germany) which also oversaw the main trial. Written informed parental permission was obtained specifically for the sub-study (collection of TA samples), in addition to permission for enrollment in the study. After initiation of iNO or placebo gas treatment TA was collected during normal medically indicated endotracheal suctioning procedures on postnatal days (PD) 2, 4, 7, 14 and 21, unless the infant was extubated earlier. By protocol, infants also received the randomized gas at least until they were weaned off of ventilatory support or reached PD21. Herein, we report the TA data obtained between PD2 and PD14, since increasing numbers of infants were extubated within the study period resulting in a low statistical power for data obtained on PD21. If less than 4 specimens per sampling day were obtained, further specimen were collected on the following day. No samples were collected within 4 hours of a surfactant instillation. A standardized procedure was used. For sampling, a sterile mucus trap was inserted in the suctioning system, and 1 ml/kg birth weight of normal saline was instilled into the endotracheal tube, and the ventilator briefly reconnected (3-5 breaths). The suction catheter was then flushed with 0.5 ml normal saline. TA was transferred to an appropriate tube and immediately centrifuged with 140 x g at 4\u02daC for 10 minutes. The supernatant was transferred to cryotubes and frozen immediately below -20\u02daC. Within 72 hours, cryotubes were transferred to a -80\u02daC freezer and held at -80\u02daC until ready for shipment to the laboratory, which was done on dry ice.",
+        "section": "Tracheal aspirate sampling",
+        "section_number": 6,
+        "sentences": [
+            "This sub-study was specifically approved by the institutional review board (INOT27, reference number 220/2004, Ulm, Germany) which also oversaw the main trial.",
+            "Written informed parental permission was obtained specifically for the sub-study (collection of TA samples), in addition to permission for enrollment in the study.",
+            "After initiation of iNO or placebo gas treatment TA was collected during normal medically indicated endotracheal suctioning procedures on postnatal days (PD) 2, 4, 7, 14 and 21, unless the infant was extubated earlier.",
+            "By protocol, infants also received the randomized gas at least until they were weaned off of ventilatory support or reached PD21.",
+            "Herein, we report the TA data obtained between PD2 and PD14, since increasing numbers of infants were extubated within the study period resulting in a low statistical power for data obtained on PD21.",
+            "If less than 4 specimens per sampling day were obtained, further specimen were collected on the following day.",
+            "No samples were collected within 4 hours of a surfactant instillation.",
+            "A standardized procedure was used.",
+            "For sampling, a sterile mucus trap was inserted in the suctioning system, and 1 ml/kg birth weight of normal saline was instilled into the endotracheal tube, and the ventilator briefly reconnected (3-5 breaths).",
+            "The suction catheter was then flushed with 0.5 ml normal saline.",
+            "TA was transferred to an appropriate tube and immediately centrifuged with 140 x g at 4\u02daC for 10 minutes.",
+            "The supernatant was transferred to cryotubes and frozen immediately below -20\u02daC. Within 72 hours, cryotubes were transferred to a -80\u02daC freezer and held at -80\u02daC until ready for shipment to the laboratory, which was done on dry ice."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "All analyses were performed at the Institute of Pharmacology and Toxicology of the RWTH Aachen (Aachen, Germany). For the parameters IL-1\u03b2, IL-6, IL-8, IP-10 and MIP-1\u03b1 a Bio-Plex Cytokine assay (Bio-Rad Laboratories, Munich Germany) was used [55] . Enzyme-linked immunosorbent assays (ELISA) were used for albumin (# EA2201-1; AssayPro; St. Charles, USA), nitrotyrosine (# HK501; Cell Sciences; Canton, USA), and TGF-\u03b2 1 (# DB100B; R&D Systems GmbH, Wiesbaden-Nordenstadt, Germany). Furthermore, competitive binding assays were employed for LTB 4 (# KGE006B; R&D Systems GmbH) and NPY (# EK-049-03; Phoenix Europe GmbH, Karlsruhe, Germany). Nitrite concentration was analyzed using a Griess reaction assay (# KGE001; R&D Systems GmbH). All assays were performed according to the manufacturer's recommendations. For ASM, a proprietary assay was used [56] . Samples from the same patient and day were pooled to increase the amount and decrease variations of dilution. No attempt to normalize data was made since no uniformly accepted standard is currently available. We expressed the data per milliliter of TA as recommended by the European Respiratory Task Force on Bronchoalveolar Lavage in children [57, 58] and reported by others [59, 60] .",
+        "section": "Tracheal aspirate analyses",
+        "section_number": 7,
+        "sentences": [
+            "All analyses were performed at the Institute of Pharmacology and Toxicology of the RWTH Aachen (Aachen, Germany).",
+            "For the parameters IL-1\u03b2, IL-6, IL-8, IP-10 and MIP-1\u03b1 a Bio-Plex Cytokine assay (Bio-Rad Laboratories, Munich Germany) was used [55] .",
+            "Enzyme-linked immunosorbent assays (ELISA) were used for albumin (# EA2201-1; AssayPro; St. Charles, USA), nitrotyrosine (# HK501; Cell Sciences; Canton, USA), and TGF-\u03b2 1 (# DB100B; R&D Systems GmbH, Wiesbaden-Nordenstadt, Germany).",
+            "Furthermore, competitive binding assays were employed for LTB 4 (# KGE006B; R&D Systems GmbH) and NPY (# EK-049-03; Phoenix Europe GmbH, Karlsruhe, Germany).",
+            "Nitrite concentration was analyzed using a Griess reaction assay (# KGE001; R&D Systems GmbH).",
+            "All assays were performed according to the manufacturer's recommendations.",
+            "For ASM, a proprietary assay was used [56] .",
+            "Samples from the same patient and day were pooled to increase the amount and decrease variations of dilution.",
+            "No attempt to normalize data was made since no uniformly accepted standard is currently available.",
+            "We expressed the data per milliliter of TA as recommended by the European Respiratory Task Force on Bronchoalveolar Lavage in children [57, 58] and reported by others [59, 60] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Demographic and clinical outcome data were compared between iNO-and placebo-treated groups by Mann Whitney U test or Fisher's Exact test as appropriate using GraphPad Prism (version 6.05; GraphPad Software, Inc, San Diego, CA, USA). Measured TA concentrations were compared by mixed model two-way (factors being time and treatment) analyses of variance (ANOVA) with a heterogeneous first-order autoregressive covariance structure using SAS software 9.4 (GLIMMIX procedure, SAS Institute, Cary, NC). Post-tests were performed for the treatment effect on each day and p-values were adjusted for multiple comparisons by the simulated Shaffer procedure. In the figures, the effect of time is denoted below the x-axis, the overall effect of treatment to the right of the graphs, and the treatment effects on each single day at the respective time points.",
+        "section": "Statistical analyses",
+        "section_number": 8,
+        "sentences": [
+            "Demographic and clinical outcome data were compared between iNO-and placebo-treated groups by Mann Whitney U test or Fisher's Exact test as appropriate using GraphPad Prism (version 6.05; GraphPad Software, Inc, San Diego, CA, USA).",
+            "Measured TA concentrations were compared by mixed model two-way (factors being time and treatment) analyses of variance (ANOVA) with a heterogeneous first-order autoregressive covariance structure using SAS software 9.4 (GLIMMIX procedure, SAS Institute, Cary, NC).",
+            "Post-tests were performed for the treatment effect on each day and p-values were adjusted for multiple comparisons by the simulated Shaffer procedure.",
+            "In the figures, the effect of time is denoted below the x-axis, the overall effect of treatment to the right of the graphs, and the treatment effects on each single day at the respective time points."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "During the recruitment period from the years 2006-2008, 67 infants were enrolled in the original EUNO trial in the two study centers. Of these 67 infants, 49 infants were recruited for this sub-study. No TA could be obtained from 6 infants, because of extubation within the first 24 h of life in 4 infants and missing parental consent for TA sampling in 2 infants, resulting in 43 infants available for TA sampling. Of these 43 infants, 25 received iNO and 18 placebo gas. Demographic data were similar between the iNO-and placebo treated groups (Table 1) . Clinical sepsis was defined by the maximal C-reactive protein (CrP) exceeding 20 mg/L within the first 72 h of life. Blood cultures were negative for all infants. Mean airway pressures and FiO 2 represent maximum values observed before initiation of iNO or placebo gas treatment.",
+        "section": "Results",
+        "section_number": 9,
+        "sentences": [
+            "During the recruitment period from the years 2006-2008, 67 infants were enrolled in the original EUNO trial in the two study centers.",
+            "Of these 67 infants, 49 infants were recruited for this sub-study.",
+            "No TA could be obtained from 6 infants, because of extubation within the first 24 h of life in 4 infants and missing parental consent for TA sampling in 2 infants, resulting in 43 infants available for TA sampling.",
+            "Of these 43 infants, 25 received iNO and 18 placebo gas.",
+            "Demographic data were similar between the iNO-and placebo treated groups (Table 1) .",
+            "Clinical sepsis was defined by the maximal C-reactive protein (CrP) exceeding 20 mg/L within the first 72 h of life.",
+            "Blood cultures were negative for all infants.",
+            "Mean airway pressures and FiO 2 represent maximum values observed before initiation of iNO or placebo gas treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "TA levels were compared by mixed model ANOVA (Table 2 ) determining the effect of iNO treatment and postnatal age on the analyzed variables. Furthermore, the effect of iNO treatment was analyzed for each measured time point from PD2 to PD14. Nitrite levels in TA samples of iNO-treated infants were significantly higher over the complete study period (p<0.01; Fig 1A) . In particular, nitrite TA levels were significantly elevated by iNO on PD2 (iNO: 4.26 \u00b1 4.52 \u03bcM [mean \u00b1 SD] versus control: 1.14 \u00b1 1.18 \u03bcM; p<0.05), PD4 (iNO: 2.66 \u00b1 1.87 \u03bcM versus control: 1.0 \u00b1 0.79 \u03bcM; p<0.01) and PD14 (iNO: 3.16 \u00b1 1.54 \u03bcM versus control: 1.39 \u00b1 2.46 \u03bcM; p<0.05). Postnatal age did not affect nitrite TA levels which were constant over the study period. In contrast, nitrotyrosine TA concentrations were not different between iNO-treated infants and the placebo-treated control group, whereas nitrotyrosine levels decreased significantly over the study period in both groups (p<0.05; Fig 1B) . On PD7 and PD14 the majority of TA samples were negative for nitrotyrosine in both groups.",
+        "section": "Results",
+        "section_number": 10,
+        "sentences": [
+            "TA levels were compared by mixed model ANOVA (Table 2 ) determining the effect of iNO treatment and postnatal age on the analyzed variables.",
+            "Furthermore, the effect of iNO treatment was analyzed for each measured time point from PD2 to PD14.",
+            "Nitrite levels in TA samples of iNO-treated infants were significantly higher over the complete study period (p<0.01; Fig 1A) .",
+            "In particular, nitrite TA levels were significantly elevated by iNO on PD2 (iNO: 4.26 \u00b1 4.52 \u03bcM [mean \u00b1 SD] versus control: 1.14 \u00b1 1.18 \u03bcM; p<0.05), PD4 (iNO: 2.66 \u00b1 1.87 \u03bcM versus control: 1.0 \u00b1 0.79 \u03bcM; p<0.01) and PD14 (iNO: 3.16 \u00b1 1.54 \u03bcM versus control: 1.39 \u00b1 2.46 \u03bcM; p<0.05).",
+            "Postnatal age did not affect nitrite TA levels which were constant over the study period.",
+            "In contrast, nitrotyrosine TA concentrations were not different between iNO-treated infants and the placebo-treated control group, whereas nitrotyrosine levels decreased significantly over the study period in both groups (p<0.05; Fig 1B) .",
+            "On PD7 and PD14 the majority of TA samples were negative for nitrotyrosine in both groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "TGF-\u03b2 1 TA concentrations were significantly decreased by iNO on PD2 (iNO: 193 \u00b1 116 pg/ml versus control: 466 \u00b1 353 pg/ml; p<0.05; Fig 2A) . Furthermore, TGF-\u03b2 1 levels were Albumin p = 0.9069 p = 0.0073 LTB 4 p = 0.9153 p = 0.3528 NPY p = 0.5156 p = 0.8368 P-values of the main factor of the two-way ANOVA: treatment and time (postnatal age). None of the interaction effects was significant.",
+        "section": "Results",
+        "section_number": 11,
+        "sentences": [
+            "TGF-\u03b2 1 TA concentrations were significantly decreased by iNO on PD2 (iNO: 193 \u00b1 116 pg/ml versus control: 466 \u00b1 353 pg/ml; p<0.05; Fig 2A) .",
+            "Furthermore, TGF-\u03b2 1 levels were Albumin p = 0.9069 p = 0.0073 LTB 4 p = 0.9153 p = 0.3528 NPY p = 0.5156 p = 0.8368 P-values of the main factor of the two-way ANOVA: treatment and time (postnatal age).",
+            "None of the interaction effects was significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "doi:10.1371/journal.pone.0169352.t002",
+        "section": "Results",
+        "section_number": 12,
+        "sentences": [
+            "doi:10.1371/journal.pone.0169352.t002"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "lower in iNO-treated infants over the entire study period (p<0.05; Fig 2A) . Postnatal age did not significantly affect TGF-\u03b2 1 TA levels. IL-1\u03b2 TA levels were not significantly affected by iNO treatment (Fig 2B) . However, postnatal age strongly affected IL-1\u03b2 TA levels, which significantly increased from PD2 to PD14 in both groups (p<0.001; Fig 2B) . IL-6 TA concentrations were not affected by iNO treatment, but significantly increased with advancing postnatal age in both groups (p<0.05; Fig 2C) . NPY levels, in contrast were altered neither by postnatal age nor by iNO treatment (Fig 2D) . Among the chemokines, IP-10 TA levels were significantly decreased by iNO treatment on PD2 (iNO: 892 \u00b1 1,028 pg/ml versus control: 1,940 \u00b1 1,501 pg/ml; p<0.01; Fig 3A) . On PD4, PD7 and PD14 no differences for IP-10 were observed between the study groups. Postnatal age strongly affected IP-10 TA levels which significantly increased from PD2 to PD14 (p<0.001). In addition to TGF-\u03b2 1 and IP-10, IL-8 TA concentrations were significantly reduced by iNO on PD2 with 3,485 \u00b1 2,140 pg/ml in the iNO group compared to 14,262 \u00b1 22,931 pg/ml in the placebo-treated control group (p<0.05; Fig 3B) . No difference for IL-8 was observed on PD4, PD7 and PD14 between iNO-treated infants and the placebo-treated control group. Furthermore, IL-8 TA levels significantly increased from PD2 to PD14 in both groups (p<0.05). MIP-1\u03b1 TA levels were not significantly affected by iNO, but strongly increased in both, iNO-and placebo-treated infants from PD2 to PD14 (p<0.001, Fig 3C) . In contrast, LTB 4 TA levels were neither affected by postnatal age nor by iNO treatment (Fig 3D) .",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "lower in iNO-treated infants over the entire study period (p<0.05; Fig 2A) .",
+            "Postnatal age did not significantly affect TGF-\u03b2 1 TA levels.",
+            "IL-1\u03b2 TA levels were not significantly affected by iNO treatment (Fig 2B) .",
+            "However, postnatal age strongly affected IL-1\u03b2 TA levels, which significantly increased from PD2 to PD14 in both groups (p<0.001; Fig 2B) .",
+            "IL-6 TA concentrations were not affected by iNO treatment, but significantly increased with advancing postnatal age in both groups (p<0.05; Fig 2C) .",
+            "NPY levels, in contrast were altered neither by postnatal age nor by iNO treatment (Fig 2D) .",
+            "Among the chemokines, IP-10 TA levels were significantly decreased by iNO treatment on PD2 (iNO: 892 \u00b1 1,028 pg/ml versus control: 1,940 \u00b1 1,501 pg/ml; p<0.01; Fig 3A) .",
+            "On PD4, PD7 and PD14 no differences for IP-10 were observed between the study groups.",
+            "Postnatal age strongly affected IP-10 TA levels which significantly increased from PD2 to PD14 (p<0.001).",
+            "In addition to TGF-\u03b2 1 and IP-10, IL-8 TA concentrations were significantly reduced by iNO on PD2 with 3,485 \u00b1 2,140 pg/ml in the iNO group compared to 14,262 \u00b1 22,931 pg/ml in the placebo-treated control group (p<0.05; Fig 3B) .",
+            "No difference for IL-8 was observed on PD4, PD7 and PD14 between iNO-treated infants and the placebo-treated control group.",
+            "Furthermore, IL-8 TA levels significantly increased from PD2 to PD14 in both groups (p<0.05).",
+            "MIP-1\u03b1 TA levels were not significantly affected by iNO, but strongly increased in both, iNO-and placebo-treated infants from PD2 to PD14 (p<0.001, Fig 3C) .",
+            "In contrast, LTB 4 TA levels were neither affected by postnatal age nor by iNO treatment (Fig 3D) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "ASM TA concentrations were similar between iNO-and placebo-treated infants on PD2, PD4 and PD7, but the iNO group showed elevated ASM activities on PD14 with 11,631 \u00b1 6,822 pM/mg/h compared to the placebo-treated control group with 5,589 \u00b1 1,713 pM/mg/h (p<0.05; Fig 4A) . Moreover, ASM TA levels strongly increased over the study period from PD2 to PD14 in both groups (p<0.001). Finally, albumin TA levels were not affected by iNO treatment as no significant differences were observed between the study groups at PD2 to PD14, but advancing postnatal age significantly elevated albumin TA levels over the study period (p<0.01; Fig 4B) .",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "ASM TA concentrations were similar between iNO-and placebo-treated infants on PD2, PD4 and PD7, but the iNO group showed elevated ASM activities on PD14 with 11,631 \u00b1 6,822 pM/mg/h compared to the placebo-treated control group with 5,589 \u00b1 1,713 pM/mg/h (p<0.05; Fig 4A) .",
+            "Moreover, ASM TA levels strongly increased over the study period from PD2 to PD14 in both groups (p<0.001).",
+            "Finally, albumin TA levels were not affected by iNO treatment as no significant differences were observed between the study groups at PD2 to PD14, but advancing postnatal age significantly elevated albumin TA levels over the study period (p<0.01; Fig 4B) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "In conclusion, iNO treatment increased the nitrite and ASM concentrations in TA samples of preterm infants at individual time points, but had no effect on nitrotyrosine TA levels. Furthermore, TGF-\u03b2 1 TA levels were generally lower in iNO-treated infants, and IP-10 and IL-8 TA concentrations were transiently reduced by iNO treatment on PD2. Postnatal age, affected almost every analyzed TA variable, demonstrated by significant effects on nitrotyrosine, ASM, IP-10, IL-1\u03b2, IL-8, IL-6, albumin and MIP-1\u03b1 concentrations. Cytokine TA concentrations in infants treated with iNO compared to placebo-treated controls. Serial TA samples were obtained from PD2 to PD14. Data are displayed as the mean of TA levels and SD on a logarithmic scale. A: TGF-\u03b2 1 TA levels were overall decreased by iNO treatment (?, p<0.05) and specifically decreased on PD2 (?, p<0.05) in iNO-treated infants. B: IL-1\u03b2 TA levels were not significantly affected in iNO-treated infants and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001). C: IL-6 TA levels were not altered by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (#, p<0.05). D: NPY TA levels were not altered by iNO treatment or postnatal age. PD: postnatal day. doi:10.1371/journal.pone.0169352.g002",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "In conclusion, iNO treatment increased the nitrite and ASM concentrations in TA samples of preterm infants at individual time points, but had no effect on nitrotyrosine TA levels.",
+            "Furthermore, TGF-\u03b2 1 TA levels were generally lower in iNO-treated infants, and IP-10 and IL-8 TA concentrations were transiently reduced by iNO treatment on PD2.",
+            "Postnatal age, affected almost every analyzed TA variable, demonstrated by significant effects on nitrotyrosine, ASM, IP-10, IL-1\u03b2, IL-8, IL-6, albumin and MIP-1\u03b1 concentrations.",
+            "Cytokine TA concentrations in infants treated with iNO compared to placebo-treated controls.",
+            "Serial TA samples were obtained from PD2 to PD14.",
+            "Data are displayed as the mean of TA levels and SD on a logarithmic scale.",
+            "A: TGF-\u03b2 1 TA levels were overall decreased by iNO treatment (?,",
+            "p<0.05) and specifically decreased on PD2 (?,",
+            "p<0.05) in iNO-treated infants.",
+            "B: IL-1\u03b2 TA levels were not significantly affected in iNO-treated infants and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001).",
+            "C: IL-6 TA levels were not altered by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (#, p<0.05).",
+            "D: NPY TA levels were not altered by iNO treatment or postnatal age.",
+            "PD: postnatal day.",
+            "doi:10.1371/journal.pone.0169352.g002"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Inflammation is crucially involved in the development of BPD and results from an imbalance between pro-and anti-inflammatory mediators [61] . Mechanical ventilation triggers the pulmonary influx of neutrophils and macrophages that produce a variety of cytokines and other signalling molecules [61] . Herein, we sought to determine the effect of iNO treatment on pulmonary inflammatory mediators in TA of preterm infants as part of the EUNO trial [45] . Our study showed that iNO treatment of preterm infants significantly reduced early TA levels of TGF-\u03b2 1, IP-10 and IL-8. While the effect of iNO on TGF-\u03b2 1 persisted throughout the study, the effects on IP-10 and IL-8 were transient only. Furthermore, nitrite TA levels were Chemokine TA concentrations in infants treated with iNO compared to placebo-treated controls. Serial TA samples were obtained from PD2 to PD14. Data are displayed as the mean of TA levels and SD on a logarithmic scale. A: IP-10 TA levels were significantly decreased on PD2 in iNO-treated infants (??, p<0.01) and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001). B: IL-8 TA levels were significantly decreased on PD2 in iNO-treated infants (?, p<0.05) and increased with advancing postnatal age from PD2 to PD14 in both groups (#, p<0.05). C: MIP-1\u03b1 TA levels were not affected by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001). D: LTB 4 TA levels were not altered by iNO treatment or postnatal age. PD: postnatal day. doi:10.1371/journal.pone.0169352.g003",
+        "section": "Discussion",
+        "section_number": 16,
+        "sentences": [
+            "Inflammation is crucially involved in the development of BPD and results from an imbalance between pro-and anti-inflammatory mediators [61] .",
+            "Mechanical ventilation triggers the pulmonary influx of neutrophils and macrophages that produce a variety of cytokines and other signalling molecules [61] .",
+            "Herein, we sought to determine the effect of iNO treatment on pulmonary inflammatory mediators in TA of preterm infants as part of the EUNO trial [45] .",
+            "Our study showed that iNO treatment of preterm infants significantly reduced early TA levels of TGF-\u03b2 1, IP-10 and IL-8.",
+            "While the effect of iNO on TGF-\u03b2 1 persisted throughout the study, the effects on IP-10 and IL-8 were transient only.",
+            "Furthermore, nitrite TA levels were Chemokine TA concentrations in infants treated with iNO compared to placebo-treated controls.",
+            "Serial TA samples were obtained from PD2 to PD14.",
+            "Data are displayed as the mean of TA levels and SD on a logarithmic scale.",
+            "A: IP-10 TA levels were significantly decreased on PD2 in iNO-treated infants (??,",
+            "p<0.01) and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001).",
+            "B: IL-8 TA levels were significantly decreased on PD2 in iNO-treated infants (?,",
+            "p<0.05) and increased with advancing postnatal age from PD2 to PD14 in both groups (#, p<0.05).",
+            "C: MIP-1\u03b1 TA levels were not affected by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001).",
+            "D: LTB 4 TA levels were not altered by iNO treatment or postnatal age.",
+            "PD: postnatal day.",
+            "doi:10.1371/journal.pone.0169352.g003"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "increased by iNO treatment throughout the study period and ASM levels were increased after 2 weeks. To our knowledge, only one study has analyzed the impact of iNO treatment on pulmonary inflammatory mediators in preterm infants. In contrast to our results, this study found no significant changes in TA concentrations of IL-8, IL-1\u03b2 or TGF-\u03b2 1 induced by iNO [62] . These discrepancies might be due to the different study design, since we started iNO treatment within the first 24 h of life, employing low-dose iNO, whereas the study of Truog and colleagues started iNO treatment at PD7 with 20 ppm iNO. Most iNO effects observed in our study occurred early and transiently at PD2 and might not be detectable once the inflammatory response is already established.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "increased by iNO treatment throughout the study period and ASM levels were increased after 2 weeks.",
+            "To our knowledge, only one study has analyzed the impact of iNO treatment on pulmonary inflammatory mediators in preterm infants.",
+            "In contrast to our results, this study found no significant changes in TA concentrations of IL-8, IL-1\u03b2 or TGF-\u03b2 1 induced by iNO [62] .",
+            "These discrepancies might be due to the different study design, since we started iNO treatment within the first 24 h of life, employing low-dose iNO, whereas the study of Truog and colleagues started iNO treatment at PD7 with 20 ppm iNO.",
+            "Most iNO effects observed in our study occurred early and transiently at PD2 and might not be detectable once the inflammatory response is already established."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "NO is rapidly oxidized in vivo and the concentration of its metabolites, mainly nitrite and nitrate serve as biomarkers for NO [63] . Hence, iNO has been shown to dose-dependently affect nitrite and nitrate concentrations in TA and plasma, thereby demonstrating an effective delivery of iNO to the lung and the systemic circulation [64] . In line with this, we observed elevated TA levels of nitrite at PD2 and PD4, which remained elevated until PD14. In the presence of superoxide, NO may form peroxynitrite, which nitrates the phenolic residues of tyrosine, forming nitrotyrosine. We did not observe an increased nitrotyrosine TA concentration in the iNO group, and nitrotyrosine levels similarly decreased in both groups during the study period, which may be related to the diminishing exposure to supplemental oxygen with increasing postnatal age. A previous study showed that plasma nitrotyrosine concentrations were elevated during the first month of life in infants who developed BPD [65] . Another study on the therapeutic effects of iNO demonstrated that preterm infants whose nitrotyrosine levels decreased within the first 72 h of life were more likely to wean off of mechanical ventilation [66] . In agreement, another trial using iNO for preterm infants did not detect any changes of plasma nitrotyrosine Serial TA samples were obtained from PD2 to PD14. Data are displayed as the mean of TA levels and SD on a logarithmic scale A: ASM TA levels were significantly elevated on PD14 in iNO-treated infants (?, p<0.05) and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001). B: Albumin TA levels were not altered by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (##, p<0.01). PD: postnatal day. doi:10.1371/journal.pone.0169352.g004 levels induced by iNO, nor was the nitrotyrosine concentration altered in infants with BPD compared to infants without BPD [67, 68] .",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "NO is rapidly oxidized in vivo and the concentration of its metabolites, mainly nitrite and nitrate serve as biomarkers for NO [63] .",
+            "Hence, iNO has been shown to dose-dependently affect nitrite and nitrate concentrations in TA and plasma, thereby demonstrating an effective delivery of iNO to the lung and the systemic circulation [64] .",
+            "In line with this, we observed elevated TA levels of nitrite at PD2 and PD4, which remained elevated until PD14.",
+            "In the presence of superoxide, NO may form peroxynitrite, which nitrates the phenolic residues of tyrosine, forming nitrotyrosine.",
+            "We did not observe an increased nitrotyrosine TA concentration in the iNO group, and nitrotyrosine levels similarly decreased in both groups during the study period, which may be related to the diminishing exposure to supplemental oxygen with increasing postnatal age.",
+            "A previous study showed that plasma nitrotyrosine concentrations were elevated during the first month of life in infants who developed BPD [65] .",
+            "Another study on the therapeutic effects of iNO demonstrated that preterm infants whose nitrotyrosine levels decreased within the first 72 h of life were more likely to wean off of mechanical ventilation [66] .",
+            "In agreement, another trial using iNO for preterm infants did not detect any changes of plasma nitrotyrosine Serial TA samples were obtained from PD2 to PD14.",
+            "Data are displayed as the mean of TA levels and SD on a logarithmic scale A: ASM TA levels were significantly elevated on PD14 in iNO-treated infants (?,",
+            "p<0.05) and increased with advancing postnatal age from PD2 to PD14 in both groups (###, p<0.001).",
+            "B: Albumin TA levels were not altered by iNO treatment and increased with advancing postnatal age from PD2 to PD14 in both groups (##, p<0.01).",
+            "PD: postnatal day.",
+            "doi:10.1371/journal.pone.0169352.g004 levels induced by iNO, nor was the nitrotyrosine concentration altered in infants with BPD compared to infants without BPD [67, 68] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Early increases of pro-fibrotic TGF-\u03b2 1 in TA have been demonstrated in preterm infants that subsequently developed BPD [14] , which was most pronounced on PD2 to PD4 [14, 60] . Therefore, an increase of TGF-\u03b2 1 may represent an early event in the process leading to BPD that precedes abnormalities in lung function due to tissue remodeling and fibrosis (see review [69] ). We demonstrated significantly lower TGF-\u03b2 1 TA levels in iNO-treated infants from PD2 on. Most important for the preterm lung, TGF-\u03b2 1 has been shown to inhibit epithelial cell maturation and the synthesis of phospholipids and surfactant proteins A, B and C in human fetal lung explants [70] . In agreement, one study demonstrated a transiently improved surfactant function in preterm infants undergoing iNO treatment [71] . TGF-\u03b2 1 activates fibroblast differentiation into myofibroblasts [72] and induces alveolar and bronchial epithelial cells to undergo epithelial-mesenchymal-transition [73, 74] , which contributes to interstitial thickening and fibrosis in vivo [75] . Notably, exogenous NO has been shown to attenuate epithelial-mesenchymal-transition induced by TGF-\u03b2 1 in alveolar epithelial cells [76] and iNO therapy has been shown to reduce hyperoxia-induced fibrin deposition and septal thickening in rat pups [77] . Interestingly, TGF-\u03b2 1 has recently been shown to inhibit \u03b2 2 -adrenergic receptor-mediated fluid transport across rat alveolar type II cell monolayers and alveolar fluid clearance (AFC) in vivo by down-regulation of \u03b2 2 -adrenergic receptors [78, 79] . AFC is crucially involved in resolution of pulmonary fluid at birth and a TGF-\u03b2 1 -mediated AFC reduction possibly contributes to prolonged ventilator dependence of preterm infants leading to the development of BPD. Therefore, a reduction of early TGF-\u03b2 1 levels in preterm infants at risk of developing BPD by iNO treatment might suggest a beneficial clinical outcome.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "Early increases of pro-fibrotic TGF-\u03b2 1 in TA have been demonstrated in preterm infants that subsequently developed BPD [14] , which was most pronounced on PD2 to PD4 [14, 60] .",
+            "Therefore, an increase of TGF-\u03b2 1 may represent an early event in the process leading to BPD that precedes abnormalities in lung function due to tissue remodeling and fibrosis (see review [69] ).",
+            "We demonstrated significantly lower TGF-\u03b2 1 TA levels in iNO-treated infants from PD2 on.",
+            "Most important for the preterm lung, TGF-\u03b2 1 has been shown to inhibit epithelial cell maturation and the synthesis of phospholipids and surfactant proteins A, B and C in human fetal lung explants [70] .",
+            "In agreement, one study demonstrated a transiently improved surfactant function in preterm infants undergoing iNO treatment [71] .",
+            "TGF-\u03b2 1 activates fibroblast differentiation into myofibroblasts [72] and induces alveolar and bronchial epithelial cells to undergo epithelial-mesenchymal-transition [73, 74] , which contributes to interstitial thickening and fibrosis in vivo [75] .",
+            "Notably, exogenous NO has been shown to attenuate epithelial-mesenchymal-transition induced by TGF-\u03b2 1 in alveolar epithelial cells [76] and iNO therapy has been shown to reduce hyperoxia-induced fibrin deposition and septal thickening in rat pups [77] .",
+            "Interestingly, TGF-\u03b2 1 has recently been shown to inhibit \u03b2 2 -adrenergic receptor-mediated fluid transport across rat alveolar type II cell monolayers and alveolar fluid clearance (AFC) in vivo by down-regulation of \u03b2 2 -adrenergic receptors [78, 79] .",
+            "AFC is crucially involved in resolution of pulmonary fluid at birth and a TGF-\u03b2 1 -mediated AFC reduction possibly contributes to prolonged ventilator dependence of preterm infants leading to the development of BPD.",
+            "Therefore, a reduction of early TGF-\u03b2 1 levels in preterm infants at risk of developing BPD by iNO treatment might suggest a beneficial clinical outcome."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Our study further showed that iNO treatment reduced the TA levels of different pro-inflammatory cytokines. First, the downstream target of IFN-\u03b3, the chemokine IP-10 showed increasing TA concentrations during the study period in both groups, yet iNO treatment significantly reduced IP-10 levels at PD2, compared to the placebo-treated group. In a study of ventilated preterm infants, the IFN-\u03b3 and IP-10 TA levels were higher within the first 48 h of life in infants that developed BPD or died [80, 81] , suggesting that increases in IFN-\u03b3 and IP-10 levels precede neutrophil infiltration and could therefore represent critical early response molecules in the development of BPD [82] , similar to what has been suggested for ARDS [22] . Thus, the early reduction of IP-10 levels by iNO might indicate a diminished inflammatory status in those infants that might be accompanied by a reduced recruitment of inflammatory cells to the lung. This is supported by an experimental BPD model of mechanically ventilated premature lambs in which low-dose iNO (5 ppm) decreased early lung neutrophil recruitment and accumulation [33] . However, the effect of iNO on IP-10 levels was transient. In addition, increased IL-8 TA levels have been described on PD1 and PD3 in preterm infants who subsequently developed BPD, preceding the neutrophil infiltration [83] [84] [85] ; however, elevated TA IL-8 levels also seem to be associated with BPD development in older infants [13, 86] . Here we found a rise of IL-8 TA concentrations during the study period and iNO treatment significantly reduced IL-8 TA levels at PD2. Since early IL-8 TA elevations supposedly precede neutrophil infiltrations in BPD risk infants [83] , an early reduction induced by iNO might reduce neutrophil recruitment to the lung. In agreement with our results, iNO treatment has been shown to reduce BAL IL-8 concentrations and neutrophil infiltration in a pig model of lung injury [87] and human patients with ARDS [88] . Similar to IP-10, the effect of iNO on IL-8 levels was transient. The reason for this observation is currently unknown, but decreasing NO absorption or an elevated first-pass effect seems unlikely, since nitrite TA levels were relatively stable over the study period. Because infants are extubated as soon as possible, thus limiting TA sampling, a selection towards the more serious cases or patients in which iNO treatment failed to improve inflammatory mediator levels possibly contributes to the early transient effects of iNO. Another possible reason for the transient effect of iNO might be due to the development of tolerance to the clinical and physiological effects of NO upon continuous administration [89] . The mechanism of tolerance to NO donors has been thoroughly investigated, especially in the treatment of cardiovascular diseases, but remains mainly elusive and highly debated. Notably, tolerance to nitrovasodilators generally begins to develop within 24 to 48 h of continuous application [89] , and could thus be an explanation for the early transient effects of iNO observed in our study. Next-generation NO donors with improved pharmacokinetic properties might be able to prolong the anti-inflammatory effects of NO treatment in critically ill preterm infants.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "Our study further showed that iNO treatment reduced the TA levels of different pro-inflammatory cytokines.",
+            "First, the downstream target of IFN-\u03b3, the chemokine IP-10 showed increasing TA concentrations during the study period in both groups, yet iNO treatment significantly reduced IP-10 levels at PD2, compared to the placebo-treated group.",
+            "In a study of ventilated preterm infants, the IFN-\u03b3 and IP-10 TA levels were higher within the first 48 h of life in infants that developed BPD or died [80, 81] , suggesting that increases in IFN-\u03b3 and IP-10 levels precede neutrophil infiltration and could therefore represent critical early response molecules in the development of BPD [82] , similar to what has been suggested for ARDS [22] .",
+            "Thus, the early reduction of IP-10 levels by iNO might indicate a diminished inflammatory status in those infants that might be accompanied by a reduced recruitment of inflammatory cells to the lung.",
+            "This is supported by an experimental BPD model of mechanically ventilated premature lambs in which low-dose iNO (5 ppm) decreased early lung neutrophil recruitment and accumulation [33] .",
+            "However, the effect of iNO on IP-10 levels was transient.",
+            "In addition, increased IL-8 TA levels have been described on PD1 and PD3 in preterm infants who subsequently developed BPD, preceding the neutrophil infiltration [83] [84] [85] ; however, elevated TA IL-8 levels also seem to be associated with BPD development in older infants [13, 86] .",
+            "Here we found a rise of IL-8 TA concentrations during the study period and iNO treatment significantly reduced IL-8 TA levels at PD2.",
+            "Since early IL-8 TA elevations supposedly precede neutrophil infiltrations in BPD risk infants [83] , an early reduction induced by iNO might reduce neutrophil recruitment to the lung.",
+            "In agreement with our results, iNO treatment has been shown to reduce BAL IL-8 concentrations and neutrophil infiltration in a pig model of lung injury [87] and human patients with ARDS [88] .",
+            "Similar to IP-10, the effect of iNO on IL-8 levels was transient.",
+            "The reason for this observation is currently unknown, but decreasing NO absorption or an elevated first-pass effect seems unlikely, since nitrite TA levels were relatively stable over the study period.",
+            "Because infants are extubated as soon as possible, thus limiting TA sampling, a selection towards the more serious cases or patients in which iNO treatment failed to improve inflammatory mediator levels possibly contributes to the early transient effects of iNO.",
+            "Another possible reason for the transient effect of iNO might be due to the development of tolerance to the clinical and physiological effects of NO upon continuous administration [89] .",
+            "The mechanism of tolerance to NO donors has been thoroughly investigated, especially in the treatment of cardiovascular diseases, but remains mainly elusive and highly debated.",
+            "Notably, tolerance to nitrovasodilators generally begins to develop within 24 to 48 h of continuous application [89] , and could thus be an explanation for the early transient effects of iNO observed in our study.",
+            "Next-generation NO donors with improved pharmacokinetic properties might be able to prolong the anti-inflammatory effects of NO treatment in critically ill preterm infants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "We further observed increased ASM TA activities in iNO-treated infants on PD14. Although the function of circulating ASM is presently unknown, elevated ASM levels were found in different respiratory disorders (see reviews [27, 90] ), and we demonstrated increasing ASM activities throughout the current study in critically ill infants of both groups. Currently, it is unknown if BPD development in preterm infants is associated with ASM activity or ceramide levels. Many agonists, including tumor necrosis factor (TNF)-\u03b1 and platelet activating factor (PAF) stimulate ceramide production [90] and PAF-induced pulmonary edema is partly mediated by ASM and ceramide [56] . On the other hand, inhibition of the ASM pathway as well as the de novo synthesis pathway of ceramide was shown to elevate IL-8 production in TNF-\u03b1 stimulated respiratory epithelial cells, suggesting that ASM and ceramide may be involved in terminating an ongoing IL-8 production [91] . By contrast, ceramide has been shown to trigger IL-1\u03b2 release in a mouse model of acute lung injury [92] . Yet, IL-1\u03b2 TA levels were not elevated by iNO at PD14, suggesting that the up-regulation of ASM TA activities did not elevate the level of inflammatory mediators analyzed in our study. Finally, IL-6, albumin, LTB 4 and NPY TA levels were not significantly altered by iNO treatment compared to placebo-treated infants, but in contrast to LTB 4 and NPY, IL-6 and albumin TA levels increased throughout the study in both groups.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "We further observed increased ASM TA activities in iNO-treated infants on PD14.",
+            "Although the function of circulating ASM is presently unknown, elevated ASM levels were found in different respiratory disorders (see reviews [27, 90] ), and we demonstrated increasing ASM activities throughout the current study in critically ill infants of both groups.",
+            "Currently, it is unknown if BPD development in preterm infants is associated with ASM activity or ceramide levels.",
+            "Many agonists, including tumor necrosis factor (TNF)-\u03b1 and platelet activating factor (PAF) stimulate ceramide production [90] and PAF-induced pulmonary edema is partly mediated by ASM and ceramide [56] .",
+            "On the other hand, inhibition of the ASM pathway as well as the de novo synthesis pathway of ceramide was shown to elevate IL-8 production in TNF-\u03b1 stimulated respiratory epithelial cells, suggesting that ASM and ceramide may be involved in terminating an ongoing IL-8 production [91] .",
+            "By contrast, ceramide has been shown to trigger IL-1\u03b2 release in a mouse model of acute lung injury [92] .",
+            "Yet, IL-1\u03b2 TA levels were not elevated by iNO at PD14, suggesting that the up-regulation of ASM TA activities did not elevate the level of inflammatory mediators analyzed in our study.",
+            "Finally, IL-6, albumin, LTB 4 and NPY TA levels were not significantly altered by iNO treatment compared to placebo-treated infants, but in contrast to LTB 4 and NPY, IL-6 and albumin TA levels increased throughout the study in both groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "Several clinical trials have evaluated whether iNO reduces the mortality or the incidence of BPD in preterm infants with sometimes contradictory results [42, 67] . The EUNO trial demonstrated that the early use of low-dose iNO (5 ppm) in very premature infants did not improve survival without BPD [45] . Inconsistencies between different iNO trials may be due to differences in dose, duration, age at treatment initiation, study population and/or other factors [93] . Therefore, results of these clinical trials are not conclusive and the use of iNO treatment for preterm infants to prevent BPD is currently not recommended [94] . Notably, a multicenter, randomized trial comparing high-frequency oscillatory ventilation with conventional ventilation in the early treatment of respiratory disease in very preterm infants showed no difference for the primary endpoint death or BPD incidence [95] . However, the follow-up of this trial demonstrated superior lung function at 11 to 14 years of age in former infants assigned to high-frequency oscillatory ventilation [96] . This suggests a beneficial outcome, although BPD incidence did not differ in the initial trial. With regard to this long term outcome, follow-up results for iNO therapy are currently awaited and BPD incidence possibly constitutes an imprecise endpoint to predict clinical benefits.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Several clinical trials have evaluated whether iNO reduces the mortality or the incidence of BPD in preterm infants with sometimes contradictory results [42, 67] .",
+            "The EUNO trial demonstrated that the early use of low-dose iNO (5 ppm) in very premature infants did not improve survival without BPD [45] .",
+            "Inconsistencies between different iNO trials may be due to differences in dose, duration, age at treatment initiation, study population and/or other factors [93] .",
+            "Therefore, results of these clinical trials are not conclusive and the use of iNO treatment for preterm infants to prevent BPD is currently not recommended [94] .",
+            "Notably, a multicenter, randomized trial comparing high-frequency oscillatory ventilation with conventional ventilation in the early treatment of respiratory disease in very preterm infants showed no difference for the primary endpoint death or BPD incidence [95] .",
+            "However, the follow-up of this trial demonstrated superior lung function at 11 to 14 years of age in former infants assigned to high-frequency oscillatory ventilation [96] .",
+            "This suggests a beneficial outcome, although BPD incidence did not differ in the initial trial.",
+            "With regard to this long term outcome, follow-up results for iNO therapy are currently awaited and BPD incidence possibly constitutes an imprecise endpoint to predict clinical benefits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "A limitation of this study was the small sample size, increasing the likelihood of statistical errors. Moreover, because in clinical practice infants are extubated as soon as feasible to limit potential damage from continuing ventilation, the number of infants of whom TA could be obtained declined with increasing postnatal age. This results in fewer TA samples and hence lower statistical power for TA analyses of infants older than one week. Furthermore, because of the limited sample size not all mediators could be measured from each TA sample. Therefore, subsequent trials with larger groups are required to confirm these results. We further did not include clinical characteristics such as maternal chorioamnionitis, PPROM, ventilator parameters, FiO 2 requirements or sepsis as confounding variables in our analyses, which may play a role in release of inflammatory mediators. In addition, it is controversial whether TA should be corrected for dilution, using techniques such as albumin content, urea or secretory immunoglobulin A concentrations. Currently, no uniformly accepted correction factor to normalize cytokine TA levels exists, which impedes comparison of results obtained by different normalization procedures. As recommended by the European Respiratory Task Force on Bronchoalveolar Lavage in children [57, 58] , we did not correct our results for the dilution during TA sampling, and expressed our data per milliliter of TA.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "A limitation of this study was the small sample size, increasing the likelihood of statistical errors.",
+            "Moreover, because in clinical practice infants are extubated as soon as feasible to limit potential damage from continuing ventilation, the number of infants of whom TA could be obtained declined with increasing postnatal age.",
+            "This results in fewer TA samples and hence lower statistical power for TA analyses of infants older than one week.",
+            "Furthermore, because of the limited sample size not all mediators could be measured from each TA sample.",
+            "Therefore, subsequent trials with larger groups are required to confirm these results.",
+            "We further did not include clinical characteristics such as maternal chorioamnionitis, PPROM, ventilator parameters, FiO 2 requirements or sepsis as confounding variables in our analyses, which may play a role in release of inflammatory mediators.",
+            "In addition, it is controversial whether TA should be corrected for dilution, using techniques such as albumin content, urea or secretory immunoglobulin A concentrations.",
+            "Currently, no uniformly accepted correction factor to normalize cytokine TA levels exists, which impedes comparison of results obtained by different normalization procedures.",
+            "As recommended by the European Respiratory Task Force on Bronchoalveolar Lavage in children [57, 58] , we did not correct our results for the dilution during TA sampling, and expressed our data per milliliter of TA."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "In conclusion, the study showed that the TA levels of IP-10, IL-6, IL-8, MIP-1\u03b1, IL-1\u03b2, ASM and albumin increased with advancing postnatal age in critically ill preterm infants, whereas nitrotyrosine TA levels declined in both iNO-treated and placebo-treated infants. Furthermore, iNO treatment strongly increased nitrite TA levels throughout the study period. Besides, a delayed increase of ASM TA levels induced by iNO was detected. A beneficial effect of iNO was demonstrated on early inflammatory/fibrotic markers including TGF-\u03b2 1 , IP-10 and IL-8. Whether the demonstrated reduction of early inflammatory mediators possibly improves long-term lung function has to be determined in follow-up studies, since BPD incidence was not affected by iNO treatment in the EUNO trial [45] . ",
+        "section": "Conclusions",
+        "section_number": 24,
+        "sentences": [
+            "In conclusion, the study showed that the TA levels of IP-10, IL-6, IL-8, MIP-1\u03b1, IL-1\u03b2, ASM and albumin increased with advancing postnatal age in critically ill preterm infants, whereas nitrotyrosine TA levels declined in both iNO-treated and placebo-treated infants.",
+            "Furthermore, iNO treatment strongly increased nitrite TA levels throughout the study period.",
+            "Besides, a delayed increase of ASM TA levels induced by iNO was detected.",
+            "A beneficial effect of iNO was demonstrated on early inflammatory/fibrotic markers including TGF-\u03b2 1 , IP-10 and IL-8.",
+            "Whether the demonstrated reduction of early inflammatory mediators possibly improves long-term lung function has to be determined in follow-up studies, since BPD incidence was not affected by iNO treatment in the EUNO trial [45] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "PLOS ONE | DOI:10.1371/journal.pone.0169352 January 3, 2017",
+        "section": "",
+        "section_number": 25,
+        "sentences": [
+            "PLOS ONE | DOI:10.1371/journal.pone.0169352 January 3, 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39740",
+        "text": "PLOS ONE | DOI:10.1371/journal.pone.0169352 January 3,",
+        "section": "",
+        "section_number": 26,
+        "sentences": [
+            "PLOS ONE | DOI:10.1371/journal.pone.0169352 January 3,"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

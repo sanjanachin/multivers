@@ -1,0 +1,377 @@
+[
+    {
+        "doc_id": "42528",
+        "text": "We compared results of a modified version of the Asthma Control Test using parent proxy report (PP-ACT) with results reported by children and parents using the validated Childhood-Asthma Control Test (C-ACT). 104 parent-child dyads with a child aged 6 to 12 years with asthma were randomized to complete PP-ACT followed by C-ACT or C-ACT followed by PP-ACT. Scores \u226419 indicated uncontrolled asthma. We calculated sensitivity, specificity, positive predictive value, and negative predictive value for the PP-ACT in comparison with the C-ACT, and calculated concordance between the 2 scales. The PP-ACT had sensitivity of 86% and negative predictive value of 88% for detecting uncontrolled asthma. More than 75% of surveys were concordant (\u03ba = 0.54, moderate agreement). Our results suggest that while the PP-ACT missed few children with uncontrolled asthma and may simplify reporting of asthma control in circumstances when child report is not feasible or creates barriers to survey receipt, limitations of proxy reporting should be considered.",
+        "section": "Abstract",
+        "sentences": [
+            "We compared results of a modified version of the Asthma Control Test using parent proxy report (PP-ACT) with results reported by children and parents using the validated Childhood-Asthma Control Test (C-ACT).",
+            "104 parent-child dyads with a child aged 6 to 12 years with asthma were randomized to complete PP-ACT followed by C-ACT or C-ACT followed by PP-ACT.",
+            "Scores \u226419 indicated uncontrolled asthma.",
+            "We calculated sensitivity, specificity, positive predictive value, and negative predictive value for the PP-ACT in comparison with the C-ACT, and calculated concordance between the 2 scales.",
+            "The PP-ACT had sensitivity of 86% and negative predictive value of 88% for detecting uncontrolled asthma.",
+            "More than 75% of surveys were concordant (\u03ba = 0.54, moderate agreement).",
+            "Our results suggest that while the PP-ACT missed few children with uncontrolled asthma and may simplify reporting of asthma control in circumstances when child report is not feasible or creates barriers to survey receipt, limitations of proxy reporting should be considered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Asthma is the most common chronic childhood condition affecting nearly 7 million children in the United States. 1 Updated national guidelines emphasize the need for people with asthma to actively participate in their own care, and encourage health professionals to support the participation of patients and their families in asthma management in both the home and clinical settings. 2 Since asthma symptoms change over time and require modification of treatment, ongoing monitoring of asthma control is an essential component of asthma management between office visits. Asthma care plans are one tool that may help families actively participate in asthma management and address variation in symptoms over time; however, children with poor control may need optimization of therapy between office visits that is outside the scope of their care plan. 3 To support ongoing tailoring of asthma care, health information technology, such as patient portals and mobile applications, 4 provide an opportunity to collect patient reported outcomes and monitor asthma control between office visits.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Asthma is the most common chronic childhood condition affecting nearly 7 million children in the United States.",
+            "1 Updated national guidelines emphasize the need for people with asthma to actively participate in their own care, and encourage health professionals to support the participation of patients and their families in asthma management in both the home and clinical settings.",
+            "2 Since asthma symptoms change over time and require modification of treatment, ongoing monitoring of asthma control is an essential component of asthma management between office visits.",
+            "Asthma care plans are one tool that may help families actively participate in asthma management and address variation in symptoms over time; however, children with poor control may need optimization of therapy between office visits that is outside the scope of their care plan.",
+            "3 To support ongoing tailoring of asthma care, health information technology, such as patient portals and mobile applications, 4 provide an opportunity to collect patient reported outcomes and monitor asthma control between office visits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "However, a key component needed for ongoing asthma management is accurate assessment of asthma control, which presents a challenge as data suggest that patients and physicians often overestimate asthma control. 5 To facilitate accurate report of asthma control, standard measures have been developed, which for pediatric patients often include report by the parent and the child. [6] [7] [8] The Asthma Control Test (ACT) is among the most commonly used measures of asthma control in both research and clinical settings, and is currently validated for use in patients aged 12 years and older. 7, 9, 10 A related measure, the Childhood-Asthma Control Test (C-ACT) has been validated for in-person administration with report by both children ages 4 to 12 years and their parents. 8 While the C-ACT relies on both parent and child report of asthma control, in some circumstances it may only be possible to obtain parent report. For example, as monitoring of asthma among families at home is increasingly completed online or with mobile apps, children may not always be available when parents complete assessments and young children may lack cell phones needed to provide their own report. Also, simplifying workflows, in this case by including only a parent informant, may substantially increase the rates of survey completion. 11 In a recent study, Nkoy et al 12 adapted the ACT to allow for weekly, rather than monthly, reporting of asthma symptoms and validated this modified measure using either child report or parent report alone. However, prior studies have not compared the results of parent proxy report of asthma control for young children to report by both the parent and the child. We conducted this study to compare the results of a parent proxyreported ACT (PP-ACT) to those of the C-ACT and to explore differences between the two measures to inform the collection of data on asthma control in situations where report from both parent and child is not feasible.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "However, a key component needed for ongoing asthma management is accurate assessment of asthma control, which presents a challenge as data suggest that patients and physicians often overestimate asthma control.",
+            "5 To facilitate accurate report of asthma control, standard measures have been developed, which for pediatric patients often include report by the parent and the child. [",
+            "6] [7] [8] The Asthma Control Test (ACT) is among the most commonly used measures of asthma control in both research and clinical settings, and is currently validated for use in patients aged 12 years and older.",
+            "7, 9, 10 A related measure, the Childhood-Asthma Control Test (C-ACT) has been validated for in-person administration with report by both children ages 4 to 12 years and their parents.",
+            "8 While the C-ACT relies on both parent and child report of asthma control, in some circumstances it may only be possible to obtain parent report.",
+            "For example, as monitoring of asthma among families at home is increasingly completed online or with mobile apps, children may not always be available when parents complete assessments and young children may lack cell phones needed to provide their own report.",
+            "Also, simplifying workflows, in this case by including only a parent informant, may substantially increase the rates of survey completion.",
+            "11 In a recent study, Nkoy et al 12 adapted the ACT to allow for weekly, rather than monthly, reporting of asthma symptoms and validated this modified measure using either child report or parent report alone.",
+            "However, prior studies have not compared the results of parent proxy report of asthma control for young children to report by both the parent and the child.",
+            "We conducted this study to compare the results of a parent proxyreported ACT (PP-ACT) to those of the C-ACT and to explore differences between the two measures to inform the collection of data on asthma control in situations where report from both parent and child is not feasible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Parent-child dyads were approached at 2 urban primary care clinics within The Children's Hospital of Philadelphia (CHOP) Pediatric Research Consortium (PeRC), a hospital-owned primary care practice-based research network. 5 A total of 104 parent-child dyads were recruited between February and August 2014 at office visits. Eligible families had a child between the ages of 6 and 12 years with a diagnosis of asthma at the time of the visit. Non-English speakers were excluded because translations of the PP-ACT were not available.",
+        "section": "Patient Population and Setting",
+        "section_number": 3,
+        "sentences": [
+            "Parent-child dyads were approached at 2 urban primary care clinics within The Children's Hospital of Philadelphia (CHOP) Pediatric Research Consortium (PeRC), a hospital-owned primary care practice-based research network.",
+            "5 A total of 104 parent-child dyads were recruited between February and August 2014 at office visits.",
+            "Eligible families had a child between the ages of 6 and 12 years with a diagnosis of asthma at the time of the visit.",
+            "Non-English speakers were excluded because translations of the PP-ACT were not available."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Eligible children were identified using rosters generated from the electronic health record (EHR). 13 A member of the research team then approached families at the time of the visit and invited them to participate. Parents provided written consent for their participation and for their child's participation; assent was also obtained from children. Parents completed a version of the ACT that was modified for parent proxy report of their child's asthma control (PP-ACT). Parents and their children also completed the validated C-ACT that includes both parentand child-reported components. Participating families were given $15 as an incentive on completion of study measures. The CHOP Institutional Review Board approved the study.",
+        "section": "Study Procedures",
+        "section_number": 4,
+        "sentences": [
+            "Eligible children were identified using rosters generated from the electronic health record (EHR).",
+            "13 A member of the research team then approached families at the time of the visit and invited them to participate.",
+            "Parents provided written consent for their participation and for their child's participation; assent was also obtained from children.",
+            "Parents completed a version of the ACT that was modified for parent proxy report of their child's asthma control (PP-ACT).",
+            "Parents and their children also completed the validated C-ACT that includes both parentand child-reported components.",
+            "Participating families were given $15 as an incentive on completion of study measures.",
+            "The CHOP Institutional Review Board approved the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Parent-child dyads were randomized to receive either the PP-ACT followed by C-ACT (group A) or C-ACT followed by PP-ACT (group B) to minimize bias due to order effects. Randomization proceeded by obtaining a sequence of group assignments for participants randomly permuted in blocks of varying sizes (sizes of 2, 4, 6, or 8), where the size and order of the blocks were also random. Such a randomization procedure is useful as it maintains blinding by concealing the pattern and size of the blocks. Sealed envelopes were used for allocation concealment. Randomization was blinded at the time of allocation only.",
+        "section": "Randomization",
+        "section_number": 5,
+        "sentences": [
+            "Parent-child dyads were randomized to receive either the PP-ACT followed by C-ACT (group A) or C-ACT followed by PP-ACT (group B) to minimize bias due to order effects.",
+            "Randomization proceeded by obtaining a sequence of group assignments for participants randomly permuted in blocks of varying sizes (sizes of 2, 4, 6, or 8), where the size and order of the blocks were also random.",
+            "Such a randomization procedure is useful as it maintains blinding by concealing the pattern and size of the blocks.",
+            "Sealed envelopes were used for allocation concealment.",
+            "Randomization was blinded at the time of allocation only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "The original ACT is currently validated for patients 12 years and older. 7 The ACT contains 5 items, scored on a 5-point Likert-type scale, assessing asthma symptoms (daytime and nocturnal), use of rescue medications, perceived asthma control and effect of asthma on daily functioning in the previous 4 weeks. Responses for each of the items are summed to yield a score ranging from 5 to 25. Control is classified on a 2-tier scale with \u226419 indicating uncontrolled asthma and >19 corresponding with well-controlled asthma. 7, 9 The C-ACT was adapted from the ACT in order to address the specific challenges of assessing asthma control in children. The C-ACT is validated in children aged 4 to 11 years and includes 7 questions, 4 answered by children (assessing current asthma symptoms, symptoms during activity and at night) and 3 by parents (assessing daytime and nocturnal symptoms and wheezing). In the C-ACT, asthma is classified as uncontrolled at the same threshold as with the original ACT. 8 To ensure face validity, the PP-ACT tested in this study contained the same five items and response options as the validated ACT, but language was modified slightly to accommodate parent proxy reporting. For example, the question \"During the past 4 weeks, how often have you had shortness of breath?\" was changed to \"During the past 4 weeks, how often has your child had shortness of breath?\" The full list of items in the PP-ACT are shown in Table 1 . As in the original ACT and the C-ACT, we considered asthma uncontrolled when PP-ACT scores were \u226419. The PP-ACT was based on the original validated ACT, rather than the version modified by Nkoy et al 12 for weekly report.",
+        "section": "Asthma Measures",
+        "section_number": 6,
+        "sentences": [
+            "The original ACT is currently validated for patients 12 years and older.",
+            "7 The ACT contains 5 items, scored on a 5-point Likert-type scale, assessing asthma symptoms (daytime and nocturnal), use of rescue medications, perceived asthma control and effect of asthma on daily functioning in the previous 4 weeks.",
+            "Responses for each of the items are summed to yield a score ranging from 5 to 25.",
+            "Control is classified on a 2-tier scale with \u226419 indicating uncontrolled asthma and >19 corresponding with well-controlled asthma.",
+            "7, 9 The C-ACT was adapted from the ACT in order to address the specific challenges of assessing asthma control in children.",
+            "The C-ACT is validated in children aged 4 to 11 years and includes 7 questions, 4 answered by children (assessing current asthma symptoms, symptoms during activity and at night) and 3 by parents (assessing daytime and nocturnal symptoms and wheezing).",
+            "In the C-ACT, asthma is classified as uncontrolled at the same threshold as with the original ACT.",
+            "8 To ensure face validity, the PP-ACT tested in this study contained the same five items and response options as the validated ACT, but language was modified slightly to accommodate parent proxy reporting.",
+            "For example, the question \"During the past 4 weeks, how often have you had shortness of breath?\"",
+            "was changed to \"During the past 4 weeks, how often has your child had shortness of breath?\"",
+            "The full list of items in the PP-ACT are shown in Table 1 .",
+            "As in the original ACT and the C-ACT, we considered asthma uncontrolled when PP-ACT scores were \u226419.",
+            "The PP-ACT was based on the original validated ACT, rather than the version modified by Nkoy et al 12 for weekly report."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Sociodemographic characteristics including child age, race, insurance type, and age at asthma diagnosis as well as parent age and education were ascertained by parent survey. Level of asthma severity (mild intermittent, mild persistent, moderate persistent, severe persistent) was extracted from each child's EHR and had been documented by the child's physician.",
+        "section": "Other Measures",
+        "section_number": 7,
+        "sentences": [
+            "Sociodemographic characteristics including child age, race, insurance type, and age at asthma diagnosis as well as parent age and education were ascertained by parent survey.",
+            "Level of asthma severity (mild intermittent, mild persistent, moderate persistent, severe persistent) was extracted from each child's EHR and had been documented by the child's physician."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "We characterized the study population using descriptive statistics. Frequencies were used to determine if sociodemographic and asthma characteristics were equally distributed between those in group A (C-ACT followed by PP-ACT) and group B (PP-ACT followed by C-ACT).",
+        "section": "Analyses",
+        "section_number": 8,
+        "sentences": [
+            "We characterized the study population using descriptive statistics.",
+            "Frequencies were used to determine if sociodemographic and asthma characteristics were equally distributed between those in group A (C-ACT followed by PP-ACT) and group B (PP-ACT followed by C-ACT)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Reponses to individual items were tabulated to assess floor and ceiling effects. Asthma control for the PP-ACT and the C-ACT were calculated with scores \u226419 considered uncontrolled asthma and >19 considered well controlled. The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for the PP-ACT were calculated compared to the validated C-ACT. We a priori prioritized a high NPV, as our primary concern was to minimize children with uncontrolled asthma who would go unrecognized when using the PP-ACT alone. We calculated concordance between asthma control reported by the C-ACT and the PP-ACT using the percent agreement between the 2 measures. Kappa statistics were calculated to assess inter-rater agreement between parent proxy report and parent plus child report. Concordance and kappa statistics were calculated overall, as well as between randomization groups and across asthma severities and child age groups. Analyses were performed using Stata version 13 (StataCorp, College Station, TX).",
+        "section": "Analyses",
+        "section_number": 9,
+        "sentences": [
+            "Reponses to individual items were tabulated to assess floor and ceiling effects.",
+            "Asthma control for the PP-ACT and the C-ACT were calculated with scores \u226419 considered uncontrolled asthma and >19 considered well controlled.",
+            "The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for the PP-ACT were calculated compared to the validated C-ACT.",
+            "We a priori prioritized a high NPV, as our primary concern was to minimize children with uncontrolled asthma who would go unrecognized when using the PP-ACT alone.",
+            "We calculated concordance between asthma control reported by the C-ACT and the PP-ACT using the percent agreement between the 2 measures.",
+            "Kappa statistics were calculated to assess inter-rater agreement between parent proxy report and parent plus child report.",
+            "Concordance and kappa statistics were calculated overall, as well as between randomization groups and across asthma severities and child age groups.",
+            "Analyses were performed using Stata version 13 (StataCorp, College Station, TX)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "A total of 104 parent-child dyads were recruited. Table 2 shows the sociodemographic and asthma characteristics of the study population. The majority of the children were between the ages of 6 and 9 years (65%), most were black/African American (96%) and had been diagnosed with asthma at age \u22642 years (58%). Parent/guardian age ranged from 21 to >60 years with the majority of parent/guardians between the ages of 21 and 40 years (76%) with a high school education (76%). Asthma control scores did not differ between the groups, and 43 children (41%) were uncontrolled based on their score on the C-ACT. Overall, there were few differences between group A and group B; however, there were slightly more children with moderate persistent asthma in group A (22, 44%) than in group B (10, 19%) .",
+        "section": "Characteristics of Study Population",
+        "section_number": 10,
+        "sentences": [
+            "A total of 104 parent-child dyads were recruited.",
+            "Table 2 shows the sociodemographic and asthma characteristics of the study population.",
+            "The majority of the children were between the ages of 6 and 9 years (65%), most were black/African American (96%) and had been diagnosed with asthma at age \u22642 years (58%).",
+            "Parent/guardian age ranged from 21 to >60 years with the majority of parent/guardians between the ages of 21 and 40 years (76%) with a high school education (76%).",
+            "Asthma control scores did not differ between the groups, and 43 children (41%) were uncontrolled based on their score on the C-ACT.",
+            "Overall, there were few differences between group A and group B; however, there were slightly more children with moderate persistent asthma in group A (22, 44%) than in group B (10, 19%) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "We observed no floor or ceiling effects in the PP-ACT (Table 1) . Sensitivity, specificity, PPV, and NPV for the PP-ACT compared with the previously validated C-ACT appear in Table 3 . The parent proxy ACT correctly identified those with uncontrolled asthma 86% of the time (sensitivity) and the parent proxy ACT had a negative predictive value of 88%. With scores \u226419 considered uncontrolled, the area under the receiver operator curve (AUC) was 0.78. In only 6 out of 104 cases did the PP-ACT identify a child as having well-controlled asthma while the C-ACT identified the child as having uncontrolled asthma. Overall, asthma control was concordant between the PP-ACT and the C-ACT for 77% of participants, with a kappa of 0.54 (95% CI: 0.39-0.70) ( Table 4 ). Concordance was slightly higher among children aged 10 to 12 years compared with children aged 6 to 9 years (81% compared with 75%, \u03ba = 0.60 compared with 0.51) and among group A compared with group B (80% compared with 74%, \u03ba = 0.61 compared with 0.48). There was no consistent pattern by asthma severity. All kappas above reflect moderate agreement.",
+        "section": "Comparison of PP-ACT With CC-ACT",
+        "section_number": 11,
+        "sentences": [
+            "We observed no floor or ceiling effects in the PP-ACT (Table 1) .",
+            "Sensitivity, specificity, PPV, and NPV for the PP-ACT compared with the previously validated C-ACT appear in Table 3 .",
+            "The parent proxy ACT correctly identified those with uncontrolled asthma 86% of the time (sensitivity) and the parent proxy ACT had a negative predictive value of 88%.",
+            "With scores \u226419 considered uncontrolled, the area under the receiver operator curve (AUC) was 0.78.",
+            "In only 6 out of 104 cases did the PP-ACT identify a child as having well-controlled asthma while the C-ACT identified the child as having uncontrolled asthma.",
+            "Overall, asthma control was concordant between the PP-ACT and the C-ACT for 77% of participants, with a kappa of 0.54 (95% CI: 0.39-0.70) ( Table 4 ).",
+            "Concordance was slightly higher among children aged 10 to 12 years compared with children aged 6 to 9 years (81% compared with 75%, \u03ba = 0.60 compared with 0.51) and among group A compared with group B (80% compared with 74%, \u03ba = 0.61 compared with 0.48).",
+            "There was no consistent pattern by asthma severity.",
+            "All kappas above reflect moderate agreement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "In this study, the asthma control results identified using a version of the ACT that was modified for parent proxy reporting were concordant with the results produced by the C-ACT for 77% of children. The PP-ACT rarely categorized children as having well-controlled asthma when the C-ACT categorized them as having uncontrolled asthma. The PP-ACT had fairly high sensitivity (86%) and NPV (88%). However, agreement between the 2 scales as measured by a kappa of 0.54 was only moderate. These results suggest that the PP-ACT produces similar results to report from both the parent and child in a majority of cases, but that there may be differences for a substantial minority of children.",
+        "section": "Discussion",
+        "section_number": 12,
+        "sentences": [
+            "In this study, the asthma control results identified using a version of the ACT that was modified for parent proxy reporting were concordant with the results produced by the C-ACT for 77% of children.",
+            "The PP-ACT rarely categorized children as having well-controlled asthma when the C-ACT categorized them as having uncontrolled asthma.",
+            "The PP-ACT had fairly high sensitivity (86%) and NPV (88%).",
+            "However, agreement between the 2 scales as measured by a kappa of 0.54 was only moderate.",
+            "These results suggest that the PP-ACT produces similar results to report from both the parent and child in a majority of cases, but that there may be differences for a substantial minority of children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Accurate reporting of symptoms is an important component of self-management between visits. Prior research has been mixed regarding the accuracy of parent proxy report of asthma control. While some studies have suggested that parents underreport their child's symptoms, 14 others have found that parent report was correlated with subjective measures of asthma control. 15, 16 Similarly, results are mixed regarding the reliability of young children's report of their own asthma control. Prior studies suggest child development affects accuracy of symptom reporting, 17 and that young children may struggle to identify the severity of asthma symptoms or to accurately discern when the symptoms occurred. 18, 19 Additionally, children might underreport symptoms in order to appear \"normal.\" 19 However, Yoos et al 20 found that children were as accurate as their parents in reporting symptoms and concluded that including child report is important in the clinical setting. In this context, our findings that parent and child reporting had moderate agreement suggests that using parent proxy report may be an acceptable alternative in situations where also obtaining child report is not feasible or acts as a barrier to clinicians receiving any report-for example, if a parent is reporting asthma control for a young child on a regular basis through a patient portal or mobile application. However, parent Table 2 . Parent and Child Demographic and Asthma Characteristics by Group and Overall, Where Group A Is Those Who Completed the Childhood-Asthma Control Test (C-ACT) and Then the Parent Proxy ACT (PP-ACT), and Group B Is Those Who Completed the PP-ACT and Then the C-ACT. proxy reporting is likely to be less accurate than the report of both the parent and child together, suggesting that parents should be encouraged to obtain input from their children on asthma symptoms when possible to when sharing information with the health system through a patient portal or mobile app. The ability to obtain parental report may be may be particularly relevant in the population studied, which included primarily black/African American families with public insurance receiving care at urban clinics. Low-income and minority children have the highest morbidity and mortality due to asthma. 21, 22 For example, one study found non-Hispanic black children had an emergency department visit rate 4.1 times higher and a death rate 7.6 times higher than the rates for non-Hispanic white children. 21 As smartphone use is high in urban populations 23 and an increasing number of families use patient portals to connect with the medical home, these tools that provide parents with the ability to report on their child's asthma symptoms between office visits may be an effective method of identifying high risk children. When uncontrolled asthma is identified in this setting, clinicians may assess and reinforce adherence, titrate controller medication for optimal effect, and provide tools or prescriptions to manage environmental triggers such as tobacco smoke 24 in order to decrease morbidity and mortality. Published results suggest that ongoing reporting of symptoms, which can be accomplished through use of a patient portal or mobile app, may improve outcomes. 25 Given that some literature suggests that parents may have difficulties recognizing asthma symptoms or may accept concerning symptoms as normal, 14, 26 providing tools to this population to distinguish well controlled versus uncontrolled asthma may also address salient barriers to effective care. This study has several limitations; most notably there was no independent verification of level of asthma control by a specialist, and pulmonary function tests, as have been used in some studies, were not completed. 7, 8 In addition, all analyses were cross-sectional. However, we compared our results against a validated measure that is commonly used in practice. Additionally, generalizability may be limited as we compared the PP-ACT to the C-ACT in a very specific population. However, as this population has among the highest morbidity and mortality among children with asthma, the use of the PP-ACT may have the highest potential benefit for these children. Furthermore, although we enrolled children with a range of asthma severities, which should increase generalizability, it is possible that our study sample may not reflect the underlying distribution of asthma severity of the general pediatric population. Finally, although parent report of asthma control may be most important for families outside of the office between visits, our study involved the completion of the tool at visits. Prior research using a similar tool has shown the validity of tool use from outside the office. 12 ",
+        "section": "Discussion",
+        "section_number": 13,
+        "sentences": [
+            "Accurate reporting of symptoms is an important component of self-management between visits.",
+            "Prior research has been mixed regarding the accuracy of parent proxy report of asthma control.",
+            "While some studies have suggested that parents underreport their child's symptoms, 14 others have found that parent report was correlated with subjective measures of asthma control.",
+            "15, 16 Similarly, results are mixed regarding the reliability of young children's report of their own asthma control.",
+            "Prior studies suggest child development affects accuracy of symptom reporting, 17 and that young children may struggle to identify the severity of asthma symptoms or to accurately discern when the symptoms occurred.",
+            "18, 19 Additionally, children might underreport symptoms in order to appear \"normal.\"",
+            "19 However, Yoos et al 20 found that children were as accurate as their parents in reporting symptoms and concluded that including child report is important in the clinical setting.",
+            "In this context, our findings that parent and child reporting had moderate agreement suggests that using parent proxy report may be an acceptable alternative in situations where also obtaining child report is not feasible or acts as a barrier to clinicians receiving any report-for example, if a parent is reporting asthma control for a young child on a regular basis through a patient portal or mobile application.",
+            "However, parent Table 2 .",
+            "Parent and Child Demographic and Asthma Characteristics by Group and Overall, Where Group A Is Those Who Completed the Childhood-Asthma Control Test (C-ACT) and Then the Parent Proxy ACT (PP-ACT), and Group B Is Those Who Completed the PP-ACT and Then the C-ACT.",
+            "proxy reporting is likely to be less accurate than the report of both the parent and child together, suggesting that parents should be encouraged to obtain input from their children on asthma symptoms when possible to when sharing information with the health system through a patient portal or mobile app.",
+            "The ability to obtain parental report may be may be particularly relevant in the population studied, which included primarily black/African American families with public insurance receiving care at urban clinics.",
+            "Low-income and minority children have the highest morbidity and mortality due to asthma.",
+            "21, 22 For example, one study found non-Hispanic black children had an emergency department visit rate 4.1 times higher and a death rate 7.6 times higher than the rates for non-Hispanic white children.",
+            "21 As smartphone use is high in urban populations 23 and an increasing number of families use patient portals to connect with the medical home, these tools that provide parents with the ability to report on their child's asthma symptoms between office visits may be an effective method of identifying high risk children.",
+            "When uncontrolled asthma is identified in this setting, clinicians may assess and reinforce adherence, titrate controller medication for optimal effect, and provide tools or prescriptions to manage environmental triggers such as tobacco smoke 24 in order to decrease morbidity and mortality.",
+            "Published results suggest that ongoing reporting of symptoms, which can be accomplished through use of a patient portal or mobile app, may improve outcomes.",
+            "25 Given that some literature suggests that parents may have difficulties recognizing asthma symptoms or may accept concerning symptoms as normal, 14, 26 providing tools to this population to distinguish well controlled versus uncontrolled asthma may also address salient barriers to effective care.",
+            "This study has several limitations; most notably there was no independent verification of level of asthma control by a specialist, and pulmonary function tests, as have been used in some studies, were not completed.",
+            "7, 8 In addition, all analyses were cross-sectional.",
+            "However, we compared our results against a validated measure that is commonly used in practice.",
+            "Additionally, generalizability may be limited as we compared the PP-ACT to the C-ACT in a very specific population.",
+            "However, as this population has among the highest morbidity and mortality among children with asthma, the use of the PP-ACT may have the highest potential benefit for these children.",
+            "Furthermore, although we enrolled children with a range of asthma severities, which should increase generalizability, it is possible that our study sample may not reflect the underlying distribution of asthma severity of the general pediatric population.",
+            "Finally, although parent report of asthma control may be most important for families outside of the office between visits, our study involved the completion of the tool at visits.",
+            "Prior research using a similar tool has shown the validity of tool use from outside the office.",
+            "12"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "42528",
+        "text": "Our results suggest that there was moderate agreement between parent proxy-reported asthma control and reports by both the child and parent together. The PP-ACT classified few children as well-controlled whom the C-ACT classified as uncontrolled. This tool is likely to be useful in facilitating the reporting of asthma control on a regular basis via patient portals or mobile applications when obtaining child report is not feasible, but limitations of parent proxy reporting should be considered when implementing these applications. ",
+        "section": "Conclusions",
+        "section_number": 14,
+        "sentences": [
+            "Our results suggest that there was moderate agreement between parent proxy-reported asthma control and reports by both the child and parent together.",
+            "The PP-ACT classified few children as well-controlled whom the C-ACT classified as uncontrolled.",
+            "This tool is likely to be useful in facilitating the reporting of asthma control on a regular basis via patient portals or mobile applications when obtaining child report is not feasible, but limitations of parent proxy reporting should be considered when implementing these applications."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

@@ -1,0 +1,849 @@
+[
+    {
+        "doc_id": "41987",
+        "text": "Introducci\u00f3n: las deficiencias de vitamina A (VA), zinc y hierro son las m\u00e1s comunes en escolares ecuatorianos. El objetivo del presente estudio fue estudiar la eficacia de la leche de vaca como veh\u00edculo para la suplementaci\u00f3n de VA, zinc y hierro. M\u00e9todos: trescientos veintiocho ni\u00f1os en edades entre 6 y 10 a\u00f1os fueron incluidos en un estudio aleatorizado controlado, doble ciego durante 23 semanas; 173 ni\u00f1os recibieron diariamente 480 mL de leche entera (300 Kcals; G1) y 155 ni\u00f1os recibieron leche entera fortificada (300 Kcals, G2). Los ni\u00f1os tuvieron una evaluaci\u00f3n nutricional antes y despu\u00e9s de la suplementaci\u00f3n. Al inicio del estudio, G1 y G2 fueron similares en g\u00e9nero, edad, peso, y talla. Los dos tipos de leche fueron bien aceptados. Resultados: las concentraciones s\u00e9ricas de VA, zinc y hierro aumentaron significativamente en ambos grupos despu\u00e9s del tratamiento. El aumento de estos micronutrientes fue significativamente mayor en los ni\u00f1os con deficiencias. No hubo diferencias significativas en las concentraciones de VA, zinc y hierro entre los grupos despu\u00e9s de la suplementaci\u00f3n. Adem\u00e1s, hubo un incremento en el porcentaje de ni\u00f1os con IMC-normal dependiente de una disminuci\u00f3n en el n\u00famero de ni\u00f1os con exceso de peso al final del periodo de tratamiento en G1, mientras que en G2 no hubo cambios. Los perfiles lip\u00eddicos fueron normales antes y despu\u00e9s de la suplementaci\u00f3n con leche en los dos grupos. Conclusiones: en resumen, tanto la leche fortificada como la no fortificada son excelentes opciones para aumentar las concentraciones de VA, zinc y hierro en escolares.",
+        "section": "Abstract",
+        "sentences": [
+            "Introducci\u00f3n: las deficiencias de vitamina A (VA), zinc y hierro son las m\u00e1s comunes en escolares ecuatorianos.",
+            "El objetivo del presente estudio fue estudiar la eficacia de la leche de vaca como veh\u00edculo para la suplementaci\u00f3n de VA, zinc y hierro.",
+            "M\u00e9todos: trescientos veintiocho ni\u00f1os en edades entre 6 y 10 a\u00f1os fueron incluidos en un estudio aleatorizado controlado, doble ciego durante 23 semanas; 173 ni\u00f1os recibieron diariamente 480 mL de leche entera (300 Kcals; G1) y 155 ni\u00f1os recibieron leche entera fortificada (300 Kcals, G2).",
+            "Los ni\u00f1os tuvieron una evaluaci\u00f3n nutricional antes y despu\u00e9s de la suplementaci\u00f3n.",
+            "Al inicio del estudio, G1 y G2 fueron similares en g\u00e9nero, edad, peso, y talla.",
+            "Los dos tipos de leche fueron bien aceptados.",
+            "Resultados: las concentraciones s\u00e9ricas de VA, zinc y hierro aumentaron significativamente en ambos grupos despu\u00e9s del tratamiento.",
+            "El aumento de estos micronutrientes fue significativamente mayor en los ni\u00f1os con deficiencias.",
+            "No hubo diferencias significativas en las concentraciones de VA, zinc y hierro entre los grupos despu\u00e9s de la suplementaci\u00f3n.",
+            "Adem\u00e1s, hubo un incremento en el porcentaje de ni\u00f1os con IMC-normal dependiente de una disminuci\u00f3n en el n\u00famero de ni\u00f1os con exceso de peso al final del periodo de tratamiento en G1, mientras que en G2 no hubo cambios.",
+            "Los perfiles lip\u00eddicos fueron normales antes y despu\u00e9s de la suplementaci\u00f3n con leche en los dos grupos.",
+            "Conclusiones: en resumen, tanto la leche fortificada como la no fortificada son excelentes opciones para aumentar las concentraciones de VA, zinc y hierro en escolares."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Current evidence shows the coexistence of under-nutrition and over nutrition within the same population as a worldwide phenomenon (1) . Malnutrition occurs throughout the lifecycle affecting all socioeconomic groups. Malnutrition states are commonly accompanied with vitamin and mineral deficiencies (2) . The World Health Organization estimates that 30% of the world population is deficient in iron, 21% in vitamin A (VA), and 17% in zinc. VA, zinc, and iron deficiencies are associated with low stature, increased susceptibility to infection, attention deficits, and low school performance (3) .",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Current evidence shows the coexistence of under-nutrition and over nutrition within the same population as a worldwide phenomenon (1) .",
+            "Malnutrition occurs throughout the lifecycle affecting all socioeconomic groups.",
+            "Malnutrition states are commonly accompanied with vitamin and mineral deficiencies (2) .",
+            "The World Health Organization estimates that 30% of the world population is deficient in iron, 21% in vitamin A (VA), and 17% in zinc.",
+            "VA, zinc, and iron deficiencies are associated with low stature, increased susceptibility to infection, attention deficits, and low school performance (3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Malnourishment is common among Ecuadorian schoolchildren. The last National Health and Nutrition Survey of Ecuador (ENSA-NUT) indicates that 15% of schoolchildren have chronic undernutrition and 29.9% have overweight or obesity which means that 45% are malnourished (1) . Zinc and VA are the most common micronutrient deficiencies with a prevalence of 28.1% and 10.9%, respectively (1) . In addition, the prevalence of iron-deficiency anemia is 3.5%. In summary, Ecuadorian schoolchildren present high prevalence of malnourishment characterized by under and over-nutrition accompanied by micronutrient deficiencies (1) .",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Malnourishment is common among Ecuadorian schoolchildren.",
+            "The last National Health and Nutrition Survey of Ecuador (ENSA-NUT) indicates that 15% of schoolchildren have chronic undernutrition and 29.9% have overweight or obesity which means that 45% are malnourished (1) .",
+            "Zinc and VA are the most common micronutrient deficiencies with a prevalence of 28.1% and 10.9%, respectively (1) .",
+            "In addition, the prevalence of iron-deficiency anemia is 3.5%.",
+            "In summary, Ecuadorian schoolchildren present high prevalence of malnourishment characterized by under and over-nutrition accompanied by micronutrient deficiencies (1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "The high rates of malnutrition evidenced by the ENSANUT indicates that optimal strategies to correct these nutritional problems are needed (1) . Food fortification is an important public health strategy to tackle malnutrition and micronutrient deficiencies due to its potential to reach large population groups without requiring important changes in food consumption patterns (4) . To implement food fortification programs, it is important to consider the molecular structure of the supplement, the vehicle of delivery, potential interactions that could affect bioavailability between micro and macronutrients, acceptability to the population, and cost. Milk is a major source of dietary energy, protein, and micronutrients and has been shown to contribute to the nutritional improvement and growth of children (5) . Cow's milk supplemented with iron, zinc, vitamin C, and copper administered for less than a year decreased the prevalence of anemia by 66% (6) . Therefore, regular cow\u00b4s milk could be used as an optimal vehicle for micronutrient supplementation (6) .",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "The high rates of malnutrition evidenced by the ENSANUT indicates that optimal strategies to correct these nutritional problems are needed (1) .",
+            "Food fortification is an important public health strategy to tackle malnutrition and micronutrient deficiencies due to its potential to reach large population groups without requiring important changes in food consumption patterns (4) .",
+            "To implement food fortification programs, it is important to consider the molecular structure of the supplement, the vehicle of delivery, potential interactions that could affect bioavailability between micro and macronutrients, acceptability to the population, and cost.",
+            "Milk is a major source of dietary energy, protein, and micronutrients and has been shown to contribute to the nutritional improvement and growth of children (5) .",
+            "Cow's milk supplemented with iron, zinc, vitamin C, and copper administered for less than a year decreased the prevalence of anemia by 66% (6) .",
+            "Therefore, regular cow\u00b4s milk could be used as an optimal vehicle for micronutrient supplementation (6) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Combined micronutrient fortification is a good strategy to combat vitamin and mineral deficiencies (7) . However, one potential problem is the observed competition among minerals for their absorption in the intestine (8, 9) .",
+        "section": "INTRODUCTION",
+        "section_number": 4,
+        "sentences": [
+            "Combined micronutrient fortification is a good strategy to combat vitamin and mineral deficiencies (7) .",
+            "However, one potential problem is the observed competition among minerals for their absorption in the intestine (8, 9) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Few studies have assessed the effect of multi-nutrient fortified milk on the nutritional status of normal and malnourished Ecuadorian schoolchildren with or without micronutrient deficiencies. Consequently, the objective of the present study was to test the efficacy of whole cow\u00b4s milk as a vehicle for VA, zinc, and iron supplementation. This work will contribute to clarify potential interactions between VA, zinc, and iron in fortified milk.",
+        "section": "INTRODUCTION",
+        "section_number": 5,
+        "sentences": [
+            "Few studies have assessed the effect of multi-nutrient fortified milk on the nutritional status of normal and malnourished Ecuadorian schoolchildren with or without micronutrient deficiencies.",
+            "Consequently, the objective of the present study was to test the efficacy of whole cow\u00b4s milk as a vehicle for VA, zinc, and iron supplementation.",
+            "This work will contribute to clarify potential interactions between VA, zinc, and iron in fortified milk."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "The study population consisted of 328 schoolchildren from middle-low or low socioeconomic strata from a semi-urban area in Quito (Ecuador). Children were included if they were 6 to 10 years of age of any gender who have attended the school regularly for the last 3 months prior to the study and signed along with their guardians an informed consent. Children were excluded if they had signs or symptoms of infection; were receiving micronutrient supplementation 30 days before the study or were planning to consume them; had history of lactose intolerance; present chronic diseases; congenital diseases, mal-absorption syndromes; cancer; or HIV infection (Fig. 1 ).",
+        "section": "PARTICIPANTS AND STUDY DESIGN",
+        "section_number": 6,
+        "sentences": [
+            "The study population consisted of 328 schoolchildren from middle-low or low socioeconomic strata from a semi-urban area in Quito (Ecuador).",
+            "Children were included if they were 6 to 10 years of age of any gender who have attended the school regularly for the last 3 months prior to the study and signed along with their guardians an informed consent.",
+            "Children were excluded if they had signs or symptoms of infection; were receiving micronutrient supplementation 30 days before the study or were planning to consume them; had history of lactose intolerance; present chronic diseases; congenital diseases, mal-absorption syndromes; cancer; or HIV infection (Fig. 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "This was a randomized, double blind controlled study. In group 1 (G1) 173 children received 480 mL/day of whole milk (300 kcal; Zn = 1.96 mg, Fe = 0.14 mg, vit A = 136 \u00b5g), while in group 2 (G2) 155 children received 480 mL/day of fortified milk (300 kcal; Zn = 7.16 mg, Fe = 4.56 mg, VA = 360 \u00b5g) ( Table I) . Children received daily two glasses of 240 mL of milk; one in the morning and one in the afternoon, during 23 weeks, from January to June 2015. Milk supplementation for both groups was added to children's usual diets. All children had a full nutritional assessment before and after supplementation which included clinical examination, anthropometric measurements and laboratory analysis ( Fig. 1) .",
+        "section": "PARTICIPANTS AND STUDY DESIGN",
+        "section_number": 7,
+        "sentences": [
+            "This was a randomized, double blind controlled study.",
+            "In group 1 (G1) 173 children received 480 mL/day of whole milk (300 kcal; Zn = 1.96 mg, Fe = 0.14 mg, vit A = 136 \u00b5g), while in group 2 (G2) 155 children received 480 mL/day of fortified milk (300 kcal; Zn = 7.16 mg, Fe = 4.56 mg, VA = 360 \u00b5g) ( Table I) .",
+            "Children received daily two glasses of 240 mL of milk; one in the morning and one in the afternoon, during 23 weeks, from January to June 2015.",
+            "Milk supplementation for both groups was added to children's usual diets.",
+            "All children had a full nutritional assessment before and after supplementation which included clinical examination, anthropometric measurements and laboratory analysis ( Fig. 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "A daily record of attendance to school, compliance to treatment, side effects attributed to milk consumption, and the presence and duration of acute respiratory and gastrointestinal diseases was recorded. Children did not receive other food supplementation during the study.",
+        "section": "PARTICIPANTS AND STUDY DESIGN",
+        "section_number": 8,
+        "sentences": [
+            "A daily record of attendance to school, compliance to treatment, side effects attributed to milk consumption, and the presence and duration of acute respiratory and gastrointestinal diseases was recorded.",
+            "Children did not receive other food supplementation during the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Milk preparation and distribution were done following high hygienic standards including safe water. Specially trained field ",
+        "section": "MILK SUPPLEMENTS",
+        "section_number": 9,
+        "sentences": [
+            "Milk preparation and distribution were done following high hygienic standards including safe water.",
+            "Specially trained field"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "End study (23 ",
+        "section": "Flowchart.",
+        "section_number": 10,
+        "sentences": [
+            "End study (23"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Weight and height were taken by trained personnel using standardized techniques and calibrated equipment. For weight measurement, an electronic SECA 213 scale was used. For height measurement, a SECA 213 stadiometer was mounted vertically on the wall above a hard, flat surface, following vendor instructions. Height was measured to the nearest 0.1 cm. During anthropometric measurements, children had minimal clothing without shoes. Anthropometric data was analyzed using Anthro Plus WHO growth charts for weight-, height-and BMI-for-age and sex (10) .",
+        "section": "ANTHROPOMETRIC MEASUREMENTS",
+        "section_number": 11,
+        "sentences": [
+            "Weight and height were taken by trained personnel using standardized techniques and calibrated equipment.",
+            "For weight measurement, an electronic SECA 213 scale was used.",
+            "For height measurement, a SECA 213 stadiometer was mounted vertically on the wall above a hard, flat surface, following vendor instructions.",
+            "Height was measured to the nearest 0.1 cm.",
+            "During anthropometric measurements, children had minimal clothing without shoes.",
+            "Anthropometric data was analyzed using Anthro Plus WHO growth charts for weight-, height-and BMI-for-age and sex (10) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Blood samples were obtained in the morning after approximately 10 hours of fasting. Samples were centrifuged within 2 hours and processed immediately (11) .",
+        "section": "Blood samples",
+        "section_number": 12,
+        "sentences": [
+            "Blood samples were obtained in the morning after approximately 10 hours of fasting.",
+            "Samples were centrifuged within 2 hours and processed immediately (11) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "To determine the presence of infection at baseline, a complete blood cell count was performed. We did not use a marker of inflam-mation like C-reactive protein (CRP) because evidence indicates that consumption of healthy food reduces serum CRP concentrations, rendering this marker not ideal for milk supplementation studies (12) .",
+        "section": "COMPLETE BLOOD CELL COUNT",
+        "section_number": 13,
+        "sentences": [
+            "To determine the presence of infection at baseline, a complete blood cell count was performed.",
+            "We did not use a marker of inflam-mation like C-reactive protein (CRP) because evidence indicates that consumption of healthy food reduces serum CRP concentrations, rendering this marker not ideal for milk supplementation studies (12) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "We followed the same methodology for the determination and cut-off points for VA and zinc used in the ENSANUT-EC study (1) . Serum VA < 20 \u00b5g/dL, zinc < 65 \u00b5g/dL, and iron <50 \u00b5g/dL were considered abnormal (11) ; plasma/serum ferritin concentrations < 15 \u00b5g/L were considered as depleted iron stores (1).",
+        "section": "VITAMIN A, ZINC, AND IRON DETERMINATIONS",
+        "section_number": 14,
+        "sentences": [
+            "We followed the same methodology for the determination and cut-off points for VA and zinc used in the ENSANUT-EC study (1) .",
+            "Serum VA < 20 \u00b5g/dL, zinc < 65 \u00b5g/dL, and iron <50 \u00b5g/dL were considered abnormal (11) ; plasma/serum ferritin concentrations < 15 \u00b5g/L were considered as depleted iron stores (1)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "All materials were prepared with distilled water and high purity water was used for solutions. Blood samples were collected in a vacuum tube containing lithium heparin as anti-coagulant (13) . Blood was centrifuged and, plasma was stored at -80 \u00b0C protected from light. On the day of assay, samples were thawed at room temperature and homogenized. Vitamin A was extracted from plasma using Strata-XL 100u Polymeric Reversed Phase 60 mg/3 mL solid phase extraction cartridges (Phenomenex. Torrance, California). Briefly, plasma proteins were precipitated mixing 250 \u00b5l of sample and 750 \u00b5l of ethanol for 30 sec; samples were centrifuged at 10,000 rpm for 5 min at room temperature (RT) to obtain VA enriched supernatant. Subsequently, PRP cartridges were placed in a manifold and were conditioned with 1 mL of methanol and 1 mL of water. Sample supernatants were placed in the equilibrated PRP cartridges. Samples in cartridges were washed once with 1 mL 35% methanol and cartridges were vacuum dried for one minute. Vitamin A was eluted with 1.5 mL of mobile phase solution (75% acetonitrile and 25% ",
+        "section": "Vitamin A",
+        "section_number": 15,
+        "sentences": [
+            "All materials were prepared with distilled water and high purity water was used for solutions.",
+            "Blood samples were collected in a vacuum tube containing lithium heparin as anti-coagulant (13) .",
+            "Blood was centrifuged and, plasma was stored at -80 \u00b0C protected from light.",
+            "On the day of assay, samples were thawed at room temperature and homogenized.",
+            "Vitamin A was extracted from plasma using Strata-XL 100u Polymeric Reversed Phase 60 mg/3 mL solid phase extraction cartridges (Phenomenex.",
+            "Torrance, California).",
+            "Briefly, plasma proteins were precipitated mixing 250 \u00b5l of sample and 750 \u00b5l of ethanol for 30 sec; samples were centrifuged at 10,000 rpm for 5 min at room temperature (RT) to obtain VA enriched supernatant.",
+            "Subsequently, PRP cartridges were placed in a manifold and were conditioned with 1 mL of methanol and 1 mL of water.",
+            "Sample supernatants were placed in the equilibrated PRP cartridges.",
+            "Samples in cartridges were washed once with 1 mL 35% methanol and cartridges were vacuum dried for one minute.",
+            "Vitamin A was eluted with 1.5 mL of mobile phase solution (75% acetonitrile and 25%"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Equipment used for Zn measurements was treated with 10% v/v HNO3 solution for 12 hours to remove contaminants (14) . Zinc was measured by atomic absorption spectroscopy with a flame atomization wavelength of 213.9nm, using a spectrophotometer Perkin-Elmer flame Analyst 400 model (Proinstra. Quito, Ecuador). Three hundred microliters of plasma were mixed with 2.7 mL of pure water and homogenized. Subsequently sample was directly measured in the spectrophotometer (14) . Control samples (BCR 637 -9; European Commission Joint Research Centre, Institute for Reference Materials and Measurements; Geel, Belgium) were run every 10 samples. Limit of detection for Zn was 1.5 \u00b5g/dL.",
+        "section": "Zinc",
+        "section_number": 16,
+        "sentences": [
+            "Equipment used for Zn measurements was treated with 10% v/v HNO3 solution for 12 hours to remove contaminants (14) .",
+            "Zinc was measured by atomic absorption spectroscopy with a flame atomization wavelength of 213.9nm, using a spectrophotometer Perkin-Elmer flame Analyst 400 model (Proinstra.",
+            "Quito, Ecuador).",
+            "Three hundred microliters of plasma were mixed with 2.7 mL of pure water and homogenized.",
+            "Subsequently sample was directly measured in the spectrophotometer (14) .",
+            "Control samples (BCR 637 -9; European Commission Joint Research Centre, Institute for Reference Materials and Measurements; Geel, Belgium) were run every 10 samples.",
+            "Limit of detection for Zn was 1.5 \u00b5g/dL."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Iron was determined by the FerroZine ascorbate colorimetric method using a Roche Modular Analitics Evo P800 (Roche, USA). The limit of detection of the method was 5 \u00b5g/dL.",
+        "section": "Iron, transferrin, and ferritin measurements",
+        "section_number": 17,
+        "sentences": [
+            "Iron was determined by the FerroZine ascorbate colorimetric method using a Roche Modular Analitics Evo P800 (Roche, USA).",
+            "The limit of detection of the method was 5 \u00b5g/dL."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Transferrin was determined using inmunoturbimetry following the manufacturer's instructions (TRSF2, Roche, Indianapolis USA). The limit of detection of transferrin was 10 mg/dL. Transferrin saturation was calculated using the following formula: (serum iron x 100) / (serum transferrin x 1.27) (11) .",
+        "section": "Iron, transferrin, and ferritin measurements",
+        "section_number": 18,
+        "sentences": [
+            "Transferrin was determined using inmunoturbimetry following the manufacturer's instructions (TRSF2, Roche, Indianapolis USA).",
+            "The limit of detection of transferrin was 10 mg/dL. Transferrin saturation was calculated using the following formula: (serum iron x 100) / (serum transferrin x 1.27) (11) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Ferritin was measured by elechtrochemoluminiscence in a Ferritin kit (Roche. Indianapolis, USA). The limit of detection of ferritin was 0.50 \u00b5g/mL.",
+        "section": "Iron, transferrin, and ferritin measurements",
+        "section_number": 19,
+        "sentences": [
+            "Ferritin was measured by elechtrochemoluminiscence in a Ferritin kit (Roche.",
+            "Indianapolis, USA).",
+            "The limit of detection of ferritin was 0.50 \u00b5g/mL."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Glucose and lipid profile (total cholesterol, LDL-cholesterol, HDL-cholesterol, and triglycerides) were determined on a Roche Modular Evo P800 using standard reagents (Roche Diagnostics GmbH. Mannheim, Germany). Blood biochemistry analyses were carried out at NetLab laboratory that maintains an internal and external quality control system (15) .",
+        "section": "Glucose and lipid profile measurements",
+        "section_number": 20,
+        "sentences": [
+            "Glucose and lipid profile (total cholesterol, LDL-cholesterol, HDL-cholesterol, and triglycerides) were determined on a Roche Modular Evo P800 using standard reagents (Roche Diagnostics GmbH. Mannheim, Germany).",
+            "Blood biochemistry analyses were carried out at NetLab laboratory that maintains an internal and external quality control system (15) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "The study was approved by the IRB of \"Universidad de Las Am\u00e9ricas\".",
+        "section": "Glucose and lipid profile measurements",
+        "section_number": 21,
+        "sentences": [
+            "The study was approved by the IRB of \"Universidad de Las Am\u00e9ricas\"."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "A sample size of 318 was estimated with 95% confidence, 80% power, and a mean serum Hb concentration after interven-tion in G2 of 11.35 g/dL and in G1, 10.5 g/dL with a standard deviation of 2.7 g/dL for both groups. Descriptive statistics with its respective measures of dispersion were calculated for continuous variables; frequencies and percentages were calculated for categorical variables. Analyses were performed with intention to treat. Differences between groups were assessed with Chi Square and ANOVA or Kruskal Wallis. Differences within groups were assessed with paired t-test or the corresponding non-parametric statistics. Statistical analyses were performed with SPSS V. 21 software. A p value < 0.05 was considered significant.",
+        "section": "STATISTICS",
+        "section_number": 22,
+        "sentences": [
+            "A sample size of 318 was estimated with 95% confidence, 80% power, and a mean serum Hb concentration after interven-tion in G2 of 11.35 g/dL and in G1, 10.5 g/dL with a standard deviation of 2.7 g/dL for both groups.",
+            "Descriptive statistics with its respective measures of dispersion were calculated for continuous variables; frequencies and percentages were calculated for categorical variables.",
+            "Analyses were performed with intention to treat.",
+            "Differences between groups were assessed with Chi Square and ANOVA or Kruskal Wallis.",
+            "Differences within groups were assessed with paired t-test or the corresponding non-parametric statistics.",
+            "Statistical analyses were performed with SPSS V. 21 software.",
+            "A p value < 0.05 was considered significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "41987",
+        "text": "Both types of milk were well accepted by participants. At baseline, treatment groups had similar demographic and anthropometric characteristics (Table II) . Figure 2A compares mean serum VA concentrations in deficient and non-deficient children that received milk (G1) or fortified milk (G2) before and after supplementation. Data indicated there were not statistically significant differences in serum VA concentration in non-deficient children before and after milk or fortified milk consumption ( Fig. 2A) . In deficient children, basal serum VA concentrations in G1 and G2 were similar at baseline; consumption of milk or fortified milk significantly increased VA concentration in both treatment groups ( Fig. 2A) ; serum VA concentrations were not different between G1 and G2 at the end of the study. Prevalence of VA deficiency in G1 went from 13/173 (7.5%) at baseline to 17/164 (10.4%) at the end-line, while in G2 went from 18/155 (11.6%) to 12/152 (7.9%), respectively.",
+        "section": "RESULTS",
+        "section_number": 23,
+        "sentences": [
+            "Both types of milk were well accepted by participants.",
+            "At baseline, treatment groups had similar demographic and anthropometric characteristics (Table II) .",
+            "Figure 2A compares mean serum VA concentrations in deficient and non-deficient children that received milk (G1) or fortified milk (G2) before and after supplementation.",
+            "Data indicated there were not statistically significant differences in serum VA concentration in non-deficient children before and after milk or fortified milk consumption ( Fig. 2A) .",
+            "In deficient children, basal serum VA concentrations in G1 and G2 were similar at baseline; consumption of milk or fortified milk significantly increased VA concentration in both treatment groups ( Fig. 2A) ; serum VA concentrations were not different between G1 and G2 at the end of the study.",
+            "Prevalence of VA deficiency in G1 went from 13/173 (7.5%) at baseline to 17/164 (10.4%) at the end-line, while in G2 went from 18/155 (11.6%) to 12/152 (7.9%), respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Among zinc-sufficient children, there were not differences in zinc concentrations at baseline (Fig. 2B) ; however, milk or fortified milk supplementation significantly increased serum zinc concentrations in both treatment groups; at the end of the study period, serum zinc concentrations in zinc-sufficient children were similar between both treatment groups. In zinc-deficient children, data showed that at base line G2 had significant higher concentrations than G1; milk or fortified-milk supplementation provoked a significantly increase in serum zinc concentrations in both treatment groups; at the end of the study period, there were not differences in zinc concentrations in G1 and G2 in zinc-deficient children.",
+        "section": "EFFICACY OF FORTIFIED MILK ON SERUM MICRONUTRIENT CONCENTRATIONS",
+        "section_number": 24,
+        "sentences": [
+            "Among zinc-sufficient children, there were not differences in zinc concentrations at baseline (Fig. 2B) ; however, milk or fortified milk supplementation significantly increased serum zinc concentrations in both treatment groups; at the end of the study period, serum zinc concentrations in zinc-sufficient children were similar between both treatment groups.",
+            "In zinc-deficient children, data showed that at base line G2 had significant higher concentrations than G1; milk or fortified-milk supplementation provoked a significantly increase in serum zinc concentrations in both treatment groups; at the end of the study period, there were not differences in zinc concentrations in G1 and G2 in zinc-deficient children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Prevalence of zinc deficiency in G1 went from 24/173 (13.9%) at baseline to 9/164 (5.5%) at the end of the study, while in G2 went from 20/155 (12.9%) to 6/152 (3.9%), respectively. In relation to serum iron changes, in children without iron deficiency, base line serum iron concentrations were similar between G1 and G2; consumption of milk of fortified milk did not significantly modify serum iron concentrations in both groups (Fig. 2C) . In iron-deficient children, basal serum concentrations were similar between G1 and G2; milk or fortified-milk consumption significantly increased serum iron concentrations after the supplementation; in addition, serum iron concentrations were similar between both treatment groups at the end of the study. Prevalence of iron deficiency in G1 went from 23/173 (13.3%) at baseline to 12/164 (7.3%) at the end of the study, while in G2 went from 20/155 (12.9%) to 11/152(7.2%), respectively.",
+        "section": "EFFICACY OF FORTIFIED MILK ON SERUM MICRONUTRIENT CONCENTRATIONS",
+        "section_number": 25,
+        "sentences": [
+            "Prevalence of zinc deficiency in G1 went from 24/173 (13.9%) at baseline to 9/164 (5.5%) at the end of the study, while in G2 went from 20/155 (12.9%) to 6/152 (3.9%), respectively.",
+            "In relation to serum iron changes, in children without iron deficiency, base line serum iron concentrations were similar between G1 and G2; consumption of milk of fortified milk did not significantly modify serum iron concentrations in both groups (Fig. 2C) .",
+            "In iron-deficient children, basal serum concentrations were similar between G1 and G2; milk or fortified-milk consumption significantly increased serum iron concentrations after the supplementation; in addition, serum iron concentrations were similar between both treatment groups at the end of the study.",
+            "Prevalence of iron deficiency in G1 went from 23/173 (13.3%) at baseline to 12/164 (7.3%) at the end of the study, while in G2 went from 20/155 (12.9%) to 11/152(7.2%), respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "To better evaluate iron status on participating children, concentrations Hb, transferrin saturation index, and ferritin were evaluated. In Hb sufficient children, at baseline there were not significant differences in serum Hb concentrations between G1 and G2. Figure 3A shows a significant increase on Hb in both treatment groups upon consumption of milk or fortified milk; Hemoglobin concentrations were similar in both groups at the end of the study period. In Hemoglobin-deficient children, basal Hb concentrations were similar between G1 and G2; consumption of milk of fortified-milk significantly increased Hb concentrations in both treatment groups reaching similar values by the end of the study. The prevalence of Hb deficiency in G1 went from 27/173 (15.6%) at baseline to 15/164 (9.1%) at end-line, while in G2 went from 31/155 (20%) to 12/152(7.8%), respectively.",
+        "section": "EFFICACY OF FORTIFIED MILK ON IRON METABOLISM PARAMETERS",
+        "section_number": 26,
+        "sentences": [
+            "To better evaluate iron status on participating children, concentrations Hb, transferrin saturation index, and ferritin were evaluated.",
+            "In Hb sufficient children, at baseline there were not significant differences in serum Hb concentrations between G1 and G2.",
+            "Figure 3A shows a significant increase on Hb in both treatment groups upon consumption of milk or fortified milk; Hemoglobin concentrations were similar in both groups at the end of the study period.",
+            "In Hemoglobin-deficient children, basal Hb concentrations were similar between G1 and G2; consumption of milk of fortified-milk significantly increased Hb concentrations in both treatment groups reaching similar values by the end of the study.",
+            "The prevalence of Hb deficiency in G1 went from 27/173 (15.6%) at baseline to 15/164 (9.1%) at end-line, while in G2 went from 31/155 (20%) to 12/152(7.8%), respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "In children with normal transferrin saturation index, consumption of unfortified milk did not affect transferrin saturation; however, in children that consumed fortified milk there was a significant decrease in the saturation index although the changes were within the normal range (Fig. 3B) . In children with abnormal transferrin saturation index, at base line the index was similar in G1 and G2; however, upon fortified milk consumption transferrin saturation significantly increased in both treatment groups; there were not differences in transferrin saturation between G1 and G2 after the supplementation.",
+        "section": "EFFICACY OF FORTIFIED MILK ON IRON METABOLISM PARAMETERS",
+        "section_number": 27,
+        "sentences": [
+            "In children with normal transferrin saturation index, consumption of unfortified milk did not affect transferrin saturation; however, in children that consumed fortified milk there was a significant decrease in the saturation index although the changes were within the normal range (Fig. 3B) .",
+            "In children with abnormal transferrin saturation index, at base line the index was similar in G1 and G2; however, upon fortified milk consumption transferrin saturation significantly increased in both treatment groups; there were not differences in transferrin saturation between G1 and G2 after the supplementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Finally, iron reserves were determined by the measurement of serum ferritin. There were not children with deficient ferritin. Ferritin concentrations were similar at baseline in both groups (Fig. 3C) . Opposite to the observed increment with other parameters of iron metabolism, serum ferritin concentrations significantly decreased by the end of the study in both treatment groups. Serum ferritin concentrations were similar between groups at the end of supplementation and values were within the normal range (Fig. 3C ).",
+        "section": "EFFICACY OF FORTIFIED MILK ON IRON METABOLISM PARAMETERS",
+        "section_number": 28,
+        "sentences": [
+            "Finally, iron reserves were determined by the measurement of serum ferritin.",
+            "There were not children with deficient ferritin.",
+            "Ferritin concentrations were similar at baseline in both groups (Fig. 3C) .",
+            "Opposite to the observed increment with other parameters of iron metabolism, serum ferritin concentrations significantly decreased by the end of the study in both treatment groups.",
+            "Serum ferritin concentrations were similar between groups at the end of supplementation and values were within the normal range (Fig. 3C )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Body mass index was used as an indicator of nutritional status. There were not undernourished children in both study groups. Considering all participating children, 71.0% (220/311) had BMI values within the normal range and 29% (91/311) had excess weight (overweight (22%) and obesity 7%) ( Table III also shows the changes in the number and percentages of children with normal BMI, overweight, and obesity in both treatment groups during the study period. In G1, there was an increase in the percentage of children with normal BMI at the expense of a decrease of the percentage of children with excess weight at the end of the treatment period. There were not important changes in BMI in G2 after milk supplementation.",
+        "section": "CHANGES ON ANTHROPOMETRIC PARAMETERS",
+        "section_number": 29,
+        "sentences": [
+            "Body mass index was used as an indicator of nutritional status.",
+            "There were not undernourished children in both study groups.",
+            "Considering all participating children, 71.0% (220/311) had BMI values within the normal range and 29% (91/311) had excess weight (overweight (22%) and obesity 7%) ( Table III also shows the changes in the number and percentages of children with normal BMI, overweight, and obesity in both treatment groups during the study period.",
+            "In G1, there was an increase in the percentage of children with normal BMI at the expense of a decrease of the percentage of children with excess weight at the end of the treatment period.",
+            "There were not important changes in BMI in G2 after milk supplementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "It is important to point out that all participating children were within the normal range of height for age before and after the study period (not shown). However, children from both treatment groups grew approximately 3.2 cm during the study. There were not differences in height increments between groups, therefore, both groups ended with similar height at the end of the study.",
+        "section": "CHANGES ON ANTHROPOMETRIC PARAMETERS",
+        "section_number": 30,
+        "sentences": [
+            "It is important to point out that all participating children were within the normal range of height for age before and after the study period (not shown).",
+            "However, children from both treatment groups grew approximately 3.2 cm during the study.",
+            "There were not differences in height increments between groups, therefore, both groups ended with similar height at the end of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Prior to supplementation, all parameters of the lipid profile (total cholesterol, LDL, HDL, and TG) were within the normal range and were comparable in both study groups (Table IV) . Upon supplementation, all lipid profile parameters significantly increased in G1. On the other hand, in G2, total cholesterol, LDL, and HDL significantly increase while TG decreased although not significantly (Table IV) . All changes in lipid profile parameters were within the normal range for both treatment groups.",
+        "section": "CHANGES ON SERUM LIPID PROFILES",
+        "section_number": 31,
+        "sentences": [
+            "Prior to supplementation, all parameters of the lipid profile (total cholesterol, LDL, HDL, and TG) were within the normal range and were comparable in both study groups (Table IV) .",
+            "Upon supplementation, all lipid profile parameters significantly increased in G1.",
+            "On the other hand, in G2, total cholesterol, LDL, and HDL significantly increase while TG decreased although not significantly (Table IV) .",
+            "All changes in lipid profile parameters were within the normal range for both treatment groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "A daily registration of school attendance, milk consumption, potential side effects, and the presence of acute infections were recorded. Data showed that 12 children left the study, 9 (5.2%) from G1 and 3 (1.9%) from G2. The differences in the number of children that abandoned the study from both groups were not statistically significant (p = 0.145). In G1, 4 children moved from the school area and the remaining 5 left the study due to the presence of gastrointestinal symptomatology such as nausea, vomit, diarrhea, and abdominal pain. Similarly, the 3 children from G2 left the study due to gastrointestinal symptomatology. There were not significant differences in the number of consumed servings between treatment groups, G1 89.2% (287/322 servings) and G2 86.7% (276/322 servings). None of the participating children reported severe side effects during the study. Eight percent of children from G1 and 9.6% from G2 had gastrointestinal symptoms. Approximately 9% of children in each treatment group presented acute infections (including cold and diarrhea) during the study.",
+        "section": "COMPLIANCE, SIDE EFFECTS, AND INCIDENCE OF ACUTE INFECTIONS",
+        "section_number": 32,
+        "sentences": [
+            "A daily registration of school attendance, milk consumption, potential side effects, and the presence of acute infections were recorded.",
+            "Data showed that 12 children left the study, 9 (5.2%) from G1 and 3 (1.9%) from G2.",
+            "The differences in the number of children that abandoned the study from both groups were not statistically significant (p = 0.145).",
+            "In G1, 4 children moved from the school area and the remaining 5 left the study due to the presence of gastrointestinal symptomatology such as nausea, vomit, diarrhea, and abdominal pain.",
+            "Similarly, the 3 children from G2 left the study due to gastrointestinal symptomatology.",
+            "There were not significant differences in the number of consumed servings between treatment groups, G1 89.2% (287/322 servings) and G2 86.7% (276/322 servings).",
+            "None of the participating children reported severe side effects during the study.",
+            "Eight percent of children from G1 and 9.6% from G2 had gastrointestinal symptoms.",
+            "Approximately 9% of children in each treatment group presented acute infections (including cold and diarrhea) during the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Results showed that fortified and non-fortified milk are efficacious to improve serum VA, zinc, and iron concentration in schoolchildren with limited frequency of micronutrient deficiencies. Treatments were well accepted and did not cause severe side effects. Serum concentrations of VA, zinc, and iron significantly increased within both treatment groups. As expected, the beneficial effect of supplementation with both types of milk was greater in children with micronutrient deficiencies. After the supplementation period, there were not significant differences between treatment groups in serum concentrations of these micronutrients. Also, the percentage of children with excess weight decreased after milk intake in G1 while in G2 remained unchanged. In addition, lipid profiles remained normal upon milk supplementation in both groups. Consumption of fortified milk decreased the prevalence of VA, zinc, and iron deficiencies while un-fortified milk intake only decreased the prevalence of zinc and iron.",
+        "section": "DISCUSSION",
+        "section_number": 33,
+        "sentences": [
+            "Results showed that fortified and non-fortified milk are efficacious to improve serum VA, zinc, and iron concentration in schoolchildren with limited frequency of micronutrient deficiencies.",
+            "Treatments were well accepted and did not cause severe side effects.",
+            "Serum concentrations of VA, zinc, and iron significantly increased within both treatment groups.",
+            "As expected, the beneficial effect of supplementation with both types of milk was greater in children with micronutrient deficiencies.",
+            "After the supplementation period, there were not significant differences between treatment groups in serum concentrations of these micronutrients.",
+            "Also, the percentage of children with excess weight decreased after milk intake in G1 while in G2 remained unchanged.",
+            "In addition, lipid profiles remained normal upon milk supplementation in both groups.",
+            "Consumption of fortified milk decreased the prevalence of VA, zinc, and iron deficiencies while un-fortified milk intake only decreased the prevalence of zinc and iron."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Food fortification is a common strategy to improve micronutrient deficiencies (16, 17) . Selection of vehicle-food for micronutrient fortification should consider the cost, frequency of consumption, amount of food used, shelf-live, and maintenance of organoleptic characteristics (18) . Ideally, fortified foods should facilitate and not interfere with the bioavailability of micronutrients (19) .",
+        "section": "DISCUSSION",
+        "section_number": 34,
+        "sentences": [
+            "Food fortification is a common strategy to improve micronutrient deficiencies (16, 17) .",
+            "Selection of vehicle-food for micronutrient fortification should consider the cost, frequency of consumption, amount of food used, shelf-live, and maintenance of organoleptic characteristics (18) .",
+            "Ideally, fortified foods should facilitate and not interfere with the bioavailability of micronutrients (19) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Cereal and cow's milk are the most common foods used for micronutrient fortification. Some cereals however, have the limitation to interfere with mineral absorption. Cow's milk has been successfully used as vehicle in micronutrient fortification in schoolchildren (20) . Administration of fortified skim milk 200 mL with 20 mg of iron and 3 mg of cupper salts for 3-months significantly increased serum Hb concentrations without affecting iron, transferrin or ferritin concentrations of schoolchildren in Mexico (21) . Data also show that in addition to the food vehicle for fortification, the form of the micronutrient salt is important for bioavailability. Evidence shows that ferrous sulfate, ferrous fumarate, and ferric pyrophosphate are efficacious to correct iron deficiencies (22, 23) . These studies show that milk is an excellent vehicle for iron supplementation in children.",
+        "section": "DISCUSSION",
+        "section_number": 35,
+        "sentences": [
+            "Cereal and cow's milk are the most common foods used for micronutrient fortification.",
+            "Some cereals however, have the limitation to interfere with mineral absorption.",
+            "Cow's milk has been successfully used as vehicle in micronutrient fortification in schoolchildren (20) .",
+            "Administration of fortified skim milk 200 mL with 20 mg of iron and 3 mg of cupper salts for 3-months significantly increased serum Hb concentrations without affecting iron, transferrin or ferritin concentrations of schoolchildren in Mexico (21) .",
+            "Data also show that in addition to the food vehicle for fortification, the form of the micronutrient salt is important for bioavailability.",
+            "Evidence shows that ferrous sulfate, ferrous fumarate, and ferric pyrophosphate are efficacious to correct iron deficiencies (22, 23) .",
+            "These studies show that milk is an excellent vehicle for iron supplementation in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Multi-micronutrient food fortification is an effective approach to control VA, zinc, and iron deficiencies. In meta-analyses that assessed the effects of VA, iron, and multi-micronutrient interventions on children growth indicate that individual interventions with VA, zinc, and iron have no significant effect on children linear growth while combined multi-micronutrient interventions have a positive effect (24, 25) . Pinkaew et al. evaluated the impact of (26) . Authors show that consumption of rice or fortified rice increases serum Zn concentrations. However, the increment in serum Zn concentrations was significantly greater in children that received fortified rice (26) . In that study, there were not important changes in secondary end points, iron and VA status, since children were not deficient in these micronutrients (26) . Present data showed that milk or fortified milk affected serum micronutrient status. Prevalence of VA deficiency increased (2.9%) while prevalence of Zn and Fe decreased 8.4% and 6% in G1, respectively; whereas prevalence of VA, Zn, and Fe decreased by 3.7%, 9%, and 5.7% in G2, respectively. Similar to the study by Pinkaew, our results showed that both fortified and non-fortified foods improved micronutrient status. Although concentrations of VA, Zn, and Fe in our study were 1.5, 1.8, and 2.5 times greater in fortified milk than in non-fortified milk, the effects in children were similar at the end of the study. It is possible that the improvement in micronutrients in the non-fortified milk group was the result of adequate micronutrient intake, similar to the RDA. Here it is important to point out that milk treatments in the present study were added to the regular food intake of children. Addition of milk or fortified milk to children regular diets could have completed the required RDA for the micronutrients. The fact that serum VA, Zn, and iron concentrations were similar at the end of the study in children with and without deficiencies supports the contention that both groups of children consumed the required amounts of micronutrients. In addition, the low prevalence of undernourishment in both treatment groups at base line, could be an indication of a diet sufficient in macroand micronutrients in most participating children that could have been complemented with the addition of either non-fortified or fortified-milk.",
+        "section": "DISCUSSION",
+        "section_number": 36,
+        "sentences": [
+            "Multi-micronutrient food fortification is an effective approach to control VA, zinc, and iron deficiencies.",
+            "In meta-analyses that assessed the effects of VA, iron, and multi-micronutrient interventions on children growth indicate that individual interventions with VA, zinc, and iron have no significant effect on children linear growth while combined multi-micronutrient interventions have a positive effect (24, 25) .",
+            "Pinkaew et al. evaluated the impact of (26) .",
+            "Authors show that consumption of rice or fortified rice increases serum Zn concentrations.",
+            "However, the increment in serum Zn concentrations was significantly greater in children that received fortified rice (26) .",
+            "In that study, there were not important changes in secondary end points, iron and VA status, since children were not deficient in these micronutrients (26) .",
+            "Present data showed that milk or fortified milk affected serum micronutrient status.",
+            "Prevalence of VA deficiency increased (2.9%) while prevalence of Zn and Fe decreased 8.4% and 6% in G1, respectively; whereas prevalence of VA, Zn, and Fe decreased by 3.7%, 9%, and 5.7% in G2, respectively.",
+            "Similar to the study by Pinkaew, our results showed that both fortified and non-fortified foods improved micronutrient status.",
+            "Although concentrations of VA, Zn, and Fe in our study were 1.5, 1.8, and 2.5 times greater in fortified milk than in non-fortified milk, the effects in children were similar at the end of the study.",
+            "It is possible that the improvement in micronutrients in the non-fortified milk group was the result of adequate micronutrient intake, similar to the RDA.",
+            "Here it is important to point out that milk treatments in the present study were added to the regular food intake of children.",
+            "Addition of milk or fortified milk to children regular diets could have completed the required RDA for the micronutrients.",
+            "The fact that serum VA, Zn, and iron concentrations were similar at the end of the study in children with and without deficiencies supports the contention that both groups of children consumed the required amounts of micronutrients.",
+            "In addition, the low prevalence of undernourishment in both treatment groups at base line, could be an indication of a diet sufficient in macroand micronutrients in most participating children that could have been complemented with the addition of either non-fortified or fortified-milk."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Studies of micronutrient supplementation indicate that individuals with deficiency respond better to supplementation than those without deficiencies (20) . Present study also evidenced that non-fortified milk or fortified milk consumption had greater effect on micronutrient deficient children than in non-deficient ones. Increased serum concentrations could be the result of augmented gastrointestinal absorption, improved utilization, and greater internal turnover (27) . In this study, milk or fortified-milk supplementation increased transferrin saturation index and decreased serum ferritin concentrations as a consequence of greater iron intake and potential enhanced absorption particularly in deficient children (28) . With non-fortified milk and fortified-milk consumption, we observed variations on transferrin saturation that were within normal values. However, changes were more pronounced in fortified-milk supplemented group. These results are in agreement with other studies that have shown that iron supplementation increases transferrin saturation due to a greater availability of iron (29) . In addition, it has been documented that iron overload also limits ferritin expression and synthesis (30) .",
+        "section": "DISCUSSION",
+        "section_number": 37,
+        "sentences": [
+            "Studies of micronutrient supplementation indicate that individuals with deficiency respond better to supplementation than those without deficiencies (20) .",
+            "Present study also evidenced that non-fortified milk or fortified milk consumption had greater effect on micronutrient deficient children than in non-deficient ones.",
+            "Increased serum concentrations could be the result of augmented gastrointestinal absorption, improved utilization, and greater internal turnover (27) .",
+            "In this study, milk or fortified-milk supplementation increased transferrin saturation index and decreased serum ferritin concentrations as a consequence of greater iron intake and potential enhanced absorption particularly in deficient children (28) .",
+            "With non-fortified milk and fortified-milk consumption, we observed variations on transferrin saturation that were within normal values.",
+            "However, changes were more pronounced in fortified-milk supplemented group.",
+            "These results are in agreement with other studies that have shown that iron supplementation increases transferrin saturation due to a greater availability of iron (29) .",
+            "In addition, it has been documented that iron overload also limits ferritin expression and synthesis (30) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "Since over nutrition coexist within Ecuadorian schoolchildren, it was expected that a unique general nutritional intervention could result in different nutritional effects depending on children's initial nutritional status. The prevalence of children with excess weight decreased 6.3% in G1 whereas in G2 it remained unchanged. Present results also demonstrated that children from both treatment groups grew approximately 3.2 cm which corresponds to the maximum expected for schoolchildren (31) . Increments of weight and height after milk administration in G1 and G2 agree with previous studies. Data show that administration of 190 mL of milk daily for approximately 22-months to schoolchildren resulted in greater weight and height gains compared with un-supplemented controls (32) . In a similar way, administration of 250 mL of whole milk for three months significantly increased weight gain in schoolchildren compared with untreated controls (33) . These studies indicate that administration of milk increases weight, height, and BMI. Food supplementation in schoolchildren, should consider the nutritional status of the population particularly those with excess weight or in the upper limit of normality for BMI.",
+        "section": "DISCUSSION",
+        "section_number": 38,
+        "sentences": [
+            "Since over nutrition coexist within Ecuadorian schoolchildren, it was expected that a unique general nutritional intervention could result in different nutritional effects depending on children's initial nutritional status.",
+            "The prevalence of children with excess weight decreased 6.3% in G1 whereas in G2 it remained unchanged.",
+            "Present results also demonstrated that children from both treatment groups grew approximately 3.2 cm which corresponds to the maximum expected for schoolchildren (31) .",
+            "Increments of weight and height after milk administration in G1 and G2 agree with previous studies.",
+            "Data show that administration of 190 mL of milk daily for approximately 22-months to schoolchildren resulted in greater weight and height gains compared with un-supplemented controls (32) .",
+            "In a similar way, administration of 250 mL of whole milk for three months significantly increased weight gain in schoolchildren compared with untreated controls (33) .",
+            "These studies indicate that administration of milk increases weight, height, and BMI.",
+            "Food supplementation in schoolchildren, should consider the nutritional status of the population particularly those with excess weight or in the upper limit of normality for BMI."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "The problem with multi-micronutrient food fortification is the potential interaction among minerals for their absorption in the intestine (34) . Fortified milk used in this study had a Zn to iron ratio of 1.57, the important increments observed on serum Zn and iron and the positive effects on children growth, indicated that a potential negative interaction between these minerals for their absorption was not important.",
+        "section": "DISCUSSION",
+        "section_number": 39,
+        "sentences": [
+            "The problem with multi-micronutrient food fortification is the potential interaction among minerals for their absorption in the intestine (34) .",
+            "Fortified milk used in this study had a Zn to iron ratio of 1.57, the important increments observed on serum Zn and iron and the positive effects on children growth, indicated that a potential negative interaction between these minerals for their absorption was not important."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "A potential limitation of the present study is the lack of data on daily children's intake. However, since G1 and G2 groups were comparable at most baseline parameters, it is unlikely that children's intake would had been an important confounding factor.",
+        "section": "DISCUSSION",
+        "section_number": 40,
+        "sentences": [
+            "A potential limitation of the present study is the lack of data on daily children's intake.",
+            "However, since G1 and G2 groups were comparable at most baseline parameters, it is unlikely that children's intake would had been an important confounding factor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41987",
+        "text": "To the best of our knowledge this is the first combined micronutrient intervention study carried out to correct the most common micronutrient deficiencies in Ecuadorian schoolchildren. These results warrant further research-intervention programs in other schoolchildren and other nutritional vulnerable populations.",
+        "section": "DISCUSSION",
+        "section_number": 41,
+        "sentences": [
+            "To the best of our knowledge this is the first combined micronutrient intervention study carried out to correct the most common micronutrient deficiencies in Ecuadorian schoolchildren.",
+            "These results warrant further research-intervention programs in other schoolchildren and other nutritional vulnerable populations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

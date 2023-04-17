@@ -1,0 +1,891 @@
+[
+    {
+        "doc_id": "33222",
+        "text": "The aim of this study was to test whether a cognitive behavioral and mindfulness-based group sleep intervention would improve sleep and anxiety on school nights in a sample of at-risk adolescents. We also examined whether benefits to sleep and anxiety would be mediated by improvements in sleep hygiene awareness and presleep hyperarousal. Methods: Secondary analysis of a randomized controlled trial conducted with 123 adolescent participants (female = 60%; mean age = 14.48) who had high levels of sleep problems and anxiety symptoms. Participants were randomized into a sleep improvement intervention (n = 63) or active control \"study skills\" intervention (n = 60). Preintervention and postintervention, participants completed the Pittsburgh Sleep Quality Index (PSQI), Spence Children's Anxiety Scale (SCAS), Sleep Beliefs Scale (SBS), and Presleep Hyperarousal Scale (PSAS) and wore an actiwatch and completed a sleep diary for five school nights. Results: The sleep intervention condition was associated with significantly greater improvements in actigraphy-measured sleep onset latency (SOL obj), sleep diary measured sleep efficiency (SE subj), PSQI, SCAS, SBS, and PSAS, with medium to large effect sizes. Improvements in the PSQI and SCAS were specifically mediated by the measured improvements in the PSAS that resulted from the intervention. Improvements in SOL obj and SE subj were not specifically related to improvements in any of the putative treatment mechanisms. Conclusions: This study provides evidence that presleep arousal but not sleep hygiene awareness is important for adolescents' perceived sleep quality and could be a target for new treatments of adolescent sleep problems.",
+        "section": "Abstract",
+        "sentences": [
+            "The aim of this study was to test whether a cognitive behavioral and mindfulness-based group sleep intervention would improve sleep and anxiety on school nights in a sample of at-risk adolescents.",
+            "We also examined whether benefits to sleep and anxiety would be mediated by improvements in sleep hygiene awareness and presleep hyperarousal.",
+            "Methods: Secondary analysis of a randomized controlled trial conducted with 123 adolescent participants (female = 60%; mean age = 14.48) who had high levels of sleep problems and anxiety symptoms.",
+            "Participants were randomized into a sleep improvement intervention (n = 63) or active control \"study skills\" intervention (n = 60).",
+            "Preintervention and postintervention, participants completed the Pittsburgh Sleep Quality Index (PSQI), Spence Children's Anxiety Scale (SCAS), Sleep Beliefs Scale (SBS), and Presleep Hyperarousal Scale (PSAS) and wore an actiwatch and completed a sleep diary for five school nights.",
+            "Results: The sleep intervention condition was associated with significantly greater improvements in actigraphy-measured sleep onset latency (SOL obj), sleep diary measured sleep efficiency (SE subj), PSQI, SCAS, SBS, and PSAS, with medium to large effect sizes.",
+            "Improvements in the PSQI and SCAS were specifically mediated by the measured improvements in the PSAS that resulted from the intervention.",
+            "Improvements in SOL obj and SE subj were not specifically related to improvements in any of the putative treatment mechanisms.",
+            "Conclusions: This study provides evidence that presleep arousal but not sleep hygiene awareness is important for adolescents' perceived sleep quality and could be a target for new treatments of adolescent sleep problems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "There is growing awareness that many adolescents obtain insufficient and/or poor quality sleep, especially on school nights. Adolescents are thought to optimally require approximately 9 hours of sleep per night. 1 However, a recent meta-analysis demonstrated that most adolescents (53%) obtain less than 8 hours of sleep on school nights and many (36%) report difficulty falling asleep. 2 Insomnia is the most prevalent sleep disorder among adolescents: 8%-11% of young people meet diagnostic criteria for insomnia at any one time, which tends to persist over time. 3, 4 Additionally, between 1%-8% of adolescent's meet diagnostic criteria for delayed sleep phase disorder, with the majority reporting at least one symptom. 5, 6 A number of factors combine to make sleep vulnerable to disturbance in adolescence. Adolescence is associated with a reduction in the accumulation of homeostatic sleep pressure during wakefulness, a lengthening of the intrinsic period of the endogenous circadian oscillator, and a delay in the release of melatonin in the evening. 7 Parental control over bedtime (BT) is also lessened 8 , and adolescents develop social interests and responsibilities that promote wakefulness in the evening. 9 Furthermore, electronic devices have a negative impact on sleep during adolescence, including delaying sleep onset and reducing total sleep time (TST). 10 Finally, adolescents are vulnerable to the same physiological susceptibilities and psychological and environmental vulnerabilities that cause insomnia in adults, such as predisposition to cognitive-emotional hyperarousal. 11 These physiological and social/cultural processes have been described as the \"perfect storm\" of factors in adolescence, so that reduced sleep drive in the evening becomes permissive of continued waking activities and delayed BTs. 12 This delay in sleep onset can have several consequences, including chronic sleep reduction (because school starts early), reduced restorative value of sleep (because recovery sleep tends to occur at an inappropriate circadian phase), daytime sleepiness, school nonattendance, poor school performance, and somatic symptoms. 2, 13 Adolescent sleep disturbance also precipitates and maintains many emotional and behavioral problems. 14 Indeed, recent evidence suggests that sleep problems, particularly wakefulness in bed (eg, prolonged sleep onset latency [SOL] and poor sleep efficiency [SE]), precede the",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "There is growing awareness that many adolescents obtain insufficient and/or poor quality sleep, especially on school nights.",
+            "Adolescents are thought to optimally require approximately 9 hours of sleep per night.",
+            "1 However, a recent meta-analysis demonstrated that most adolescents (53%) obtain less than 8 hours of sleep on school nights and many (36%) report difficulty falling asleep.",
+            "2 Insomnia is the most prevalent sleep disorder among adolescents: 8%-11% of young people meet diagnostic criteria for insomnia at any one time, which tends to persist over time.",
+            "3, 4 Additionally, between 1%-8% of adolescent's meet diagnostic criteria for delayed sleep phase disorder, with the majority reporting at least one symptom.",
+            "5, 6 A number of factors combine to make sleep vulnerable to disturbance in adolescence.",
+            "Adolescence is associated with a reduction in the accumulation of homeostatic sleep pressure during wakefulness, a lengthening of the intrinsic period of the endogenous circadian oscillator, and a delay in the release of melatonin in the evening.",
+            "7 Parental control over bedtime (BT) is also lessened 8 , and adolescents develop social interests and responsibilities that promote wakefulness in the evening.",
+            "9 Furthermore, electronic devices have a negative impact on sleep during adolescence, including delaying sleep onset and reducing total sleep time (TST).",
+            "10 Finally, adolescents are vulnerable to the same physiological susceptibilities and psychological and environmental vulnerabilities that cause insomnia in adults, such as predisposition to cognitive-emotional hyperarousal.",
+            "11 These physiological and social/cultural processes have been described as the \"perfect storm\" of factors in adolescence, so that reduced sleep drive in the evening becomes permissive of continued waking activities and delayed BTs.",
+            "12 This delay in sleep onset can have several consequences, including chronic sleep reduction (because school starts early), reduced restorative value of sleep (because recovery sleep tends to occur at an inappropriate circadian phase), daytime sleepiness, school nonattendance, poor school performance, and somatic symptoms.",
+            "2, 13 Adolescent sleep disturbance also precipitates and maintains many emotional and behavioral problems.",
+            "14 Indeed, recent evidence suggests that sleep problems, particularly wakefulness in bed (eg, prolonged sleep onset latency [SOL] and poor sleep efficiency [SE]), precede the"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Despite the fact that cognitive behavioral therapy for insomnia is a frontline treatment for insomnia in adults and mindfulness-based sleep interventions are showing promise of efficacy, no previous studies have evaluated mechanisms of change in these treatments using an adolescent sample. Results showed that reductions in presleep arousal represent a potential psychophysiological mechanism for therapeutic improvements in self-reported sleep problems among anxious adolescents. This suggests that the active treatment components of cognitive behavioral and mindfulness-based sleep interventions may be those that target hyperarousal and that these treatments could be directed toward adolescents with vulnerability for hyperarousal. Future studies that examine durability and progression of change over time, specificity of effects of different treatment components, dose-response relationships, and temporal relations between variables are needed.",
+        "section": "Statement of Significance",
+        "section_number": 2,
+        "sentences": [
+            "Despite the fact that cognitive behavioral therapy for insomnia is a frontline treatment for insomnia in adults and mindfulness-based sleep interventions are showing promise of efficacy, no previous studies have evaluated mechanisms of change in these treatments using an adolescent sample.",
+            "Results showed that reductions in presleep arousal represent a potential psychophysiological mechanism for therapeutic improvements in self-reported sleep problems among anxious adolescents.",
+            "This suggests that the active treatment components of cognitive behavioral and mindfulness-based sleep interventions may be those that target hyperarousal and that these treatments could be directed toward adolescents with vulnerability for hyperarousal.",
+            "Future studies that examine durability and progression of change over time, specificity of effects of different treatment components, dose-response relationships, and temporal relations between variables are needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "development of anxiety and depression in adolescence more than the reverse. 15, 16 Adolescence is, therefore, a critical developmental window for understanding the mechanisms of sleep disturbance to inform early intervention.",
+        "section": "Statement of Significance",
+        "section_number": 3,
+        "sentences": [
+            "development of anxiety and depression in adolescence more than the reverse.",
+            "15, 16 Adolescence is, therefore, a critical developmental window for understanding the mechanisms of sleep disturbance to inform early intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Sleep disturbance in adolescents can be treated using a range of approaches. School-based sleep education programs have the potential to reach a large number of adolescents. However, recent reviews have suggested that while these psychoeducational programs are effective in increasing students' knowledge about sleep, they are less effective in improving sleep behavior or mental health. [17] [18] [19] These findings are consistent with research showing that simple sleep hygiene education does not guarantee positive outcomes in adults 20 , and that targeted interventions are more effective than universal interventions in preventing child and adolescent mental health problems. 21 In sum, these findings suggest that active sleep interventions that incorporate supported decision-making tools and that are delivered to students who are already experiencing early signs of sleep and mental health problems may be more effective. 22 There is emerging evidence that adolescent sleep problems can be treated effectively using cognitive behavioral therapies. Cognitive behavioral therapy for insomnia (CBT-I) is recommended as a first-line treatment for adult insomnia 23 , based on evidence from multiple systematic reviews and meta-analyses that the intervention improves sleep and mental health in adults, with small to medium effect sizes. [24] [25] [26] [27] However, only nine trials have evaluated the efficacy of cognitive behavioral sleep interventions among adolescents. Two were randomized controlled trials (RCTs) 28, 29 , one was a prospective RCT 30 , and six were uncontrolled feasibility trials. [31] [32] [33] [34] [35] [36] All the interventions incorporated core elements of CBT-I (eg, sleep hygiene instruction, stimulus control, cognitive restructuring), and some included added treatment components (eg, mindfulness, savoring, anxiety/depression specific components). In general, the interventions were associated with meaningful improvements in self-reported and objective sleep and functional outcomes (daytime sleepiness, depression, and anxiety) within active treatment conditions. As with adults, improvements tended to be stronger for wakefulness in bed variables compared to sleep duration variables and self-reported sleep variables compared to objective sleep variables. [24] [25] [26] However, the trials were limited in several ways, including small sample sizes [31] [32] [33] [34] [35] [36] , lack of control groups [31] [32] [33] [34] [35] [36] , wait-list control groups 28, 29 , high attrition rates 29, 32 , lack of follow-ups 31, 34 , short follow-ups 28, 35, 36 , and/or reliance of self-reported measures of sleep. 29, 33, 34 The SENSE study is an RCT investigating whether a 7-week, cognitive behavioral, and mindfulness-based group sleep intervention can prevent the emergence of major depressive disorder (MDD) at 2-year follow-up among a group of adolescents (aged 12-17 years) who were experiencing elevated levels of sleep problems and anxiety symptoms. 37 Strengths of the SENSE study are the large sample size, the well-defined manual-driven treatment consisting of components demonstrated to improve sleep in prior research, the time-and format-equated active control \"study skills\" condition, and the use of both self-reported and objective measures of sleep duration and quality. We have previously reported the postintervention effects of the intervention on sleep and internalizing symptoms. 38 Results showed that the sleep intervention condition (Sleep SENSE) was associated with significantly greater improvements in objective and self-reported SOL, perceived sleep quality, daytime sleepiness, and anxiety compared to the active control condition (Study SENSE), with small to medium effect sizes. The aim of the present study was to examine the mechanisms underlying these therapeutic improvements.",
+        "section": "Statement of Significance",
+        "section_number": 4,
+        "sentences": [
+            "Sleep disturbance in adolescents can be treated using a range of approaches.",
+            "School-based sleep education programs have the potential to reach a large number of adolescents.",
+            "However, recent reviews have suggested that while these psychoeducational programs are effective in increasing students' knowledge about sleep, they are less effective in improving sleep behavior or mental health. [",
+            "17] [18] [19] These findings are consistent with research showing that simple sleep hygiene education does not guarantee positive outcomes in adults 20 , and that targeted interventions are more effective than universal interventions in preventing child and adolescent mental health problems.",
+            "21 In sum, these findings suggest that active sleep interventions that incorporate supported decision-making tools and that are delivered to students who are already experiencing early signs of sleep and mental health problems may be more effective.",
+            "22 There is emerging evidence that adolescent sleep problems can be treated effectively using cognitive behavioral therapies.",
+            "Cognitive behavioral therapy for insomnia (CBT-I) is recommended as a first-line treatment for adult insomnia 23 , based on evidence from multiple systematic reviews and meta-analyses that the intervention improves sleep and mental health in adults, with small to medium effect sizes. [",
+            "24] [25] [26] [27] However, only nine trials have evaluated the efficacy of cognitive behavioral sleep interventions among adolescents.",
+            "Two were randomized controlled trials (RCTs) 28, 29 , one was a prospective RCT 30 , and six were uncontrolled feasibility trials. [",
+            "31] [32] [33] [34] [35] [36] All the interventions incorporated core elements of CBT-I (eg, sleep hygiene instruction, stimulus control, cognitive restructuring), and some included added treatment components (eg, mindfulness, savoring, anxiety/depression specific components).",
+            "In general, the interventions were associated with meaningful improvements in self-reported and objective sleep and functional outcomes (daytime sleepiness, depression, and anxiety) within active treatment conditions.",
+            "As with adults, improvements tended to be stronger for wakefulness in bed variables compared to sleep duration variables and self-reported sleep variables compared to objective sleep variables. [",
+            "24] [25] [26] However, the trials were limited in several ways, including small sample sizes [31] [32] [33] [34] [35] [36] , lack of control groups [31] [32] [33] [34] [35] [36] , wait-list control groups 28, 29 , high attrition rates 29, 32 , lack of follow-ups 31, 34 , short follow-ups 28, 35, 36 , and/or reliance of self-reported measures of sleep.",
+            "29, 33, 34 The SENSE study is an RCT investigating whether a 7-week, cognitive behavioral, and mindfulness-based group sleep intervention can prevent the emergence of major depressive disorder (MDD) at 2-year follow-up among a group of adolescents (aged 12-17 years) who were experiencing elevated levels of sleep problems and anxiety symptoms.",
+            "37 Strengths of the SENSE study are the large sample size, the well-defined manual-driven treatment consisting of components demonstrated to improve sleep in prior research, the time-and format-equated active control \"study skills\" condition, and the use of both self-reported and objective measures of sleep duration and quality.",
+            "We have previously reported the postintervention effects of the intervention on sleep and internalizing symptoms.",
+            "38 Results showed that the sleep intervention condition (Sleep SENSE) was associated with significantly greater improvements in objective and self-reported SOL, perceived sleep quality, daytime sleepiness, and anxiety compared to the active control condition (Study SENSE), with small to medium effect sizes.",
+            "The aim of the present study was to examine the mechanisms underlying these therapeutic improvements."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "There is a growing movement within intervention research to examine processes of change throughout treatment. 39 In order for an intervention to reach the highest standards of evidence, it must not only demonstrate that it works but also show that it works via its putative mechanisms. 40 Treatment mechanism research can lead to a number of important insights, including clarifying the nature and etiology of disorders, elucidating the processes leading to therapeutic change, identifying active treatment components, and refining current treatment protocols. Identifying mediators of change is an important first step in understanding mechanisms of change. 39 A number of trials have examined mediators of change in adult CBT-I and have provided some evidence that the intervention leads to changes in the factors thought to perpetuate insomnia, including presleep hyperarousal and maladaptive sleep beliefs. 41 However, in statistical analyses, these variables were often assessed as dependent variables, measures of adherence, or moderators, rather than as mediating variables.",
+        "section": "Statement of Significance",
+        "section_number": 5,
+        "sentences": [
+            "There is a growing movement within intervention research to examine processes of change throughout treatment.",
+            "39 In order for an intervention to reach the highest standards of evidence, it must not only demonstrate that it works but also show that it works via its putative mechanisms.",
+            "40 Treatment mechanism research can lead to a number of important insights, including clarifying the nature and etiology of disorders, elucidating the processes leading to therapeutic change, identifying active treatment components, and refining current treatment protocols.",
+            "Identifying mediators of change is an important first step in understanding mechanisms of change.",
+            "39 A number of trials have examined mediators of change in adult CBT-I and have provided some evidence that the intervention leads to changes in the factors thought to perpetuate insomnia, including presleep hyperarousal and maladaptive sleep beliefs.",
+            "41 However, in statistical analyses, these variables were often assessed as dependent variables, measures of adherence, or moderators, rather than as mediating variables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "A number of mediators may account for therapeutic improvement in adolescent cognitive behavioral and mindfulness-based sleep interventions. Hyperarousal models of insomnia have received widespread support and posit that sleep problems do not improve in individuals who repeatedly associate the bed and bedroom with poor sleep, resulting in conditioned arousal, whereby the bed and sleep environment become stimuli for heightened arousal instead of dearousal, and that individuals who are vulnerable to focusing cognitively on their insomnia symptoms are particularly susceptible to developing insomnia. 11 Maladaptive behaviors (eg, consuming caffeine and using electronic device closes to BT) are also proposed to maintain sleep problems by disturbing homeostatic regulation and circadian systems. Thus, poor sleep hygiene and presleep hyperarousal (eg, worry, rumination, rehearsal, planning, muscular tension, and autonomic activity) are assumed to represent the major psychophysiological mechanisms for the maintenance of insomnia. Hyperarousal models of insomnia also posit that the experience of chronic sleep disturbance may have a critical impact on the development of relevant psychopathology, including affective disorders (eg, anxiety and depression).",
+        "section": "Statement of Significance",
+        "section_number": 6,
+        "sentences": [
+            "A number of mediators may account for therapeutic improvement in adolescent cognitive behavioral and mindfulness-based sleep interventions.",
+            "Hyperarousal models of insomnia have received widespread support and posit that sleep problems do not improve in individuals who repeatedly associate the bed and bedroom with poor sleep, resulting in conditioned arousal, whereby the bed and sleep environment become stimuli for heightened arousal instead of dearousal, and that individuals who are vulnerable to focusing cognitively on their insomnia symptoms are particularly susceptible to developing insomnia.",
+            "11 Maladaptive behaviors (eg, consuming caffeine and using electronic device closes to BT) are also proposed to maintain sleep problems by disturbing homeostatic regulation and circadian systems.",
+            "Thus, poor sleep hygiene and presleep hyperarousal (eg, worry, rumination, rehearsal, planning, muscular tension, and autonomic activity) are assumed to represent the major psychophysiological mechanisms for the maintenance of insomnia.",
+            "Hyperarousal models of insomnia also posit that the experience of chronic sleep disturbance may have a critical impact on the development of relevant psychopathology, including affective disorders (eg, anxiety and depression)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Several studies have shown that anxious adolescents have particular difficulties with sleep onset and maintenance 42, 43 , possibly because their self-regulatory skills are underdeveloped compared to adults and compromised by excessive physiologic and cognitive arousal. [44] [45] [46] For example, Hiller et al. 44 found that 87% of sleep-disordered adolescents reported catastrophic thinking in the presleep period, with concerns about performance and interpersonal aspects of school most central. It is also possible that anxious adolescents may have particular difficulty adhering to good sleep hygiene behaviors, as they may spend more time in their bedroom and delay sleep as a means of avoiding disorder-specific stressors and cognitions. In support of this, poor sleep hygiene behaviors have been shown to predict poor sleep and functional outcomes in adolescents. 10, 47 However, all of these studies were limited by cross-sectional or correlational designs, which cannot attribute causality, ascertain directions of effects, or determine if an association between two variables is due to a third (unknown) variable.",
+        "section": "Statement of Significance",
+        "section_number": 7,
+        "sentences": [
+            "Several studies have shown that anxious adolescents have particular difficulties with sleep onset and maintenance 42, 43 , possibly because their self-regulatory skills are underdeveloped compared to adults and compromised by excessive physiologic and cognitive arousal. [",
+            "44] [45] [46] For example, Hiller et al. 44 found that 87% of sleep-disordered adolescents reported catastrophic thinking in the presleep period, with concerns about performance and interpersonal aspects of school most central.",
+            "It is also possible that anxious adolescents may have particular difficulty adhering to good sleep hygiene behaviors, as they may spend more time in their bedroom and delay sleep as a means of avoiding disorder-specific stressors and cognitions.",
+            "In support of this, poor sleep hygiene behaviors have been shown to predict poor sleep and functional outcomes in adolescents.",
+            "10, 47 However, all of these studies were limited by cross-sectional or correlational designs, which cannot attribute causality, ascertain directions of effects, or determine if an association between two variables is due to a third (unknown) variable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Implementing different techniques to improve presleep arousal and sleep hygiene are common goals of adolescent cognitive behavioral sleep interventions. Sleep hygiene therapy involves psychoeducation about normal and healthy sleep behaviors and environmental conditions. Stimulus control includes instructions to avoid using the bed and bedroom for engaging activities. Cognitive restructuring focuses on managing worries and ruminations at night. Mindfulness-based techniques and savoring 48 aim to increase positive affect, decrease negative affect, and reduce maladaptive automatic emotional responses to emotional states.",
+        "section": "Statement of Significance",
+        "section_number": 8,
+        "sentences": [
+            "Implementing different techniques to improve presleep arousal and sleep hygiene are common goals of adolescent cognitive behavioral sleep interventions.",
+            "Sleep hygiene therapy involves psychoeducation about normal and healthy sleep behaviors and environmental conditions.",
+            "Stimulus control includes instructions to avoid using the bed and bedroom for engaging activities.",
+            "Cognitive restructuring focuses on managing worries and ruminations at night.",
+            "Mindfulness-based techniques and savoring 48 aim to increase positive affect, decrease negative affect, and reduce maladaptive automatic emotional responses to emotional states."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The present study had three hypotheses. First, we predicted that compared to the Study SENSE intervention, the Sleep SENSE intervention would improve self-reported and objective indices of sleep quality on school nights in a sample of at-risk adolescents, particularly improving wakefulness in bed variables. Second, we predicted that compared to the Study SENSE intervention, the Sleep SENSE intervention would decrease symptoms of anxiety and improve sleep hygiene awareness and presleep hyperarousal. Third, we predicted that benefits to both sleep and anxiety on school nights would be specifically mediated by the measured improvements in sleep hygiene awareness and presleep hyperarousal that resulted from the intervention. We analyzed school night sleep because of the well established discrepancy between weekday and weekend/holiday sleep habits in adolescents 2 and because presleep arousal is more likely to occur on school nights. 44 Previously, we reported sleep averaged across the week. 38 Objective sleep was measured using wrist actigraphy and self-reported sleep using sleep diaries and questionnaires. Previously, we relied on questionnaires as the primary measure of self-reported sleep 38 ; however, they are subject to the limits of introspection and memory bias. Sleep diaries are considered the gold standard of self-reported sleep assessment. 49 ",
+        "section": "Statement of Significance",
+        "section_number": 9,
+        "sentences": [
+            "The present study had three hypotheses.",
+            "First, we predicted that compared to the Study SENSE intervention, the Sleep SENSE intervention would improve self-reported and objective indices of sleep quality on school nights in a sample of at-risk adolescents, particularly improving wakefulness in bed variables.",
+            "Second, we predicted that compared to the Study SENSE intervention, the Sleep SENSE intervention would decrease symptoms of anxiety and improve sleep hygiene awareness and presleep hyperarousal.",
+            "Third, we predicted that benefits to both sleep and anxiety on school nights would be specifically mediated by the measured improvements in sleep hygiene awareness and presleep hyperarousal that resulted from the intervention.",
+            "We analyzed school night sleep because of the well established discrepancy between weekday and weekend/holiday sleep habits in adolescents 2 and because presleep arousal is more likely to occur on school nights.",
+            "44 Previously, we reported sleep averaged across the week.",
+            "38 Objective sleep was measured using wrist actigraphy and self-reported sleep using sleep diaries and questionnaires.",
+            "Previously, we relied on questionnaires as the primary measure of self-reported sleep 38 ; however, they are subject to the limits of introspection and memory bias.",
+            "Sleep diaries are considered the gold standard of self-reported sleep assessment.",
+            "49"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The full method of the SENSE Study is reported in Blake et al. 38 and Waloszek et al. 37 Here, we focus on methods relevant to the present analyses.",
+        "section": "METHODS",
+        "section_number": 10,
+        "sentences": [
+            "The full method of the SENSE Study is reported in Blake et al. 38 and Waloszek et al. 37 Here, we focus on methods relevant to the present analyses."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The study used a parallel RCT design that followed all CONSORT RCT requirements for nonpharmacological trials to ensure the quality, accuracy, and integrity of the trial. 50 The study used appropriate randomization sequence generation and allocation concealment, attempted to minimize interventional contamination and operator bias, provided blinded assessment of study end points, and included a detailed record of participant flow (Figure 1 ). The experimental group took part in a cognitive behavioral and mindfulness-based sleep intervention (Sleep SENSE), and the active control group took part in a study skills educational program (Study SENSE). Participants were recruited via a school-based screening to identify students from the general community with high levels of anxiety and sleeping difficulties. Participants underwent assessments of sleep and psychopathology before and immediately after the intervention phase.",
+        "section": "Design",
+        "section_number": 11,
+        "sentences": [
+            "The study used a parallel RCT design that followed all CONSORT RCT requirements for nonpharmacological trials to ensure the quality, accuracy, and integrity of the trial.",
+            "50 The study used appropriate randomization sequence generation and allocation concealment, attempted to minimize interventional contamination and operator bias, provided blinded assessment of study end points, and included a detailed record of participant flow (Figure 1 ).",
+            "The experimental group took part in a cognitive behavioral and mindfulness-based sleep intervention (Sleep SENSE), and the active control group took part in a study skills educational program (Study SENSE).",
+            "Participants were recruited via a school-based screening to identify students from the general community with high levels of anxiety and sleeping difficulties.",
+            "Participants underwent assessments of sleep and psychopathology before and immediately after the intervention phase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Participants were recruited from secondary schools in the Melbourne Metropolitan Area, Australia. The study, and all procedures, including data management and participant confidentiality, were approved by the University of Melbourne Human Research Ethics Committee (HREC#1237312), the Department of Education and Early Childhood Development (DEECD) (2012_001659), and the Catholic Education Office Melbourne (CEOM) (GE12/000091819). It also complied with the Australian National Health and Medical Research Council guidelines. All participants and their guardians gave written informed consent before participating in the study.",
+        "section": "Ethics, Consent, and Permissions",
+        "section_number": 12,
+        "sentences": [
+            "Participants were recruited from secondary schools in the Melbourne Metropolitan Area, Australia.",
+            "The study, and all procedures, including data management and participant confidentiality, were approved by the University of Melbourne Human Research Ethics Committee (HREC#1237312), the Department of Education and Early Childhood Development (DEECD) (2012_001659), and the Catholic Education Office Melbourne (CEOM) (GE12/000091819).",
+            "It also complied with the Australian National Health and Medical Research Council guidelines.",
+            "All participants and their guardians gave written informed consent before participating in the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The overall study has five data collection phases. 37 The present paper reports on the first four phases (screening to postintervention), which were completed in 2013-2014. Phase five (2-year follow-up) will be completed by 2017. Details of phases 1-4, the recruitment process, and participant numbers can be found in Figure 1 . Participants were reimbursed for their time and travel expenses with a department store voucher for each assessment phase. They were not compensated for participation in the interventions.",
+        "section": "Procedure",
+        "section_number": 13,
+        "sentences": [
+            "The overall study has five data collection phases.",
+            "37 The present paper reports on the first four phases (screening to postintervention), which were completed in 2013-2014.",
+            "Phase five (2-year follow-up) will be completed by 2017.",
+            "Details of phases 1-4, the recruitment process, and participant numbers can be found in Figure 1 .",
+            "Participants were reimbursed for their time and travel expenses with a department store voucher for each assessment phase.",
+            "They were not compensated for participation in the interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Participants were recruited using a two-stage procedure, consisting of an in-school screening followed by a diagnostic interview for those meeting screening criteria, to identify students with high levels of anxiety and sleeping difficulties but without a history of MDD. One hundred and one schools were contacted via letters or e-mails describing the study. Seventeen hundred thirty-seven students provided written parental consent to participate in the screening and were asked to attend the screening assessment session. Fourteen hundred ninety-one students completed the screening questionnaire.",
+        "section": "Participant Recruitment",
+        "section_number": 14,
+        "sentences": [
+            "Participants were recruited using a two-stage procedure, consisting of an in-school screening followed by a diagnostic interview for those meeting screening criteria, to identify students with high levels of anxiety and sleeping difficulties but without a history of MDD.",
+            "One hundred and one schools were contacted via letters or e-mails describing the study.",
+            "Seventeen hundred thirty-seven students provided written parental consent to participate in the screening and were asked to attend the screening assessment session.",
+            "Fourteen hundred ninety-one students completed the screening questionnaire."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Participants whose ratings on the screening questionnaire indicated high anxiety (Spence Children's Anxiety Scale ([SCAS] total score >32 and >38 for males and females, respectively), 51 as well as the likely presence of sleep problems (Pittsburgh Sleep Quality Index [PSQI] global score >4), 52 were invited to take part in a face-to-face diagnostic interview based on DSM-IV-TR criteria (the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version [K-SADS-PL]) 53 with trained interviewers. Three hundred ninety-seven participants met criteria after the school screening and were invited to participate in the interview; 218 consented to participate. Participants who scored above the cutoff in the SCAS and PSQI in the screening assessment and who had never met criteria for MDD were invited to participate in the intervention stage of the study. Those with a history of MDD (n = 30, 13.7%) were excluded because the study's ultimate goal was to prevent first incidence of MDD at 2-year follow-up. 37, 38 Other exclusion criteria were current or past diagnoses of bipolar or psychotic disorder, and inadequate comprehension of written and spoken English. No participants were excluded for these reasons. Medication use was also assessed at preintervention and postintervention. No participants reported taking psychiatric medication during the interventions (eg, hypnotics, anxiolytics, antidepressants, stimulants). Two participants took melatonin, both in the Study SENSE condition.",
+        "section": "Inclusion and Exclusion Criteria",
+        "section_number": 15,
+        "sentences": [
+            "Participants whose ratings on the screening questionnaire indicated high anxiety (Spence Children's Anxiety Scale ([SCAS] total score >32 and >38 for males and females, respectively), 51 as well as the likely presence of sleep problems (Pittsburgh Sleep Quality Index [PSQI] global score >4), 52 were invited to take part in a face-to-face diagnostic interview based on DSM-IV-TR criteria (the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version [K-SADS-PL]) 53 with trained interviewers.",
+            "Three hundred ninety-seven participants met criteria after the school screening and were invited to participate in the interview; 218 consented to participate.",
+            "Participants who scored above the cutoff in the SCAS and PSQI in the screening assessment and who had never met criteria for MDD were invited to participate in the intervention stage of the study.",
+            "Those with a history of MDD (n = 30, 13.7%) were excluded because the study's ultimate goal was to prevent first incidence of MDD at 2-year follow-up.",
+            "37, 38 Other exclusion criteria were current or past diagnoses of bipolar or psychotic disorder, and inadequate comprehension of written and spoken English.",
+            "No participants were excluded for these reasons.",
+            "Medication use was also assessed at preintervention and postintervention.",
+            "No participants reported taking psychiatric medication during the interventions (eg, hypnotics, anxiolytics, antidepressants, stimulants).",
+            "Two participants took melatonin, both in the Study SENSE condition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "One hundred eighty-eight participants met inclusion criteria after the diagnostic interview. Participants who met inclusion criteria after the diagnostic interview and who consented to participate in the intervention stage of the trial (n = 144) were asked to complete a number of assessments. Preintervention and postintervention, participants completed sleep and anxiety questionnaires and wore an actiwatch and completed a sleep diary for five school nights (ie, Sunday night-Thursday night).",
+        "section": "Data Collection",
+        "section_number": 16,
+        "sentences": [
+            "One hundred eighty-eight participants met inclusion criteria after the diagnostic interview.",
+            "Participants who met inclusion criteria after the diagnostic interview and who consented to participate in the intervention stage of the trial (n = 144) were asked to complete a number of assessments.",
+            "Preintervention and postintervention, participants completed sleep and anxiety questionnaires and wore an actiwatch and completed a sleep diary for five school nights (ie, Sunday night-Thursday night)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Eligible participants who consented to participate in the intervention stage of the trial were randomly allocated to receive either the sleep intervention (Sleep SENSE, n = 71) or the active control group (Study SENSE, n = 73). A blinded statistician randomized the eligible participants stratified by gender, age, and presence/absence of current anxiety disorder. Participants and their guardians were not told the status of the condition to which participants were assigned (ie, active intervention vs. control) or the expected outcome of the study. Twenty participants (10 randomized to Sleep SENSE, 10 to Study SENSE) declined participation before the start of the baseline assessment and were counted as \"randomized nonattenders\". Five participants did not complete at least four of the seven intervention sessions (Sleep SENSE = 4, Study SENSE = 1) and were classified as \"noncompleters\".",
+        "section": "Randomization and Blinding",
+        "section_number": 17,
+        "sentences": [
+            "Eligible participants who consented to participate in the intervention stage of the trial were randomly allocated to receive either the sleep intervention (Sleep SENSE, n = 71) or the active control group (Study SENSE, n = 73).",
+            "A blinded statistician randomized the eligible participants stratified by gender, age, and presence/absence of current anxiety disorder.",
+            "Participants and their guardians were not told the status of the condition to which participants were assigned (ie, active intervention vs. control) or the expected outcome of the study.",
+            "Twenty participants (10 randomized to Sleep SENSE, 10 to Study SENSE) declined participation before the start of the baseline assessment and were counted as \"randomized nonattenders\".",
+            "Five participants did not complete at least four of the seven intervention sessions (Sleep SENSE = 4, Study SENSE = 1) and were classified as \"noncompleters\"."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The Sleep SENSE intervention builds on the work of Bootzin, Dahl, Harvey, and McMakin. 32, [54] [55] [56] [57] The intervention is cognitive behavioral in approach, incorporating sleep education, sleep hygiene, stimulus control, and cognitive restructuring but also has added mindfulness, savoring, and anxiety-specific components. The intervention is tailored to the unique developmental challenges and opportunities of adolescence, including the social, cultural, and maturational factors known to affect sleep patterns in adolescence and has a specific focus on tracking behavioral change and identifying and overcoming barriers to change via incorporation of motivational interviewing techniques. It involves seven weekly 90-minute group sessions supported by a range of psychoeducational materials. Parents/care givers were given information sheets about the material covered. Home practice activities and monitoring sheets were set each week but were not strictly enforced-participants were not made to feel that they could not participate in the intervention if they had difficulty or were inconsistent in completing these tasks. Clinical psychologists or graduate clinical psychologists in training delivered the intervention sessions, along with a co-facilitator.",
+        "section": "Intervention Group Sessions",
+        "section_number": 18,
+        "sentences": [
+            "The Sleep SENSE intervention builds on the work of Bootzin, Dahl, Harvey, and McMakin.",
+            "32, [54] [55] [56] [57] The intervention is cognitive behavioral in approach, incorporating sleep education, sleep hygiene, stimulus control, and cognitive restructuring but also has added mindfulness, savoring, and anxiety-specific components.",
+            "The intervention is tailored to the unique developmental challenges and opportunities of adolescence, including the social, cultural, and maturational factors known to affect sleep patterns in adolescence and has a specific focus on tracking behavioral change and identifying and overcoming barriers to change via incorporation of motivational interviewing techniques.",
+            "It involves seven weekly 90-minute group sessions supported by a range of psychoeducational materials.",
+            "Parents/care givers were given information sheets about the material covered.",
+            "Home practice activities and monitoring sheets were set each week but were not strictly enforced-participants were not made to feel that they could not participate in the intervention if they had difficulty or were inconsistent in completing these tasks.",
+            "Clinical psychologists or graduate clinical psychologists in training delivered the intervention sessions, along with a co-facilitator."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The Study SENSE intervention was administered by a trained teacher and a co-facilitator in parallel, for the same duration, and in the same format, as the Sleep SENSE intervention. Supplementary Table S1 provides a summary of the content of the Sleep SENSE and Study SENSE intervention sessions. Treatment integrity was very good (Sleep SENSE = 94.61%, Study SENSE = 84.84%). 38 Inter-rater reliability on ratings of treatment integrity (assessed using 2-way mixed intra-class correlations) was excellent (Sleep SENSE = 0.91, Study SENSE = 0.97). 38 Program acceptance was very good. 38 Completion rate was high (Sleep SENSE = 95%, Study SENSE = 98%) and participants attended 76% of sessions on average (Sleep SENSE = 75%, Study SENSE = 79%). Participants rated both programs as useful, interesting, and of good quality, and Sleep SENSE participants reported practicing mindfulness 1-2 times per week for 5 minutes at a time at the completion of the intervention. Mindfulness of the breath, going to bed and getting up at the same time each day, and gaining knowledge about sleep were rated as the most helpful components of the Sleep SENSE interventions. Average rating of Sleep SENSE program components was 3.68/5. Eight participants (three in Sleep SENSE, five in the Study SENSE) reported undergoing other therapy for anxiety and/or mood-related concerns with a psychologist or school counselor during the interventions. SLEEP, Vol. 40 ",
+        "section": "Intervention Group Sessions",
+        "section_number": 19,
+        "sentences": [
+            "The Study SENSE intervention was administered by a trained teacher and a co-facilitator in parallel, for the same duration, and in the same format, as the Sleep SENSE intervention.",
+            "Supplementary Table S1 provides a summary of the content of the Sleep SENSE and Study SENSE intervention sessions.",
+            "Treatment integrity was very good (Sleep SENSE = 94.61%, Study SENSE = 84.84%).",
+            "38 Inter-rater reliability on ratings of treatment integrity (assessed using 2-way mixed intra-class correlations) was excellent (Sleep SENSE = 0.91, Study SENSE = 0.97).",
+            "38 Program acceptance was very good.",
+            "38 Completion rate was high (Sleep SENSE = 95%, Study SENSE = 98%) and participants attended 76% of sessions on average (Sleep SENSE = 75%, Study SENSE = 79%).",
+            "Participants rated both programs as useful, interesting, and of good quality, and Sleep SENSE participants reported practicing mindfulness 1-2 times per week for 5 minutes at a time at the completion of the intervention.",
+            "Mindfulness of the breath, going to bed and getting up at the same time each day, and gaining knowledge about sleep were rated as the most helpful components of the Sleep SENSE interventions.",
+            "Average rating of Sleep SENSE program components was 3.68/5.",
+            "Eight participants (three in Sleep SENSE, five in the Study SENSE) reported undergoing other therapy for anxiety and/or mood-related concerns with a psychologist or school counselor during the interventions.",
+            "SLEEP, Vol.",
+            "40"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "At the preintervention and postintervention phases, participants were provided with a wristwatch actigraphy monitor (either an Actiwatch L/64 or Actiwatch 2, which generate comparable sleep statistics) and instructed to wear it on their nondominant wrist for 5 school nights, removing it only when bathing. Wrist actigraphy is widely used in adolescent populations to assess sleep-wake patterns when participants are assessed in their normal environments over extended periods of time. 58 ",
+        "section": "Objective Sleep",
+        "section_number": 20,
+        "sentences": [
+            "At the preintervention and postintervention phases, participants were provided with a wristwatch actigraphy monitor (either an Actiwatch L/64 or Actiwatch 2, which generate comparable sleep statistics) and instructed to wear it on their nondominant wrist for 5 school nights, removing it only when bathing.",
+            "Wrist actigraphy is widely used in adolescent populations to assess sleep-wake patterns when participants are assessed in their normal environments over extended periods of time.",
+            "58"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "(a) Participants were also asked to complete a paper sleep diary for 5 school nights during the period they were wearing the Actiwatch; each morning, participants were asked to record BT, sleep onset time, number of nocturnal awakenings, wake time, and rise time. (b) At the screening, preintervention and postintervention phases, participants also completed the PSQI. 59 The PSQI is a self-report inventory designed to assess self-reported sleep quality and disturbances and the impact of poor sleep on daytime functioning. It is the most commonly used generic measure of self-reported sleep in clinical and research settings, covers a broad range of indicators relevant to sleep quality, demonstrates strong reliability and validity amongst adolescents and adults, and shows strong utility as a screening tool and hypothesis testing tool for sleep dysfunction and sleep disorders in nonclinical and clinical samples. [60] [61] [62] Although there is no existing cutoff for adolescents, in adults, a global score of greater than 5 has been shown to have a diagnostic sensitivity of 89.6% and specificity of 86.5% (kappa = 0.75, p < .001) in differentiating good and poor sleepers. 59 The first four questions of the PSQI were adapted to allow participants to record both school night and weekend values. Internal consistency statistics for the school night global score were acceptable (preintervention Cronbach's alpha [\u03b1] = 0.76; postintervention [\u03b1] = 0.78).",
+        "section": "Self-Reported Sleep",
+        "section_number": 21,
+        "sentences": [
+            "(a) Participants were also asked to complete a paper sleep diary for 5 school nights during the period they were wearing the Actiwatch; each morning, participants were asked to record BT, sleep onset time, number of nocturnal awakenings, wake time, and rise time. (",
+            "b) At the screening, preintervention and postintervention phases, participants also completed the PSQI.",
+            "59 The PSQI is a self-report inventory designed to assess self-reported sleep quality and disturbances and the impact of poor sleep on daytime functioning.",
+            "It is the most commonly used generic measure of self-reported sleep in clinical and research settings, covers a broad range of indicators relevant to sleep quality, demonstrates strong reliability and validity amongst adolescents and adults, and shows strong utility as a screening tool and hypothesis testing tool for sleep dysfunction and sleep disorders in nonclinical and clinical samples. [",
+            "60] [61] [62] Although there is no existing cutoff for adolescents, in adults, a global score of greater than 5 has been shown to have a diagnostic sensitivity of 89.6% and specificity of 86.5% (kappa = 0.75, p < .001) in differentiating good and poor sleepers.",
+            "59 The first four questions of the PSQI were adapted to allow participants to record both school night and weekend values.",
+            "Internal consistency statistics for the school night global score were acceptable (preintervention Cronbach's alpha [\u03b1] = 0.76; postintervention [\u03b1] = 0.78)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "At the screening, preintervention, and postintervention phases, participants also completed the SCAS. 51 The SCAS is a 44-item self-report measure designed to measure the frequency with which children and adolescents experience anxiety symptoms (preintervention \u03b1 = 0.89; postintervention \u03b1 = 0.91).",
+        "section": "Anxiety",
+        "section_number": 22,
+        "sentences": [
+            "At the screening, preintervention, and postintervention phases, participants also completed the SCAS.",
+            "51 The SCAS is a 44-item self-report measure designed to measure the frequency with which children and adolescents experience anxiety symptoms (preintervention \u03b1 = 0.89; postintervention \u03b1 = 0.91)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "(a) At the preintervention and postintervention phases, participants also completed the PSAS. 63 The PSAS is a 16-item self-report questionnaire designed to measure somatic (PSAS-S) and cognitive (PSAS-C) arousal before sleep (preintervention \u03b1 = 0.90; postintervention \u03b1 = 0.92). It is frequently used in adults but has demonstrated good internal consistency in much younger populations and is able to distinguish clinical from community samples and correlates significantly with sleep and anxiety measures. 46 (b) At the preintervention and postintervention phases, participants also completed the Sleep Beliefs Scale (SBS). 64 The SBS is a 20-item self-report questionnaire designed to assess sleep hygiene awareness, including the impact of substances, diurnal behaviors, and presleep activities and thoughts on sleep (preintervention \u03b1 = 0.70; postintervention \u03b1 = 0.81).",
+        "section": "Mediating Variables",
+        "section_number": 23,
+        "sentences": [
+            "(a) At the preintervention and postintervention phases, participants also completed the PSAS.",
+            "63 The PSAS is a 16-item self-report questionnaire designed to measure somatic (PSAS-S) and cognitive (PSAS-C) arousal before sleep (preintervention \u03b1 = 0.90; postintervention \u03b1 = 0.92).",
+            "It is frequently used in adults but has demonstrated good internal consistency in much younger populations and is able to distinguish clinical from community samples and correlates significantly with sleep and anxiety measures.",
+            "46 (b) At the preintervention and postintervention phases, participants also completed the Sleep Beliefs Scale (SBS).",
+            "64 The SBS is a 20-item self-report questionnaire designed to assess sleep hygiene awareness, including the impact of substances, diurnal behaviors, and presleep activities and thoughts on sleep (preintervention \u03b1 = 0.70; postintervention \u03b1 = 0.81)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "At the screening phase, participants were also administered the K-SADS-PL 53 , a semistructured diagnostic interview designed to identify past or present psychopathology in children and adolescents. Inter-rater reliability was excellent (PABAK kappa 65 = 0.98). 38 Data Processing",
+        "section": "Additional Screening Measure",
+        "section_number": 24,
+        "sentences": [
+            "At the screening phase, participants were also administered the K-SADS-PL 53 , a semistructured diagnostic interview designed to identify past or present psychopathology in children and adolescents.",
+            "Inter-rater reliability was excellent (PABAK kappa 65 = 0.98).",
+            "38 Data Processing"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "BT and rise times were determined by visually screening the actograms using the collective information of movement, light (when available), event markers (when available), and sleep diary (when available). A recent study suggests this procedure (\"human scoring\") has a good correlation with polysomnography and a superior correlation to automated machine algorithms in determining BT and rise time among adolescent sample. 66 The following school night actigraphy sleep variables were calculated: TST (minutes), SOL (minutes), SE (percent), wake after sleep onset (WASO [minutes]), and BT (hh:mm). Actigraphy variables use the suffix \"obj\" (eg, TST obj ).",
+        "section": "Actigraphy Variables",
+        "section_number": 25,
+        "sentences": [
+            "BT and rise times were determined by visually screening the actograms using the collective information of movement, light (when available), event markers (when available), and sleep diary (when available).",
+            "A recent study suggests this procedure (\"human scoring\") has a good correlation with polysomnography and a superior correlation to automated machine algorithms in determining BT and rise time among adolescent sample.",
+            "66 The following school night actigraphy sleep variables were calculated: TST (minutes), SOL (minutes), SE (percent), wake after sleep onset (WASO [minutes]), and BT (hh:mm).",
+            "Actigraphy variables use the suffix \"obj\" (eg, TST obj )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The following school night sleep diary variables were calculated: TST (minutes), SOL (minutes), SE (percent), WASO (minutes), and BT (hh:mm). Sleep diary variables use the suffix \"subj\" (eg, SOL subj ). School night PSQI global score was calculated using standard methods 59 with high scores indicating self-reported poor sleep. The scores for the anxiety (SCAS), hyperarousal (PSAS-S and PSAS-C), and sleep hygiene awareness (SBS) measures were calculated using standard methods recommended by authors of the scales.",
+        "section": "Self-Reported Variables",
+        "section_number": 26,
+        "sentences": [
+            "The following school night sleep diary variables were calculated: TST (minutes), SOL (minutes), SE (percent), WASO (minutes), and BT (hh:mm).",
+            "Sleep diary variables use the suffix \"subj\" (eg, SOL subj ).",
+            "School night PSQI global score was calculated using standard methods 59 with high scores indicating self-reported poor sleep.",
+            "The scores for the anxiety (SCAS), hyperarousal (PSAS-S and PSAS-C), and sleep hygiene awareness (SBS) measures were calculated using standard methods recommended by authors of the scales."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "A series of one-way between condition analyses of covariance (ANCOVAs) were conducted to compare the impact of the two treatment conditions (Sleep SENSE and Study SENSE) on outcomes (actigraphy variables, sleep diary variables, PSQI global, SCAS, PSAS-S, PSAS-C and SBS) across the two periods (preintervention and postintervention). A \"modified intention to treat\" approach was taken; intervention completers (n = 118) and noncompleters (n = 5) were included in analyses, but randomized nonattenders (n = 20; defined above) were excluded. Missing data were imputed using the multiple imputation procedure with five imputation data sets in SPSS. There was a low incidence of missing data for the questionnaire (6.2%) and actigraphy (6.1%) variables. On average, participants wore the actiwatch on 4.5 of the 5 school nights at preintervention and postintervention. There was a higher incidence of missing data for the sleep diaries variables (14.6%). On average, participants completed the sleep diaries on 3.75 of the 5 school nights at preintervention and postintervention.",
+        "section": "Hypotheses One and Two-Treatment Effects",
+        "section_number": 27,
+        "sentences": [
+            "A series of one-way between condition analyses of covariance (ANCOVAs) were conducted to compare the impact of the two treatment conditions (Sleep SENSE and Study SENSE) on outcomes (actigraphy variables, sleep diary variables, PSQI global, SCAS, PSAS-S, PSAS-C and SBS) across the two periods (preintervention and postintervention).",
+            "A \"modified intention to treat\" approach was taken; intervention completers (n = 118) and noncompleters (n = 5) were included in analyses, but randomized nonattenders (n = 20; defined above) were excluded.",
+            "Missing data were imputed using the multiple imputation procedure with five imputation data sets in SPSS.",
+            "There was a low incidence of missing data for the questionnaire (6.2%) and actigraphy (6.1%) variables.",
+            "On average, participants wore the actiwatch on 4.5 of the 5 school nights at preintervention and postintervention.",
+            "There was a higher incidence of missing data for the sleep diaries variables (14.6%).",
+            "On average, participants completed the sleep diaries on 3.75 of the 5 school nights at preintervention and postintervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "A series of parallel multiple-mediation analyses were conducted using the statistical program PROCESS (Model 4) 67 to examine the effects of the two treatment conditions (X: 1 = Sleep SENSE, 2 = Study SENSE) on the sleep and anxiety outcomes (Y's: actigraphy variables, sleep diary variables, PSQI global, SCAS) through the putative treatment mechanisms (M's: PSAS-S, PSAS-C, SBS). Variables that did not show statistically significant treatment effects (defined above) were not included in the mediation analyses. All analyses used ordinary least squares path analysis and bias corrected bootstraps based on 10,000 resamples. Unstandardized residual variables, representing postintervention scores adjusted for preintervention scores, were created using one-way ANCOVAs and used in the analyses. Parallel multiple mediation has several advantages: (1) the likelihood of bias due to correlated or omitted variables is reduced; (2) spurious association can be separated from potential causal association; and (3) competing theories can be compared. Parallel multiple mediation models provide specific indirect effects for each mediator, holding scores on the other mediators constant (ie, controlling for scores on other mediators). 67 ",
+        "section": "Hypothesis Three-Mediators of Therapeutic Improvement",
+        "section_number": 28,
+        "sentences": [
+            "A series of parallel multiple-mediation analyses were conducted using the statistical program PROCESS (Model 4) 67 to examine the effects of the two treatment conditions (X: 1 = Sleep SENSE, 2 = Study SENSE) on the sleep and anxiety outcomes (Y's: actigraphy variables, sleep diary variables, PSQI global, SCAS) through the putative treatment mechanisms (M's: PSAS-S, PSAS-C, SBS).",
+            "Variables that did not show statistically significant treatment effects (defined above) were not included in the mediation analyses.",
+            "All analyses used ordinary least squares path analysis and bias corrected bootstraps based on 10,000 resamples.",
+            "Unstandardized residual variables, representing postintervention scores adjusted for preintervention scores, were created using one-way ANCOVAs and used in the analyses.",
+            "Parallel multiple mediation has several advantages: (1) the likelihood of bias due to correlated or omitted variables is reduced; (2) spurious association can be separated from potential causal association; and (3) competing theories can be compared.",
+            "Parallel multiple mediation models provide specific indirect effects for each mediator, holding scores on the other mediators constant (ie, controlling for scores on other mediators).",
+            "67"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "One hundred twenty-three participants began the interventions (female = 60%; mean age = 14.48, standard deviation [SD] = 0.95), with 60 in the Sleep SENSE condition and 63 in the Study SENSE condition. Full demographic statistics were previously reported in Blake et al. 38 Descriptive statistics for the sleep and anxiety variables used in this study are provided in Supplementary Table S2 . The intervention sample was characterized by wakefulness in bed and poor sleep quality on school nights before the interventions (ie, at phase 3). Average SOL obj was 29.78 minutes, SE obj 79.25%, and PSQI global score 6.3-SOL greater than 30 minutes and SE less than 85% are common manifestations of insomnia 68 and PSQI global scores greater than 5 indicate sleeping problems. 52 The intervention sample was also characterized by anxiety symptoms and presleep arousal before the interventions. Average SCAS was 28.5 for males and 36.17 for females (scores greater than 32 for males and 38 for females are indicative of subclinical anxiety 51 ) and average PSAS-C and PSAS-S were within one SD of the average scores reported by a sample of insomniacs 63 and anxiety-disordered youth 46 (there are no existing clinical cutoffs for the PSAS). Of note, the intervention sample was not characterized by late bedtimes on school nights before the interventions. Average BT obj was 10.57 pm on school nights-bedtimes later than 11.30 pm are typically associated with lower school performance, lower motivation, and increased risk for depressive symptoms in adolescence. 69 Participants also reported approximately normal sleep hygiene awareness before the commencement of the interventions-average SBS was within one SD of average scores reported by a community sample of young adults 64 (there are no existing clinical cutoffs for the SBS).",
+        "section": "Demographic and Descriptive Statistics",
+        "section_number": 29,
+        "sentences": [
+            "One hundred twenty-three participants began the interventions (female = 60%; mean age = 14.48, standard deviation [SD] = 0.95), with 60 in the Sleep SENSE condition and 63 in the Study SENSE condition.",
+            "Full demographic statistics were previously reported in Blake et al. 38 Descriptive statistics for the sleep and anxiety variables used in this study are provided in Supplementary Table S2 .",
+            "The intervention sample was characterized by wakefulness in bed and poor sleep quality on school nights before the interventions (ie, at phase 3).",
+            "Average SOL obj was 29.78 minutes, SE obj 79.25%, and PSQI global score 6.3-SOL greater than 30 minutes and SE less than 85% are common manifestations of insomnia 68 and PSQI global scores greater than 5 indicate sleeping problems.",
+            "52 The intervention sample was also characterized by anxiety symptoms and presleep arousal before the interventions.",
+            "Average SCAS was 28.5 for males and 36.17 for females (scores greater than 32 for males and 38 for females are indicative of subclinical anxiety 51 ) and average PSAS-C and PSAS-S were within one SD of the average scores reported by a sample of insomniacs 63 and anxiety-disordered youth 46 (there are no existing clinical cutoffs for the PSAS).",
+            "Of note, the intervention sample was not characterized by late bedtimes on school nights before the interventions.",
+            "Average BT obj was 10.57 pm on school nights-bedtimes later than 11.30 pm are typically associated with lower school performance, lower motivation, and increased risk for depressive symptoms in adolescence.",
+            "69 Participants also reported approximately normal sleep hygiene awareness before the commencement of the interventions-average SBS was within one SD of average scores reported by a community sample of young adults 64 (there are no existing clinical cutoffs for the SBS)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "After adjusting for preintervention scores, participants who completed the Sleep SENSE intervention showed shorter SOL obj (with a medium effect size), better SE subj (with a medium effect size), and better global sleep quality (with a medium effect size) on school nights compared to participants who completed the Study SENSE intervention (Table 1) . Furthermore, participants who completed the Sleep SENSE intervention showed less anxiety (with a small effect size), less presleep somatic arousal (with a medium effect size), less presleep cognitive arousal (with a medium effect size), and better sleep hygiene awareness (with a large effect size) compared to participants who completed the Study SENSE intervention ( Table 1 ). There were no treatment effects for TST obj , SE obj , WASO obj, , BT obj , TST subj , SOL subj , WASO, subj , or BT subj . These variables were excluded from further analyses.",
+        "section": "Hypotheses One and Two-Treatment Effects",
+        "section_number": 30,
+        "sentences": [
+            "After adjusting for preintervention scores, participants who completed the Sleep SENSE intervention showed shorter SOL obj (with a medium effect size), better SE subj (with a medium effect size), and better global sleep quality (with a medium effect size) on school nights compared to participants who completed the Study SENSE intervention (Table 1) .",
+            "Furthermore, participants who completed the Sleep SENSE intervention showed less anxiety (with a small effect size), less presleep somatic arousal (with a medium effect size), less presleep cognitive arousal (with a medium effect size), and better sleep hygiene awareness (with a large effect size) compared to participants who completed the Study SENSE intervention ( Table 1 ).",
+            "There were no treatment effects for TST obj , SE obj , WASO obj, , BT obj , TST subj , SOL subj , WASO, subj , or BT subj .",
+            "These variables were excluded from further analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Hypothesis Three-Mediators of Therapeutic Improvement Outcome variables included in the mediation analyses were SOL obj , SE subj , PSQI, and SCAS. Mediating variables were PSAS-S, PSAS-C, and SBS. A summary of the results is provided in Table 2 . Participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on global sleep quality on school nights (1.06 units), with most of that improvement coming via improvements in presleep somatic arousal (0.29 units) and presleep cognitive arousal (0.17 units), the only two specific indirect paths to show evidences of effects. Similarly, participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on anxiety symptoms (3.37 units), with most of that improvement coming via improvements in presleep somatic arousal (1.79 units) and presleep cognitive arousal (0.72 units), again, the only two specific indirect paths to show evidence of effects. Finally, participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on SOL obj (9.86 minutes) and SE subj (2.5%), but these improvements were not specifically related to improvement in any of the putative treatment mechanisms.",
+        "section": "Hypotheses One and Two-Treatment Effects",
+        "section_number": 31,
+        "sentences": [
+            "Hypothesis Three-Mediators of Therapeutic Improvement Outcome variables included in the mediation analyses were SOL obj , SE subj , PSQI, and SCAS.",
+            "Mediating variables were PSAS-S, PSAS-C, and SBS.",
+            "A summary of the results is provided in Table 2 .",
+            "Participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on global sleep quality on school nights (1.06 units), with most of that improvement coming via improvements in presleep somatic arousal (0.29 units) and presleep cognitive arousal (0.17 units), the only two specific indirect paths to show evidences of effects.",
+            "Similarly, participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on anxiety symptoms (3.37 units), with most of that improvement coming via improvements in presleep somatic arousal (1.79 units) and presleep cognitive arousal (0.72 units), again, the only two specific indirect paths to show evidence of effects.",
+            "Finally, participants in the Sleep SENSE condition improved significantly more than participants in the Study SENSE condition on SOL obj (9.86 minutes) and SE subj (2.5%), but these improvements were not specifically related to improvement in any of the putative treatment mechanisms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "This study provides evidence, using a methodologically rigorous design, that a cognitive behavioral and mindfulness-based group sleep intervention can improve self-reported and objective indices of sleep on school nights among at-risk adolescents, particularly SOL and SE, with medium effect sizes. These results are consistent with emerging empirical evidence showing that anxious adolescents have particular difficulties with sleep initiation 42, 43 and with the results of other cognitive behavioral sleep interventions, which have also found relatively larger improvements in wakefulness in bed variables compared to sleep duration variables. 24, [29] [30] [31] [32] 34, 36 As we have previously reported 38 , the study also provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve anxiety among at-risk adolescents, with small effect sizes, consistent with research showing that adult CBT-I results in small improvements in anxiety symptomatology. 27 Furthermore, the study provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve sleep hygiene awareness among at-risk adolescents, with large effect sizes, consistent with research showing that school-based sleep intervention programs lead to improvements in students' knowledge about sleep and insomnia. [17] [18] [19] However, the magnitude of the effect size found in the current study was larger than those reported in RCTs of school-based sleep education programs. 70, 71 This might be due to several factors. The Sleep SENSE interventions were personally tailored, more intensive, had a key focus on engagement and reviewing key information to increase retention and recall, and provided adequate opportunities to practice techniques in session and at home. The interventions were also targeted at students who were more likely to benefit from the programs and who were therefore more likely to be motivated, ready for change, and to identify with content. Finally, the study provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve presleep arousal (cognitive and somatic) among at-risk adolescents. This finding is consistent with research among adults. Electrophysiological, autonomic, neuroendocrine, neuroimmunological, neuroimaging, daytime performance, and experimental studies have consistently shown that adults with insomnia display heightened cognitive and somatic arousal. 11 Several studies have also shown that cognitive and somatic arousal decrease from pretreatment to posttreatment among adults who complete CBT-I. 41 Moreover, cross-sectional studies have shown that adolescents report elevated arousal in the presleep period. [44] [45] [46] For example, Alfano et al. 46 found that the presence of presleep arousal was associated with greater self-reported sleep problems among children and adolescents who were diagnosed with an anxiety disorder.",
+        "section": "Hypotheses One and Two-Treatment Effects",
+        "section_number": 32,
+        "sentences": [
+            "This study provides evidence, using a methodologically rigorous design, that a cognitive behavioral and mindfulness-based group sleep intervention can improve self-reported and objective indices of sleep on school nights among at-risk adolescents, particularly SOL and SE, with medium effect sizes.",
+            "These results are consistent with emerging empirical evidence showing that anxious adolescents have particular difficulties with sleep initiation 42, 43 and with the results of other cognitive behavioral sleep interventions, which have also found relatively larger improvements in wakefulness in bed variables compared to sleep duration variables.",
+            "24, [29] [30] [31] [32] 34, 36 As we have previously reported 38 , the study also provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve anxiety among at-risk adolescents, with small effect sizes, consistent with research showing that adult CBT-I results in small improvements in anxiety symptomatology.",
+            "27 Furthermore, the study provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve sleep hygiene awareness among at-risk adolescents, with large effect sizes, consistent with research showing that school-based sleep intervention programs lead to improvements in students' knowledge about sleep and insomnia. [",
+            "17] [18] [19] However, the magnitude of the effect size found in the current study was larger than those reported in RCTs of school-based sleep education programs.",
+            "70, 71 This might be due to several factors.",
+            "The Sleep SENSE interventions were personally tailored, more intensive, had a key focus on engagement and reviewing key information to increase retention and recall, and provided adequate opportunities to practice techniques in session and at home.",
+            "The interventions were also targeted at students who were more likely to benefit from the programs and who were therefore more likely to be motivated, ready for change, and to identify with content.",
+            "Finally, the study provides evidence that a cognitive behavioral and mindfulness-based group sleep intervention can improve presleep arousal (cognitive and somatic) among at-risk adolescents.",
+            "This finding is consistent with research among adults.",
+            "Electrophysiological, autonomic, neuroendocrine, neuroimmunological, neuroimaging, daytime performance, and experimental studies have consistently shown that adults with insomnia display heightened cognitive and somatic arousal.",
+            "11 Several studies have also shown that cognitive and somatic arousal decrease from pretreatment to posttreatment among adults who complete CBT-I. 41 Moreover, cross-sectional studies have shown that adolescents report elevated arousal in the presleep period. [",
+            "44] [45] [46] For example, Alfano et al. 46 found that the presence of presleep arousal was associated with greater self-reported sleep problems among children and adolescents who were diagnosed with an anxiety disorder."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The parallel multiple mediation models showed that the small to moderate improvements in self-reported sleep quality and anxiety found in the present study were specifically related to the moderate improvements in presleep arousal (somatic and cognitive) that resulted from the interventions. These findings are consistent with hyperarousal models of insomnia 11 and suggest that psychological (eg, worry, rumination, rehearsal, planning) and physiological (eg, muscular tension, autonomic activity) hyperarousal, and a failure to deactivate, represent major mechanisms for the maintenance of sleep problems and anxiety symptoms among at-risk adolescents. This has several important clinical implications. Adolescent cognitive behavioral and mindfulness-based sleep interventions may be effective because they reduce vigilance, hypersensitivity to threat, conditional arousal to the bed/bedroom, sleep-interfering cognitions, maladaptive avoidance behaviors, and learned helplessness. The active treatment components of these interventions may be those that target arousal, including stimulus control (eg, avoiding using the bed/bedroom for engaging activities), cognitive therapy (eg, managing worry/rumination at night), mindfulness meditation (eg, mindfulness of the breath), and affective strategies (eg, savoring). The findings suggest that the presleep period and ease of sleep onset may be the key aspects of the sleep experience upon which adolescents base their evaluation of overall sleep quality and could therefore be targets for new treatments of adolescent sleep problems.",
+        "section": "Hypothesis Three-Mechanisms of Therapeutic Improvement",
+        "section_number": 33,
+        "sentences": [
+            "The parallel multiple mediation models showed that the small to moderate improvements in self-reported sleep quality and anxiety found in the present study were specifically related to the moderate improvements in presleep arousal (somatic and cognitive) that resulted from the interventions.",
+            "These findings are consistent with hyperarousal models of insomnia 11 and suggest that psychological (eg, worry, rumination, rehearsal, planning) and physiological (eg, muscular tension, autonomic activity) hyperarousal, and a failure to deactivate, represent major mechanisms for the maintenance of sleep problems and anxiety symptoms among at-risk adolescents.",
+            "This has several important clinical implications.",
+            "Adolescent cognitive behavioral and mindfulness-based sleep interventions may be effective because they reduce vigilance, hypersensitivity to threat, conditional arousal to the bed/bedroom, sleep-interfering cognitions, maladaptive avoidance behaviors, and learned helplessness.",
+            "The active treatment components of these interventions may be those that target arousal, including stimulus control (eg, avoiding using the bed/bedroom for engaging activities), cognitive therapy (eg, managing worry/rumination at night), mindfulness meditation (eg, mindfulness of the breath), and affective strategies (eg, savoring).",
+            "The findings suggest that the presleep period and ease of sleep onset may be the key aspects of the sleep experience upon which adolescents base their evaluation of overall sleep quality and could therefore be targets for new treatments of adolescent sleep problems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "However, the results also indicated that the moderate improvements in objective SOL and self-reported SE on school nights found in the present study were not specifically related to the moderate to large improvements in presleep arousal and sleep hygiene awareness that resulted from the interventions. There are several possible explanations for this result: (1) improvements in presleep arousal and sleep hygiene awareness were insufficient to improve sleep behavior considerably; (2) changes in the self-reported experiences of presleep arousal do not immediately translate into changes in sleep-wake behaviors; (3) sleep hygiene awareness techniques were used incorrectly and/or were not perceived as helpful; (4) the study was underpowered to detect significant mediating effects in sleep behaviors; and (5) common method variance accounted for some of the relationship between the questionnaire variables.",
+        "section": "Hypothesis Three-Mechanisms of Therapeutic Improvement",
+        "section_number": 34,
+        "sentences": [
+            "However, the results also indicated that the moderate improvements in objective SOL and self-reported SE on school nights found in the present study were not specifically related to the moderate to large improvements in presleep arousal and sleep hygiene awareness that resulted from the interventions.",
+            "There are several possible explanations for this result: (1) improvements in presleep arousal and sleep hygiene awareness were insufficient to improve sleep behavior considerably; (2) changes in the self-reported experiences of presleep arousal do not immediately translate into changes in sleep-wake behaviors; (3) sleep hygiene awareness techniques were used incorrectly and/or were not perceived as helpful; (4) the study was underpowered to detect significant mediating effects in sleep behaviors; and (5) common method variance accounted for some of the relationship between the questionnaire variables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "These findings highlight the importance of adolescent sleep interventions that go beyond simple sleep hygiene education to also incorporate cognitive behavioral principles and that have a particular focus on building intention to change, for example, using motivational interviewing (eg, collaboration, encouraging autonomy, increasing self-efficacy) and supported decision-making techniques (eg, decisional balance matrices, behavioral experiments, goal setting). Many adolescent sleep education programs have been implemented on the premise that knowledge guides behavior. [17] [18] [19] However, the findings from the present study highlight that simple learning and retention do not always elicit behavior change, consistent with social cognitive models of health behavior, such as the Theory of Planned Behavior 72 , The Social Cognitive Theory 73 , and The Stages of Change Trans-theoretical Model 74 , all of which posit that factors other than knowledge and awareness can influence an individual's decision about whether or not to engage in a positive health behavior. These factors include expectations of improvement, self-efficacy, attitudes, perceived barriers, and peer and family attitudes.",
+        "section": "Implications",
+        "section_number": 35,
+        "sentences": [
+            "These findings highlight the importance of adolescent sleep interventions that go beyond simple sleep hygiene education to also incorporate cognitive behavioral principles and that have a particular focus on building intention to change, for example, using motivational interviewing (eg, collaboration, encouraging autonomy, increasing self-efficacy) and supported decision-making techniques (eg, decisional balance matrices, behavioral experiments, goal setting).",
+            "Many adolescent sleep education programs have been implemented on the premise that knowledge guides behavior. [",
+            "17] [18] [19] However, the findings from the present study highlight that simple learning and retention do not always elicit behavior change, consistent with social cognitive models of health behavior, such as the Theory of Planned Behavior 72 , The Social Cognitive Theory 73 , and The Stages of Change Trans-theoretical Model 74 , all of which posit that factors other than knowledge and awareness can influence an individual's decision about whether or not to engage in a positive health behavior.",
+            "These factors include expectations of improvement, self-efficacy, attitudes, perceived barriers, and peer and family attitudes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The findings also suggest that tailoring adolescent cognitive behavioral sleep interventions based on bio-psychosocial symptom profiles may improve their therapeutic efficacy and cost-effectiveness. For example, it may be important to measure presleep arousal midway through adolescent sleep treatments to determine if participants are becoming less anxious in the presleep period. Adolescents who show little change during treatment or who do not complete homework might need further targeted intervention to help them develop these skills. Interventions utilizing purpose-built operating systems, smart phone applications, or web-enabled wearable devices, could also provide 24-hour sleep-wake activity monitoring and personalized feedback on sleep and mental health variables, which could eventually replace one-dimensional activity monitors and cumbersome written sleep logs for monitoring treatment response and developing individualized behavioral plans. 75 ",
+        "section": "Implications",
+        "section_number": 36,
+        "sentences": [
+            "The findings also suggest that tailoring adolescent cognitive behavioral sleep interventions based on bio-psychosocial symptom profiles may improve their therapeutic efficacy and cost-effectiveness.",
+            "For example, it may be important to measure presleep arousal midway through adolescent sleep treatments to determine if participants are becoming less anxious in the presleep period.",
+            "Adolescents who show little change during treatment or who do not complete homework might need further targeted intervention to help them develop these skills.",
+            "Interventions utilizing purpose-built operating systems, smart phone applications, or web-enabled wearable devices, could also provide 24-hour sleep-wake activity monitoring and personalized feedback on sleep and mental health variables, which could eventually replace one-dimensional activity monitors and cumbersome written sleep logs for monitoring treatment response and developing individualized behavioral plans.",
+            "75"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The present study had several limitations. First, although the study provided evidence that cognitive and behavioral processes mediated therapeutic change, it did not provide firm causal and temporal links between treatment, processes, and outcomes, particularly given the multicomponent nature of the intervention. Although the study used appropriate statistical tests and linked theories of sleep disturbance to findings, it did not show specificity for the different treatment components in the intervention (eg, by comparing specific treatment components), demonstrate a dose-response relationship (eg, by examining low-intensity vs. high-intensity treatments), or use frequent assessment during the study period to establish temporal relations. 76 Second, although the study investigated a number of treatment mediators drawn from the theoretical insomnia literature, other mediator variables may also underlie the effectiveness of adolescent cognitive SLEEP, Vol. 40 behavioral and mindfulness-based sleep interventions, including napping, sleep effort, sleep-related self-efficacy, and sleep locus of control. 41 Studies are also needed that examine moderators of change (eg, age and gender) and predictors of treatment adherence (eg, baseline symptoms [short sleep duration] and attitude to treatment 77 ). Finally, it is not possible to draw conclusions regarding the stability of treatment-induced improvements from the data reported here.",
+        "section": "Limitations and Strengths",
+        "section_number": 37,
+        "sentences": [
+            "The present study had several limitations.",
+            "First, although the study provided evidence that cognitive and behavioral processes mediated therapeutic change, it did not provide firm causal and temporal links between treatment, processes, and outcomes, particularly given the multicomponent nature of the intervention.",
+            "Although the study used appropriate statistical tests and linked theories of sleep disturbance to findings, it did not show specificity for the different treatment components in the intervention (eg, by comparing specific treatment components), demonstrate a dose-response relationship (eg, by examining low-intensity vs. high-intensity treatments), or use frequent assessment during the study period to establish temporal relations.",
+            "76 Second, although the study investigated a number of treatment mediators drawn from the theoretical insomnia literature, other mediator variables may also underlie the effectiveness of adolescent cognitive SLEEP, Vol.",
+            "40 behavioral and mindfulness-based sleep interventions, including napping, sleep effort, sleep-related self-efficacy, and sleep locus of control.",
+            "41 Studies are also needed that examine moderators of change (eg, age and gender) and predictors of treatment adherence (eg, baseline symptoms [short sleep duration] and attitude to treatment 77 ).",
+            "Finally, it is not possible to draw conclusions regarding the stability of treatment-induced improvements from the data reported here."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The SENSE study has a number of strengths. First, it included a large sample size compared to other similar studies. [29] [30] [31] [32] [33] [34] [35] [36] Second, it utilized an RCT design following all CONSORT protocols, including a multicomponent group sleep intervention specifically designed for use with high-risk adolescents who were experiencing high levels of anxiety and sleep problems, and a time-and format-equated active control \"study skills\" intervention with good face validity as an intervention that can address salient issues for adolescents. Third, it included self-reported and objective indices of sleep.",
+        "section": "Limitations and Strengths",
+        "section_number": 38,
+        "sentences": [
+            "The SENSE study has a number of strengths.",
+            "First, it included a large sample size compared to other similar studies. [",
+            "29] [30] [31] [32] [33] [34] [35] [36] Second, it utilized an RCT design following all CONSORT protocols, including a multicomponent group sleep intervention specifically designed for use with high-risk adolescents who were experiencing high levels of anxiety and sleep problems, and a time-and format-equated active control \"study skills\" intervention with good face validity as an intervention that can address salient issues for adolescents.",
+            "Third, it included self-reported and objective indices of sleep."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "The findings from this study showed that improvements in presleep cognitive and somatic hyperarousal, but not sleep hygiene awareness, contributed to the effectiveness of an adolescent cognitive behavioral and mindfulness-based sleep intervention and could be targets for new treatments of adolescent sleep problems. Furthermore, the findings suggest that cognitive behavioral sleep interventions could be directed toward adolescents who are predisposed to sustained hyperarousal. However, much still remains unknown about the therapeutic mechanisms of adolescent cognitive behavioral sleep interventions.",
+        "section": "CONCLUSION",
+        "section_number": 39,
+        "sentences": [
+            "The findings from this study showed that improvements in presleep cognitive and somatic hyperarousal, but not sleep hygiene awareness, contributed to the effectiveness of an adolescent cognitive behavioral and mindfulness-based sleep intervention and could be targets for new treatments of adolescent sleep problems.",
+            "Furthermore, the findings suggest that cognitive behavioral sleep interventions could be directed toward adolescents who are predisposed to sustained hyperarousal.",
+            "However, much still remains unknown about the therapeutic mechanisms of adolescent cognitive behavioral sleep interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33222",
+        "text": "Downloaded from https://academic.oup.com/sleep/article-abstract/40/6/zsx061/3738768 by Univ of Alberta Library user on 13 March 2020",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "Downloaded from https://academic.oup.com/sleep/article-abstract/40/6/zsx061/3738768 by Univ of Alberta Library user on 13 March 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

@@ -1,0 +1,769 @@
+[
+    {
+        "doc_id": "40862",
+        "text": "Diarrhea is a leading contributor to childhood morbidity and mortality in sub-Saharan Africa. Given the challenge of blinding most water, sanitation, and hygiene (WASH) interventions, diarrheal disease outcome measures in WASH intervention trials are subject to potential bias and misclassification. Using the platform of a cluster-randomized controlled trial of a household-based drinking water filter in western province, Rwanda, we assessed the impact of the drinking water filter on enteric seroconversion in young children as a health outcome and examined the association between serologic responses and caregiver-reported diarrhea. Among the 2,179 children enrolled in the trial, 189 children 6-12 months of age were enrolled in a nested serology study. These children had their blood drawn at baseline and 6-12 months after the intervention was distributed. Multiplex serologic assays for Giardia, Cryptosporidium, Entamoeba histolytica, norovirus, Campylobacter, enterotoxigenic Escherichia coli and Vibrio cholerae were performed. Despite imperfect uptake, receipt of the water filter was associated with a significant decrease in seroprevalence of IgG directed against Cryptosporidium parvum Cp17 and Cp23 (relative risk [RR]: 0.62, 95% confidence interval [CI]: 0.44-0.89). Serologic responses were positively associated with reported diarrhea in the previous 7 days for both Giardia intestinalis (RR: 1.94, 95% CI: 1.04-3.63) and C. parvum (RR: 2.21, 95% CI: 1.09-4.50). Serologic responses for all antigens generally increased in the follow-up round, rising sharply after 12 months of age. The water filter is associated with reduced serologic responses against C. parvum, a proxy for exposure and infection; therefore, serologic responses against protozoa may be a suitable health outcome measure for WASH trials among children with diarrhea.",
+        "section": "Abstract",
+        "sentences": [
+            "Diarrhea is a leading contributor to childhood morbidity and mortality in sub-Saharan Africa.",
+            "Given the challenge of blinding most water, sanitation, and hygiene (WASH) interventions, diarrheal disease outcome measures in WASH intervention trials are subject to potential bias and misclassification.",
+            "Using the platform of a cluster-randomized controlled trial of a household-based drinking water filter in western province, Rwanda, we assessed the impact of the drinking water filter on enteric seroconversion in young children as a health outcome and examined the association between serologic responses and caregiver-reported diarrhea.",
+            "Among the 2,179 children enrolled in the trial, 189 children 6-12 months of age were enrolled in a nested serology study.",
+            "These children had their blood drawn at baseline and 6-12 months after the intervention was distributed.",
+            "Multiplex serologic assays for Giardia, Cryptosporidium, Entamoeba histolytica, norovirus, Campylobacter, enterotoxigenic Escherichia coli and Vibrio cholerae were performed.",
+            "Despite imperfect uptake, receipt of the water filter was associated with a significant decrease in seroprevalence of IgG directed against Cryptosporidium parvum Cp17 and Cp23 (relative risk [RR]: 0.62, 95% confidence interval [CI]: 0.44-0.89).",
+            "Serologic responses were positively associated with reported diarrhea in the previous 7 days for both Giardia intestinalis (RR: 1.94, 95% CI: 1.04-3.63) and C. parvum (RR: 2.21, 95% CI: 1.09-4.50).",
+            "Serologic responses for all antigens generally increased in the follow-up round, rising sharply after 12 months of age.",
+            "The water filter is associated with reduced serologic responses against C. parvum, a proxy for exposure and infection; therefore, serologic responses against protozoa may be a suitable health outcome measure for WASH trials among children with diarrhea."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Diarrheal disease is the fourth leading contributor to global child mortality, 1, 2 due principally to unsafe water, poor sanitation, and hygiene. 3 Young children aged 0-24 months are particularly vulnerable to severe diarrhea after initial exposure to specific pathogens, particularly after 6 months of age when maternally acquired humoral immunity wanes. 4 Diarrhea is associated with malnutrition and growth faltering, [5] [6] [7] and poor nutritional status resulting from diarrhea places young children at a higher risk of death. Diarrheal disease is a leading cause of morbidity and mortality in Rwanda, 1, 2 and environmental and demographic factors contribute to both diarrhea and stunting in the country. 8 Household water treatment (HWT) appears to be effective in reducing diarrheal disease among populations with unsafe sources of drinking water. 9 Evidence of its effectiveness, however, is derived from nonblinded trials that report diarrheal disease as an outcome. Reported outcomes of water, sanitation, and hygiene (WASH) intervention trials, such as self-reported diarrheal disease, are subject to both recall and courtesy biases; such trials are highly subjective and unable to distinguish specific causal pathogens of the disease. 10 Objective measures of exposures are particularly important in trials of environmental health interventions that cannot be blinded. 11 Objective outcome measures were incorporated in a recent meta-analysis of 54 studies examining the impact of WASH on intestinal protozoa infection, which found that the general availability and use of WASH interventions was associated with significantly lower odds of Entamoeba histolytica, Giardia intestinalis, and Cryptosporidium spp. infections. Diagnostics were typically performed with stool examination. 12 Although stool assays offer an opportunity for more objective assessment, logistical constraints related to the storage, transport, and extensive laboratory work involved can limit their utility in resource-limited settings. 13 In addition, the ability of stool assays to detect etiologic agents can be limited, as in the case of some protozoa, when cysts or oocysts are not continuously shed. 14 Disease prevalence can also vary widely by season, 15 so IgG/IgG4 assays can provide additional means of ascertaining exposure retrospectively throughout the study period as opposed to using stool cultures, which may only detect pathogens that are present at the time of collection.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Diarrheal disease is the fourth leading contributor to global child mortality, 1, 2 due principally to unsafe water, poor sanitation, and hygiene.",
+            "3 Young children aged 0-24 months are particularly vulnerable to severe diarrhea after initial exposure to specific pathogens, particularly after 6 months of age when maternally acquired humoral immunity wanes.",
+            "4 Diarrhea is associated with malnutrition and growth faltering, [5] [6] [7] and poor nutritional status resulting from diarrhea places young children at a higher risk of death.",
+            "Diarrheal disease is a leading cause of morbidity and mortality in Rwanda, 1, 2 and environmental and demographic factors contribute to both diarrhea and stunting in the country.",
+            "8 Household water treatment (HWT) appears to be effective in reducing diarrheal disease among populations with unsafe sources of drinking water.",
+            "9 Evidence of its effectiveness, however, is derived from nonblinded trials that report diarrheal disease as an outcome.",
+            "Reported outcomes of water, sanitation, and hygiene (WASH) intervention trials, such as self-reported diarrheal disease, are subject to both recall and courtesy biases; such trials are highly subjective and unable to distinguish specific causal pathogens of the disease.",
+            "10 Objective measures of exposures are particularly important in trials of environmental health interventions that cannot be blinded.",
+            "11 Objective outcome measures were incorporated in a recent meta-analysis of 54 studies examining the impact of WASH on intestinal protozoa infection, which found that the general availability and use of WASH interventions was associated with significantly lower odds of Entamoeba histolytica, Giardia intestinalis, and Cryptosporidium spp.",
+            "infections.",
+            "Diagnostics were typically performed with stool examination.",
+            "12 Although stool assays offer an opportunity for more objective assessment, logistical constraints related to the storage, transport, and extensive laboratory work involved can limit their utility in resource-limited settings.",
+            "13 In addition, the ability of stool assays to detect etiologic agents can be limited, as in the case of some protozoa, when cysts or oocysts are not continuously shed.",
+            "14 Disease prevalence can also vary widely by season, 15 so IgG/IgG4 assays can provide additional means of ascertaining exposure retrospectively throughout the study period as opposed to using stool cultures, which may only detect pathogens that are present at the time of collection."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Quantitative assays that detect serologic IgG antibody responses against various enteropathogens can provide a useful measure of prior exposures to enteropathogens in children and may supplement relatively subjective caregiverreported diarrheal disease outcomes. 16 Antibody responses that recognize some enteric pathogen antigens are transiently expressed, allowing researchers to infer some degree of temporality with regard to the timing of exposures, positive stools and, in some cases, the number of recent infections. 17, 18 For protozoan infections, cyst-positive stools appear to co-occur with serologic responses to E. histolytica and Giardia intestinalis, with higher seroprevalence in children for whom stool samples were collected within 1 week of serum collection versus 2 weeks or more, 19 indicating that serologic responses can be an indicator of recent protozoan infections. Antibody responses in cryptosporidiosis patients are consistently directed against 23-and 17-kDa Cryptosporidium parvum antigens (Cp23 and Cp17, respectively) and are known to have a 12-week half-life in adults. 17 Immunoassays also provide the opportunity to characterize age-specific cumulative exposures to enteropathogens that can enhance epidemiological surveillance and inform etiology-specific interventions and regionally specific treatment strategies. 20 Children under 24 months of age are the ideal population to examine seroconversion as maternally derived antibodies typically have waned 13 and initial exposure to enteropathogens often occurs within the first 2 years of life.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Quantitative assays that detect serologic IgG antibody responses against various enteropathogens can provide a useful measure of prior exposures to enteropathogens in children and may supplement relatively subjective caregiverreported diarrheal disease outcomes.",
+            "16 Antibody responses that recognize some enteric pathogen antigens are transiently expressed, allowing researchers to infer some degree of temporality with regard to the timing of exposures, positive stools and, in some cases, the number of recent infections.",
+            "17, 18 For protozoan infections, cyst-positive stools appear to co-occur with serologic responses to E. histolytica and Giardia intestinalis, with higher seroprevalence in children for whom stool samples were collected within 1 week of serum collection versus 2 weeks or more, 19 indicating that serologic responses can be an indicator of recent protozoan infections.",
+            "Antibody responses in cryptosporidiosis patients are consistently directed against 23-and 17-kDa Cryptosporidium parvum antigens (Cp23 and Cp17, respectively) and are known to have a 12-week half-life in adults.",
+            "17 Immunoassays also provide the opportunity to characterize age-specific cumulative exposures to enteropathogens that can enhance epidemiological surveillance and inform etiology-specific interventions and regionally specific treatment strategies.",
+            "20 Children under 24 months of age are the ideal population to examine seroconversion as maternally derived antibodies typically have waned 13 and initial exposure to enteropathogens often occurs within the first 2 years of life."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Microsphere-based multiplex immunoassay methods allow for simultaneous measurement of antibodies against multiple antigens. Previously, this technology has been applied to neglected tropical disease surveillance, particularly those diseases targeted for global elimination. 21 In recent years, single enzyme-linked immunosorbent assays and multiplex immunoassays have been shown to effectively target antigens of various enteropathogens, 13, [16] [17] [18] [19] 22, 23 but the technique's incorporation into intervention trials has not been adequately explored. One trial 16 and a few cross-sectional or longitudinal population studies 13, 18, 19, 23, 24 have incorporated this approach in the past, but have not included the full range of enteric antigens that are now currently available.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Microsphere-based multiplex immunoassay methods allow for simultaneous measurement of antibodies against multiple antigens.",
+            "Previously, this technology has been applied to neglected tropical disease surveillance, particularly those diseases targeted for global elimination.",
+            "21 In recent years, single enzyme-linked immunosorbent assays and multiplex immunoassays have been shown to effectively target antigens of various enteropathogens, 13, [16] [17] [18] [19] 22, 23 but the technique's incorporation into intervention trials has not been adequately explored.",
+            "One trial 16 and a few cross-sectional or longitudinal population studies 13, 18, 19, 23, 24 have incorporated this approach in the past, but have not included the full range of enteric antigens that are now currently available."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "We undertook this study in the context of a large-scale clusterrandomized controlled trial (CRT) described elsewhere. 25 We aimed to assess the effectiveness of a point-of-use water filter on seroconversion against a panel of viral, bacterial, and protozoan enteropathogens among young children. We also sought to explore the potential for using serologic response as an objective alternative to reported diarrhea to assess the effectiveness of water quality interventions, an approach that has been advocated in other serologic studies. 16, 18 ",
+        "section": "INTRODUCTION",
+        "section_number": 4,
+        "sentences": [
+            "We undertook this study in the context of a large-scale clusterrandomized controlled trial (CRT) described elsewhere.",
+            "25 We aimed to assess the effectiveness of a point-of-use water filter on seroconversion against a panel of viral, bacterial, and protozoan enteropathogens among young children.",
+            "We also sought to explore the potential for using serologic response as an objective alternative to reported diarrhea to assess the effectiveness of water quality interventions, an approach that has been advocated in other serologic studies.",
+            "16, 18"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Intervention. In an effort to reduce the high prevalence of waterborne disease in western province, Rwanda, DelAgua Health, Inc. (DelAgua, Wiltshire, United Kingdom) distributed point-of-use water filters to the poorest 30% (Ubudehe 1 and 2) of households. The Vestergaard Frandsen (Lausanne, Switzerland) LifeStraw\u2122 Family 2.1 filter employs a 0.2-\u03bcm hollow-fiber ultrafiltration membrane designed to remove bacteria, parasites, and select viruses from source water. This system can filter up to 18,000 L of water, supplying a family of five with clean drinking water for 3-5 years. 26 This system exceeds the World Health Organization's \"highly protective\" standard for household water treatment technologies. 27 Participating households also received an improved biomass cook stove.",
+        "section": "METHODS",
+        "section_number": 5,
+        "sentences": [
+            "Intervention.",
+            "In an effort to reduce the high prevalence of waterborne disease in western province, Rwanda, DelAgua Health, Inc. (DelAgua, Wiltshire, United Kingdom) distributed point-of-use water filters to the poorest 30% (Ubudehe 1 and 2) of households.",
+            "The Vestergaard Frandsen (Lausanne, Switzerland) LifeStraw\u2122 Family 2.1 filter employs a 0.2-\u03bcm hollow-fiber ultrafiltration membrane designed to remove bacteria, parasites, and select viruses from source water.",
+            "This system can filter up to 18,000 L of water, supplying a family of five with clean drinking water for 3-5 years.",
+            "26 This system exceeds the World Health Organization's \"highly protective\" standard for household water treatment technologies.",
+            "27 Participating households also received an improved biomass cook stove."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Study design. We assessed the effectiveness of the intervention by conducting a CRT in Western Province, Rwanda, using diarrhea in the previous 7 days as our primary outcome. The study design for the CRT has been described elsewhere 25 and was informed by previously described pilot studies 28, 29 and government-reported disease prevalence data. 30 The intervention was delivered to all eligible households among 72 randomly selected sectors, with the remaining 24 sectors serving as controls. Outcomes for the sector-level study will be drawn from clinical records collected from all health clinics and community health workers in the study area. To assess coverage and use of the intervention, and to measure its impact on drinking water quality and other outcomes unavailable from health clinic records, we conducted a villagelevel study that consisted of intensive longitudinal data collection among households in 174 randomly selected villages divided equally among intervention and control sectors. For this nested village-level study, we sought to enroll up to 10 households with at least one child under 4 years old per village. We ultimately enrolled 1,582 total households with 2,179 children. Following a baseline conducted from late August through early December 2014, we conducted three follow-up rounds in the same households from February 2015 through March 2016.",
+        "section": "METHODS",
+        "section_number": 6,
+        "sentences": [
+            "Study design.",
+            "We assessed the effectiveness of the intervention by conducting a CRT in Western Province, Rwanda, using diarrhea in the previous 7 days as our primary outcome.",
+            "The study design for the CRT has been described elsewhere 25 and was informed by previously described pilot studies 28, 29 and government-reported disease prevalence data.",
+            "30 The intervention was delivered to all eligible households among 72 randomly selected sectors, with the remaining 24 sectors serving as controls.",
+            "Outcomes for the sector-level study will be drawn from clinical records collected from all health clinics and community health workers in the study area.",
+            "To assess coverage and use of the intervention, and to measure its impact on drinking water quality and other outcomes unavailable from health clinic records, we conducted a villagelevel study that consisted of intensive longitudinal data collection among households in 174 randomly selected villages divided equally among intervention and control sectors.",
+            "For this nested village-level study, we sought to enroll up to 10 households with at least one child under 4 years old per village.",
+            "We ultimately enrolled 1,582 total households with 2,179 children.",
+            "Following a baseline conducted from late August through early December 2014, we conducted three follow-up rounds in the same households from February 2015 through March 2016."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Enteric serologic study. For this seroconversion substudy, we assessed serologic responses against a panel of 12 antigens representing nine of the most common causes of diarrhea in this region, 31 relative to age and intervention status. Our enumerators were instructed to enroll all 6-to 12-month-old children residing in the households selected for intensive data collection during the baseline round of the CRT. These children had one blood sample drawn at baseline and a second sample 12 months later during follow-up. We conservatively estimated that 40% of children would seroconvert from negative to positive for C. parvum and norovirus antibody between baseline and follow-up in the absence of any intervention, based on a previous trial in Guatemala. 16 If 87 children from each of our two study arms were enrolled in the study, we would have 80% power at \u03b1 = 0.05 to detect a difference in seroconversion against any antigen of 40% versus 22.5% in our intervention and control groups.",
+        "section": "METHODS",
+        "section_number": 7,
+        "sentences": [
+            "Enteric serologic study.",
+            "For this seroconversion substudy, we assessed serologic responses against a panel of 12 antigens representing nine of the most common causes of diarrhea in this region, 31 relative to age and intervention status.",
+            "Our enumerators were instructed to enroll all 6-to 12-month-old children residing in the households selected for intensive data collection during the baseline round of the CRT.",
+            "These children had one blood sample drawn at baseline and a second sample 12 months later during follow-up.",
+            "We conservatively estimated that 40% of children would seroconvert from negative to positive for C. parvum and norovirus antibody between baseline and follow-up in the absence of any intervention, based on a previous trial in Guatemala.",
+            "16 If 87 children from each of our two study arms were enrolled in the study, we would have 80% power at \u03b1 = 0.05 to detect a difference in seroconversion against any antigen of 40% versus 22.5% in our intervention and control groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Between 3 and 6 small hanging drops of blood (10 \u03bcL each for a total of 30-60 \u03bcL) were collected on TropBio\u2122 filter discs (Cellabs Pty Ltd., Brookvale, New South Wales, Australia) and kept in individual plastic resealable containers during the fieldwork. Immediately on return to the field office each day, the discs were placed on a table and allowed to dry overnight. The following morning, they were individually packaged in plastic resealable bags with desiccant, and were sent within 7 days of collection to the Rwanda National Reference Laboratory in Kigali, Rwanda, for long-term storage at \u221220\u00b0C.",
+        "section": "METHODS",
+        "section_number": 8,
+        "sentences": [
+            "Between 3 and 6 small hanging drops of blood (10 \u03bcL each for a total of 30-60 \u03bcL) were collected on TropBio\u2122 filter discs (Cellabs Pty Ltd., Brookvale, New South Wales, Australia) and kept in individual plastic resealable containers during the fieldwork.",
+            "Immediately on return to the field office each day, the discs were placed on a table and allowed to dry overnight.",
+            "The following morning, they were individually packaged in plastic resealable bags with desiccant, and were sent within 7 days of collection to the Rwanda National Reference Laboratory in Kigali, Rwanda, for long-term storage at \u221220\u00b0C."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Laboratory methods. All laboratory analyses were performed at the Centers for Disease Control and Prevention (CDC) Infectious Disease Laboratories in Atlanta, GA. Total IgG responses against relevant enteropathogens were quantified using a multiplex SeroMAP\u2122 microsphere-based immunoassay on the Luminex xMAP platform (Luminex Corp, Austin, TX). Antigens used in this assay were Schistosoma japonicum glutathione-S-transferase (GST) protein control 24 ; Toxoplasma gondii surface antigen 2A gene/GST fusion (SAG2A) 32 ; G. intestinalis variant-specific surface protein AS8/ GST fusion (VSP3) 23, 33 and variant-specific surface protein 42e/GST fusion (VSP5) 23, 34 ; virus-like particles (VLPs) for three norovirus strains (Norwalk, Sydney and St. Cloud) kindly provided by Jan Vinje and Veronica Costantini (CDC); Campylobacter jejuni p39 antigen and Campylobacter p18 antigen 35 ; Enterotoxigenic Escherichia coli (ETEC) heat-labile toxin \u03b2 subunit (EtxB) (Sigma Chemical Co., St. Louis, MO); C. parvum 17-kDa protein/GST fusion (Cp17) and C. parvum 23-kDa protein/GST fusion (Cp23) 23 ; cholera toxin \u03b2 subunit (CtxB) (Sigma); and E. histolytica Gal/GalNAc lectin heavy chain subunit (LecA) (kindly provided by W. Petri, Univ. of Virginia School of Medicine). 19, 36 The C. jejuni antigens were expressed as GST fusion proteins in pGEX-4T2 vector (GE Healthcare, Piscataway, NJ) using the same polymerase chain reaction (PCR) and directional cloning strategies as previously described for the T. gondii SAG2A protein. 37 The forward and reverse deoxyoligonucleotides used in the PCR reactions were: 59-CGC GGA TCC GTT ATT AGT GGT TGT AGC AC-39 and 59-GCG GAA TTC TTA TCT TGA TAA TTT AAA TTC-39, respectively, for p18; and 59-CGC GGA TCC CCT GTA AGA TTT AGT TTA AAT C-39 and 59-GCG GAA TTC TTA GTT TAA AGT ATA AAG CTT G-39, respectively, for p39. Proteins were expressed in E. coli Hb101 cells (Promega Corp., Madison, WI), purified on a glutathione Sepharose 4B affinity column (GE Healthcare) as directed by the manufacturer, and additionally purified by Mono Q chromatography (HR 5/5 column; GE Healthcare) using a 20-minute linear elution gradient of 0-0.6 M NaCl in 25 mM Tris (pH 7.5) at a flow rate of 1 mL/min. The proteins eluted at approximately 0.25 M NaCl on the gradient profile. Protein yield (BCA microassay; Pierce Chemical, Rockford, IL) was > 3 mg/L of culture.",
+        "section": "METHODS",
+        "section_number": 9,
+        "sentences": [
+            "Laboratory methods.",
+            "All laboratory analyses were performed at the Centers for Disease Control and Prevention (CDC) Infectious Disease Laboratories in Atlanta, GA.",
+            "Total IgG responses against relevant enteropathogens were quantified using a multiplex SeroMAP\u2122 microsphere-based immunoassay on the Luminex xMAP platform (Luminex Corp, Austin, TX).",
+            "Antigens used in this assay were Schistosoma japonicum glutathione-S-transferase (GST) protein control 24 ; Toxoplasma gondii surface antigen 2A gene/GST fusion (SAG2A) 32 ; G. intestinalis variant-specific surface protein AS8/ GST fusion (VSP3) 23, 33 and variant-specific surface protein 42e/GST fusion (VSP5) 23, 34 ; virus-like particles (VLPs) for three norovirus strains (Norwalk, Sydney and St. Cloud) kindly provided by Jan Vinje and Veronica Costantini (CDC); Campylobacter jejuni p39 antigen and Campylobacter p18 antigen 35 ; Enterotoxigenic Escherichia coli (ETEC) heat-labile toxin \u03b2 subunit (EtxB) (Sigma Chemical Co., St. Louis, MO); C. parvum 17-kDa protein/GST fusion (Cp17) and C. parvum 23-kDa protein/GST fusion (Cp23) 23 ; cholera toxin \u03b2 subunit (CtxB) (Sigma); and E. histolytica Gal/GalNAc lectin heavy chain subunit (LecA) (kindly provided by W. Petri, Univ.",
+            "of Virginia School of Medicine).",
+            "19, 36 The C. jejuni antigens were expressed as GST fusion proteins in pGEX-4T2 vector (GE Healthcare, Piscataway, NJ) using the same polymerase chain reaction (PCR) and directional cloning strategies as previously described for the T. gondii SAG2A protein.",
+            "37 The forward and reverse deoxyoligonucleotides used in the PCR reactions were: 59-CGC GGA TCC GTT ATT AGT GGT TGT AGC AC-39 and 59-GCG GAA TTC TTA TCT TGA TAA TTT AAA TTC-39, respectively, for p18; and 59-CGC GGA TCC CCT GTA AGA TTT AGT TTA AAT C-39 and 59-GCG GAA TTC TTA GTT TAA AGT ATA AAG CTT G-39, respectively, for p39.",
+            "Proteins were expressed in E. coli Hb101 cells (Promega Corp., Madison, WI), purified on a glutathione Sepharose 4B affinity column (GE Healthcare) as directed by the manufacturer, and additionally purified by Mono Q chromatography (HR 5/5 column; GE Healthcare) using a 20-minute linear elution gradient of 0-0.6 M NaCl in 25 mM Tris (pH 7.5) at a flow rate of 1 mL/min.",
+            "The proteins eluted at approximately 0.25 M NaCl on the gradient profile.",
+            "Protein yield (BCA microassay; Pierce Chemical, Rockford, IL) was > 3 mg/L of culture."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Bead coupling. Procedures describing the coupling process of antigens to microspheres have been described in detail elsewhere. 23, 24 The carboxyl groups on each bead were esterified and then reacted with the primary amine groups of each antigen to bind the antigens to the microspheres through a covalent amide bond. Norovirus VLP antigens were coupled in buffer containing 10 mM Na 2 HPO 4 and 0.85% NaCl at pH 7.2 (phosphate-buffered saline [PBS]) using 30 \u03bcg protein/ 12.5 \u00d7 10 6 beads. All other antigens used in this study were coupled in buffer containing 25 mM 2-(N-morpholino)ethanesulfonic acid and 0.85% NaCl at pH 5.0. The amounts of protein coupled to 12.5 \u00d7 10 6 beads were GST control, 15 \u03bcg; T. gondii SAG2A, 12.5 \u03bcg; G. intestinalis VSP3 and VSP5, ETEC and cholera toxin \u03b2 subunits, and E. histolytica LecA, 30 \u03bcg; C. parvum Cp17, 6.8 \u03bcg; C. parvum Cp23, 12.5 \u03bcg; C. jejuni p18 and p39, 25 \u03bcg. Beads were quantified by a hemocytometer and stored at 4\u00b0C in PBS with 1.0% bovine serum albumin, 0.05% Tween 20 and 0.02% sodium azide (NaN 3 ) and the following protease inhibitors: 200 \u03bcg of pefabloc (4-(2-aminoethyl) benzenesulfonyl fluoride hydrochloride) (Roche Diagnostics, Indianapolis, IN), 200 \u03bcg ethylenediaminetetraacetic acid, and 1 \u03bcg of both leupeptin and pepstatin A. 19 Serum preparation. The elution process loosely followed a protocol described elsewhere for antibody elution from the TropBio dried blood spots (DBSs). 38 Elution buffer was made with 0.05% Tween-20 and 0.05% NaN 3 in PBS. DBS tabs were removed from \u221220\u00b0C, brought to room temperature, and submerged in 200 \u03bcL of elution buffer for a minimum of 18 hours at 4\u00b0C. DBS tabs were considered acceptable for use if > 90% of the filter paper was red (indicative of saturation with 10 uL of whole blood). Eluted serum (50 uL) was diluted into 450 uL of dilution buffer for a final serum dilution of 1:400 (assuming a hematocrit of 50%). Dilution buffer consisted of PBS with 0.50% polyvinyl alcohol (PVA), 0.80% polyvinylpyrrolidone (PVP), 0.50% casein, 0.30% Tween-20, and 0.02% NaN 3 , and E. coli extract at a final protein concentration of 3 \u03bcg/mL. PVA and PVP were added to reduce background while not affecting specificity. 19 Multiplex bead assay. Multiplex assay conditions have previously been described. 18, 19 All samples were run in duplicate. Controls run on each 96-well plate included a buffer-only blank, one negative control, and five positive controls. The background from the buffer-only blank was subtracted from the result for each antigen, and values are reported as an average median fluorescent intensity with background subtracted (MFI-bg). A % coefficient of variation (%CV) was calculated from the duplicate well values, and samples were repeated if the %CV values for three or more positive responses exceeded 15% (N = 8).",
+        "section": "METHODS",
+        "section_number": 10,
+        "sentences": [
+            "Bead coupling.",
+            "Procedures describing the coupling process of antigens to microspheres have been described in detail elsewhere.",
+            "23, 24 The carboxyl groups on each bead were esterified and then reacted with the primary amine groups of each antigen to bind the antigens to the microspheres through a covalent amide bond.",
+            "Norovirus VLP antigens were coupled in buffer containing 10 mM Na 2 HPO 4 and 0.85% NaCl at pH 7.2 (phosphate-buffered saline [PBS]) using 30 \u03bcg protein/ 12.5 \u00d7 10 6 beads.",
+            "All other antigens used in this study were coupled in buffer containing 25 mM 2-(N-morpholino)ethanesulfonic acid and 0.85% NaCl at pH 5.0.",
+            "The amounts of protein coupled to 12.5 \u00d7 10 6 beads were GST control, 15 \u03bcg; T. gondii SAG2A, 12.5 \u03bcg; G. intestinalis VSP3 and VSP5, ETEC and cholera toxin \u03b2 subunits, and E. histolytica LecA, 30 \u03bcg; C. parvum Cp17, 6.8 \u03bcg; C. parvum Cp23, 12.5 \u03bcg; C. jejuni p18 and p39, 25 \u03bcg.",
+            "Beads were quantified by a hemocytometer and stored at 4\u00b0C in PBS with 1.0% bovine serum albumin, 0.05% Tween 20 and 0.02% sodium azide (NaN 3 ) and the following protease inhibitors: 200 \u03bcg of pefabloc (4-(2-aminoethyl) benzenesulfonyl fluoride hydrochloride) (Roche Diagnostics, Indianapolis, IN), 200 \u03bcg ethylenediaminetetraacetic acid, and 1 \u03bcg of both leupeptin and pepstatin A. 19 Serum preparation.",
+            "The elution process loosely followed a protocol described elsewhere for antibody elution from the TropBio dried blood spots (DBSs).",
+            "38 Elution buffer was made with 0.05% Tween-20 and 0.05% NaN 3 in PBS.",
+            "DBS tabs were removed from \u221220\u00b0C, brought to room temperature, and submerged in 200 \u03bcL of elution buffer for a minimum of 18 hours at 4\u00b0C.",
+            "DBS tabs were considered acceptable for use if > 90% of the filter paper was red (indicative of saturation with 10 uL of whole blood).",
+            "Eluted serum (50 uL) was diluted into 450 uL of dilution buffer for a final serum dilution of 1:400 (assuming a hematocrit of 50%).",
+            "Dilution buffer consisted of PBS with 0.50% polyvinyl alcohol (PVA), 0.80% polyvinylpyrrolidone (PVP), 0.50% casein, 0.30% Tween-20, and 0.02% NaN 3 , and E. coli extract at a final protein concentration of 3 \u03bcg/mL. PVA and PVP were added to reduce background while not affecting specificity.",
+            "19 Multiplex bead assay.",
+            "Multiplex assay conditions have previously been described.",
+            "18, 19 All samples were run in duplicate.",
+            "Controls run on each 96-well plate included a buffer-only blank, one negative control, and five positive controls.",
+            "The background from the buffer-only blank was subtracted from the result for each antigen, and values are reported as an average median fluorescent intensity with background subtracted (MFI-bg).",
+            "A % coefficient of variation (%CV) was calculated from the duplicate well values, and samples were repeated if the %CV values for three or more positive responses exceeded 15% (N = 8)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Cutoff determination. Cutoff values were previously established for C. parvum Cp17 and 23 using an receiver operating characteristic curve based on Western blot data 22 and for G. intestinalis using the mean MFI-bg values plus three standard deviations of serum drawn from a panel of U.S. adults with no history of foreign travel. For the remaining antigens, cutoffs were determined through finite mixture models of two Gaussian distributions of continuous MFI values. 20, 39 Procedures for establishing cutoff values for seropositivity are described in further detail in the Supplemental Material.",
+        "section": "METHODS",
+        "section_number": 11,
+        "sentences": [
+            "Cutoff determination.",
+            "Cutoff values were previously established for C. parvum Cp17 and 23 using an receiver operating characteristic curve based on Western blot data 22 and for G. intestinalis using the mean MFI-bg values plus three standard deviations of serum drawn from a panel of U.S. adults with no history of foreign travel.",
+            "For the remaining antigens, cutoffs were determined through finite mixture models of two Gaussian distributions of continuous MFI values.",
+            "20, 39 Procedures for establishing cutoff values for seropositivity are described in further detail in the Supplemental Material."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Multiple imputation. To account for sample loss at baseline and follow-up, multiple imputation methods using fully conditional specification 40 were used to impute missing values using predictors of diarrhea at baseline. These predictors were incorporated as potential covariates in individual models predicting MFI values for each antigen and were retained in imputation models if they were associated with antibody response at \u03b1 = 0.35. This process generated 25 imputed datasets. Multiple imputation procedures are described in further detail in the Supplemental Methods.",
+        "section": "METHODS",
+        "section_number": 12,
+        "sentences": [
+            "Multiple imputation.",
+            "To account for sample loss at baseline and follow-up, multiple imputation methods using fully conditional specification 40 were used to impute missing values using predictors of diarrhea at baseline.",
+            "These predictors were incorporated as potential covariates in individual models predicting MFI values for each antigen and were retained in imputation models if they were associated with antibody response at \u03b1 = 0.35.",
+            "This process generated 25 imputed datasets.",
+            "Multiple imputation procedures are described in further detail in the Supplemental Methods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Statistical analysis. To assess the impact of the intervention on serologic responses against the enteropathogen antigens explored in this study, we first performed a comparison for the continuous measures for antibody response (MFI) between intervention arms. For all antibodies assessed in this study, the serologic responses as measured by MFI were not normally distributed. Goodness-of-fit tests were performed on all log-transformed values against a normal distribution to examine the appropriateness of applying a continuous MFI outcome variable for parametric analyses. If log-transformed continuous variables fit a normal distribution, they were subject to linear regression. The change in log-transformed MFI between baseline and follow-up (\u0394MFI-bg) was compared between intervention and control groups using a t test with a pooled variance estimator where parametric analyses were possible. All variables that could not be transformed to fit a common statistical distribution were only analyzed for serologic response relative to their cutoff values.",
+        "section": "METHODS",
+        "section_number": 13,
+        "sentences": [
+            "Statistical analysis.",
+            "To assess the impact of the intervention on serologic responses against the enteropathogen antigens explored in this study, we first performed a comparison for the continuous measures for antibody response (MFI) between intervention arms.",
+            "For all antibodies assessed in this study, the serologic responses as measured by MFI were not normally distributed.",
+            "Goodness-of-fit tests were performed on all log-transformed values against a normal distribution to examine the appropriateness of applying a continuous MFI outcome variable for parametric analyses.",
+            "If log-transformed continuous variables fit a normal distribution, they were subject to linear regression.",
+            "The change in log-transformed MFI between baseline and follow-up (\u0394MFI-bg) was compared between intervention and control groups using a t test with a pooled variance estimator where parametric analyses were possible.",
+            "All variables that could not be transformed to fit a common statistical distribution were only analyzed for serologic response relative to their cutoff values."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Seroconversion and prevalence of serologic responses against enteropathogens in this study were calculated using both available and imputed data. MFI-bg data for each antigen were dichotomized above and below their respective cutoff points at baseline and follow-up. Binary seroprevalence estimates were calculated among children in households randomized to intervention households and compared with children in control households using log binomial models on both observed and imputed data. 41 Village-level clustering was accounted for through robust variance estimation; for imputed data, generalized estimating equation (GEE) parameter estimates with empirical standard errors were calculated and combined to generate valid statistical inferences of the associations under study. 42 For seroconversion analyses, a child was considered to have seroconverted against a particular antigen if their MFI-bg values were below the cutoff at baseline but above the cutoff at follow-up. Seroconversion prevalence was compared with both observed and imputed data between intervention and control groups using log binomial models with robust variance estimation to account for intra-village clustering to calculate the relative risk of seroconversion at follow-up against any specific antigen among children in the intervention versus control arm. Models were selected using backward selection procedures in which the full model included age, gender, socioeconomic status, time between rounds, water source type, toilet type, toilet area * Socioeconomic status quintile determined through polychoric principal components analysis, as described in the supplement. FIGURE 1. Sample flow from the enrollment to analysis stages for all children enrolled in the baseline and follow-up rounds of this study. Children were only eligible for blood draw during follow-up if they were initially enrolled during the baseline round. cleanliness, and shared sanitation. Socioeconomic status was considered as a confounder and determined by an index calculated through a principal components analysis using polychoric correlations of discrete household asset variables, 43, 44 as described in further detail in the Supplemental Methods. Confounders were retained if they altered the effect size from the full model by more than 10%, and effect modifiers were considered if the magnitude or direction of the relationship between an exposure and the serologic outcome varied substantially by level of the modifier. Final models for each serologic outcome of interest are shown in Supplemental Table 5 ; we assessed confounding by other demographic, water, and sanitation factors when deemed appropriate by our model selection procedures, even though we found reasonable balance between study arms on most household and environmental factors collected at baseline (Table 1) . Both unadjusted and adjusted log binomial models were run using observed and imputed data.",
+        "section": "METHODS",
+        "section_number": 14,
+        "sentences": [
+            "Seroconversion and prevalence of serologic responses against enteropathogens in this study were calculated using both available and imputed data.",
+            "MFI-bg data for each antigen were dichotomized above and below their respective cutoff points at baseline and follow-up.",
+            "Binary seroprevalence estimates were calculated among children in households randomized to intervention households and compared with children in control households using log binomial models on both observed and imputed data.",
+            "41 Village-level clustering was accounted for through robust variance estimation; for imputed data, generalized estimating equation (GEE) parameter estimates with empirical standard errors were calculated and combined to generate valid statistical inferences of the associations under study.",
+            "42 For seroconversion analyses, a child was considered to have seroconverted against a particular antigen if their MFI-bg values were below the cutoff at baseline but above the cutoff at follow-up.",
+            "Seroconversion prevalence was compared with both observed and imputed data between intervention and control groups using log binomial models with robust variance estimation to account for intra-village clustering to calculate the relative risk of seroconversion at follow-up against any specific antigen among children in the intervention versus control arm.",
+            "Models were selected using backward selection procedures in which the full model included age, gender, socioeconomic status, time between rounds, water source type, toilet type, toilet area * Socioeconomic status quintile determined through polychoric principal components analysis, as described in the supplement.",
+            "FIGURE 1.",
+            "Sample flow from the enrollment to analysis stages for all children enrolled in the baseline and follow-up rounds of this study.",
+            "Children were only eligible for blood draw during follow-up if they were initially enrolled during the baseline round.",
+            "cleanliness, and shared sanitation.",
+            "Socioeconomic status was considered as a confounder and determined by an index calculated through a principal components analysis using polychoric correlations of discrete household asset variables, 43, 44 as described in further detail in the Supplemental Methods.",
+            "Confounders were retained if they altered the effect size from the full model by more than 10%, and effect modifiers were considered if the magnitude or direction of the relationship between an exposure and the serologic outcome varied substantially by level of the modifier.",
+            "Final models for each serologic outcome of interest are shown in Supplemental Table 5 ; we assessed confounding by other demographic, water, and sanitation factors when deemed appropriate by our model selection procedures, even though we found reasonable balance between study arms on most household and environmental factors collected at baseline (Table 1) .",
+            "Both unadjusted and adjusted log binomial models were run using observed and imputed data."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "To assess the utility of serologic testing as an objective alternative to reported diarrhea, dichotomized MFI-bg values representing seroprevalence of antibody responses against each antigen were assessed relative to diarrhea prevalence among all children, with data combined between baseline and follow-up. On the day of the blood draw, survey respondents were asked to recall whether the child had experienced diarrhea as per the World Health Organization case definition (passage of three or more loose or water stools within 24 hours 45 ) within the previous 7 days. The relative risk for diarrheal disease in the previous 7 days in seropositive versus seronegative children was compared for each antigen of interest using repeated measures log binomial models with robust error variance estimation to account for separate measurements taken for each individual child at both baseline and follow-up. To obtain the approximate age of seroconversion against these enteric targets in this population, age-specific MFI-bg values reflecting level of IgG produced were plotted by 3month age group. All analyses were performed using SAS V9 (SAS Institute, Cary, NC).",
+        "section": "METHODS",
+        "section_number": 15,
+        "sentences": [
+            "To assess the utility of serologic testing as an objective alternative to reported diarrhea, dichotomized MFI-bg values representing seroprevalence of antibody responses against each antigen were assessed relative to diarrhea prevalence among all children, with data combined between baseline and follow-up.",
+            "On the day of the blood draw, survey respondents were asked to recall whether the child had experienced diarrhea as per the World Health Organization case definition (passage of three or more loose or water stools within 24 hours 45 ) within the previous 7 days.",
+            "The relative risk for diarrheal disease in the previous 7 days in seropositive versus seronegative children was compared for each antigen of interest using repeated measures log binomial models with robust error variance estimation to account for separate measurements taken for each individual child at both baseline and follow-up.",
+            "To obtain the approximate age of seroconversion against these enteric targets in this population, age-specific MFI-bg values reflecting level of IgG produced were plotted by 3month age group.",
+            "All analyses were performed using SAS V9 (SAS Institute, Cary, NC)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Ethical approval. Informed consent was obtained both in writing and verbally. The study protocol and survey instruments were reviewed and approved by the Emory University ",
+        "section": "METHODS",
+        "section_number": 16,
+        "sentences": [
+            "Ethical approval.",
+            "Informed consent was obtained both in writing and verbally.",
+            "The study protocol and survey instruments were reviewed and approved by the Emory University"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Samples analyzed. Out of the 251 children who met our age eligibility criteria for enrollment in this seroconversion substudy, 189 children who were 6-12 months old at baseline were ultimately enrolled. A summary of the sample flow and loss is depicted in Figure 1 , which is further divided into intervention and control arms in Supplemental Table 1 and 2 for baseline and follow-up. Children were not enrolled if their caregiver did not consent to the blood draw (17%), the child was not at home during the baseline assessment (6%), or if the child was too ill to participate (1%). Of these 189 children, 153 children were available at follow-up; loss to follow-up (19%) was due to refusals (3%), unsuccessful draws (1%), Tables 2 and 3 utilizing cutoff values for seropositivity. \u2020 Mean fluorescence intensity values can range from 1 to 32,766 without background subtracted, but MFI values with background values subtracted (MFI-bg) can be negative. 22 unavailability of the child (11%), or child illness (5%). Among the 189 children enrolled at baseline, 120 baseline samples, 152 follow-up samples, and 97 paired samples from baseline and follow-up were available for analysis. Samples were deemed insufficient for analysis if spots were less than approximately 90% filled. Descriptive statistics of child and household water and sanitation characteristics at baseline demonstrated reasonable balance between intervention and control groups (Table 1) .",
+        "section": "RESULTS",
+        "section_number": 17,
+        "sentences": [
+            "Samples analyzed.",
+            "Out of the 251 children who met our age eligibility criteria for enrollment in this seroconversion substudy, 189 children who were 6-12 months old at baseline were ultimately enrolled.",
+            "A summary of the sample flow and loss is depicted in Figure 1 , which is further divided into intervention and control arms in Supplemental Table 1 and 2 for baseline and follow-up.",
+            "Children were not enrolled if their caregiver did not consent to the blood draw (17%), the child was not at home during the baseline assessment (6%), or if the child was too ill to participate (1%).",
+            "Of these 189 children, 153 children were available at follow-up; loss to follow-up (19%) was due to refusals (3%), unsuccessful draws (1%), Tables 2 and 3 utilizing cutoff values for seropositivity. \u2020",
+            "Mean fluorescence intensity values can range from 1 to 32,766 without background subtracted, but MFI values with background values subtracted (MFI-bg) can be negative.",
+            "22 unavailability of the child (11%), or child illness (5%).",
+            "Among the 189 children enrolled at baseline, 120 baseline samples, 152 follow-up samples, and 97 paired samples from baseline and follow-up were available for analysis.",
+            "Samples were deemed insufficient for analysis if spots were less than approximately 90% filled.",
+            "Descriptive statistics of child and household water and sanitation characteristics at baseline demonstrated reasonable balance between intervention and control groups (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Continuous serologic analyses. MFI-bg values for all norovirus antigens, T. gondii SAG2A, all C. parvum antigens, and C. jejuni p18 were successfully log-transformed to fit a normal distribution. Serologic responses against C. parvum Cp17 at follow-up were significantly lower in the intervention group than the control group (t = \u22122.00, P = 0.047), but the change in log-transformed mean MFI-bg from baseline to follow-up (\u0394MFI-bg) did not significantly differ between the two groups. Mean responses in log-transformed MFI values for C. parvum Cp23 did not significantly differ between the two intervention arms. There was no statistical difference in serologic response, as measured by median MFI-bg at follow-up and \u0394MFI-bg, between intervention and control groups when examining serologic responses against antigens for norovirus or C. jejuni. No child appeared to produce any serologic response to T. gondii SAG2A throughout the course of the study; therefore, this antigen was dropped from subsequent analyses. Median responses against C. jejuni p39, G. intestinalis VSP3 and VSP5, E. histolytica LecA, and EtxB and CtxB could not be transformed; therefore, responses to these antigens were only examined using binomial variables derived from threshold cutoffs. Median serologic responses at baseline and follow-up for all antigens are plotted in Figure 2 and displayed in Table 1 .",
+        "section": "RESULTS",
+        "section_number": 18,
+        "sentences": [
+            "Continuous serologic analyses.",
+            "MFI-bg values for all norovirus antigens, T. gondii SAG2A, all C. parvum antigens, and C. jejuni p18 were successfully log-transformed to fit a normal distribution.",
+            "Serologic responses against C. parvum Cp17 at follow-up were significantly lower in the intervention group than the control group (t = \u22122.00, P = 0.047), but the change in log-transformed mean MFI-bg from baseline to follow-up (\u0394MFI-bg) did not significantly differ between the two groups.",
+            "Mean responses in log-transformed MFI values for C. parvum Cp23 did not significantly differ between the two intervention arms.",
+            "There was no statistical difference in serologic response, as measured by median MFI-bg at follow-up and \u0394MFI-bg, between intervention and control groups when examining serologic responses against antigens for norovirus or C. jejuni.",
+            "No child appeared to produce any serologic response to T. gondii SAG2A throughout the course of the study; therefore, this antigen was dropped from subsequent analyses.",
+            "Median responses against C. jejuni p39, G. intestinalis VSP3 and VSP5, E. histolytica LecA, and EtxB and CtxB could not be transformed; therefore, responses to these antigens were only examined using binomial variables derived from threshold cutoffs.",
+            "Median serologic responses at baseline and follow-up for all antigens are plotted in Figure 2 and displayed in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Serologic responses by age. Age-specific median serologic responses to all enteric antigens assessed in this study are displayed in Figure 3 . Although children began expressing antibodies to EtxB and CtxB at early ages, the children in our study generally did not begin to produce antibodies against all other antigens until after 12 months of age. E. histolytica responses remained markedly low throughout the study period, and responses to T. gondii SAG2A were negligible. Antibody responses against Norwalk, Cp17, and Cp23 peaked between 12 and 20 months of age. Serologic responses against G. intestinalis VSP3 and VSP5 increased sharply after 12 months of age and remained elevated through 18 months of age (Figure 3) .",
+        "section": "RESULTS",
+        "section_number": 19,
+        "sentences": [
+            "Serologic responses by age.",
+            "Age-specific median serologic responses to all enteric antigens assessed in this study are displayed in Figure 3 .",
+            "Although children began expressing antibodies to EtxB and CtxB at early ages, the children in our study generally did not begin to produce antibodies against all other antigens until after 12 months of age.",
+            "E. histolytica responses remained markedly low throughout the study period, and responses to T. gondii SAG2A were negligible.",
+            "Antibody responses against Norwalk, Cp17, and Cp23 peaked between 12 and 20 months of age.",
+            "Serologic responses against G. intestinalis VSP3 and VSP5 increased sharply after 12 months of age and remained elevated through 18 months of age (Figure 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Impact of intervention on serologic responses. Analyses were performed using both observed (Tables 3 and 4 ) and imputed data (Supplemental Table 4 ) to calculate relative risks of both seroprevalence at follow-up and seroconversion between baseline and follow-up for all enteric antigens in this study. Any correlation between baseline and follow-up measures could indicate the potential for residual expression of antibody spanning both study rounds. To account for any differences in antibody production between the two study arms at baseline, we opted to measure both 1) raw seroprevalence against all antigens at follow-up (Table 3) and 2) seroconversion, measured as seroprevalence at follow-up among children who were seronegative at baseline (Table 4) .",
+        "section": "RESULTS",
+        "section_number": 20,
+        "sentences": [
+            "Impact of intervention on serologic responses.",
+            "Analyses were performed using both observed (Tables 3 and 4 ) and imputed data (Supplemental Table 4 ) to calculate relative risks of both seroprevalence at follow-up and seroconversion between baseline and follow-up for all enteric antigens in this study.",
+            "Any correlation between baseline and follow-up measures could indicate the potential for residual expression of antibody spanning both study rounds.",
+            "To account for any differences in antibody production between the two study arms at baseline, we opted to measure both 1) raw seroprevalence against all antigens at follow-up (Table 3) and 2) seroconversion, measured as seroprevalence at follow-up among children who were seronegative at baseline (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Relative risk estimates were comparable for imputed and observed data (Tables 3 and 4 and Supplemental Table 4 ). Seroprevalence of paired C. parvum Cp17 + Cp23 antibodies at follow-up was markedly reduced by 38% among children in the intervention group (adjusted risk ratio [aRR]: 0.62, 95% confidence interval [CI]: 0.44-0.89) ( Table 3) , although no significant difference was observed in seroconversion (aRR: 0.59, 95% CI: 0.33-1.07) ( Table 4 ). The intervention did not significantly affect seroprevalence or seroconversion of antibody responses against norovirus antigens, G. intestinalis VSPs, E. histolytica LecA antigen, C. jejuni p18 and p39 antigens, or EtxB and CtxB.",
+        "section": "RESULTS",
+        "section_number": 21,
+        "sentences": [
+            "Relative risk estimates were comparable for imputed and observed data (Tables 3 and 4 and Supplemental Table 4 ).",
+            "Seroprevalence of paired C. parvum Cp17 + Cp23 antibodies at follow-up was markedly reduced by 38% among children in the intervention group (adjusted risk ratio [aRR]: 0.62, 95% confidence interval [CI]: 0.44-0.89) ( Table 3) , although no significant difference was observed in seroconversion (aRR: 0.59, 95% CI: 0.33-1.07) ( Table 4 ).",
+            "The intervention did not significantly affect seroprevalence or seroconversion of antibody responses against norovirus antigens, G. intestinalis VSPs, E. histolytica LecA antigen, C. jejuni p18 and p39 antigens, or EtxB and CtxB."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Association between seroprevalence against enteropathogens and diarrhea. Seven-day prevalence of diarrheal disease doubled in children with positive serologic responses against both Giardia VSP antigens (aRR: 1.94, 95% CI: 1.04-3.63) and among children with seropositivity against both C. parvum antigens (aRR: 2.21, 95% CI: 1.09-4.50). Serologic responses against C. jejuni p18 and p39, E. histolytica LecA, any norovirus VLP, and EtxB and CtxB were not associated with diarrhea prevalence ( Table 5) .",
+        "section": "RESULTS",
+        "section_number": 22,
+        "sentences": [
+            "Association between seroprevalence against enteropathogens and diarrhea.",
+            "Seven-day prevalence of diarrheal disease doubled in children with positive serologic responses against both Giardia VSP antigens (aRR: 1.94, 95% CI: 1.04-3.63) and among children with seropositivity against both C. parvum antigens (aRR: 2.21, 95% CI: 1.09-4.50).",
+            "Serologic responses against C. jejuni p18 and p39, E. histolytica LecA, any norovirus VLP, and EtxB and CtxB were not associated with diarrhea prevalence ( Table 5) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "This study demonstrates the potential for the LifeStraw\u2122 Family 2.1 water filter to confer a protective benefit against enteropathogen exposure in children under 2 years of age. Children who resided in households that received the water filter were significantly less likely to be seropositive against C. parvum at follow-up than children in the control group. No significant effect was observed for the other enteropathogens explored in this study, indicating that other sources of contamination may be present to counteract some of the protective benefit conferred by the filter. Given recent findings that cases of moderate-to-severe diarrhea attributed to Cryptosporidium infection in children 12-23 months old are associated with a higher risk of death, 31 the water filter's impact on reducing cumulative exposures to this pathogen is in line with priorities to prevent cryptosporidiosis among children in this age group in resource-limited settings. 31 Examination of age-specific MFI-bg values for each pathogen indicated that the age group targeted by this serologic study was suitable for examination of enteropathogen seroconversion relative to receipt of this water filter intervention.",
+        "section": "DISCUSSION",
+        "section_number": 23,
+        "sentences": [
+            "This study demonstrates the potential for the LifeStraw\u2122 Family 2.1 water filter to confer a protective benefit against enteropathogen exposure in children under 2 years of age.",
+            "Children who resided in households that received the water filter were significantly less likely to be seropositive against C. parvum at follow-up than children in the control group.",
+            "No significant effect was observed for the other enteropathogens explored in this study, indicating that other sources of contamination may be present to counteract some of the protective benefit conferred by the filter.",
+            "Given recent findings that cases of moderate-to-severe diarrhea attributed to Cryptosporidium infection in children 12-23 months old are associated with a higher risk of death, 31 the water filter's impact on reducing cumulative exposures to this pathogen is in line with priorities to prevent cryptosporidiosis among children in this age group in resource-limited settings.",
+            "31 Examination of age-specific MFI-bg values for each pathogen indicated that the age group targeted by this serologic study was suitable for examination of enteropathogen seroconversion relative to receipt of this water filter intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Median MFI values for all pathogens generally did not increase until after 12 months, with the notable exception of EtxB and CtxB, for which median MFI values are elevated even in the first year of life. This comports with the findings of the Global Enteric Multicenter Study (GEMS), which indicated that ETEC was the third leading pathogen associated with moderate-tosevere diarrhea among children 0-11 months old. 31 Median MFI-bg values for G. intestinalis VSP3 and VSP5 antigens remained relatively low throughout the study period, but box (Figure 4 ). This indicates that childhood exposure to certain waterborne protozoa, such as Giardia, may increase substantially in the immediate postweaning period. Parametric analyses yielded significantly lower serologic responses against C. parvum Cp17 at follow-up, but no statistically significant differences were observed after subtracting responses observed at baseline. Similarly, Cp17 seroprevalence at follow-up, designated as serologic responses falling above the cutoff point, was significantly higher in the control group than the intervention group; however, no statistically significant difference in seroconversion was observed. Since seroconversion analyses rely on a subset of the population who were seronegative at baseline, the study power of the seroconversion analyses could have been compromised.",
+        "section": "DISCUSSION",
+        "section_number": 24,
+        "sentences": [
+            "Median MFI values for all pathogens generally did not increase until after 12 months, with the notable exception of EtxB and CtxB, for which median MFI values are elevated even in the first year of life.",
+            "This comports with the findings of the Global Enteric Multicenter Study (GEMS), which indicated that ETEC was the third leading pathogen associated with moderate-tosevere diarrhea among children 0-11 months old.",
+            "31 Median MFI-bg values for G. intestinalis VSP3 and VSP5 antigens remained relatively low throughout the study period, but box (Figure 4 ).",
+            "This indicates that childhood exposure to certain waterborne protozoa, such as Giardia, may increase substantially in the immediate postweaning period.",
+            "Parametric analyses yielded significantly lower serologic responses against C. parvum Cp17 at follow-up, but no statistically significant differences were observed after subtracting responses observed at baseline.",
+            "Similarly, Cp17 seroprevalence at follow-up, designated as serologic responses falling above the cutoff point, was significantly higher in the control group than the intervention group; however, no statistically significant difference in seroconversion was observed.",
+            "Since seroconversion analyses rely on a subset of the population who were seronegative at baseline, the study power of the seroconversion analyses could have been compromised."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Serologic responses to G. intestinalis and C. parvum were associated with diarrheal disease in the previous 7 days, lending further support to the potential utility of serologic assays as an objective method to evaluate the health impact of HWT interventions 16 and to supplement self-reported health outcome data. In addition, the use of culture and PCR-based methods for Giardia detection are only useful to identify current and active episodes, and serologic studies may be useful in not only detecting active giardiasis cases but in linking previous Giardia infection, determined by serologic evidence, to other long-term health outcomes, such as intestinal enteropathy. 46 Notably, GEMS found that stool-positive Cryptosporidium infection in children aged 12-23 months with moderate-to-severe diarrhea (the same age range as children at follow-up in this study) nearly tripled the risk of death between their enrollment and follow-up periods 31 ; this indicates the potential of C. parvum seroconversion to be an indicator of early childhood mortality, which is an association that can be explored longitudinally using a larger study population. Since diarrheal disease in children throughout sub-Saharan Africa generally peaks between 6 and 11 months of age, 47 demonstrated in the baseline analysis of our study, 48 children are not becoming infected with Salmonella during this crucial age window.",
+        "section": "DISCUSSION",
+        "section_number": 25,
+        "sentences": [
+            "Serologic responses to G. intestinalis and C. parvum were associated with diarrheal disease in the previous 7 days, lending further support to the potential utility of serologic assays as an objective method to evaluate the health impact of HWT interventions 16 and to supplement self-reported health outcome data.",
+            "In addition, the use of culture and PCR-based methods for Giardia detection are only useful to identify current and active episodes, and serologic studies may be useful in not only detecting active giardiasis cases but in linking previous Giardia infection, determined by serologic evidence, to other long-term health outcomes, such as intestinal enteropathy.",
+            "46 Notably, GEMS found that stool-positive Cryptosporidium infection in children aged 12-23 months with moderate-to-severe diarrhea (the same age range as children at follow-up in this study) nearly tripled the risk of death between their enrollment and follow-up periods 31 ; this indicates the potential of C. parvum seroconversion to be an indicator of early childhood mortality, which is an association that can be explored longitudinally using a larger study population.",
+            "Since diarrheal disease in children throughout sub-Saharan Africa generally peaks between 6 and 11 months of age, 47 demonstrated in the baseline analysis of our study, 48 children are not becoming infected with Salmonella during this crucial age window."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "IgG antibody responses to ETEC, Vibrio cholerae, C. jejuni, and norovirus were not associated with diarrheal disease, which is likely due to the relatively short duration of symptomatic illness relative to the 7-to 10-day delay in the development of a primary IgG antibody response. This may indicate a need for longitudinal follow-up in shorter intervals in a similar population of children to record diarrheal disease closer to the time of infection or further from the onset of symptoms, given the short-term acute cases of diarrhea associated with these pathogens and the length of time required to develop an IgG response. Diarrheal disease attributed to protozoa, particularly Giardia species, can lead to persistent infection and duodenal inflammation, 49 which may explain why associations between serologic evidence of previous infection is associated with 1-week prevalence of diarrhea.",
+        "section": "DISCUSSION",
+        "section_number": 26,
+        "sentences": [
+            "IgG antibody responses to ETEC, Vibrio cholerae, C. jejuni, and norovirus were not associated with diarrheal disease, which is likely due to the relatively short duration of symptomatic illness relative to the 7-to 10-day delay in the development of a primary IgG antibody response.",
+            "This may indicate a need for longitudinal follow-up in shorter intervals in a similar population of children to record diarrheal disease closer to the time of infection or further from the onset of symptoms, given the short-term acute cases of diarrhea associated with these pathogens and the length of time required to develop an IgG response.",
+            "Diarrheal disease attributed to protozoa, particularly Giardia species, can lead to persistent infection and duodenal inflammation, 49 which may explain why associations between serologic evidence of previous infection is associated with 1-week prevalence of diarrhea."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "There were limitations in the design of this study that may affect the interpretation of these results. It is rare for HWT interventions to be blinded in RCTs for practical purposes, and this lack of blinding can lead to substantial reporting bias in which usage of the intervention and the intervention's effect on diarrheal disease are exaggerated. 11 Although this seroconversion study seeks to contribute an objective health indicator, it is still being compared with caregiver-reported diarrheal disease, which is subject to bias. Another challenge in assessing water quality interventions is inconsistent intervention uptake. 50 Among children in intervention households, 23.6% were reported to have consumed some unfiltered water in the previous 24 hours; however, this study used an intention-to-treat analysis to conservatively assess health impact in light of expected imperfect uptake, and water quality characteristics were well balanced between study arms for both the children enrolled in this substudy (Table 1) and in the larger CRT, 25 enabling more direct attribution of the intervention effects to the water filter itself.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "There were limitations in the design of this study that may affect the interpretation of these results.",
+            "It is rare for HWT interventions to be blinded in RCTs for practical purposes, and this lack of blinding can lead to substantial reporting bias in which usage of the intervention and the intervention's effect on diarrheal disease are exaggerated.",
+            "11 Although this seroconversion study seeks to contribute an objective health indicator, it is still being compared with caregiver-reported diarrheal disease, which is subject to bias.",
+            "Another challenge in assessing water quality interventions is inconsistent intervention uptake.",
+            "50 Among children in intervention households, 23.6% were reported to have consumed some unfiltered water in the previous 24 hours; however, this study used an intention-to-treat analysis to conservatively assess health impact in light of expected imperfect uptake, and water quality characteristics were well balanced between study arms for both the children enrolled in this substudy (Table 1) and in the larger CRT, 25 enabling more direct attribution of the intervention effects to the water filter itself."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Statistical-and assay-based limitations in this study involved our limited sample size, imputation methods, and cutoff determination for seropositivity. This serologic study itself was exploratory and nested within a broader CRT, and therefore our study power for this particular nested study was limited by the logistical considerations of the larger CRT. Further complicating this, 36.5% of our baseline blood samples was lost due to quality issues, which we sought to address through multiple imputation methods to account for potential bias attributed to sample loss. In addition, the determination of firm cutoff points for seropositivity is inherently problematic, as some children may be misclassified as seropositive or seronegative on either side of the cutoff point. Cutoff points were assigned in this study using available data for C. parvum, Giardia, E. histolytica, and T. gondii antigens, whereas cutoffs points were assigned using mixture models for the antigens of the other enteropathogens examined in this study. Future studies may enable the establishment of firmer cutoff points, but in the meantime, analyses of dichotomized data should be supplemented with continuous analyses to avoid spurious associations. Although primary analyses involved only observed data, data were imputed for the purposes of comparison to correct for bias attributed to missing data in secondary analyses. Multiple imputation assumes that data are missing at random, but children who were lost to follow-up due to illness or caregiver refusals may differ from children who were lost to follow-up for other reasons. That said, caregiver refusals and childhood illnesses were rare at follow-up, and balanced between intervention and control groups when they occurred.",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "Statistical-and assay-based limitations in this study involved our limited sample size, imputation methods, and cutoff determination for seropositivity.",
+            "This serologic study itself was exploratory and nested within a broader CRT, and therefore our study power for this particular nested study was limited by the logistical considerations of the larger CRT.",
+            "Further complicating this, 36.5% of our baseline blood samples was lost due to quality issues, which we sought to address through multiple imputation methods to account for potential bias attributed to sample loss.",
+            "In addition, the determination of firm cutoff points for seropositivity is inherently problematic, as some children may be misclassified as seropositive or seronegative on either side of the cutoff point.",
+            "Cutoff points were assigned in this study using available data for C. parvum, Giardia, E. histolytica, and T. gondii antigens, whereas cutoffs points were assigned using mixture models for the antigens of the other enteropathogens examined in this study.",
+            "Future studies may enable the establishment of firmer cutoff points, but in the meantime, analyses of dichotomized data should be supplemented with continuous analyses to avoid spurious associations.",
+            "Although primary analyses involved only observed data, data were imputed for the purposes of comparison to correct for bias attributed to missing data in secondary analyses.",
+            "Multiple imputation assumes that data are missing at random, but children who were lost to follow-up due to illness or caregiver refusals may differ from children who were lost to follow-up for other reasons.",
+            "That said, caregiver refusals and childhood illnesses were rare at follow-up, and balanced between intervention and control groups when they occurred."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Finally, surveillance data on strain-specific circulation of enteropathogens in this region are limited. Antibody responses to potential circulating strains of Cryptosporidium are likely cross-reactive with the C. parvum antigens used on our multiplex panel 18 and the region of Giardia VSPs used on our panel is highly conserved among human-infecting assemblages; however, little is known about cross-reactivity of C. jejuni antigens with other strains of Campylobacter. Norovirus strains specific to this region and study period were also not known, so we included all available VLPs from three different norovirus strains (Norwalk, Sydney, and St. Cloud) to account for this limitation. The EtxB and CtxB used for this analysis are homologous proteins, thereby limiting our ability to independently attribute serologic response to either ETEC or V. cholerae. Of note, however, EtxB is generally more immunostimulatory than CtxB, 51 which appears to be consistent with results from our study. A systematic way of differentiating between the serologic response to both pathogens is likely not possible; therefore, interpretations at this time should be made with regard to exposure to the toxin itself rather than the causal pathogens.",
+        "section": "DISCUSSION",
+        "section_number": 29,
+        "sentences": [
+            "Finally, surveillance data on strain-specific circulation of enteropathogens in this region are limited.",
+            "Antibody responses to potential circulating strains of Cryptosporidium are likely cross-reactive with the C. parvum antigens used on our multiplex panel 18 and the region of Giardia VSPs used on our panel is highly conserved among human-infecting assemblages; however, little is known about cross-reactivity of C. jejuni antigens with other strains of Campylobacter.",
+            "Norovirus strains specific to this region and study period were also not known, so we included all available VLPs from three different norovirus strains (Norwalk, Sydney, and St. Cloud) to account for this limitation.",
+            "The EtxB and CtxB used for this analysis are homologous proteins, thereby limiting our ability to independently attribute serologic response to either ETEC or V. cholerae.",
+            "Of note, however, EtxB is generally more immunostimulatory than CtxB, 51 which appears to be consistent with results from our study.",
+            "A systematic way of differentiating between the serologic response to both pathogens is likely not possible; therefore, interpretations at this time should be made with regard to exposure to the toxin itself rather than the causal pathogens."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "Although bead-based rotavirus immunoassay methods have not yet been developed, rotavirus is vitally important to consider as a cause of diarrhea in children under 2 years old. Rotavirus-attributable incidence of moderate-to-severe diarrhea among children in this age group far outpaced that of other pathogens in the GEMS study. 15 It should be noted, though, that among children eligible for enrollment in this study at baseline, only 4.1% of children had not initiated their course of rotavirus vaccines, whereas 81.0% of children had received all three doses of rotavirus vaccine, as confirmed by examining the vaccination cards of all children enrolled in the RCT. Rotavirus immunoassay methods used in future WASH trials should be exclusive of the viral glycoproteins targeted by the vaccine.",
+        "section": "DISCUSSION",
+        "section_number": 30,
+        "sentences": [
+            "Although bead-based rotavirus immunoassay methods have not yet been developed, rotavirus is vitally important to consider as a cause of diarrhea in children under 2 years old.",
+            "Rotavirus-attributable incidence of moderate-to-severe diarrhea among children in this age group far outpaced that of other pathogens in the GEMS study.",
+            "15 It should be noted, though, that among children eligible for enrollment in this study at baseline, only 4.1% of children had not initiated their course of rotavirus vaccines, whereas 81.0% of children had received all three doses of rotavirus vaccine, as confirmed by examining the vaccination cards of all children enrolled in the RCT.",
+            "Rotavirus immunoassay methods used in future WASH trials should be exclusive of the viral glycoproteins targeted by the vaccine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "There is also a possibility of biological interactions between the enteropathogens included in these analyses; infection with one pathogen may either exacerbate or attenuate the risk of infection with another pathogen. More holistic approaches, such as factor analyses and scoring, may contribute to the body of knowledge of the joint epidemiologic and pathogenic associations between organisms in coinfection scenarios, particularly where opposing effects of the intervention are suggested. Finally, we cannot make temporal inferences regarding the timing of infection with respect to either diarrheal disease or receipt of the intervention; however, inferences for timing of seroconversion with regard to the intervention are generally better, as households typically received the intervention within a couple of weeks of the initial baseline visit. Longitudinal follow-up with shorter follow-up rounds could have provided the opportunity to capture diarrheal disease closer to the time of infection, which may have provided richer data regarding pathogens that are associated with acute episodes of diarrhea, such as norovirus and Campylobacter. Frequent longitudinal collection may also provide a more thorough assessment of age-specific prevalence of individual pathogens.",
+        "section": "DISCUSSION",
+        "section_number": 31,
+        "sentences": [
+            "There is also a possibility of biological interactions between the enteropathogens included in these analyses; infection with one pathogen may either exacerbate or attenuate the risk of infection with another pathogen.",
+            "More holistic approaches, such as factor analyses and scoring, may contribute to the body of knowledge of the joint epidemiologic and pathogenic associations between organisms in coinfection scenarios, particularly where opposing effects of the intervention are suggested.",
+            "Finally, we cannot make temporal inferences regarding the timing of infection with respect to either diarrheal disease or receipt of the intervention; however, inferences for timing of seroconversion with regard to the intervention are generally better, as households typically received the intervention within a couple of weeks of the initial baseline visit.",
+            "Longitudinal follow-up with shorter follow-up rounds could have provided the opportunity to capture diarrheal disease closer to the time of infection, which may have provided richer data regarding pathogens that are associated with acute episodes of diarrhea, such as norovirus and Campylobacter.",
+            "Frequent longitudinal collection may also provide a more thorough assessment of age-specific prevalence of individual pathogens."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "40862",
+        "text": "This study suggests that the water filter intervention was effective in reducing seroprevalence of C. parvum antibody responses at follow-up. Diarrheal disease within 7 days of sample collection appeared to be associated with IgG antibody responses to protozoan pathogens only. Acute infections caused by other pathogens on the panel may cause diarrhea, but this association may not be detected using serologic antibody detection methods without more frequent sampling intervals. Postponing exposure to these pathogens even for 6 months is important; in our study population, diarrhea prevalence peaked between 12 and 18 months of age 48 and early childhood diarrhea in general predicts downstream wasting, stunting, and excess mortality. 6, 7, 53 This study also suggests that serologic testing of pathogen-specific antibodies can provide both measures of WASH intervention effectiveness and markers of recent diarrheal disease. Children who are 6-12 months of age at baseline and who can be followed for 6-12 months after intervention deployment comprise the ideal population for WASH seroconversion studies in this region. Longitudinal intervention studies involving larger populations and repeated sampling would provide richer data that would enable further assessment of the utility of these serologic approaches to evaluating WASH interventions.",
+        "section": "CONCLUSION",
+        "section_number": 32,
+        "sentences": [
+            "This study suggests that the water filter intervention was effective in reducing seroprevalence of C. parvum antibody responses at follow-up.",
+            "Diarrheal disease within 7 days of sample collection appeared to be associated with IgG antibody responses to protozoan pathogens only.",
+            "Acute infections caused by other pathogens on the panel may cause diarrhea, but this association may not be detected using serologic antibody detection methods without more frequent sampling intervals.",
+            "Postponing exposure to these pathogens even for 6 months is important; in our study population, diarrhea prevalence peaked between 12 and 18 months of age 48 and early childhood diarrhea in general predicts downstream wasting, stunting, and excess mortality.",
+            "6, 7, 53 This study also suggests that serologic testing of pathogen-specific antibodies can provide both measures of WASH intervention effectiveness and markers of recent diarrheal disease.",
+            "Children who are 6-12 months of age at baseline and who can be followed for 6-12 months after intervention deployment comprise the ideal population for WASH seroconversion studies in this region.",
+            "Longitudinal intervention studies involving larger populations and repeated sampling would provide richer data that would enable further assessment of the utility of these serologic approaches to evaluating WASH interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

@@ -1,0 +1,736 @@
+[
+    {
+        "doc_id": "34911",
+        "text": "The aim of this study was to investigate the efficacy of intraperitoneal local anesthetic (IPLA) on pain after acute laparoscopic appendectomy in children. Summary of Background: IPLA reduces pain in adult elective surgery. It has not been well studied in acute peritoneal inflammatory conditions. We hypothesized that IPLA would improve recovery in pediatric acute laparoscopic appendectomy. Methods: This randomized controlled trial in acute laparoscopic appendectomy recruited children aged 8 to 14 years to receive 20 mL 0.25% or 0.125% bupivacaine (according to weight) atomized onto the peritoneum of the right iliac fossa and pelvis, or 20 mL 0.9% NaCl control. Unrestricted computergenerated randomization was implemented by surgical nurses. Participants, caregivers, and outcome assessors were blinded. The primary outcome was pain score. Analysis was by a linear mixed-effects model. Results: Of 184 randomized participants (92 to each group), the final analysis included 88 IPLA and 87 control participants. There was no statistically significant difference in overall pain scores (effect estimate 0.004, standard error 0.028, 95% confidence interval \u00c00.052, 0.061), and no difference in right iliac fossa or suprapubic site-specific pain scores, opioid use, recovery parameters, or complications. No child experienced a complication related to the intervention. Conclusion: IPLA imparted no clinical benefit to children undergoing acute laparoscopic appendectomy and cannot be recommended in this setting.",
+        "section": "Abstract",
+        "sentences": [
+            "The aim of this study was to investigate the efficacy of intraperitoneal local anesthetic (IPLA) on pain after acute laparoscopic appendectomy in children.",
+            "Summary of Background: IPLA reduces pain in adult elective surgery.",
+            "It has not been well studied in acute peritoneal inflammatory conditions.",
+            "We hypothesized that IPLA would improve recovery in pediatric acute laparoscopic appendectomy.",
+            "Methods: This randomized controlled trial in acute laparoscopic appendectomy recruited children aged 8 to 14 years to receive 20 mL 0.25% or 0.125% bupivacaine (according to weight) atomized onto the peritoneum of the right iliac fossa and pelvis, or 20 mL 0.9% NaCl control.",
+            "Unrestricted computergenerated randomization was implemented by surgical nurses.",
+            "Participants, caregivers, and outcome assessors were blinded.",
+            "The primary outcome was pain score.",
+            "Analysis was by a linear mixed-effects model.",
+            "Results: Of 184 randomized participants (92 to each group), the final analysis included 88 IPLA and 87 control participants.",
+            "There was no statistically significant difference in overall pain scores (effect estimate 0.004, standard error 0.028, 95% confidence interval \u00c00.052, 0.061), and no difference in right iliac fossa or suprapubic site-specific pain scores, opioid use, recovery parameters, or complications.",
+            "No child experienced a complication related to the intervention.",
+            "Conclusion: IPLA imparted no clinical benefit to children undergoing acute laparoscopic appendectomy and cannot be recommended in this setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "(Ann Surg 2017;266:189-194) P ain remains one of the most important determinants of recovery after abdominal surgery. The peritoneum contributes to postoperative pain through 2 pathways, the highly innervated parietal peritoneum and the ''second wound,'' the visceral peritoneum innervated by the vagus nerve. 1 To reduce peritoneal pain, surgeons have instilled local anesthetic solutions into the peritoneal cavity.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "(Ann Surg 2017;266:189-194) P ain remains one of the most important determinants of recovery after abdominal surgery.",
+            "The peritoneum contributes to postoperative pain through 2 pathways, the highly innervated parietal peritoneum and the ''second wound,'' the visceral peritoneum innervated by the vagus nerve.",
+            "1 To reduce peritoneal pain, surgeons have instilled local anesthetic solutions into the peritoneal cavity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Intraperitoneal local anesthetic (IPLA) was first reported in 1950 by Hanson and Hingson 2 who instilled 50 mL of 1% xylocaine into the peritoneal cavity of a woman undergoing an emergency laparotomy under local and regional anesthesia for a ruptured ectopic pregnancy. Recent reviews show that IPLA reduces pain, opioid requirements, and the stress response in adult elective surgery. [3] [4] [5] [6] A Cochrane review of 58 randomized trials in laparoscopic cholecystectomy found IPLA reduced visual analogue scale (VAS) pain scores at 4 to 8 hours by 1 cm; however, the authors described the quality of evidence as ''very low'' and they found no trial-reported quality of life. Reports of IPLA in acute surgery in adults demonstrated similar benefits. [7] [8] [9] In children, 3 small randomized trials in laparoscopic surgery demonstrated reduced pain and opioid use. [10] [11] [12] Appendicitis is common with a lifetime risk of 6.7% to 8.6% in the United States, 13 affecting all ages but predominantly the young. 14 Around 327,000 appendectomies were performed in US hospitals in 2011 representing the 15th most expensive procedure in aggregate hospital costs at $2441 million. 15 Appendectomy is the most common emergency abdominal operation performed in children. Although the laparoscopic approach engenders less pain than the open operation, 16 children can still experience considerable postoperative pain. 17 In our experience, over two-thirds received opioid analgesia. 18, 19 This suggests the need for better ways to manage pain after laparoscopic appendectomy.",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "Intraperitoneal local anesthetic (IPLA) was first reported in 1950 by Hanson and Hingson 2 who instilled 50 mL of 1% xylocaine into the peritoneal cavity of a woman undergoing an emergency laparotomy under local and regional anesthesia for a ruptured ectopic pregnancy.",
+            "Recent reviews show that IPLA reduces pain, opioid requirements, and the stress response in adult elective surgery. [",
+            "3] [4] [5] [6] A Cochrane review of 58 randomized trials in laparoscopic cholecystectomy found IPLA reduced visual analogue scale (VAS) pain scores at 4 to 8 hours by 1 cm; however, the authors described the quality of evidence as ''very low'' and they found no trial-reported quality of life.",
+            "Reports of IPLA in acute surgery in adults demonstrated similar benefits. [",
+            "7] [8] [9] In children, 3 small randomized trials in laparoscopic surgery demonstrated reduced pain and opioid use. [",
+            "10] [11] [12] Appendicitis is common with a lifetime risk of 6.7% to 8.6% in the United States, 13 affecting all ages but predominantly the young.",
+            "14 Around 327,000 appendectomies were performed in US hospitals in 2011 representing the 15th most expensive procedure in aggregate hospital costs at $2441 million.",
+            "15 Appendectomy is the most common emergency abdominal operation performed in children.",
+            "Although the laparoscopic approach engenders less pain than the open operation, 16 children can still experience considerable postoperative pain.",
+            "17 In our experience, over two-thirds received opioid analgesia.",
+            "18, 19 This suggests the need for better ways to manage pain after laparoscopic appendectomy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Three randomized controlled trials have tested IPLA in laparoscopic appendectomy. 8, 9, 20 All were in adults aged 18 years or older. All 3 studies showed reduced analgesic requirements, 2 studies showed reduced pain scores, 8, 9 and 1 study showed lower serum cortisol levels with IPLA. 20 Until now no trial has addressed IPLA in pediatric laparoscopic appendectomy.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "Three randomized controlled trials have tested IPLA in laparoscopic appendectomy.",
+            "8, 9, 20 All were in adults aged 18 years or older.",
+            "All 3 studies showed reduced analgesic requirements, 2 studies showed reduced pain scores, 8, 9 and 1 study showed lower serum cortisol levels with IPLA.",
+            "20 Until now no trial has addressed IPLA in pediatric laparoscopic appendectomy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Therefore, the aim of this randomized clinical trial was to test the hypothesis that IPLA would reduce pain and opioid requirements in children after laparoscopic appendectomy for suspected acute appendicitis.",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "Therefore, the aim of this randomized clinical trial was to test the hypothesis that IPLA would reduce pain and opioid requirements in children after laparoscopic appendectomy for suspected acute appendicitis."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The sprayed peritoneal regional analgesia in appendectomy (SPRAY) study was a single-center randomized placebo-controlled parallel-group trial with a 1:1 allocation ratio. The study protocol was prospectively registered with the Australian and New Zealand Clinical Trials Registry (registration reference ACTRN12613001159741). No important changes to the methods occurred after trial commencement. The Southern Health and Disability Ethics Committee (reference 13/ STH/166) and Auckland District Health Board Research Review Committee (reference A\u00fe6073) approved the study.",
+        "section": "Study Design",
+        "section_number": 5,
+        "sentences": [
+            "The sprayed peritoneal regional analgesia in appendectomy (SPRAY) study was a single-center randomized placebo-controlled parallel-group trial with a 1:1 allocation ratio.",
+            "The study protocol was prospectively registered with the Australian and New Zealand Clinical Trials Registry (registration reference ACTRN12613001159741).",
+            "No important changes to the methods occurred after trial commencement.",
+            "The Southern Health and Disability Ethics Committee (reference 13/ STH/166) and Auckland District Health Board Research Review Committee (reference A\u00fe6073) approved the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Participants were enrolled in the Emergency Department or wards after determining the need for emergency appendectomy. in the trial if children were aged 8 to 14 years and were American society of anesthesiologists status 1-2. Exclusion criteria were developmental delay, neuromuscular impairment, chronic pain, psychiatric illness, inability to speak or read English, partially sighted or blind (because pain scoring required a visual pain scale) , the presence of a abdominal prostheses such as a gastrostomy or ventriculoperitoneal shunt, allergy to bupivacaine, and weight <20 kg. Participating children and their parents or legal guardians gave informed consent.",
+        "section": "Eligibility Criteria for Participants",
+        "section_number": 6,
+        "sentences": [
+            "Participants were enrolled in the Emergency Department or wards after determining the need for emergency appendectomy.",
+            "in the trial if children were aged 8 to 14 years and were American society of anesthesiologists status 1-2.",
+            "Exclusion criteria were developmental delay, neuromuscular impairment, chronic pain, psychiatric illness, inability to speak or read English, partially sighted or blind (because pain scoring required a visual pain scale) , the presence of a abdominal prostheses such as a gastrostomy or ventriculoperitoneal shunt, allergy to bupivacaine, and weight <20 kg.",
+            "Participating children and their parents or legal guardians gave informed consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Starship Children's Hospital is a tertiary referral center providing emergency surgical services to a local population of 1.4 million of whom 21% are children aged 0 to 14 years. 21 Children with suspected acute appendicitis presented to the Emergency Department. Following surgery they received care in the pediatric wards. The diagnostic workup remained at the discretion of the admitting surgical team. Preparation for surgery complied with institutional procedures for resuscitation, analgesia, and preoperative antibiotics.",
+        "section": "Setting and Location",
+        "section_number": 7,
+        "sentences": [
+            "Starship Children's Hospital is a tertiary referral center providing emergency surgical services to a local population of 1.4 million of whom 21% are children aged 0 to 14 years.",
+            "21 Children with suspected acute appendicitis presented to the Emergency Department.",
+            "Following surgery they received care in the pediatric wards.",
+            "The diagnostic workup remained at the discretion of the admitting surgical team.",
+            "Preparation for surgery complied with institutional procedures for resuscitation, analgesia, and preoperative antibiotics."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "At surgery, surgeons sprayed the study solution onto the parietal and visceral peritoneum of the right iliac fossa and pelvis to cover the appendix stump, lower pole of the cecum, terminal ileum, the parietal peritoneum of the right iliac fossa, and the rectovesical or rectouterine pouches. In the presence of pus or contamination, surgeons sprayed after peritoneal lavage, otherwise the timing of spray was at the discretion of the surgeon; in practice, the majority of cases were sprayed after the surgical dissection. The preferred applicator was a 5-mm CoSeal DuploSpray MIS (Micromedics, St. Paul, MN), which consists of luer lock attachments at the handle end, a 5-mm diameter shaft for insertion through a 5-mm port, and a spray tip that atomizes fluid into a mist of droplets. Surgeons attached a 20-mL syringe containing the study solution to one luer lock connector of the device, inserted the shaft through a 5-mm port, and compressed the syringe plunger to atomize the solution onto the peritoneum. This method enabled a controlled directed spray. The study protocol allowed surgeons to instill the study solution through an 8-Fr feeding tube if only 3-mm ports were available, but in practice, surgeons placed 5-mm ports for virtually all appendectomies. If a feeding tube was used, the direction of spray could be controlled by grasping the end of the tube with 3-mm nontoothed forceps. Study documentation that accompanied each participant contained written instructions for surgeons, nurses, and anesthetists. Surgical registrars were coached in the technique by the principal investigator (JKH); however, no video monitoring or other formal quality assessment was undertaken. Standardized surgery involved 3 ports, a 10-mm (occasionally 5 mm) umbilical Hasson cannula and 5mm (occasionally 3 mm) left iliac fossa and suprapubic ports. The study drug was bupivacaine 0.25% if !36 kg or 0.125% if <36 kg. Control was 0.9% NaCl. The volume was 20 mL if !26 kg, and decreased 2 mL for every kg <26 to ensure a total local anesthetic dose including abdominal wall local anesthetic <2.5 mg/kg. The volume calculation was designed to maximize the dose of local anesthetic to the peritoneum while allowing for other local anesthetic administration to the abdominal wall incisions. Standardized analgesia included a rectus sheath nerve block with 10-mL 0.25% bupivacaine with epinephrine 1:400,000, and port site infiltration with 6-ml 0.25% bupivacaine with 1:400,000 epinephrine, 2 mL at each port site. Standardized anesthesia involved intraoperative morphine up to 0.3 mg/kg, fentanyl 2 mg/kg titrated as required, paracetamol 15 mg/kg, and paracoxib 1 mg/kg up to a maximum of 40 mg if not contraindicated. Standardized prophylactic antiemetic was ondansetron 0.15 mg/kg, and dexamethasone if not contraindicated. Standardized postoperative pain management involved regular oral paracetamol 20 mg/kg 6-hourly for 24 hours, substituted with intravenous paracetamol 15 mg/kg 6-hourly for 24 hours if not able to tolerate oral intake; oral tramadol as needed; and intravenous morphine as needed as per institutional protocol. Patients who required >5 titrations of morphine within a 25-minute period were eligible for a patient-controlled analgesia pump (PCA) with morphine or fentanyl at the discretion of the Acute Pain Service.",
+        "section": "Interventions",
+        "section_number": 8,
+        "sentences": [
+            "At surgery, surgeons sprayed the study solution onto the parietal and visceral peritoneum of the right iliac fossa and pelvis to cover the appendix stump, lower pole of the cecum, terminal ileum, the parietal peritoneum of the right iliac fossa, and the rectovesical or rectouterine pouches.",
+            "In the presence of pus or contamination, surgeons sprayed after peritoneal lavage, otherwise the timing of spray was at the discretion of the surgeon; in practice, the majority of cases were sprayed after the surgical dissection.",
+            "The preferred applicator was a 5-mm CoSeal DuploSpray MIS (Micromedics, St. Paul, MN), which consists of luer lock attachments at the handle end, a 5-mm diameter shaft for insertion through a 5-mm port, and a spray tip that atomizes fluid into a mist of droplets.",
+            "Surgeons attached a 20-mL syringe containing the study solution to one luer lock connector of the device, inserted the shaft through a 5-mm port, and compressed the syringe plunger to atomize the solution onto the peritoneum.",
+            "This method enabled a controlled directed spray.",
+            "The study protocol allowed surgeons to instill the study solution through an 8-Fr feeding tube if only 3-mm ports were available, but in practice, surgeons placed 5-mm ports for virtually all appendectomies.",
+            "If a feeding tube was used, the direction of spray could be controlled by grasping the end of the tube with 3-mm nontoothed forceps.",
+            "Study documentation that accompanied each participant contained written instructions for surgeons, nurses, and anesthetists.",
+            "Surgical registrars were coached in the technique by the principal investigator (JKH); however, no video monitoring or other formal quality assessment was undertaken.",
+            "Standardized surgery involved 3 ports, a 10-mm (occasionally 5 mm) umbilical Hasson cannula and 5mm (occasionally 3 mm) left iliac fossa and suprapubic ports.",
+            "The study drug was bupivacaine 0.25% if !",
+            "36 kg or 0.125% if <36 kg.",
+            "Control was 0.9% NaCl.",
+            "The volume was 20 mL if !",
+            "26 kg, and decreased 2 mL for every kg <26 to ensure a total local anesthetic dose including abdominal wall local anesthetic <2.5 mg/kg.",
+            "The volume calculation was designed to maximize the dose of local anesthetic to the peritoneum while allowing for other local anesthetic administration to the abdominal wall incisions.",
+            "Standardized analgesia included a rectus sheath nerve block with 10-mL 0.25% bupivacaine with epinephrine 1:400,000, and port site infiltration with 6-ml 0.25% bupivacaine with 1:400,000 epinephrine, 2 mL at each port site.",
+            "Standardized anesthesia involved intraoperative morphine up to 0.3 mg/kg, fentanyl 2 mg/kg titrated as required, paracetamol 15 mg/kg, and paracoxib 1 mg/kg up to a maximum of 40 mg if not contraindicated.",
+            "Standardized prophylactic antiemetic was ondansetron 0.15 mg/kg, and dexamethasone if not contraindicated.",
+            "Standardized postoperative pain management involved regular oral paracetamol 20 mg/kg 6-hourly for 24 hours, substituted with intravenous paracetamol 15 mg/kg 6-hourly for 24 hours if not able to tolerate oral intake; oral tramadol as needed; and intravenous morphine as needed as per institutional protocol.",
+            "Patients who required >5 titrations of morphine within a 25-minute period were eligible for a patient-controlled analgesia pump (PCA) with morphine or fentanyl at the discretion of the Acute Pain Service."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "A blinded investigator (JKH) and a research nurse collected a standardized dataset throughout the study. The primary outcome was pain during the first 24 postoperative hours. Nurses scored pain on the Revised Faces Pain Scale (FPS-R) 22 using a previously validated chart for recording pain severity overall and at specific locations on the abdomen 23 including suprapubic and the right iliac fossa locations, which corresponded to sprayed sites. Children reported their pain on waking in the Post-Anesthetic Care Unit (PACU) and at 2 to 4 hourly time intervals thereafter.",
+        "section": "Outcome Measures and Primary Study Outcomes",
+        "section_number": 9,
+        "sentences": [
+            "A blinded investigator (JKH) and a research nurse collected a standardized dataset throughout the study.",
+            "The primary outcome was pain during the first 24 postoperative hours.",
+            "Nurses scored pain on the Revised Faces Pain Scale (FPS-R) 22 using a previously validated chart for recording pain severity overall and at specific locations on the abdomen 23 including suprapubic and the right iliac fossa locations, which corresponded to sprayed sites.",
+            "Children reported their pain on waking in the Post-Anesthetic Care Unit (PACU) and at 2 to 4 hourly time intervals thereafter."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Secondary outcomes included postoperative opioid analgesic requirements, the number of children who received opioid and antiemetic, time to first opioid, time in PACU, length of hospital stay, modified quality of life recovery score at 10 days after operation, global satisfaction, complications, and readmission within 30 days of hospital discharge. Opioid doses were converted to morphine equivalents and summed for postoperative periods 0 to 6, 6 to 12, and 12 to 24 hours. We previously described the modified quality of life recovery score. 18 Briefly, it is a 10-item questionnaire developed from the Pediatric Quality of Life Inventory version 4.0 24 asking questions on pain, energy level, sleep, worry, memory, leisure, strenuous activity, and activities of daily living, returning a total score of 0 to 100. Participants completed the questionnaire at telephone interview conducted by a blinded investigator or returned it by post.",
+        "section": "Secondary Study Outcomes",
+        "section_number": 10,
+        "sentences": [
+            "Secondary outcomes included postoperative opioid analgesic requirements, the number of children who received opioid and antiemetic, time to first opioid, time in PACU, length of hospital stay, modified quality of life recovery score at 10 days after operation, global satisfaction, complications, and readmission within 30 days of hospital discharge.",
+            "Opioid doses were converted to morphine equivalents and summed for postoperative periods 0 to 6, 6 to 12, and 12 to 24 hours.",
+            "We previously described the modified quality of life recovery score.",
+            "18 Briefly, it is a 10-item questionnaire developed from the Pediatric Quality of Life Inventory version 4.0 24 asking questions on pain, energy level, sleep, worry, memory, leisure, strenuous activity, and activities of daily living, returning a total score of 0 to 100.",
+            "Participants completed the questionnaire at telephone interview conducted by a blinded investigator or returned it by post."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "To record postoperative complications, readmissions, and recovery, a blinded investigator phoned families at posteroperative week 6 and graded complication severity by the Clavien-Dindo classification. 25, 26 ",
+        "section": "Secondary Study Outcomes",
+        "section_number": 11,
+        "sentences": [
+            "To record postoperative complications, readmissions, and recovery, a blinded investigator phoned families at posteroperative week 6 and graded complication severity by the Clavien-Dindo classification.",
+            "25, 26"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "A power calculation performed a priori utilized pain score data from a previous randomized clinical trial in pediatric laparoscopic appendectomy. 19 To reduce mean global pain scores by 30% from 4.39 to 3.07, standard deviation (SD) 2.65, variance equal, a error \u00bc 0.05, 1b error \u00bc 0.90, t test required a sample size of 87 in each arm.",
+        "section": "Sample Size",
+        "section_number": 12,
+        "sentences": [
+            "A power calculation performed a priori utilized pain score data from a previous randomized clinical trial in pediatric laparoscopic appendectomy.",
+            "19 To reduce mean global pain scores by 30% from 4.39 to 3.07, standard deviation (SD) 2.65, variance equal, a error \u00bc 0.05, 1b error \u00bc 0.90, t test required a sample size of 87 in each arm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The random number generator random.org (http://www.random.org) created the allocation sequence. Numbers 1 to 209, to give 20% redundancy over the 174 calculated sample size, were arranged in random sequence without restriction or stratification. Allocations to groups ''A'' and ''B'' were placed in sealed opaque sequentially numbered envelopes and stored in the operating suite.",
+        "section": "Randomization Protocol",
+        "section_number": 13,
+        "sentences": [
+            "The random number generator random.org (http://www.random.org) created the allocation sequence.",
+            "Numbers 1 to 209, to give 20% redundancy over the 174 calculated sample size, were arranged in random sequence without restriction or stratification.",
+            "Allocations to groups ''A'' and ''B'' were placed in sealed opaque sequentially numbered envelopes and stored in the operating suite."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "A researcher not otherwise associated with this study prepared the random number sequence and sequentially numbered the envelopes. Surgical registrars and surgeons assessed eligibility, discussed the trial, and obtained informed consent. An operating room nurse assigned the participant to the intervention by opening the next allocation envelop in the sequence before the patient or surgeon entered the operating room and 2 operating room nurses prepared the study solution.",
+        "section": "Randomization Protocol",
+        "section_number": 14,
+        "sentences": [
+            "A researcher not otherwise associated with this study prepared the random number sequence and sequentially numbered the envelopes.",
+            "Surgical registrars and surgeons assessed eligibility, discussed the trial, and obtained informed consent.",
+            "An operating room nurse assigned the participant to the intervention by opening the next allocation envelop in the sequence before the patient or surgeon entered the operating room and 2 operating room nurses prepared the study solution."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Participants, families, investigators, surgeons, anesthetists, PACU nurses, ward nurses, Pain team members, data collectors, and investigators were blinded to allocation. The circulating nurse and scrub nurse were not blinded because they prepared and double checked the study drug, taking care not to divulge the allocation to other operating room personnel. The interventions were similar, both study solutions were clear and colorless. The principle investigator performed statistical analysis blinded to group allocation and prepared result tables labelled by coded study group. Allocation was subsequently revealed at the completion of data analysis after initiating manuscript preparation.",
+        "section": "Blinding",
+        "section_number": 15,
+        "sentences": [
+            "Participants, families, investigators, surgeons, anesthetists, PACU nurses, ward nurses, Pain team members, data collectors, and investigators were blinded to allocation.",
+            "The circulating nurse and scrub nurse were not blinded because they prepared and double checked the study drug, taking care not to divulge the allocation to other operating room personnel.",
+            "The interventions were similar, both study solutions were clear and colorless.",
+            "The principle investigator performed statistical analysis blinded to group allocation and prepared result tables labelled by coded study group.",
+            "Allocation was subsequently revealed at the completion of data analysis after initiating manuscript preparation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Pain scores were measured repeatedly from each participant; therefore, a linear mixed-effects model was constructed with the interaction between intervention and time, along with sex, ethnicity, the presence of pus, and perforated appendicitis as fixed effects, and as random effects subject-specific random intercepts and random slopes. Pain score responses were positively skewed and zero predominant, not Gaussian; therefore, we used an ordinal generalized linear mixed model, thus reflecting the ordinal nature of the FPS-R pain scale. SAS software (SAS University Edition 2015, SAS Institute Inc, Cary, NC) was used for analysis using the generalized linear mixed model procedure for a proportional odds model. The validity of the proportional odds assumption supported a nonsignificant Score test (P \u00bc 0.14). The R 27 packages ordinal 28 and MCMCglmm 29 were used to confirm the results and the R package ggplot2 30 for plots, including residual plots of the model, which did not deviate from homoscedasticity on visual inspection. R was used for Wilcoxon rank sum and Fisher exact tests, and G\u00c3Power version 3.1.3 31 for calculating the sample size. Central tendency was expressed as mean and variability as standard deviation (SD) or standard error (SE). All tests were 2-sided.",
+        "section": "Statistical Methods",
+        "section_number": 16,
+        "sentences": [
+            "Pain scores were measured repeatedly from each participant; therefore, a linear mixed-effects model was constructed with the interaction between intervention and time, along with sex, ethnicity, the presence of pus, and perforated appendicitis as fixed effects, and as random effects subject-specific random intercepts and random slopes.",
+            "Pain score responses were positively skewed and zero predominant, not Gaussian; therefore, we used an ordinal generalized linear mixed model, thus reflecting the ordinal nature of the FPS-R pain scale.",
+            "SAS software (SAS University Edition 2015, SAS Institute Inc, Cary, NC) was used for analysis using the generalized linear mixed model procedure for a proportional odds model.",
+            "The validity of the proportional odds assumption supported a nonsignificant Score test (P \u00bc 0.14).",
+            "The R 27 packages ordinal 28 and MCMCglmm 29 were used to confirm the results and the R package ggplot2 30 for plots, including residual plots of the model, which did not deviate from homoscedasticity on visual inspection.",
+            "R was used for Wilcoxon rank sum and Fisher exact tests, and G\u00c3Power version 3.1.3 31 for calculating the sample size.",
+            "Central tendency was expressed as mean and variability as standard deviation (SD) or standard error (SE).",
+            "All tests were 2-sided."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "We planned subgroup analysis of complicated versus uncomplicated appendicitis a priori, complicated defined as the absence of pus within the abdominal cavity noted by the surgeon, and not perforated on anatomic pathology examination.",
+        "section": "Additional analyses",
+        "section_number": 17,
+        "sentences": [
+            "We planned subgroup analysis of complicated versus uncomplicated appendicitis a priori, complicated defined as the absence of pus within the abdominal cavity noted by the surgeon, and not perforated on anatomic pathology examination."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The trial recruited participants between May 21, 2014 and March 9, 2015, completing follow-up on April 20, 2015. Of 201 children aged 8 to 14 years assessed for eligibility, the trial excluded 17 before randomization and 9 after randomization leaving 175 participants (87.1% of all assessed), 88 randomized to IPLA and 87 to control (Figure 1 and Table 1 ).",
+        "section": "Recruitment, Baseline Characteristics, and Numbers Analyzed",
+        "section_number": 18,
+        "sentences": [
+            "The trial recruited participants between May 21, 2014 and March 9, 2015, completing follow-up on April 20, 2015.",
+            "Of 201 children aged 8 to 14 years assessed for eligibility, the trial excluded 17 before randomization and 9 after randomization leaving 175 participants (87.1% of all assessed), 88 randomized to IPLA and 87 to control (Figure 1 and Table 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "One intervention and 2 control participants contributed no pain score data for any time period. One participant in each group was discharged after 12 hours; 17 (19%) IPLA and 33 (38%) control participants were discharged after <18 hours from surgery, thus not contributing pain scores in the latter time periods. All participants completed the postoperative recovery questionnaire. One participant in the IPLA group was unable to be contacted for the 6-week follow-up phone call. Data on other outcomes were available from all participants. All analyses were intention to treat by originally assigned group.",
+        "section": "Recruitment, Baseline Characteristics, and Numbers Analyzed",
+        "section_number": 19,
+        "sentences": [
+            "One intervention and 2 control participants contributed no pain score data for any time period.",
+            "One participant in each group was discharged after 12 hours; 17 (19%) IPLA and 33 (38%) control participants were discharged after <18 hours from surgery, thus not contributing pain scores in the latter time periods.",
+            "All participants completed the postoperative recovery questionnaire.",
+            "One participant in the IPLA group was unable to be contacted for the 6-week follow-up phone call.",
+            "Data on other outcomes were available from all participants.",
+            "All analyses were intention to treat by originally assigned group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "IPLA did not significantly alter pain scores either at rest or on movement, nor site-specific pain scores in the right iliac fossa or suprapubic regions. Estimates of the effect on overall pain scores at rest were \u00c00.128 (SE 0.501, P \u00bc 0.80) for the intervention, and 0.004 (SE 0.028, P \u00bc 0.89) for the interaction of IPLA with time (Figures 2 and 3) .",
+        "section": "Outcome",
+        "section_number": 20,
+        "sentences": [
+            "IPLA did not significantly alter pain scores either at rest or on movement, nor site-specific pain scores in the right iliac fossa or suprapubic regions.",
+            "Estimates of the effect on overall pain scores at rest were \u00c00.128 (SE 0.501, P \u00bc 0.80) for the intervention, and 0.004 (SE 0.028, P \u00bc 0.89) for the interaction of IPLA with time (Figures 2 and 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "IPLA did not significantly alter opioid requirements, the proportion who received opioid, time to first opioid, time in PACU, time in hospital, quality of life, recovery, or satisfaction (Table 2) . ",
+        "section": "Outcome",
+        "section_number": 21,
+        "sentences": [
+            "IPLA did not significantly alter opioid requirements, the proportion who received opioid, time to first opioid, time in PACU, time in hospital, quality of life, recovery, or satisfaction (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The presence of pus in the abdomen and the presence of perforation on histology had no statistically significant effect in the model. Sex had a significant effect in the model in which girls recorded higher pain scores (estimate 0.794, SE 0.359, P \u00bc 0.03). Pain scores increased significantly with time (estimate 0.175 per 3hour time period, SE 0.043, P < 0.0001). M\u0101ori or polynesian ethnicity had no significant effect.",
+        "section": "Exploratory Analyses",
+        "section_number": 22,
+        "sentences": [
+            "The presence of pus in the abdomen and the presence of perforation on histology had no statistically significant effect in the model.",
+            "Sex had a significant effect in the model in which girls recorded higher pain scores (estimate 0.794, SE 0.359, P \u00bc 0.03).",
+            "Pain scores increased significantly with time (estimate 0.175 per 3hour time period, SE 0.043, P < 0.0001).",
+            "M\u0101ori or polynesian ethnicity had no significant effect."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "To evaluate the effect of intraperitoneal local anesthetic on pain after acute surgery, we designed a well-powered randomized trial in children undergoing laparoscopic appendectomy. The study showed no beneficial effect from IPLA in this setting. The intervention did not alter pain scores during the first 24 hours after surgery, opioid use, length of hospital stay, or any other recovery parameter.",
+        "section": "DISCUSSION",
+        "section_number": 23,
+        "sentences": [
+            "To evaluate the effect of intraperitoneal local anesthetic on pain after acute surgery, we designed a well-powered randomized trial in children undergoing laparoscopic appendectomy.",
+            "The study showed no beneficial effect from IPLA in this setting.",
+            "The intervention did not alter pain scores during the first 24 hours after surgery, opioid use, length of hospital stay, or any other recovery parameter."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The results of the present study are discordant with most other IPLA studies. IPLA has been shown by multiple randomized trials and meta-analyses to reduce postoperative pain in adult elective surgery. 3, 5, 6, 32 Three randomized trials suggested a benefit in laparoscopic appendectomy in adults. 8, 9, 20 Three small prospective randomized trials have been performed in pediatric laparoscopic surgery, similarly demonstrating benefit. [10] [11] [12] Di Pace et al 10 studied IPLA in a variety of laparoscopic procedures including cholecystectomy, appendectomy, ovarian, varicocele, and urology but did not perform subgroup analysis of the appendectomies. El Basha et al 11 studied IPLA in laparoscopic cholecystectomy and undescended testis surgery. Galante et al 12 studied IPLA for laparoscopic procedures in children from a pediatric intensive care unit. Only 2 pediatric articles have been fully published [10] [11] (the third study appearing only as an abstract). 12 This shows a contrast between the weak evidence in children and the strong evidence supporting IPLA in adults.",
+        "section": "DISCUSSION",
+        "section_number": 24,
+        "sentences": [
+            "The results of the present study are discordant with most other IPLA studies.",
+            "IPLA has been shown by multiple randomized trials and meta-analyses to reduce postoperative pain in adult elective surgery.",
+            "3, 5, 6, 32 Three randomized trials suggested a benefit in laparoscopic appendectomy in adults.",
+            "8, 9, 20 Three small prospective randomized trials have been performed in pediatric laparoscopic surgery, similarly demonstrating benefit. [",
+            "10] [11] [12] Di Pace et al 10 studied IPLA in a variety of laparoscopic procedures including cholecystectomy, appendectomy, ovarian, varicocele, and urology but did not perform subgroup analysis of the appendectomies.",
+            "El Basha et al 11 studied IPLA in laparoscopic cholecystectomy and undescended testis surgery.",
+            "Galante et al 12 studied IPLA for laparoscopic procedures in children from a pediatric intensive care unit.",
+            "Only 2 pediatric articles have been fully published [10] [11] (the third study appearing only as an abstract).",
+            "12 This shows a contrast between the weak evidence in children and the strong evidence supporting IPLA in adults."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Ours was one of the largest studies to date, surpassed only by Manjunath et al 33 who enrolled 196 women into a trial of intraperitoneal lignocaine in laparoscopic tubal ligation, and Tsimoyiannis et al 34 who enrolled 200 laparoscopic cholecystectomy patients, 4 groups of 50. The sample size of previous pediatric articles ranged from 30 to 46. [10] [11] [12] The high power of our trial along with the overlapping pain curves and absence of a trend in other outcomes suggests the intervention was truely ineffective in pediatric laparoscopic appendectomy.",
+        "section": "DISCUSSION",
+        "section_number": 25,
+        "sentences": [
+            "Ours was one of the largest studies to date, surpassed only by Manjunath et al 33 who enrolled 196 women into a trial of intraperitoneal lignocaine in laparoscopic tubal ligation, and Tsimoyiannis et al 34 who enrolled 200 laparoscopic cholecystectomy patients, 4 groups of 50.",
+            "The sample size of previous pediatric articles ranged from 30 to 46. [",
+            "10] [11] [12] The high power of our trial along with the overlapping pain curves and absence of a trend in other outcomes suggests the intervention was truely ineffective in pediatric laparoscopic appendectomy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The present study was in the setting of an acute inflammatory condition, appendicitis. The acidic environment caused by inflammation could reduce the efficacy of local anesthetics. Extracellular cation products of inflammation depolarize the voltage-gated sodium channels through which local anesthetics act. 35, 36 IPLA may be therefore less effective in the presence of peritonitis; however, subgroup analysis of uncomplicated appendicitis (no pus or perforation present) yielded similar results to the whole group. Furthermore, 3 trials in adult laparoscopic appendectomy showed benefit from IPLA. 8, 9, 20 Our study employed a relatively low dose and volume of local anesthetic. The protocol optimized standard of care for both groups with local anesthetic infiltration at each port site and a rectus sheath nerve block at the umbilicus, the site of the largest port (10 mm). To maintain safety, we limited the maximum local anesthetic dose in children !36 kg (79% of participants) to 50 mg, with a step down dosing schedule by weight. Of the 3 previous randomized trials in children, 1 instilled 10 mL of 0.2% or 0.75% ropivacaine for children younger than 10 years of =10 years of age respectively, 10 1 instilled 2 mg/kg 0.5% levobupivacaine, 11 and the third instilled 40 mL of either 0.2% ropivacaine or 0.25% levobupivacaine. 12 A systematic review in adult laparoscopic cholecystectomy correlated the concentration of anesthetic used for IPLA with pain scores, finding that the beneficial effect on pain increased as the local anesthetic concentration increased. 37 Although local anesthetic doses administered in the present trial were relatively low, they were consistent with doses used in previous pediatric studies.",
+        "section": "DISCUSSION",
+        "section_number": 26,
+        "sentences": [
+            "The present study was in the setting of an acute inflammatory condition, appendicitis.",
+            "The acidic environment caused by inflammation could reduce the efficacy of local anesthetics.",
+            "Extracellular cation products of inflammation depolarize the voltage-gated sodium channels through which local anesthetics act.",
+            "35, 36 IPLA may be therefore less effective in the presence of peritonitis; however, subgroup analysis of uncomplicated appendicitis (no pus or perforation present) yielded similar results to the whole group.",
+            "Furthermore, 3 trials in adult laparoscopic appendectomy showed benefit from IPLA.",
+            "8, 9, 20 Our study employed a relatively low dose and volume of local anesthetic.",
+            "The protocol optimized standard of care for both groups with local anesthetic infiltration at each port site and a rectus sheath nerve block at the umbilicus, the site of the largest port (10 mm).",
+            "To maintain safety, we limited the maximum local anesthetic dose in children !",
+            "36 kg (79% of participants) to 50 mg, with a step down dosing schedule by weight.",
+            "Of the 3 previous randomized trials in children, 1 instilled 10 mL of 0.2% or 0.75% ropivacaine for children younger than 10 years of =10 years of age respectively, 10 1 instilled 2 mg/kg 0.5% levobupivacaine, 11 and the third instilled 40 mL of either 0.2% ropivacaine or 0.25% levobupivacaine.",
+            "12 A systematic review in adult laparoscopic cholecystectomy correlated the concentration of anesthetic used for IPLA with pain scores, finding that the beneficial effect on pain increased as the local anesthetic concentration increased.",
+            "37 Although local anesthetic doses administered in the present trial were relatively low, they were consistent with doses used in previous pediatric studies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "The peritoneum is a metabolically active bilayer with high absorptive capacity. Adult studies have shown potentially toxic plasma levels soon after peritoneal instillation of local anesthetic. [38] [39] [40] Children possess a larger relative surface area, 383 cm2/kg in infants versus 177 cm2/kg in adults, 41 with the peritoneal surface area to volume ratio rising as weight decreases, 42 potentially narrowing the therapeutic window. Also of concern, the dose limitation in children could detract from other uses of local anesthetic. Any decision to increase the dose of IPLA in children would necessitate weighing the disadvantages of decreasing local anesthetic use elsewhere, namely at the port sites.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "The peritoneum is a metabolically active bilayer with high absorptive capacity.",
+            "Adult studies have shown potentially toxic plasma levels soon after peritoneal instillation of local anesthetic. [",
+            "38] [39] [40] Children possess a larger relative surface area, 383 cm2/kg in infants versus 177 cm2/kg in adults, 41 with the peritoneal surface area to volume ratio rising as weight decreases, 42 potentially narrowing the therapeutic window.",
+            "Also of concern, the dose limitation in children could detract from other uses of local anesthetic.",
+            "Any decision to increase the dose of IPLA in children would necessitate weighing the disadvantages of decreasing local anesthetic use elsewhere, namely at the port sites."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "Previous randomized trials of IPLA in children introduced study solutions into the peritoneal cavity by instillation. [10] [11] [12] Galante et al 12 added a continuous infusion of local anesthetic via a peritoneal catheter in the postoperative period; their study was set in an intensive care environment. In the present trial, instillation via a feeding tube was allowed, but in the majority of cases the solution was atomized to apply a more uniform coating of anesthetic on the peritoneal surfaces. Two previous studies in children atomized intraperitoneal local anesthetic in a similar manner. 43, 44 Both were retrospective reviews from the same research group. Freilich et al 43 found reduced pain with bupivacaine IPLA in laparoscopic pyeloplasty. Zanetta et al 44 compared atomized spray to nebulization of the local anesthetic with the insufflation gas over a 15-to 30-minute period, reporting lower peak plasma levels of bupivacaine with nebulization. To our knowledge, nebulized IPLA has not yet been studied in a randomized controlled trial in children. In adults, different methods of application of IPLA had no consistent effect on outcomes as shown by a systematic review of randomized trials. 45 The large body of evidence on IPLA in adult surgery has been collated in systematic reviews on laparoscopic cholecystectomy, 4, 5, 37, 46, 47 laparoscopic gastric procedures, 32 laparoscopic gyecologic procedures, 48 and in open surgery. 6 The meta-analyses in these reviews consistently demonstrated reduced postoperative pain after IPLA. The discordance in the number of published studies of IPLA in children compared to adults could suggest bias in the pediatric literature. It is interesting that 2 pediatric articles showing a benefit from IPLA have appeared only in abstract form to date. 12, 44 Limitations of the present study include the above-mentioned limited dose and volume of local anesthetic. The groups were not entirely balanced, with a nonsignificant trend to more perforated appendicitis in the intervention arm. Perforated appendicitis would be expected to engender more pain; however, our data showed no significant difference in pain scores between perforated and uncomplicated cases. We did not measure plasma local anesthetic levels; this has been investigated by others. 32 The timing of the local anesthetic spray was not standardized; most received the intervention after dissection of the appendix. Studies on the effect of timing of IPLA have not yielded consistent results. 45 The intervention technique was not subjected to formal quality assurance. The scrub nurse and 1 circulating nurse were not blinded to the intervention, but blinding was ensured at all other levels of the study; we detected no suggestion of a breach in blinding at any point.",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "Previous randomized trials of IPLA in children introduced study solutions into the peritoneal cavity by instillation. [",
+            "10] [11] [12] Galante et al 12 added a continuous infusion of local anesthetic via a peritoneal catheter in the postoperative period; their study was set in an intensive care environment.",
+            "In the present trial, instillation via a feeding tube was allowed, but in the majority of cases the solution was atomized to apply a more uniform coating of anesthetic on the peritoneal surfaces.",
+            "Two previous studies in children atomized intraperitoneal local anesthetic in a similar manner.",
+            "43, 44 Both were retrospective reviews from the same research group.",
+            "Freilich et al 43 found reduced pain with bupivacaine IPLA in laparoscopic pyeloplasty.",
+            "Zanetta et al 44 compared atomized spray to nebulization of the local anesthetic with the insufflation gas over a 15-to 30-minute period, reporting lower peak plasma levels of bupivacaine with nebulization.",
+            "To our knowledge, nebulized IPLA has not yet been studied in a randomized controlled trial in children.",
+            "In adults, different methods of application of IPLA had no consistent effect on outcomes as shown by a systematic review of randomized trials.",
+            "45 The large body of evidence on IPLA in adult surgery has been collated in systematic reviews on laparoscopic cholecystectomy, 4, 5, 37, 46, 47 laparoscopic gastric procedures, 32 laparoscopic gyecologic procedures, 48 and in open surgery.",
+            "6 The meta-analyses in these reviews consistently demonstrated reduced postoperative pain after IPLA.",
+            "The discordance in the number of published studies of IPLA in children compared to adults could suggest bias in the pediatric literature.",
+            "It is interesting that 2 pediatric articles showing a benefit from IPLA have appeared only in abstract form to date.",
+            "12, 44 Limitations of the present study include the above-mentioned limited dose and volume of local anesthetic.",
+            "The groups were not entirely balanced, with a nonsignificant trend to more perforated appendicitis in the intervention arm.",
+            "Perforated appendicitis would be expected to engender more pain; however, our data showed no significant difference in pain scores between perforated and uncomplicated cases.",
+            "We did not measure plasma local anesthetic levels; this has been investigated by others.",
+            "32 The timing of the local anesthetic spray was not standardized; most received the intervention after dissection of the appendix.",
+            "Studies on the effect of timing of IPLA have not yielded consistent results.",
+            "45 The intervention technique was not subjected to formal quality assurance.",
+            "The scrub nurse and 1 circulating nurse were not blinded to the intervention, but blinding was ensured at all other levels of the study; we detected no suggestion of a breach in blinding at any point."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "This well powered study showed no benefit from the application of local anesthetic to the peritoneum in children during laparoscopic appendectomy. Given the limited dose of local anesthetic available in children, IPLA cannot be recommended in pediatric laparoscopic appendectomy except in the setting of a randomized controlled trial. IPLA indicates intraperitoneal local anesthetic; LOS, length of hospital stay; ME/kg, morphine equivalent dose per kg; PACU, post-anesthetic care unit; QOL, quality of life; satisfaction, 0-100 mm visual analogue scale.",
+        "section": "CONCLUSION",
+        "section_number": 29,
+        "sentences": [
+            "This well powered study showed no benefit from the application of local anesthetic to the peritoneum in children during laparoscopic appendectomy.",
+            "Given the limited dose of local anesthetic available in children, IPLA cannot be recommended in pediatric laparoscopic appendectomy except in the setting of a randomized controlled trial.",
+            "IPLA indicates intraperitoneal local anesthetic; LOS, length of hospital stay; ME/kg, morphine equivalent dose per kg; PACU, post-anesthetic care unit; QOL, quality of life; satisfaction, 0-100 mm visual analogue scale."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.",
+        "section": "",
+        "section_number": 30,
+        "sentences": [
+            "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "\u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.www.annalsofsurgery.com | 191",
+        "section": "",
+        "section_number": 31,
+        "sentences": [
+            "\u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.www.annalsofsurgery.com | 191"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "\u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.www.annalsofsurgery.com | 193",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "\u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.www.annalsofsurgery.com | 193"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34911",
+        "text": "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved.",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "| www.annalsofsurgery.com \u00df 2016 Wolters Kluwer Health, Inc. All rights reserved."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

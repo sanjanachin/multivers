@@ -1,0 +1,797 @@
+[
+    {
+        "doc_id": "41803",
+        "text": "Balance function has been reported to be worse in ADHD children than in their normal peers. The present study hypothesized that an improvement in balance could result in better cognitive performance in children with ADHD and concurrent vestibular impairment. This study was designed to evaluate the effects of comprehensive vestibular rehabilitation therapy on the cognitive performance of children with combined ADHD and concurrent vestibular impairment. Methods: Subject were 54 children with combined ADHD. Those with severe vestibular impairment (n = 33) were randomly assigned to two groups that were matched for age. A rehabilitation program comprising overall balance and gate, postural stability, and eye movement exercises was assigned to the intervention group. Subjects in the control group received no intervention for the same time period. Intervention was administered twice weekly for 12 weeks. Choice reaction time (CRT) and spatial working memory (SWM) subtypes of the Cambridge Neuropsychological Test Automated Battery (CANTAB) were completed pre-and postintervention to determine the effects of vestibular rehabilitation on the cognitive performance of the subjects with ADHD and concurrent vestibular impairment. ANCOVA was used to compare the test results of the intervention and control group post-test. Results: The percentage of correct trial scores for the CRT achieved by the intervention group posttest increased significantly compared to those of the control group (p = 0.029). The CRT mean latency scores were significantly prolonged in the intervention group following intervention (p = 0.007) compared to the control group. No significant change was found in spatial functioning of the subjects with ADHD following 12 weeks of intervention (p > 0.05). Conclusion: The study highlights the effect of vestibular rehabilitation on the cognitive performance of children with combined ADHD and concurrent vestibular disorder. The findings $ This study has been registered and approved by the local ethics committee of the University of Social Welfare and Rehabilitation Sciences (USWR) as No.",
+        "section": "Abstract",
+        "sentences": [
+            "Balance function has been reported to be worse in ADHD children than in their normal peers.",
+            "The present study hypothesized that an improvement in balance could result in better cognitive performance in children with ADHD and concurrent vestibular impairment.",
+            "This study was designed to evaluate the effects of comprehensive vestibular rehabilitation therapy on the cognitive performance of children with combined ADHD and concurrent vestibular impairment.",
+            "Methods: Subject were 54 children with combined ADHD.",
+            "Those with severe vestibular impairment (n = 33) were randomly assigned to two groups that were matched for age.",
+            "A rehabilitation program comprising overall balance and gate, postural stability, and eye movement exercises was assigned to the intervention group.",
+            "Subjects in the control group received no intervention for the same time period.",
+            "Intervention was administered twice weekly for 12 weeks.",
+            "Choice reaction time (CRT) and spatial working memory (SWM) subtypes of the Cambridge Neuropsychological Test Automated Battery (CANTAB) were completed pre-and postintervention to determine the effects of vestibular rehabilitation on the cognitive performance of the subjects with ADHD and concurrent vestibular impairment.",
+            "ANCOVA was used to compare the test results of the intervention and control group post-test.",
+            "Results: The percentage of correct trial scores for the CRT achieved by the intervention group posttest increased significantly compared to those of the control group (p = 0.029).",
+            "The CRT mean latency scores were significantly prolonged in the intervention group following intervention (p = 0.007) compared to the control group.",
+            "No significant change was found in spatial functioning of the subjects with ADHD following 12 weeks of intervention (p > 0.05).",
+            "Conclusion: The study highlights the effect of vestibular rehabilitation on the cognitive performance of children with combined ADHD and concurrent vestibular disorder.",
+            "The findings $ This study has been registered and approved by the local ethics committee of the University of Social Welfare and Rehabilitation Sciences (USWR) as No."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Attention deficit hyperactivity disorder (ADHD) affects 3%-6% of school-age children and is more prevalent in boys than in girls [1] . Symptoms of ADHD include inattention, hyperactivity, and impulsivity accompanied by somatosensory deficiency [2] . DSM-IV standards list three types of ADHD: a predominantly inattentive subtype, a predominantly hyperactive/impulsive subtype, and a combined subtype. The neurological foundations of ADHD are largely unknown and diagnosis is based on clinical presentation [3] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Attention deficit hyperactivity disorder (ADHD) affects 3%-6% of school-age children and is more prevalent in boys than in girls [1] .",
+            "Symptoms of ADHD include inattention, hyperactivity, and impulsivity accompanied by somatosensory deficiency [2] .",
+            "DSM-IV standards list three types of ADHD: a predominantly inattentive subtype, a predominantly hyperactive/impulsive subtype, and a combined subtype.",
+            "The neurological foundations of ADHD are largely unknown and diagnosis is based on clinical presentation [3] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Balance function has been reported to be worse in ADHD children than in their normal peers [4] . The etiology of balance disorders in these children could result from frontal motor disconnection [5] , a smaller-sized cerebellum [6] , and basal ganglia abnormality [7] . The basal ganglia and cerebellum play important roles in human balance function [8] . Because cognitive vestibular interaction has been well-documented [9] [10] [11] [12] , it is assumed that vestibular disorder in children with ADHD results in poorer cognitive performance which adversely affects the children's progress at school. A number of studies have shown adverse consequences of vestibular disorders on adult cognitive functions, such as those on spatial memory [13] , attention [14] , and navigation [13] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Balance function has been reported to be worse in ADHD children than in their normal peers [4] .",
+            "The etiology of balance disorders in these children could result from frontal motor disconnection [5] , a smaller-sized cerebellum [6] , and basal ganglia abnormality [7] .",
+            "The basal ganglia and cerebellum play important roles in human balance function [8] .",
+            "Because cognitive vestibular interaction has been well-documented [9] [10] [11] [12] , it is assumed that vestibular disorder in children with ADHD results in poorer cognitive performance which adversely affects the children's progress at school.",
+            "A number of studies have shown adverse consequences of vestibular disorders on adult cognitive functions, such as those on spatial memory [13] , attention [14] , and navigation [13] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Research has revealed that exercise can improve cognitive function in humans [15] . Few studies have addressed the effects of acute exercises for cognitive ability in children with ADHD [16, 17] , but no studies were found showing the effect of organized vestibular rehabilitation therapy (VRT) on the cognitive performance of children with ADHD.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Research has revealed that exercise can improve cognitive function in humans [15] .",
+            "Few studies have addressed the effects of acute exercises for cognitive ability in children with ADHD [16, 17] , but no studies were found showing the effect of organized vestibular rehabilitation therapy (VRT) on the cognitive performance of children with ADHD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The present study was designed to evaluate the effects of vestibular rehabilitation on the cognitive performance of children with combined ADHD and concurrent vestibular impairment. Choice reaction time (CRT) was used to study cognitive performance and spatial working memory (SWM) subtypes of the Cambridge Neuropsychological Test Automated Battery (CANTAB) to determine the effects of vestibular rehabilitation on attention and spatial the memory ability in these children.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The present study was designed to evaluate the effects of vestibular rehabilitation on the cognitive performance of children with combined ADHD and concurrent vestibular impairment.",
+            "Choice reaction time (CRT) was used to study cognitive performance and spatial working memory (SWM) subtypes of the Cambridge Neuropsychological Test Automated Battery (CANTAB) to determine the effects of vestibular rehabilitation on attention and spatial the memory ability in these children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "An experimental design was used with subjects participating in a 12-week program of VRT. The children in the control group participated the same VRT program post-test for ethical considerations.",
+        "section": "Materials and methods",
+        "section_number": 5,
+        "sentences": [
+            "An experimental design was used with subjects participating in a 12-week program of VRT.",
+            "The children in the control group participated the same VRT program post-test for ethical considerations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The subjects were 54 children 7-12 years of age with cADHD diagnosed by a psychiatrist based on DSM IV criteria. They were recruited from the Atiyeh Psychiatric Center in Tehran in 2013 and 2014. All children enrolled in the study exhibited a nonverbal quotient of >80 on the standard intelligence quotient tests recorded in their health files. The entire procedure was clearly explained to all parents of the subjects and they then signed informed consent forms allowing their child's participation. All children were tested free of charge and the test results and specialist's recommendations were delivered to the parents and the referral centers one week after testing.",
+        "section": "Participants",
+        "section_number": 6,
+        "sentences": [
+            "The subjects were 54 children 7-12 years of age with cADHD diagnosed by a psychiatrist based on DSM IV criteria.",
+            "They were recruited from the Atiyeh Psychiatric Center in Tehran in 2013 and 2014.",
+            "All children enrolled in the study exhibited a nonverbal quotient of >80 on the standard intelligence quotient tests recorded in their health files.",
+            "The entire procedure was clearly explained to all parents of the subjects and they then signed informed consent forms allowing their child's participation.",
+            "All children were tested free of charge and the test results and specialist's recommendations were delivered to the parents and the referral centers one week after testing."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Vestibular function of all participants was assessed by Sinusoidal Harmonic Acceleration (SHA), oculomotor subtype of Videonystagmography (VNG) testing, vestibular-evoked myogenic potential (VEMP) testing, and the Bruininks-Oseretsky test (BOT) of motor proficiency scale. All test results were compared to those of normal peers (30 children; 15 boys and 15 girls; mean age: 8.9 years; range: 7-12 years). From 54 children with cADHD, 34 children showed abnormal results in oculomotor tests mostly in saccade and tracking, 25 children showed abnormal results in SHA test and 1 child showed decreased amplitude in VEMP test. Furthermore, 32 children showed worse balance function in BOTMP assessment, compared to their control group. Only data from those with severe vestibular impairment (33 children; 19 boys and 14 girls; mean age: 9 years; range: 7-12 years). Two or more abnormal vestibular test results were considered evidence of severe vestibular impairment. Table 1 , summarizes vestibular test results in children with cADHD based on mentioned tests.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "Vestibular function of all participants was assessed by Sinusoidal Harmonic Acceleration (SHA), oculomotor subtype of Videonystagmography (VNG) testing, vestibular-evoked myogenic potential (VEMP) testing, and the Bruininks-Oseretsky test (BOT) of motor proficiency scale.",
+            "All test results were compared to those of normal peers (30 children; 15 boys and 15 girls; mean age: 8.9 years; range: 7-12 years).",
+            "From 54 children with cADHD, 34 children showed abnormal results in oculomotor tests mostly in saccade and tracking, 25 children showed abnormal results in SHA test and 1 child showed decreased amplitude in VEMP test.",
+            "Furthermore, 32 children showed worse balance function in BOTMP assessment, compared to their control group.",
+            "Only data from those with severe vestibular impairment (33 children; 19 boys and 14 girls; mean age: 9 years; range: 7-12 years).",
+            "Two or more abnormal vestibular test results were considered evidence of severe vestibular impairment.",
+            "Table 1 , summarizes vestibular test results in children with cADHD based on mentioned tests."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Children with cADHD and concurrent vestibular disorder were randomly assigned to either the intervention (n = 17) or control (n = 16) groups using randomization in the parallel groups design. Both groups were matched for age and for an age-equivalent score from motor development testing. Exclusion criteria were any type of hearing, middle ear effusion, visual, muscular, or neurological condition (other than ADHD), and participation in any other rehabilitative program such as occupational therapy, neuro-feedback, and use of medication other than Ritalin (which is normally used for these children). All criteria were confirmed by review of their medical records and examinations (Audiometry and tympanometry) by an audiologist, an occupational therapist, and a psychiatrist. This study was approved by the local ethics committee of the University of Social Welfare and Rehabilitation Sciences (USWR) as No. USWR.REC.1392.114.",
+        "section": "Participants",
+        "section_number": 8,
+        "sentences": [
+            "Children with cADHD and concurrent vestibular disorder were randomly assigned to either the intervention (n = 17) or control (n = 16) groups using randomization in the parallel groups design.",
+            "Both groups were matched for age and for an age-equivalent score from motor development testing.",
+            "Exclusion criteria were any type of hearing, middle ear effusion, visual, muscular, or neurological condition (other than ADHD), and participation in any other rehabilitative program such as occupational therapy, neuro-feedback, and use of medication other than Ritalin (which is normally used for these children).",
+            "All criteria were confirmed by review of their medical records and examinations (Audiometry and tympanometry) by an audiologist, an occupational therapist, and a psychiatrist.",
+            "This study was approved by the local ethics committee of the University of Social Welfare and Rehabilitation Sciences (USWR) as No. USWR.REC.1392.114."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The demographics of the subjects were obtained by reviewing their records. The vestibular tests used in this study included the sinusoidal harmonic acceleration (SHA) subtype of the rotary chair test, which was conducted at frequencies of 0.01, 0.02. 0.08, 0.16, and 0.32 Hz with a peak velocity of 50 /s, cVEMP measurements, which provided information about indicate that attention can be affected by early vestibular rehabilitation, which is a basic program for improving memory function in such children. Appropriate vestibular rehabilitation programs based on the type of vestibular impairment of children can improve their cognitive ability to some extent in children with ADHD and concurrent vestibular impairment (p > 0.05).",
+        "section": "Instrumentation",
+        "section_number": 9,
+        "sentences": [
+            "The demographics of the subjects were obtained by reviewing their records.",
+            "The vestibular tests used in this study included the sinusoidal harmonic acceleration (SHA) subtype of the rotary chair test, which was conducted at frequencies of 0.01, 0.02.",
+            "0.08, 0.16, and 0.32 Hz with a peak velocity of 50 /s, cVEMP measurements, which provided information about indicate that attention can be affected by early vestibular rehabilitation, which is a basic program for improving memory function in such children.",
+            "Appropriate vestibular rehabilitation programs based on the type of vestibular impairment of children can improve their cognitive ability to some extent in children with ADHD and concurrent vestibular impairment (p > 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "\u00a9 [18] . Cognitive assessment of attention and spatial memory was completed pre-and post-intervention using CRT and SWM subtypes of the CANTAB, is a computerized neuropsychological test battery [19] . All CANTAB subtypes were administered using a computer with a touch screen. Application of the test and feedback were given in a standardized manner [20] . CANTAB uses a wide variety of cognitive tasks [19] . One of the ways that cognitive psychologists study decision-making is by studying simplified versions of real-world tasks called choice reaction time (CRT) tasks. Choice reaction time tasks can be used to study selective attention, or the ability to filter out irrelevant information. In order to do this, there also has to be a collection of stimulus properties that appear in the task, but that are completely unrelated to what you should do. Furthermore, Spatial working memory entails the ability to keep spatial information active in working memory over a short period of time. SWM is a test of the subject's ability to retain spatial information and to manipulate remembered items in working memory. Both groups had equal vestibular and cognitive assessments; but only the intervention group underwent VRT.",
+        "section": "Instrumentation",
+        "section_number": 10,
+        "sentences": [
+            "\u00a9 [18] .",
+            "Cognitive assessment of attention and spatial memory was completed pre-and post-intervention using CRT and SWM subtypes of the CANTAB, is a computerized neuropsychological test battery [19] .",
+            "All CANTAB subtypes were administered using a computer with a touch screen.",
+            "Application of the test and feedback were given in a standardized manner [20] .",
+            "CANTAB uses a wide variety of cognitive tasks [19] .",
+            "One of the ways that cognitive psychologists study decision-making is by studying simplified versions of real-world tasks called choice reaction time (CRT) tasks.",
+            "Choice reaction time tasks can be used to study selective attention, or the ability to filter out irrelevant information.",
+            "In order to do this, there also has to be a collection of stimulus properties that appear in the task, but that are completely unrelated to what you should do.",
+            "Furthermore, Spatial working memory entails the ability to keep spatial information active in working memory over a short period of time.",
+            "SWM is a test of the subject's ability to retain spatial information and to manipulate remembered items in working memory.",
+            "Both groups had equal vestibular and cognitive assessments; but only the intervention group underwent VRT."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "For rotary chair testing, the child was seated in a motordriven rotary chair (Nydiag 200, Interacoustics, Denmark), with the head tilted forward at an angle of 30 using a small pillow to bring the horizontal semi-circular canals in the plane of rotation. A binocular infrared goggle containing a cover to darken the area around the eyes, which was capable of tracking at 105 Hz, was used to record eye movements. Each child was given 2 min to adapt to the dark environment, following which instructions were provided again. The child was fastened to the chair using a safety belt around the chest and feet, and the head was stabilized in a head rest for an optimal upright position within a 30-degree angle. The child was instructed to perform mental tasks with the eyes open in complete darkness. The task required the child to name his/her classmates, animals, and objects. In each subtest, physiological nystagmus resulting from chair rotation was recorded and monitored using infrared cameras. We conducted the SHA subtype of the rotary chair test at the following frequencies: 0.01, 0.02, 0.08, 0.16, and 0.32 Hz. The evaluated response parameters included the vestibuloocular reflex (VOR) gain, phase, and asymmetry. cVEMP waveforms were recorded using the Eclipse EP25 (version 4.1, Interacoustics, Denmark) with disposable surface electrodes. For cVEMP testing, the child was sat on a supported chair and was asked to bend his/her head by 30 and turn it toward the opposite side of the stimulated ear for sternocleidomastoid (SCM) muscle contraction. cVEMP tracings were obtained in the form of biphasic waveforms (positivenegative). The results were recorded after monaural stimulations. Rarefaction tone burst stimuli were used at 95 dB nHL. In total, 200 stimuli at 500 Hz (1-2-1 ms) with a stimulation rate of 5.1/s were presented through an Etymotic ER-3 insert phone. The analysis window was 50 ms. The response was band passfiltered (20-2000 Hz) and amplified (5000 times). The inverting electrodes were placed on the upper part of the SCM muscle on both sides, a noninverting electrode was placed on the edge of the sternum, and a ground electrode was set on the forehead. We used the Eclipse EP 25 Built-in EMG monitoring device (Interacoustics, Denmark) to control muscle contractions on both sides. The evaluated cVEMP parameters included the latency, amplitude, threshold, and amplitude ratio.",
+        "section": "Vestibular testing",
+        "section_number": 11,
+        "sentences": [
+            "For rotary chair testing, the child was seated in a motordriven rotary chair (Nydiag 200, Interacoustics, Denmark), with the head tilted forward at an angle of 30 using a small pillow to bring the horizontal semi-circular canals in the plane of rotation.",
+            "A binocular infrared goggle containing a cover to darken the area around the eyes, which was capable of tracking at 105 Hz, was used to record eye movements.",
+            "Each child was given 2 min to adapt to the dark environment, following which instructions were provided again.",
+            "The child was fastened to the chair using a safety belt around the chest and feet, and the head was stabilized in a head rest for an optimal upright position within a 30-degree angle.",
+            "The child was instructed to perform mental tasks with the eyes open in complete darkness.",
+            "The task required the child to name his/her classmates, animals, and objects.",
+            "In each subtest, physiological nystagmus resulting from chair rotation was recorded and monitored using infrared cameras.",
+            "We conducted the SHA subtype of the rotary chair test at the following frequencies: 0.01, 0.02, 0.08, 0.16, and 0.32 Hz.",
+            "The evaluated response parameters included the vestibuloocular reflex (VOR) gain, phase, and asymmetry.",
+            "cVEMP waveforms were recorded using the Eclipse EP25 (version 4.1, Interacoustics, Denmark) with disposable surface electrodes.",
+            "For cVEMP testing, the child was sat on a supported chair and was asked to bend his/her head by 30 and turn it toward the opposite side of the stimulated ear for sternocleidomastoid (SCM) muscle contraction.",
+            "cVEMP tracings were obtained in the form of biphasic waveforms (positivenegative).",
+            "The results were recorded after monaural stimulations.",
+            "Rarefaction tone burst stimuli were used at 95 dB nHL.",
+            "In total, 200 stimuli at 500 Hz (1-2-1 ms) with a stimulation rate of 5.1/s were presented through an Etymotic ER-3 insert phone.",
+            "The analysis window was 50 ms.",
+            "The response was band passfiltered (20-2000 Hz) and amplified (5000 times).",
+            "The inverting electrodes were placed on the upper part of the SCM muscle on both sides, a noninverting electrode was placed on the edge of the sternum, and a ground electrode was set on the forehead.",
+            "We used the Eclipse EP 25 Built-in EMG monitoring device (Interacoustics, Denmark) to control muscle contractions on both sides.",
+            "The evaluated cVEMP parameters included the latency, amplitude, threshold, and amplitude ratio."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "For oculomotor testing, the child was seated in a motordriven rotary chair (VO425, Interacoustics, Denmark).",
+        "section": "Vestibular testing",
+        "section_number": 12,
+        "sentences": [
+            "For oculomotor testing, the child was seated in a motordriven rotary chair (VO425, Interacoustics, Denmark)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Like rotary chair testing, a binocular infrared goggle was used to record eye movements in occulomotor tests. For gaze test, the child sitting in front of a big monitor TV was asked to simply look at the dots at center and 30 to the right and left. Absence or presence of any nystagmus with its SPV was analyzed. For tracking test, the child was asked track the dot moving to different sides and was asked not to move his/her head and not to get ahead or behind the target. Gain and phase values were analyzed. For saccade test, the child was asked to simply look at dots moving randomly on the screen. Latency, velocity and accuracy parameters were analyzed. For optokinetic test, the child was asked to look ahead and watch the pattern of moving colored-bars without moving the head. Gain and SPV values for eye movements were analyzed.",
+        "section": "Vestibular testing",
+        "section_number": 13,
+        "sentences": [
+            "Like rotary chair testing, a binocular infrared goggle was used to record eye movements in occulomotor tests.",
+            "For gaze test, the child sitting in front of a big monitor TV was asked to simply look at the dots at center and 30 to the right and left.",
+            "Absence or presence of any nystagmus with its SPV was analyzed.",
+            "For tracking test, the child was asked track the dot moving to different sides and was asked not to move his/her head and not to get ahead or behind the target.",
+            "Gain and phase values were analyzed.",
+            "For saccade test, the child was asked to simply look at dots moving randomly on the screen.",
+            "Latency, velocity and accuracy parameters were analyzed.",
+            "For optokinetic test, the child was asked to look ahead and watch the pattern of moving colored-bars without moving the head.",
+            "Gain and SPV values for eye movements were analyzed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The balance performance of children was tested through nine exercises pre-and post-intervention. These exercises were derived from the BOT-2 Balance Subtest, which consists of six static balance skills and three dynamic tests. The test is the revised version of the Bruininks-Oseretsky Test of Motor Proficiency (BOTMP) [18] .",
+        "section": "Balance testing",
+        "section_number": 14,
+        "sentences": [
+            "The balance performance of children was tested through nine exercises pre-and post-intervention.",
+            "These exercises were derived from the BOT-2 Balance Subtest, which consists of six static balance skills and three dynamic tests.",
+            "The test is the revised version of the Bruininks-Oseretsky Test of Motor Proficiency (BOTMP) [18] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Exercises 1 and 2 (standing on a straight line): the child was asked to stand on a straight line, with eyes open and then with eyes closed (each for 10 s); Exercise 3 (walking on a straight line): the child was asked to walk on a straight line for 6 steps. Exercises 4 and 5 (standing on one leg in a straight line): the child was asked to stand on one leg on a straight line (on his or her preferred leg) with eyes open and then with eyes closed (each for 10 s); Exercises 6 and 7, (hill to toe walking on a straight line and the balance beam) the child was asked to walk on a straight line with eyes open and then closed for 6 steps. Then he was instructed to walk the balance beam for 10 s with eyes open and then eyes closed. Exercises 8 and 9 (standing on one leg on the balance beam): the child was instructed to stand on one leg in the midline of a balance beam, with eyes open and then with eyes closed (each for 10 s); If the child failed to do successfully in any exercise, he or she could repeat the exercise for up to two more times. In static stages, time period in which child maintain balance is considered as the stage score. In dynamic stages, number of correct steps is considered as the stage score. The highest score acquired in the three trials was accepted as the score for that exercise. During the test, the children were wearing comfortable shoes with their hands on the hips, and the assessment was done in a quiet room without any distracting objects around. Total score of balance function, addition of all scores in each stage, used for analysis.",
+        "section": "Balance testing",
+        "section_number": 15,
+        "sentences": [
+            "Exercises 1 and 2 (standing on a straight line): the child was asked to stand on a straight line, with eyes open and then with eyes closed (each for 10 s); Exercise 3 (walking on a straight line): the child was asked to walk on a straight line for 6 steps.",
+            "Exercises 4 and 5 (standing on one leg in a straight line): the child was asked to stand on one leg on a straight line (on his or her preferred leg) with eyes open and then with eyes closed (each for 10 s); Exercises 6 and 7, (hill to toe walking on a straight line and the balance beam) the child was asked to walk on a straight line with eyes open and then closed for 6 steps.",
+            "Then he was instructed to walk the balance beam for 10 s with eyes open and then eyes closed.",
+            "Exercises 8 and 9 (standing on one leg on the balance beam): the child was instructed to stand on one leg in the midline of a balance beam, with eyes open and then with eyes closed (each for 10 s); If the child failed to do successfully in any exercise, he or she could repeat the exercise for up to two more times.",
+            "In static stages, time period in which child maintain balance is considered as the stage score.",
+            "In dynamic stages, number of correct steps is considered as the stage score.",
+            "The highest score acquired in the three trials was accepted as the score for that exercise.",
+            "During the test, the children were wearing comfortable shoes with their hands on the hips, and the assessment was done in a quiet room without any distracting objects around.",
+            "Total score of balance function, addition of all scores in each stage, used for analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "CRT is an important subtype of the CANTAB used to evaluate attention performance and central processing speed [21] . CRT is a 2-choice reaction time test that is similar to the simple reaction time test except that stimulus and response uncertainty is introduced using two possible stimuli and two possible responses.",
+        "section": "Choice reaction time testing",
+        "section_number": 16,
+        "sentences": [
+            "CRT is an important subtype of the CANTAB used to evaluate attention performance and central processing speed [21] .",
+            "CRT is a 2-choice reaction time test that is similar to the simple reaction time test except that stimulus and response uncertainty is introduced using two possible stimuli and two possible responses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "During the test, an arrow-shaped stimulus was displayed on either the left or the right side of the screen. The child was asked to press the left-hand button on the press pad if the stimulus is displayed on the left-hand side of the screen and the right-hand button on the press pad if the stimulus was displayed on the right-hand side of the screen. There was a practice stage of 24 trials and two assessment stages, each of 50 trials [22] . CRT mean latency is the mean latency of the response from stimulus appearance to button press on the trials that were not filtered out (using the options set in the template).",
+        "section": "Choice reaction time testing",
+        "section_number": 17,
+        "sentences": [
+            "During the test, an arrow-shaped stimulus was displayed on either the left or the right side of the screen.",
+            "The child was asked to press the left-hand button on the press pad if the stimulus is displayed on the left-hand side of the screen and the right-hand button on the press pad if the stimulus was displayed on the right-hand side of the screen.",
+            "There was a practice stage of 24 trials and two assessment stages, each of 50 trials [22] .",
+            "CRT mean latency is the mean latency of the response from stimulus appearance to button press on the trials that were not filtered out (using the options set in the template)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The CRT percentage of correct trials (filtered out through options set) for which the trial outcome was correct were measured [23] . The CRT test was used to evaluate all subjects in the intervention and the control groups, pre-and postintervention period.",
+        "section": "Choice reaction time testing",
+        "section_number": 18,
+        "sentences": [
+            "The CRT percentage of correct trials (filtered out through options set) for which the trial outcome was correct were measured [23] .",
+            "The CRT test was used to evaluate all subjects in the intervention and the control groups, pre-and postintervention period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "SWM tests a subject's ability to retain spatial information and to manipulate items remembered in the working memory; it is sensitive to frontal lobe dysfunction [24] . It is a self-ordered task which also assesses working visuo-spatial memory and strategy use (23) . This test is a sensitive measure of frontal lobe and executive dysfunction [24] .",
+        "section": "Spatial working memory testing",
+        "section_number": 19,
+        "sentences": [
+            "SWM tests a subject's ability to retain spatial information and to manipulate items remembered in the working memory; it is sensitive to frontal lobe dysfunction [24] .",
+            "It is a self-ordered task which also assesses working visuo-spatial memory and strategy use (23) .",
+            "This test is a sensitive measure of frontal lobe and executive dysfunction [24] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The test began with a number of colored squares (boxes) shown on the screen. The aim of this test was to, by process of elimination, find one blue \"token\" in each of the boxes and use them to fill an empty column on the right-hand side of the screen. The number of boxes was gradually increased from three to eight. The color and position of the boxes changed from trial to trial to discourage the use of stereotyped search strategies [24] .",
+        "section": "Spatial working memory testing",
+        "section_number": 20,
+        "sentences": [
+            "The test began with a number of colored squares (boxes) shown on the screen.",
+            "The aim of this test was to, by process of elimination, find one blue \"token\" in each of the boxes and use them to fill an empty column on the right-hand side of the screen.",
+            "The number of boxes was gradually increased from three to eight.",
+            "The color and position of the boxes changed from trial to trial to discourage the use of stereotyped search strategies [24] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The subject was asked to touch each box in turn until one containing a blue token was opened (search). When a blue token was found, the subject had to place it in the right-hand column (home) by touching the right-hand side of the screen. The subject was then asked to begin a new search for the next blue token, which would be in a different box that could also be empty. This was repeated until a blue token was found in every box on the screen. Touching any box in which a blue token has already been found was considered to be an error. The subject decided the order in which the boxes were searched. The computer determined the number of empty boxes that must be visited (discounting errors).",
+        "section": "Spatial working memory testing",
+        "section_number": 21,
+        "sentences": [
+            "The subject was asked to touch each box in turn until one containing a blue token was opened (search).",
+            "When a blue token was found, the subject had to place it in the right-hand column (home) by touching the right-hand side of the screen.",
+            "The subject was then asked to begin a new search for the next blue token, which would be in a different box that could also be empty.",
+            "This was repeated until a blue token was found in every box on the screen.",
+            "Touching any box in which a blue token has already been found was considered to be an error.",
+            "The subject decided the order in which the boxes were searched.",
+            "The computer determined the number of empty boxes that must be visited (discounting errors)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Performance at a harder level of this task was enhanced by the use of a heuristic search strategy [24] . The SWM total error was the total number of times a box that was certain not to contain a blue token and should therefore not have been visited by the subject was selected. The total errors were calculated as between errors + within errors \u00c0 double errors. SWM strategy is the number of times the subject began a new search with a different box for 6-and 8-box problems only. The SWM mean token-search preparation time was the mean time between token-search touches for problems with a specified number of boxes. All values were measured pre-and post-intervention period an all subjects.",
+        "section": "Spatial working memory testing",
+        "section_number": 22,
+        "sentences": [
+            "Performance at a harder level of this task was enhanced by the use of a heuristic search strategy [24] .",
+            "The SWM total error was the total number of times a box that was certain not to contain a blue token and should therefore not have been visited by the subject was selected.",
+            "The total errors were calculated as between errors + within errors \u00c0 double errors.",
+            "SWM strategy is the number of times the subject began a new search with a different box for 6-and 8-box problems only.",
+            "The SWM mean token-search preparation time was the mean time between token-search touches for problems with a specified number of boxes.",
+            "All values were measured pre-and post-intervention period an all subjects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "All subjects with cADHD and concurrent vestibular impairment in the intervention group participated in a comprehensive VRT program (25) and subjects in the control group received no intervention. VRT is an effective modality for most individuals with vestibular disorders [26] . The success of VRT is based on the use of neural mechanisms in the human brain for adaptation, plasticity, and compensation. Specificallydesigned VRT exercise protocols take advantage of the plasticity of the central nervous system to increase sensitivity and restore symmetry, which results in an improvement in vestibulo-ocular control, a gain in the vestibulo-ocular reflex (VOR), better postural strategies, and increased levels of motor control for movement [26] .",
+        "section": "Intervention",
+        "section_number": 23,
+        "sentences": [
+            "All subjects with cADHD and concurrent vestibular impairment in the intervention group participated in a comprehensive VRT program (25) and subjects in the control group received no intervention.",
+            "VRT is an effective modality for most individuals with vestibular disorders [26] .",
+            "The success of VRT is based on the use of neural mechanisms in the human brain for adaptation, plasticity, and compensation.",
+            "Specificallydesigned VRT exercise protocols take advantage of the plasticity of the central nervous system to increase sensitivity and restore symmetry, which results in an improvement in vestibulo-ocular control, a gain in the vestibulo-ocular reflex (VOR), better postural strategies, and increased levels of motor control for movement [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Rehabilitative intervention was conducted by an occupational therapist research assistant for 12 weeks. The intervention consisted of a twice-weekly 45-min session. This VRT was designed to enhance gaze stability, postural stability, and daily living activities. The VRT sessions included overall balance and gate, postural stability, and eye movement exercises. The exercises were similar to those proposed by Han et al. [25] and were modified in consideration of the age of the subjects and their balance abilities and attention capacities. The subjects in the control group received the same VRT program for 12 weeks after post-assessment as an ethical consideration.",
+        "section": "Intervention",
+        "section_number": 24,
+        "sentences": [
+            "Rehabilitative intervention was conducted by an occupational therapist research assistant for 12 weeks.",
+            "The intervention consisted of a twice-weekly 45-min session.",
+            "This VRT was designed to enhance gaze stability, postural stability, and daily living activities.",
+            "The VRT sessions included overall balance and gate, postural stability, and eye movement exercises.",
+            "The exercises were similar to those proposed by Han et al. [25] and were modified in consideration of the age of the subjects and their balance abilities and attention capacities.",
+            "The subjects in the control group received the same VRT program for 12 weeks after post-assessment as an ethical consideration."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Descriptive statistics were performed to examine the distributional properties of all variables and subject demographics. To examine the effect of intervention on cognitive performance of children with cADHD, ANCOVA and paired ttests were carried out on the mean scores with subjects serving as their own control using SPSS software (version 20). The significance level adopted was 0.05 (5%) with a confidence interval of 95%.",
+        "section": "Data analysis",
+        "section_number": 25,
+        "sentences": [
+            "Descriptive statistics were performed to examine the distributional properties of all variables and subject demographics.",
+            "To examine the effect of intervention on cognitive performance of children with cADHD, ANCOVA and paired ttests were carried out on the mean scores with subjects serving as their own control using SPSS software (version 20).",
+            "The significance level adopted was 0.05 (5%) with a confidence interval of 95%."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Of the 54 subjects with cADHD, 33 (61%) achieved scores that were indicative of severe vestibular impairment and 21 (39%) achieved scores within the normative range according to the standards used. Subsequent analysis was limited to those subjects with accompanying vestibular disorder.",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "Of the 54 subjects with cADHD, 33 (61%) achieved scores that were indicative of severe vestibular impairment and 21 (39%) achieved scores within the normative range according to the standards used.",
+            "Subsequent analysis was limited to those subjects with accompanying vestibular disorder."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "In rotary chair test, using ANCOVA for the comparison of preand post-scores for those who received vestibular rehabilitation indicated significant improvement of gain values in frequencies 0.08 (p = 0.04), 0.16 (p = 0.04), and 0.32 Hz (p = 0.03). No significant difference could be found for parameters phase and symmetry after receiving treatment (p > 0.05).",
+        "section": "Vestibular tests",
+        "section_number": 27,
+        "sentences": [
+            "In rotary chair test, using ANCOVA for the comparison of preand post-scores for those who received vestibular rehabilitation indicated significant improvement of gain values in frequencies 0.08 (p = 0.04), 0.16 (p = 0.04), and 0.32 Hz (p = 0.03).",
+            "No significant difference could be found for parameters phase and symmetry after receiving treatment (p > 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The results of ANCOVA revealed no significant difference for all cVEMP measured parameters (amplitude, threshold, latency and asymmetry ratio) between groups post-test (p > 0.05).",
+        "section": "Vestibular tests",
+        "section_number": 28,
+        "sentences": [
+            "The results of ANCOVA revealed no significant difference for all cVEMP measured parameters (amplitude, threshold, latency and asymmetry ratio) between groups post-test (p > 0.05)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Oculomotor findings showed no gaze abnormality for both groups. ANCOVA results showed a significant difference in saccade accuracy scores (p = 0.0001) and smooth pursuit gain (p = 0.02) between groups post-test (p = 0.011). The paired ttest showed that the saccade accuracy and smooth persuit gain scores achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.002), whereas those of the control group remained unchanged. ANCOVA revealed no significant difference for optokinetic parameters for both groups post-test (p > 0.05).",
+        "section": "Vestibular tests",
+        "section_number": 29,
+        "sentences": [
+            "Oculomotor findings showed no gaze abnormality for both groups.",
+            "ANCOVA results showed a significant difference in saccade accuracy scores (p = 0.0001) and smooth pursuit gain (p = 0.02) between groups post-test (p = 0.011).",
+            "The paired ttest showed that the saccade accuracy and smooth persuit gain scores achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.002), whereas those of the control group remained unchanged.",
+            "ANCOVA revealed no significant difference for optokinetic parameters for both groups post-test (p > 0.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "ANCOVA results showed a significant difference in balance scores between groups post-test (p = 0.011). The paired t-test showed that the balance score achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.002), whereas those of the control group remained unchanged.",
+        "section": "BOTMP test",
+        "section_number": 30,
+        "sentences": [
+            "ANCOVA results showed a significant difference in balance scores between groups post-test (p = 0.011).",
+            "The paired t-test showed that the balance score achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.002), whereas those of the control group remained unchanged."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "ANCOVA results showed a significant difference in the CRT percentage of correct trials and CRT mean latency scores between groups post-test ( Table 2 ). The paired t-test showed that the CRT percentage of correct trials achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.005), whereas those of the control group remained unchanged. The CRT mean latency scores were significantly prolonged post-test only in the intervention group (p = 0.012). Insignificant pre-test values difference (p = 0.061 for CRT percentage of correct trials and p = 0.755 for CRT mean latency) could be results of our randomization method used for the study.",
+        "section": "CRT test",
+        "section_number": 31,
+        "sentences": [
+            "ANCOVA results showed a significant difference in the CRT percentage of correct trials and CRT mean latency scores between groups post-test ( Table 2 ).",
+            "The paired t-test showed that the CRT percentage of correct trials achieved by the intervention group post-test were significantly improved from the pre-test scores (p = 0.005), whereas those of the control group remained unchanged.",
+            "The CRT mean latency scores were significantly prolonged post-test only in the intervention group (p = 0.012).",
+            "Insignificant pre-test values difference (p = 0.061 for CRT percentage of correct trials and p = 0.755 for CRT mean latency) could be results of our randomization method used for the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The results of ANCOVA revealed no significant difference for all SWM measured parameters (SWM total errors, strategy, and mean token-search preparation time) between groups posttest (p > 0.05; Table 3 ). The paired t-test results showed no improvement in all parameters from pre-test to post-test in both the intervention and control groups (p > 0.05). Insignificant pre-test values difference between two groups (p = 0.656 for SWM total errors, p = 0.752 for SWM strategy and p = 0.0765 for SWM mean token-search preparation time) could be results of our randomization method used for the study.",
+        "section": "SWM test",
+        "section_number": 32,
+        "sentences": [
+            "The results of ANCOVA revealed no significant difference for all SWM measured parameters (SWM total errors, strategy, and mean token-search preparation time) between groups posttest (p > 0.05; Table 3 ).",
+            "The paired t-test results showed no improvement in all parameters from pre-test to post-test in both the intervention and control groups (p > 0.05).",
+            "Insignificant pre-test values difference between two groups (p = 0.656 for SWM total errors, p = 0.752 for SWM strategy and p = 0.0765 for SWM mean token-search preparation time) could be results of our randomization method used for the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The results reveal that the vestibular rehabilitation program improved some aspects of balance function as well as cognitive performance in children with cADHD and concurrent vestibular impairment. Several studies have shown improvement in attention test scores after intervention in vestibular-impaired subjects with ADHD that suggest cognitive-vestibular interaction [11, 13, 14, 27] .",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "The results reveal that the vestibular rehabilitation program improved some aspects of balance function as well as cognitive performance in children with cADHD and concurrent vestibular impairment.",
+            "Several studies have shown improvement in attention test scores after intervention in vestibular-impaired subjects with ADHD that suggest cognitive-vestibular interaction [11, 13, 14, 27] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "Although there have been reports of cognitive improvement following exercise intervention programs in healthy adults [28, 29] and adults with various disorders [30, 31] , studies addressing children, especially those with cognitive impairment, are scarce. Chang et al. reported that acute aerobic exercise improved cognitive performance in children with ADHD. They postulated that the attention allocation to exercises influenced the dorsolateral prefrontal cortex and caused practice-induced dopamine release [32] . Pontifex et al. showed that a single 20min bout of exercise could improve attentional-control task performance in children with ADHD [33] . Mahon et al. showed positive results following exercise in attention and impulsivity behavior of 21 children with ADHD. They reported that a dose of exercise effectively improved neurocognitive improvement in these children [34] . Although, there are contradictory findings regarding the size effect of acute exercises on improvement of these children.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "Although there have been reports of cognitive improvement following exercise intervention programs in healthy adults [28, 29] and adults with various disorders [30, 31] , studies addressing children, especially those with cognitive impairment, are scarce.",
+            "Chang et al. reported that acute aerobic exercise improved cognitive performance in children with ADHD.",
+            "They postulated that the attention allocation to exercises influenced the dorsolateral prefrontal cortex and caused practice-induced dopamine release [32] .",
+            "Pontifex et al. showed that a single 20min bout of exercise could improve attentional-control task performance in children with ADHD [33] .",
+            "Mahon et al. showed positive results following exercise in attention and impulsivity behavior of 21 children with ADHD.",
+            "They reported that a dose of exercise effectively improved neurocognitive improvement in these children [34] .",
+            "Although, there are contradictory findings regarding the size effect of acute exercises on improvement of these children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The present study found out that vestibular exercise can improve attention to tasks, showing improvement in accuracy responses in children with ADHD. Reaction time was significantly prolonged in these children after receiving intervention. The most consistent finding in literature was the shorter reaction times and more errors in high impulsive subjects [35] . In the conceptualization of the construct of Impulsivity is included a tendency to act on the spur of the moment, and to make rapid decisions without considering the consequences. The item content in the Impulsiveness scale covers primarily this behavior characteristic, as well as lack of care. The reaction time results reflect rather well these selfreported behavioral tendencies of acting rapidly and not so cautiously [35] .",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "The present study found out that vestibular exercise can improve attention to tasks, showing improvement in accuracy responses in children with ADHD.",
+            "Reaction time was significantly prolonged in these children after receiving intervention.",
+            "The most consistent finding in literature was the shorter reaction times and more errors in high impulsive subjects [35] .",
+            "In the conceptualization of the construct of Impulsivity is included a tendency to act on the spur of the moment, and to make rapid decisions without considering the consequences.",
+            "The item content in the Impulsiveness scale covers primarily this behavior characteristic, as well as lack of care.",
+            "The reaction time results reflect rather well these selfreported behavioral tendencies of acting rapidly and not so cautiously [35] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "With respect to these findings, increasing of reaction time in children with combined ADHD who are mainly impulsive and inattentive in behavior, could be a sign of decreasing impulsivity after receiving treatment while doing the tests with less errors and more attention. This mainly could be the result of the utilization of more attentional resources during cognitive tasks. It was concluded that the VRT program used affected both voluntary and involuntary attention in children with ADHD following intervention. This was also reported by Prinzmetal et al. [36] . Because the subthalamic nucleus, a key structure within the basal ganglia [37] , has been reported to play an important role in reaction time accuracy in rats [38] , it was postulated that VRT could affect cognitive functioning in cADHD subjects reported to have some basal ganglia dysfunction [37] . No improvement was detected in spatial memory function in the subjects with cADHD and concurrent vestibular disorders following intervention. This could be related to additional hippocampal dysfunction in children with ADHD [39] , because the hippocampus has been shown to have an important function in spatial memory in human beings [40] . The role of central attention in the encoding and manipulation of information in working memory has been well documented [41] . The results of the present study suggest that vestibular rehabilitation programs accompanied by a cognitive therapy program over a longer period could improve memory function in children with cADHD and concurrent vestibular impairment.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "With respect to these findings, increasing of reaction time in children with combined ADHD who are mainly impulsive and inattentive in behavior, could be a sign of decreasing impulsivity after receiving treatment while doing the tests with less errors and more attention.",
+            "This mainly could be the result of the utilization of more attentional resources during cognitive tasks.",
+            "It was concluded that the VRT program used affected both voluntary and involuntary attention in children with ADHD following intervention.",
+            "This was also reported by Prinzmetal et al. [36] .",
+            "Because the subthalamic nucleus, a key structure within the basal ganglia [37] , has been reported to play an important role in reaction time accuracy in rats [38] , it was postulated that VRT could affect cognitive functioning in cADHD subjects reported to have some basal ganglia dysfunction [37] .",
+            "No improvement was detected in spatial memory function in the subjects with cADHD and concurrent vestibular disorders following intervention.",
+            "This could be related to additional hippocampal dysfunction in children with ADHD [39] , because the hippocampus has been shown to have an important function in spatial memory in human beings [40] .",
+            "The role of central attention in the encoding and manipulation of information in working memory has been well documented [41] .",
+            "The results of the present study suggest that vestibular rehabilitation programs accompanied by a cognitive therapy program over a longer period could improve memory function in children with cADHD and concurrent vestibular impairment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41803",
+        "text": "The results of the present study indicate that use of a vestibular test battery to determine the severity and site of lesions and development of an appropriate vestibular rehabilitation program based on the type of vestibular impairment can improve the cognitive abilities of children diagnosed with cADHD and concurrent vestibular impairment. Additional investigation is required to confirm the efficacy of VRT programs on cognitive functioning in children with cADHD.",
+        "section": "Conclusion",
+        "section_number": 37,
+        "sentences": [
+            "The results of the present study indicate that use of a vestibular test battery to determine the severity and site of lesions and development of an appropriate vestibular rehabilitation program based on the type of vestibular impairment can improve the cognitive abilities of children diagnosed with cADHD and concurrent vestibular impairment.",
+            "Additional investigation is required to confirm the efficacy of VRT programs on cognitive functioning in children with cADHD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

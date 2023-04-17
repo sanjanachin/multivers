@@ -1,0 +1,645 @@
+[
+    {
+        "doc_id": "42060",
+        "text": "Despite the tremendous achievement in reducing child mortality and morbidity in the last two decades, diarrhoea is still a major cause of morbidity and mortality among children in many developing countries, including Ethiopia. Hand washing with soap promotion, water quality improvements and improvements in excreta disposal significantly reduces diarrhoeal diseases. The objective of this study was to evaluate the effect of hand washing with soap and water, sanitation and hygiene (WASH) educational Intervention on the incidence of under-five children diarrhoea. A community-based cluster randomized controlled trial was conducted in 24 clusters (sub-Kebelles) in Jigjiga district, Somali region, Eastern Ethiopia from February 1 to July 30, 2015. The trial compared incidence of diarrhoea among under-five children whose primary caretakers receive hand washing with soap and water, sanitation, hygiene educational messages with control households. Generalized estimating equation with a log link function Poisson distribution family was used to compute adjusted incidence rate ratio and the corresponding 95% confidence interval. The results of this study show that the longitudinal adjusted incidence rate ratio (IRR) of diarrhoeal diseases comparing interventional and control households was 0.65 (95% CI 0.57, 0.73) suggesting an overall diarrhoeal diseases reduction of 35%. The results are similar to other trials of WASH educational interventions and hand washing with soap. In conclusion, hand washing with soap practice during critical times and WASH educational messages reduces childhood diarrhoea in the rural pastoralist area.",
+        "section": "Abstract",
+        "sentences": [
+            "Despite the tremendous achievement in reducing child mortality and morbidity in the last two decades, diarrhoea is still a major cause of morbidity and mortality among children in many developing countries, including Ethiopia.",
+            "Hand washing with soap promotion, water quality improvements and improvements in excreta disposal significantly reduces diarrhoeal diseases.",
+            "The objective of this study was to evaluate the effect of hand washing with soap and water, sanitation and hygiene (WASH) educational Intervention on the incidence of under-five children diarrhoea.",
+            "A community-based cluster randomized controlled trial was conducted in 24 clusters (sub-Kebelles) in Jigjiga district, Somali region, Eastern Ethiopia from February 1 to July 30, 2015.",
+            "The trial compared incidence of diarrhoea among under-five children whose primary caretakers receive hand washing with soap and water, sanitation, hygiene educational messages with control households.",
+            "Generalized estimating equation with a log link function Poisson distribution family was used to compute adjusted incidence rate ratio and the corresponding 95% confidence interval.",
+            "The results of this study show that the longitudinal adjusted incidence rate ratio (IRR) of diarrhoeal diseases comparing interventional and control households was 0.65 (95% CI 0.57, 0.73) suggesting an overall diarrhoeal diseases reduction of 35%.",
+            "The results are similar to other trials of WASH educational interventions and hand washing with soap.",
+            "In conclusion, hand washing with soap practice during critical times and WASH educational messages reduces childhood diarrhoea in the rural pastoralist area."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The deadline of the Millennium Development Goals (MDG) has just expired in 2015. The target for MDG 4 was to reduce the under-5 mortality rate by two-thirds between 1990 and 2015. This goal called for two-thirds reduction in mortality in children younger than five years between 1990 and 2015 (UN, 2000) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The deadline of the Millennium Development Goals (MDG) has just expired in 2015.",
+            "The target for MDG 4 was to reduce the under-5 mortality rate by two-thirds between 1990 and 2015.",
+            "This goal called for two-thirds reduction in mortality in children younger than five years between 1990 and 2015 (UN, 2000) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Since then, between 1990 and 2012, worldwide mortality in children younger than 5 years has declined by 47%, from an estimated rate of 90 deaths per 1000 live births to 48 deaths per 1000 live births. This translates into 17,000 fewer children dying every day in 2012 than in 1990 (WHO, 2015) . The 2014 report of the United Nations Inter-Agency Group for mortality estimated that under-five mortality decreased by 69% from 205 deaths per 1000 live births in 1990 to 64 in 2013, outpacing the MDG 4 target of a two-thirds reduction (Alkema et al., 2014) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Since then, between 1990 and 2012, worldwide mortality in children younger than 5 years has declined by 47%, from an estimated rate of 90 deaths per 1000 live births to 48 deaths per 1000 live births.",
+            "This translates into 17,000 fewer children dying every day in 2012 than in 1990 (WHO, 2015) .",
+            "The 2014 report of the United Nations Inter-Agency Group for mortality estimated that under-five mortality decreased by 69% from 205 deaths per 1000 live births in 1990 to 64 in 2013, outpacing the MDG 4 target of a two-thirds reduction (Alkema et al., 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "In Ethiopia between 2000 and 2016 under-five children mortality have decreased remarkably by 60% from an estimated rate of 166 to 67 deaths per 1000 live births (CSA and ICF, 2016) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "In Ethiopia between 2000 and 2016 under-five children mortality have decreased remarkably by 60% from an estimated rate of 166 to 67 deaths per 1000 live births (CSA and ICF, 2016) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "However, mortality rates for children under-five remains high. Recent evidence showed that 6.3 million children died before age 5 years in 2013. Among these, 51.8% (3.257 million) died of infectious causes. If present trends continue, 4.4 million children younger than 5 years will die in 2030. Furthermore, sub-Saharan Africa will have 33% of the births and 60% of the deaths in 2030, compared with 25% and 50% in 2013 respectively (Liu et al., 2015) . In Ethiopia, despite the sharp decrease in under-five mortality, regional variation exist within the country and Somali region has under-five mortality of 122 deaths per 1000 live births (CSA, 2012) .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "However, mortality rates for children under-five remains high.",
+            "Recent evidence showed that 6.3 million children died before age 5 years in 2013.",
+            "Among these, 51.8% (3.257 million) died of infectious causes.",
+            "If present trends continue, 4.4 million children younger than 5 years will die in 2030.",
+            "Furthermore, sub-Saharan Africa will have 33% of the births and 60% of the deaths in 2030, compared with 25% and 50% in 2013 respectively (Liu et al., 2015) .",
+            "In Ethiopia, despite the sharp decrease in under-five mortality, regional variation exist within the country and Somali region has under-five mortality of 122 deaths per 1000 live births (CSA, 2012) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Infectious diseases reductions significantly reduce childhood deaths. Reductions in pneumonia, diarrhoea, and measles collectively were responsible for half of the 3.6 million fewer deaths recorded in 2013 versus 2000 (Liu et al., 2015) .",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Infectious diseases reductions significantly reduce childhood deaths.",
+            "Reductions in pneumonia, diarrhoea, and measles collectively were responsible for half of the 3.6 million fewer deaths recorded in 2013 versus 2000 (Liu et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Childhood diarrhoea is the third leading cause of mortality in low income countries including Ethiopia, causing an estimated 1.4 million deaths in 2012 (WHO, 2015; Forouzanfar et al., 2015) . Young children are especially vulnerable, with diarrhoea accounting more than one quarter of all deaths in children aged under-five years in Africa and South East Asia (Murray et al., 2013; Lanata et al., 2013; Walker et al., 2013; Boschi-Pinto et al., 2008) .",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "Childhood diarrhoea is the third leading cause of mortality in low income countries including Ethiopia, causing an estimated 1.4 million deaths in 2012 (WHO, 2015; Forouzanfar et al., 2015) .",
+            "Young children are especially vulnerable, with diarrhoea accounting more than one quarter of all deaths in children aged under-five years in Africa and South East Asia (Murray et al., 2013; Lanata et al., 2013; Walker et al., 2013; Boschi-Pinto et al., 2008) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Diarrhoeal disease risk reductions of 48%, 17% and 36% is associated respectively with hand washing promotion, water quality improvements and improvements in excreta disposal (Cairncross et al., 2010) . WASH interventions averted 13% of childhood deaths in Ethiopia in 2011 (Doherty et al., 2016) .",
+        "section": "Introduction",
+        "section_number": 7,
+        "sentences": [
+            "Diarrhoeal disease risk reductions of 48%, 17% and 36% is associated respectively with hand washing promotion, water quality improvements and improvements in excreta disposal (Cairncross et al., 2010) .",
+            "WASH interventions averted 13% of childhood deaths in Ethiopia in 2011 (Doherty et al., 2016) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Water from improved source isn't always safe (WHO, 2012) and may be contaminated with pathogens during transportation and storage (WHO, 2007) . Estimates of the health impact of WASH interventions on under-five children are derived from interventions that promote or improve domestic services and practices in the environment (Cairncross et al., 2010) .",
+        "section": "Introduction",
+        "section_number": 8,
+        "sentences": [
+            "Water from improved source isn't always safe (WHO, 2012) and may be contaminated with pathogens during transportation and storage (WHO, 2007) .",
+            "Estimates of the health impact of WASH interventions on under-five children are derived from interventions that promote or improve domestic services and practices in the environment (Cairncross et al., 2010) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Moreover, hand washing with soap can reduce micro-organism level close to zero and can interrupt the transmission of faecal-oral microbes in the domestic environment (Kampf and Kramer, 2004; Sprunt et al., 1973) mainly through the mechanics of rubbing and rinsing (Sprunt et al., 1973; Lowbury et al., 1964) .",
+        "section": "Introduction",
+        "section_number": 9,
+        "sentences": [
+            "Moreover, hand washing with soap can reduce micro-organism level close to zero and can interrupt the transmission of faecal-oral microbes in the domestic environment (Kampf and Kramer, 2004; Sprunt et al., 1973) mainly through the mechanics of rubbing and rinsing (Sprunt et al., 1973; Lowbury et al., 1964) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The effect of hand washing with soap practices and WASH educational interventions on childhood diarrhoea in the rural settings of the Sub-Saharan Africa remains unexplored, although it was done in Asia three decades ago (Stanton and Clemens, 1987) . Interventional studies have covered the transfer of knowledge about proper hygiene but from school settings (Bowen et al., 2007; Blanton et al., 2010; Dreibelbis et al., 2014) .",
+        "section": "Introduction",
+        "section_number": 10,
+        "sentences": [
+            "The effect of hand washing with soap practices and WASH educational interventions on childhood diarrhoea in the rural settings of the Sub-Saharan Africa remains unexplored, although it was done in Asia three decades ago (Stanton and Clemens, 1987) .",
+            "Interventional studies have covered the transfer of knowledge about proper hygiene but from school settings (Bowen et al., 2007; Blanton et al., 2010; Dreibelbis et al., 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "We evaluated the effect of hand washing with soap practice and WASH educational intervention on childhood diarrhoeal diseases incidence in the rural pastoralist community settings of Somali region, Eastern Ethiopia.",
+        "section": "Introduction",
+        "section_number": 11,
+        "sentences": [
+            "We evaluated the effect of hand washing with soap practice and WASH educational intervention on childhood diarrhoeal diseases incidence in the rural pastoralist community settings of Somali region, Eastern Ethiopia."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The study protocols have been reviewed and approved by the Jigjiga University ethical review committee. Study consent was obtained from district administration, district health office and community leaders. Control clusters in the sub-Kebelle have received free books and pencils to support their children's education during the study period and after completion of the study, they were given the same health education sessions used in this study. Written consent was taken from the primary caretakers of the children.",
+        "section": "Ethics statement",
+        "section_number": 12,
+        "sentences": [
+            "The study protocols have been reviewed and approved by the Jigjiga University ethical review committee.",
+            "Study consent was obtained from district administration, district health office and community leaders.",
+            "Control clusters in the sub-Kebelle have received free books and pencils to support their children's education during the study period and after completion of the study, they were given the same health education sessions used in this study.",
+            "Written consent was taken from the primary caretakers of the children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The current study was conducted in the rural areas of Jigjiga district of Ethiopian-Somali Regional State (ESRS) in the Eastern Ethiopia from February 1 to July 30, 2015. The ESRS is one of the nine regional states that constitute the Federal Democratic Republic of Ethiopia. Pastoralism is a way of life whereby the livelihood of the people depends on raising livestock and living on its milk and meat (Montavon et al., 2013) . Nearly 90% of the population in ESRS resides in rural areas, leading either a pastoralist or agro-pastoralist lifestyle. Jigjiga district is one of the 68 districts of the region, part of Fafan zone, with a total population of 277,560 according to 2007 census conducted by the central statistical agency of Ethiopia of whom 149,292 are men and 128,268 women. A total of 34 Kebele is found in the district of which 4 are urban and 30 are rural Kebele in the Woreda (Fig. 1 ). Finally Jigjiga district was selected for the study because of acute watery diarrhoea outbreaks as reported by the Regional Health Bureau.",
+        "section": "Study setting",
+        "section_number": 13,
+        "sentences": [
+            "The current study was conducted in the rural areas of Jigjiga district of Ethiopian-Somali Regional State (ESRS) in the Eastern Ethiopia from February 1 to July 30, 2015.",
+            "The ESRS is one of the nine regional states that constitute the Federal Democratic Republic of Ethiopia.",
+            "Pastoralism is a way of life whereby the livelihood of the people depends on raising livestock and living on its milk and meat (Montavon et al., 2013) .",
+            "Nearly 90% of the population in ESRS resides in rural areas, leading either a pastoralist or agro-pastoralist lifestyle.",
+            "Jigjiga district is one of the 68 districts of the region, part of Fafan zone, with a total population of 277,560 according to 2007 census conducted by the central statistical agency of Ethiopia of whom 149,292 are men and 128,268 women.",
+            "A total of 34 Kebele is found in the district of which 4 are urban and 30 are rural Kebele in the Woreda (Fig. 1 ).",
+            "Finally Jigjiga district was selected for the study because of acute watery diarrhoea outbreaks as reported by the Regional Health Bureau."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The sample was calculated by using methods published by Hayes and Bennett (1999) . A recent study conducted in Eastern Ethiopia indicated disease rates for incidence of child diarrhoea among home based chlorine treatment intervention group of 4.5 episodes/ 100 person week observations (Mengistie et al., 2013) . Using this incidence, along with 80% power and 95% confidence interval, we randomly selected a final sample of 24 clusters (12 for the intervention group and 12 for the control group) with 50 children of under-five in each cluster.",
+        "section": "Sample size determination",
+        "section_number": 14,
+        "sentences": [
+            "The sample was calculated by using methods published by Hayes and Bennett (1999) .",
+            "A recent study conducted in Eastern Ethiopia indicated disease rates for incidence of child diarrhoea among home based chlorine treatment intervention group of 4.5 episodes/ 100 person week observations (Mengistie et al., 2013) .",
+            "Using this incidence, along with 80% power and 95% confidence interval, we randomly selected a final sample of 24 clusters (12 for the intervention group and 12 for the control group) with 50 children of under-five in each cluster."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "A community-based cluster randomized controlled trial was employed. The study groups were divided into two: clusters that received intervention and control clusters. Only rural communities of the district were selected for the study. A household was considered eligible for the study if the following criteria are met: a) at least one child aged 1-59 months living in the home and b) not a model health extension household. Households that successfully implement all components of the 16 packages of the Health Extension Program (HEP) are officially certified as a Model Health Extension Household (Teklehaimanot et al., 2007) . This trial excludes all model Health Extension households to avoid biases due to a competing intervention.",
+        "section": "Study design and eligibility criteria",
+        "section_number": 15,
+        "sentences": [
+            "A community-based cluster randomized controlled trial was employed.",
+            "The study groups were divided into two: clusters that received intervention and control clusters.",
+            "Only rural communities of the district were selected for the study.",
+            "A household was considered eligible for the study if the following criteria are met: a) at least one child aged 1-59 months living in the home and b) not a model health extension household.",
+            "Households that successfully implement all components of the 16 packages of the Health Extension Program (HEP) are officially certified as a Model Health Extension Household (Teklehaimanot et al., 2007) .",
+            "This trial excludes all model Health Extension households to avoid biases due to a competing intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Kebelle is the smallest administrative unit in Ethiopia consisting of at least 500 households, or the equivalent of 3500 to 4000 persons (FMOH, 2007) . The Kebelle is further divided into sub-Kebelles (neighbourhood villages). A Final count of 14 Kebelle was eligible for the study. These eligible Kebelles for the study located north and south of Jigjiga City i.e., 5 North (22 sub-Kebelles) and 9 South (34 sub-Kebelles). Eligible Kebelles in the north and south were assigned randomly to intervention and control groups respectively by using lottery method in the presence of community leaders, Kebele heads and representative from the district health office and Regional Health Bureau to avoid study contamination by geographically separating the region of the intervention from the control region. Twenty-four Sub-Kebelles were then randomly selected from the 56 total sub-Kebelles by using simple randomization (computer generated numbers). From 22 sub-Kebelles, 12 were selected randomly and assigned to the Intervention group. From 34 sub-Kebelles, 12 were selected randomly and assigned to the control group (Fig. 2) .",
+        "section": "Randomization and masking",
+        "section_number": 16,
+        "sentences": [
+            "Kebelle is the smallest administrative unit in Ethiopia consisting of at least 500 households, or the equivalent of 3500 to 4000 persons (FMOH, 2007) .",
+            "The Kebelle is further divided into sub-Kebelles (neighbourhood villages).",
+            "A Final count of 14 Kebelle was eligible for the study.",
+            "These eligible Kebelles for the study located north and south of Jigjiga City i.e., 5 North (22 sub-Kebelles) and 9 South (34 sub-Kebelles).",
+            "Eligible Kebelles in the north and south were assigned randomly to intervention and control groups respectively by using lottery method in the presence of community leaders, Kebele heads and representative from the district health office and Regional Health Bureau to avoid study contamination by geographically separating the region of the intervention from the control region.",
+            "Twenty-four Sub-Kebelles were then randomly selected from the 56 total sub-Kebelles by using simple randomization (computer generated numbers).",
+            "From 22 sub-Kebelles, 12 were selected randomly and assigned to the Intervention group.",
+            "From 34 sub-Kebelles, 12 were selected randomly and assigned to the control group (Fig. 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "42060",
+        "text": "Neither the community (both control and intervention group) nor the field workers knew the intervention purpose. The follow up study started on February 1, 2015 and ended July 30, 2015.",
+        "section": "Randomization and masking",
+        "section_number": 17,
+        "sentences": [
+            "Neither the community (both control and intervention group) nor the field workers knew the intervention purpose.",
+            "The follow up study started on February 1, 2015 and ended July 30, 2015."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Twelve sessions of health education on key WASH messages and demonstration of hand washing with soap were given to all of the intervention clusters by clinical nurse professionals (field workers) who have taken training for 10 days. Primary care takers of the children in the households were instructed to keep their water storage container clean and covered, to have a latrine and utilize properly, and to wash their hands and children's hands ideally with soap after defecation, before meal preparation and eating.",
+        "section": "Intervention",
+        "section_number": 18,
+        "sentences": [
+            "Twelve sessions of health education on key WASH messages and demonstration of hand washing with soap were given to all of the intervention clusters by clinical nurse professionals (field workers) who have taken training for 10 days.",
+            "Primary care takers of the children in the households were instructed to keep their water storage container clean and covered, to have a latrine and utilize properly, and to wash their hands and children's hands ideally with soap after defecation, before meal preparation and eating."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The field workers arranged cluster (Sub-Kebelle) meetings for each cluster to illustrate the pamphlets, show health problems resulting from hand and water contamination and showed specific instruction on how to use the intervention assigned to the cluster. Intervention happened every 2 weeks in a period of 6 months follow up. Each intervention took up to 3-hour time from 4:00 pm to 7:00 pm local time since most village residents were available in late afternoon.",
+        "section": "Intervention",
+        "section_number": 19,
+        "sentences": [
+            "The field workers arranged cluster (Sub-Kebelle) meetings for each cluster to illustrate the pamphlets, show health problems resulting from hand and water contamination and showed specific instruction on how to use the intervention assigned to the cluster.",
+            "Intervention happened every 2 weeks in a period of 6 months follow up.",
+            "Each intervention took up to 3-hour time from 4:00 pm to 7:00 pm local time since most village residents were available in late afternoon."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "All households in the intervention clusters received a package of health education messages and soap (white bars). The field workers demonstrated by face to face approach how to wet their hands, lather them completely with soap, and rub together for 1 min. The other key messages were provided by using loudspeaker (Megaphone) at one time in each visit at the respective cluster location.",
+        "section": "Intervention",
+        "section_number": 20,
+        "sentences": [
+            "All households in the intervention clusters received a package of health education messages and soap (white bars).",
+            "The field workers demonstrated by face to face approach how to wet their hands, lather them completely with soap, and rub together for 1 min.",
+            "The other key messages were provided by using loudspeaker (Megaphone) at one time in each visit at the respective cluster location."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Primary care takers of the control group continued their way of hand washing practices, disposal of water storage behaviour and latrine sanitation. After the completion of the study they were given the same educational intervention used in this study. Table 1 illustrates key messages and interventions used in this study.",
+        "section": "Intervention",
+        "section_number": 21,
+        "sentences": [
+            "Primary care takers of the control group continued their way of hand washing practices, disposal of water storage behaviour and latrine sanitation.",
+            "After the completion of the study they were given the same educational intervention used in this study.",
+            "Table 1 illustrates key messages and interventions used in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The primary outcome was longitudinal incidence of diarrhoea. In this study diarrhoea is defined as the passage of three or more liquid or semi-liquid stools in a 24-hour period or the passage of at least one liquid or semi-liquid stool with blood or mucus (Baqui et al., 1991) . This definition of diarrhoea was being instructed to the primary care takers by the data collectors. Primary care takers were also instructed to follow the child and report diarrhoea in the previous two weeks. Twenty-four data collectors (field workers) visited intervention and control households in every 2 weeks period (12 visits). At each visit, occurrence of diarrhoea (episodes of diarrhoea) over the previous two weeks was recorded by the data collectors for all under-five children based on the primary care taker report. The secondary outcome was bacteriological quality of drinking water at household level. Water samples (100 ml) were collected from all households' drinking water storage container by asking the primary care takers to provide water from the containers for the researchers. The guideline of WHO for drinking water quality assessment was used as a method of water sample collection at each household (WHO, 2004) . The collected water samples from each source was labelled and kept in icebox during transportation and analysed in the laboratory. All collected samples were analysed for the presence of faecal coliform.",
+        "section": "Data collection and outcome assessment",
+        "section_number": 22,
+        "sentences": [
+            "The primary outcome was longitudinal incidence of diarrhoea.",
+            "In this study diarrhoea is defined as the passage of three or more liquid or semi-liquid stools in a 24-hour period or the passage of at least one liquid or semi-liquid stool with blood or mucus (Baqui et al., 1991) .",
+            "This definition of diarrhoea was being instructed to the primary care takers by the data collectors.",
+            "Primary care takers were also instructed to follow the child and report diarrhoea in the previous two weeks.",
+            "Twenty-four data collectors (field workers) visited intervention and control households in every 2 weeks period (12 visits).",
+            "At each visit, occurrence of diarrhoea (episodes of diarrhoea) over the previous two weeks was recorded by the data collectors for all under-five children based on the primary care taker report.",
+            "The secondary outcome was bacteriological quality of drinking water at household level.",
+            "Water samples (100 ml) were collected from all households' drinking water storage container by asking the primary care takers to provide water from the containers for the researchers.",
+            "The guideline of WHO for drinking water quality assessment was used as a method of water sample collection at each household (WHO, 2004) .",
+            "The collected water samples from each source was labelled and kept in icebox during transportation and analysed in the laboratory.",
+            "All collected samples were analysed for the presence of faecal coliform."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "A baseline survey was conducted on primary care takers, children, environmental characteristics and pre-intervention diarrhoea prevalence rates by using questionnaire.",
+        "section": "Data collection and outcome assessment",
+        "section_number": 23,
+        "sentences": [
+            "A baseline survey was conducted on primary care takers, children, environmental characteristics and pre-intervention diarrhoea prevalence rates by using questionnaire."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The data was cross checked by the field supervisors on a visit basis. Prior to data entry, base line and follow up visit data forms were checked for completeness and consistence. Data was double entered on to EPI data Version 3.5.3 and statistical analysis was performed by using SPSS version 20. Intention-to-treat analysis was used to compare the incidence of diarrhoea among under-five children between intervention and control arms.",
+        "section": "Data analysis",
+        "section_number": 24,
+        "sentences": [
+            "The data was cross checked by the field supervisors on a visit basis.",
+            "Prior to data entry, base line and follow up visit data forms were checked for completeness and consistence.",
+            "Data was double entered on to EPI data Version 3.5.3 and statistical analysis was performed by using SPSS version 20.",
+            "Intention-to-treat analysis was used to compare the incidence of diarrhoea among under-five children between intervention and control arms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The baseline data was analysed and compared among the intervention and control group. The rate of diarrhoea (per 100 person-weeks) in children under-five years of age was measured for the intervention and control communities. Generalized estimating equation (Zeger and Liang, 1986) with log link Poisson distribution family was used to compute adjusted incidence rate ratio and the corresponding 95% confidence interval of the dependent variable (longitudinal incidence of diarrhoea) and co-variates. For the water quality, water samples were analysed for the presence of faecal coliforms and compared among the intervention and control communities.",
+        "section": "Data analysis",
+        "section_number": 25,
+        "sentences": [
+            "The baseline data was analysed and compared among the intervention and control group.",
+            "The rate of diarrhoea (per 100 person-weeks) in children under-five years of age was measured for the intervention and control communities.",
+            "Generalized estimating equation (Zeger and Liang, 1986) with log link Poisson distribution family was used to compute adjusted incidence rate ratio and the corresponding 95% confidence interval of the dependent variable (longitudinal incidence of diarrhoea) and co-variates.",
+            "For the water quality, water samples were analysed for the presence of faecal coliforms and compared among the intervention and control communities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "At baseline assessment 612 households were interviewed in January 15-25, 2015. The household, primary care takers, children and environmental characteristics were generally similar across intervention and control households and well balanced. The number of households and children per cluster were 25 and 50 respectively. The mean age of the mothers/caretakers was 28.5 for the intervention group and 29.7 for the control group and for the children 21.3 and 21.5 months in the intervention and control respectively. Pre-intervention two week diarrhoea prevalence was 26.5% for the control households and 23.2% for the intervention households (Table 2) ).",
+        "section": "Baseline characteristics",
+        "section_number": 26,
+        "sentences": [
+            "At baseline assessment 612 households were interviewed in January 15-25, 2015.",
+            "The household, primary care takers, children and environmental characteristics were generally similar across intervention and control households and well balanced.",
+            "The number of households and children per cluster were 25 and 50 respectively.",
+            "The mean age of the mothers/caretakers was 28.5 for the intervention group and 29.7 for the control group and for the children 21.3 and 21.5 months in the intervention and control respectively.",
+            "Pre-intervention two week diarrhoea prevalence was 26.5% for the control households and 23.2% for the intervention households (Table 2) )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The incidence of diarrhoea was significantly lower among underfive children from the intervention households. From the control arm 905 occurrences (episodes) of diarrhoea (6.3 episodes per 100 personweeks observation) were reported. Intervention households reported 594 episodes (4.1 episodes per 100 person-weeks observation) ( Table 3) . Sharp decrease of diarrhoea episodes per week among intervention households was observed during the course of this study. Fig. 3 shows the number of diarrhoea occurrence and the visit week.",
+        "section": "Longitudinal incidence of diarrhoea",
+        "section_number": 27,
+        "sentences": [
+            "The incidence of diarrhoea was significantly lower among underfive children from the intervention households.",
+            "From the control arm 905 occurrences (episodes) of diarrhoea (6.3 episodes per 100 personweeks observation) were reported.",
+            "Intervention households reported 594 episodes (4.1 episodes per 100 person-weeks observation) ( Table 3) .",
+            "Sharp decrease of diarrhoea episodes per week among intervention households was observed during the course of this study.",
+            "Fig. 3 shows the number of diarrhoea occurrence and the visit week."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "In both interventional and control households, in the follow up duration, the longitudinal episodes of diarrhoea was higher in children b -12 months. The reduction of diarrhoea episodes for all age group in the follow up duration between the control and intervention households is shown in Fig. 4 .",
+        "section": "Longitudinal incidence of diarrhoea",
+        "section_number": 28,
+        "sentences": [
+            "In both interventional and control households, in the follow up duration, the longitudinal episodes of diarrhoea was higher in children b -12 months.",
+            "The reduction of diarrhoea episodes for all age group in the follow up duration between the control and intervention households is shown in Fig. 4 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "There is a significant difference between the intervention and control households in the base-line and end-line water contamination. At base-line nearly 31% of the water was contaminated from the intervention households but in the end line assessment only 11% were contaminated from the intervention households (Table 4) .",
+        "section": "Household drinking water quality",
+        "section_number": 29,
+        "sentences": [
+            "There is a significant difference between the intervention and control households in the base-line and end-line water contamination.",
+            "At base-line nearly 31% of the water was contaminated from the intervention households but in the end line assessment only 11% were contaminated from the intervention households (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Generalized estimating equation using log link function was used to control confounding factors that might have contributed to the incidence of diarrhoeal diseases. Socio-demographic characteristics, child, maternal factors and WASH related factors were checked if there is an association with the incidence of diarrhoea. The result shows that only the intervention contributes to the reduction of diarrhoea in the study area. See Table 5 .",
+        "section": "Multivariable analysis of intervention effect",
+        "section_number": 30,
+        "sentences": [
+            "Generalized estimating equation using log link function was used to control confounding factors that might have contributed to the incidence of diarrhoeal diseases.",
+            "Socio-demographic characteristics, child, maternal factors and WASH related factors were checked if there is an association with the incidence of diarrhoea.",
+            "The result shows that only the intervention contributes to the reduction of diarrhoea in the study area.",
+            "See Table 5 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The study assessed effect of hand washing with soap and WASH educational interventions on the incidence of childhood diarrhoea in the rural settings of Somali region. The study shown 35% reduction (RR = 0.65; 95% CI 0.57,0.73) in diarrhoeal diseases for households who practiced hand washing with soap and the WASH key messages compared to control households that were given no intervention. The result of the study is supporting one another. When exposure of continuous health education session was given consistently in six months period, longitudinal incidence of under-five children diarrhoea has decreased by 35%. The importance of WASH educational interventions is stressed by reports that show that improvements in water supply in terms of quantity and quality and physical facilities for excreta disposal without adequate behavioural change among the target community alone would not change the prevalence of diarrhoeal diseases (Brown et al., 2013) .",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "The study assessed effect of hand washing with soap and WASH educational interventions on the incidence of childhood diarrhoea in the rural settings of Somali region.",
+            "The study shown 35% reduction (RR = 0.65; 95% CI 0.57,0.73) in diarrhoeal diseases for households who practiced hand washing with soap and the WASH key messages compared to control households that were given no intervention.",
+            "The result of the study is supporting one another.",
+            "When exposure of continuous health education session was given consistently in six months period, longitudinal incidence of under-five children diarrhoea has decreased by 35%.",
+            "The importance of WASH educational interventions is stressed by reports that show that improvements in water supply in terms of quantity and quality and physical facilities for excreta disposal without adequate behavioural change among the target community alone would not change the prevalence of diarrhoeal diseases (Brown et al., 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Although our study didn't compare effect of each intervention on the overall reduction, we believe that the WASH educational messages also led to behavioural changes among the target group which together reduced diarrhoeal diseases. Our result suggests the assumption that it was those combinations of hand washing with soap and key health education on WASH factors that reduced the incidence of diarrhoea on a weekly base as field workers continue visiting and instructing intervention households.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "Although our study didn't compare effect of each intervention on the overall reduction, we believe that the WASH educational messages also led to behavioural changes among the target group which together reduced diarrhoeal diseases.",
+            "Our result suggests the assumption that it was those combinations of hand washing with soap and key health education on WASH factors that reduced the incidence of diarrhoea on a weekly base as field workers continue visiting and instructing intervention households."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "The result was consistent with other similar studies interventional study done on the subject WASH interventions (Blanton et al., 2010; Bowen et al., 2007; Luby et al., 2005; Luby et al., 2006; Freeman et al., 2012; Han and Hlaing, 1989; Aiello et al., 2008) .",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "The result was consistent with other similar studies interventional study done on the subject WASH interventions (Blanton et al., 2010; Bowen et al., 2007; Luby et al., 2005; Luby et al., 2006; Freeman et al., 2012; Han and Hlaing, 1989; Aiello et al., 2008) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Limitation of this study includes randomization at the Sub-Kebelle level which resulted in a small number of clusters but the result can still be compared to other studies of WASH education and hand washing interventions. Table 4 Household drinking water quality among intervention and control households at the base line and end line of the intervention: Jigjiga district, Somali Region, Eastern Ethiopia, 2015.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "Limitation of this study includes randomization at the Sub-Kebelle level which resulted in a small number of clusters but the result can still be compared to other studies of WASH education and hand washing interventions.",
+            "Table 4 Household drinking water quality among intervention and control households at the base line and end line of the intervention: Jigjiga district, Somali Region, Eastern Ethiopia, 2015."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "42060",
+        "text": "Control Intervention P value Base line 97 (31.7) 94 (30.7) 0.79 After study completion 142 (46.4) 33 (10.8) b0.01 Table 5 Multivariable analysis of intervention effect on the incidence of diarrhoeal among under-Five children, GEE using log link function: Jigjiga district, Somali Region, Eastern Ethiopia, 2015.",
+        "section": "E. coli presence in the drinking water",
+        "section_number": 35,
+        "sentences": [
+            "Control Intervention P value Base line 97 (31.7) 94 (30.7) 0.79 After study completion 142 (46.4) 33 (10.8) b0.01 Table 5 Multivariable analysis of intervention effect on the incidence of diarrhoeal among under-Five children, GEE using log link function: Jigjiga district, Somali Region, Eastern Ethiopia, 2015."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

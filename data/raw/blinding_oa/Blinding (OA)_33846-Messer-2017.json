@@ -1,0 +1,519 @@
+[
+    {
+        "doc_id": "33846",
+        "text": "Overnight predictive low glucose suspend (PLGS) reduces hypoglycemia across all ages; however, there are no reports on behavior or experience differences across age groups, especially in pediatrics. As run-in for a subsequent randomized clinical trial (RCT), 127 subjects (50% male) ages 4-45 yo utilized the experimental PLGS system nightly for 5-10 nights (PLGS Active phase). We analyzed the number of blood glucose (BG) checks and boluses given per age group. During the subsequent 42 night RCT phase, we analyzed sensor use, skin reactions, errors, and reasons why the experimental system was not used. In 821 nights of Active PLGS, subjects ages 4-6 yo (and their parents) tested BG levels 75% of nights compared with 65% of nights (7-10 yo), 53% of nights (11-14 yo), 33% of nights (15-25 yo) and 28% of nights (26-45 yo), respectively (P<0.001). Likewise, youngest subjects (and parents) administered insulin boluses 56% of nights during Active PLGS use compared to 48%, 33%, 20%, and 25% respectively (P<0.001). This was unrelated to study requirements. During the RCT phase, subjects 4-6 yo experienced more frequent and severe skin reactions (P=0.02), while adult subjects (26-45 yo) wore individual sensors a median of 26 hours longer than the youngest subjects (P<0.001). Technical problems with the sensor (errors, miscalibrations, etc.), traveling, and BG levels >270 at bedtime (study requirement) were primary contributors to non-system use. Understanding the different use patterns and challenges in pediatrics and adolescence is needed to direct patient education to optimize use of PLGS and future artificial pancreas systems.",
+        "section": "Abstract",
+        "sentences": [
+            "Overnight predictive low glucose suspend (PLGS) reduces hypoglycemia across all ages; however, there are no reports on behavior or experience differences across age groups, especially in pediatrics.",
+            "As run-in for a subsequent randomized clinical trial (RCT), 127 subjects (50% male) ages 4-45 yo utilized the experimental PLGS system nightly for 5-10 nights (PLGS Active phase).",
+            "We analyzed the number of blood glucose (BG) checks and boluses given per age group.",
+            "During the subsequent 42 night RCT phase, we analyzed sensor use, skin reactions, errors, and reasons why the experimental system was not used.",
+            "In 821 nights of Active PLGS, subjects ages 4-6 yo (and their parents) tested BG levels 75% of nights compared with 65% of nights (7-10 yo), 53% of nights (11-14 yo), 33% of nights (15-25 yo) and 28% of nights (26-45 yo), respectively (P<0.001).",
+            "Likewise, youngest subjects (and parents) administered insulin boluses 56% of nights during Active PLGS use compared to 48%, 33%, 20%, and 25% respectively (P<0.001).",
+            "This was unrelated to study requirements.",
+            "During the RCT phase, subjects 4-6 yo experienced more frequent and severe skin reactions (P=0.02), while adult subjects (26-45 yo) wore individual sensors a median of 26 hours longer than the youngest subjects (P<0.001).",
+            "Technical problems with the sensor (errors, miscalibrations, etc.),",
+            "traveling, and BG levels >270 at bedtime (study requirement) were primary contributors to non-system use.",
+            "Understanding the different use patterns and challenges in pediatrics and adolescence is needed to direct patient education to optimize use of PLGS and future artificial pancreas systems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Artificial pancreas (AP) technologies continue to develop for the treatment of type 1 diabetes (T1D). Internationally, two technological milestones in the AP pathway have been commercialized, aiming to reduce significant and prolonged hypoglycemia: low glucose suspend (LGS) and predictive low glucose suspend (PLGS) systems 1 . We have developed a Kalman-filter based predictive algorithm designed primarily to prevent hypoglycemia. The algorithm has been tested in a number of clinical trials, and has demonstrated a significant reduction in hypoglycemia with no increase in ketosis [2] [3] [4] [5] [6] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Artificial pancreas (AP) technologies continue to develop for the treatment of type 1 diabetes (T1D).",
+            "Internationally, two technological milestones in the AP pathway have been commercialized, aiming to reduce significant and prolonged hypoglycemia: low glucose suspend (LGS) and predictive low glucose suspend (PLGS) systems 1 .",
+            "We have developed a Kalman-filter based predictive algorithm designed primarily to prevent hypoglycemia.",
+            "The algorithm has been tested in a number of clinical trials, and has demonstrated a significant reduction in hypoglycemia with no increase in ketosis [2] [3] [4] [5] [6] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "As PLGS and AP systems appear to be safe and effective at reducing nocturnal hypoglycemia 2, 3, [6] [7] [8] , the usability of the system becomes a critical aspect, especially in pediatrics. In clinical care, the individual components of AP systems (insulin pumps and CGMs) have variable uptake. T1D Exchange Registry data show an overall 60% use of insulin pumps (63%-74% in very young children), whereas CGM is used by only 11% of patients overall with the least use in adolescents 13-17 years old [9] [10] [11] . Perceived barriers to CGM use include insertion pain, system alarms, accuracy, body \"real estate\" issues, and need to change behaviors 12 .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "As PLGS and AP systems appear to be safe and effective at reducing nocturnal hypoglycemia 2, 3, [6] [7] [8] , the usability of the system becomes a critical aspect, especially in pediatrics.",
+            "In clinical care, the individual components of AP systems (insulin pumps and CGMs) have variable uptake.",
+            "T1D Exchange Registry data show an overall 60% use of insulin pumps (63%-74% in very young children), whereas CGM is used by only 11% of patients overall with the least use in adolescents 13-17 years old [9] [10] [11] .",
+            "Perceived barriers to CGM use include insertion pain, system alarms, accuracy, body \"real estate\" issues, and need to change behaviors 12 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "AP technologies may not be universally accepted or tolerated by all patients with T1D, and little is known as to who will adopt these systems and what factors may impact uptake. Neylon et al. has developed a questionnaire based tool that may successfully predict long term success in using CGM and CSII 13 , however there is a paucity of data related to usability of PLGS and AP systems. Barnard reported on human factors associated with closed loop overnight control in adults and adolescents and found positive themes of glucose improvement, reduction of worry, \"time off\" from diabetes control, and improved sleep. Negative themes included technical difficulties, calibration frustration, and intrusive alarms 14, 15 . A report on LGS with the Enlite sensor describes practical clinical pearls including lean children placing sensors in the arm or thigh, wearing insulin pump on the same side as CGM transmitter, and increased user satisfaction when LGS was set to 54 mg/dl compared with 60 mg/dl 16 . There are no reports on how PLGS systems are used in an outpatient setting, and how the experience fluctuates among different age groups.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "AP technologies may not be universally accepted or tolerated by all patients with T1D, and little is known as to who will adopt these systems and what factors may impact uptake.",
+            "Neylon et al. has developed a questionnaire based tool that may successfully predict long term success in using CGM and CSII 13 , however there is a paucity of data related to usability of PLGS and AP systems.",
+            "Barnard reported on human factors associated with closed loop overnight control in adults and adolescents and found positive themes of glucose improvement, reduction of worry, \"time off\" from diabetes control, and improved sleep.",
+            "Negative themes included technical difficulties, calibration frustration, and intrusive alarms 14, 15 .",
+            "A report on LGS with the Enlite sensor describes practical clinical pearls including lean children placing sensors in the arm or thigh, wearing insulin pump on the same side as CGM transmitter, and increased user satisfaction when LGS was set to 54 mg/dl compared with 60 mg/dl 16 .",
+            "There are no reports on how PLGS systems are used in an outpatient setting, and how the experience fluctuates among different age groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The goal of this report is to describe in-home patient experience with a prototype PLGS and to compare system use across five age groups: young children ages 4-6 (n=14), school aged children ages 7-10 (n=23), preadolescents ages 11-14 (n=45), young adults ages 15-25 (n=15), and adults ages 26-45 (n=30). Although not a commercial system, this first report of such data will lend important insights into future adoptability of AP technologies into clinical care.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The goal of this report is to describe in-home patient experience with a prototype PLGS and to compare system use across five age groups: young children ages 4-6 (n=14), school aged children ages 7-10 (n=23), preadolescents ages 11-14 (n=45), young adults ages 15-25 (n=15), and adults ages 26-45 (n=30).",
+            "Although not a commercial system, this first report of such data will lend important insights into future adoptability of AP technologies into clinical care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The study was conducted at three clinical centers. The study protocols were approved by each Institutional Review Board, and informed consent and assent were obtained as appropriate. The protocols are described in recently published articles 2 and listed on the ClinicalTrials.gov website (clinical trial registration numbers NCT01591681 and NCT01823341); key aspects of the study protocols are described below.",
+        "section": "Methods",
+        "section_number": 5,
+        "sentences": [
+            "The study was conducted at three clinical centers.",
+            "The study protocols were approved by each Institutional Review Board, and informed consent and assent were obtained as appropriate.",
+            "The protocols are described in recently published articles 2 and listed on the ClinicalTrials.gov website (clinical trial registration numbers NCT01591681 and NCT01823341); key aspects of the study protocols are described below."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Major eligibility criteria included having T1D with use of daily insulin therapy for \u22651 year and use of insulin infusion pump for \u22656 months. Adults 15-45 years old and children 4-14 years old required a hemoglobin A1c (HbA1c) level of \u22648.0% and \u22648.5%, respectively, at enrollment.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "Major eligibility criteria included having T1D with use of daily insulin therapy for \u22651 year and use of insulin infusion pump for \u22656 months.",
+            "Adults 15-45 years old and children 4-14 years old required a hemoglobin A1c (HbA1c) level of \u22648.0% and \u22648.5%, respectively, at enrollment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The study system utilized the Medtronic Veo insulin pump with Enlite 2 sensor. The low glucose suspend feature built into the Veo pump was turned off at all times. The PLGS algorithm (which was not designed by Medtronic) was a Kalman-filter based algorithm, mounted on a laptop computer platform which was set up bedside each night. The subjects would activate the system on the laptop computer before bed, have to communicate by radio frequency to their insulin pump overnight, and turn off the PLGS system in the morning.",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "The study system utilized the Medtronic Veo insulin pump with Enlite 2 sensor.",
+            "The low glucose suspend feature built into the Veo pump was turned off at all times.",
+            "The PLGS algorithm (which was not designed by Medtronic) was a Kalman-filter based algorithm, mounted on a laptop computer platform which was set up bedside each night.",
+            "The subjects would activate the system on the laptop computer before bed, have to communicate by radio frequency to their insulin pump overnight, and turn off the PLGS system in the morning."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The study consisted of three phases: a CGM run-in, PLGS active phase, and randomized phase. Participants used the CGM for 10-15 days during the CGM run-in phase to document a minimum amount of nocturnal hypoglycemia, defined as at least 1 night with a sensor glucose value of \u226460 mg/dL or at least 3 nights with a sensor glucose value of \u226470 mg/dL. Participants who met these criteria then used the PLGS system for 5-10 nights during the PLGS active phase to familiarize themselves with the PLGS system. During this period, the PLGS system was active every night. During the randomized phase, patients used the PLGS system until 42 nights with at least 4 hours of sensor glucose data were completed, with half the nights randomly assigned to be an intervention night and half control nights. Patients were masked to algorithm activation. To activate the system, subjects had to enter a blood glucose value between 90 and 270 mg/dL into the system. While the system was being used overnight, subjects were not instructed with any treatment recommendations or limitations other than to refrain from using temporary basal rates overnight. They were free to test blood glucose levels or deliver insulin boluses as desired. Patients were instructed not to use the system during periods of illness or travel. They were also instructed to change their sensor after 6 days of wear.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "The study consisted of three phases: a CGM run-in, PLGS active phase, and randomized phase.",
+            "Participants used the CGM for 10-15 days during the CGM run-in phase to document a minimum amount of nocturnal hypoglycemia, defined as at least 1 night with a sensor glucose value of \u226460 mg/dL or at least 3 nights with a sensor glucose value of \u226470 mg/dL. Participants who met these criteria then used the PLGS system for 5-10 nights during the PLGS active phase to familiarize themselves with the PLGS system.",
+            "During this period, the PLGS system was active every night.",
+            "During the randomized phase, patients used the PLGS system until 42 nights with at least 4 hours of sensor glucose data were completed, with half the nights randomly assigned to be an intervention night and half control nights.",
+            "Patients were masked to algorithm activation.",
+            "To activate the system, subjects had to enter a blood glucose value between 90 and 270 mg/dL into the system.",
+            "While the system was being used overnight, subjects were not instructed with any treatment recommendations or limitations other than to refrain from using temporary basal rates overnight.",
+            "They were free to test blood glucose levels or deliver insulin boluses as desired.",
+            "Patients were instructed not to use the system during periods of illness or travel.",
+            "They were also instructed to change their sensor after 6 days of wear."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Two separate datasets from the study periods described above were used for analyses. \"PLGS Active Phase Dataset\" was used to assess subject behavior when using the active PLGS system. This included the number of BG checks and boluses over 24 hours and per overnight period, and insulin on board (IOB) at system activation. This dataset included 844 nights, with 23 excluded because they contained <4 hours of data (821 nights). During these nights the participants were aware that the PLGS system was activated every night and acted accordingly. The \"Randomized Dataset\" includes data only from the randomized clinical trial portion of the study, when the participants did not know if the PLGS system was active or inactive on any given night (5,613 nights). This dataset was analyzed for patient experiences including skin irritation around the sensor, length of sensor wear, nights with a sensor error alarm, and reasons for not using the system.",
+        "section": "Methods",
+        "section_number": 9,
+        "sentences": [
+            "Two separate datasets from the study periods described above were used for analyses. \"",
+            "PLGS Active Phase Dataset\" was used to assess subject behavior when using the active PLGS system.",
+            "This included the number of BG checks and boluses over 24 hours and per overnight period, and insulin on board (IOB) at system activation.",
+            "This dataset included 844 nights, with 23 excluded because they contained <4 hours of data (821 nights).",
+            "During these nights the participants were aware that the PLGS system was activated every night and acted accordingly.",
+            "The \"Randomized Dataset\" includes data only from the randomized clinical trial portion of the study, when the participants did not know if the PLGS system was active or inactive on any given night (5,613 nights).",
+            "This dataset was analyzed for patient experiences including skin irritation around the sensor, length of sensor wear, nights with a sensor error alarm, and reasons for not using the system."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The time period for overnight metrics was from system activation until deactivation the following morning. For number of BG checks and boluses overnight, nights with less than 4 hours of data were excluded; for other overnight outcomes, all nights were included. Intervention and control nights during the randomized clinical trial phase were pooled for metrics related to skin reactions, sensor accuracy and sensor/system use. Sensor error alarms included lost sensor, calibration error, or an alarm representing bad sensor.",
+        "section": "Methods",
+        "section_number": 10,
+        "sentences": [
+            "The time period for overnight metrics was from system activation until deactivation the following morning.",
+            "For number of BG checks and boluses overnight, nights with less than 4 hours of data were excluded; for other overnight outcomes, all nights were included.",
+            "Intervention and control nights during the randomized clinical trial phase were pooled for metrics related to skin reactions, sensor accuracy and sensor/system use.",
+            "Sensor error alarms included lost sensor, calibration error, or an alarm representing bad sensor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "For sensor accuracy assessment, glucose measurements from the study blood glucose meter during system use were paired to the closest CGM measurement within \u00b15 min. The relative absolute difference was calculated for each pair.",
+        "section": "Methods",
+        "section_number": 11,
+        "sentences": [
+            "For sensor accuracy assessment, glucose measurements from the study blood glucose meter during system use were paired to the closest CGM measurement within \u00b15 min.",
+            "The relative absolute difference was calculated for each pair."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "All metrics in both the PLGS Active and Clinical Trial datasets were tested to assess differences among ages. A logistic regression was fit to test if the number of patients with a skin change was related to the patient's age. A least squares linear regression was fit to test whether the number of nights to obtain 42 nights of successful use depended on patient's age. For night-level metrics, a generalized mixed-effects logistic regression model with random subject effects and spatial autocorrelation was fit for binary outcomes. A repeated measures Poisson regression model was fit for count metrics and a repeated measures regression model was fit for continuous metrics. A rank score normal transformation (Van der Waerden scores) was applied to metrics that had a skewed distribution. A linear relationship was fit for patient age. All univariate p-values are two tailed. Analyses were performed using SAS version 9.4 software (SAS Institute, Inc., Cary, NC).",
+        "section": "Methods",
+        "section_number": 12,
+        "sentences": [
+            "All metrics in both the PLGS Active and Clinical Trial datasets were tested to assess differences among ages.",
+            "A logistic regression was fit to test if the number of patients with a skin change was related to the patient's age.",
+            "A least squares linear regression was fit to test whether the number of nights to obtain 42 nights of successful use depended on patient's age.",
+            "For night-level metrics, a generalized mixed-effects logistic regression model with random subject effects and spatial autocorrelation was fit for binary outcomes.",
+            "A repeated measures Poisson regression model was fit for count metrics and a repeated measures regression model was fit for continuous metrics.",
+            "A rank score normal transformation (Van der Waerden scores) was applied to metrics that had a skewed distribution.",
+            "A linear relationship was fit for patient age.",
+            "All univariate p-values are two tailed.",
+            "Analyses were performed using SAS version 9.4 software (SAS Institute, Inc., Cary, NC)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Sixty-three of the 127 individuals (49.6%) included in this analysis were male and 94% were white ( Table 1 ). Not surprisingly, weight, height, BMI, HbA1c, and daily insulin dose differed for the age groups. The PLGS Active dataset included 844 nights (821 nights with > 4 hours of data) in the PLGS run-in phase with system active every night. Clinical Trial dataset included 5,613 nights during the randomized phase of the study.",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "Sixty-three of the 127 individuals (49.6%) included in this analysis were male and 94% were white ( Table 1 ).",
+            "Not surprisingly, weight, height, BMI, HbA1c, and daily insulin dose differed for the age groups.",
+            "The PLGS Active dataset included 844 nights (821 nights with > 4 hours of data) in the PLGS run-in phase with system active every night.",
+            "Clinical Trial dataset included 5,613 nights during the randomized phase of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The youngest age group (ages 4-6) tested blood glucose levels more often over 24 hours than older age groups (P<0.001, Table 2 ). The percentage of nights with a BG check was 75% for 4-6 year olds, 65% for 7-10 year olds, 53% for 11-14 year olds, 33% for 15-25 year olds, and 28% for 26-45 year olds (P<0.001). At least 3 BG measurements were obtained on 19% of nights from the youngest children compared to 9%, 8%, 3%, and 1% of the progressively older age brackets (P<0.001, Table 2 ).",
+        "section": "PLGS Active data",
+        "section_number": 14,
+        "sentences": [
+            "The youngest age group (ages 4-6) tested blood glucose levels more often over 24 hours than older age groups (P<0.001, Table 2 ).",
+            "The percentage of nights with a BG check was 75% for 4-6 year olds, 65% for 7-10 year olds, 53% for 11-14 year olds, 33% for 15-25 year olds, and 28% for 26-45 year olds (P<0.001).",
+            "At least 3 BG measurements were obtained on 19% of nights from the youngest children compared to 9%, 8%, 3%, and 1% of the progressively older age brackets (P<0.001, Table 2 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The 4-6 year old age group administered insulin boluses on 56% of nights during the PLGS active phase, compared with 48% of 7-10 year olds, 33% of 11-14 year olds, 20% of 15-25 year olds, and 25% of 26-45 year (P<0.001) Older subjects typically had fewer boluses over 24 hours (P=0.02).",
+        "section": "PLGS Active data",
+        "section_number": 15,
+        "sentences": [
+            "The 4-6 year old age group administered insulin boluses on 56% of nights during the PLGS active phase, compared with 48% of 7-10 year olds, 33% of 11-14 year olds, 20% of 15-25 year olds, and 25% of 26-45 year (P<0.001) Older subjects typically had fewer boluses over 24 hours (P=0.02)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "During the randomized trial phase (PLGS randomized to on or off), six of the 14 children ages 4-6 experienced a skin reaction to the sensor adhesive. Three of these youngest subjects reported moderate symptoms (clearly demarcated and/or requiring treatment) compared to no subjects over the age of 15 (P=0.02, Table 3 ). No patient in any age group reported a severe skin irritation. Older subjects wore each individual Enlite 2 sensor longer than other age groups, with median sensor life being 118 hours for 4-6 year olds up to 144 hours for 26-45 year olds. (P<0.001). Two to five percent of sensors in all age groups were worn longer than the prescribed 6 days.",
+        "section": "Randomized data",
+        "section_number": 16,
+        "sentences": [
+            "During the randomized trial phase (PLGS randomized to on or off), six of the 14 children ages 4-6 experienced a skin reaction to the sensor adhesive.",
+            "Three of these youngest subjects reported moderate symptoms (clearly demarcated and/or requiring treatment) compared to no subjects over the age of 15 (P=0.02, Table 3 ).",
+            "No patient in any age group reported a severe skin irritation.",
+            "Older subjects wore each individual Enlite 2 sensor longer than other age groups, with median sensor life being 118 hours for 4-6 year olds up to 144 hours for 26-45 year olds. (",
+            "P<0.001).",
+            "Two to five percent of sensors in all age groups were worn longer than the prescribed 6 days."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Adults 26-45 years old used the PLGS system more frequently compared with the other age groups (79% vs 70%, respectively), meaning that there were fewer nights when the system was not initiated. Figure 1 gives the reasons for not using the PLGS system for each age group. Technological problems were the most frequent reason cited for not using the system. Children aged 4-6 had the highest probability of skipping a session due to being away from home, while children 7-10 reported the most sick days. The most likely reason adults 26-45 years old skipped a session was due to being away from home, although this occurred on only 6% of nights and was less frequent than other groups. Overall median relative absolute difference was 14% and sensor performance did not differ between age groups.",
+        "section": "Randomized data",
+        "section_number": 17,
+        "sentences": [
+            "Adults 26-45 years old used the PLGS system more frequently compared with the other age groups (79% vs 70%, respectively), meaning that there were fewer nights when the system was not initiated.",
+            "Figure 1 gives the reasons for not using the PLGS system for each age group.",
+            "Technological problems were the most frequent reason cited for not using the system.",
+            "Children aged 4-6 had the highest probability of skipping a session due to being away from home, while children 7-10 reported the most sick days.",
+            "The most likely reason adults 26-45 years old skipped a session was due to being away from home, although this occurred on only 6% of nights and was less frequent than other groups.",
+            "Overall median relative absolute difference was 14% and sensor performance did not differ between age groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "These data show that diabetes technology-related behavior varies widely across ages, which has implications for future AP use. In the PLGS active phase, young children aged 4-6 (or more accurately, their parents) tested their blood glucose levels nearly three times more often than adults 26-45 year olds (75% of nights versus 28% of nights). The same trend is seen with bolusing, with the youngest cohort bolusing significantly more often overnight than adults. This increase in overnight management is likely due to heightened concern over hypoglycemia in toddlers, a pediatric population with the highest prevalence of severe hypoglycemia 17 , as well as difficulty articulating and detecting hypoglycemia. Parents of the young subjects were more involved in the overall study and overnight monitoring when compared with the older youth and adult subjects, who more likely managed their own diabetes care as is developmentally appropriate and expected. The adolescents tested blood sugar levels in a 24 hour period less frequently than all other age groups, which indicates that daytime AP systems may benefit them as well 18 . It is well known that adolescents do not regularly respond to diabetes related alarms overnight 19 , and it is likewise not surprising that the older ages were less likely to check BG or bolus than younger children.",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "These data show that diabetes technology-related behavior varies widely across ages, which has implications for future AP use.",
+            "In the PLGS active phase, young children aged 4-6 (or more accurately, their parents) tested their blood glucose levels nearly three times more often than adults 26-45 year olds (75% of nights versus 28% of nights).",
+            "The same trend is seen with bolusing, with the youngest cohort bolusing significantly more often overnight than adults.",
+            "This increase in overnight management is likely due to heightened concern over hypoglycemia in toddlers, a pediatric population with the highest prevalence of severe hypoglycemia 17 , as well as difficulty articulating and detecting hypoglycemia.",
+            "Parents of the young subjects were more involved in the overall study and overnight monitoring when compared with the older youth and adult subjects, who more likely managed their own diabetes care as is developmentally appropriate and expected.",
+            "The adolescents tested blood sugar levels in a 24 hour period less frequently than all other age groups, which indicates that daytime AP systems may benefit them as well 18 .",
+            "It is well known that adolescents do not regularly respond to diabetes related alarms overnight 19 , and it is likewise not surprising that the older ages were less likely to check BG or bolus than younger children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Initially, adolescents and adults may trust new technologies such as PLGS more quickly than parents of younger populations. This may, however, simply reflect normal clinical care patterns in different age groups. Further, these findings are collected over a relatively short period of time (5 to 10 nights) so may not indicate behavior over the longer term. Patients enrolled in this study may not represent the general population of patients with T1D, as willing study participants may be more invested in scrupulous clinical care. We were not able to perform intra-subject comparison of behavior between time wearing only a CGM and time using the PLGS, as there was no systematic way to define the overnight period when subjects were not using a PLGS system; that is we do not know when they went to bed or when they woke up. Regardless, healthcare providers should always keep developmental abilities and level of family involvement in mind with education and follow-up of any new PLGS/AP system implementation.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "Initially, adolescents and adults may trust new technologies such as PLGS more quickly than parents of younger populations.",
+            "This may, however, simply reflect normal clinical care patterns in different age groups.",
+            "Further, these findings are collected over a relatively short period of time (5 to 10 nights) so may not indicate behavior over the longer term.",
+            "Patients enrolled in this study may not represent the general population of patients with T1D, as willing study participants may be more invested in scrupulous clinical care.",
+            "We were not able to perform intra-subject comparison of behavior between time wearing only a CGM and time using the PLGS, as there was no systematic way to define the overnight period when subjects were not using a PLGS system; that is we do not know when they went to bed or when they woke up.",
+            "Regardless, healthcare providers should always keep developmental abilities and level of family involvement in mind with education and follow-up of any new PLGS/AP system implementation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "During the randomized clinical trial phase, young children had significantly more adverse skin reactions than any other age group. Twenty-one percent of them reported a moderate skin reaction which was clearly demarcated or required treatment. As with previous studies 12, 16 , our cohort struggled with finding ideal body 'real estate,' which likely lead to overuse of sites. We typically advised younger subjects to wear sensors in their arms or buttocks, depending on availability of subcutaneous tissue. This will be an ongoing issue with AP technologies that rely on externally affixed subcutaneous sensors and insulin infusion sites. All three clinical centers utilized a variety of barriers and taping techniques to minimize irritation. These included swabbing the area with IV Prep, Skin Prep, Bard Barrier Wipes or Skin Tac, and using hypoallergenic tape supplements such as IV300 or Hypafix (similar to Evans et al. 16 .",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "During the randomized clinical trial phase, young children had significantly more adverse skin reactions than any other age group.",
+            "Twenty-one percent of them reported a moderate skin reaction which was clearly demarcated or required treatment.",
+            "As with previous studies 12, 16 , our cohort struggled with finding ideal body 'real estate,' which likely lead to overuse of sites.",
+            "We typically advised younger subjects to wear sensors in their arms or buttocks, depending on availability of subcutaneous tissue.",
+            "This will be an ongoing issue with AP technologies that rely on externally affixed subcutaneous sensors and insulin infusion sites.",
+            "All three clinical centers utilized a variety of barriers and taping techniques to minimize irritation.",
+            "These included swabbing the area with IV Prep, Skin Prep, Bard Barrier Wipes or Skin Tac, and using hypoallergenic tape supplements such as IV300 or Hypafix (similar to Evans et al. 16 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Limited data exist on sensor wear duration while using an in-home AP system. The median time of sensor use in adults 26-45 was a full day longer than in young children (144 versus 118 hours), likely due to skin reactions, body real-estate issues, and the rougher play of young children. Having to more frequently change the sensor, in addition to higher nighttime BG checking and bolusing activities anecdotally indicates increased burden in this age group compared to older age groups. Although all patients were instructed to wear the Enlite sensor for a maximum of 6 days, this limit was occasionally exceeded across all age groups (4% of sensors worn lasted at least 7 days). It is realistic to expect that patients will wear sensors for longer durations than FDA approved in clinical care. If sensor accuracy varies with sensor wear duration, accuracy of AP systems may be affected.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "Limited data exist on sensor wear duration while using an in-home AP system.",
+            "The median time of sensor use in adults 26-45 was a full day longer than in young children (144 versus 118 hours), likely due to skin reactions, body real-estate issues, and the rougher play of young children.",
+            "Having to more frequently change the sensor, in addition to higher nighttime BG checking and bolusing activities anecdotally indicates increased burden in this age group compared to older age groups.",
+            "Although all patients were instructed to wear the Enlite sensor for a maximum of 6 days, this limit was occasionally exceeded across all age groups (4% of sensors worn lasted at least 7 days).",
+            "It is realistic to expect that patients will wear sensors for longer durations than FDA approved in clinical care.",
+            "If sensor accuracy varies with sensor wear duration, accuracy of AP systems may be affected."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Technical problems, traveling, and out of range blood glucose levels were major reasons for not being able to initialize this prototype PLGS system. Technical issues are an ongoing concern with AP technologies 14, 15 , and in this study were responsible for 10% of nights the system could not be used in the clinical trial phase. It is important to note that the overwhelming majority of the technical issues were related to sensor wear and calibration and not with the prototype PLGS program itself. Some of the most common technical issues included not having a sensor initiated and calibrated at bedtime, not achieving a \"good\" calibration that the subject trusted, or receiving calibration error/lost sensor alerts. Successful uptake of AP technologies in the pediatric population will likely hinge on reducing these technical difficulties. The high proportion of nights where the youngest subjects skipped using the system due to being away from home was possibly due to seasonal vacations during the study phase, though this should apply to the older children as well. Children and adolescents have widely fluctuating glucose levels, and this cohort frequently fell outside of our study-imposed PLGS-initialization range of 90-270 mg/dl. Future AP designs must be able to safely accommodate a wide range of blood glucose levels to work well in children.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Technical problems, traveling, and out of range blood glucose levels were major reasons for not being able to initialize this prototype PLGS system.",
+            "Technical issues are an ongoing concern with AP technologies 14, 15 , and in this study were responsible for 10% of nights the system could not be used in the clinical trial phase.",
+            "It is important to note that the overwhelming majority of the technical issues were related to sensor wear and calibration and not with the prototype PLGS program itself.",
+            "Some of the most common technical issues included not having a sensor initiated and calibrated at bedtime, not achieving a \"good\" calibration that the subject trusted, or receiving calibration error/lost sensor alerts.",
+            "Successful uptake of AP technologies in the pediatric population will likely hinge on reducing these technical difficulties.",
+            "The high proportion of nights where the youngest subjects skipped using the system due to being away from home was possibly due to seasonal vacations during the study phase, though this should apply to the older children as well.",
+            "Children and adolescents have widely fluctuating glucose levels, and this cohort frequently fell outside of our study-imposed PLGS-initialization range of 90-270 mg/dl.",
+            "Future AP designs must be able to safely accommodate a wide range of blood glucose levels to work well in children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "The study is limited by the relatively small number of nights of PLGS run-in (active) use, despite a large number of randomized clinical trial in-home night usage. Future research is needed with study designs specifically created to address the human factors associated with PLGS and AP use in children. This is the first report of practical experience with a prototype PLGS system in children and young adults, including description of patient behaviors (BG checking and bolusing) during active PLGS use, and experience with sensors and a prototype system during a large randomized clinical trial period. As artificial pancreas research paradigms become integrated into clinical care, considerations must be made for skin reactions and shorter sensor life which are more critical issues in the pediatric population. Health care providers must expect that younger age patients/parents may not hand control over to AP systems as easily as other age groups. Adolescents and young adults may more quickly trust a system without vetting it, and may benefit from intentional education on testing and customizing AP settings to achieve optimal results. Future studies will continue to elucidate behavioral patterns of children on AP iterations, and inform provider approach to education and expectations. Table 1 Participant characteristics at enrollment by age group. Numbers are median (25th, 75th percentile) or N (%). Clinical Trial dataset (PLGS system randomized to on or off) Numbers are median (25th, 75th percentile) or N (%). ",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "The study is limited by the relatively small number of nights of PLGS run-in (active) use, despite a large number of randomized clinical trial in-home night usage.",
+            "Future research is needed with study designs specifically created to address the human factors associated with PLGS and AP use in children.",
+            "This is the first report of practical experience with a prototype PLGS system in children and young adults, including description of patient behaviors (BG checking and bolusing) during active PLGS use, and experience with sensors and a prototype system during a large randomized clinical trial period.",
+            "As artificial pancreas research paradigms become integrated into clinical care, considerations must be made for skin reactions and shorter sensor life which are more critical issues in the pediatric population.",
+            "Health care providers must expect that younger age patients/parents may not hand control over to AP systems as easily as other age groups.",
+            "Adolescents and young adults may more quickly trust a system without vetting it, and may benefit from intentional education on testing and customizing AP settings to achieve optimal results.",
+            "Future studies will continue to elucidate behavioral patterns of children on AP iterations, and inform provider approach to education and expectations.",
+            "Table 1 Participant characteristics at enrollment by age group.",
+            "Numbers are median (25th, 75th percentile) or N (%).",
+            "Clinical Trial dataset (PLGS system randomized to on or off) Numbers are median (25th, 75th percentile) or N (%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33846",
+        "text": "Pediatr Diabetes. Author manuscript; available in PMC 2018 August 01.",
+        "section": "",
+        "section_number": 24,
+        "sentences": [
+            "Pediatr Diabetes.",
+            "Author manuscript; available in PMC 2018 August 01."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    }
+]

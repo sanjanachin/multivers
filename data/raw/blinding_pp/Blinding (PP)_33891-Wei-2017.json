@@ -1,0 +1,532 @@
+[
+    {
+        "doc_id": "33891",
+        "text": "We are grateful to Diabetes UK for funding this study, study participants, Vicky Sully (CBT therapist), Mich\u00e8le Price and Lyn Van Eker (counsellors), the dietitians (run-in phase), the diabetes specialist nurses and Marla Minn Din who helped to develop the CBT package and Dr Derek Indoe for supervising the CBT therapist. JPHS receives funding from the National Institute of Health Research. We would also like to thank clinicians from participating centres Drs Amanda Billson (Bath), Reg Bragonier (Southmead Hospital, Bristol), Susan Matthai (Gloucester), Michael Webster (Taunton) for assisting the recruitment process of the study.",
+        "section": "Abstract",
+        "sentences": [
+            "We are grateful to Diabetes UK for funding this study, study participants, Vicky Sully (CBT therapist), Mich\u00e8le Price and Lyn Van Eker (counsellors), the dietitians (run-in phase), the diabetes specialist nurses and Marla Minn Din who helped to develop the CBT package and Dr Derek Indoe for supervising the CBT therapist.",
+            "JPHS receives funding from the National Institute of Health Research.",
+            "We would also like to thank clinicians from participating centres Drs Amanda Billson (Bath), Reg Bragonier (Southmead Hospital, Bristol), Susan Matthai (Gloucester), Michael Webster (Taunton) for assisting the recruitment process of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Type diabetes mellitus (T1DM) is one of the most common chronic health condition affecting children and adolescents. Long term prospective data have shown that intensive diabetes management in patients with T1DM is effective in reducing the development of long term complications and preventing early mortality (1) (2) . However, optimal glycaemic control is challenging to achieve and highly dependent on the patient's adherence to lifelong daily multiple selfmanagement tasks. Glycaemic control deteriorates in patients T1DM during adolescence (3, 4) due to a combination of physiological, psychological and social factors (5) . Adherence is a major challenge, particularly in patients with negative self-perceptions, who perceive little internal control over health and have an external attributional style for negative life events (6) . Conversely, adolescents may be more likely to comply with interventions they believe to be effective (7) , and whilst there is good evidence that parental involvement can improve adherence (8) , this must be balanced against the need to achieve autonomy.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Type diabetes mellitus (T1DM) is one of the most common chronic health condition affecting children and adolescents.",
+            "Long term prospective data have shown that intensive diabetes management in patients with T1DM is effective in reducing the development of long term complications and preventing early mortality (1) (2) .",
+            "However, optimal glycaemic control is challenging to achieve and highly dependent on the patient's adherence to lifelong daily multiple selfmanagement tasks.",
+            "Glycaemic control deteriorates in patients T1DM during adolescence (3, 4) due to a combination of physiological, psychological and social factors (5) .",
+            "Adherence is a major challenge, particularly in patients with negative self-perceptions, who perceive little internal control over health and have an external attributional style for negative life events (6) .",
+            "Conversely, adolescents may be more likely to comply with interventions they believe to be effective (7) , and whilst there is good evidence that parental involvement can improve adherence (8) , this must be balanced against the need to achieve autonomy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Furthermore, psychiatric morbidity, ranging from major depressive, conduct, and generalised anxiety disorders (9) , to milder symptomatology (10) has been described in T1DM and may impact on metabolic control (11) (12) (13) (14) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Furthermore, psychiatric morbidity, ranging from major depressive, conduct, and generalised anxiety disorders (9) , to milder symptomatology (10) has been described in T1DM and may impact on metabolic control (11) (12) (13) (14) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "In the U.K, psychological care is part of the multi-disciplinary care in all children and adolescents with diabetes under national guidelines (15). Individual randomised controlled trials in the past have suggested that psychological treatment may help to improve glycaemic control in children and adolescents with T1DM, but the overall evidence remained weak (16) . In addition, there is a lack of research comparing the efficacy of different types of psychological interventions offered to children and adolescents with T1DM.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "In the U.K, psychological care is part of the multi-disciplinary care in all children and adolescents with diabetes under national guidelines (15).",
+            "Individual randomised controlled trials in the past have suggested that psychological treatment may help to improve glycaemic control in children and adolescents with T1DM, but the overall evidence remained weak (16) .",
+            "In addition, there is a lack of research comparing the efficacy of different types of psychological interventions offered to children and adolescents with T1DM."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Cognitive behavioural therapy (CBT) has been shown to be effective in a range of paediatric conditions compared with standard care (17) , and reported as one of the most commonly used psychological intervention in children with T1DM (16) . It is a structured time-limited, problem-orientated therapy based on the notion that a person's reaction to an event are largely determined by the meaning attached to the event rather than the event itself (18) .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Cognitive behavioural therapy (CBT) has been shown to be effective in a range of paediatric conditions compared with standard care (17) , and reported as one of the most commonly used psychological intervention in children with T1DM (16) .",
+            "It is a structured time-limited, problem-orientated therapy based on the notion that a person's reaction to an event are largely determined by the meaning attached to the event rather than the event itself (18) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "In this study, we hypothesised that CBT improves glycaemic control and psychological well-being by addressing cognitions leading to negative attitudes and behaviours associated with sub-optimal diabetes self-management. The primary aim of the study was to compare the impact of CBT and non-directive supportive counselling (NDC) on glycaemic control in adolescents diagnosed with T1DM. The secondary aim was to investigate changes in the psychological wellbeing in the participants treated with CBT vs NDC.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "In this study, we hypothesised that CBT improves glycaemic control and psychological well-being by addressing cognitions leading to negative attitudes and behaviours associated with sub-optimal diabetes self-management.",
+            "The primary aim of the study was to compare the impact of CBT and non-directive supportive counselling (NDC) on glycaemic control in adolescents diagnosed with T1DM.",
+            "The secondary aim was to investigate changes in the psychological wellbeing in the participants treated with CBT vs NDC."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "This was a multi-centred, randomized controlled trial (NCT00360061) with 12month post-intervention follow-up. Participants were randomised to CBT or NDC with stratification by gender and centre according to the minimization method (19) after a 3-month run-in period, with baseline dietetic education (3-day food diary and a home visit from a dietician) to compensate for potential variations in the dietetic provision between participating centres. The participant's diabetes team was blinded as to the outcome of randomisation. Ethical approval for the study has been granted by the multi-centre research ethics committee (MREC 01/5/34) and participating hospitals in the South West of England.",
+        "section": "Study Design",
+        "section_number": 6,
+        "sentences": [
+            "This was a multi-centred, randomized controlled trial (NCT00360061) with 12month post-intervention follow-up.",
+            "Participants were randomised to CBT or NDC with stratification by gender and centre according to the minimization method (19) after a 3-month run-in period, with baseline dietetic education (3-day food diary and a home visit from a dietician) to compensate for potential variations in the dietetic provision between participating centres.",
+            "The participant's diabetes team was blinded as to the outcome of randomisation.",
+            "Ethical approval for the study has been granted by the multi-centre research ethics committee (MREC 01/5/34) and participating hospitals in the South West of England."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "33891",
+        "text": "Children and adolescents, aged 11-16 years, diagnosed with T1DM for over 12 months from 4 paediatric diabetes centres in South-West England, UK (Bristol Royal hospital for Children, Southmead Hospital, Gloucester General Hospital and the Royal Devon and Exeter Hospital) were approached by their diabetes team. Exclusion criteria included other serious chronic illnesses, special educational needs or residential care. As specified by the Ethical Committee, any participant identified as having a significant psychiatric or child safe guarding issue subsequent to recruitment, would be referred to the appropriate clinical team for further management and withdrawn from the study. Written informed consent from the carers and assent from the participant were obtained by the study coordinator. Standard multi-disciplinary diabetes management continued during the study.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "Children and adolescents, aged 11-16 years, diagnosed with T1DM for over 12 months from 4 paediatric diabetes centres in South-West England, UK (Bristol Royal hospital for Children, Southmead Hospital, Gloucester General Hospital and the Royal Devon and Exeter Hospital) were approached by their diabetes team.",
+            "Exclusion criteria included other serious chronic illnesses, special educational needs or residential care.",
+            "As specified by the Ethical Committee, any participant identified as having a significant psychiatric or child safe guarding issue subsequent to recruitment, would be referred to the appropriate clinical team for further management and withdrawn from the study.",
+            "Written informed consent from the carers and assent from the participant were obtained by the study coordinator.",
+            "Standard multi-disciplinary diabetes management continued during the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "CBT was provided by a qualified CBT therapist and consisted of 6 one-to-one weekly sessions with single follow-up sessions at 6 and 12 months located according to the participant's choice, either in the primary care surgery or hospital out-patient department or participant's home. A specific CBT package was developed according to Beck's methodology (16) aiming to empower adolescents to develop and/or maintain appropriate attitudes to their diabetes, optimising diabetes self-care and glycaemic control. Patients were given information sheets, homework assignments to complete at home that are discussed during the sessions. In summary, the programme addresses: 1) Developing and maintaining a therapeutic relationship. 2) Cognitive restructuring: identifying negative automatic thoughts, recognising associations between thoughts, feelings and behaviour and replacing with more balanced thoughts. ",
+        "section": "Interventions",
+        "section_number": 8,
+        "sentences": [
+            "CBT was provided by a qualified CBT therapist and consisted of 6 one-to-one weekly sessions with single follow-up sessions at 6 and 12 months located according to the participant's choice, either in the primary care surgery or hospital out-patient department or participant's home.",
+            "A specific CBT package was developed according to Beck's methodology (16) aiming to empower adolescents to develop and/or maintain appropriate attitudes to their diabetes, optimising diabetes self-care and glycaemic control.",
+            "Patients were given information sheets, homework assignments to complete at home that are discussed during the sessions.",
+            "In summary, the programme addresses: 1) Developing and maintaining a therapeutic relationship.",
+            "2) Cognitive restructuring: identifying negative automatic thoughts, recognising associations between thoughts, feelings and behaviour and replacing with more balanced thoughts."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "All participants had the following outcome measures: ",
+        "section": "Outcome measures",
+        "section_number": 9,
+        "sentences": [
+            "All participants had the following outcome measures:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "The identification and recruitment process is summarised in figure 1. Out of 302 patients from all participating clinics, 87 eligible patients fulfilled the inclusion criteria and agreed to take part, but withdrew and were excluded in the run-in phase.",
+        "section": "Subjects and recruitment",
+        "section_number": 10,
+        "sentences": [
+            "The identification and recruitment process is summarised in figure 1.",
+            "Out of 302 patients from all participating clinics, 87 eligible patients fulfilled the inclusion criteria and agreed to take part, but withdrew and were excluded in the run-in phase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Having completed the run-in phase, 85 patients were randomised to CBT (n=43) and NDC (n=42). However, 19 participants disengaged from the study and never started the intervention. They were equally represented in the CBT (n=10/43) and NDC The 'intention-to-treat' HbA1c analysis reported was based on 66 (CBT n=33; NDC n=33) participants who have taken part in the study (figure 1). During the study, 3",
+        "section": "Subjects and recruitment",
+        "section_number": 11,
+        "sentences": [
+            "Having completed the run-in phase, 85 patients were randomised to CBT (n=43) and NDC (n=42).",
+            "However, 19 participants disengaged from the study and never started the intervention.",
+            "They were equally represented in the CBT (n=10/43) and NDC The 'intention-to-treat' HbA1c analysis reported was based on 66 (CBT n=33; NDC n=33) participants who have taken part in the study (figure 1).",
+            "During the study, 3"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "patients from the CBT group subsequently withdrew with non-attendance of intervention (n=1) and need for further psychological interventions (n=2). Two participants in the NDC group withdrew: one cited time constraints (n=1) and the other refused further sessions (n=1). In all 30 in the CBT and in the NDC group completed the study.",
+        "section": "Subjects and recruitment",
+        "section_number": 12,
+        "sentences": [
+            "patients from the CBT group subsequently withdrew with non-attendance of intervention (n=1) and need for further psychological interventions (n=2).",
+            "Two participants in the NDC group withdrew: one cited time constraints (n=1) and the other refused further sessions (n=1).",
+            "In all 30 in the CBT and in the NDC group completed the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "There were no group differences in demographic characteristics, prevalence of diabetes complication, number of other medical conditions, family history of diabetes and presence of both parents at home (table 2). All patients in both groups of this study were on subcutaneous insulin injections. Dietetic home visits were completed within a mean (SD) of 3.8 (2.2) months.",
+        "section": "Demographic data",
+        "section_number": 13,
+        "sentences": [
+            "There were no group differences in demographic characteristics, prevalence of diabetes complication, number of other medical conditions, family history of diabetes and presence of both parents at home (table 2).",
+            "All patients in both groups of this study were on subcutaneous insulin injections.",
+            "Dietetic home visits were completed within a mean (SD) of 3.8 (2.2) months."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "HbA1c were positively skewed and log transformed before comparison. Within group comparison showed that mean log HbA1c increased significantly with time in the NDC (p=0.001), but remained unchanged in the CBT (p=0.51) group (table 3) .",
+        "section": "Changes in Glycaemic control",
+        "section_number": 14,
+        "sentences": [
+            "HbA1c were positively skewed and log transformed before comparison.",
+            "Within group comparison showed that mean log HbA1c increased significantly with time in the NDC (p=0.001), but remained unchanged in the CBT (p=0.51) group (table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Between group difference of the overall changes in HbA1c across the study period was statically significant (p=0.018). The number of participants who showed an improved or maintained HbA1c levels at months was significantly greater in the CBT compared with the NDC group (62.5 vs 35.5%, p=0.032).",
+        "section": "Changes in Glycaemic control",
+        "section_number": 15,
+        "sentences": [
+            "Between group difference of the overall changes in HbA1c across the study period was statically significant (p=0.018).",
+            "The number of participants who showed an improved or maintained HbA1c levels at months was significantly greater in the CBT compared with the NDC group (62.5 vs 35.5%, p=0.032)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Psychological scores of the subjects in each group included in the analysis are shown in table 4. The Self-efficacy score showed significant improvement in both the CBT (p<0.001) and NDC (p= 0.03) groups over time, but there were no between group differences (p=0.93).",
+        "section": "Psychological outcomes",
+        "section_number": 16,
+        "sentences": [
+            "Psychological scores of the subjects in each group included in the analysis are shown in table 4.",
+            "The Self-efficacy score showed significant improvement in both the CBT (p<0.001) and NDC (p= 0.03) groups over time, but there were no between group differences (p=0.93)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "The internal LOC score showed a borderline increase over time in the CBT (p=0.05), no changes in the NDC group, and significant differences over time between the 2 groups (p=0.041). There were no within or between group differences in the other LOC subscales. There is a trend, however, towards lowering the LOC (powerful others) and LOC (chance) in the NDC group, but not the CBT group (the differences are not statistically significant).",
+        "section": "Psychological outcomes",
+        "section_number": 17,
+        "sentences": [
+            "The internal LOC score showed a borderline increase over time in the CBT (p=0.05), no changes in the NDC group, and significant differences over time between the 2 groups (p=0.041).",
+            "There were no within or between group differences in the other LOC subscales.",
+            "There is a trend, however, towards lowering the LOC (powerful others) and LOC (chance) in the NDC group, but not the CBT group (the differences are not statistically significant)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "There were no statistically significant between group differences in the WBQ total or sub-scores. However, there was a statistically significant reduction of WBQ (depression) scores in the NDC group (p=0.019) and a non-significant reduction in the WBQ (anxiety) scores in the NDC group. Sub-analysis of subjects with WBQ depression scores in the lowest tertile (least depressed) demonstrated significant reduction in HbA1c over time in the CBT group (p=0.041), no within group changes in the NDC group, and significant between group differences over time (p=0.008).",
+        "section": "Psychological outcomes",
+        "section_number": 18,
+        "sentences": [
+            "There were no statistically significant between group differences in the WBQ total or sub-scores.",
+            "However, there was a statistically significant reduction of WBQ (depression) scores in the NDC group (p=0.019) and a non-significant reduction in the WBQ (anxiety) scores in the NDC group.",
+            "Sub-analysis of subjects with WBQ depression scores in the lowest tertile (least depressed) demonstrated significant reduction in HbA1c over time in the CBT group (p=0.041), no within group changes in the NDC group, and significant between group differences over time (p=0.008)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "The outcomes of our study have shown that a short course of CBT over a 12-month period prevented deterioration of glycaemic control in adolescents with T1DM, whilst an increase in HbA1c overtime was observed in participant who underwent NDC mirroring the pattern observed in clinical practice and population based studies (3, 4) . Outcomes of the psychological assessments demonstrated improvements in some but not all areas over time in one or both groups. In particular, CBT showed an improvement in the Internal Locus of Control score over the study period compared with NDC. This might be because CBT works on identifying and changing potentially distorted negative thoughts and unhelpful behaviours to improve patients' feelings.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "The outcomes of our study have shown that a short course of CBT over a 12-month period prevented deterioration of glycaemic control in adolescents with T1DM, whilst an increase in HbA1c overtime was observed in participant who underwent NDC mirroring the pattern observed in clinical practice and population based studies (3, 4) .",
+            "Outcomes of the psychological assessments demonstrated improvements in some but not all areas over time in one or both groups.",
+            "In particular, CBT showed an improvement in the Internal Locus of Control score over the study period compared with NDC.",
+            "This might be because CBT works on identifying and changing potentially distorted negative thoughts and unhelpful behaviours to improve patients' feelings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "An improvement in self-efficacy was seen in both CBT and NDC groups with no between group differences. Similar findings have been shown in adults with T1DM",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 20,
+        "sentences": [
+            "An improvement in self-efficacy was seen in both CBT and NDC groups with no between group differences.",
+            "Similar findings have been shown in adults with T1DM"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "offered CBT compared with blood glucose awareness training (29) . However, the increase in self-efficacy scores may merely be a reflection of improved selfconfidence as the patients gain experiences in their diabetes self-management over time that is independent of the psychological therapy offered.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 21,
+        "sentences": [
+            "offered CBT compared with blood glucose awareness training (29) .",
+            "However, the increase in self-efficacy scores may merely be a reflection of improved selfconfidence as the patients gain experiences in their diabetes self-management over time that is independent of the psychological therapy offered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Our results showed an improvement in depression scores over time in the NDC group, but this may be due to the lower baseline score at the beginning of the intervention.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 22,
+        "sentences": [
+            "Our results showed an improvement in depression scores over time in the NDC group, but this may be due to the lower baseline score at the beginning of the intervention."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "The other reasons for the observed differences could be in the nature of the interventions. Namely, the NDC is by itself less-directive, less goal-oriented in itself more supportive and exerts less pressure and expectations on the patients. This could be also supported by the trend towards the reduction of WBQ anxiety scores observed in the NDC. However, the lack of group differences over time means NDC was no more effective than CBT in this aspect of well-being.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 23,
+        "sentences": [
+            "The other reasons for the observed differences could be in the nature of the interventions.",
+            "Namely, the NDC is by itself less-directive, less goal-oriented in itself more supportive and exerts less pressure and expectations on the patients.",
+            "This could be also supported by the trend towards the reduction of WBQ anxiety scores observed in the NDC.",
+            "However, the lack of group differences over time means NDC was no more effective than CBT in this aspect of well-being."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Interestingly of CBT which was double the number of sessions offered compared with our study (30) . In addition, evidence suggested that CBT may be ineffective in severe cases of depression (31) . On the other hand, these patients with more depressive symptoms according to the results may be receptive to NDC to improve these symptoms.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 24,
+        "sentences": [
+            "Interestingly of CBT which was double the number of sessions offered compared with our study (30) .",
+            "In addition, evidence suggested that CBT may be ineffective in severe cases of depression (31) .",
+            "On the other hand, these patients with more depressive symptoms according to the results may be receptive to NDC to improve these symptoms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "Therefore, formal baseline assessment for depressive moods should be undertaken to stratify the appropriate type and length of psychological interventions offered to patients.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 25,
+        "sentences": [
+            "Therefore, formal baseline assessment for depressive moods should be undertaken to stratify the appropriate type and length of psychological interventions offered to patients."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "In clinical practice, full formal courses of CBT or other psychological interventions are labour intensive with poor uptake in patients who are not motivated. However, it is possible to implement basic techniques of CBT in patients' during their routine care by other health professional in the diabetes multidisciplinary team such as nurses who have undergone recognised training. Patients, who are least adherent or with more depressive symptoms, are also less likely to participate in interventions which require a lot of self-motivation as in the case of CBT. These patients might benefit from motivational or other techniques. Our data suggested that NDC could be considered over CBT as first line therapy in patients with more severe depressive symptoms.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 26,
+        "sentences": [
+            "In clinical practice, full formal courses of CBT or other psychological interventions are labour intensive with poor uptake in patients who are not motivated.",
+            "However, it is possible to implement basic techniques of CBT in patients' during their routine care by other health professional in the diabetes multidisciplinary team such as nurses who have undergone recognised training.",
+            "Patients, who are least adherent or with more depressive symptoms, are also less likely to participate in interventions which require a lot of self-motivation as in the case of CBT.",
+            "These patients might benefit from motivational or other techniques.",
+            "Our data suggested that NDC could be considered over CBT as first line therapy in patients with more severe depressive symptoms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "However, there were no differences in a number of other psychological outcomes measured despite the better glycaemic outcomes in the CBT group in our study, which was consistent with previous findings (29)(32) (33) . This indicates that the relationship between glycaemic control and psychological well-being is not straight forward. Further investigations into the influences of other factors, such as patient and carers' differences in learning style, degree of engagement, cognitive ability, and family functioning with therapy are needed.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 27,
+        "sentences": [
+            "However, there were no differences in a number of other psychological outcomes measured despite the better glycaemic outcomes in the CBT group in our study, which was consistent with previous findings (29)(32) (33) .",
+            "This indicates that the relationship between glycaemic control and psychological well-being is not straight forward.",
+            "Further investigations into the influences of other factors, such as patient and carers' differences in learning style, degree of engagement, cognitive ability, and family functioning with therapy are needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "The main strength of this study was its multi-centred design with the inclusion of patients from different paediatric diabetes centres of varied socio-economic backgrounds, so the results are more widely generalisable. However, there were some limitations in our study. Only 41% of the eligible patients approached agreed to participate in this study. Time constraints were an issue for many, while others did not feel the need for professional psychological interventions. The difficulties inherent in engaging an adolescent population in psychological interventions is not unique to our study. Despite this, the intention-to-treat HbA1c analysis has reached the expected numbers as per power calculation. Although there were a small number of drop-outs and missing data during the intervention period, our statistical analysis has employed models which taken into account any potential bias among the participants and missing data points.",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 28,
+        "sentences": [
+            "The main strength of this study was its multi-centred design with the inclusion of patients from different paediatric diabetes centres of varied socio-economic backgrounds, so the results are more widely generalisable.",
+            "However, there were some limitations in our study.",
+            "Only 41% of the eligible patients approached agreed to participate in this study.",
+            "Time constraints were an issue for many, while others did not feel the need for professional psychological interventions.",
+            "The difficulties inherent in engaging an adolescent population in psychological interventions is not unique to our study.",
+            "Despite this, the intention-to-treat HbA1c analysis has reached the expected numbers as per power calculation.",
+            "Although there were a small number of drop-outs and missing data during the intervention period, our statistical analysis has employed models which taken into account any potential bias among the participants and missing data points."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "In conclusion, a short course of CBT offered to children and adolescents newly diagnosed with T1DM prevented the deterioration in glycaemic control which is otherwise observed. Greater improvement in glycaemic control was demonstrated in those offered CBT who were less depressed at the start of therapy. Subjects who had",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 29,
+        "sentences": [
+            "In conclusion, a short course of CBT offered to children and adolescents newly diagnosed with T1DM prevented the deterioration in glycaemic control which is otherwise observed.",
+            "Greater improvement in glycaemic control was demonstrated in those offered CBT who were less depressed at the start of therapy.",
+            "Subjects who had"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33891",
+        "text": "CBT showed greater belief that health is controlled by their own will. Both CBT and NDC may improve the self-efficacy in diabetes management. Further research is needed to explore which treatment indications, including patient characteristics, are most likely to improve clinical and cost effectiveness of psychological interventions in children and young people with T1DM. ",
+        "section": "Stabilisation of HbA1c is important as the",
+        "section_number": 30,
+        "sentences": [
+            "CBT showed greater belief that health is controlled by their own will.",
+            "Both CBT and NDC may improve the self-efficacy in diabetes management.",
+            "Further research is needed to explore which treatment indications, including patient characteristics, are most likely to improve clinical and cost effectiveness of psychological interventions in children and young people with T1DM."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

@@ -1,0 +1,851 @@
+[
+    {
+        "doc_id": "33781",
+        "text": "Background: Although music therapy (MT) is considered an effective intervention for young people with mental health needs, its efficacy in clinical settings is unclear. We therefore examined the efficacy of MT in clinical practice. Methods: Two hundred and fifty-one child (8-16 years, with social, emotional, behavioural and developmental difficulties) and parent dyads from six Child and Adolescent Mental Health Service community care facilities in Northern Ireland were randomised to 12 weekly sessions of MT plus usual care [n = 123; 76 in final analyses] or usual care alone [n = 128; 105 in final analyses]. Follow-up occurred at 13 weeks and 26 weeks postrandomisation. Primary outcome was improvement in communication (Social Skills Improvement System Rating Scales) (SSIS) at 13 weeks. Secondary outcomes included social functioning, self-esteem, depression and family functioning. Results: There was no significant difference for the child SSIS at week 13 (adjusted difference in mean 2.4; 95% CI \u00c01.2 to 6.1; p = .19) or for the guardian SSIS (0.5; 95% CI \u00c02.9 to 3.8; p = .78). However, for participants aged 13 and over in the intervention group, the child SSIS communication was significantly improved (6.1, 95% CI 1.6 to 10.5; p = .007) but not the guardian SSIS (1.1; 95% CI \u00c02.9 to 5.2; p = .59). Overall, self-esteem was significantly improved and depression scores were significantly lower at week 13. There was no significant difference in family or social functioning at week 13. Conclusions: While the findings provide some evidence for the integration of music therapy into clinical practice, differences relating to subgroups and secondary outcomes indicate the need for further study. ISRCTN Register; ISRCTN96352204.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Although music therapy (MT) is considered an effective intervention for young people with mental health needs, its efficacy in clinical settings is unclear.",
+            "We therefore examined the efficacy of MT in clinical practice.",
+            "Methods: Two hundred and fifty-one child (8-16 years, with social, emotional, behavioural and developmental difficulties) and parent dyads from six Child and Adolescent Mental Health Service community care facilities in Northern Ireland were randomised to 12 weekly sessions of MT plus usual care [n = 123; 76 in final analyses] or usual care alone [n = 128; 105 in final analyses].",
+            "Follow-up occurred at 13 weeks and 26 weeks postrandomisation.",
+            "Primary outcome was improvement in communication (Social Skills Improvement System Rating Scales) (SSIS) at 13 weeks.",
+            "Secondary outcomes included social functioning, self-esteem, depression and family functioning.",
+            "Results: There was no significant difference for the child SSIS at week 13 (adjusted difference in mean 2.4; 95% CI \u00c01.2 to 6.1; p = .19) or for the guardian SSIS (0.5; 95% CI \u00c02.9 to 3.8; p = .78).",
+            "However, for participants aged 13 and over in the intervention group, the child SSIS communication was significantly improved (6.1, 95% CI 1.6 to 10.5; p = .007) but not the guardian SSIS (1.1; 95% CI \u00c02.9 to 5.2; p = .59).",
+            "Overall, self-esteem was significantly improved and depression scores were significantly lower at week 13.",
+            "There was no significant difference in family or social functioning at week 13.",
+            "Conclusions: While the findings provide some evidence for the integration of music therapy into clinical practice, differences relating to subgroups and secondary outcomes indicate the need for further study.",
+            "ISRCTN Register; ISRCTN96352204."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Mental ill health affects up to 20% of children and adolescents worldwide (World Health Organization, 2001 ). The range of mental disorders affecting our children and adolescents encompasses social, emotional, cognitive and behaviour problems (Gold, Voracek, & Wigram, 2004) , with many presenting comorbid disorders. These difficulties can impair young people and their families on a daily basis, and have significant effects well into adulthood. However, despite these negative consequences, there remains a gap between the mental health needs of young people and the available resources to treat them (Belfer, 2008) . Moreover, the evidence base for effective treatments is incomplete and inconsistent (Hetrick, McKenzie, Cox, Simmons, & Merry, 2012) . One of the main difficulties in addressing these issues is the complexity and heterogeneity of mental disorders.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Mental ill health affects up to 20% of children and adolescents worldwide (World Health Organization, 2001 ).",
+            "The range of mental disorders affecting our children and adolescents encompasses social, emotional, cognitive and behaviour problems (Gold, Voracek, & Wigram, 2004) , with many presenting comorbid disorders.",
+            "These difficulties can impair young people and their families on a daily basis, and have significant effects well into adulthood.",
+            "However, despite these negative consequences, there remains a gap between the mental health needs of young people and the available resources to treat them (Belfer, 2008) .",
+            "Moreover, the evidence base for effective treatments is incomplete and inconsistent (Hetrick, McKenzie, Cox, Simmons, & Merry, 2012) .",
+            "One of the main difficulties in addressing these issues is the complexity and heterogeneity of mental disorders."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Current figures suggest that 2.6% of young people worldwide suffer from depression; often associated with impaired social functioning and education attainment (Polanczyk, Salum, Sugaya, & Rohde, 2015) . US figures estimate that 20% adolescents will experience a depressive episode by the age of 18 years, whereas in Australia, up to 25% are reported to have experienced a clinically significant depressive episode by the same age (Corrieri et al., 2013) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Current figures suggest that 2.6% of young people worldwide suffer from depression; often associated with impaired social functioning and education attainment (Polanczyk, Salum, Sugaya, & Rohde, 2015) .",
+            "US figures estimate that 20% adolescents will experience a depressive episode by the age of 18 years, whereas in Australia, up to 25% are reported to have experienced a clinically significant depressive episode by the same age (Corrieri et al., 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Adolescent depression and anxiety frequently cooccur (Angold, Costello, & Erkanli, 1999) . Adolescents may be particularly vulnerable to developing anxiety-related disorders (Angold et al., 1999) , given the significant physiological, psychological and social changes and transitions they go through (Higgins et al., 2012) . Anxiety disorders are estimated to affect up to 20% (Costello, Egger, & Angold, 2005) . Effects often extend into adulthood and can impair social, familial and academic functioning (Ginsburg, Drake, Tein, Teetsel, & Riddle, 2015) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Adolescent depression and anxiety frequently cooccur (Angold, Costello, & Erkanli, 1999) .",
+            "Adolescents may be particularly vulnerable to developing anxiety-related disorders (Angold et al., 1999) , given the significant physiological, psychological and social changes and transitions they go through (Higgins et al., 2012) .",
+            "Anxiety disorders are estimated to affect up to 20% (Costello, Egger, & Angold, 2005) .",
+            "Effects often extend into adulthood and can impair social, familial and academic functioning (Ginsburg, Drake, Tein, Teetsel, & Riddle, 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Despite what is known about the prevalence and effects of mental health problems in adolescence and the far reaching implications for adulthood, the evidence base for effective interventions is relatively weak. Currently, the most common approaches to treatment are medication and psychotherapy, both of which have an insufficient evidence base for use with children and adolescents (Hazell, O'Connell, Heathcote, & Henry, 2002) . Studies have shown positive effects for psychotherapy in general but have not established which type is most effective (NICE, 2005) . Additionally, much of the research focuses on an adult population, presenting difficulties when extrapolating to young people (Hetrick et al., 2012) . There is also conflicting evidence around the use of antidepressants for this population, in particular concerns about the risks of adverse effects (Karanges & McGregor, 2011) . Given the high prevalence rates of these conditions, and their lasting impact on social functioning and educational achievement, the development of cost-effective interventions is urgently indicated.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Despite what is known about the prevalence and effects of mental health problems in adolescence and the far reaching implications for adulthood, the evidence base for effective interventions is relatively weak.",
+            "Currently, the most common approaches to treatment are medication and psychotherapy, both of which have an insufficient evidence base for use with children and adolescents (Hazell, O'Connell, Heathcote, & Henry, 2002) .",
+            "Studies have shown positive effects for psychotherapy in general but have not established which type is most effective (NICE, 2005) .",
+            "Additionally, much of the research focuses on an adult population, presenting difficulties when extrapolating to young people (Hetrick et al., 2012) .",
+            "There is also conflicting evidence around the use of antidepressants for this population, in particular concerns about the risks of adverse effects (Karanges & McGregor, 2011) .",
+            "Given the high prevalence rates of these conditions, and their lasting impact on social functioning and educational achievement, the development of cost-effective interventions is urgently indicated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "One intervention which is becoming increasingly recognised is music therapy (MT) (NICE, 2013) . In MT, the therapist uses musical experiences and the patient/therapist relationship to achieve health goals for the patient (Bruscia, 1998) . Current evidence suggests that MT has a medium to large effect on behaviour and general development (Gold, Wigram, & Voracek, 2007) ; however, authors have questioned whether this effect can be attained in everyday clinical practice (Gold et al., 2007) . Results also suggest that MT employing improvisational techniques is more successful than other less specific techniques (Gold et al., 2007) .",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "One intervention which is becoming increasingly recognised is music therapy (MT) (NICE, 2013) .",
+            "In MT, the therapist uses musical experiences and the patient/therapist relationship to achieve health goals for the patient (Bruscia, 1998) .",
+            "Current evidence suggests that MT has a medium to large effect on behaviour and general development (Gold, Wigram, & Voracek, 2007) ; however, authors have questioned whether this effect can be attained in everyday clinical practice (Gold et al., 2007) .",
+            "Results also suggest that MT employing improvisational techniques is more successful than other less specific techniques (Gold et al., 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Reviews of the evidence suggest that MT may improve mental health in children and adolescents and communication in children with autistic spectrum disorder (Gold et al., 2004; Whipple, 2004) . However, the evidence base is weak, consisting mainly of small, methodologically problematic studies (Porter et al., 2012) . Because of the lack of unequivocal evidence, there is an urgent need for methodologically robust clinical trials to evaluate MT in diverse settings with a representative population presenting with complex and comorbid disorders.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "Reviews of the evidence suggest that MT may improve mental health in children and adolescents and communication in children with autistic spectrum disorder (Gold et al., 2004; Whipple, 2004) .",
+            "However, the evidence base is weak, consisting mainly of small, methodologically problematic studies (Porter et al., 2012) .",
+            "Because of the lack of unequivocal evidence, there is an urgent need for methodologically robust clinical trials to evaluate MT in diverse settings with a representative population presenting with complex and comorbid disorders."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "This was a multicentre single-blind randomised controlled trial. When randomised, data collection took place at baseline, 1 week after the final MT session (week 13), and at 13 weeks after the final MT session and end of trial (week 26). A total of 251 young people were recruited and randomised from six community care Child and Adolescent Mental Health Services (CAMHS) within the Belfast Health and Social Care Trust in Northern Ireland. Participant age ranged from 8 years to 16 years old. A higher proportion of young people were aged over 13 (59%) and female (56%), and the overall population was primarily White (97%). The sample was representative of the population of children and adolescents that routinely present to clinical services. Thus, there was a diverse range of diagnoses to include social, emotional, behavioural and developmental disorders, with participants included if they had a working diagnosis within the ambit of ICD-10 of Mental and Behavioural Disorders (F00-F99), as assessed by the CAMHS professional in charge of their care: 53% had a diagnosis which included anxiety [agoraphobia, social phobias, specific (isolated) phobias, other phobic anxiety disorders, phobic anxiety disorder, unspecified], 37% had a diagnosis which included depression (depressive reaction, psychogenic depression and reactive depression), while 19% had a diagnosis which included autism (childhood autism, atypical autism, Rett syndrome, other childhood disintegrative disorder, overactive disorder associated with mental retardation and stereotyped movements, Asperger syndrome, other pervasive developmental disorders, pervasive developmental disorder, unspecified). Young people who had chronic and severe substance abuse, psychosis, repeated suicidal behaviour, or who were unable to complete self-administered questionnaires with assistance, or to attend MT sessions were excluded from the study. The sample was also economically diverse with 31% of participants being from most deprived and 26% from least deprived areas (Northern Ireland Multiple Deprivation Measure). About 41% of participants were from single parent families, and 32% were from families where neither parent was employed. In accordance with CONSORT guidelines (Schulz, Altman, & Moher, 2010) , Figure 1 shows the progression of participants through the trial.",
+        "section": "Design and participants",
+        "section_number": 7,
+        "sentences": [
+            "This was a multicentre single-blind randomised controlled trial.",
+            "When randomised, data collection took place at baseline, 1 week after the final MT session (week 13), and at 13 weeks after the final MT session and end of trial (week 26).",
+            "A total of 251 young people were recruited and randomised from six community care Child and Adolescent Mental Health Services (CAMHS) within the Belfast Health and Social Care Trust in Northern Ireland.",
+            "Participant age ranged from 8 years to 16 years old.",
+            "A higher proportion of young people were aged over 13 (59%) and female (56%), and the overall population was primarily White (97%).",
+            "The sample was representative of the population of children and adolescents that routinely present to clinical services.",
+            "Thus, there was a diverse range of diagnoses to include social, emotional, behavioural and developmental disorders, with participants included if they had a working diagnosis within the ambit of ICD-10 of Mental and Behavioural Disorders (F00-F99), as assessed by the CAMHS professional in charge of their care: 53% had a diagnosis which included anxiety [agoraphobia, social phobias, specific (isolated) phobias, other phobic anxiety disorders, phobic anxiety disorder, unspecified], 37% had a diagnosis which included depression (depressive reaction, psychogenic depression and reactive depression), while 19% had a diagnosis which included autism (childhood autism, atypical autism, Rett syndrome, other childhood disintegrative disorder, overactive disorder associated with mental retardation and stereotyped movements, Asperger syndrome, other pervasive developmental disorders, pervasive developmental disorder, unspecified).",
+            "Young people who had chronic and severe substance abuse, psychosis, repeated suicidal behaviour, or who were unable to complete self-administered questionnaires with assistance, or to attend MT sessions were excluded from the study.",
+            "The sample was also economically diverse with 31% of participants being from most deprived and 26% from least deprived areas (Northern Ireland Multiple Deprivation Measure).",
+            "About 41% of participants were from single parent families, and 32% were from families where neither parent was employed.",
+            "In accordance with CONSORT guidelines (Schulz, Altman, & Moher, 2010) , Figure 1 shows the progression of participants through the trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Full details of this study can be found in the published protocol (Porter et al., 2012) . After obtaining informed consent, data were collected at the participants' home by an independent researcher. Appropriate randomisation and blinding protocols were adhered to. The Northern Ireland Clinical Trials Unit (NICTU) randomised participants; the randomisation list was computer-generated with random variable block lengths and stratified by recruiting centre. Due of the nature of the intervention, both the music therapist and the research participants involved were aware of whether or not the intervention had been administered. However, the participants and the professionals involved in their care were asked not to disclose this to the researcher/outcome assessor.",
+        "section": "Procedure",
+        "section_number": 8,
+        "sentences": [
+            "Full details of this study can be found in the published protocol (Porter et al., 2012) .",
+            "After obtaining informed consent, data were collected at the participants' home by an independent researcher.",
+            "Appropriate randomisation and blinding protocols were adhered to.",
+            "The Northern Ireland Clinical Trials Unit (NICTU) randomised participants; the randomisation list was computer-generated with random variable block lengths and stratified by recruiting centre.",
+            "Due of the nature of the intervention, both the music therapist and the research participants involved were aware of whether or not the intervention had been administered.",
+            "However, the participants and the professionals involved in their care were asked not to disclose this to the researcher/outcome assessor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "33781",
+        "text": "Participants assigned to the control group received usual care only, which consisted of psychiatric counselling and/or medication, the dose and frequency of which was as deemed appropriate by the prescribing CAMHS professional. In addition to usual care, patients assigned to the experimental group received the Alvin model of 'Free Improvisation' (Bruscia, 1987) . Improvisation encourages the patient to create music and sound freely through voice, instrument or movement, while receiving support and encouragement tailored to suit their needs as assessed by their therapist. This technique is deemed particularly useful to those who struggle with communication and interpersonal skills, as these are the basic requirements for improvisation (Wigram, 2004) . Instruments such as the guitar, xylophone, keyboard and drums were used, and patients had the opportunity to make personalised CDs.",
+        "section": "Intervention",
+        "section_number": 9,
+        "sentences": [
+            "Participants assigned to the control group received usual care only, which consisted of psychiatric counselling and/or medication, the dose and frequency of which was as deemed appropriate by the prescribing CAMHS professional.",
+            "In addition to usual care, patients assigned to the experimental group received the Alvin model of 'Free Improvisation' (Bruscia, 1987) .",
+            "Improvisation encourages the patient to create music and sound freely through voice, instrument or movement, while receiving support and encouragement tailored to suit their needs as assessed by their therapist.",
+            "This technique is deemed particularly useful to those who struggle with communication and interpersonal skills, as these are the basic requirements for improvisation (Wigram, 2004) .",
+            "Instruments such as the guitar, xylophone, keyboard and drums were used, and patients had the opportunity to make personalised CDs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Sessions were delivered individually, face-to-face in a private room provided by the CAMHS. A total of 12 weekly sessions, lasting 30 min were offered. In line with the intention-to-treat principle, patients who attended fewer sessions were not excluded from data analysis. Each participant received three assessment sessions before treatment aims were discussed and established with the music therapist. All MT sessions were led by the participant who was invited to choose an instrument to express how they were feeling that day and the previous week. All sessions ended with a verbal or musical reflection on the session and a plan made for the following week.",
+        "section": "Intervention",
+        "section_number": 10,
+        "sentences": [
+            "Sessions were delivered individually, face-to-face in a private room provided by the CAMHS.",
+            "A total of 12 weekly sessions, lasting 30 min were offered.",
+            "In line with the intention-to-treat principle, patients who attended fewer sessions were not excluded from data analysis.",
+            "Each participant received three assessment sessions before treatment aims were discussed and established with the music therapist.",
+            "All MT sessions were led by the participant who was invited to choose an instrument to express how they were feeling that day and the previous week.",
+            "All sessions ended with a verbal or musical reflection on the session and a plan made for the following week."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "delivered the intervention to all participants. While this may be considered a limitation, it can also ensure consistency of delivery. The therapist had over 5 years postgraduate experience working with a wide and varied client group including children and young people with social, emotional and behavioural difficulties.",
+        "section": "Intervention",
+        "section_number": 11,
+        "sentences": [
+            "delivered the intervention to all participants.",
+            "While this may be considered a limitation, it can also ensure consistency of delivery.",
+            "The therapist had over 5 years postgraduate experience working with a wide and varied client group including children and young people with social, emotional and behavioural difficulties."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "All of the MT sessions were unique and client led, using the Alvin model of MT (Bruscia, 1987) to guide the delivery of the intervention. Ongoing monitoring and supervision by the Clinical Services Director ensured adherence to the model manual and theoretical fidelity (Borelli, 2011) . Additional supervision included peer supervision and external supervision by a Professor of MT; all of which are particularly useful when ensuring treatment fidelity (Borelli, 2011) and quality of delivery (Carroll et al., 2007) . For ethical reasons, it was deemed inappropriate to directly observe the delivery of sessions; however, these were regularly videotaped and monitored by the Clinical Services Director to ensure adherence to the model.",
+        "section": "Intervention",
+        "section_number": 12,
+        "sentences": [
+            "All of the MT sessions were unique and client led, using the Alvin model of MT (Bruscia, 1987) to guide the delivery of the intervention.",
+            "Ongoing monitoring and supervision by the Clinical Services Director ensured adherence to the model manual and theoretical fidelity (Borelli, 2011) .",
+            "Additional supervision included peer supervision and external supervision by a Professor of MT; all of which are particularly useful when ensuring treatment fidelity (Borelli, 2011) and quality of delivery (Carroll et al., 2007) .",
+            "For ethical reasons, it was deemed inappropriate to directly observe the delivery of sessions; however, these were regularly videotaped and monitored by the Clinical Services Director to ensure adherence to the model."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "The primary outcome was communicative and interactional skills, as measured by parental and self-reporting of the Social Skills Improvement System Rating Scales (SSIS, Gresham & Elliott, 2008) at week 13. The secondary outcomes included communicative and interactional skills at week 26, self-esteem (measured using the Rosenberg Self-Esteem Scale, Rosenberg, 1965) and depressive symptoms [measured using the Centre for Epidemiological Studies Depression Scale for Children (CES-DC, Weissman, Orvaschel, & Padian, 1980) ] completed by the young person, social functioning measured using the Child Behaviour Checklist (Achenbach & Rescorla, 2001) , and family functioning assessed using the Family Assessment Device (Epstein, Baldwin, & Bishop, 1983) , completed by a parent.",
+        "section": "Measures",
+        "section_number": 13,
+        "sentences": [
+            "The primary outcome was communicative and interactional skills, as measured by parental and self-reporting of the Social Skills Improvement System Rating Scales (SSIS, Gresham & Elliott, 2008) at week 13.",
+            "The secondary outcomes included communicative and interactional skills at week 26, self-esteem (measured using the Rosenberg Self-Esteem Scale, Rosenberg, 1965) and depressive symptoms [measured using the Centre for Epidemiological Studies Depression Scale for Children (CES-DC, Weissman, Orvaschel, & Padian, 1980) ] completed by the young person, social functioning measured using the Child Behaviour Checklist (Achenbach & Rescorla, 2001) , and family functioning assessed using the Family Assessment Device (Epstein, Baldwin, & Bishop, 1983) , completed by a parent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Ethics approval was granted by the Office of Research Ethics in Northern Ireland (10/NIR01/52). This study is registered in the ISRCTN Register, ISRCTN96352204, http://isrctn.org.",
+        "section": "Measures",
+        "section_number": 14,
+        "sentences": [
+            "Ethics approval was granted by the Office of Research Ethics in Northern Ireland (10/NIR01/52).",
+            "This study is registered in the ISRCTN Register, ISRCTN96352204, http://isrctn.org."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "A sample size of 99 patients completing the trial in each group was estimated to have an 80% power to detect a mean difference of 0.4 SDs in the two groups at the 5% significance level for the primary outcome, as previously outlined in the study protocol (Porter et al., 2012) . To allow for a dropout rate of 20%, 251 children and young people were recruited to the study. All analyses were performed on an intention-to-treat basis. Hence, all participants with outcome data were included in the analysis irrespective of compliance. All statistical tests were at the two-sided p-value of .05.",
+        "section": "Statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "A sample size of 99 patients completing the trial in each group was estimated to have an 80% power to detect a mean difference of 0.4 SDs in the two groups at the 5% significance level for the primary outcome, as previously outlined in the study protocol (Porter et al., 2012) .",
+            "To allow for a dropout rate of 20%, 251 children and young people were recruited to the study.",
+            "All analyses were performed on an intention-to-treat basis.",
+            "Hence, all participants with outcome data were included in the analysis irrespective of compliance.",
+            "All statistical tests were at the two-sided p-value of .05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "The difference in mean SSIS at week 13 was compared between the intervention and control group while adjusting for baseline SSIS using analysis of covariance (Vickers & Altman, 2001 ). Specifically, a multiple linear regression model was applied with SSIS at week 13 as the dependent variable, and SSIS at baseline and a group variable (denoting intervention or control group) as explanatory variables. The adjusted difference in mean between groups (95% CIs) and two-sided p-value was derived from this model. An adjusted analysis was also conducted including in the regression model potential confounders such as social deprivation score, age at randomisation and study site. An effect size was calculated by dividing the adjusted difference in mean by the standard deviation of the outcome at baseline in the usual care group. Social deprivation was measured using the Northern Ireland Multiple Deprivation Measure, developed by the Northern Ireland Statistics and Research Agency (NISRA, 2010) . This is a measure of deprivation based on an individual's Super Output Area level, as derived from the postcode, which uses a combination of domains to determine a weighted single score. The domains relate to income, employment, health and disability, education, skills and training, proximity to services, living environment and crime and disorder. Scores can then be divided into quintiles of 1-5, with 1 representing the most deprived quintile (NISRA, 2010).",
+        "section": "Statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "The difference in mean SSIS at week 13 was compared between the intervention and control group while adjusting for baseline SSIS using analysis of covariance (Vickers & Altman, 2001 ).",
+            "Specifically, a multiple linear regression model was applied with SSIS at week 13 as the dependent variable, and SSIS at baseline and a group variable (denoting intervention or control group) as explanatory variables.",
+            "The adjusted difference in mean between groups (95% CIs) and two-sided p-value was derived from this model.",
+            "An adjusted analysis was also conducted including in the regression model potential confounders such as social deprivation score, age at randomisation and study site.",
+            "An effect size was calculated by dividing the adjusted difference in mean by the standard deviation of the outcome at baseline in the usual care group.",
+            "Social deprivation was measured using the Northern Ireland Multiple Deprivation Measure, developed by the Northern Ireland Statistics and Research Agency (NISRA, 2010) .",
+            "This is a measure of deprivation based on an individual's Super Output Area level, as derived from the postcode, which uses a combination of domains to determine a weighted single score.",
+            "The domains relate to income, employment, health and disability, education, skills and training, proximity to services, living environment and crime and disorder.",
+            "Scores can then be divided into quintiles of 1-5, with 1 representing the most deprived quintile (NISRA, 2010)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "A secondary analysis was conducted repeating this analysis at week 26. Similar analyses were conducted for secondary outcomes including measures of self-esteem, social functioning, family functioning and depression. Residuals from regression models were checked against assumptions of multiple linear regression models. Prespecified subgroup analyses for the primary endpoints were carried out according to: age at randomisation (<13, \u226513), a diagnosis which included autism, and a diagnosis which included anxiety and/or depression.",
+        "section": "Statistical analysis",
+        "section_number": 17,
+        "sentences": [
+            "A secondary analysis was conducted repeating this analysis at week 26.",
+            "Similar analyses were conducted for secondary outcomes including measures of self-esteem, social functioning, family functioning and depression.",
+            "Residuals from regression models were checked against assumptions of multiple linear regression models.",
+            "Prespecified subgroup analyses for the primary endpoints were carried out according to: age at randomisation (<13, \u226513), a diagnosis which included autism, and a diagnosis which included anxiety and/or depression."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Baseline characteristics were compared between patients who were included in the main analysis and those who had missing values. For the primary outcome (SSIS), two additional sensitivity analyses were conducted to adjust for missing data at week 13. First, as recommended for missing outcome data when a baseline is available (Groenwold, Donders, Roes, Harrell, & Moons, 2012) , a covariate adjusted complete case analysis was conducted with variables included in the model (specifically baseline score, age, gender, study site, ethnicity, social deprivation score, single parent family, employment status of mother/father, autism, anxiety or depression), which could be associated with outcome or probability of missingness. Second, a multiple imputation was conducted. A regression model was used to impute SSIS at week 13 with explanatory variables including baseline score, age, gender, study site, ethnicity, social deprivation score, single parent family, employment status of mother/father, autism, anxiety or depression and stratified by treatment group (a separate model adjusting for treatment group gave similar results, not shown). Ten imputations were conducted and results were combined using Rubin's rules (implemented in STATA using the mi command).",
+        "section": "Statistical analysis",
+        "section_number": 18,
+        "sentences": [
+            "Baseline characteristics were compared between patients who were included in the main analysis and those who had missing values.",
+            "For the primary outcome (SSIS), two additional sensitivity analyses were conducted to adjust for missing data at week 13.",
+            "First, as recommended for missing outcome data when a baseline is available (Groenwold, Donders, Roes, Harrell, & Moons, 2012) , a covariate adjusted complete case analysis was conducted with variables included in the model (specifically baseline score, age, gender, study site, ethnicity, social deprivation score, single parent family, employment status of mother/father, autism, anxiety or depression), which could be associated with outcome or probability of missingness.",
+            "Second, a multiple imputation was conducted.",
+            "A regression model was used to impute SSIS at week 13 with explanatory variables including baseline score, age, gender, study site, ethnicity, social deprivation score, single parent family, employment status of mother/father, autism, anxiety or depression and stratified by treatment group (a separate model adjusting for treatment group gave similar results, not shown).",
+            "Ten imputations were conducted and results were combined using Rubin's rules (implemented in STATA using the mi command)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Three hundred and forty-two children and young people were referred by health care practitioners to the trial team for screening. Two hundred and fifty one were recruited and randomised to the trial between March 2011 and May 2014. Table S1 shows the trial profile. Loss to follow-up for the MT group was 47/123 (38%) and 25/128 (18%) in the usual care group, with 76 and 105 participants included in the final analysis from the MT and usual care groups respectively. In line with the intention-to-treat principle, all participants with primary outcome data were included in the final analysis regardless of compliance. At week 26, loss to follow-up for the MT group was 9/76 (12%) and 15/105 (14%) in the usual care group (including seven with baseline and week 13 data only), with 68 and 96 participants included in the final analysis from the MT and usual care groups respectively. Of the 123 participants assigned to the MT group, 12% (15) did not attend their first appointment, 88% (108) attended 10-12 sessions, with all of these attending their final session, 44% (54) attended all 12 sessions, 14% (17) attended 11 sessions, and 30% (37) attended 10 sessions (Figure 1) .",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "Three hundred and forty-two children and young people were referred by health care practitioners to the trial team for screening.",
+            "Two hundred and fifty one were recruited and randomised to the trial between March 2011 and May 2014.",
+            "Table S1 shows the trial profile.",
+            "Loss to follow-up for the MT group was 47/123 (38%) and 25/128 (18%) in the usual care group, with 76 and 105 participants included in the final analysis from the MT and usual care groups respectively.",
+            "In line with the intention-to-treat principle, all participants with primary outcome data were included in the final analysis regardless of compliance.",
+            "At week 26, loss to follow-up for the MT group was 9/76 (12%) and 15/105 (14%) in the usual care group (including seven with baseline and week 13 data only), with 68 and 96 participants included in the final analysis from the MT and usual care groups respectively.",
+            "Of the 123 participants assigned to the MT group, 12% (15) did not attend their first appointment, 88% (108) attended 10-12 sessions, with all of these attending their final session, 44% (54) attended all 12 sessions, 14% (17) attended 11 sessions, and 30% (37) attended 10 sessions (Figure 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Baseline characteristics for the study population were similar in both the control and intervention group demonstrating a robust randomisation process.",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "Baseline characteristics for the study population were similar in both the control and intervention group demonstrating a robust randomisation process."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Baseline results from measurement tools are also highlighted in Table S1 , detailing mean scores for all participants randomised. One hundred and eighty one children and young people of the 251 randomised were included in the final analysis based on the availability of primary outcome data. Table 1 shows the results of the primary outcome. Although an improvement in communication and interaction skills was observed for the intervention group, this did not reach statistical significance for the child SSIS (adjusted difference in mean 2.4; 95% CI \u00c01.2 to 6.1; p = .19) or for the guardian SSIS (difference in mean 0.5; \u00c02.9 to 3.8; p = .78).",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "Baseline results from measurement tools are also highlighted in Table S1 , detailing mean scores for all participants randomised.",
+            "One hundred and eighty one children and young people of the 251 randomised were included in the final analysis based on the availability of primary outcome data.",
+            "Table 1 shows the results of the primary outcome.",
+            "Although an improvement in communication and interaction skills was observed for the intervention group, this did not reach statistical significance for the child SSIS (adjusted difference in mean 2.4; 95% CI \u00c01.2 to 6.1; p = .19) or for the guardian SSIS (difference in mean 0.5; \u00c02.9 to 3.8; p = .78)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Baseline characteristics were compared between patients who were randomised and included in the main analysis of child SSIS and those not included due to missing values, see Table S2 . In general, characteristics of included patients were similar to those not included. In particular, the mean baseline child SSIS was similar in those included and not included in both the intervention (90.0 vs. 87.1 respectively; p = .48) and control groups (89.9 vs. 85.6 respectively; p = .17). However, there was evidence of a greater proportion of missing values in males in the intervention group (36% of included patients were male vs. 60% of those not included; p = .01) and a lower proportion of missing values in patients with depression in the usual care group (40% of included patients had depression vs. 17% of those not included; p = .04).",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "Baseline characteristics were compared between patients who were randomised and included in the main analysis of child SSIS and those not included due to missing values, see Table S2 .",
+            "In general, characteristics of included patients were similar to those not included.",
+            "In particular, the mean baseline child SSIS was similar in those included and not included in both the intervention (90.0 vs. 87.1 respectively; p = .48) and control groups (89.9 vs. 85.6 respectively; p = .17).",
+            "However, there was evidence of a greater proportion of missing values in males in the intervention group (36% of included patients were male vs. 60% of those not included; p = .01) and a lower proportion of missing values in patients with depression in the usual care group (40% of included patients had depression vs. 17% of those not included; p = .04)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "The main finding for the child SSIS (adjusted difference in mean 2.4, 95% CI \u00c01.2, 6.1) was little altered in sensitivity analysis adjusting for missing data based upon covariate adjusted complete case analysis (2.5, 95% CI \u00c01.3, 6.3) or multiple imputation (2.8, 95% CI \u00c01.6, 7.2). The main finding for the parent SSIS (adjusted difference in mean 0.5, 95% CI \u00c02.9, 3.8) was little altered in sensitivity analysis adjusting for missing data based upon covariate adjusted complete case analysis (0.3, 95% CI \u00c03.1, 3.8) or multiple imputation (1.1, 95% CI \u00c03.1, 5.2). Table 2 shows results for the primary outcome analysed according to prespecified subgroups. A small but clinically significant effect was noted for improved communication and interaction skills for those young people aged 13 and over in the intervention group, as compared to the control group (adjusted difference in mean 6.1, 95% CI 1.6 to 10.5; p = .007). No significant difference was noted for those children aged under 13 between the groups. When analysed according to a diagnosis, which Table S3 shows secondary outcomes for all participants who completed the trial at week 13. At week 13, self-esteem was significantly improved and depression scores were significantly lower in the intervention group when compared to the usual care group (adjusted difference in mean 2.1; 0.8 to 3.4; p = .002 and \u00c05.1; \u00c08.6 to \u00c01.7; p = .004 respectively). A slight difference was noted in the magnitude of the effect for depression after removal of a large outlier; adjusted difference in mean \u00c04.6 (95% CI \u00c07.9 to 1.3; p = .006). There was no significant difference in social functioning or family functioning between the treatment groups. Table S4 shows results for participants at week 26. Overall, there was little evidence of a difference in communication and interaction skills for the child SSIS (adjusted difference in mean 3.9; 95% CI \u00c00.6 to 8.4; p = .09) or the guardian SSIS. Social functioning was significantly improved in the intervention group when compared to the usual care group (adjusted difference in mean \u00c07.4 (95% CI \u00c014.4 to \u00c00.4; p = .04). However, after removal of a large outlier, the adjusted difference in mean for Social Functioning attenuated to \u00c06.3 (95% CI \u00c012.9 to \u00c00.3; p = .06). There was no significant difference in family functioning between the treatment groups, and significant improvements in self-esteem and depression were not sustained for the intervention group at week 26.",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "The main finding for the child SSIS (adjusted difference in mean 2.4, 95% CI \u00c01.2, 6.1) was little altered in sensitivity analysis adjusting for missing data based upon covariate adjusted complete case analysis (2.5, 95% CI \u00c01.3, 6.3) or multiple imputation (2.8, 95% CI \u00c01.6, 7.2).",
+            "The main finding for the parent SSIS (adjusted difference in mean 0.5, 95% CI \u00c02.9, 3.8) was little altered in sensitivity analysis adjusting for missing data based upon covariate adjusted complete case analysis (0.3, 95% CI \u00c03.1, 3.8) or multiple imputation (1.1, 95% CI \u00c03.1, 5.2).",
+            "Table 2 shows results for the primary outcome analysed according to prespecified subgroups.",
+            "A small but clinically significant effect was noted for improved communication and interaction skills for those young people aged 13 and over in the intervention group, as compared to the control group (adjusted difference in mean 6.1, 95% CI 1.6 to 10.5; p = .007).",
+            "No significant difference was noted for those children aged under 13 between the groups.",
+            "When analysed according to a diagnosis, which Table S3 shows secondary outcomes for all participants who completed the trial at week 13.",
+            "At week 13, self-esteem was significantly improved and depression scores were significantly lower in the intervention group when compared to the usual care group (adjusted difference in mean 2.1; 0.8 to 3.4; p = .002 and \u00c05.1; \u00c08.6 to \u00c01.7; p = .004 respectively).",
+            "A slight difference was noted in the magnitude of the effect for depression after removal of a large outlier; adjusted difference in mean \u00c04.6 (95% CI \u00c07.9 to 1.3; p = .006).",
+            "There was no significant difference in social functioning or family functioning between the treatment groups.",
+            "Table S4 shows results for participants at week 26.",
+            "Overall, there was little evidence of a difference in communication and interaction skills for the child SSIS (adjusted difference in mean 3.9; 95% CI \u00c00.6 to 8.4; p = .09) or the guardian SSIS.",
+            "Social functioning was significantly improved in the intervention group when compared to the usual care group (adjusted difference in mean \u00c07.4 (95% CI \u00c014.4 to \u00c00.4; p = .04).",
+            "However, after removal of a large outlier, the adjusted difference in mean for Social Functioning attenuated to \u00c06.3 (95% CI \u00c012.9 to \u00c00.3; p = .06).",
+            "There was no significant difference in family functioning between the treatment groups, and significant improvements in self-esteem and depression were not sustained for the intervention group at week 26."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "In terms of the primary outcome of this study, MT was not shown to improve the communication and interaction skills of all respondents, as determined by self-report and by parental report 1 week following intervention. However, an improvement in selfreported communication and interaction skills was observed for those aged over 13, a predefined subgroup, indicative of a small but clinically significant effect of MT among this subgroup. This improvement is notable in the light of the previous dearth of strong evidence of improved communication among adolescents receiving MT (Geretsegger, Elefant, Mossler, & Gold, 2014) . Taking into account the important socioeconomic and interpersonal implications of improvement in communication skills during this pivotal period of personal development (James, 2007) , this finding provides a promising indication of the potential of MT for troubled adolescents, and indicates the merit of further evaluation focussed on the effectiveness of MT in improving the interactive skills of this age-group. Global concerns about the lack of effective interventions to improve the mental health of adolescents (Patel, Flisher, Hetrick, & McGorry, 2007) make this recommendation all the more pressing.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "In terms of the primary outcome of this study, MT was not shown to improve the communication and interaction skills of all respondents, as determined by self-report and by parental report 1 week following intervention.",
+            "However, an improvement in selfreported communication and interaction skills was observed for those aged over 13, a predefined subgroup, indicative of a small but clinically significant effect of MT among this subgroup.",
+            "This improvement is notable in the light of the previous dearth of strong evidence of improved communication among adolescents receiving MT (Geretsegger, Elefant, Mossler, & Gold, 2014) .",
+            "Taking into account the important socioeconomic and interpersonal implications of improvement in communication skills during this pivotal period of personal development (James, 2007) , this finding provides a promising indication of the potential of MT for troubled adolescents, and indicates the merit of further evaluation focussed on the effectiveness of MT in improving the interactive skills of this age-group.",
+            "Global concerns about the lack of effective interventions to improve the mental health of adolescents (Patel, Flisher, Hetrick, & McGorry, 2007) make this recommendation all the more pressing."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "In terms of secondary outcomes, the self-reported improvement in communication and interactive skills in adolescents was not shown to be sustained in the longer term, indicating that further research into the optimal duration of MT is required to shed light on long-term benefits. There was a small but significant improvement in self-esteem and depression for all children and young people receiving MT compared to the control group on completion of therapy, but once again, this was not sustained at week 26. Notwithstanding this apparent wash out of effect over time, the modest short-term improvements should be regarded in the light of the significant impact that low self-esteem has on levels of Difference in mean (MTusual care), adjusting for corresponding baseline score using analysis of covariance. b Difference in mean (MTusual care), adjusting for corresponding baseline score using analysis of covariance, including site, age (<13, \u226513 years), gender and deprivation (in fifths) in the model. depression irrespective of gender and age (Friederike-Sowislo & Ulrich, 2013). Our findings suggest MT's effectiveness in increasing self-esteem and thus potentially reducing depression among this population in the short term warrants further exploration to ascertain whether alternative modularities of MT have the potential for increasing the duration of effect. Conversely, while MT had no effect on social functioning in the short term, we did observe a small effect in the long term, but this was attenuated after the removal of a marked outlier. No improvement in family functioning was observed at either time point. However, a smaller number of parents completed the measure in comparison to the others, probably as the result of order effects; as this measure was presented last.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "In terms of secondary outcomes, the self-reported improvement in communication and interactive skills in adolescents was not shown to be sustained in the longer term, indicating that further research into the optimal duration of MT is required to shed light on long-term benefits.",
+            "There was a small but significant improvement in self-esteem and depression for all children and young people receiving MT compared to the control group on completion of therapy, but once again, this was not sustained at week 26.",
+            "Notwithstanding this apparent wash out of effect over time, the modest short-term improvements should be regarded in the light of the significant impact that low self-esteem has on levels of Difference in mean (MTusual care), adjusting for corresponding baseline score using analysis of covariance.",
+            "b Difference in mean (MTusual care), adjusting for corresponding baseline score using analysis of covariance, including site, age (<13, \u226513 years), gender and deprivation (in fifths) in the model.",
+            "depression irrespective of gender and age (Friederike-Sowislo & Ulrich, 2013).",
+            "Our findings suggest MT's effectiveness in increasing self-esteem and thus potentially reducing depression among this population in the short term warrants further exploration to ascertain whether alternative modularities of MT have the potential for increasing the duration of effect.",
+            "Conversely, while MT had no effect on social functioning in the short term, we did observe a small effect in the long term, but this was attenuated after the removal of a marked outlier.",
+            "No improvement in family functioning was observed at either time point.",
+            "However, a smaller number of parents completed the measure in comparison to the others, probably as the result of order effects; as this measure was presented last."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "While recruitment targets were met (Porter et al., 2014) , the higher dropout rate of 38% in the intervention group compared to the rate of 18% in the control group raises questions in relation to the acceptability of MT as a treatment option for this population. However, given that 32 young people attended 10-12 sessions but did not attend primary outcome data collection sessions, despite considerable efforts to improve attendance at study visits without coercion (Porter et al., 2014) , suggests apathy to the research rather than low adherence to therapy. One possible explanation is substantive anecdotal parental reports of improvements in some children and young people who attended MT, and as a consequence parents not wanting to subject them to further questionnaires relating to mental health issues. Furthermore, MT appears to have been well received when viewed in comparison to other interventions where the DNA (Did Not Attend) rate was high (The Regulation and Quality Improvement Authority, 2011). High attrition rates have been also been reported as problematic in RCTs of other therapies such as Cognitive Behavioural Therapy and Psychodynamic Therapies (Fonagy et al., 2015) . The high attrition rate in the treatment arm of this trial may have led to an underestimation of the effectiveness of MT for those who received it but did not consent to follow-up assessment.",
+        "section": "Limitations",
+        "section_number": 26,
+        "sentences": [
+            "While recruitment targets were met (Porter et al., 2014) , the higher dropout rate of 38% in the intervention group compared to the rate of 18% in the control group raises questions in relation to the acceptability of MT as a treatment option for this population.",
+            "However, given that 32 young people attended 10-12 sessions but did not attend primary outcome data collection sessions, despite considerable efforts to improve attendance at study visits without coercion (Porter et al., 2014) , suggests apathy to the research rather than low adherence to therapy.",
+            "One possible explanation is substantive anecdotal parental reports of improvements in some children and young people who attended MT, and as a consequence parents not wanting to subject them to further questionnaires relating to mental health issues.",
+            "Furthermore, MT appears to have been well received when viewed in comparison to other interventions where the DNA (Did Not Attend) rate was high (The Regulation and Quality Improvement Authority, 2011).",
+            "High attrition rates have been also been reported as problematic in RCTs of other therapies such as Cognitive Behavioural Therapy and Psychodynamic Therapies (Fonagy et al., 2015) .",
+            "The high attrition rate in the treatment arm of this trial may have led to an underestimation of the effectiveness of MT for those who received it but did not consent to follow-up assessment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Second, we cannot rule out that the beneficial effects observed were at least partially caused by the care and attention given by the therapist, and not exclusively the result of factors specific to MT. However, because therapeutic intervention is an active component of MT, the inclusion of a nonmusical interactive control would have been inappropriate (Bruscia, 1998) .",
+        "section": "Limitations",
+        "section_number": 27,
+        "sentences": [
+            "Second, we cannot rule out that the beneficial effects observed were at least partially caused by the care and attention given by the therapist, and not exclusively the result of factors specific to MT.",
+            "However, because therapeutic intervention is an active component of MT, the inclusion of a nonmusical interactive control would have been inappropriate (Bruscia, 1998) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Third, the inclusion criterion of children with mental and behavioural disorders categorised between F00 and F99 of the ICD-10 classification was wide, and meant that the study was unable to ascertain the effectiveness of MT in treating children with specific diagnoses within that range. The wide inclusion criterion reflected the pragmatic design of the trial, which aimed to evaluate the effectiveness of MT on the population likely to present itself to clinicians providing specialist services, who routinely prescribe treatment on the basis of a working, rather than definitive diagnosis. However, the results indicate that there is a need for further studies targeted at specific disorders.",
+        "section": "Limitations",
+        "section_number": 28,
+        "sentences": [
+            "Third, the inclusion criterion of children with mental and behavioural disorders categorised between F00 and F99 of the ICD-10 classification was wide, and meant that the study was unable to ascertain the effectiveness of MT in treating children with specific diagnoses within that range.",
+            "The wide inclusion criterion reflected the pragmatic design of the trial, which aimed to evaluate the effectiveness of MT on the population likely to present itself to clinicians providing specialist services, who routinely prescribe treatment on the basis of a working, rather than definitive diagnosis.",
+            "However, the results indicate that there is a need for further studies targeted at specific disorders."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Fourthly, outcome measures were all based solely on parent and patient report. Given that parents and patients were not blind to study condition, some other form of outcome (behavioural observations by a clinician) would have helped strengthen the study, and we strongly recommend this be considered for future research. Finally, the high rate of missing data at week 26 introduces a weakness and we caution the interpretation of the analysis at this later time point.",
+        "section": "Limitations",
+        "section_number": 29,
+        "sentences": [
+            "Fourthly, outcome measures were all based solely on parent and patient report.",
+            "Given that parents and patients were not blind to study condition, some other form of outcome (behavioural observations by a clinician) would have helped strengthen the study, and we strongly recommend this be considered for future research.",
+            "Finally, the high rate of missing data at week 26 introduces a weakness and we caution the interpretation of the analysis at this later time point."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Notwithstanding these issues, this study is the largest completed randomised controlled trial to date to test the effectiveness of MT on the communicative skills of children and adolescents with social, emotional and behavioural difficulties. There have been several systematic reviews investigating the evidence of the efficacy of MT for young people who are experiencing social, emotional and behavioural difficulties relating to pervasive developmental disorders such as autistic spectrum disorder.",
+        "section": "Limitations",
+        "section_number": 30,
+        "sentences": [
+            "Notwithstanding these issues, this study is the largest completed randomised controlled trial to date to test the effectiveness of MT on the communicative skills of children and adolescents with social, emotional and behavioural difficulties.",
+            "There have been several systematic reviews investigating the evidence of the efficacy of MT for young people who are experiencing social, emotional and behavioural difficulties relating to pervasive developmental disorders such as autistic spectrum disorder."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "The most recent Cochrane Collaboration review (Geretsegger et al., 2014) suggested MT may improve communication in children with autistic spectrum disorder. This study does not add significant evidence in relation to autistic spectrum disorder because the number of participants suffering from autism was not great enough to enable sufficiently powered statistical analysis.",
+        "section": "Limitations",
+        "section_number": 31,
+        "sentences": [
+            "The most recent Cochrane Collaboration review (Geretsegger et al., 2014) suggested MT may improve communication in children with autistic spectrum disorder.",
+            "This study does not add significant evidence in relation to autistic spectrum disorder because the number of participants suffering from autism was not great enough to enable sufficiently powered statistical analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Our sample was made up of around 40% of single parents. This suggests that social, emotional and behavioural problems may be more prevalent among this population; an assumption which is supported by the research literature (Murphy & Fonagy, 2012) . Furthermore, interventions aimed solely at young people may be limited. It has been suggested that interventions provided simultaneously for both child and parent are ultimately the best idea given the environmental/wider influences on young people's mental health (Green, McGinnity, Meltzer, Ford, & Goodman, 2005) . Further MT research addressing this 'at risk' group and involving parents is warranted.",
+        "section": "Limitations",
+        "section_number": 32,
+        "sentences": [
+            "Our sample was made up of around 40% of single parents.",
+            "This suggests that social, emotional and behavioural problems may be more prevalent among this population; an assumption which is supported by the research literature (Murphy & Fonagy, 2012) .",
+            "Furthermore, interventions aimed solely at young people may be limited.",
+            "It has been suggested that interventions provided simultaneously for both child and parent are ultimately the best idea given the environmental/wider influences on young people's mental health (Green, McGinnity, Meltzer, Ford, & Goodman, 2005) .",
+            "Further MT research addressing this 'at risk' group and involving parents is warranted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "An earlier meta-analysis on the effects of MT on children and adolescents with psychopathology (Gold et al., 2004) showed a highly significant, medium to large effect on clinically relevant outcomes. However, it did not measure effectiveness in routine clinical practice. A subsequent quasi-experimental study conducted with a similar age range of participants to our study, using a similar type of MT intervention in clinical settings only indicated effectiveness for patients without comorbid conditions (Gold et al., 2007) . Our findings provide modest evidence that MT may also be effective with children suffering from comorbid conditions in routine clinical settings.",
+        "section": "Limitations",
+        "section_number": 33,
+        "sentences": [
+            "An earlier meta-analysis on the effects of MT on children and adolescents with psychopathology (Gold et al., 2004) showed a highly significant, medium to large effect on clinically relevant outcomes.",
+            "However, it did not measure effectiveness in routine clinical practice.",
+            "A subsequent quasi-experimental study conducted with a similar age range of participants to our study, using a similar type of MT intervention in clinical settings only indicated effectiveness for patients without comorbid conditions (Gold et al., 2007) .",
+            "Our findings provide modest evidence that MT may also be effective with children suffering from comorbid conditions in routine clinical settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Two of four major objectives set out in the current WHO Mental Health Action Plan are the implementation of strategies for promoting mental health in young people, and the need for research to provide a stronger evidence base (World Health Organization, 2013). The plan promotes the provision of early, community-based interventions such as psychosocial and nonpharmacological approaches to avoid medicalisation and institutionalisation.",
+        "section": "Conclusion",
+        "section_number": 34,
+        "sentences": [
+            "Two of four major objectives set out in the current WHO Mental Health Action Plan are the implementation of strategies for promoting mental health in young people, and the need for research to provide a stronger evidence base (World Health Organization, 2013).",
+            "The plan promotes the provision of early, community-based interventions such as psychosocial and nonpharmacological approaches to avoid medicalisation and institutionalisation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "This study, through its identification of an improved clinical effect in self-reported communicative and interactive skills of adolescents, and an improvement for both children and adolescents in levels of depression and self-esteem in the short term, provides evidence of the potential of MT to contribute to these strategies. However, because the improvements identified tended to be modest and short-lasting, recommendations for the inclusion of MT in the clinical armamentarium for the treatment of children with behavioural, developmental and emotional disorders can only be suggestive, rather than definitive. Nonetheless, the results of this pragmatic trial strongly indicate the need for further research to ascertain what type and dosage of MT is most effective, and also for whom, and in what circumstances.",
+        "section": "Conclusion",
+        "section_number": 35,
+        "sentences": [
+            "This study, through its identification of an improved clinical effect in self-reported communicative and interactive skills of adolescents, and an improvement for both children and adolescents in levels of depression and self-esteem in the short term, provides evidence of the potential of MT to contribute to these strategies.",
+            "However, because the improvements identified tended to be modest and short-lasting, recommendations for the inclusion of MT in the clinical armamentarium for the treatment of children with behavioural, developmental and emotional disorders can only be suggestive, rather than definitive.",
+            "Nonetheless, the results of this pragmatic trial strongly indicate the need for further research to ascertain what type and dosage of MT is most effective, and also for whom, and in what circumstances."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Additional Supporting Information may be found in the online version of this article: Table S1 . Baseline characteristics of participants. Table S2 . Baseline characteristics of randomised participants by treatment group and by inclusion in main analysis. Table S3 . Comparison of secondary outcomes between groups at week 13. Table S4 . Comparison of secondary outcomes between groups at week 26. Appendix S1. CONSORT 2010 checklist of information to include when reporting a randomised trial.",
+        "section": "Supporting information",
+        "section_number": 36,
+        "sentences": [
+            "Additional Supporting Information may be found in the online version of this article: Table S1 .",
+            "Baseline characteristics of participants.",
+            "Table S2 .",
+            "Baseline characteristics of randomised participants by treatment group and by inclusion in main analysis.",
+            "Table S3 .",
+            "Comparison of secondary outcomes between groups at week 13.",
+            "Table S4 .",
+            "Comparison of secondary outcomes between groups at week 26.",
+            "Appendix S1.",
+            "CONSORT 2010 checklist of information to include when reporting a randomised trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "communicative and interactive skills of adolescents, and improve levels of depression and self-esteem for both children and adolescents in the short term.",
+        "section": "Supporting information",
+        "section_number": 37,
+        "sentences": [
+            "communicative and interactive skills of adolescents, and improve levels of depression and self-esteem for both children and adolescents in the short term."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "\u2022 Definitive answers as to the effectiveness of MT may have been hindered by high attrition to follow-up assessment. Future research into how to overcome high attrition rates in studies of the effectiveness of therapies for young people with mental health problems is warranted.",
+        "section": "Supporting information",
+        "section_number": 38,
+        "sentences": [
+            "\u2022 Definitive answers as to the effectiveness of MT may have been hindered by high attrition to follow-up assessment.",
+            "Future research into how to overcome high attrition rates in studies of the effectiveness of therapies for young people with mental health problems is warranted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "\u2022 Poor treatment compliance has been reported for young people with mental health problems. However, MT appeared to be a highly acceptable adjunct treatment to usual care indicating it is a clinically attractive treatment option.",
+        "section": "Supporting information",
+        "section_number": 39,
+        "sentences": [
+            "\u2022 Poor treatment compliance has been reported for young people with mental health problems.",
+            "However, MT appeared to be a highly acceptable adjunct treatment to usual care indicating it is a clinically attractive treatment option."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "\u00a9 2016 The Authors. Journal of Child Psychology and Psychiatry published by John Wiley & Sons Ltd on behalf of Association for Child and Adolescent Mental Health.",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "\u00a9 2016 The Authors.",
+            "Journal of Child Psychology and Psychiatry published by John Wiley & Sons Ltd on behalf of Association for Child and Adolescent Mental Health."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33781",
+        "text": "Sam Porter et al. J Child Psychol Psychiatr 2017; 58(5): 586-94",
+        "section": "",
+        "section_number": 41,
+        "sentences": [
+            "Sam Porter et al. J Child Psychol Psychiatr 2017; 58(5): 586-94"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

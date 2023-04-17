@@ -1,0 +1,727 @@
+[
+    {
+        "doc_id": "34774",
+        "text": "Background Inappropriate antibiotic prescribing contributes to the generation of drug resistance worldwide, and is particularly common in China. We assessed the effectiveness of an antimicrobial stewardship programme aiming to reduce inappropriate antibiotic prescribing in paediatric outpatients by targeting providers and caregivers in primary care hospitals in rural China. Methods We did a pragmatic, cluster-randomised controlled trial with a 6-month intervention period. Clusters were primary care township hospitals in two counties of Guangxi province in China, which were randomly allocated to the intervention group or the control group (in a 1:1 ratio in Rong county and in a 5:6 ratio in Liujiang county). Randomisation was stratified by county. Eligible participants were children aged 2-14 years who attended a township hospital as an outpatient and were given a prescription following a primary diagnosis of an upper respiratory tract infection. The intervention included clinician guidelines and training on appropriate prescribing, monthly prescribing peer-review meetings, and brief caregiver education. In hospitals allocated to the control group, usual care was provided, with antibiotics prescribed at the individual clinician's discretion. Patients were masked to their allocated treatment group but doctors were not. The primary outcome was the antibiotic prescription rate in children attending the hospitals, defined as the cluster-level proportion of prescriptions for upper respiratory tract infections in 2-14-year-old outpatients, issued during the final 3 months of the 6-month intervention period (endline), that included one or more antibiotics. The outcome was based on prescription records and analysed by modified intention-to-treat. This study is registered with the ISRCTN registry, number ISRCTN14340536. Findings We recruited all 25 eligible township hospitals in the two counties (14 hospitals in Rong county and 11 in Liujiang county), and randomly allocated 12 to the intervention group and 13 to the control group. We implemented the intervention in three internal pilot clusters between",
+        "section": "Abstract",
+        "sentences": [
+            "Background Inappropriate antibiotic prescribing contributes to the generation of drug resistance worldwide, and is particularly common in China.",
+            "We assessed the effectiveness of an antimicrobial stewardship programme aiming to reduce inappropriate antibiotic prescribing in paediatric outpatients by targeting providers and caregivers in primary care hospitals in rural China.",
+            "Methods We did a pragmatic, cluster-randomised controlled trial with a 6-month intervention period.",
+            "Clusters were primary care township hospitals in two counties of Guangxi province in China, which were randomly allocated to the intervention group or the control group (in a 1:1 ratio in Rong county and in a 5:6 ratio in Liujiang county).",
+            "Randomisation was stratified by county.",
+            "Eligible participants were children aged 2-14 years who attended a township hospital as an outpatient and were given a prescription following a primary diagnosis of an upper respiratory tract infection.",
+            "The intervention included clinician guidelines and training on appropriate prescribing, monthly prescribing peer-review meetings, and brief caregiver education.",
+            "In hospitals allocated to the control group, usual care was provided, with antibiotics prescribed at the individual clinician's discretion.",
+            "Patients were masked to their allocated treatment group but doctors were not.",
+            "The primary outcome was the antibiotic prescription rate in children attending the hospitals, defined as the cluster-level proportion of prescriptions for upper respiratory tract infections in 2-14-year-old outpatients, issued during the final 3 months of the 6-month intervention period (endline), that included one or more antibiotics.",
+            "The outcome was based on prescription records and analysed by modified intention-to-treat.",
+            "This study is registered with the ISRCTN registry, number ISRCTN14340536.",
+            "Findings We recruited all 25 eligible township hospitals in the two counties (14 hospitals in Rong county and 11 in Liujiang county), and randomly allocated 12 to the intervention group and 13 to the control group.",
+            "We implemented the intervention in three internal pilot clusters between"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Antimicrobial resistance is universally recognised as a threat to global public health. 1 A major driver of antimicrobial resistance has been a huge increase in antibiotic prescribing, especially in low-income and middle-income countries (LMICs). 2 The greatest source of antibiotic prescribing is for upper respiratory tract infections in children, which are the most common reasons for children to attend primary care facilities. 1 Generally, most upper respiratory tract infections in children are viral diseases such as sore throats, for which antibiotics are unnecessary. However, antibiotic overuse can lead to the selection of resistant organisms, 3 consequently causing clinical failure when common antibiotics are used. 1 Several factors affect the use of antibiotics, including clinicians' prescribing behaviours and patients' or caregivers' knowledge, attitudes, and demand for antibiotics. Doctors might also be influenced by concerns about missing additional underlying bacterial infections, or that viral infections could become secondarily bacterially infected. 4, 5 Behaviour change interventions, mainly in high-income countries, have shown that educational guidelines and printed educational materials for providers have positive but modest improvements on prescribing behaviour. 6 Recent systematic review evidence on antibiotic use for upper respiratory tract infections in children shows that strategies targeting both providers and caregivers are more effective than are those targeting providers alone, but no evidence exists for the effectiveness of such interventional programmes in LMICs. 7 In China, around 70% of outpatients attending primary care facilities with colds are inappropriately treated with antibiotics, often by intravenous infusion. 8 The situation is worse in children than in adults because parents or caregivers often demand antibiotics. 4 In 2012, the Chinese Ministry of Health issued a regulation to limit antibiotic prescribing to 20% of outpatient prescriptions in all patients. 9 However, the policy has not been successful, with outpatient antibiotic prescribing rates as high as 80% in recent years. 10, 11 Following a request by the Chinese national health authorities, we developed a comprehensive package, targeting both doctors and caregivers, to reduce inappropriate pre scribing of antibiotics for upper respiratory tract in fections in children within township hospitals-the rural primary care facilities-in China. 12 We then tested its effectiveness in a cluster-randomised controlled trial, which we report here.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Antimicrobial resistance is universally recognised as a threat to global public health.",
+            "1 A major driver of antimicrobial resistance has been a huge increase in antibiotic prescribing, especially in low-income and middle-income countries (LMICs).",
+            "2 The greatest source of antibiotic prescribing is for upper respiratory tract infections in children, which are the most common reasons for children to attend primary care facilities.",
+            "1 Generally, most upper respiratory tract infections in children are viral diseases such as sore throats, for which antibiotics are unnecessary.",
+            "However, antibiotic overuse can lead to the selection of resistant organisms, 3 consequently causing clinical failure when common antibiotics are used.",
+            "1 Several factors affect the use of antibiotics, including clinicians' prescribing behaviours and patients' or caregivers' knowledge, attitudes, and demand for antibiotics.",
+            "Doctors might also be influenced by concerns about missing additional underlying bacterial infections, or that viral infections could become secondarily bacterially infected.",
+            "4, 5 Behaviour change interventions, mainly in high-income countries, have shown that educational guidelines and printed educational materials for providers have positive but modest improvements on prescribing behaviour.",
+            "6 Recent systematic review evidence on antibiotic use for upper respiratory tract infections in children shows that strategies targeting both providers and caregivers are more effective than are those targeting providers alone, but no evidence exists for the effectiveness of such interventional programmes in LMICs.",
+            "7 In China, around 70% of outpatients attending primary care facilities with colds are inappropriately treated with antibiotics, often by intravenous infusion.",
+            "8 The situation is worse in children than in adults because parents or caregivers often demand antibiotics.",
+            "4 In 2012, the Chinese Ministry of Health issued a regulation to limit antibiotic prescribing to 20% of outpatient prescriptions in all patients.",
+            "9 However, the policy has not been successful, with outpatient antibiotic prescribing rates as high as 80% in recent years.",
+            "10, 11 Following a request by the Chinese national health authorities, we developed a comprehensive package, targeting both doctors and caregivers, to reduce inappropriate pre scribing of antibiotics for upper respiratory tract in fections in children within township hospitals-the rural primary care facilities-in China.",
+            "12 We then tested its effectiveness in a cluster-randomised controlled trial, which we report here."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "We did a pragmatic, parallel-group, cluster-randomised controlled trial, stratified by county, comparing our intervention with usual care in 25 township hospitals within the rural, low-income province of Guangxi in western China. China's rural primary care system contains township hospitals and village clinics; the township hospitals provide the majority of acute consultations in our",
+        "section": "Study design and setting",
+        "section_number": 2,
+        "sentences": [
+            "We did a pragmatic, parallel-group, cluster-randomised controlled trial, stratified by county, comparing our intervention with usual care in 25 township hospitals within the rural, low-income province of Guangxi in western China.",
+            "China's rural primary care system contains township hospitals and village clinics; the township hospitals provide the majority of acute consultations in our"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Evidence before this study Before we began this study, we did a systematic review of interventions to reduce antibiotic prescribing for respiratory infections in primary care settings. We searched PubMed, Cochrane, Embase, and Google Scholar from Jan 1, 1980, to Dec 31, 2016, for published studies, using the following keywords: \"antibiotics\", \"antibiotic prescribing\", \"primary care\", \"respiratory infections\", \"respiratory diseases\", \"education\", \"training\", \"RCT\", and \"randomised controlled trial\". We identified 129 studies, including 13 trials reporting results relating to interventions for reducing antibiotic prescription rates in primary care settings. Of these trials, 11 were done in high-income countries (five in the USA, four in Europe, one in Canada, and one in Israel), and two in low-income or middle-income countries (LMICs; one in China and one in Iran). The duration of interventions ranged from 3 months to 3 years, targeting either clinicians (nine trials), patients or caregivers (one), or both (three). The pooled absolute risk reduction in the antibiotic prescription rate for intervention versus control was -4\u20226% (95% CI -6\u20224 to -2\u20229; p<0\u20220001). Existing evidence suggested that training using guidelines produces a small reduction in the antibiotic prescription rate (ie, <5% absolute risk reduction in rate), whereas monitoring and feedback of prescribing behaviour achieves a slightly higher reduction (7-9%). One study in Quebec, Canada, involved patients in decision-making and reduced the absolute risk reduction in antibiotic prescription rate by 25%, but the sample size was small (n=9 clusters). The two trials in developing countries were not adequately designed or reported. Whether or not such interventions could be implemented in developing countries where overuse of antibiotics is more challenging was unclear.",
+        "section": "Research in context",
+        "section_number": 3,
+        "sentences": [
+            "Evidence before this study Before we began this study, we did a systematic review of interventions to reduce antibiotic prescribing for respiratory infections in primary care settings.",
+            "We searched PubMed, Cochrane, Embase, and Google Scholar from Jan 1, 1980, to Dec 31, 2016, for published studies, using the following keywords: \"antibiotics\", \"antibiotic prescribing\", \"primary care\", \"respiratory infections\", \"respiratory diseases\", \"education\", \"training\", \"RCT\", and \"randomised controlled trial\".",
+            "We identified 129 studies, including 13 trials reporting results relating to interventions for reducing antibiotic prescription rates in primary care settings.",
+            "Of these trials, 11 were done in high-income countries (five in the USA, four in Europe, one in Canada, and one in Israel), and two in low-income or middle-income countries (LMICs; one in China and one in Iran).",
+            "The duration of interventions ranged from 3 months to 3 years, targeting either clinicians (nine trials), patients or caregivers (one), or both (three).",
+            "The pooled absolute risk reduction in the antibiotic prescription rate for intervention versus control was -4\u20226% (95% CI -6\u20224 to -2\u20229; p<0\u20220001).",
+            "Existing evidence suggested that training using guidelines produces a small reduction in the antibiotic prescription rate (ie, <5% absolute risk reduction in rate), whereas monitoring and feedback of prescribing behaviour achieves a slightly higher reduction (7-9%).",
+            "One study in Quebec, Canada, involved patients in decision-making and reduced the absolute risk reduction in antibiotic prescription rate by 25%, but the sample size was small (n=9 clusters).",
+            "The two trials in developing countries were not adequately designed or reported.",
+            "Whether or not such interventions could be implemented in developing countries where overuse of antibiotics is more challenging was unclear."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "To our knowledge, our study was the first cluster-randomised trial to be done in a rural primary care setting aiming to reduce antibiotic use in LMICs with a relatively large sample size. Our intervention included the use of an evidence-based prescribing guideline, training and monthly prescribing peer-review meetings for doctors, and brief education for caregivers during consultations and an educational waiting room video for caregivers, and reduced the prescribing of antibiotics by 29 percentage points for childhood upper respiratory infections in rural Chinese primary care facilities. This effect size was much higher than those reported in previous studies. Our interventions were designed to be embedded within routine primary care, can be integrated into China's rural health-care system, and are ready to be scaled-up in China and other developing countries.",
+        "section": "Added value of this study",
+        "section_number": 4,
+        "sentences": [
+            "To our knowledge, our study was the first cluster-randomised trial to be done in a rural primary care setting aiming to reduce antibiotic use in LMICs with a relatively large sample size.",
+            "Our intervention included the use of an evidence-based prescribing guideline, training and monthly prescribing peer-review meetings for doctors, and brief education for caregivers during consultations and an educational waiting room video for caregivers, and reduced the prescribing of antibiotics by 29 percentage points for childhood upper respiratory infections in rural Chinese primary care facilities.",
+            "This effect size was much higher than those reported in previous studies.",
+            "Our interventions were designed to be embedded within routine primary care, can be integrated into China's rural health-care system, and are ready to be scaled-up in China and other developing countries."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Antimicrobial stewardship in developing countries should consider multicomponent interventions that provide clinical guidelines, improve knowledge, implement regular peer-review meetings, and provide concise education to caregivers and patients. These interventions should be designed to fit into routine primary care practice and policy settings to ensure effectiveness, sustainability, and scalability. Longer-term studies are needed to determine whether or not the effect size will be sustained over a long timeframe.",
+        "section": "Implications of all the available evidence",
+        "section_number": 5,
+        "sentences": [
+            "Antimicrobial stewardship in developing countries should consider multicomponent interventions that provide clinical guidelines, improve knowledge, implement regular peer-review meetings, and provide concise education to caregivers and patients.",
+            "These interventions should be designed to fit into routine primary care practice and policy settings to ensure effectiveness, sustainability, and scalability.",
+            "Longer-term studies are needed to determine whether or not the effect size will be sustained over a long timeframe."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "setting. 10, 13 The study area covered 1 372 000 rural residents, with a median annual income per person of US$1500 in 2013. Each township hospital provides outpatient care and a limited amount of inpatient care to a rural population of 100 000-200 000 people in its catchment area. We used a cluster design because some parts of the intervention (eg, peer review meetings) made it infeasible to allocate doctors within the same hospital to different groups for logistical reasons and because of the risk of contamination. We used an internal pilot approach, initially running the trial in three intervention clusters and three control clusters, before expanding it to all remaining clusters after confirming that the trial processes were feasible and acceptable (>50% of clinicians trained and using the guidelines by 3 months). No changes were made to study implementation processes between the pilot and main stages, other than some editing of the educational materials for ease of understanding. Township hospitals were located in Rong county (14 hospitals) and Liujiang county (11 hospitals). All township hospitals across the two counties were considered eligible, apart from the two situated in each county centre because their better staff capacity, equipment, and close proximity to the county general hospital made their practice quite different from that in the other township hospitals. Before randomisation, the trial manager sought written informed consent from township hospital directors on behalf of the township hospitals, and all participating doctors for themselves. We obtained ethics approval from the University of Leeds School of Medicine Research Ethics Committee (MREC15-016) and the Guangxi Institute Review Boards at the Guangxi Autonomous Region Centre for Disease Control and Prevention (CDC) (GXIRB2014-0036), and have previously published the trial protocol. 12 ",
+        "section": "Implications of all the available evidence",
+        "section_number": 6,
+        "sentences": [
+            "setting.",
+            "10, 13 The study area covered 1 372 000 rural residents, with a median annual income per person of US$1500 in 2013.",
+            "Each township hospital provides outpatient care and a limited amount of inpatient care to a rural population of 100 000-200 000 people in its catchment area.",
+            "We used a cluster design because some parts of the intervention (eg, peer review meetings) made it infeasible to allocate doctors within the same hospital to different groups for logistical reasons and because of the risk of contamination.",
+            "We used an internal pilot approach, initially running the trial in three intervention clusters and three control clusters, before expanding it to all remaining clusters after confirming that the trial processes were feasible and acceptable (>50% of clinicians trained and using the guidelines by 3 months).",
+            "No changes were made to study implementation processes between the pilot and main stages, other than some editing of the educational materials for ease of understanding.",
+            "Township hospitals were located in Rong county (14 hospitals) and Liujiang county (11 hospitals).",
+            "All township hospitals across the two counties were considered eligible, apart from the two situated in each county centre because their better staff capacity, equipment, and close proximity to the county general hospital made their practice quite different from that in the other township hospitals.",
+            "Before randomisation, the trial manager sought written informed consent from township hospital directors on behalf of the township hospitals, and all participating doctors for themselves.",
+            "We obtained ethics approval from the University of Leeds School of Medicine Research Ethics Committee (MREC15-016) and the Guangxi Institute Review Boards at the Guangxi Autonomous Region Centre for Disease Control and Prevention (CDC) (GXIRB2014-0036), and have previously published the trial protocol.",
+            "12"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "In China, all residents living in rural areas are enrolled into the rural health insurance scheme, which requires a prescription for each clinical consultation to record the workload of a health facility or doctor for reimbursement purposes. In theory, a prescription might contain medications or might not, but in practice most prescriptions have one or more medications, especially as patients often feel untreated if no medication is given. 4, 14 Participants were eligible if they attended a township hospital as an outpatient, were aged between 2 and 14 years old, and were given a prescription following a primary diagnosis of a upper respiratory tract infection, as defined according to the International Classification of Diseases 10th Revision. 15 Only anonymous patient prescription data were used. Therefore, our ethics committees granted that individual patient consent was not required in the trial. Since we have masked patient identities, we did not have the capacity to follow up those who developed bacterial infections as a consequence of not being given antibiotics. Therefore, we excluded children younger than 2 years of age for safety reasons because they might be more vulnerable to secondary bacterial infections. We also excluded any children who had a secondary diagnosis of lower respiratory tract infections, such as pneumonia, in whom antibiotics would be appropriate, or children who had any severe or chronic disease requiring long-term antibiotic treatment or prophylaxis.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "In China, all residents living in rural areas are enrolled into the rural health insurance scheme, which requires a prescription for each clinical consultation to record the workload of a health facility or doctor for reimbursement purposes.",
+            "In theory, a prescription might contain medications or might not, but in practice most prescriptions have one or more medications, especially as patients often feel untreated if no medication is given.",
+            "4, 14 Participants were eligible if they attended a township hospital as an outpatient, were aged between 2 and 14 years old, and were given a prescription following a primary diagnosis of a upper respiratory tract infection, as defined according to the International Classification of Diseases 10th Revision.",
+            "15 Only anonymous patient prescription data were used.",
+            "Therefore, our ethics committees granted that individual patient consent was not required in the trial.",
+            "Since we have masked patient identities, we did not have the capacity to follow up those who developed bacterial infections as a consequence of not being given antibiotics.",
+            "Therefore, we excluded children younger than 2 years of age for safety reasons because they might be more vulnerable to secondary bacterial infections.",
+            "We also excluded any children who had a secondary diagnosis of lower respiratory tract infections, such as pneumonia, in whom antibiotics would be appropriate, or children who had any severe or chronic disease requiring long-term antibiotic treatment or prophylaxis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "The trial statistician (JPH) randomly assigned all 25 eligible township hospitals, stratified by county, to either the intervention or control, using a computer programme written in R (version 3.2.2). In Rong county, hospitals were allocated in a 1:1 ratio of intervention to control, whereas in Liujiang county hospitals were allocated in a 5:6 ratio (selected to reduce our workload on interventions). Three township hospitals from the intervention and three from the control group in Rong county were then immediately selected for the internal pilot trial by simple randomisation using the computer program. Patients were masked to the intervention assigned to them in the trial. Because of the design of the intervention, it was not possible to mask doctors to the intervention, but we used the PROBE design 16 to ensure that those who extracted or analysed the data were masked to group allocation.",
+        "section": "Randomisation and masking",
+        "section_number": 8,
+        "sentences": [
+            "The trial statistician (JPH) randomly assigned all 25 eligible township hospitals, stratified by county, to either the intervention or control, using a computer programme written in R (version 3.2.2).",
+            "In Rong county, hospitals were allocated in a 1:1 ratio of intervention to control, whereas in Liujiang county hospitals were allocated in a 5:6 ratio (selected to reduce our workload on interventions).",
+            "Three township hospitals from the intervention and three from the control group in Rong county were then immediately selected for the internal pilot trial by simple randomisation using the computer program.",
+            "Patients were masked to the intervention assigned to them in the trial.",
+            "Because of the design of the intervention, it was not possible to mask doctors to the intervention, but we used the PROBE design 16 to ensure that those who extracted or analysed the data were masked to group allocation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "The intervention aimed to change doctors' antibioticprescribing behaviour for childhood upper respiratory tract infections. We developed clinical guidelines based on the latest Chinese and international antibiotic-use guidelines that focus on upper respiratory tract infections with or without fever) 17, 18 The guidelines covered best practice in clinical assessment, diagnosis, and treatment of respiratory diseases or upper respiratory tract infections for patients of all ages, using evidence-based criteria such as an adapted version of the UK National Institute for Health and Care Excellence (NICE) traffic-light system for assessing possible sepsis and referral in children with fever. 18 We provided a 2-h interactive training session (integrated within routine training procedures to improve replicability) for doctors within the first month following the implementation of the intervention. The training covered use of the guidelines, as well as communication skills and case study-based roleplays to help doctors feel confident in correctly diagnosing children with viral upper respiratory tract infections and explaining to caregivers why antibiotics were not needed for such infections. The other key intervention was monthly peerreview meetings, integrated within routine monthly administrative meetings, during which doctors' antibiotic prescribing rates were assessed (see appendix p 3 for full details). Finally, we developed leaflets and a video educating caregivers about antibiotics. The leaflets were provided to parents and caregivers by doctors during consultations, and the educational video was played on a loop in the hospital waiting areas. ",
+        "section": "Intervention procedures",
+        "section_number": 9,
+        "sentences": [
+            "The intervention aimed to change doctors' antibioticprescribing behaviour for childhood upper respiratory tract infections.",
+            "We developed clinical guidelines based on the latest Chinese and international antibiotic-use guidelines that focus on upper respiratory tract infections with or without fever) 17, 18 The guidelines covered best practice in clinical assessment, diagnosis, and treatment of respiratory diseases or upper respiratory tract infections for patients of all ages, using evidence-based criteria such as an adapted version of the UK National Institute for Health and Care Excellence (NICE) traffic-light system for assessing possible sepsis and referral in children with fever.",
+            "18 We provided a 2-h interactive training session (integrated within routine training procedures to improve replicability) for doctors within the first month following the implementation of the intervention.",
+            "The training covered use of the guidelines, as well as communication skills and case study-based roleplays to help doctors feel confident in correctly diagnosing children with viral upper respiratory tract infections and explaining to caregivers why antibiotics were not needed for such infections.",
+            "The other key intervention was monthly peerreview meetings, integrated within routine monthly administrative meetings, during which doctors' antibiotic prescribing rates were assessed (see appendix p 3 for full details).",
+            "Finally, we developed leaflets and a video educating caregivers about antibiotics.",
+            "The leaflets were provided to parents and caregivers by doctors during consultations, and the educational video was played on a loop in the hospital waiting areas."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "In hospitals allocated to the control group, doctors continued prescribing antibiotics according to existing practices. Antibiotics were given at the individual clinician's discretion, and no systematic health education messages about antibiotic prescribing were provided to patients. Monthly routine administrative meetings were held in township hospitals, but without any prescribing peer-review component.",
+        "section": "Control procedures",
+        "section_number": 10,
+        "sentences": [
+            "In hospitals allocated to the control group, doctors continued prescribing antibiotics according to existing practices.",
+            "Antibiotics were given at the individual clinician's discretion, and no systematic health education messages about antibiotic prescribing were provided to patients.",
+            "Monthly routine administrative meetings were held in township hospitals, but without any prescribing peer-review component."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "We collected all available prescriptions issued to eligible patients in hospitals in both groups during the 3 months prior to the implementation of the intervention (baseline), and during the final 3 months of the 6-month intervention period (endline). We did not use all available prescriptions because of ethical concerns about identifying township hospitals from their relative prescribing levels. In Rong county, we extracted all electronic health records, whereas in Liujiang county we photocopied all paper prescriptions and inputted them electronically. We excluded any patient-identifiable information (eg, name, address, and ID number) before data extraction. Based on our sample size, we then selected 200 of these prescriptions (or all of them if <200 existed) from each township hospital at baseline and at endline, via simple random selection using a computer program. We extracted patients' character istics, diagnoses, medications, and costs from prescriptions, and linked prescribing doctors' character istics from their employment records.",
+        "section": "Data collection",
+        "section_number": 11,
+        "sentences": [
+            "We collected all available prescriptions issued to eligible patients in hospitals in both groups during the 3 months prior to the implementation of the intervention (baseline), and during the final 3 months of the 6-month intervention period (endline).",
+            "We did not use all available prescriptions because of ethical concerns about identifying township hospitals from their relative prescribing levels.",
+            "In Rong county, we extracted all electronic health records, whereas in Liujiang county we photocopied all paper prescriptions and inputted them electronically.",
+            "We excluded any patient-identifiable information (eg, name, address, and ID number) before data extraction.",
+            "Based on our sample size, we then selected 200 of these prescriptions (or all of them if <200 existed) from each township hospital at baseline and at endline, via simple random selection using a computer program.",
+            "We extracted patients' character istics, diagnoses, medications, and costs from prescriptions, and linked prescribing doctors' character istics from their employment records."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "All outcomes were calculated at the cluster level, either as proportions or means, based on eligible endline prescriptions. The primary outcome was the antibiotic prescription rate, defined as the proportion of prescriptions for upper respiratory tract infections that include at least one antibiotic. Most upper respiratory tract infections do not require antibiotics, and the antibiotic prescription rate is therefore a common proxy measure of inappropriate prescribing (which was too resource-intensive to measure directly). 19 To explore whether or not the intervention affected relative rates of prescribing among different types of antibiotic, we used three secondary outcomes. These secondary outcomes were the proportion of antibioticcontaining prescriptions including two or more antibiotics (the multiple antibiotic prescription rate); the proportion of antibiotic-containing prescriptions including at least one broad-spectrum antibiotic (the broad-spectrum antibiotic prescription rate); and the proportion of antibiotic-containing prescriptions including at least one intravenous antibiotic (the intravenous antibiotic prescription rate). Co-amoxiclav, second-generation and third-generation cephalosporins, and azithromycin are regarded as broad-spectrum for upper respiratory tract infections. 17, 18 To explore any changes in the prescribing rates of other medications, we used five additional secondary outcomes: the proportion of prescriptions containing either antivirals, glucocorticoids, vitamins, traditional Chinese medicines, or any other non-antibiotic medicine(s). Finally, to assess whether or not the intervention affected medical costs for patients, we used three further secondary outcomes: the full prescription cost (including the total of any consultation costs, treatments costs, and medications costs); the antibiotic medication cost; and the non-antibiotic medication cost. Costs are presented in US dollars (US$), converted from the Chinese currency Renminbi (RMB). We added several of these outcomes as exploratory outcomes post-protocol: the intravenous antibiotic prescription rate, the prescription rate for all non-antibiotic medications, the antibiotics medication cost, and the non-antibiotics medication cost. A protocol-planned secondary outcome of the quinolone prescription rate was not analysed because these prescriptions were very rare.",
+        "section": "Outcomes",
+        "section_number": 12,
+        "sentences": [
+            "All outcomes were calculated at the cluster level, either as proportions or means, based on eligible endline prescriptions.",
+            "The primary outcome was the antibiotic prescription rate, defined as the proportion of prescriptions for upper respiratory tract infections that include at least one antibiotic.",
+            "Most upper respiratory tract infections do not require antibiotics, and the antibiotic prescription rate is therefore a common proxy measure of inappropriate prescribing (which was too resource-intensive to measure directly).",
+            "19 To explore whether or not the intervention affected relative rates of prescribing among different types of antibiotic, we used three secondary outcomes.",
+            "These secondary outcomes were the proportion of antibioticcontaining prescriptions including two or more antibiotics (the multiple antibiotic prescription rate); the proportion of antibiotic-containing prescriptions including at least one broad-spectrum antibiotic (the broad-spectrum antibiotic prescription rate); and the proportion of antibiotic-containing prescriptions including at least one intravenous antibiotic (the intravenous antibiotic prescription rate).",
+            "Co-amoxiclav, second-generation and third-generation cephalosporins, and azithromycin are regarded as broad-spectrum for upper respiratory tract infections.",
+            "17, 18 To explore any changes in the prescribing rates of other medications, we used five additional secondary outcomes: the proportion of prescriptions containing either antivirals, glucocorticoids, vitamins, traditional Chinese medicines, or any other non-antibiotic medicine(s).",
+            "Finally, to assess whether or not the intervention affected medical costs for patients, we used three further secondary outcomes: the full prescription cost (including the total of any consultation costs, treatments costs, and medications costs); the antibiotic medication cost; and the non-antibiotic medication cost.",
+            "Costs are presented in US dollars (US$), converted from the Chinese currency Renminbi (RMB).",
+            "We added several of these outcomes as exploratory outcomes post-protocol: the intravenous antibiotic prescription rate, the prescription rate for all non-antibiotic medications, the antibiotics medication cost, and the non-antibiotics medication cost.",
+            "A protocol-planned secondary outcome of the quinolone prescription rate was not analysed because these prescriptions were very rare."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Based on our exploratory work 10 we estimated that the antibiotic prescribing rate for children with upper respiratory tract infections would be 50%, and that we could collect and process an average of 200 prescriptions per township hospital (using the harmonic mean due to unequal cluster size). 20 Based on our systematic review 7 we estimated that the intervention would lead to a 25% relative reduction in the antibiotic prescribing rate. Under the assumption of a coefficient of variation of 0\u202215, 10% loss of data from illegible prescriptions, and allowing for stratification, we required 24 clusters to detect a decrease of this magnitude or greater with 90% power, using two-sided testing at the 5% significance level, and so we included all 25 eligible clusters within the two counties. 20 We pooled both internal pilot and main trial data for analysis, and controlled for seasonality by comparing the endline antibiotic prescription rate between the intervention and control group during the same period. No interim analysis was done. We analysed cluster-level summary endline outcomes using methods appropriate for stratified, cluster-randomised trials with relatively few clusters per group, accounting for between-cluster variation. 12, 20 We estimated the crude absolute effect of the intervention on the antibiotic prescription rate by estimating the risk difference for the endline antibiotic prescription rate, based on a weighted average of stratumspecific cluster-level endline risk differences, with weights inversely proportional to stratum-specific variances. We calculated the 95% CIs for this risk difference, and did a formal hypothesis test (two-sided and at the 5% level), via a stratified t-test. To adjust for covariates, we fitted a logistic regression to the individuallevel primary outcome endline data, controlling for covariates of interest except the treatment effect. We then calculated covariate-adjusted cluster-level difference residuals from the model-predicted and observed values, and analysed these using the same method as described above. We analysed secondary proportion outcomes using the same methods, and also present crude and adjusted risk ratio results for all antibiotic prescription rate outcomes. We used the same methods to analyse the quantitative cost outcomes, but with cluster-level means in place of proportions for the crude analysis, and with normal linear regression used instead of logistic regression to calculate covariate-adjusted difference residuals (resulting in crude or adjusted mean differences). We also did a range of exploratory (not protocol-planned) subgroup analyses on the primary outcome based on patient-level and doctor-level characteristics (see appendix p 3 for methods). We did not adjust the type 1 error rate for our secondary outcome and subgroup analyses, but treated them as helping us to interpret our primary outcome results. 21 Adjusted results controlled for stratum (county); cluster-level summary outcome at baseline; patient's sex, age, and payment type (insured or fully out-of-pocket); and doctor's sex, age, and qualification level (\u22653 years or \u22655 years). Crude analyses were done on an intention-totreat basis, whereas adjusted and subgroup analyses were on a modified intention-to-treat basis due to the use of complete cases for which covariate data were missing. We used R version 3.3.2 for all statistical analyses.",
+        "section": "Statistical analysis",
+        "section_number": 13,
+        "sentences": [
+            "Based on our exploratory work 10 we estimated that the antibiotic prescribing rate for children with upper respiratory tract infections would be 50%, and that we could collect and process an average of 200 prescriptions per township hospital (using the harmonic mean due to unequal cluster size).",
+            "20 Based on our systematic review 7 we estimated that the intervention would lead to a 25% relative reduction in the antibiotic prescribing rate.",
+            "Under the assumption of a coefficient of variation of 0\u202215, 10% loss of data from illegible prescriptions, and allowing for stratification, we required 24 clusters to detect a decrease of this magnitude or greater with 90% power, using two-sided testing at the 5% significance level, and so we included all 25 eligible clusters within the two counties.",
+            "20 We pooled both internal pilot and main trial data for analysis, and controlled for seasonality by comparing the endline antibiotic prescription rate between the intervention and control group during the same period.",
+            "No interim analysis was done.",
+            "We analysed cluster-level summary endline outcomes using methods appropriate for stratified, cluster-randomised trials with relatively few clusters per group, accounting for between-cluster variation.",
+            "12, 20 We estimated the crude absolute effect of the intervention on the antibiotic prescription rate by estimating the risk difference for the endline antibiotic prescription rate, based on a weighted average of stratumspecific cluster-level endline risk differences, with weights inversely proportional to stratum-specific variances.",
+            "We calculated the 95% CIs for this risk difference, and did a formal hypothesis test (two-sided and at the 5% level), via a stratified t-test.",
+            "To adjust for covariates, we fitted a logistic regression to the individuallevel primary outcome endline data, controlling for covariates of interest except the treatment effect.",
+            "We then calculated covariate-adjusted cluster-level difference residuals from the model-predicted and observed values, and analysed these using the same method as described above.",
+            "We analysed secondary proportion outcomes using the same methods, and also present crude and adjusted risk ratio results for all antibiotic prescription rate outcomes.",
+            "We used the same methods to analyse the quantitative cost outcomes, but with cluster-level means in place of proportions for the crude analysis, and with normal linear regression used instead of logistic regression to calculate covariate-adjusted difference residuals (resulting in crude or adjusted mean differences).",
+            "We also did a range of exploratory (not protocol-planned) subgroup analyses on the primary outcome based on patient-level and doctor-level characteristics (see appendix p 3 for methods).",
+            "We did not adjust the type 1 error rate for our secondary outcome and subgroup analyses, but treated them as helping us to interpret our primary outcome results.",
+            "21 Adjusted results controlled for stratum (county); cluster-level summary outcome at baseline; patient's sex, age, and payment type (insured or fully out-of-pocket); and doctor's sex, age, and qualification level (\u22653 years or \u22655 years).",
+            "Crude analyses were done on an intention-totreat basis, whereas adjusted and subgroup analyses were on a modified intention-to-treat basis due to the use of complete cases for which covariate data were missing.",
+            "We used R version 3.3.2 for all statistical analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "This study is registered with the ISRCTN registry, number ISRCTN14340536.",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "This study is registered with the ISRCTN registry, number ISRCTN14340536."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. XW and ML had access to the raw data. The corresponding authors had full access to all the data and had final responsibility for the decision to submit for publication.",
+        "section": "Role of the funding source",
+        "section_number": 15,
+        "sentences": [
+            "The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+            "XW and ML had access to the raw data.",
+            "The corresponding authors had full access to all the data and had final responsibility for the decision to submit for publication."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "We recruited all 25 eligible township hospitals in the two counties, and randomly allocated 12 to the intervention group and 13 to the control group. We then implemented the intervention in the three internal pilot clusters between July 1, 2015, and Dec 31, 2015, and in the remaining nine intervention clusters between Oct 1, 2015, and March 31, 2016. We obtained and screened 143 299 baseline and 149 408 endline prescriptions from the intervention group, of which 16 467 (11\u20225%) baseline prescriptions and 14 210 (9\u20225%) endline prescriptions were eligible after excluding those based on age and diagnoses. In the control group, we extracted and screened 94 520 baseline and 101 657 endline prescriptions, of which 8527 (9\u20220%) baseline prescriptions and 7234 (7\u20221%) endline prescriptions were eligible. We then randomly selected 2349 baseline and 2351 endline prescriptions from the intervention group and 2548 baseline and 2552 endline prescriptions from the control group ( figure, table 1) . We checked pneumonia diagnostic codes to see whether doctors might have changed diagnosis codes in response to adjusting their antibiotic prescribing rates, but we noted no clear changes in either upper respiratory tract infection or pneumonia diagnostic codes used between baseline and endline in either group. There were 956 (0\u20227%) pneumonia cases at baseline and 964 (0\u20227%) at endline in the intervention group, and 569 (0\u20226%) and 552 (0\u20225%) in the control group, respectively. Overall, baseline and endline patient and doctor characteristics were well balanced between groups, with some modest (>5%) imbalances in diagnosis (acute tonsillitis), payment method, doctor's sex and doctor's years of work, and a larger (>10%) imbalance in doctor's qualification level (table 1) .",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "We recruited all 25 eligible township hospitals in the two counties, and randomly allocated 12 to the intervention group and 13 to the control group.",
+            "We then implemented the intervention in the three internal pilot clusters between July 1, 2015, and Dec 31, 2015, and in the remaining nine intervention clusters between Oct 1, 2015, and March 31, 2016.",
+            "We obtained and screened 143 299 baseline and 149 408 endline prescriptions from the intervention group, of which 16 467 (11\u20225%) baseline prescriptions and 14 210 (9\u20225%) endline prescriptions were eligible after excluding those based on age and diagnoses.",
+            "In the control group, we extracted and screened 94 520 baseline and 101 657 endline prescriptions, of which 8527 (9\u20220%) baseline prescriptions and 7234 (7\u20221%) endline prescriptions were eligible.",
+            "We then randomly selected 2349 baseline and 2351 endline prescriptions from the intervention group and 2548 baseline and 2552 endline prescriptions from the control group ( figure, table 1) .",
+            "We checked pneumonia diagnostic codes to see whether doctors might have changed diagnosis codes in response to adjusting their antibiotic prescribing rates, but we noted no clear changes in either upper respiratory tract infection or pneumonia diagnostic codes used between baseline and endline in either group.",
+            "There were 956 (0\u20227%) pneumonia cases at baseline and 964 (0\u20227%) at endline in the intervention group, and 569 (0\u20226%) and 552 (0\u20225%) in the control group, respectively.",
+            "Overall, baseline and endline patient and doctor characteristics were well balanced between groups, with some modest (>5%) imbalances in diagnosis (acute tonsillitis), payment method, doctor's sex and doctor's years of work, and a larger (>10%) imbalance in doctor's qualification level (table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Between study baseline and endline, the antibiotic prescription rate decreased from 82% to 40% in the ",
+        "section": "Results",
+        "section_number": 17,
+        "sentences": [
+            "Between study baseline and endline, the antibiotic prescription rate decreased from 82% to 40% in the"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "URTI=upper respiratory tract infection. Clusters=township hospitals. *We excluded the two township hospitals located in the two county centres, because they are not closely comparable to the other hospitals-they have much better staff capacity and equipment than their peers, and are located close to the county general hospital. \u2020Baseline prescriptions were issued during the 3 months prior to the implementation of the intervention, whereas endline prescriptions were issued during the last 3 months of the 6-month intervention period.",
+        "section": "Figure: Trial profile",
+        "section_number": 18,
+        "sentences": [
+            "URTI=upper respiratory tract infection.",
+            "Clusters=township hospitals. *",
+            "We excluded the two township hospitals located in the two county centres, because they are not closely comparable to the other hospitals-they have much better staff capacity and equipment than their peers, and are located close to the county general hospital.",
+            "\u2020Baseline prescriptions were issued during the 3 months prior to the implementation of the intervention, whereas endline prescriptions were issued during the last 3 months of the 6-month intervention period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "intervention group, and from 75% to 70% in the control group. After controlling for potential confounders including the baseline antibiotic prescribing rate, compared with the control group the decrease in the intervention group represented an absolute risk reduction in the antibiotic prescribing rate of 29% Exploratory crude and adjusted subgroup analyses of the intervention's effect on the antibiotic prescribing rate modified by patients' sex and payment method, and by prescribing doctors' age, sex, and qualification level, all showed no significant effects (appendix pp 6-8).",
+        "section": "Figure: Trial profile",
+        "section_number": 19,
+        "sentences": [
+            "intervention group, and from 75% to 70% in the control group.",
+            "After controlling for potential confounders including the baseline antibiotic prescribing rate, compared with the control group the decrease in the intervention group represented an absolute risk reduction in the antibiotic prescribing rate of 29% Exploratory crude and adjusted subgroup analyses of the intervention's effect on the antibiotic prescribing rate modified by patients' sex and payment method, and by prescribing doctors' age, sex, and qualification level, all showed no significant effects (appendix pp 6-8)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "After adjustment, we found no significant effect of the intervention on the multiple antibiotic prescribing rate, broad-spectrum antibiotic prescribing rate, or intravenous antibiotic prescribing rate, with no difference in the crude results (table 2; see appendix p 9 for risk ratio results). We also found no significant adjusted effect of the intervention on the full prescription cost or the nonantibiotic medication cost (table 3), with no difference in the crude results. After adjustment, the mean antibiotic cost was significantly lower in the intervention group than in the control group, although the crude results showed no significant difference (table 3) . In our post-hoc analyses, we also found no crude or adjusted significant effect of the intervention on prescribing rates of glucocorticoids, vitamins, or other non-antibiotic medicines (table 4) . There was a modest, significant increase in the crude antiviral prescribing rate in the intervention group compared with the control group, but no significant difference in the adjusted results, suggesting that the crude difference could be explained by confounding (table 4) . We also found a small but significant increase in the prescribing rate of traditional Chinese medicine in both the adjusted and crude results (table 4).",
+        "section": "Figure: Trial profile",
+        "section_number": 20,
+        "sentences": [
+            "After adjustment, we found no significant effect of the intervention on the multiple antibiotic prescribing rate, broad-spectrum antibiotic prescribing rate, or intravenous antibiotic prescribing rate, with no difference in the crude results (table 2; see appendix p 9 for risk ratio results).",
+            "We also found no significant adjusted effect of the intervention on the full prescription cost or the nonantibiotic medication cost (table 3), with no difference in the crude results.",
+            "After adjustment, the mean antibiotic cost was significantly lower in the intervention group than in the control group, although the crude results showed no significant difference (table 3) .",
+            "In our post-hoc analyses, we also found no crude or adjusted significant effect of the intervention on prescribing rates of glucocorticoids, vitamins, or other non-antibiotic medicines (table 4) .",
+            "There was a modest, significant increase in the crude antiviral prescribing rate in the intervention group compared with the control group, but no significant difference in the adjusted results, suggesting that the crude difference could be explained by confounding (table 4) .",
+            "We also found a small but significant increase in the prescribing rate of traditional Chinese medicine in both the adjusted and crude results (table 4)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Our trial is one of the first rigorously designed trials on antimicrobial stewardship strategies in LMICs. The results show that the intervention package was highly effective, with a 29% absolute reduction in the prescribing of antibiotics for childhood upper respiratory tract infections in primary care facilities in rural China. Our study provides a promising programme of antimicrobial stewardship strategies for LMICs, with the largest effect size ever achieved, compared with the 5-25% absolute reduction of antibiotic prescription rate reported in other similar trials. 19, 22 One possible reason for our success is that it targeted both providers and caregivers, which is more effective than targeting either group alone. 7 Part of the explanation for why such a large effect was possible is that the baseline antibiotic prescription rate was high in our setting (79% across groups) compared with that in high-income countries (typically 20-40%). 6, 7 However, antibiotic prescription rates are typically much higher in China and other LMICs than in high-income settings, 23 so the need for antimicrobial stewardship is more urgent in these areas. Almost all previous trials that have attempted to reduce antibiotic overuse have been done in highincome countries, except for two inadequately designed and reported studies, 11, 24 and a recent trial in Vietnam showing the effect of using C-reactive protein testing in reducing antibiotic use 25 (although the relatively high cost of C-reactive protein is prohibitive in LMICs). Individual-level summary data are n/N (%). Cluster-level summary data are mean (SD) of cluster-level outcome percentages. *Crude intervention vs control risk difference results account for the stratified, cluster-randomised study design; for the crude analyses all selected prescriptions were included as appropriate. \u2020Adjusted intervention vs control risk difference results also account for the effect of patient covariates (sex, age, and payment method), prescribing doctor covariates (sex, age, and qualification level), cluster-level outcome at baseline, and stratum (county); for the adjusted overall antibiotic prescription rate analysis, 36 intervention and 67 control prescriptions were excluded because of missing covariate data, and for the adjusted analyses of antibiotic category-specific antibiotic prescription rate outcomes, 24 intervention and 27 control prescriptions were excluded because of missing covariate data. \u2021The unadjusted between-cluster coefficient of variation (k) for the antibiotic prescription rate was 0\u2022397 overall, 0\u2022466 for the intervention group, and 0\u2022199 for the control group; the intracluster correlation coefficient for the antibiotic prescription rate was 0\u2022198 overall, 0\u2022146 for the intervention group, and 0\u2022092 for the control group. 20 \u00a7Antibiotic category-specific antibiotic prescription rate outcomes are based on antibiotic-containing prescriptions only. Individual-level summary data are mean (SD). Cluster-level summary data are mean (SD) of cluster-level outcome means. *Crude intervention vs control mean difference results account for the stratified, cluster-randomised design, and for the crude analyses all selected prescriptions were included. \u2020Adjusted intervention vs control mean difference results also account for the effect of patient covariates (sex, age, and payment method) and prescribing doctor covariates (sex, age, and qualification level), cluster-level outcome at baseline, and stratum (county); for all adjusted analyses, 36 intervention and 67 control prescriptions were excluded because of missing covariate data. \u2021Full prescription cost includes all prescription costs plus any consultation, treatment, and medication costs. \u00a7The antibiotics cost includes costs for any antibiotic medications only. \u00b6The other medication cost includes costs for any non-antibiotic medications only. US$ values are based on the currency exchange rate on July 15, 2016, in which 1US$=6\u202268RMB.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "Our trial is one of the first rigorously designed trials on antimicrobial stewardship strategies in LMICs.",
+            "The results show that the intervention package was highly effective, with a 29% absolute reduction in the prescribing of antibiotics for childhood upper respiratory tract infections in primary care facilities in rural China.",
+            "Our study provides a promising programme of antimicrobial stewardship strategies for LMICs, with the largest effect size ever achieved, compared with the 5-25% absolute reduction of antibiotic prescription rate reported in other similar trials.",
+            "19, 22 One possible reason for our success is that it targeted both providers and caregivers, which is more effective than targeting either group alone.",
+            "7 Part of the explanation for why such a large effect was possible is that the baseline antibiotic prescription rate was high in our setting (79% across groups) compared with that in high-income countries (typically 20-40%).",
+            "6, 7 However, antibiotic prescription rates are typically much higher in China and other LMICs than in high-income settings, 23 so the need for antimicrobial stewardship is more urgent in these areas.",
+            "Almost all previous trials that have attempted to reduce antibiotic overuse have been done in highincome countries, except for two inadequately designed and reported studies, 11, 24 and a recent trial in Vietnam showing the effect of using C-reactive protein testing in reducing antibiotic use 25 (although the relatively high cost of C-reactive protein is prohibitive in LMICs).",
+            "Individual-level summary data are n/N (%).",
+            "Cluster-level summary data are mean (SD) of cluster-level outcome percentages. *",
+            "Crude intervention vs control risk difference results account for the stratified, cluster-randomised study design; for the crude analyses all selected prescriptions were included as appropriate.",
+            "\u2020Adjusted intervention vs control risk difference results also account for the effect of patient covariates (sex, age, and payment method), prescribing doctor covariates (sex, age, and qualification level), cluster-level outcome at baseline, and stratum (county); for the adjusted overall antibiotic prescription rate analysis, 36 intervention and 67 control prescriptions were excluded because of missing covariate data, and for the adjusted analyses of antibiotic category-specific antibiotic prescription rate outcomes, 24 intervention and 27 control prescriptions were excluded because of missing covariate data.",
+            "\u2021The unadjusted between-cluster coefficient of variation (k) for the antibiotic prescription rate was 0\u2022397 overall, 0\u2022466 for the intervention group, and 0\u2022199 for the control group; the intracluster correlation coefficient for the antibiotic prescription rate was 0\u2022198 overall, 0\u2022146 for the intervention group, and 0\u2022092 for the control group.",
+            "20 \u00a7Antibiotic category-specific antibiotic prescription rate outcomes are based on antibiotic-containing prescriptions only.",
+            "Individual-level summary data are mean (SD).",
+            "Cluster-level summary data are mean (SD) of cluster-level outcome means. *",
+            "Crude intervention vs control mean difference results account for the stratified, cluster-randomised design, and for the crude analyses all selected prescriptions were included.",
+            "\u2020Adjusted intervention vs control mean difference results also account for the effect of patient covariates (sex, age, and payment method) and prescribing doctor covariates (sex, age, and qualification level), cluster-level outcome at baseline, and stratum (county); for all adjusted analyses, 36 intervention and 67 control prescriptions were excluded because of missing covariate data.",
+            "\u2021Full prescription cost includes all prescription costs plus any consultation, treatment, and medication costs. \u00a7",
+            "The antibiotics cost includes costs for any antibiotic medications only.",
+            "\u00b6The other medication cost includes costs for any non-antibiotic medications only.",
+            "US$ values are based on the currency exchange rate on July 15, 2016, in which 1US$=6\u202268RMB."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "In the intervention group, we noted a modest reduction in antibiotic costs, potentially due to the intervention, but no changes in full prescription costs, which is probably because antibiotics only account for a small proportion of the full prescription costs (around 6-11%). We also observed a minor increase in prescribing of traditional Chinese medicine in the intervention group, potentially due to the intervention influencing doctors to substitute traditional Chinese medicines for antibiotics to reassure patients, or as a compensation for hospital revenues lost due to reduced antibiotic prescribing. These revenues can be recouped through traditional Chinese medicine prescription because these medicines are exempt from the zero mark-up policy introduced in 2009, so hospitals still charge a 15% or greater mark-up on them. Another area requiring attention is the generally inappropriately high prescription rates for antivirals (30-50%) and glucocorticoids (20%), which is consistent with other findings in China. 14 More studies are needed to understand this problem, and to develop additional interventions to tackle over-prescribing of antivirals and glucocorticoids for upper respiratory tract infections. We observed a large variation in antibiotic prescription rate changes between baseline and endline across the intervention clusters, which may be indicative of different levels of stewardship in the peer-review meetings. This will be reported in our future process evaluation in a separate paper. Nevertheless, even in the intervention group, at endline the antibiotic prescription rate was still high (40%) compared with high-income countries, which means our intervention might need to be more intensive, be implemented for longer, or both.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 22,
+        "sentences": [
+            "In the intervention group, we noted a modest reduction in antibiotic costs, potentially due to the intervention, but no changes in full prescription costs, which is probably because antibiotics only account for a small proportion of the full prescription costs (around 6-11%).",
+            "We also observed a minor increase in prescribing of traditional Chinese medicine in the intervention group, potentially due to the intervention influencing doctors to substitute traditional Chinese medicines for antibiotics to reassure patients, or as a compensation for hospital revenues lost due to reduced antibiotic prescribing.",
+            "These revenues can be recouped through traditional Chinese medicine prescription because these medicines are exempt from the zero mark-up policy introduced in 2009, so hospitals still charge a 15% or greater mark-up on them.",
+            "Another area requiring attention is the generally inappropriately high prescription rates for antivirals (30-50%) and glucocorticoids (20%), which is consistent with other findings in China.",
+            "14 More studies are needed to understand this problem, and to develop additional interventions to tackle over-prescribing of antivirals and glucocorticoids for upper respiratory tract infections.",
+            "We observed a large variation in antibiotic prescription rate changes between baseline and endline across the intervention clusters, which may be indicative of different levels of stewardship in the peer-review meetings.",
+            "This will be reported in our future process evaluation in a separate paper.",
+            "Nevertheless, even in the intervention group, at endline the antibiotic prescription rate was still high (40%) compared with high-income countries, which means our intervention might need to be more intensive, be implemented for longer, or both."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Apart from its effectiveness, the key strength of the trial is that it was designed for routine care in a rural lowresource setting via an embedded process. 26 Since 2009, China has enacted national health policy reforms to regulate antibiotic prescribing. These included the creation of an essential medicines list, a central medicine procurement system, and a zero mark-up charges policy to unlink profits from prescribing in primary care facilities, plus a 20% limit for antibiotic prescribing across all consultations in all health care facilities. 27 Studies have shown that these approaches possibly have effects on reducing medical expenses, but not on antibiotic prescribing. 28 Our recent study showed that, at the county hospital level, the policy might be associated with reducing inappropriate antibiotic prescribing in outpatients, if accompanied by an antimicrobial steward ship programme that includes guideline training, peer-reviews, and restricting non-compliant doctors. 29 How ever, purely managerial measures, such as posting individual doctors' antibiotic prescription rates publicly, has not been proven successful. 11 Based on these policies, we developed antimicrobial stewardship strategies that fit into the routine activities of township hospitals. Our intervention can be used in settings with or without electronic health records.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 23,
+        "sentences": [
+            "Apart from its effectiveness, the key strength of the trial is that it was designed for routine care in a rural lowresource setting via an embedded process.",
+            "26 Since 2009, China has enacted national health policy reforms to regulate antibiotic prescribing.",
+            "These included the creation of an essential medicines list, a central medicine procurement system, and a zero mark-up charges policy to unlink profits from prescribing in primary care facilities, plus a 20% limit for antibiotic prescribing across all consultations in all health care facilities.",
+            "27 Studies have shown that these approaches possibly have effects on reducing medical expenses, but not on antibiotic prescribing.",
+            "28 Our recent study showed that, at the county hospital level, the policy might be associated with reducing inappropriate antibiotic prescribing in outpatients, if accompanied by an antimicrobial steward ship programme that includes guideline training, peer-reviews, and restricting non-compliant doctors.",
+            "29 How ever, purely managerial measures, such as posting individual doctors' antibiotic prescription rates publicly, has not been proven successful.",
+            "11 Based on these policies, we developed antimicrobial stewardship strategies that fit into the routine activities of township hospitals.",
+            "Our intervention can be used in settings with or without electronic health records."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Our study has several limitations. First, we were not able to measure return visit rates of patients, and so could not assess whether or not our intervention increased the rate of return visits to hospitals due to illnesses related to worsening upper respiratory tract infections. However, our intervention approaches are unlikely to cause serious bacterial infections as shown in other trials done elsewhere. 19, 30 In China, patients often directly visit county hospitals when they develop more severe symptoms, and we were not able to record these return visits. Second, our indicators were based on prescriptions, not outpatient visits. In this setting, a prescription is required for each consultation by the rural health insurance scheme to record the clinical visit for reimbursement purposes.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 24,
+        "sentences": [
+            "Our study has several limitations.",
+            "First, we were not able to measure return visit rates of patients, and so could not assess whether or not our intervention increased the rate of return visits to hospitals due to illnesses related to worsening upper respiratory tract infections.",
+            "However, our intervention approaches are unlikely to cause serious bacterial infections as shown in other trials done elsewhere.",
+            "19, 30 In China, patients often directly visit county hospitals when they develop more severe symptoms, and we were not able to record these return visits.",
+            "Second, our indicators were based on prescriptions, not outpatient visits.",
+            "In this setting, a prescription is required for each consultation by the rural health insurance scheme to record the clinical visit for reimbursement purposes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Although patients might visit a doctor and not receive a prescription, in practice this is rare because patients in China do not generally feel taken care of without being given medication(s). 4 Even if the outpatient visit cost is not covered by the health insurance scheme, patients still prefer to register their visits because the scheme covers much of their user-fee costs. 13 Thus, the use of prescriptions as an indicator is unlikely to underestimate numbers of outpatient visits in this particular setting. Third, some contamination between intervention and control clusters might have occurred because the townships in different groups were sometimes next to each other, potentially reducing effect sizes. However, rural residents need to visit their own township hospitals as per the regulations of their health insurance schemes, so the risk of contamination between clusters was low, plus our primary outcome effect size was high, suggesting that little-if any-contamination occurred. Fourth, the short duration of the intervention (6 months) means that longer-term studies are needed to understand how sustainable its effect is, and we will therefore be reporting on our outcomes at 12 months in a future study. Fifth, inappropriate use of antibiotics is also a widespread problem in adults in LMICs. We designed the trial for children because overuse of antibiotics is more challenging in this patient population because parents often demand antibiotics to enable a potentially more rapid recovery. Additionally, we did not include children younger than 2 years old, which limits the generalisability of trial results to all children. Future studies could include patients of all ages. The guidelines regarding appropriate antibiotic use are designed for all patients. Similarly, the addition of more training on guidelines for use of multiple antibiotics, antivirals, and intravenous infusions might be necessary. Finally, given our inability to mask doctors in the trial, it is possible that the Hawthorne effect could account for part of the intervention effect. However, to reduce the influence of any such effect we had a 3-month period during which the intervention was implemented but no outcome data were collected in either group, to allow doctors to become familiar with the intervention processes as part of their routine practices before we collected outcome data.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 25,
+        "sentences": [
+            "Although patients might visit a doctor and not receive a prescription, in practice this is rare because patients in China do not generally feel taken care of without being given medication(s).",
+            "4 Even if the outpatient visit cost is not covered by the health insurance scheme, patients still prefer to register their visits because the scheme covers much of their user-fee costs.",
+            "13 Thus, the use of prescriptions as an indicator is unlikely to underestimate numbers of outpatient visits in this particular setting.",
+            "Third, some contamination between intervention and control clusters might have occurred because the townships in different groups were sometimes next to each other, potentially reducing effect sizes.",
+            "However, rural residents need to visit their own township hospitals as per the regulations of their health insurance schemes, so the risk of contamination between clusters was low, plus our primary outcome effect size was high, suggesting that little-if any-contamination occurred.",
+            "Fourth, the short duration of the intervention (6 months) means that longer-term studies are needed to understand how sustainable its effect is, and we will therefore be reporting on our outcomes at 12 months in a future study.",
+            "Fifth, inappropriate use of antibiotics is also a widespread problem in adults in LMICs.",
+            "We designed the trial for children because overuse of antibiotics is more challenging in this patient population because parents often demand antibiotics to enable a potentially more rapid recovery.",
+            "Additionally, we did not include children younger than 2 years old, which limits the generalisability of trial results to all children.",
+            "Future studies could include patients of all ages.",
+            "The guidelines regarding appropriate antibiotic use are designed for all patients.",
+            "Similarly, the addition of more training on guidelines for use of multiple antibiotics, antivirals, and intravenous infusions might be necessary.",
+            "Finally, given our inability to mask doctors in the trial, it is possible that the Hawthorne effect could account for part of the intervention effect.",
+            "However, to reduce the influence of any such effect we had a 3-month period during which the intervention was implemented but no outcome data were collected in either group, to allow doctors to become familiar with the intervention processes as part of their routine practices before we collected outcome data."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "To conclude, our study shows that, in primary care facilities in rural China, our intervention, involving a doctors' clinical guide, training, and prescribing peer review, plus information for caregivers provided by doctors, leaflets, and videos, has substantially reduced inappropriate prescribing of antibiotics for childhood upper respiratory tract infections. The intervention was designed for scale-up through its integration within the rural health system in China, and could be adapted to other similar settings in LMICs facing the problem of antibiotic overuse.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 26,
+        "sentences": [
+            "To conclude, our study shows that, in primary care facilities in rural China, our intervention, involving a doctors' clinical guide, training, and prescribing peer review, plus information for caregivers provided by doctors, leaflets, and videos, has substantially reduced inappropriate prescribing of antibiotics for childhood upper respiratory tract infections.",
+            "The intervention was designed for scale-up through its integration within the rural health system in China, and could be adapted to other similar settings in LMICs facing the problem of antibiotic overuse."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "Contributors XW, JDW, JPH, GZ, and ML contributed to the study design. JDW, XW, ZZ, GZ, SD, and JZ developed the guideline and training. ZZ, SD, and YZ prepared and cleaned the data. JPH, ZZ, and YZ analysed the data. JPH provided substantial scientific input into the statistical methods and interpretation of the results. JY did the literature reviews. XW, ML, JZ, ZZ, SD, JY, QS, and GZ implemented the study. XW took the lead in drafting the report. JPH, JDW, JNN, YG, and REGU provided substantial comments to improve the draft. All authors contributed to the collection or interpretation of data, provided critical revisions to the report, and approved the final draft. XW and ML are the guarantors of the study.",
+        "section": "Table 3: Effect of intervention on prescription costs",
+        "section_number": 27,
+        "sentences": [
+            "Contributors XW, JDW, JPH, GZ, and ML contributed to the study design.",
+            "JDW, XW, ZZ, GZ, SD, and JZ developed the guideline and training.",
+            "ZZ, SD, and YZ prepared and cleaned the data.",
+            "JPH, ZZ, and YZ analysed the data.",
+            "JPH provided substantial scientific input into the statistical methods and interpretation of the results.",
+            "JY did the literature reviews.",
+            "XW, ML, JZ, ZZ, SD, JY, QS, and GZ implemented the study.",
+            "XW took the lead in drafting the report.",
+            "JPH, JDW, JNN, YG, and REGU provided substantial comments to improve the draft.",
+            "All authors contributed to the collection or interpretation of data, provided critical revisions to the report, and approved the final draft.",
+            "XW and ML are the guarantors of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "We declare no competing interests.",
+        "section": "Declaration of interests",
+        "section_number": 28,
+        "sentences": [
+            "We declare no competing interests."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34774",
+        "text": "www.thelancet.com/lancetgh Vol 5 December 2017",
+        "section": "",
+        "section_number": 29,
+        "sentences": [
+            "www.thelancet.com/lancetgh Vol 5 December 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

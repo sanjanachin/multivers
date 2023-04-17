@@ -1,0 +1,523 @@
+[
+    {
+        "doc_id": "35243",
+        "text": "PURPOSE Seasonal influenza vaccine is recommended and funded for groups at higher risk of serious infection, but uptake is suboptimal. We conducted a randomized controlled trial of short message service (SMS) reminders for influenza vaccination. METHODS Six weeks after seasonal influenza vaccinations began, we identified high-risk patients who had a mobile telephone number on record at 10 practices in Western Australia. Thirty-two percent of the selected patients had already been vaccinated in the current year and were ineligible. Of the remaining 12,354 eligible patients at each practice one-half were randomly assigned to receive a vaccination reminder by SMS (intervention) and the rest received no SMS (control). Approximately 3 months after the SMS was sent (the study period), vaccination data were extracted from the patients' electronic medical records. Log-binomial regression models were used to calculate the relative risk (RR) of vaccination between the intervention and control group. RESULTS Twelve-percent (769 of 6,177) of the intervention group and 9% (548 of 6,177) of the control group were vaccinated during the study period, a 39% relative increase attributable to the SMS (RR = 1.39; 95% CI, 1.26-1.54). For every 29 SMSs sent, costing $3.48, 1 additional high-risk patient was immunized. The greatest effect was observed for children younger than 5 years, whose parents were more than twice as likely to have their child vaccinated if they received a SMS reminder (RR = 2.43; 95% CI, 1.79-3.29). CONCLUSION We found SMS reminders to be a modestly effective, low-cost means to increase seasonal influenza vaccine coverage among high-risk patients.",
+        "section": "Abstract",
+        "sentences": [
+            "PURPOSE Seasonal influenza vaccine is recommended and funded for groups at higher risk of serious infection, but uptake is suboptimal.",
+            "We conducted a randomized controlled trial of short message service (SMS) reminders for influenza vaccination.",
+            "METHODS Six weeks after seasonal influenza vaccinations began, we identified high-risk patients who had a mobile telephone number on record at 10 practices in Western Australia.",
+            "Thirty-two percent of the selected patients had already been vaccinated in the current year and were ineligible.",
+            "Of the remaining 12,354 eligible patients at each practice one-half were randomly assigned to receive a vaccination reminder by SMS (intervention) and the rest received no SMS (control).",
+            "Approximately 3 months after the SMS was sent (the study period), vaccination data were extracted from the patients' electronic medical records.",
+            "Log-binomial regression models were used to calculate the relative risk (RR) of vaccination between the intervention and control group.",
+            "RESULTS Twelve-percent (769 of 6,177) of the intervention group and 9% (548 of 6,177) of the control group were vaccinated during the study period, a 39% relative increase attributable to the SMS (RR = 1.39; 95% CI, 1.26-1.54).",
+            "For every 29 SMSs sent, costing $3.48, 1 additional high-risk patient was immunized.",
+            "The greatest effect was observed for children younger than 5 years, whose parents were more than twice as likely to have their child vaccinated if they received a SMS reminder (RR = 2.43; 95% CI, 1.79-3.29).",
+            "CONCLUSION We found SMS reminders to be a modestly effective, low-cost means to increase seasonal influenza vaccine coverage among high-risk patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "nfluenza is associated with major morbidity and mortality. 1 It is estimated that globally 3 to 5 million cases of severe illness and 300,000 to 500,000 deaths can be attributed to influenza infection each year. 1 Individuals aged 65 years or older and children aged 5 years or younger, those with chronic medical conditions (eg, asthma, chronic heart disease, diabetes), and pregnant women are most at increased risk of serious influenza illness. 2 In Australia, seasonal influenza vaccination is provided at no cost for these high-risk groups, as well as for persons who are Aboriginal and/or Torres Strait Islander (ie, Indigenous Australians). 3 Despite a clear recommendation for annual seasonal influenza vaccination and the provision of government-purchased vaccine, seasonal influenza vaccine uptake has been poor among many high-risk groups. [4] [5] [6] [7] [8] [9] The latest data from the Australian Institute of Health and Welfare indicate that, although 75% of adults aged 65 years or older received a seasonal influenza vaccine, only 36% of other high-risk populations are vaccinated. 10 Strategies are needed to improve the uptake of seasonal influenza vaccines in these patient populations.",
+        "section": "I",
+        "section_number": 1,
+        "sentences": [
+            "nfluenza is associated with major morbidity and mortality.",
+            "1 It is estimated that globally 3 to 5 million cases of severe illness and 300,000 to 500,000 deaths can be attributed to influenza infection each year.",
+            "1 Individuals aged 65 years or older and children aged 5 years or younger, those with chronic medical conditions (eg, asthma, chronic heart disease, diabetes), and pregnant women are most at increased risk of serious influenza illness.",
+            "2 In Australia, seasonal influenza vaccination is provided at no cost for these high-risk groups, as well as for persons who are Aboriginal and/or Torres Strait Islander (ie, Indigenous Australians).",
+            "3 Despite a clear recommendation for annual seasonal influenza vaccination and the provision of government-purchased vaccine, seasonal influenza vaccine uptake has been poor among many high-risk groups. [",
+            "4] [5] [6] [7] [8] [9] The latest data from the Australian Institute of Health and Welfare indicate that, although 75% of adults aged 65 years or older received a seasonal influenza vaccine, only 36% of other high-risk populations are vaccinated.",
+            "10 Strategies are needed to improve the uptake of seasonal influenza vaccines in these patient populations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Prior research has shown that expanded access to influenza vaccines, standing orders, provider feedback and incentives, reminder letters, telephone calls, and staff and patient education can improve influenza vac-cine uptake. However, these methods can be resource intensive and challenge widespread implementation. [11] [12] [13] [14] Limited data on reminders sent by short message service (SMS) have shown promise in promoting influenza vaccinations in select patient populations in the United States (eg, children and pregnant women). [15] [16] [17] We conducted a large randomized controlled trial to investigate the impact of using SMSs to encourage seasonal influenza vaccination among a wide range of high-risk patients at family practice clinics.",
+        "section": "I",
+        "section_number": 2,
+        "sentences": [
+            "Prior research has shown that expanded access to influenza vaccines, standing orders, provider feedback and incentives, reminder letters, telephone calls, and staff and patient education can improve influenza vac-cine uptake.",
+            "However, these methods can be resource intensive and challenge widespread implementation. [",
+            "11] [12] [13] [14] Limited data on reminders sent by short message service (SMS) have shown promise in promoting influenza vaccinations in select patient populations in the United States (eg, children and pregnant women). [",
+            "15] [16] [17] We conducted a large randomized controlled trial to investigate the impact of using SMSs to encourage seasonal influenza vaccination among a wide range of high-risk patients at family practice clinics."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "In collaboration with a not-for-profit practice improvement organization, the Department of Health Western Australia (WA Health) developed a system for sending SMS reminders from general practice management software using a data extraction and management tool (the Canning Data Extraction Tool). 18 This tool interfaces with electronic medical records in the practice management software to perform quality assurance audits used to improve management of chronic health conditions. 18 Information routinely extracted by the tool includes acute and chronic medical conditions, reason for visit, and prescribed medications. We adapted this tool to identify patients with chronic conditions or age criteria that placed them at high risk for serious influenza illness and therefore eligible for government-funded influenza vaccine and to extract influenza vaccination information. These high-risk groups included (1) people aged 65 years and older, (2) children aged between 6 months and 4 years, (3) Aboriginal and Torres Strait Islander people aged 15 years and older, (4) pregnant women, and (5) people aged 6 months or older with underlying medical conditions, including severe asthma, lung or heart disease, diabetes, or immune impairment that can predispose them to complications from influenza. 3 Nine practices in the Perth metropolitan area and 1 rural practice agreed to participate in a randomized controlled trial during the 2016 influenza vaccination period. No participating practice was implementing a competing influenza vaccine reminder program. Patients at participating practices were eligible for inclusion in the study if they were in a high-risk group for severe influenza infection, had a mobile telephone number on file with the practice, had previously consented to contact by SMS with their general practitioner, and had not received a seasonal influenza vaccine before the date when the SMS reminder was sent.",
+        "section": "METHODS",
+        "section_number": 3,
+        "sentences": [
+            "In collaboration with a not-for-profit practice improvement organization, the Department of Health Western Australia (WA Health) developed a system for sending SMS reminders from general practice management software using a data extraction and management tool (the Canning Data Extraction Tool).",
+            "18 This tool interfaces with electronic medical records in the practice management software to perform quality assurance audits used to improve management of chronic health conditions.",
+            "18 Information routinely extracted by the tool includes acute and chronic medical conditions, reason for visit, and prescribed medications.",
+            "We adapted this tool to identify patients with chronic conditions or age criteria that placed them at high risk for serious influenza illness and therefore eligible for government-funded influenza vaccine and to extract influenza vaccination information.",
+            "These high-risk groups included (1) people aged 65 years and older, (2) children aged between 6 months and 4 years, (3) Aboriginal and Torres Strait Islander people aged 15 years and older, (4) pregnant women, and (5) people aged 6 months or older with underlying medical conditions, including severe asthma, lung or heart disease, diabetes, or immune impairment that can predispose them to complications from influenza.",
+            "3 Nine practices in the Perth metropolitan area and 1 rural practice agreed to participate in a randomized controlled trial during the 2016 influenza vaccination period.",
+            "No participating practice was implementing a competing influenza vaccine reminder program.",
+            "Patients at participating practices were eligible for inclusion in the study if they were in a high-risk group for severe influenza infection, had a mobile telephone number on file with the practice, had previously consented to contact by SMS with their general practitioner, and had not received a seasonal influenza vaccine before the date when the SMS reminder was sent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Baseline data were extracted from participating practices, approximately 6 weeks after the start of the influenza vaccination period in Australia (between May 4 and May 26, 2016). Data collected from participat-ing patients' electronic medical records included the patient's age, indigenous status, any underlying medical conditions, and influenza vaccination history. Of the 12,354 eligible patients, one-half of the patients within each practice were randomly assigned to receive a SMS (intervention group) or no SMS (control group). General practice staff were blinded to the patient's group assignment.",
+        "section": "METHODS",
+        "section_number": 4,
+        "sentences": [
+            "Baseline data were extracted from participating practices, approximately 6 weeks after the start of the influenza vaccination period in Australia (between May 4 and May 26, 2016).",
+            "Data collected from participat-ing patients' electronic medical records included the patient's age, indigenous status, any underlying medical conditions, and influenza vaccination history.",
+            "Of the 12,354 eligible patients, one-half of the patients within each practice were randomly assigned to receive a SMS (intervention group) or no SMS (control group).",
+            "General practice staff were blinded to the patient's group assignment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "35243",
+        "text": "The SMS message reminded patients of their eligibility for free influenza vaccine. For adults the message read: Between August 27 and September 4, 2016, a second data extraction from participating patients' electronic medical records was used to identify the date of administration for seasonal influenza vaccination received in 2016.",
+        "section": "METHODS",
+        "section_number": 5,
+        "sentences": [
+            "The SMS message reminded patients of their eligibility for free influenza vaccine.",
+            "For adults the message read: Between August 27 and September 4, 2016, a second data extraction from participating patients' electronic medical records was used to identify the date of administration for seasonal influenza vaccination received in 2016."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Baseline characteristics of patients in the intervention and control groups were compared using \u03c7 2 statistics. Log-binomial regression models were used to determine the relative risk (RR) of seasonal influenza vaccination (ie, a record of 2016 seasonal influenza vaccine administered during the study period) between the intervention and control groups. Regression models included an indicator variable for each practice to control for the fixed effects of different sites. 19 The number needed to text (NNT) was estimated based on the inverse of the absolute risk difference. Subgroup analyses were performed by age, sex, race, preexisting medical conditions, and influenza vaccination history to measure effects within groups. Where convergence could not be achieved because of sparse data, indicator variables for individual practices were not included. The median number of days between the SMS transmission and the date of vaccination was calculated and compared between groups using Wilcoxon rank sums (\u03b1 = .05). The study was powered to determine a plus or minus 16% difference in vaccine uptake between groups (\u03b2 = .80, \u03b1 = .05).",
+        "section": "Statistical Analysis",
+        "section_number": 6,
+        "sentences": [
+            "Baseline characteristics of patients in the intervention and control groups were compared using \u03c7 2 statistics.",
+            "Log-binomial regression models were used to determine the relative risk (RR) of seasonal influenza vaccination (ie, a record of 2016 seasonal influenza vaccine administered during the study period) between the intervention and control groups.",
+            "Regression models included an indicator variable for each practice to control for the fixed effects of different sites.",
+            "19 The number needed to text (NNT) was estimated based on the inverse of the absolute risk difference.",
+            "Subgroup analyses were performed by age, sex, race, preexisting medical conditions, and influenza vaccination history to measure effects within groups.",
+            "Where convergence could not be achieved because of sparse data, indicator variables for individual practices were not included.",
+            "The median number of days between the SMS transmission and the date of vaccination was calculated and compared between groups using Wilcoxon rank sums (\u03b1 = .05).",
+            "The study was powered to determine a plus or minus 16% difference in vaccine uptake between groups (\u03b2 = .80, \u03b1 = .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "We performed an intention-to-treat analysis, which included all patients randomly allocated to the intervention and control group. Two supplementary analyses were also performed. The first supplementary analysis excluded 65 patients who were retrospectively determined to be ineligible for the study because they had been misclassified as unvaccinated at the start of trial (they received the 2016 seasonal influenza vaccine before the study started, but the vaccination had not been documented in the patient record until after the study started). The second supplementary analysis excluded 121 patients in the intervention group for whom the SMS transmission was known to have failed.",
+        "section": "Statistical Analysis",
+        "section_number": 7,
+        "sentences": [
+            "We performed an intention-to-treat analysis, which included all patients randomly allocated to the intervention and control group.",
+            "Two supplementary analyses were also performed.",
+            "The first supplementary analysis excluded 65 patients who were retrospectively determined to be ineligible for the study because they had been misclassified as unvaccinated at the start of trial (they received the 2016 seasonal influenza vaccine before the study started, but the vaccination had not been documented in the patient record until after the study started).",
+            "The second supplementary analysis excluded 121 patients in the intervention group for whom the SMS transmission was known to have failed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "This study was approved by the Department of Health Western Australia's Human Research Ethics Committee (RA#2016.18) and is registered with the Australian New Zealand Clinical Trials Registry (#ACTRN12616001465448).",
+        "section": "Statistical Analysis",
+        "section_number": 8,
+        "sentences": [
+            "This study was approved by the Department of Health Western Australia's Human Research Ethics Committee (RA#2016.18) and is registered with the Australian New Zealand Clinical Trials Registry (#ACTRN12616001465448)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Information on the number of patients previously vaccinated was available for 8 of 10 participating practices. At these 8 practices, an average of 68.0% (interquartile range [IQR] = 61.8% to 75.5%) of high-risk patients had not yet received a 2016 influenza vaccine. On average, 2,720 patients (IQR = 1,949-3,132) at each practice were eligible for inclusion in the study, of which 75.5% (IQR = 70.3% to 82.9%) had mobile telephone numbers in their electronic medical record. The intention-to-treat sample had 12,354 patients, of whom 6,177 (50.0%) were sent a SMS immunization reminder, and 6,177 (50.0%) who were not (Figure 1 ). Participant characteristics are presented in Table 1 .",
+        "section": "RESULTS",
+        "section_number": 9,
+        "sentences": [
+            "Information on the number of patients previously vaccinated was available for 8 of 10 participating practices.",
+            "At these 8 practices, an average of 68.0% (interquartile range [IQR] = 61.8% to 75.5%) of high-risk patients had not yet received a 2016 influenza vaccine.",
+            "On average, 2,720 patients (IQR = 1,949-3,132) at each practice were eligible for inclusion in the study, of which 75.5% (IQR = 70.3% to 82.9%) had mobile telephone numbers in their electronic medical record.",
+            "The intention-to-treat sample had 12,354 patients, of whom 6,177 (50.0%) were sent a SMS immunization reminder, and 6,177 (50.0%) who were not (Figure 1 ).",
+            "Participant characteristics are presented in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Overall, 2% (n = 121) of SMS transmission attempts failed, indicating the message could not be successfully transmitted to the patient's telephone. The percentage of failed messages at individual clinics ranged from 0% to 11%. There were no significant differences in the demographic or medical characteristics of patients who had a failed SMS message (P >.05).",
+        "section": "RESULTS",
+        "section_number": 10,
+        "sentences": [
+            "Overall, 2% (n = 121) of SMS transmission attempts failed, indicating the message could not be successfully transmitted to the patient's telephone.",
+            "The percentage of failed messages at individual clinics ranged from 0% to 11%.",
+            "There were no significant differences in the demographic or medical characteristics of patients who had a failed SMS message (P >.05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Twelve-percent (n = 769) of the intervention group and 9% (n = 548) of the control group were vaccinated during the study period. In aggregate, individuals who received a SMS reminder were 39% more likely than the control group to receive a seasonal influenza vac- (Figure 2 ). When we examined results by age-group, we found children whose parents received a SMS reminder were 2.4 times more likely to receive at least 1 dose of seasonal influenza vaccine compared with children whose parents received no SMS (RR = 2.43; 95% CI, 1.79-3.29) ( Table 2 ). The SMS reminders resulted in a significant increase in vaccination uptake regardless of whether the patient had a history of influenza vaccination at the practice (Table 2) . Furthermore, among persons who were eligible for influenza vaccine based on their age (ie, aged younger than 5 years, or 65 years or older), SMS reminders resulted in a significant increase in vaccination uptake even among patients without underlying preexisting medical condition (RR = 1.44; 95% CI, 1.23-1.69).",
+        "section": "Estimated Effect of Text Message Reminders",
+        "section_number": 11,
+        "sentences": [
+            "Twelve-percent (n = 769) of the intervention group and 9% (n = 548) of the control group were vaccinated during the study period.",
+            "In aggregate, individuals who received a SMS reminder were 39% more likely than the control group to receive a seasonal influenza vac- (Figure 2 ).",
+            "When we examined results by age-group, we found children whose parents received a SMS reminder were 2.4 times more likely to receive at least 1 dose of seasonal influenza vaccine compared with children whose parents received no SMS (RR = 2.43; 95% CI, 1.79-3.29) ( Table 2 ).",
+            "The SMS reminders resulted in a significant increase in vaccination uptake regardless of whether the patient had a history of influenza vaccination at the practice (Table 2) .",
+            "Furthermore, among persons who were eligible for influenza vaccine based on their age (ie, aged younger than 5 years, or 65 years or older), SMS reminders resulted in a significant increase in vaccination uptake even among patients without underlying preexisting medical condition (RR = 1.44; 95% CI, 1.23-1.69)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Notably, we failed to observe a significant effect of the SMS recall reminders among pregnant or nonpregnant women aged 18 to 44 years (RR = 0.90; 95% CI, 0.53-1.54; RR = 1.32; 95% CI, 0.87-2.00, respectively) and for Indigenous Australians (RR = 1.04; 95% CI, 0.61-1.79).",
+        "section": "Estimated Effect of Text Message Reminders",
+        "section_number": 12,
+        "sentences": [
+            "Notably, we failed to observe a significant effect of the SMS recall reminders among pregnant or nonpregnant women aged 18 to 44 years (RR = 0.90; 95% CI, 0.53-1.54; RR = 1.32; 95% CI, 0.87-2.00, respectively) and for Indigenous Australians (RR = 1.04; 95% CI, 0.61-1.79)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "The 65 patients inadvertently misclassified as nonvaccinated at the start of the trial were classified as nonvaccinated during the study period for the primary intent-to-treat analysis. The supplemental analysis that excluded these patients produced almost identical results; ie, persons in the intervention group were 40% more likely than those in the control group to receive an influenza vaccine (RR = 1.40; 95% CI, 1.26-1.55). Similarly, removing individuals in the intervention group for whom the SMS transmission had failed (n = 121) did not affect the results (RR = 1.39; 95% CI, 1.25-1.54).",
+        "section": "Supplementary Analyses",
+        "section_number": 13,
+        "sentences": [
+            "The 65 patients inadvertently misclassified as nonvaccinated at the start of the trial were classified as nonvaccinated during the study period for the primary intent-to-treat analysis.",
+            "The supplemental analysis that excluded these patients produced almost identical results; ie, persons in the intervention group were 40% more likely than those in the control group to receive an influenza vaccine (RR = 1.40; 95% CI, 1.26-1.55).",
+            "Similarly, removing individuals in the intervention group for whom the SMS transmission had failed (n = 121) did not affect the results (RR = 1.39; 95% CI, 1.25-1.54)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "To our knowledge, this is the most comprehensive randomized controlled trial of SMS reminders for influenza vaccination to date, including several different groups at high risk for severe influenza illness. In our setting, SMS reminders for seasonal influenza vaccination significantly increased the proportion of high-risk patients who received a seasonal influenza vaccine. This intervention was particularly successful among parents of children younger than 5 years, who were more than twice as likely to have their children vaccinated against influenza if they received a text reminder.",
+        "section": "DISCUSSION",
+        "section_number": 14,
+        "sentences": [
+            "To our knowledge, this is the most comprehensive randomized controlled trial of SMS reminders for influenza vaccination to date, including several different groups at high risk for severe influenza illness.",
+            "In our setting, SMS reminders for seasonal influenza vaccination significantly increased the proportion of high-risk patients who received a seasonal influenza vaccine.",
+            "This intervention was particularly successful among parents of children younger than 5 years, who were more than twice as likely to have their children vaccinated against influenza if they received a text reminder."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Other studies have found SMS reminder systems to be acceptable and effective for promoting immunization. A smaller randomized controlled trial of 1,187 obstetric patients in New York City showed that pregnant women who received a text message reminder were 30% more likely to receive an influenza vaccine than were women who did not. 12 A larger, more recent randomized controlled trial from the United Kingdom of 51,121 high-risk general practice patients found a modest increase in influenza vaccination subsequent to a text message reminder to patients at general practices. 20 Trials investigating reminders for other recommended vaccines have shown similar results. 21, 22 Other immunization reminder systems, such as letters, have been successful 23, 24 but are more resource and time intensive, and at least 1 study has found that SMS to be more effective in comparison. 25 Despite a 39% relative increase in vaccinations among those whom were sent an SMS, the absolute increase in our setting was modest (3.5%). Furthermore, the intervention was not successful among all high-risk groups included. We observed no significant effect among pregnant women, a finding consistent with a recent trial in Canada which found that, although viewed favorably, SMS communications did not increase the likelihood of women receiving a vaccination during pregnancy. 26 Furthermore, despite the inclusion of a relatively large sample of Indigenous Australians (n = 997), our study failed to show a significant effect of SMS reminders on influenza vaccine uptake in this population. These results suggest that SMS recall reminders may not increase influenza vaccination uptake in all patient populations.",
+        "section": "DISCUSSION",
+        "section_number": 15,
+        "sentences": [
+            "Other studies have found SMS reminder systems to be acceptable and effective for promoting immunization.",
+            "A smaller randomized controlled trial of 1,187 obstetric patients in New York City showed that pregnant women who received a text message reminder were 30% more likely to receive an influenza vaccine than were women who did not.",
+            "12 A larger, more recent randomized controlled trial from the United Kingdom of 51,121 high-risk general practice patients found a modest increase in influenza vaccination subsequent to a text message reminder to patients at general practices.",
+            "20 Trials investigating reminders for other recommended vaccines have shown similar results.",
+            "21, 22 Other immunization reminder systems, such as letters, have been successful 23, 24 but are more resource and time intensive, and at least 1 study has found that SMS to be more effective in comparison.",
+            "25 Despite a 39% relative increase in vaccinations among those whom were sent an SMS, the absolute increase in our setting was modest (3.5%).",
+            "Furthermore, the intervention was not successful among all high-risk groups included.",
+            "We observed no significant effect among pregnant women, a finding consistent with a recent trial in Canada which found that, although viewed favorably, SMS communications did not increase the likelihood of women receiving a vaccination during pregnancy.",
+            "26 Furthermore, despite the inclusion of a relatively large sample of Indigenous Australians (n = 997), our study failed to show a significant effect of SMS reminders on influenza vaccine uptake in this population.",
+            "These results suggest that SMS recall reminders may not increase influenza vaccination uptake in all patient populations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "There are several factors that could potentially affect the effectiveness of SMS vaccination reminder systems, including (1) who sends the message, (2) the reliability of contact information, (3) the message content, and (4) when the message is sent. In this study, messages were sent directly from a general practitioner to their patients. A recent Cochrane review identified physician-based reminders are important for encouraging influenza vaccination. 27 It is possible that text messages generated by an individual's general practitioner may have more success in promoting immunization than would a reminder delivered by an entity not directly involved in the patients' care. Within practices, the accuracy of patient contact information is also critical. Although just 2% of SMS messages failed, we noted varying rates of failed messages by practice, potentially limiting their impact in specific practice settings.",
+        "section": "DISCUSSION",
+        "section_number": 16,
+        "sentences": [
+            "There are several factors that could potentially affect the effectiveness of SMS vaccination reminder systems, including (1) who sends the message, (2) the reliability of contact information, (3) the message content, and (4) when the message is sent.",
+            "In this study, messages were sent directly from a general practitioner to their patients.",
+            "A recent Cochrane review identified physician-based reminders are important for encouraging influenza vaccination.",
+            "27 It is possible that text messages generated by an individual's general practitioner may have more success in promoting immunization than would a reminder delivered by an entity not directly involved in the patients' care.",
+            "Within practices, the accuracy of patient contact information is also critical.",
+            "Although just 2% of SMS messages failed, we noted varying rates of failed messages by practice, potentially limiting their impact in specific practice settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "The content of the message may also be important to the success of the intervention. Previous investigations have found that educational content embedded in text messages improved the effectiveness of text message immunization reminders. 28 To limit the message No SMS reminder SMS reminder 77 75 73 71 69 67 65 63 61 59 57 55 53 51 49 47 45 43 41 39 37 35 33 31 29 27 25 23 21 19 17 15 13 11 9 7 5 3 1",
+        "section": "DISCUSSION",
+        "section_number": 17,
+        "sentences": [
+            "The content of the message may also be important to the success of the intervention.",
+            "Previous investigations have found that educational content embedded in text messages improved the effectiveness of text message immunization reminders.",
+            "28 To limit the message No SMS reminder SMS reminder 77 75 73 71 69 67 65 63 61 59 57 55 53 51 49 47 45 43 41 39 37 35 33 31 29 27 25 23 21 19 17 15 13 11 9 7 5 3 1"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "length (ie, cost) we did not include educational content in the messages used in the current study. Considering that previous research has shown patient education activities to be associated with improved vaccine uptake, however, it is possible that our intervention would have been more successful had we incorporated some patient education. 13, 14 For example, patients with no history of influenza vaccination may have responded better if we had provided educational content on vaccination benefits. Likewise, persons not at high risk may need more than a simple immunization reminder to spur them to get vaccinated, if they respond at all. Additional research should be undertaken to optimize the potential effect of SMS immunization reminders, to examine why they may not be effective in some at-risk patient populations, and to establish whether they are effective among persons not in a high-risk group.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 18,
+        "sentences": [
+            "length (ie, cost) we did not include educational content in the messages used in the current study.",
+            "Considering that previous research has shown patient education activities to be associated with improved vaccine uptake, however, it is possible that our intervention would have been more successful had we incorporated some patient education.",
+            "13, 14 For example, patients with no history of influenza vaccination may have responded better if we had provided educational content on vaccination benefits.",
+            "Likewise, persons not at high risk may need more than a simple immunization reminder to spur them to get vaccinated, if they respond at all.",
+            "Additional research should be undertaken to optimize the potential effect of SMS immunization reminders, to examine why they may not be effective in some at-risk patient populations, and to establish whether they are effective among persons not in a high-risk group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "We intentionally timed our intervention to start 6 weeks after influenza vaccinations began at general practices, allowing the cohort ample time to be vaccinated before the study began. We preferred this approach to sending the messages at the beginning of the influenza vaccination season, when more high-risk patients were still unimmunized, which would increase the number of messages sent and subsequent cost. In addition, it allowed us to target our recall message toward those patients who might be less motivated to seek immunization on their own compared with those who got their vaccination early in the influenza season. Because 9% of patients in the control group went on to be immunized, despite receiving no SMS reminder, it is possible that delaying transmission of the SMS reminder until later during season could improve the effectiveness of the intervention. Alternatively, the addition of a second SMS reminder may also have improved effectiveness. Little is known about the effectiveness of repeated SMS reminders compared with a single SMS, though a previous trial showed no a The treatment group received a short message service message reminding them they were eligible for free influenza vaccine and recommending they schedule an appointment for vaccination; the control group received no such message. b NNT defined as the inverse of the absolute risk difference.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 19,
+        "sentences": [
+            "We intentionally timed our intervention to start 6 weeks after influenza vaccinations began at general practices, allowing the cohort ample time to be vaccinated before the study began.",
+            "We preferred this approach to sending the messages at the beginning of the influenza vaccination season, when more high-risk patients were still unimmunized, which would increase the number of messages sent and subsequent cost.",
+            "In addition, it allowed us to target our recall message toward those patients who might be less motivated to seek immunization on their own compared with those who got their vaccination early in the influenza season.",
+            "Because 9% of patients in the control group went on to be immunized, despite receiving no SMS reminder, it is possible that delaying transmission of the SMS reminder until later during season could improve the effectiveness of the intervention.",
+            "Alternatively, the addition of a second SMS reminder may also have improved effectiveness.",
+            "Little is known about the effectiveness of repeated SMS reminders compared with a single SMS, though a previous trial showed no a The treatment group received a short message service message reminding them they were eligible for free influenza vaccine and recommending they schedule an appointment for vaccination; the control group received no such message.",
+            "b NNT defined as the inverse of the absolute risk difference."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "c Significant at P <.05.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 20,
+        "sentences": [
+            "c Significant at P <.05."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "d Chronic medical conditions included asthma, diabetes, chronic lung disease, and chronic heart disease.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 21,
+        "sentences": [
+            "d Chronic medical conditions included asthma, diabetes, chronic lung disease, and chronic heart disease."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "e Pregnancy was assessed in female reproductive-aged (18-44y) patients only.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 22,
+        "sentences": [
+            "e Pregnancy was assessed in female reproductive-aged (18-44y) patients only."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "f Because of small cells and issues with convergence in the model, fixed effects for site were not included in these models.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 23,
+        "sentences": [
+            "f Because of small cells and issues with convergence in the model, fixed effects for site were not included in these models."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "effect on vaccine uptake of SMS messages sent twice weekly. 26 Future research should examine the relative effectiveness of a single vs repeated SMS messages on enhancing immunization coverage. There are limitations to our study. First, our system relied on general practice records to identify participants with high-risk conditions and their influenza vaccination status. Reviews of general practice record systems indicate they can accurately detect most patients with chronic conditions 29 ; the accuracy of vaccination information, however, has been less well studied. Second, only patients with mobile telephone numbers on file with the practice were eligible for inclusion. In our study, three-quarters of patients at risk for severe infection had a mobile telephone number, but in settings with low mobile telephone coverage, SMS immunization reminders may be of limited value. Third, we extracted data on only 1 dose of influenza vaccine for all patients; for children, who are recommended to receive 2 doses of influenza vaccine the first time they are vaccinated, our results indicate only that they initiated the vaccination series.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 24,
+        "sentences": [
+            "effect on vaccine uptake of SMS messages sent twice weekly.",
+            "26 Future research should examine the relative effectiveness of a single vs repeated SMS messages on enhancing immunization coverage.",
+            "There are limitations to our study.",
+            "First, our system relied on general practice records to identify participants with high-risk conditions and their influenza vaccination status.",
+            "Reviews of general practice record systems indicate they can accurately detect most patients with chronic conditions 29 ; the accuracy of vaccination information, however, has been less well studied.",
+            "Second, only patients with mobile telephone numbers on file with the practice were eligible for inclusion.",
+            "In our study, three-quarters of patients at risk for severe infection had a mobile telephone number, but in settings with low mobile telephone coverage, SMS immunization reminders may be of limited value.",
+            "Third, we extracted data on only 1 dose of influenza vaccine for all patients; for children, who are recommended to receive 2 doses of influenza vaccine the first time they are vaccinated, our results indicate only that they initiated the vaccination series."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35243",
+        "text": "Despite the potential limitations, the SMS messages in this RCT cost, in aggregate, $741 and resulted in 221 additional high-risk patients being vaccinated against influenza. In our setting, 29 messages were sent for each additional immunized patient, and this figure is better than, but generally similar to, results from another trial, which found 38 messages were required to achieve 1 additional influenza vaccination. 20 In Australia, seasonal influenza is reported to cause an average of 310,000 general practice consultations and 18,000 admissions to hospital each year, costing the Australian government between $52-$137 million annually. 30 The greatest expense results from hospital admissions, which are more common among high-risk groups. 31 Previous work has found that influenza vaccination reduces hospital admissions among some at-risk groups, and an Australian study in 2014 found that seasonal influenza vaccinations reduced the risk of hospitalization for influenza by 50%. 32 Although a formal economic analysis is beyond the scope of this study, future work should examine the anticipated costs and benefits of using SMS influenza vaccination reminders for high-risk individuals on a larger scale.",
+        "section": "Time between SMS and vaccination (in days)",
+        "section_number": 25,
+        "sentences": [
+            "Despite the potential limitations, the SMS messages in this RCT cost, in aggregate, $741 and resulted in 221 additional high-risk patients being vaccinated against influenza.",
+            "In our setting, 29 messages were sent for each additional immunized patient, and this figure is better than, but generally similar to, results from another trial, which found 38 messages were required to achieve 1 additional influenza vaccination.",
+            "20 In Australia, seasonal influenza is reported to cause an average of 310,000 general practice consultations and 18,000 admissions to hospital each year, costing the Australian government between $52-$137 million annually.",
+            "30 The greatest expense results from hospital admissions, which are more common among high-risk groups.",
+            "31 Previous work has found that influenza vaccination reduces hospital admissions among some at-risk groups, and an Australian study in 2014 found that seasonal influenza vaccinations reduced the risk of hospitalization for influenza by 50%.",
+            "32 Although a formal economic analysis is beyond the scope of this study, future work should examine the anticipated costs and benefits of using SMS influenza vaccination reminders for high-risk individuals on a larger scale."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

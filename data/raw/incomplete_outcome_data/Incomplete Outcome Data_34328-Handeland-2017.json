@@ -1,0 +1,759 @@
+[
+    {
+        "doc_id": "34328",
+        "text": "Background: Fatty fish is the dominant dietary source of n-3 LCPUFAs but it also contains other micronutrients considered important for brain development and function. To our knowledge, the effect of fatty fish intake on cognitive function in adolescents has not been investigated in randomized controlled trials (RCTs) previously. The aim of the present trial was to investigate whether consumption of fatty fish meals three times per week for 12 weeks could alter attention performance in adolescents compared to similar meals with meat or n-3 LCPUFA supplements. Methods: In the Fish Intervention Studies-TEENS (FINS-TEENS), adolescents from eight secondary schools (n = 426; age: 14-15y) were individually randomized. Attention performance was assessed with the d2 test of attention. Differences between groups from pre to post intervention were assessed with linear mixed effect models and general estimates equation. The fish group was set as reference. Dietary compliance was recorded for each meal throughout the trial and controlled for in the adjusted analyses. Results: The improvement in processing speed was significantly lower in the meat (\u221211.8; 95% CI:-23.3, \u22120.4) and supplement (\u221213.4; 95% CI:-24.9, \u22121.8) group compared to the fish group (reference). The supplement group also showed inferior improvement in total performance (\u221210.4; 95% CI:-20.0, \u22120.7) compared to the fish group (reference). The results were slightly affected when controlling for dietary compliance. Omission errors decreased in the meat group compared to the fish group (Incidence rate ratio = 0.85; 95% CI: 0.74, 0.98), but the difference disappeared when controlling for dietary compliance. Conclusions: We observed a small beneficial effect of fatty fish, compared to meat meals and supplements on processing speed. However, these results are difficult to interpret due to low dietary compliance. This study shows that different taste preferences among participants is challenging in intervention trials with food. A prospective cohort design may be a better alternative when studying diet in the future. Trial registration number: ClinicalTrials.gov registration number: NCT02350322.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Fatty fish is the dominant dietary source of n-3 LCPUFAs but it also contains other micronutrients considered important for brain development and function.",
+            "To our knowledge, the effect of fatty fish intake on cognitive function in adolescents has not been investigated in randomized controlled trials (RCTs) previously.",
+            "The aim of the present trial was to investigate whether consumption of fatty fish meals three times per week for 12 weeks could alter attention performance in adolescents compared to similar meals with meat or n-3 LCPUFA supplements.",
+            "Methods: In the Fish Intervention Studies-TEENS (FINS-TEENS), adolescents from eight secondary schools (n = 426; age: 14-15y) were individually randomized.",
+            "Attention performance was assessed with the d2 test of attention.",
+            "Differences between groups from pre to post intervention were assessed with linear mixed effect models and general estimates equation.",
+            "The fish group was set as reference.",
+            "Dietary compliance was recorded for each meal throughout the trial and controlled for in the adjusted analyses.",
+            "Results: The improvement in processing speed was significantly lower in the meat (\u221211.8; 95% CI:-23.3, \u22120.4) and supplement (\u221213.4; 95% CI:-24.9, \u22121.8) group compared to the fish group (reference).",
+            "The supplement group also showed inferior improvement in total performance (\u221210.4; 95% CI:-20.0, \u22120.7) compared to the fish group (reference).",
+            "The results were slightly affected when controlling for dietary compliance.",
+            "Omission errors decreased in the meat group compared to the fish group (Incidence rate ratio = 0.85; 95% CI: 0.74, 0.98), but the difference disappeared when controlling for dietary compliance.",
+            "Conclusions: We observed a small beneficial effect of fatty fish, compared to meat meals and supplements on processing speed.",
+            "However, these results are difficult to interpret due to low dietary compliance.",
+            "This study shows that different taste preferences among participants is challenging in intervention trials with food.",
+            "A prospective cohort design may be a better alternative when studying diet in the future.",
+            "Trial registration number: ClinicalTrials.gov registration number: NCT02350322."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Subtle alterations in the diet have the potential to influence cognitive function in humans, even in industrialized countries where the food-availability is good [1] . Most studies have focused on the role of nutrition in early childhood when brain development is at its peak and particularly sensitive to insults due to dietary deficiencies [2] . However, the brain continues to develop during adolescence, and relatively little is known about the role of nutrition on cognitive function in adolescents from mainstream school populations [3] .",
+        "section": "Background",
+        "section_number": 1,
+        "sentences": [
+            "Subtle alterations in the diet have the potential to influence cognitive function in humans, even in industrialized countries where the food-availability is good [1] .",
+            "Most studies have focused on the role of nutrition in early childhood when brain development is at its peak and particularly sensitive to insults due to dietary deficiencies [2] .",
+            "However, the brain continues to develop during adolescence, and relatively little is known about the role of nutrition on cognitive function in adolescents from mainstream school populations [3] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "A growing body of evidence suggests that an adequate intake of the omega-3 (n-3) long-chain polyunsaturated fatty acids (LCPUFAs) is of importance for brain development and function [4] . This association is plausible, since eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are important structural components of neural cell membranes. They influence the brain through membrane fluidity, myelination and neurotransmission [5, 6] . In addition, the dietary intake of n-6 fatty acids is in excess in the European population, introducing a potential imbalance between the n-6 and n-3 PUFAs in the body [7, 8] . However, meta-analysis of randomized controlled trials (RCTs) have not found evidence that n-3 PUFA supplementation impacts cognition in healthy subjects [9, 10] . The results are also inconclusive in healthy adolescents, and two independent RCTs found no benefit of supplementing with DHA alone or DHA + EPA on cognitive performance in schoolchildren [11, 12] .",
+        "section": "Background",
+        "section_number": 2,
+        "sentences": [
+            "A growing body of evidence suggests that an adequate intake of the omega-3 (n-3) long-chain polyunsaturated fatty acids (LCPUFAs) is of importance for brain development and function [4] .",
+            "This association is plausible, since eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) are important structural components of neural cell membranes.",
+            "They influence the brain through membrane fluidity, myelination and neurotransmission [5, 6] .",
+            "In addition, the dietary intake of n-6 fatty acids is in excess in the European population, introducing a potential imbalance between the n-6 and n-3 PUFAs in the body [7, 8] .",
+            "However, meta-analysis of randomized controlled trials (RCTs) have not found evidence that n-3 PUFA supplementation impacts cognition in healthy subjects [9, 10] .",
+            "The results are also inconclusive in healthy adolescents, and two independent RCTs found no benefit of supplementing with DHA alone or DHA + EPA on cognitive performance in schoolchildren [11, 12] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Fish consumption in adolescents has been associated with better school achievements and performance in cognitive tests [13] [14] [15] . One RCT found improved reading performance after a school meal intervention including fish approximately once a week [16] . Fatty fish like mackerel, herring and salmon is the dominant dietary source of n-3 LCPUFAs, but these species also contain other micronutrients considered important for the brain, e.g. vitamin D, iodine, and vitamin B 12 [1, 17] . The diet of Norwegian adolescents contains little fish [18] . Thus, it is reasonable to hypothesize that an increased intake of fatty fish could be more beneficial compared to an intake of meat, and potentially also compared to an intake of supplements with n-3 LCPUFAs. To our knowledge, no RCTs have previously addressed the specific impact of eating fish on cognition in adolescents.",
+        "section": "Background",
+        "section_number": 3,
+        "sentences": [
+            "Fish consumption in adolescents has been associated with better school achievements and performance in cognitive tests [13] [14] [15] .",
+            "One RCT found improved reading performance after a school meal intervention including fish approximately once a week [16] .",
+            "Fatty fish like mackerel, herring and salmon is the dominant dietary source of n-3 LCPUFAs, but these species also contain other micronutrients considered important for the brain, e.g. vitamin D, iodine, and vitamin B 12 [1, 17] .",
+            "The diet of Norwegian adolescents contains little fish [18] .",
+            "Thus, it is reasonable to hypothesize that an increased intake of fatty fish could be more beneficial compared to an intake of meat, and potentially also compared to an intake of supplements with n-3 LCPUFAs.",
+            "To our knowledge, no RCTs have previously addressed the specific impact of eating fish on cognition in adolescents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The aim of the present RCT was to investigate whether fatty fish meals three times per week for 12 weeks altered attention performance in adolescents (14-15 y), compared to similar meals with meat or supplements with n-3 LCPUFAs.",
+        "section": "Background",
+        "section_number": 4,
+        "sentences": [
+            "The aim of the present RCT was to investigate whether fatty fish meals three times per week for 12 weeks altered attention performance in adolescents (14-15 y), compared to similar meals with meat or supplements with n-3 LCPUFAs."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Fish Intervention Studies-TEENS (FINS-TEENS) was conducted at eight lower secondary schools in Bergen, Norway, between February and May 2015. The threearmed trial used a RCT design to investigate the cognitive effects of providing meals with fatty fish or similar meals with meat/cheese or fish oil supplements to adolescents from a mainstream school population.",
+        "section": "Study design and ethics",
+        "section_number": 5,
+        "sentences": [
+            "Fish Intervention Studies-TEENS (FINS-TEENS) was conducted at eight lower secondary schools in Bergen, Norway, between February and May 2015.",
+            "The threearmed trial used a RCT design to investigate the cognitive effects of providing meals with fatty fish or similar meals with meat/cheese or fish oil supplements to adolescents from a mainstream school population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The trial was conducted according to the declaration of Helsinki. Ethical approval was obtained from the Norwegian Data Protection Official for Research (project number: 41030). Written informed consent was collected from all participants and one parent/ caregiver, and participants could withdraw from the trial without giving any reason. The trial is registered in ClinicalTrials.gov (NCT02350322). The design and methods are described in detail in Skotheim et al. [19] .",
+        "section": "Study design and ethics",
+        "section_number": 6,
+        "sentences": [
+            "The trial was conducted according to the declaration of Helsinki.",
+            "Ethical approval was obtained from the Norwegian Data Protection Official for Research (project number: 41030).",
+            "Written informed consent was collected from all participants and one parent/ caregiver, and participants could withdraw from the trial without giving any reason.",
+            "The trial is registered in ClinicalTrials.gov (NCT02350322).",
+            "The design and methods are described in detail in Skotheim et al. [19] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Inclusion criteria were that the adolescents were attending 9 th grade at the schools participating in the study, and that they knew the Norwegian language orally and written. Thus, all pupils at 9 th grade received invitation to participate in the study. Exclusion criteria were allergy or intolerance to the study food or supplements. The random allocation was performed individually stratified by sex. Two researchers, (one blinded), assigned every enrolled girl and boy to either the fish, meat or supplement group by drawing lots. Researchers and participants were not blinded to treatment conditions in the present study, but the d2 test of attention was scored blinded.",
+        "section": "Subjects and randomization",
+        "section_number": 7,
+        "sentences": [
+            "Inclusion criteria were that the adolescents were attending 9 th grade at the schools participating in the study, and that they knew the Norwegian language orally and written.",
+            "Thus, all pupils at 9 th grade received invitation to participate in the study.",
+            "Exclusion criteria were allergy or intolerance to the study food or supplements.",
+            "The random allocation was performed individually stratified by sex.",
+            "Two researchers, (one blinded), assigned every enrolled girl and boy to either the fish, meat or supplement group by drawing lots.",
+            "Researchers and participants were not blinded to treatment conditions in the present study, but the d2 test of attention was scored blinded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The meals and supplements were delivered to participants at school during their habitual lunch break (usually between 11:00 a.m. and noon). The participants ate together in their respective classrooms. The fish-and meat meals replaced the participants' habitual school lunch, whereas participants in the supplement group continued to eat their habitual lunch in addition to consume the supplements. Participants received the meals or supplements three times per week for 12 weeks. The school lunch in Norway usually consists of a packed lunch from home, containing medium dark or dark bread or crispbread with meat, cheese or liver pate as spread, and sometimes a fruit or vegetable [18, 20] .",
+        "section": "Dietary intervention procedure",
+        "section_number": 8,
+        "sentences": [
+            "The meals and supplements were delivered to participants at school during their habitual lunch break (usually between 11:00 a.m. and noon).",
+            "The participants ate together in their respective classrooms.",
+            "The fish-and meat meals replaced the participants' habitual school lunch, whereas participants in the supplement group continued to eat their habitual lunch in addition to consume the supplements.",
+            "Participants received the meals or supplements three times per week for 12 weeks.",
+            "The school lunch in Norway usually consists of a packed lunch from home, containing medium dark or dark bread or crispbread with meat, cheese or liver pate as spread, and sometimes a fruit or vegetable [18, 20] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The fish-and meat meals were prepared by catering service. Meals in the fish group contained salmon, mackerel and herring, whereas the meals in the meat group contained chicken, turkey, beef, lamb and cheese. Halal meat was provided on request and pork meat was not used in the trial. The meals were similar in content except from the meat and fish, and contained vegetables and/or salad and mainly wholegrain pasta-, focaccia-, baguette-or tortilla and sometimes dressing. Gluten free products were provided on request for gluten sensitive participants, but those with celiac disease were excluded from the trial because 100% gluten-free meals could not be guaranteed. The weekly content of n-3 LCPUFAs was matched between the supplement and fish group by using a mean of 90 g fish per serving as reference to determine the number of capsules, which were seven per serving. The supplements were bought at a public pharmacy and each capsule contained 500 mg of concentrated fish oil, of which 158 mg was EPA, 105 mg was DHA and 13 mg was docosapentaenoic acid (DPA) (Nycoplus\u00ae Omega-3, 500 mg, Takeda Nycomed, Asker, Norway). The meals had a mean weight of 230 g/portion and the meals in the fish group contained on average 2.1 \u03bcg/100 g of vitamin D, 4.9 \u03bcg/100 g of iodine, 152.3 mg/100 g EPA, 262.3 mg/100 g DHA and 39.9 mg/ 100 g DPA. The meals in the meat group contained on average < 1 \u03bcg/100 g of vitamin D, 2.6 \u03bcg/100 g of iodine, 3.2 mg/100 g of EPA, 5.0 mg/100 g DHA and 6.0 mg/100 g DPA.",
+        "section": "Dietary intervention procedure",
+        "section_number": 9,
+        "sentences": [
+            "The fish-and meat meals were prepared by catering service.",
+            "Meals in the fish group contained salmon, mackerel and herring, whereas the meals in the meat group contained chicken, turkey, beef, lamb and cheese.",
+            "Halal meat was provided on request and pork meat was not used in the trial.",
+            "The meals were similar in content except from the meat and fish, and contained vegetables and/or salad and mainly wholegrain pasta-, focaccia-, baguette-or tortilla and sometimes dressing.",
+            "Gluten free products were provided on request for gluten sensitive participants, but those with celiac disease were excluded from the trial because 100% gluten-free meals could not be guaranteed.",
+            "The weekly content of n-3 LCPUFAs was matched between the supplement and fish group by using a mean of 90 g fish per serving as reference to determine the number of capsules, which were seven per serving.",
+            "The supplements were bought at a public pharmacy and each capsule contained 500 mg of concentrated fish oil, of which 158 mg was EPA, 105 mg was DHA and 13 mg was docosapentaenoic acid (DPA) (Nycoplus\u00ae Omega-3, 500 mg, Takeda Nycomed, Asker, Norway).",
+            "The meals had a mean weight of 230 g/portion and the meals in the fish group contained on average 2.1 \u03bcg/100 g of vitamin D, 4.9 \u03bcg/100 g of iodine, 152.3 mg/100 g EPA, 262.3 mg/100 g DHA and 39.9 mg/ 100 g DPA.",
+            "The meals in the meat group contained on average < 1 \u03bcg/100 g of vitamin D, 2.6 \u03bcg/100 g of iodine, 3.2 mg/100 g of EPA, 5.0 mg/100 g DHA and 6.0 mg/100 g DPA."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Dietary compliance was recorded for each participant throughout the trial by study staff. They counted the remaining capsules and estimated by eye the amount of fish/meat eaten using a scale from zero to four: '0 = nothing eaten' , '1 = 1/4 eaten' , '2 = 2/4 eaten' , '3 = 3/4 eaten' and '4 = all eaten'.",
+        "section": "Dietary intervention procedure",
+        "section_number": 10,
+        "sentences": [
+            "Dietary compliance was recorded for each participant throughout the trial by study staff.",
+            "They counted the remaining capsules and estimated by eye the amount of fish/meat eaten using a scale from zero to four: '0 = nothing eaten' , '1 = 1/4 eaten' , '2 = 2/4 eaten' , '3 = 3/4 eaten' and '4 = all eaten'."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The primary outcome was attention performance measured by the d2 test of attention [21] . In addition, performance in a Norwegian reading and spelling test named \"Kartleggeren\" was assessed but not reported, due to considerable ceiling effects in nearly all outcomes at pre and post intervention. Mental health status was measured with the Strengths and difficulties questionnaire (SDQ) and reported in a separate publication (Skotheim et al. [19] ). Thus, only results from the d2 test of attention are presented in the present paper.",
+        "section": "Cognitive tests",
+        "section_number": 11,
+        "sentences": [
+            "The primary outcome was attention performance measured by the d2 test of attention [21] .",
+            "In addition, performance in a Norwegian reading and spelling test named \"Kartleggeren\" was assessed but not reported, due to considerable ceiling effects in nearly all outcomes at pre and post intervention.",
+            "Mental health status was measured with the Strengths and difficulties questionnaire (SDQ) and reported in a separate publication (Skotheim et al. [19] ).",
+            "Thus, only results from the d2 test of attention are presented in the present paper."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The d2 test of attention is a pen and paper attention cancellation test. The subjects' task is to cancel out as many target characters (a \"d\" with a total of two dashes above and/or below) as possible, while they ignore distraction characters (\"d's\" with more or less than two dashes and \"p's\" with any number of dashes) [21] . The test comprises 47 interspersed target-and distraction characters \u00d7 14 rows. It is conducted under time pressure, as participants are only allowed 20 s on each row before they must move down to the next, independent of how far they reach. The test, including instructions, was administered within 8 min. The test has shown to be a concise and valid measure of selective attention and mental concentration, comprising measures of visual scanning, processing speed and degree of accuracy, regardless of intelligence level [21, 22] . The test outcomes are described in Table 1 , and were 'concentration performance' (CP), 'total performance' (TN-E), 'processing speed' (TN), 'omission errors' (E1) 'commission errors' (E2) and 'total errors' ( Table 1 ).",
+        "section": "Cognitive tests",
+        "section_number": 12,
+        "sentences": [
+            "The d2 test of attention is a pen and paper attention cancellation test.",
+            "The subjects' task is to cancel out as many target characters (a \"d\" with a total of two dashes above and/or below) as possible, while they ignore distraction characters (\"d's\" with more or less than two dashes and \"p's\" with any number of dashes) [21] .",
+            "The test comprises 47 interspersed target-and distraction characters \u00d7 14 rows.",
+            "It is conducted under time pressure, as participants are only allowed 20 s on each row before they must move down to the next, independent of how far they reach.",
+            "The test, including instructions, was administered within 8 min.",
+            "The test has shown to be a concise and valid measure of selective attention and mental concentration, comprising measures of visual scanning, processing speed and degree of accuracy, regardless of intelligence level [21, 22] .",
+            "The test outcomes are described in Table 1 , and were 'concentration performance' (CP), 'total performance' (TN-E), 'processing speed' (TN), 'omission errors' (E1) 'commission errors' (E2) and 'total errors' ( Table 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The cognitive testing was conducted in classrooms under controlled conditions. The same study crew administered the test at pre and post at approximately similar timepoints (between 09:00-11:00 a.m.). Classroom noise was rigorously controlled for by the study crew and the teachers, and trained research staff introduced the test according to standard instructions.",
+        "section": "Cognitive tests",
+        "section_number": 13,
+        "sentences": [
+            "The cognitive testing was conducted in classrooms under controlled conditions.",
+            "The same study crew administered the test at pre and post at approximately similar timepoints (between 09:00-11:00 a.m.).",
+            "Classroom noise was rigorously controlled for by the study crew and the teachers, and trained research staff introduced the test according to standard instructions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Participant characteristics (age, weight, height and sex) and background diet (habitual dietary intake besides the intervention) was obtained with a revised and extended version of a validated web-based food frequency questionnaire (FFQ) at pre and post intervention [23, 24] . Body mass index (BMI) was calculated as weight in kilograms divided by the square of the height in meters (kg/m 2 ). To classify weight status, Cole's age and sex-specific BMI cut off points for underweight [25] , and overweight and obesity [26] for adolescents (14.5 years) were used. The cut offs for thinness are 16.7 for boys and 17.2 for girls. For overweight the cut offs are 23.0 and 23.7 for boys and girls respectively, and for obesity they are 28.0 and 28.9 for boys and girls, respectively. A questionnaire was sent to the parents/caregivers by e-mail, and assessed their level of education, total household income and origin. The participants were requested to maintain their daily routines (dietary pattern, use of dietary supplements, physical activity level, etc.) for the duration of the trial.",
+        "section": "Questionnaire",
+        "section_number": 14,
+        "sentences": [
+            "Participant characteristics (age, weight, height and sex) and background diet (habitual dietary intake besides the intervention) was obtained with a revised and extended version of a validated web-based food frequency questionnaire (FFQ) at pre and post intervention [23, 24] .",
+            "Body mass index (BMI) was calculated as weight in kilograms divided by the square of the height in meters (kg/m 2 ).",
+            "To classify weight status, Cole's age and sex-specific BMI cut off points for underweight [25] , and overweight and obesity [26] for adolescents (14.5 years) were used.",
+            "The cut offs for thinness are 16.7 for boys and 17.2 for girls.",
+            "For overweight the cut offs are 23.0 and 23.7 for boys and girls respectively, and for obesity they are 28.0 and 28.9 for boys and girls, respectively.",
+            "A questionnaire was sent to the parents/caregivers by e-mail, and assessed their level of education, total household income and origin.",
+            "The participants were requested to maintain their daily routines (dietary pattern, use of dietary supplements, physical activity level, etc.)",
+            "for the duration of the trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Blood and urine samples were also collected to measure the status of nutritional biomarkers from pre to post intervention. These data will be presented in a separate publication.",
+        "section": "Blood sampling and biochemical analyses",
+        "section_number": 15,
+        "sentences": [
+            "Blood and urine samples were also collected to measure the status of nutritional biomarkers from pre to post intervention.",
+            "These data will be presented in a separate publication."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The sample size calculation was based on the design with a three armed-intervention, with two repeated measurements (pre and post intervention) with an assumed correlation of 0.5. To be able to reveal a meaningful effect of the intervention, a small to moderate effect size (0.35) on the main outcome (d2 test of attention) was applied. It was calculated that a sample size of 119 participants was needed in each group given a power of 80% and a significance level of \u03b1 = 0.05. Taken into account a 20% drop out rate, the aim was to enrol a total sample of 446 participants in the trial. The sample size calculation was carried out using Stata Statistical Software: Release 14. College Station, TX: (STATA-Corp LP\u00ae).",
+        "section": "Sample size",
+        "section_number": 16,
+        "sentences": [
+            "The sample size calculation was based on the design with a three armed-intervention, with two repeated measurements (pre and post intervention) with an assumed correlation of 0.5.",
+            "To be able to reveal a meaningful effect of the intervention, a small to moderate effect size (0.35) on the main outcome (d2 test of attention) was applied.",
+            "It was calculated that a sample size of 119 participants was needed in each group given a power of 80% and a significance level of \u03b1 = 0.05.",
+            "Taken into account a 20% drop out rate, the aim was to enrol a total sample of 446 participants in the trial.",
+            "The sample size calculation was carried out using Stata Statistical Software: Release 14.",
+            "College Station, TX: (STATA-Corp LP\u00ae)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Continuous data are presented as mean and standard deviations (SD) and categorical data are presented as number (n) and percent (%). Differences between intervention groups in baseline data was assessed with oneway ANOVA (continuous variables) or Chi-square test (categorical variables). Differences between drop-outs and completers were assessed with independent samples t-test (continuous variables) or Chi-square test (categorical variables).",
+        "section": "Statistical analyses",
+        "section_number": 17,
+        "sentences": [
+            "Continuous data are presented as mean and standard deviations (SD) and categorical data are presented as number (n) and percent (%).",
+            "Differences between intervention groups in baseline data was assessed with oneway ANOVA (continuous variables) or Chi-square test (categorical variables).",
+            "Differences between drop-outs and completers were assessed with independent samples t-test (continuous variables) or Chi-square test (categorical variables)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The analyses were carried out on all participants for whom pre and post data from the d2 test of attention were available. Differences in pre to post intervention in the d2 test outcomes within intervention groups were assessed with paired samples t-test.",
+        "section": "Statistical analyses",
+        "section_number": 18,
+        "sentences": [
+            "The analyses were carried out on all participants for whom pre and post data from the d2 test of attention were available.",
+            "Differences in pre to post intervention in the d2 test outcomes within intervention groups were assessed with paired samples t-test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "To estimate the differences between intervention groups in change from pre to post intervention, linear mixed effect models were applied for the normally distributed outcomes (CP, TN-E, TN). The participants' school class was included as random intercept to account for dependency in the data at the level of class affiliation. The erroroutcomes from the d2 test followed a negative binomial distribution, and were analyzed using generalized estimates equation (GEE) model with exchangeable correlation structure and robust standard errors. The GEE model account for the nested design of children clustered within class, and estimated incidence rate ratio (IRR) with 95% confidence interval (CI) were presented. For each outcome, two models were presented. In both models, the dependent variable was the currently examined d2 outcome at post intervention, adjusted for the equivalent outcome at baseline. The second model additionally included dietary compliance. The fish group was used as reference. Model assumptions were investigated by visual inspections of residual-and normal probability plots.",
+        "section": "Statistical analyses",
+        "section_number": 19,
+        "sentences": [
+            "To estimate the differences between intervention groups in change from pre to post intervention, linear mixed effect models were applied for the normally distributed outcomes (CP, TN-E, TN).",
+            "The participants' school class was included as random intercept to account for dependency in the data at the level of class affiliation.",
+            "The erroroutcomes from the d2 test followed a negative binomial distribution, and were analyzed using generalized estimates equation (GEE) model with exchangeable correlation structure and robust standard errors.",
+            "The GEE model account for the nested design of children clustered within class, and estimated incidence rate ratio (IRR) with 95% confidence interval (CI) were presented.",
+            "For each outcome, two models were presented.",
+            "In both models, the dependent variable was the currently examined d2 outcome at post intervention, adjusted for the equivalent outcome at baseline.",
+            "The second model additionally included dietary compliance.",
+            "The fish group was used as reference.",
+            "Model assumptions were investigated by visual inspections of residual-and normal probability plots."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Additional analyses with further adjustment for parental education level, at home omega-3 supplement use and fatty fish intake (dinner and bread spread) at baseline were performed. In addition, an interaction between intervention and dietary compliance were included in the model.",
+        "section": "Statistical analyses",
+        "section_number": 20,
+        "sentences": [
+            "Additional analyses with further adjustment for parental education level, at home omega-3 supplement use and fatty fish intake (dinner and bread spread) at baseline were performed.",
+            "In addition, an interaction between intervention and dietary compliance were included in the model."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Pearson correlations were performed between dietary compliance and the change (post-pre) in TN and TN-E (normally distributed outcomes), and Spearman correlation was performed between dietary compliance and change in E1 errors, for each intervention group.",
+        "section": "Statistical analyses",
+        "section_number": 21,
+        "sentences": [
+            "Pearson correlations were performed between dietary compliance and the change (post-pre) in TN and TN-E (normally distributed outcomes), and Spearman correlation was performed between dietary compliance and change in E1 errors, for each intervention group."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Two-tailed p values <0.05 were considered statistically significant. Statistical analyses were carried out using the Statistical Package for the Social Sciences (SPSS\u00ae Statistics version 24, IBM Corporation, US), except for the linear mixed effect models and GEE, which were performed using Stata Statistical Software: Release 14. College Station, TX: (STATACorp LP\u00ae).",
+        "section": "Statistical analyses",
+        "section_number": 22,
+        "sentences": [
+            "Two-tailed p values <0.05 were considered statistically significant.",
+            "Statistical analyses were carried out using the Statistical Package for the Social Sciences (SPSS\u00ae Statistics version 24, IBM Corporation, US), except for the linear mixed effect models and GEE, which were performed using Stata Statistical Software: Release 14.",
+            "College Station, TX: (STATACorp LP\u00ae)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Of the 785 adolescents who received invitation to participate, 303 declined the invitation and one did not meet inclusion criteria. Thus, 481 were enrolled in the trial. Three participants withdrew at the day of baseline testing before randomization. As a result, 478 participants were randomized. During the trial, 34 withdrew mainly because they disliked the intervention food or the supplements, or without giving any reason. In addition, 17 participants were lost to follow up during testing at pre or post intervention, and one participant withdrew his consent after study completion. Thus, pre and post data from the d2 test of attention were available for 426 (86%) participants, on which the final data analyses were conducted (Fig. 1) . Drop-outs and participants lost to follow up did not differ from completers in any of the baseline characteristics (data not shown).",
+        "section": "Subjects",
+        "section_number": 23,
+        "sentences": [
+            "Of the 785 adolescents who received invitation to participate, 303 declined the invitation and one did not meet inclusion criteria.",
+            "Thus, 481 were enrolled in the trial.",
+            "Three participants withdrew at the day of baseline testing before randomization.",
+            "As a result, 478 participants were randomized.",
+            "During the trial, 34 withdrew mainly because they disliked the intervention food or the supplements, or without giving any reason.",
+            "In addition, 17 participants were lost to follow up during testing at pre or post intervention, and one participant withdrew his consent after study completion.",
+            "Thus, pre and post data from the d2 test of attention were available for 426 (86%) participants, on which the final data analyses were conducted (Fig. 1) .",
+            "Drop-outs and participants lost to follow up did not differ from completers in any of the baseline characteristics (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Baseline characteristics of the participants are summarized in Table 2 . Participants had a mean age of 14.6 \u00b1 0.3 years and 81% had a BMI within the normal range. Almost all participants were non-immigrants, defined as both themselves and their parents were born in Norway. Approximately 30% of the parents/caregivers had a high family income (>1,250,000 mill. Norwegian kroners (which is equivalent to approximately $144,000), and 61% had college/university degree. Intervention groups did not differ with regard to baseline characteristics or baseline dietary intake of fish (data not shown).",
+        "section": "Subjects",
+        "section_number": 24,
+        "sentences": [
+            "Baseline characteristics of the participants are summarized in Table 2 .",
+            "Participants had a mean age of 14.6 \u00b1 0.3 years and 81% had a BMI within the normal range.",
+            "Almost all participants were non-immigrants, defined as both themselves and their parents were born in Norway.",
+            "Approximately 30% of the parents/caregivers had a high family income (>1,250,000 mill.",
+            "Norwegian kroners (which is equivalent to approximately $144,000), and 61% had college/university degree.",
+            "Intervention groups did not differ with regard to baseline characteristics or baseline dietary intake of fish (data not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "All groups showed significant improvement post compared to pre intervention in concentration performance (CP), total performance (TN) and processing speed (TN-E) ( Table 3 ). The mean improvement in TN was significantly lower in the meat and supplement group compared to the fish group when controlling for baseline level. The supplement group also showed significant lower improvement in TN-E compared to the fish group when controlling for baseline. The results were only marginally affected when adjusting for dietary compliance. No association between the intervention and CP was observed (Table 3) .",
+        "section": "Effects of the intervention on the d2 test of attention",
+        "section_number": 25,
+        "sentences": [
+            "All groups showed significant improvement post compared to pre intervention in concentration performance (CP), total performance (TN) and processing speed (TN-E) ( Table 3 ).",
+            "The mean improvement in TN was significantly lower in the meat and supplement group compared to the fish group when controlling for baseline level.",
+            "The supplement group also showed significant lower improvement in TN-E compared to the fish group when controlling for baseline.",
+            "The results were only marginally affected when adjusting for dietary compliance.",
+            "No association between the intervention and CP was observed (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Mean commission errors (E2) decreased in all groups at post compared to pre intervention, while omission errors (E1) did not ( Table 4 ). The IRR of E1 errors decreased in the meat group compared to the fish group when controlling for baseline level. However, the difference was no longer significant when controlling for dietary compliance. No significant differences between the intervention groups were seen in E2 or total errors during the trial (Table 4) .",
+        "section": "Effects of the intervention on the d2 test of attention",
+        "section_number": 26,
+        "sentences": [
+            "Mean commission errors (E2) decreased in all groups at post compared to pre intervention, while omission errors (E1) did not ( Table 4 ).",
+            "The IRR of E1 errors decreased in the meat group compared to the fish group when controlling for baseline level.",
+            "However, the difference was no longer significant when controlling for dietary compliance.",
+            "No significant differences between the intervention groups were seen in E2 or total errors during the trial (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Additional analyzes with further adjustments for parental education level, at home use of omega-3 supplements and fatty fish intake (dinner and bread spread) at baseline did not affect the results. There were no interaction effects between dietary compliance and the intervention in neither of the models (not shown).",
+        "section": "Effects of the intervention on the d2 test of attention",
+        "section_number": 27,
+        "sentences": [
+            "Additional analyzes with further adjustments for parental education level, at home use of omega-3 supplements and fatty fish intake (dinner and bread spread) at baseline did not affect the results.",
+            "There were no interaction effects between dietary compliance and the intervention in neither of the models (not shown)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "There were no significant correlations between dietary compliance and the change (post-pre) in TN, TN-E and E1 errors in neither of the intervention groups, as shown in Fig. 2 .",
+        "section": "Effects of the intervention on the d2 test of attention",
+        "section_number": 28,
+        "sentences": [
+            "There were no significant correlations between dietary compliance and the change (post-pre) in TN, TN-E and E1 errors in neither of the intervention groups, as shown in Fig. 2 ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "As described in Skotheim et al. [19] , dietary compliance records showed a significantly lower total intake in the fish group compared to the meat and the supplement group. The percentage of participants who consumed at least half of the fish/meat/capsules during the trial was 38%, 66% and 87% in the fish, meat and supplement group, respectively [19] .",
+        "section": "Dietary compliance and background diet",
+        "section_number": 29,
+        "sentences": [
+            "As described in Skotheim et al. [19] , dietary compliance records showed a significantly lower total intake in the fish group compared to the meat and the supplement group.",
+            "The percentage of participants who consumed at least half of the fish/meat/capsules during the trial was 38%, 66% and 87% in the fish, meat and supplement group, respectively [19] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "There were no significant differences between groups in their reported habitual intake of fish (as bread spread or dinner), red or white meat (for dinner) over the course of the intervention (Additional file 1: Table S1 ). At baseline, the mean intake of fish for dinner was 1.5 \u00b1 1.0 meals per week, of which 1.0 \u00b1 1.0 meals were fatty fish. During the trial, the reported habitual intake of fish as bread spread for lunch and fatty fish for dinner decreased within all treatment groups, but no differences were observed between the groups (Table S1 ). The percentage of participants who responded \"no\" to the overall question regarding whether they used fish oil supplements at home increased significantly within all groups during the trial, to 69%, 74% and 69% in the fish, meat and supplement group, respectively, but no differences between groups were observed.",
+        "section": "Dietary compliance and background diet",
+        "section_number": 30,
+        "sentences": [
+            "There were no significant differences between groups in their reported habitual intake of fish (as bread spread or dinner), red or white meat (for dinner) over the course of the intervention (Additional file 1: Table S1 ).",
+            "At baseline, the mean intake of fish for dinner was 1.5 \u00b1 1.0 meals per week, of which 1.0 \u00b1 1.0 meals were fatty fish.",
+            "During the trial, the reported habitual intake of fish as bread spread for lunch and fatty fish for dinner decreased within all treatment groups, but no differences were observed between the groups (Table S1 ).",
+            "The percentage of participants who responded \"no\" to the overall question regarding whether they used fish oil supplements at home increased significantly within all groups during the trial, to 69%, 74% and 69% in the fish, meat and supplement group, respectively, but no differences between groups were observed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The results suggest that although all groups improved significantly in processing speed (TN) and total performance (TN-E), the mean improvements were 8-13 characters less in the meat-and supplement groups compared to the fish group. This corresponds to approximately 2% of the total 658 characters in the test. The risk of omission (E1) errors decreased in the meat group compared to fish in the baseline-adjusted analyses, but not when additionally adjusting for dietary compliance.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "The results suggest that although all groups improved significantly in processing speed (TN) and total performance (TN-E), the mean improvements were 8-13 characters less in the meat-and supplement groups compared to the fish group.",
+            "This corresponds to approximately 2% of the total 658 characters in the test.",
+            "The risk of omission (E1) errors decreased in the meat group compared to fish in the baseline-adjusted analyses, but not when additionally adjusting for dietary compliance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "A previous RCT in 8-11 year old children in Denmark used the d2 test of attention to investigate the effects of providing school meals based on the New Nordic diet. The intervention lasted for 3 months and included fish approximately once per week. Contrary to our results, no effects were observed on neither TN nor TN-E compared to the control group. They found that the percentages of E1 and E2 errors were higher after the intervention compared to the control period, when the children ate their usual packed lunch [16] . However, this is not in accordance with the decrease in E1 errors that we found in the meat group in the present study. Our findings in TN (and TN-E, which seems to be driven by TN) suggests that there could be a link between fish intake and the speed of processing information. To our best of knowledge, no other RCTs have examined the effects of fish intake on attention or processing speed in healthy young subjects. However, although not directly comparable to our sample of adolescents, two crosssectional studies in middle-aged adults (45-70 y, n = 1613) [27] and elderly (70-74y, n = 2031) [28] reported positive associations between fish consumption and cognitive speed, motor speed and attention. Some studies have also been conducted in adolescents, using other cognitive outcomes than attention or processing speed. Kim et al. [14] found a positive association between the reported fish intake and average school grades in Swedish adolescents (15 y, n = 9448). The association seemed to be dose-dependent between the number of times the respondent reported to consume fish [14] . \u00c5berg et al. [13] used questionnaire data from male respondents in the same study and linked them with records on intelligence test performance at age 18, collected at the Swedish Military Conscription Register (n = 3972). These data showed that fish consumption at age 15 was Data are given as mean \u00b1 SD or n (%). Abbreviations: SD Standard deviation, NOK Norwegian kroner a One-way ANOVA test (continuous variables) and Pearson's Chi-square test (X 2 ) (categorical variables) for comparison between treatment groups b Cole's age and sex-specific BMI cut off points for underweight [25] , and overweight and obesity [26] for adolescents age 14.5 years c 100 NOK = approximately 10\u20ac/11$ d Immigrant was defined as participants who's both parents and themselves were born outside Norway e N (%) of participants reporting to consume fish oil as dietary supplements positively associated with higher performances in the domains 'combined intelligence' , 'verbal performance' and 'visuospatial performance' at age 18, irrespective of educational level [13] . Finally, De Groot et al. [15] found no association between fish consumption and attention problems, which cannot be directly compared to the d2 test of attention measure, in Dutch adolescents (12-18 y, n = 700). However, they found an inverted u-shape association between fish intake and more advanced vocabulary and higher end term grades, showing that Table 3 Predicted change in d2 outcomes after intervention with fish (n = 137), meat (n = 148), n-3 supplements (n = 141) eating fish was beneficial, but eating more fish than recommended (defined as~450 mg/d EPA + DHA) no longer seemed to be effective [15] . We did not have a pure placebo group, and thus, it is not possible to separate the effects of the intervention from a learning effect that may have occurred from conducting the same test twice. However, since a learning effect should be equally distributed in the groups, the effect of one intervention over the other(s) should be detectable when comparing the groups against each other. Our results are difficult to interpret, because the beneficial effect in the fish group on TN and TN-E was observed even among those with very low dietary compliance. This makes it difficult to conclude on the relationship between fish intake and performance in TN and TN-E. The significant decrease of omission (E1) errors in the meat group compared to fish in the crude analyses is also inconclusive, because it disappeared when adjusting for dietary compliance.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "A previous RCT in 8-11 year old children in Denmark used the d2 test of attention to investigate the effects of providing school meals based on the New Nordic diet.",
+            "The intervention lasted for 3 months and included fish approximately once per week.",
+            "Contrary to our results, no effects were observed on neither TN nor TN-E compared to the control group.",
+            "They found that the percentages of E1 and E2 errors were higher after the intervention compared to the control period, when the children ate their usual packed lunch [16] .",
+            "However, this is not in accordance with the decrease in E1 errors that we found in the meat group in the present study.",
+            "Our findings in TN (and TN-E, which seems to be driven by TN) suggests that there could be a link between fish intake and the speed of processing information.",
+            "To our best of knowledge, no other RCTs have examined the effects of fish intake on attention or processing speed in healthy young subjects.",
+            "However, although not directly comparable to our sample of adolescents, two crosssectional studies in middle-aged adults (45-70 y, n = 1613) [27] and elderly (70-74y, n = 2031) [28] reported positive associations between fish consumption and cognitive speed, motor speed and attention.",
+            "Some studies have also been conducted in adolescents, using other cognitive outcomes than attention or processing speed.",
+            "Kim et al. [14] found a positive association between the reported fish intake and average school grades in Swedish adolescents (15 y, n = 9448).",
+            "The association seemed to be dose-dependent between the number of times the respondent reported to consume fish [14] .",
+            "\u00c5berg et al. [13] used questionnaire data from male respondents in the same study and linked them with records on intelligence test performance at age 18, collected at the Swedish Military Conscription Register (n = 3972).",
+            "These data showed that fish consumption at age 15 was Data are given as mean \u00b1 SD or n (%).",
+            "Abbreviations: SD Standard deviation, NOK Norwegian kroner a One-way ANOVA test (continuous variables) and Pearson's Chi-square test (X 2 ) (categorical variables) for comparison between treatment groups b Cole's age and sex-specific BMI cut off points for underweight [25] , and overweight and obesity [26] for adolescents age 14.5 years c 100 NOK = approximately 10\u20ac/11$ d Immigrant was defined as participants who's both parents and themselves were born outside Norway e N (%) of participants reporting to consume fish oil as dietary supplements positively associated with higher performances in the domains 'combined intelligence' , 'verbal performance' and 'visuospatial performance' at age 18, irrespective of educational level [13] .",
+            "Finally, De Groot et al. [15] found no association between fish consumption and attention problems, which cannot be directly compared to the d2 test of attention measure, in Dutch adolescents (12-18 y, n = 700).",
+            "However, they found an inverted u-shape association between fish intake and more advanced vocabulary and higher end term grades, showing that Table 3 Predicted change in d2 outcomes after intervention with fish (n = 137), meat (n = 148), n-3 supplements (n = 141) eating fish was beneficial, but eating more fish than recommended (defined as~450 mg/d EPA + DHA) no longer seemed to be effective [15] .",
+            "We did not have a pure placebo group, and thus, it is not possible to separate the effects of the intervention from a learning effect that may have occurred from conducting the same test twice.",
+            "However, since a learning effect should be equally distributed in the groups, the effect of one intervention over the other(s) should be detectable when comparing the groups against each other.",
+            "Our results are difficult to interpret, because the beneficial effect in the fish group on TN and TN-E was observed even among those with very low dietary compliance.",
+            "This makes it difficult to conclude on the relationship between fish intake and performance in TN and TN-E. The significant decrease of omission (E1) errors in the meat group compared to fish in the crude analyses is also inconclusive, because it disappeared when adjusting for dietary compliance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "There were no effects on the d2 test in the supplement group which is interesting, because of the relatively good dietary compliance in this group, and the documented roles of n-3 LCPUFAs in brain development and function [6] . Previous studies also report inconsistent effects of supplementing with n-3 LCPUFAs on cognitive outcomes in healthy school-aged children [11, 12] . As stated in the meta-analysis by Mazereeuw et al., the contradictory findings in RCTs with n-3 LCPUFA supplements could be due to methodical heterogeneities in the dose, sample size, duration, or the cognitive tests used [10] . The dose of n-3 LCPUFAs used in the present study was smaller compared to most of the previous studies with supplements, because of our aim to keep the dose equal in the fish and supplement group. The superior effect of fish meals compared to the n-3 LCPUFA supplements could also be due to differences in bioavailability. The n-3 LCPUFAs in fatty fish are bound to phospholipids and triacylglycerol in a 40:60 ratio, whereas n-3 LCPUFAs in most supplements are usually exclusively bound to triacylglycerol, which is assumed to be less bioavailable [29] . As mentioned in the introduction, it could be that the discrepancy between the results in the fish and supplement group in this study were due to additional nutrients, or the combination of nutrients found in fatty fish and not n-3 LCPUFAs alone.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "There were no effects on the d2 test in the supplement group which is interesting, because of the relatively good dietary compliance in this group, and the documented roles of n-3 LCPUFAs in brain development and function [6] .",
+            "Previous studies also report inconsistent effects of supplementing with n-3 LCPUFAs on cognitive outcomes in healthy school-aged children [11, 12] .",
+            "As stated in the meta-analysis by Mazereeuw et al., the contradictory findings in RCTs with n-3 LCPUFA supplements could be due to methodical heterogeneities in the dose, sample size, duration, or the cognitive tests used [10] .",
+            "The dose of n-3 LCPUFAs used in the present study was smaller compared to most of the previous studies with supplements, because of our aim to keep the dose equal in the fish and supplement group.",
+            "The superior effect of fish meals compared to the n-3 LCPUFA supplements could also be due to differences in bioavailability.",
+            "The n-3 LCPUFAs in fatty fish are bound to phospholipids and triacylglycerol in a 40:60 ratio, whereas n-3 LCPUFAs in most supplements are usually exclusively bound to triacylglycerol, which is assumed to be less bioavailable [29] .",
+            "As mentioned in the introduction, it could be that the discrepancy between the results in the fish and supplement group in this study were due to additional nutrients, or the combination of nutrients found in fatty fish and not n-3 LCPUFAs alone."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "Our results should give implications for future research by shifting the focus from the roles of single nutrients to the roles of food and dietary patterns, reflecting the complexity of diet and eating behavior. These results emphasize the importance of monitoring adherence to protocol in dietary intervention trials, as the records clearly show that interventions with pills or supplements are less demanding for participants compared to interventions with food. The adolescents' habitual diet was low in fish [30] , which probably increased the importance of quality and tastiness of the meals even more to ensure acceptable compliance. We had to serve the meals cold due to practical causes, which could be the main reason for the low dietary compliance observed in the fish group. It should be discussed further whether the RCT design is the most appropriate when studying the effects of diet and intake of foods. Perhaps a prospective cohort study using validated dietary assessment tools and school derived grade-levels as a generalizable outcome could be more appropriate to investigate the relationship between diet and cognition in healthy school childrenand adolescents.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "Our results should give implications for future research by shifting the focus from the roles of single nutrients to the roles of food and dietary patterns, reflecting the complexity of diet and eating behavior.",
+            "These results emphasize the importance of monitoring adherence to protocol in dietary intervention trials, as the records clearly show that interventions with pills or supplements are less demanding for participants compared to interventions with food.",
+            "The adolescents' habitual diet was low in fish [30] , which probably increased the importance of quality and tastiness of the meals even more to ensure acceptable compliance.",
+            "We had to serve the meals cold due to practical causes, which could be the main reason for the low dietary compliance observed in the fish group.",
+            "It should be discussed further whether the RCT design is the most appropriate when studying the effects of diet and intake of foods.",
+            "Perhaps a prospective cohort study using validated dietary assessment tools and school derived grade-levels as a generalizable outcome could be more appropriate to investigate the relationship between diet and cognition in healthy school childrenand adolescents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "The main limitations with the present study are, as previously mentioned, the low dietary compliance particularly observed in the fish group, the lack of a placebo group and the ceiling effect in the reading and spelling test \"Kartleggeren\", which left us with only one cognitive outcome. In addition, the duration of 12 weeks might have been too short, but in practice, it is difficult to conduct this type of study for very much longer due to how the schools are organized with several holidays during the year. Even though the study sample was large and derived from nearly all boroughs, generalizability is compromised by the restricted area of Bergen (277,000 inhabitants). In addition, the proportion of university/ college education was higher among the responding caregivers than in the general Norwegian population of 30-59 years [31] , however adjusting for parental education did not affect the results. It was not possible to blind the participants in this trial, but it was communicated that the aim was to investigate school meals in general and not fish, as an attempt to avoid performance bias. Although the recording of dietary compliance is a strength, it is limited by the fact that it was estimated by eye rather than using an objective measure such as weighing out food portions. An important strength is that we succeeded to administer the cognitive tests at the same time of day, and with the same researchers at each school, which increases internal validity [32] . The registration of dietary compliance is also an important strength. In addition, as the aim was to include a representable sample of adolescents, the study did not exclude those with cognitive disorders or those who already took n-3 supplements.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "The main limitations with the present study are, as previously mentioned, the low dietary compliance particularly observed in the fish group, the lack of a placebo group and the ceiling effect in the reading and spelling test \"Kartleggeren\", which left us with only one cognitive outcome.",
+            "In addition, the duration of 12 weeks might have been too short, but in practice, it is difficult to conduct this type of study for very much longer due to how the schools are organized with several holidays during the year.",
+            "Even though the study sample was large and derived from nearly all boroughs, generalizability is compromised by the restricted area of Bergen (277,000 inhabitants).",
+            "In addition, the proportion of university/ college education was higher among the responding caregivers than in the general Norwegian population of 30-59 years [31] , however adjusting for parental education did not affect the results.",
+            "It was not possible to blind the participants in this trial, but it was communicated that the aim was to investigate school meals in general and not fish, as an attempt to avoid performance bias.",
+            "Although the recording of dietary compliance is a strength, it is limited by the fact that it was estimated by eye rather than using an objective measure such as weighing out food portions.",
+            "An important strength is that we succeeded to administer the cognitive tests at the same time of day, and with the same researchers at each school, which increases internal validity [32] .",
+            "The registration of dietary compliance is also an important strength.",
+            "In addition, as the aim was to include a representable sample of adolescents, the study did not exclude those with cognitive disorders or those who already took n-3 supplements."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34328",
+        "text": "We observed a small beneficial effect of fatty fish, compared to meat meals and supplements on processing speed compared to intakes of similar meals with meat or n-3 LCPUFA supplements. However, the group differences were small and difficult to interpret due to low dietary compliance. Thus, more studies are needed to understand the implication of our results. This study shows that different taste preferences among participants is challenging in intervention trials with food. A prospective cohort design may be a better alternative when studying diet and cognitive outcomes in the future.",
+        "section": "Conclusions",
+        "section_number": 36,
+        "sentences": [
+            "We observed a small beneficial effect of fatty fish, compared to meat meals and supplements on processing speed compared to intakes of similar meals with meat or n-3 LCPUFA supplements.",
+            "However, the group differences were small and difficult to interpret due to low dietary compliance.",
+            "Thus, more studies are needed to understand the implication of our results.",
+            "This study shows that different taste preferences among participants is challenging in intervention trials with food.",
+            "A prospective cohort design may be a better alternative when studying diet and cognitive outcomes in the future."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

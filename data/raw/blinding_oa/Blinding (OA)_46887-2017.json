@@ -1,0 +1,777 @@
+[
+    {
+        "doc_id": "46887",
+        "text": "Background Continuous electronic fetal heart-rate monitoring is widely used during labour, and computerised interpretation could increase its usefulness. We aimed to establish whether the addition of decision-support software to assist in the interpretation of cardiotocographs affected the number of poor neonatal outcomes. Methods In this unmasked randomised controlled trial, we recruited women in labour aged 16 years or older having continuous electronic fetal monitoring, with a singleton or twin pregnancy, and at 35 weeks' gestation or more at 24 maternity units in the UK and Ireland. They were randomly assigned (1:1) to decision support with the INFANT system or no decision support via a computer-generated stratified block randomisation schedule. The primary outcomes were poor neonatal outcome (intrapartum stillbirth or early neonatal death excluding lethal congenital anomalies, or neonatal encephalopathy, admission to the neonatal unit within 24 h for \u226548 h with evidence of feeding difficulties, respiratory illness, or encephalopathy with evidence of compromise at birth), and developmental assessment at age 2 years in a subset of surviving children. Analyses were done by intention to treat. This trial is completed and is registered with the ISRCTN Registry, number 98680152.",
+        "section": "Abstract",
+        "sentences": [
+            "Background Continuous electronic fetal heart-rate monitoring is widely used during labour, and computerised interpretation could increase its usefulness.",
+            "We aimed to establish whether the addition of decision-support software to assist in the interpretation of cardiotocographs affected the number of poor neonatal outcomes.",
+            "Methods In this unmasked randomised controlled trial, we recruited women in labour aged 16 years or older having continuous electronic fetal monitoring, with a singleton or twin pregnancy, and at 35 weeks' gestation or more at 24 maternity units in the UK and Ireland.",
+            "They were randomly assigned (1:1) to decision support with the INFANT system or no decision support via a computer-generated stratified block randomisation schedule.",
+            "The primary outcomes were poor neonatal outcome (intrapartum stillbirth or early neonatal death excluding lethal congenital anomalies, or neonatal encephalopathy, admission to the neonatal unit within 24 h for \u226548 h with evidence of feeding difficulties, respiratory illness, or encephalopathy with evidence of compromise at birth), and developmental assessment at age 2 years in a subset of surviving children.",
+            "Analyses were done by intention to treat.",
+            "This trial is completed and is registered with the ISRCTN Registry, number 98680152."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Continuous electronic fetal heart rate monitoring in labour is widely used but its potential for improving neonatal outcomes has not been realised. 1 The reasons for this are complex, but include difficulty interpreting the fetal heart rate trace correctly during labour. [2] [3] [4] Computerised interpretation could be used to objectively detect abnormalities in fetal heart rate patterns during labour that are associated with asphyxia and bring them to the attention of birth attendants, who could then take action or expedite delivery and potentially prevent stillbirth or exposure to significant asphyxia.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Continuous electronic fetal heart rate monitoring in labour is widely used but its potential for improving neonatal outcomes has not been realised.",
+            "1 The reasons for this are complex, but include difficulty interpreting the fetal heart rate trace correctly during labour. [",
+            "2] [3] [4] Computerised interpretation could be used to objectively detect abnormalities in fetal heart rate patterns during labour that are associated with asphyxia and bring them to the attention of birth attendants, who could then take action or expedite delivery and potentially prevent stillbirth or exposure to significant asphyxia."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Guardian (K2 Medical Systems, Plymouth, UK) is an electronic information capture system for managing information from labour monitoring. 5 It displays the cardiotocograph on a computer screen alongside other clinical data either from external ultrasonographic transducers, or from fetal scalp electrodes (eg, partographs, maternal vital signs, details of maternal anaesthesia and analgesia) collected as part of routine clinical care. Guardian does not interpret any of the data gathered, but acts as an interface to collect and display data at the bedside, centrally on the labour ward, in consultants' offices, or remotely.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Guardian (K2 Medical Systems, Plymouth, UK) is an electronic information capture system for managing information from labour monitoring.",
+            "5 It displays the cardiotocograph on a computer screen alongside other clinical data either from external ultrasonographic transducers, or from fetal scalp electrodes (eg, partographs, maternal vital signs, details of maternal anaesthesia and analgesia) collected as part of routine clinical care.",
+            "Guardian does not interpret any of the data gathered, but acts as an interface to collect and display data at the bedside, centrally on the labour ward, in consultants' offices, or remotely."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "INFANT (K2 Medical Systems) is a decision-support software that was developed to run on the Guardian system. It analyses the quality of fetal heart signals and, if these signals are adequate, displays baseline heart rate; heart-rate variability; accelerations and type and timing of decelerations; the quality of the signal; and the contraction pattern. [6] [7] [8] INFANT then makes an assessment of the overall pattern, which, if necessary, will result in a colour-coded alert (blue is the least severe, yellow is moderate severity, and red is the most severe; appendix). The decision-support software does not provide recommendations for any action that should be taken in response to abnormalities-such decisions are at the discretion of attending clinicians. In the UK's National Health Service (NHS), all clinicians supervising labour are expected to have been trained in the appropriate response to an abnormal cardiotocographic reading-eg, by completing computer-based training packages every 6-12 months, attending annual lectures, or attending regular cardiotocographic review meetings.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "INFANT (K2 Medical Systems) is a decision-support software that was developed to run on the Guardian system.",
+            "It analyses the quality of fetal heart signals and, if these signals are adequate, displays baseline heart rate; heart-rate variability; accelerations and type and timing of decelerations; the quality of the signal; and the contraction pattern. [",
+            "6] [7] [8] INFANT then makes an assessment of the overall pattern, which, if necessary, will result in a colour-coded alert (blue is the least severe, yellow is moderate severity, and red is the most severe; appendix).",
+            "The decision-support software does not provide recommendations for any action that should be taken in response to abnormalities-such decisions are at the discretion of attending clinicians.",
+            "In the UK's National Health Service (NHS), all clinicians supervising labour are expected to have been trained in the appropriate response to an abnormal cardiotocographic reading-eg, by completing computer-based training packages every 6-12 months, attending annual lectures, or attending regular cardiotocographic review meetings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "However, training is not standardised, and individual competence is not assessed in most units. 9 We did a randomised controlled trial to test the hypotheses that a substantial proportion of substandard care results from failure to correctly identify abnormal fetal heart rate patterns, that improved recognition of abnormality would reduce substandard care and poor outcomes, and that improved recognition of normality would decrease unnecessary intervention.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "However, training is not standardised, and individual competence is not assessed in most units.",
+            "9 We did a randomised controlled trial to test the hypotheses that a substantial proportion of substandard care results from failure to correctly identify abnormal fetal heart rate patterns, that improved recognition of abnormality would reduce substandard care and poor outcomes, and that improved recognition of normality would decrease unnecessary intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "We did a pragmatic, unblinded, randomised controlled trial in maternity units in the UK and Ireland. All 24 sites in the UK and Ireland that used Guardian at the time of the trial took part. Doctors and midwives were able to recruit participants. Eligible women were judged to require continuous electronic fetal heart rate monitoring by the local clinical team on the basis of their existing practice, had a singleton or twin pregnancy, were at 35 weeks' gestation or further along, had no known gross fetal abnormality, including any known fetal heart arrhythmia such as heart block, aged 16 years or older, and able to give consent to participate as judged by the attending clinicians. Continuous electronic fetal heart rate monitoring during labour is not routine in the UK. Clinical guidance for the NHS recommends that women assessed as having a low risk of complications should be offered intermittent auscultation during labour. 10 Pregnant women attending recruiting hospitals were provided with written information about the trial during pregnancy and in labour. For women who met the eligibility criteria, written informed consent was sought by means of a dated signature from the woman and from the person who obtained informed consent. Research ethics committee approval for the study was granted by the National Research Ethics Service-Northern and Yorkshire Research Ethics Committee (09/H0903/31). The study protocol has been published. 11 ",
+        "section": "Study design and participants",
+        "section_number": 5,
+        "sentences": [
+            "We did a pragmatic, unblinded, randomised controlled trial in maternity units in the UK and Ireland.",
+            "All 24 sites in the UK and Ireland that used Guardian at the time of the trial took part.",
+            "Doctors and midwives were able to recruit participants.",
+            "Eligible women were judged to require continuous electronic fetal heart rate monitoring by the local clinical team on the basis of their existing practice, had a singleton or twin pregnancy, were at 35 weeks' gestation or further along, had no known gross fetal abnormality, including any known fetal heart arrhythmia such as heart block, aged 16 years or older, and able to give consent to participate as judged by the attending clinicians.",
+            "Continuous electronic fetal heart rate monitoring during labour is not routine in the UK.",
+            "Clinical guidance for the NHS recommends that women assessed as having a low risk of complications should be offered intermittent auscultation during labour.",
+            "10 Pregnant women attending recruiting hospitals were provided with written information about the trial during pregnancy and in labour.",
+            "For women who met the eligibility criteria, written informed consent was sought by means of a dated signature from the woman and from the person who obtained informed consent.",
+            "Research ethics committee approval for the study was granted by the National Research Ethics Service-Northern and Yorkshire Research Ethics Committee (09/H0903/31).",
+            "The study protocol has been published.",
+            "11"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The Guardian system was used to confirm that all necessary eligibility criteria were met and then to randomly allocate women (1:1) to cardiotocography with or without decision support. The allocations were computer generated in Stata (version 10.1) by the trial statistician, who used stratified block randomisation, in which variable block sizes were used to balance between the two trial arms by whether the pregnancy was a singleton (block sizes 12, 14, 16, 18, 20, 22 , and 24, allocated in proportion to the elements of Pascal's triangle-1:6:15:20:15:6:1) or twin (block sizes 2, 4, and 6, allocated in proportion to the elements of Pascal's triangle 1:2:1), and within each participating centre. The trial was not blinded, which allowed indirect measurement of any changes in clinician behaviour, such as how much time the attending midwife spent with the woman on the basis of the knowledge that the decision-support system was active or not.",
+        "section": "Randomisation and masking",
+        "section_number": 6,
+        "sentences": [
+            "The Guardian system was used to confirm that all necessary eligibility criteria were met and then to randomly allocate women (1:1) to cardiotocography with or without decision support.",
+            "The allocations were computer generated in Stata (version 10.1) by the trial statistician, who used stratified block randomisation, in which variable block sizes were used to balance between the two trial arms by whether the pregnancy was a singleton (block sizes 12, 14, 16, 18, 20, 22 , and 24, allocated in proportion to the elements of Pascal's triangle-1:6:15:20:15:6:1) or twin (block sizes 2, 4, and 6, allocated in proportion to the elements of Pascal's triangle 1:2:1), and within each participating centre.",
+            "The trial was not blinded, which allowed indirect measurement of any changes in clinician behaviour, such as how much time the attending midwife spent with the woman on the basis of the knowledge that the decision-support system was active or not."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Clinicians in participating centres were trained in the use of the decision-support software by staff from the trial office. A training team at each site was responsible for cascading training among the local clinicians. Women in the trial were managed according to standard procedures. No additional training was provided to clinical staff in how to respond to fetal heart rate abnormalities.",
+        "section": "Procedures",
+        "section_number": 7,
+        "sentences": [
+            "Clinicians in participating centres were trained in the use of the decision-support software by staff from the trial office.",
+            "A training team at each site was responsible for cascading training among the local clinicians.",
+            "Women in the trial were managed according to standard procedures.",
+            "No additional training was provided to clinical staff in how to respond to fetal heart rate abnormalities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Labour data and outcomes were stored contemporaneously on the Guardian system, which were then sent electronically to the trial office. Data were extracted from notes of babies admitted to the neonatal unit and for all neonatal deaths. All children surviving were",
+        "section": "Procedures",
+        "section_number": 8,
+        "sentences": [
+            "Labour data and outcomes were stored contemporaneously on the Guardian system, which were then sent electronically to the trial office.",
+            "Data were extracted from notes of babies admitted to the neonatal unit and for all neonatal deaths.",
+            "All children surviving were"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Evidence before the study The National Institute for Health Research searched the Cochrane library, PubMed, NHS Evidence, and the DARE database for articles published in the 5 years before it commissioned this trial in 2006. No studies of electronic decision support in interpretation of cardiotocography were identified. One previous trial of decision support in labour has been done, in which direct measurement of the fetal electrocardiograph-which requires the application of a fetal scalp electrode-was used. That trial recruited 7730 women and showed no evidence of a difference between the groups on the primary outcome of metabolic acidosis as measured in cord blood.",
+        "section": "Research in context",
+        "section_number": 9,
+        "sentences": [
+            "Evidence before the study The National Institute for Health Research searched the Cochrane library, PubMed, NHS Evidence, and the DARE database for articles published in the 5 years before it commissioned this trial in 2006.",
+            "No studies of electronic decision support in interpretation of cardiotocography were identified.",
+            "One previous trial of decision support in labour has been done, in which direct measurement of the fetal electrocardiograph-which requires the application of a fetal scalp electrode-was used.",
+            "That trial recruited 7730 women and showed no evidence of a difference between the groups on the primary outcome of metabolic acidosis as measured in cord blood."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "This trial, INFANT, was the first to assess the use of decision support in the interpretation of the cardiotocographs in women undergoing continuous electronic fetal heart-rate monitoring.",
+        "section": "Added value of this study",
+        "section_number": 10,
+        "sentences": [
+            "This trial, INFANT, was the first to assess the use of decision support in the interpretation of the cardiotocographs in women undergoing continuous electronic fetal heart-rate monitoring."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The aim was to address the effect on substantive outcomes of neonatal mortality and morbidity. The size of the INFANT trial provides sufficient power to detect small differences in the main outcome of perinatal mortality and serious morbidity, and outcomes such as metabolic acidosis. No differences were noted. Additionally, it had very high power to assess whether use of this decision-support system had any effect on the risk of operative delivery, and again we noted no evidence of any difference.",
+        "section": "Added value of this study",
+        "section_number": 11,
+        "sentences": [
+            "The aim was to address the effect on substantive outcomes of neonatal mortality and morbidity.",
+            "The size of the INFANT trial provides sufficient power to detect small differences in the main outcome of perinatal mortality and serious morbidity, and outcomes such as metabolic acidosis.",
+            "No differences were noted.",
+            "Additionally, it had very high power to assess whether use of this decision-support system had any effect on the risk of operative delivery, and again we noted no evidence of any difference."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The quality of care in labour is a major concern for women, their families, and the health professionals providing care for them. Technologies to improve intrapartum monitoring that identify early signs of fetal hypoxia during labour are needed so that clinicians can intervene and attempt to prevent poor neonatal outcomes. Our results show that the method of decision support we tested does not achieve this aim.",
+        "section": "Implications of all the available evidence",
+        "section_number": 12,
+        "sentences": [
+            "The quality of care in labour is a major concern for women, their families, and the health professionals providing care for them.",
+            "Technologies to improve intrapartum monitoring that identify early signs of fetal hypoxia during labour are needed so that clinicians can intervene and attempt to prevent poor neonatal outcomes.",
+            "Our results show that the method of decision support we tested does not achieve this aim."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "flagged at the NHS Information Centre for those born in England and NHS Greater Glasgow and Clyde Safe Haven for those born in Scotland, which meant that all deaths occurring after discharge in these countries could be identified. Ireland does not have a similar system for monitoring deaths, so Irish data had to be excluded from the denominator for these calculations. A sample of surviving children were followed up to age 2 years via a parent-completed questionnaire to assess the child's health, development, and wellbeing (appendix).",
+        "section": "Implications of all the available evidence",
+        "section_number": 13,
+        "sentences": [
+            "flagged at the NHS Information Centre for those born in England and NHS Greater Glasgow and Clyde Safe Haven for those born in Scotland, which meant that all deaths occurring after discharge in these countries could be identified.",
+            "Ireland does not have a similar system for monitoring deaths, so Irish data had to be excluded from the denominator for these calculations.",
+            "A sample of surviving children were followed up to age 2 years via a parent-completed questionnaire to assess the child's health, development, and wellbeing (appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "All babies with an adverse outcome potentially associated with intrapartum asphyxia (ie, the trial primary outcome plus cord artery pH <7\u202205 with base deficit 12 mmol/L or more) and all neonatal deaths and intrapartum stillbirths had their care in labour assessed by review of de-identified case notes by a panel comprising a senior obstetrician, neonatologist, and midwife, to see if care was suboptimalie, if it was possible or probable that different management would have prevented the adverse outcome. 9, 12 ",
+        "section": "Implications of all the available evidence",
+        "section_number": 14,
+        "sentences": [
+            "All babies with an adverse outcome potentially associated with intrapartum asphyxia (ie, the trial primary outcome plus cord artery pH <7\u202205 with base deficit 12 mmol/L or more) and all neonatal deaths and intrapartum stillbirths had their care in labour assessed by review of de-identified case notes by a panel comprising a senior obstetrician, neonatologist, and midwife, to see if care was suboptimalie, if it was possible or probable that different management would have prevented the adverse outcome.",
+            "9, 12"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The trial had two primary outcomes. The first was a binary (present or not present) composite of poor neonatal outcome, including deaths (intrapartum stillbirths plus neonatal deaths up to 28 days after birth, except for congenital anomalies deaths) and significant morbidity (moderate or severe neonatal encephalopathy, defined as the use of whole-body cooling or admission to the neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties or respiratory illness, with evidence of compromise at birth suggesting mild asphyxia or mild encephalopathy, or both). The second was a continuous outcome of developmental progress measured by the Parent Report of Children's Abilities-Revised (PARCA-R) composite score 13, 14 at age 2 years for a subset of children.",
+        "section": "Outcomes",
+        "section_number": 15,
+        "sentences": [
+            "The trial had two primary outcomes.",
+            "The first was a binary (present or not present) composite of poor neonatal outcome, including deaths (intrapartum stillbirths plus neonatal deaths up to 28 days after birth, except for congenital anomalies deaths) and significant morbidity (moderate or severe neonatal encephalopathy, defined as the use of whole-body cooling or admission to the neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties or respiratory illness, with evidence of compromise at birth suggesting mild asphyxia or mild encephalopathy, or both).",
+            "The second was a continuous outcome of developmental progress measured by the Parent Report of Children's Abilities-Revised (PARCA-R) composite score 13, 14 at age 2 years for a subset of children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Infant secondary outcomes, all of which are binary unless specified, were intrapartum stillbirth (excluding deaths from congenital anomalies); neonatal deaths up to 28 days after birth (excluding deaths from congenital anomalies); moderate or severe encephalopathy; admissions to the neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties or respiratory illness (when there was evidence of compromise at birth suggesting mild asphyxia or mild encephalopathy, or both); admission to a higher level of care; an Apgar score of less than 4 at 5 min; distribution of cord blood gas data for cord artery pH; metabolic acidosis (cord artery pH <7\u202205 and base deficit of 12 mmol/L or more); resuscitation interventions (categorical); seizures; destination immediately after birth (categorical); length of hospital stay (continuous); health and development outcomes at 24 months (continuous); score on the non-verbal cognition scale (continuous), vocabulary subscale (continuous), and sentence complexity sub-scale (continuous) of PARCA-R; deaths to 24 months; major disability and non-major disability at 2 years; and cerebral palsy. Maternal secondary outcomes were mode of delivery (categorical); operative intervention (caesarean section and instrumental delivery) for fetal indications, failure to progress, a combination of fetal indications and failure to progress, or any other reason; grade or urgency of caesarean section 15 (categorical); episiotomy; any episode of fetal blood sampling; length of first stage, length of second stage, and total length of labour from trial entry (continuous); destination immediately after birth (categorical); and admission to a higher level of care.",
+        "section": "Outcomes",
+        "section_number": 16,
+        "sentences": [
+            "Infant secondary outcomes, all of which are binary unless specified, were intrapartum stillbirth (excluding deaths from congenital anomalies); neonatal deaths up to 28 days after birth (excluding deaths from congenital anomalies); moderate or severe encephalopathy; admissions to the neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties or respiratory illness (when there was evidence of compromise at birth suggesting mild asphyxia or mild encephalopathy, or both); admission to a higher level of care; an Apgar score of less than 4 at 5 min; distribution of cord blood gas data for cord artery pH; metabolic acidosis (cord artery pH <7\u202205 and base deficit of 12 mmol/L or more); resuscitation interventions (categorical); seizures; destination immediately after birth (categorical); length of hospital stay (continuous); health and development outcomes at 24 months (continuous); score on the non-verbal cognition scale (continuous), vocabulary subscale (continuous), and sentence complexity sub-scale (continuous) of PARCA-R; deaths to 24 months; major disability and non-major disability at 2 years; and cerebral palsy.",
+            "Maternal secondary outcomes were mode of delivery (categorical); operative intervention (caesarean section and instrumental delivery) for fetal indications, failure to progress, a combination of fetal indications and failure to progress, or any other reason; grade or urgency of caesarean section 15 (categorical); episiotomy; any episode of fetal blood sampling; length of first stage, length of second stage, and total length of labour from trial entry (continuous); destination immediately after birth (categorical); and admission to a higher level of care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Because trial allocation was not blinded, it was important to measure any change in clinical care that could result from clinicians being aware of whether the decision-support system was in operation. We measured the total number of cardiotocographic abnormalities and the proportion of women with cardiotocographic abnormalities in each arm; the time taken between last red alert and delivery (for these first three outcomes, we retrospectively used the decision-support software after the trial was over to analyse the cardiotocographic trace, and used these data to determine when the alert would have occurred); the number of routine measurements recorded during labour, including the number of vaginal examinations, use of epidural analgesia, use of labour augmentation, and presence of meconium; and the number of thumb entries (similar to a signature in paper notes) per hour from time of trial entry to first yellow level of concern or until the cervix was fully dilated (as a proxy measure to assess presence of a health professional in the delivery room during the labour).",
+        "section": "Outcomes",
+        "section_number": 17,
+        "sentences": [
+            "Because trial allocation was not blinded, it was important to measure any change in clinical care that could result from clinicians being aware of whether the decision-support system was in operation.",
+            "We measured the total number of cardiotocographic abnormalities and the proportion of women with cardiotocographic abnormalities in each arm; the time taken between last red alert and delivery (for these first three outcomes, we retrospectively used the decision-support software after the trial was over to analyse the cardiotocographic trace, and used these data to determine when the alert would have occurred); the number of routine measurements recorded during labour, including the number of vaginal examinations, use of epidural analgesia, use of labour augmentation, and presence of meconium; and the number of thumb entries (similar to a signature in paper notes) per hour from time of trial entry to first yellow level of concern or until the cervix was fully dilated (as a proxy measure to assess presence of a health professional in the delivery room during the labour)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "A sample size of 46 000 births was needed. 11 We postulated an incidence of the primary outcome of three per 1000 births by summing the previous reported rates of intrapartum stillbirth, neonatal death, moderate and severe encephalopathy, and mild encephalopathy (reliable data for significant asphyxial morbidity were not available and so could only be estimated). [16] [17] [18] The effect size that could be detected with 46 000 women (23 000 in each group), assuming a 5% level of significance and 90% power, was a 50% reduction in poor neonatal outcomes from three to 1\u20225 per 1000. In a study of preterm infants, 14 the mean PARCA-R composite score at 2 years was 80 (SD 33) and the mean Mental Development Index (Bayley Scales of Infant Development II) was around half an SD below the mean of 100. Assuming that a healthy group of term infants would have a PARCA-R composite score half an SD higher than this sample of preterm infants, we estimated a mean 2 year score of 96 (SD 33). A follow-up sample of size 7000 (3500 per arm) had more than 90% power to detect a difference of 3 points in the PARCA-R component score with a two-sided 5% significance level. The incidence of severe metabolic acidosis (cord artery pH <7\u202205) is ten per 1000. [19] [20] [21] [22] A sample of 46 000 women enabled us to detect a 28% relative risk reduction in this incidence with more than 80% power, assuming a 5% level of significance, in babies in whom cord artery pH was measured.",
+        "section": "Statistical analysis",
+        "section_number": 18,
+        "sentences": [
+            "A sample size of 46 000 births was needed.",
+            "11 We postulated an incidence of the primary outcome of three per 1000 births by summing the previous reported rates of intrapartum stillbirth, neonatal death, moderate and severe encephalopathy, and mild encephalopathy (reliable data for significant asphyxial morbidity were not available and so could only be estimated). [",
+            "16] [17] [18] The effect size that could be detected with 46 000 women (23 000 in each group), assuming a 5% level of significance and 90% power, was a 50% reduction in poor neonatal outcomes from three to 1\u20225 per 1000.",
+            "In a study of preterm infants, 14 the mean PARCA-R composite score at 2 years was 80 (SD 33) and the mean Mental Development Index (Bayley Scales of Infant Development II) was around half an SD below the mean of 100.",
+            "Assuming that a healthy group of term infants would have a PARCA-R composite score half an SD higher than this sample of preterm infants, we estimated a mean 2 year score of 96 (SD 33).",
+            "A follow-up sample of size 7000 (3500 per arm) had more than 90% power to detect a difference of 3 points in the PARCA-R component score with a two-sided 5% significance level.",
+            "The incidence of severe metabolic acidosis (cord artery pH <7\u202205) is ten per 1000. [",
+            "19] [20] [21] [22] A sample of 46 000 women enabled us to detect a 28% relative risk reduction in this incidence with more than 80% power, assuming a 5% level of significance, in babies in whom cord artery pH was measured."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "During the early part of the trial, and with advice from the data-monitoring committee, the primary outcome definition was refined to ensure that it captured babies who were likely to have experienced hypoxia during labour. The original component of the primary outcomeadmission to neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties, respiratory illness, or encephalopathy-resulted in the inclusion of many babies with a range of disorders, many of which were unlikely to be related to hypoxia. Each case fulfilling this component of the primary outcome was reviewed by an independent panel of neonatologists (who were blinded to allocation) to ascribe it as fulfilling the revised definition or not (appendix).",
+        "section": "Statistical analysis",
+        "section_number": 19,
+        "sentences": [
+            "During the early part of the trial, and with advice from the data-monitoring committee, the primary outcome definition was refined to ensure that it captured babies who were likely to have experienced hypoxia during labour.",
+            "The original component of the primary outcomeadmission to neonatal unit within 48 h of birth for 48 h or more with evidence of feeding difficulties, respiratory illness, or encephalopathy-resulted in the inclusion of many babies with a range of disorders, many of which were unlikely to be related to hypoxia.",
+            "Each case fulfilling this component of the primary outcome was reviewed by an independent panel of neonatologists (who were blinded to allocation) to ascribe it as fulfilling the revised definition or not (appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The trial steering committee approved the statistical analysis plan before the analysis (appendix). For the main comparative analysis, participants were analysed in the groups into which they were randomly allocated, irrespective of allocation received. All women and babies with available data were included, except for women for whom a valid signed consent form could not be located or women who withdrew consent. The numbers and percentages of babies in whom the primary outcomes were noted are for each group, and the risk ratios plus 95% CIs were calculated. Risk ratios were estimated with generalised linear models with a binomial distribution and a log link (or a Poisson distribution with a log link if convergence could not be achieved). Hazard ratios were estimated with Cox regression and rate ratios with Poisson regression. We adjusted for the stratification factors used in the randomisation (centre and singleton or twin pregnancy), and used robust variance estimators in all models to account for the correlation in outcomes between twins and siblings delivered in a subsequent ",
+        "section": "Statistical analysis",
+        "section_number": 20,
+        "sentences": [
+            "The trial steering committee approved the statistical analysis plan before the analysis (appendix).",
+            "For the main comparative analysis, participants were analysed in the groups into which they were randomly allocated, irrespective of allocation received.",
+            "All women and babies with available data were included, except for women for whom a valid signed consent form could not be located or women who withdrew consent.",
+            "The numbers and percentages of babies in whom the primary outcomes were noted are for each group, and the risk ratios plus 95% CIs were calculated.",
+            "Risk ratios were estimated with generalised linear models with a binomial distribution and a log link (or a Poisson distribution with a log link if convergence could not be achieved).",
+            "Hazard ratios were estimated with Cox regression and rate ratios with Poisson regression.",
+            "We adjusted for the stratification factors used in the randomisation (centre and singleton or twin pregnancy), and used robust variance estimators in all models to account for the correlation in outcomes between twins and siblings delivered in a subsequent"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The 46 042 women included in the analysis includes 448 women with two singleton birth episodes and six women with one singleton and one twin birth episode in the study period. The allocation received for the subsequent delivery was independent of the first allocation received. 30 of 21 509 \u2020 infants in the decision-support group and 37 of 21 599 \u2020 infants in the no-decision-support group died before 24 months. Parent Report of Children's Abilities-Revised (PARCA-R). *One woman who withdrew (with consent to use of data) was also randomly assigned in error. \u2020Data from the Ireland not included in the numerator (n=1 decision support) or denominator (n=1754 in decision support and n=1752 in no decision support) because data for deaths after discharge were not available; deaths in the flow chart include stillbirths (n=1 in decision support and n=2 in no decision support).",
+        "section": "Figure: Trial profile",
+        "section_number": 21,
+        "sentences": [
+            "The 46 042 women included in the analysis includes 448 women with two singleton birth episodes and six women with one singleton and one twin birth episode in the study period.",
+            "The allocation received for the subsequent delivery was independent of the first allocation received.",
+            "30 of 21 509 \u2020 infants in the decision-support group and 37 of 21 599 \u2020 infants in the no-decision-support group died before 24 months.",
+            "Parent Report of Children's Abilities-Revised (PARCA-R). *",
+            "One woman who withdrew (with consent to use of data) was also randomly assigned in error.",
+            "\u2020Data from the Ireland not included in the numerator (n=1 decision support) or denominator (n=1754 in decision support and n=1752 in no decision support) because data for deaths after discharge were not available; deaths in the flow chart include stillbirths (n=1 in decision support and n=2 in no decision support)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "pregnancy during the trial period. 11 The mean (SD) PARCA-R composite score was calculated for each group, and the mean difference between groups plus 95% CI were calculated and compared with a Gaussian model with identity link. For secondary outcomes including the components of the primary outcome, a 1% level of significance was employed. We did prespecified subgroup analyses with the statistical test for interaction for singletons versus twins, suspected fetal growth restriction at labour onset versus no growth restriction, body-mass index group, and centre. These analyses were done for the trial primary outcomes, all neonatal outcomes, instrumental vaginal deliveries, and caesarean section. Additionally, we did a subgroup analysis of all process outcomes by centre. Major disability at 2 years was classified in terms of neuromotor function, seizures, auditory function, communication, visual function, cognitive function, and other physical disability. 23, 24 We used Stata/SE for Windows (version 13.1) for all analyses. The trial was overseen by an independent trial steering committee and an independent datamonitoring committee. The data-monitoring committee used the Haybittle-Peto approach 25 for interim analyses, with three SEs as the cutoff for consideration of early cessation, preserving the type-1 error across the trial.",
+        "section": "Figure: Trial profile",
+        "section_number": 22,
+        "sentences": [
+            "pregnancy during the trial period.",
+            "11 The mean (SD) PARCA-R composite score was calculated for each group, and the mean difference between groups plus 95% CI were calculated and compared with a Gaussian model with identity link.",
+            "For secondary outcomes including the components of the primary outcome, a 1% level of significance was employed.",
+            "We did prespecified subgroup analyses with the statistical test for interaction for singletons versus twins, suspected fetal growth restriction at labour onset versus no growth restriction, body-mass index group, and centre.",
+            "These analyses were done for the trial primary outcomes, all neonatal outcomes, instrumental vaginal deliveries, and caesarean section.",
+            "Additionally, we did a subgroup analysis of all process outcomes by centre.",
+            "Major disability at 2 years was classified in terms of neuromotor function, seizures, auditory function, communication, visual function, cognitive function, and other physical disability.",
+            "23, 24 We used Stata/SE for Windows (version 13.1) for all analyses.",
+            "The trial was overseen by an independent trial steering committee and an independent datamonitoring committee.",
+            "The data-monitoring committee used the Haybittle-Peto approach 25 for interim analyses, with three SEs as the cutoff for consideration of early cessation, preserving the type-1 error across the trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The trial is registered with ISRCTN, number 98680152.",
+        "section": "Figure: Trial profile",
+        "section_number": 23,
+        "sentences": [
+            "The trial is registered with ISRCTN, number 98680152."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The funder of the study had no role in the trial design; data collection, analysis, or interpretation; or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication.",
+        "section": "Role of the funding source",
+        "section_number": 24,
+        "sentences": [
+            "The funder of the study had no role in the trial design; data collection, analysis, or interpretation; or writing of the report.",
+            "The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Between Jan 6, 2010, and Aug 31, 2013, 47 062 women were recruited to the INFANT trial (appendix). 1020 women (2\u20222%) were excluded from the analysis of Data are median (IQR), n, or n (%). Missing data are <1%, unless otherwise presented; there were no apparent differences in missing data between trial arms. *Women with more than one birth episode in the study period are included more than once (n=454). \u2020As coded by the UK National Health Service. \u2021These data were collected only from 2013 at most centres. Data are n (%), n, or median (IQR), unless otherwise specified. Missing data are <1% unless otherwise presented. Risk ratios were adjusted for stratification factors used in the randomisation (centre and twin birth) and clustering because of twins and multiple birth episodes. Minimisation factors were not adjusted for in the analysis of intrapartum stillbirths, neonatal deaths, and neonatal encephalopathy because of the small number of events. Crude effect measures were not presented as identical to one decimal place (two decimal places for most outcomes). CI=confidence interval. *The components of the primary outcome are mutually exclusive and outcomes listed higher take precedence over those listed below them-eg, if a baby with neonatal encephalopathy died within 28 days, the outcome would be recorded as neonatal death. \u2020Excludes stillbirths due to congenital anomalies. \u2021Excludes deaths due to congenital anomalies; deaths after hospital discharge not reported for Ireland. \u00a7Cord artery pH <7\u202205, base deficit \u226512mmol/L. \u00b6Risk ratio of one or more interventions vs none. ||Risk ratio of ward or home vs all other destinations (if known). **This figure is a hazard ratio rather than a risk ratio. \u2020 \u2020Risk ratio for fetal distress and risk ratio for failure to progress include (in the numerator) deliveries in the third category for which both fetal distress and failure to progress were recorded. \u2021 \u2021Risk ratios based on cumulative totals for grade-ie, grade 1 vs all other deliveries, grade 1-2 vs all other deliveries, and grade 1-3 vs all other deliveries. \u00a7 \u00a7n=22 987 in the decision-support group and 23 055 in the no-decision-support group (ie, the number of women, rather than the number of infants) for all outcomes after this row. \u00b6 \u00b6Risk ratio of ward or home vs all other destinations (if known). ||||Denominators exclude women with no labour, seemingly randomised after delivery, and unknown length of labour. \u202216) . No other significant differences were noted between the two groups from trial entry to birth in terms of clinical outcomes (table 2) .",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "Between Jan 6, 2010, and Aug 31, 2013, 47 062 women were recruited to the INFANT trial (appendix).",
+            "1020 women (2\u20222%) were excluded from the analysis of Data are median (IQR), n, or n (%).",
+            "Missing data are <1%, unless otherwise presented; there were no apparent differences in missing data between trial arms. *",
+            "Women with more than one birth episode in the study period are included more than once (n=454).",
+            "\u2020As coded by the UK National Health Service.",
+            "\u2021These data were collected only from 2013 at most centres.",
+            "Data are n (%), n, or median (IQR), unless otherwise specified.",
+            "Missing data are <1% unless otherwise presented.",
+            "Risk ratios were adjusted for stratification factors used in the randomisation (centre and twin birth) and clustering because of twins and multiple birth episodes.",
+            "Minimisation factors were not adjusted for in the analysis of intrapartum stillbirths, neonatal deaths, and neonatal encephalopathy because of the small number of events.",
+            "Crude effect measures were not presented as identical to one decimal place (two decimal places for most outcomes).",
+            "CI=confidence interval. *",
+            "The components of the primary outcome are mutually exclusive and outcomes listed higher take precedence over those listed below them-eg, if a baby with neonatal encephalopathy died within 28 days, the outcome would be recorded as neonatal death.",
+            "\u2020Excludes stillbirths due to congenital anomalies.",
+            "\u2021Excludes deaths due to congenital anomalies; deaths after hospital discharge not reported for Ireland. \u00a7",
+            "Cord artery pH <7\u202205, base deficit \u226512mmol/L. \u00b6Risk ratio of one or more interventions vs none.",
+            "||Risk ratio of ward or home vs all other destinations (if known). **",
+            "This figure is a hazard ratio rather than a risk ratio. \u2020",
+            "\u2020Risk ratio for fetal distress and risk ratio for failure to progress include (in the numerator) deliveries in the third category for which both fetal distress and failure to progress were recorded. \u2021",
+            "\u2021Risk ratios based on cumulative totals for grade-ie, grade 1 vs all other deliveries, grade 1-2 vs all other deliveries, and grade 1-3 vs all other deliveries. \u00a7 \u00a7",
+            "n=22 987 in the decision-support group and 23 055 in the no-decision-support group (ie, the number of women, rather than the number of infants) for all outcomes after this row. \u00b6",
+            "\u00b6Risk ratio of ward or home vs all other destinations (if known).",
+            "||||Denominators exclude women with no labour, seemingly randomised after delivery, and unknown length of labour.",
+            "\u202216) .",
+            "No other significant differences were noted between the two groups from trial entry to birth in terms of clinical outcomes (table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "For babies with an adverse outcome and cord metabolic acidosis who underwent expert review, the overall proportion of babies judged to have received suboptimal care likely to have affected the outcome was 38%-14 of 35 babies in the decision-support group and 13 of 36 babies in the control group-which is similar to that reported previously. 26 We could not investigate whether in all cases not reviewed appropriate action was taken in response to recognised abnormality.",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "For babies with an adverse outcome and cord metabolic acidosis who underwent expert review, the overall proportion of babies judged to have received suboptimal care likely to have affected the outcome was 38%-14 of 35 babies in the decision-support group and 13 of 36 babies in the control group-which is similar to that reported previously.",
+            "26 We could not investigate whether in all cases not reviewed appropriate action was taken in response to recognised abnormality."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "In women with any level of concern as measured by INFANT (table 3) , blue levels of concern were most frequent (median seven alerts during labour-roughly 1\u20221 per h), followed by yellow alerts (median two alerts per labour), and then red alerts (median one per labour). A lower rate of yellow levels of concern was noted in the decision-support group compared with the no-decisionsupport group (adjusted rate ratio 0\u202287, 99% CI 0\u202284-0\u202289; table 3). Frequency of blue and red alerts did not differ significantly between groups (table 3) .",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "In women with any level of concern as measured by INFANT (table 3) , blue levels of concern were most frequent (median seven alerts during labour-roughly 1\u20221 per h), followed by yellow alerts (median two alerts per labour), and then red alerts (median one per labour).",
+            "A lower rate of yellow levels of concern was noted in the decision-support group compared with the no-decisionsupport group (adjusted rate ratio 0\u202287, 99% CI 0\u202284-0\u202289; table 3).",
+            "Frequency of blue and red alerts did not differ significantly between groups (table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Although there was a worry that women in the decisionsupport group would be left alone more frequently during labour than those in the no-decision-support group, the frequency of thumbprint entries on the Guardian did not differ significantly between groups (4\u2022 Time from the last red level of concern to birth was similar in both groups (median 58 min; table 3). In a subgroup of 473 readable traces from a sample of 500 taken as a similar number of consecutive cases from each contributing centre, the last red level of concern was judged (by expert investigator, PS) to be a valid fetal concern for 276 (58%) traces. Maternal heart rate triggered the red level of concern in 128 (27%) cases, misclassified accelerations in 36 (8%) cases, and other reasons in 33 (7%) cases.",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "Although there was a worry that women in the decisionsupport group would be left alone more frequently during labour than those in the no-decision-support group, the frequency of thumbprint entries on the Guardian did not differ significantly between groups (4\u2022 Time from the last red level of concern to birth was similar in both groups (median 58 min; table 3).",
+            "In a subgroup of 473 readable traces from a sample of 500 taken as a similar number of consecutive cases from each contributing centre, the last red level of concern was judged (by expert investigator, PS) to be a valid fetal concern for 276 (58%) traces.",
+            "Maternal heart rate triggered the red level of concern in 128 (27%) cases, misclassified accelerations in 36 (8%) cases, and other reasons in 33 (7%) cases."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Families were contacted when their surviving child or children born reached age 2 years. Nearly 7000 families returned a questionnaire. The characteristics of the mothers who responded differed significantly from those of the entire trial cohort and from those of mothers who did not respond (appendix). Compared with the entire trial cohort, responders were more likely to be white, to have given birth at a later gestational age, and to have been having their first baby (appendix).",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "Families were contacted when their surviving child or children born reached age 2 years.",
+            "Nearly 7000 families returned a questionnaire.",
+            "The characteristics of the mothers who responded differed significantly from those of the entire trial cohort and from those of mothers who did not respond (appendix).",
+            "Compared with the entire trial cohort, responders were more likely to be white, to have given birth at a later gestational age, and to have been having their first baby (appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Of the 7066 infants for whom a questionnaire was returned, data could be analysed for 6707 (95%). We noted no significant differences between the two groups for any of the 2 year outcomes, including the primary outcome, PARCA-R score (table 4). Nearly 6% of children for whom data were available had a major disability. The classification of disability 23, 24 used meant that large numbers of children were assigned a major disability as a result of having poor growth (between 2\u20228% and 3\u20220% of all children) and cognitive difficulties (between 1\u20222% and 1\u20225% of all children). Other major disabilities such as physical disability, blindness, and deafness were all very uncommon (appendix).",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "Of the 7066 infants for whom a questionnaire was returned, data could be analysed for 6707 (95%).",
+            "We noted no significant differences between the two groups for any of the 2 year outcomes, including the primary outcome, PARCA-R score (table 4).",
+            "Nearly 6% of children for whom data were available had a major disability.",
+            "The classification of disability 23, 24 used meant that large numbers of children were assigned a major disability as a result of having poor growth (between 2\u20228% and 3\u20220% of all children) and cognitive difficulties (between 1\u20222% and 1\u20225% of all children).",
+            "Other major disabilities such as physical disability, blindness, and deafness were all very uncommon (appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "We noted no evidence that the decision-support software performed significantly differently between any of the prespecified subgroups for either the primary outcome or a range of secondary outcomes (appendix). Furthermore, no differences were noted in the distribution of cord blood pH measurements (appendix). The number of alerts differed significantly by centre, but no other significant differences were noted by centre (appendix).",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "We noted no evidence that the decision-support software performed significantly differently between any of the prespecified subgroups for either the primary outcome or a range of secondary outcomes (appendix).",
+            "Furthermore, no differences were noted in the distribution of cord blood pH measurements (appendix).",
+            "The number of alerts differed significantly by centre, but no other significant differences were noted by centre (appendix)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "In this trial of more than 46 000 women, we found no evidence that the use of decision-support software in conjunction with cardiotocography reduced the likelihood of poor neonatal outcomes compared with cardiotocography alone.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "In this trial of more than 46 000 women, we found no evidence that the use of decision-support software in conjunction with cardiotocography reduced the likelihood of poor neonatal outcomes compared with cardiotocography alone."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "In another randomised trial, which also recruited in the UK, the use of decision support was assessed in women monitored during labour with fetal electrocardiographic monitoring. 27 This study also showed no evidence that decision support improved the primary outcome of cord blood metabolic acidosis in 7730 women. 27 The results of one small trial 28 of 220 women in Bulgaria have suggested that decision support is associated with benefits with respect to cord blood metabolic acidosis. In the UK continuous electronic fetal heart-rate monitoring is not routine, making generalisability to settings in which it is routine less certain.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "In another randomised trial, which also recruited in the UK, the use of decision support was assessed in women monitored during labour with fetal electrocardiographic monitoring.",
+            "27 This study also showed no evidence that decision support improved the primary outcome of cord blood metabolic acidosis in 7730 women.",
+            "27 The results of one small trial 28 of 220 women in Bulgaria have suggested that decision support is associated with benefits with respect to cord blood metabolic acidosis.",
+            "In the UK continuous electronic fetal heart-rate monitoring is not routine, making generalisability to settings in which it is routine less certain."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The strengths of this study are its contemporaneous data collection and size. Potential weaknesses include the challenges of use of a composite primary outcome measure, the potential for staff to learn from exposure to the decision-support arm of the trial, resulting in improved outcomes in the control arm, and the issue of accounting for multiple comparisons.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "The strengths of this study are its contemporaneous data collection and size.",
+            "Potential weaknesses include the challenges of use of a composite primary outcome measure, the potential for staff to learn from exposure to the decision-support arm of the trial, resulting in improved outcomes in the control arm, and the issue of accounting for multiple comparisons."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Use of a composite primary outcome might not always be helpful if different components of the outcome respond differently to the intervention. 29 We initially hypothesised that the components of the outcome would have similar incidences, with each component likely to contribute around a third to the composite. Estimates of the incidence of these components for eligible women were difficult to find before the trial began. 11 The perinatal mortality in our study (13 per 46 614 babies [0\u20223 per 1000]) was lower than the previous estimate (1\u202205 per 1000), and the incidence of neonatal encephalopathy requiring cooling was also lower than previous estimates (0\u20228 per 1000 vs 1\u20223 per 1000). 11 However, the incidence of prolonged admission to neonatal units with evidence of compromise at birth, for which we had no good data when planning the trial, occurred more frequently (291 per 46 614 [six per 1000]) and contributed substantially more to the higher-thananticipated overall primary event rate of seven per 1000 compared with our estimated three per 1000. This frequency afforded us power to detect smaller differences in the composite outcome than we had originally planned.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "Use of a composite primary outcome might not always be helpful if different components of the outcome respond differently to the intervention.",
+            "29 We initially hypothesised that the components of the outcome would have similar incidences, with each component likely to contribute around a third to the composite.",
+            "Estimates of the incidence of these components for eligible women were difficult to find before the trial began.",
+            "11 The perinatal mortality in our study (13 per 46 614 babies [0\u20223 per 1000]) was lower than the previous estimate (1\u202205 per 1000), and the incidence of neonatal encephalopathy requiring cooling was also lower than previous estimates (0\u20228 per 1000 vs 1\u20223 per 1000).",
+            "11 However, the incidence of prolonged admission to neonatal units with evidence of compromise at birth, for which we had no good data when planning the trial, occurred more frequently (291 per 46 614 [six per 1000]) and contributed substantially more to the higher-thananticipated overall primary event rate of seven per 1000 compared with our estimated three per 1000.",
+            "This frequency afforded us power to detect smaller differences in the composite outcome than we had originally planned."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The potential weakness of staff learning from exposure to the decision-support system was identified when planning the trial. We acknowledged that passive learning from the decision-support system would be possible. However, part of our previous hypothesis was that, although some poor cardiotocographic interpretation is due to a lack of training, some clinicians have poor intrinsic pattern-recognition abilities, which, by definition, would not be affected by training, and the performance of such clinicians would be particularly improved by assistance from automatic interpretation. We collected a range of process outcomes to measure the impact on clinician behaviour during the trial, and these data suggested some evidence for behaviour change in the decision-support arm: fetal blood sampling was more frequent and the incidence of repeated yellow alerts lower than in the control group. Perhaps different action was taken in response to the alerts in the decisionsupport arm of the trial-eg, clinicians might have reduced the dose of an oxytocin infusion in women having their labour augmented if the infusion was leading to very frequent contractions. Such actions could have prevented further yellow alerts, leading to a decrease in this group, although we do not have any direct evidence for this scenario. Even if this effect did occur, it did not result in any significant change in clinical outcomes. Although the median time from last level of red concern to birth might seem lengthy (58 min), some red levels of concern did not prompt immediate delivery-eg, the cardiotocographic monitor picking up the maternal heart rate.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "The potential weakness of staff learning from exposure to the decision-support system was identified when planning the trial.",
+            "We acknowledged that passive learning from the decision-support system would be possible.",
+            "However, part of our previous hypothesis was that, although some poor cardiotocographic interpretation is due to a lack of training, some clinicians have poor intrinsic pattern-recognition abilities, which, by definition, would not be affected by training, and the performance of such clinicians would be particularly improved by assistance from automatic interpretation.",
+            "We collected a range of process outcomes to measure the impact on clinician behaviour during the trial, and these data suggested some evidence for behaviour change in the decision-support arm: fetal blood sampling was more frequent and the incidence of repeated yellow alerts lower than in the control group.",
+            "Perhaps different action was taken in response to the alerts in the decisionsupport arm of the trial-eg, clinicians might have reduced the dose of an oxytocin infusion in women having their labour augmented if the infusion was leading to very frequent contractions.",
+            "Such actions could have prevented further yellow alerts, leading to a decrease in this group, although we do not have any direct evidence for this scenario.",
+            "Even if this effect did occur, it did not result in any significant change in clinical outcomes.",
+            "Although the median time from last level of red concern to birth might seem lengthy (58 min), some red levels of concern did not prompt immediate delivery-eg, the cardiotocographic monitor picking up the maternal heart rate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "We accounted for multiple comparisons in the trial by using 99% CIs for all secondary outcomes. Significant findings in secondary outcomes require careful interpretation irrespective of the level of significance, and factors such as the strength of the finding and plausibility need to be taken into account. 30 In this trial, the only two significant findings relate to behaviour change in clinicians favouring decision support. These findings were in the expected direction of effect and are mutually supportive, suggestive of a real effect.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "We accounted for multiple comparisons in the trial by using 99% CIs for all secondary outcomes.",
+            "Significant findings in secondary outcomes require careful interpretation irrespective of the level of significance, and factors such as the strength of the finding and plausibility need to be taken into account.",
+            "30 In this trial, the only two significant findings relate to behaviour change in clinicians favouring decision support.",
+            "These findings were in the expected direction of effect and are mutually supportive, suggestive of a real effect."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "Detection of abnormalities in the fetal heart rate can improve outcome only if caregivers respond appropriately to the alerts. A review of all severe adverse outcomes in the trial showed no evidence of differences in suboptimal care between the two groups. Therefore our hypothesis that substandard care is largely related to failure to identify pathological fetal heart-rate patterns is not supported. Most adverse outcomes associated with preventable substandard care seemed to involve failure to take appropriate management decisions once the cardiotocographic abnormality had been recognised. This aspect will be reported in detail in a follow-up paper. Our hypothesis that unnecessary intervention would be reduced was also not supported.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "Detection of abnormalities in the fetal heart rate can improve outcome only if caregivers respond appropriately to the alerts.",
+            "A review of all severe adverse outcomes in the trial showed no evidence of differences in suboptimal care between the two groups.",
+            "Therefore our hypothesis that substandard care is largely related to failure to identify pathological fetal heart-rate patterns is not supported.",
+            "Most adverse outcomes associated with preventable substandard care seemed to involve failure to take appropriate management decisions once the cardiotocographic abnormality had been recognised.",
+            "This aspect will be reported in detail in a follow-up paper.",
+            "Our hypothesis that unnecessary intervention would be reduced was also not supported."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "The decision-support software used in this trial identifies fetal heart-rate abnormalities. [6] [7] [8] However, the alerts do not take into account other information about the labour, such as duration of labour, the rate of labour progress, and presence of meconium, all of which could modify the way a clinician interprets the fetal heart rate and acts on this information. Further development of decision-support software could improve the quality of feedback that the system provides to clinicians to make a difference to outcomes. In view of the importance for parents, clinicians, and health services of the consequences of intrapartum hypoxia, identification of signs of early compromise during labour so that timely intervention can be used to reduce poor outcomes is an urgent unmet need.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "The decision-support software used in this trial identifies fetal heart-rate abnormalities. [",
+            "6] [7] [8] However, the alerts do not take into account other information about the labour, such as duration of labour, the rate of labour progress, and presence of meconium, all of which could modify the way a clinician interprets the fetal heart rate and acts on this information.",
+            "Further development of decision-support software could improve the quality of feedback that the system provides to clinicians to make a difference to outcomes.",
+            "In view of the importance for parents, clinicians, and health services of the consequences of intrapartum hypoxia, identification of signs of early compromise during labour so that timely intervention can be used to reduce poor outcomes is an urgent unmet need."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "46887",
+        "text": "www.thelancet.com Vol 389 April 29, 2017",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "www.thelancet.com Vol 389 April 29, 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

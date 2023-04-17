@@ -1,0 +1,559 @@
+[
+    {
+        "doc_id": "33574",
+        "text": "What is already known \u2022 Children are at risk for respiratory depression in the postanesthesia care unit (PACU). Monitoring with pulse oximetry alone may fail to detect these events. \u2022 Capnography is a superior method to monitor ventilation, however it is not routinely used in the PACU. What this article adds \u2022 Capnography detected episodes of hypoventilation or apnea in the majority of children in the PACU. \u2022 When staff had access to capnography, children had fewer episodes of hypopnea and apnea over time. This may be due to more effective staff interventions.",
+        "section": "Abstract",
+        "sentences": [
+            "What is already known \u2022 Children are at risk for respiratory depression in the postanesthesia care unit (PACU).",
+            "Monitoring with pulse oximetry alone may fail to detect these events. \u2022",
+            "Capnography is a superior method to monitor ventilation, however it is not routinely used in the PACU.",
+            "What this article adds \u2022 Capnography detected episodes of hypoventilation or apnea in the majority of children in the PACU. \u2022",
+            "When staff had access to capnography, children had fewer episodes of hypopnea and apnea over time.",
+            "This may be due to more effective staff interventions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "The average complication rate among patients in the postanesthesia care unit (PACU) is 25%; 40-50% of these events are cited as being respiratory in nature (1) (2) (3) (4) . Fifty percent of these events are reported as significant and 56% of all events result in patient harm, defined as major physiological changes, morbidity, or death (1, 3) . Even adverse events described as 'minor' can significantly impact resource utilization, costs, and increase duration of stay by up to 26% (2) . Importantly, these events can occur in otherwise healthy patients without any risk factors (1, 2, 5) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The average complication rate among patients in the postanesthesia care unit (PACU) is 25%; 40-50% of these events are cited as being respiratory in nature (1) (2) (3) (4) .",
+            "Fifty percent of these events are reported as significant and 56% of all events result in patient harm, defined as major physiological changes, morbidity, or death (1, 3) .",
+            "Even adverse events described as 'minor' can significantly impact resource utilization, costs, and increase duration of stay by up to 26% (2) .",
+            "Importantly, these events can occur in otherwise healthy patients without any risk factors (1, 2, 5) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Current standards for monitoring children in the PACU include pulse oximetry and clinical assessments (6, 7) . These methods are prone to inaccuracies, delays, and interobserver variability, thus they may not reliably recognize respiratory depression (8, 9) . The detection of apnea or hypoventilation can be significantly delayed by pulse oximetry alone (10) . This is particularly true in the presence of supplemental oxygen, which is commonly used among patients in the PACU (11, 12) . When a patient is not adequately oxygenating, ventilating, or is apneic, pulse oximetry may not decline for up to 4.5 min (9, 13, 14) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Current standards for monitoring children in the PACU include pulse oximetry and clinical assessments (6, 7) .",
+            "These methods are prone to inaccuracies, delays, and interobserver variability, thus they may not reliably recognize respiratory depression (8, 9) .",
+            "The detection of apnea or hypoventilation can be significantly delayed by pulse oximetry alone (10) .",
+            "This is particularly true in the presence of supplemental oxygen, which is commonly used among patients in the PACU (11, 12) .",
+            "When a patient is not adequately oxygenating, ventilating, or is apneic, pulse oximetry may not decline for up to 4.5 min (9, 13, 14) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Although capnography is routinely used in the operating room (OR), it is often removed when patients are transferred to the PACU (6) . Capnography has reduced the frequency of adverse respiratory events by 50% intraoperatively and it has been theorized to have similar benefits in the PACU (15) . Closed claims analyses have shown that 15-30% of major respiratory events in this setting could be minimized or prevented by monitoring (16, 17) . There have been no studies assessing the impact of capnography on prevention of adverse respiratory events in children in the PACU. We hypothesized that the addition of capnography to standard monitoring in the PACU would alert staff members to ventilatory abnormalities that would not otherwise be detected and thus lead to more frequent interventions by staff members; this in turn would lead to fewer overall adverse events when compared to children receiving standard monitoring alone.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Although capnography is routinely used in the operating room (OR), it is often removed when patients are transferred to the PACU (6) .",
+            "Capnography has reduced the frequency of adverse respiratory events by 50% intraoperatively and it has been theorized to have similar benefits in the PACU (15) .",
+            "Closed claims analyses have shown that 15-30% of major respiratory events in this setting could be minimized or prevented by monitoring (16, 17) .",
+            "There have been no studies assessing the impact of capnography on prevention of adverse respiratory events in children in the PACU.",
+            "We hypothesized that the addition of capnography to standard monitoring in the PACU would alert staff members to ventilatory abnormalities that would not otherwise be detected and thus lead to more frequent interventions by staff members; this in turn would lead to fewer overall adverse events when compared to children receiving standard monitoring alone."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "A randomized controlled trial study was conducted between May 2014 and September 2014. The study was approved by the institutional review board and registered at ClinicalTrials.gov (NCT01843933).",
+        "section": "Study design",
+        "section_number": 4,
+        "sentences": [
+            "A randomized controlled trial study was conducted between May 2014 and September 2014.",
+            "The study was approved by the institutional review board and registered at ClinicalTrials.gov (NCT01843933)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Otherwise healthy children of age 1-20 years undergoing general anesthesia for elective surgery and cared for in the pediatric PACU were eligible for inclusion. There are 12 monitored beds in the PACU; all patients receive one-on-one nursing care. Written informed consent was obtained from eligible subjects and their parents/guardians in the preoperative waiting area on the day of surgery. To avoid selection bias, a random number table was used to select the next eligible patient to approach for consent; this directed the research associate (RA) to a randomly selected room in the preoperative waiting area. Exclusion criteria for study subjects included the need for postoperative assisted ventilation via an endotracheal tube or tracheostomy, urgent or emergent surgical procedures (i.e., nonelective) or surgery that would preclude the use of a nasal-oral cannula used for capnography monitoring (e.g., facial reconstruction), the inability to tolerate the nasal-oral cannula postoperatively (e.g., emergence delirium or psychomotor agitation during emergence from anesthesia, repeated removal of cannula), or any disease or state that may lead to abnormal capnography values or baseline abnormalities in pulse oximetry, such as congenital heart disease or chronic lung disease.",
+        "section": "Participants",
+        "section_number": 5,
+        "sentences": [
+            "Otherwise healthy children of age 1-20 years undergoing general anesthesia for elective surgery and cared for in the pediatric PACU were eligible for inclusion.",
+            "There are 12 monitored beds in the PACU; all patients receive one-on-one nursing care.",
+            "Written informed consent was obtained from eligible subjects and their parents/guardians in the preoperative waiting area on the day of surgery.",
+            "To avoid selection bias, a random number table was used to select the next eligible patient to approach for consent; this directed the research associate (RA) to a randomly selected room in the preoperative waiting area.",
+            "Exclusion criteria for study subjects included the need for postoperative assisted ventilation via an endotracheal tube or tracheostomy, urgent or emergent surgical procedures (i.e., nonelective) or surgery that would preclude the use of a nasal-oral cannula used for capnography monitoring (e.g., facial reconstruction), the inability to tolerate the nasal-oral cannula postoperatively (e.g., emergence delirium or psychomotor agitation during emergence from anesthesia, repeated removal of cannula), or any disease or state that may lead to abnormal capnography values or baseline abnormalities in pulse oximetry, such as congenital heart disease or chronic lung disease."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Prior to patient enrollment, nursing staff received information regarding interpretation of capnography as well as data on the frequency of events observed by capnography on their unit. Capnography waveforms were reviewed including normal respiratory patterns and endtidal carbon dioxide (ETCO 2 ) levels that would indicate hypoventilation or apnea. Simple noninvasive interventions for hypoventilation or apnea were discussed including reposition of the head, instructing the patient to take deep breaths, physical stimulation, or placing a shoulder roll under the patient. Invasive interventions included administration of reversal medications, bag-valve mask ventilation, insertion of an oral or nasal airway, and endotracheal intubation.",
+        "section": "Intervention",
+        "section_number": 6,
+        "sentences": [
+            "Prior to patient enrollment, nursing staff received information regarding interpretation of capnography as well as data on the frequency of events observed by capnography on their unit.",
+            "Capnography waveforms were reviewed including normal respiratory patterns and endtidal carbon dioxide (ETCO 2 ) levels that would indicate hypoventilation or apnea.",
+            "Simple noninvasive interventions for hypoventilation or apnea were discussed including reposition of the head, instructing the patient to take deep breaths, physical stimulation, or placing a shoulder roll under the patient.",
+            "Invasive interventions included administration of reversal medications, bag-valve mask ventilation, insertion of an oral or nasal airway, and endotracheal intubation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "A size-appropriate nasal-oral cannula for capnography monitoring (Smart CapnoLine Plus O 2 ; Covidien, Mansfield, MA, USA) was sent with the patient to the OR and placed onto the patient as they were emerging from anesthesia or immediately upon entering the PACU at the discretion of the anesthesiologist. Upon entering the PACU, the nasal-oral cannula was attached to a portable capnography monitor (CapnoStream 20; Covidien). Patients who were able to tolerate the cannula were randomized as to whether staff could view the capnography monitor (intervention) or were blinded to the monitor's screen (controls). The statistician, who had no role in patient enrollment or data collection, prepared the randomization sequence and envelopes. Randomization occurred via sequentially numbered, sealed, opaque envelopes in a 1 : 1 ratio; group assignments were allocated to patients in a random sequence within blocks of six. An RA opened the randomization envelope when the patient arrived in the PACU and was tolerating the nasal-oral cannula. All children received monitoring with pulse oximetry and standard nursing care. For the intervention group, alarm settings were programmed on the monitor to alert the provider to ETCO 2 levels below 30 mmHg and above 50 mmHg, as well as a respiratory rate of 0 for more than 20 s. The monitor was positioned where it was easily viewed by both the treating staff and the RA. For control subjects, the capnography monitor was positioned out of the line of sight of staff, and the alarm function was disabled so as not to alert staff to abnormal readings.",
+        "section": "Intervention",
+        "section_number": 7,
+        "sentences": [
+            "A size-appropriate nasal-oral cannula for capnography monitoring (Smart CapnoLine Plus O 2 ; Covidien, Mansfield, MA, USA) was sent with the patient to the OR and placed onto the patient as they were emerging from anesthesia or immediately upon entering the PACU at the discretion of the anesthesiologist.",
+            "Upon entering the PACU, the nasal-oral cannula was attached to a portable capnography monitor (CapnoStream 20; Covidien).",
+            "Patients who were able to tolerate the cannula were randomized as to whether staff could view the capnography monitor (intervention) or were blinded to the monitor's screen (controls).",
+            "The statistician, who had no role in patient enrollment or data collection, prepared the randomization sequence and envelopes.",
+            "Randomization occurred via sequentially numbered, sealed, opaque envelopes in a 1 : 1 ratio; group assignments were allocated to patients in a random sequence within blocks of six.",
+            "An RA opened the randomization envelope when the patient arrived in the PACU and was tolerating the nasal-oral cannula.",
+            "All children received monitoring with pulse oximetry and standard nursing care.",
+            "For the intervention group, alarm settings were programmed on the monitor to alert the provider to ETCO 2 levels below 30 mmHg and above 50 mmHg, as well as a respiratory rate of 0 for more than 20 s. The monitor was positioned where it was easily viewed by both the treating staff and the RA.",
+            "For control subjects, the capnography monitor was positioned out of the line of sight of staff, and the alarm function was disabled so as not to alert staff to abnormal readings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Two RAs, who were trained to consent families and collect data for this study, were present in the PACU on Monday through Friday from 7 am to 5 pm. They collected basic demographic information on all patients consenting to the study as well as weight, history of snoring or obstructive sleep apnea (OSA), and type of surgery.",
+        "section": "Data collection and measurements",
+        "section_number": 8,
+        "sentences": [
+            "Two RAs, who were trained to consent families and collect data for this study, were present in the PACU on Monday through Friday from 7 am to 5 pm.",
+            "They collected basic demographic information on all patients consenting to the study as well as weight, history of snoring or obstructive sleep apnea (OSA), and type of surgery."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "The RA remained at the patient's bedside throughout the study period. They monitored the position of the nasal-oral cannula and noted when any adjustments were made to ensure accurate recordings. Heart rate and oxygen saturation values were observed on the standard patient monitor and recorded on a written data sheet every 30 s by the RA until the patient was removed from the monitor by the nurse. ETCO 2 values and respiratory rate were digitally recorded by the capnography monitor every 30 s. At the time of discharge, these data were downloaded from the capnography monitor for each patient. Supplemental oxygen and medications were administered to patients at the discretion of the anesthesiology team and staff working in the PACU and recorded by the RA. Nurse and physician interventions related to airway and ventilatory management were also documented.",
+        "section": "Data collection and measurements",
+        "section_number": 9,
+        "sentences": [
+            "The RA remained at the patient's bedside throughout the study period.",
+            "They monitored the position of the nasal-oral cannula and noted when any adjustments were made to ensure accurate recordings.",
+            "Heart rate and oxygen saturation values were observed on the standard patient monitor and recorded on a written data sheet every 30 s by the RA until the patient was removed from the monitor by the nurse.",
+            "ETCO 2 values and respiratory rate were digitally recorded by the capnography monitor every 30 s. At the time of discharge, these data were downloaded from the capnography monitor for each patient.",
+            "Supplemental oxygen and medications were administered to patients at the discretion of the anesthesiology team and staff working in the PACU and recorded by the RA.",
+            "Nurse and physician interventions related to airway and ventilatory management were also documented."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Our primary outcomes were frequency of respiratory depression as measured by capnography and oxygen desaturations as measured by pulse oximetry, as well as staff interventions for these events; outcomes were graded by severity (Table 1) . Respiratory depression included both hypopneic and bradypneic hypoventilation and apnea. Based on sedation literature in spontaneously breathing, nonintubated patients, an ETCO 2 level \u226430 mmHg for >30 s without a rise in respiratory rate >50% of the patients mean value was defined as hypopneic hypoventilation caused by a decrease in tidal volume, an ETCO 2 level \u226550 mmHg for >30 s was defined as of bradypneic hypoventilation caused by a decrease in respiratory rate, and an ETCO 2 level of 0 mmHg for a minimum of 20 s was defined as apnea (18) .",
+        "section": "Outcome measures",
+        "section_number": 10,
+        "sentences": [
+            "Our primary outcomes were frequency of respiratory depression as measured by capnography and oxygen desaturations as measured by pulse oximetry, as well as staff interventions for these events; outcomes were graded by severity (Table 1) .",
+            "Respiratory depression included both hypopneic and bradypneic hypoventilation and apnea.",
+            "Based on sedation literature in spontaneously breathing, nonintubated patients, an ETCO 2 level \u226430 mmHg for >30 s without a rise in respiratory rate >50% of the patients mean value was defined as hypopneic hypoventilation caused by a decrease in tidal volume, an ETCO 2 level \u226550 mmHg for >30 s was defined as of bradypneic hypoventilation caused by a decrease in respiratory rate, and an ETCO 2 level of 0 mmHg for a minimum of 20 s was defined as apnea (18) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Given that each patient could experience more than one event during their course in the PACU, a repeated measures design using proportions was used to estimate our sample size by assuming 50 repeated measures with moderate correlation of 0.1. Data from a prior observational study were used in these calculations (19) ; for mild oxygen desaturation, hypopneic hypoventilation, and bradypneic hypoventilation, respectively, the timeaveraged proportions were 1.5%, 6%, and 2.6% per minute. A sample size of 100 subjects in each of randomized arm provides 80% power to detect odds ratio of 1.6, 1.4, and 1.3 for these adverse events, respectively, with a two-sided alpha level at 0.05.",
+        "section": "Sample size and data analysis",
+        "section_number": 11,
+        "sentences": [
+            "Given that each patient could experience more than one event during their course in the PACU, a repeated measures design using proportions was used to estimate our sample size by assuming 50 repeated measures with moderate correlation of 0.1.",
+            "Data from a prior observational study were used in these calculations (19) ; for mild oxygen desaturation, hypopneic hypoventilation, and bradypneic hypoventilation, respectively, the timeaveraged proportions were 1.5%, 6%, and 2.6% per minute.",
+            "A sample size of 100 subjects in each of randomized arm provides 80% power to detect odds ratio of 1.6, 1.4, and 1.3 for these adverse events, respectively, with a two-sided alpha level at 0.05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Patients' characteristics and the incidence rate for the primary outcomes were compared between two randomized arms. To account for repeated measures of binary events, a generalized estimating equation (GEE) approach was used to compare the occurrence of outcomes over time between the two arms with inclusion of time by group interaction, with covariates including age, weight, ethnicity, length of recovery, and type of surgery. The group mean predicted probability of outcomes at each time point was obtained from the GEE analysis and plotted on the observed proportion of outcomes. The predicted rate of complications per minute was derived from time effect in the model (i.e., the exponent of the time slope of log odds). The time by group interaction represented the slope difference between intervention and control (difference of rate per minute).",
+        "section": "Sample size and data analysis",
+        "section_number": 12,
+        "sentences": [
+            "Patients' characteristics and the incidence rate for the primary outcomes were compared between two randomized arms.",
+            "To account for repeated measures of binary events, a generalized estimating equation (GEE) approach was used to compare the occurrence of outcomes over time between the two arms with inclusion of time by group interaction, with covariates including age, weight, ethnicity, length of recovery, and type of surgery.",
+            "The group mean predicted probability of outcomes at each time point was obtained from the GEE analysis and plotted on the observed proportion of outcomes.",
+            "The predicted rate of complications per minute was derived from time effect in the model (i.e., the exponent of the time slope of log odds).",
+            "The time by group interaction represented the slope difference between intervention and control (difference of rate per minute)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "During the study period, there were 307 children consented, 211 randomized, and data from 201 children were analyzed for this study (Figure 1 ). Eighty children met the following exclusion criteria after consent was obtained: emergence delirium (40), did not tolerate the nasal-oral cannula (21) , complications on arrival to the PACU requiring interventions that precluded study enrollment such as bag-valve mask ventilation (14) , recovery on another unit (4), bandages on face (1). Patients who were excluded were more likely to be younger, have a history of snoring, have a history of OSA, and undergoing an otolaryngology procedure (Table S1 ). Data from 10 additional children who were randomized were lost due to a malfunction in the external drive where the data were transferred from the monitor, but could not be retrieved.",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "During the study period, there were 307 children consented, 211 randomized, and data from 201 children were analyzed for this study (Figure 1 ).",
+            "Eighty children met the following exclusion criteria after consent was obtained: emergence delirium (40), did not tolerate the nasal-oral cannula (21) , complications on arrival to the PACU requiring interventions that precluded study enrollment such as bag-valve mask ventilation (14) , recovery on another unit (4), bandages on face (1).",
+            "Patients who were excluded were more likely to be younger, have a history of snoring, have a history of OSA, and undergoing an otolaryngology procedure (Table S1 ).",
+            "Data from 10 additional children who were randomized were lost due to a malfunction in the external drive where the data were transferred from the monitor, but could not be retrieved."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Of the 201 children whose data were analyzed, 98 were in the control group and 103 were in the intervention group. Demographic data are presented in Table 2 . Ninety-four percent of patients received supplemental oxygen during their course in the PACU (92% control vs 95% intervention, P = 0.21) and 53% arrived with an oropharyngeal (OP) airway in place (51% control vs 54% intervention, P = 0.51). Median time until OP airway removal was similar between groups (21 min control vs 17 min intervention, P = 0.16). Additional medications for pain or anxiety were administered to nine patients in the control group and eight patients in the intervention group; the most common medication was fentanyl, received by 12 patients.",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Of the 201 children whose data were analyzed, 98 were in the control group and 103 were in the intervention group.",
+            "Demographic data are presented in Table 2 .",
+            "Ninety-four percent of patients received supplemental oxygen during their course in the PACU (92% control vs 95% intervention, P = 0.21) and 53% arrived with an oropharyngeal (OP) airway in place (51% control vs 54% intervention, P = 0.51).",
+            "Median time until OP airway removal was similar between groups (21 min control vs 17 min intervention, P = 0.16).",
+            "Additional medications for pain or anxiety were administered to nine patients in the control group and eight patients in the intervention group; the most common medication was fentanyl, received by 12 patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "While the proportions of subjects in each group who experienced at least one event were similar (Table 3) , the trajectories of respiratory event rates over time were significantly different between groups. After adjusting for age, weight, ethnicity, length of recovery, and type of surgery, the rate or the proportion of subjects with an episode of hypopneic hypoventilation during a minute of recovery decreased over time in both groups, but the change in rate was significantly greater in the intervention group (5% per minute vs 1% per minute; difference 4%, 95% CI: 0.2-8%; P = 0.04) ( Figure S1 ). The same trend was seen for apnea (intervention 11% per minute vs control 1.5% per minute, difference 10% per minute, 95% CI: 5-14%; P < 0.001) (Figure S2) . Bradypnea declined faster over time in the control group [5% per minute vs 1% per minute, difference 4% per minute, 95% CI: 0-9%; P = 0.05] ( Figure S3 ).",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "While the proportions of subjects in each group who experienced at least one event were similar (Table 3) , the trajectories of respiratory event rates over time were significantly different between groups.",
+            "After adjusting for age, weight, ethnicity, length of recovery, and type of surgery, the rate or the proportion of subjects with an episode of hypopneic hypoventilation during a minute of recovery decreased over time in both groups, but the change in rate was significantly greater in the intervention group (5% per minute vs 1% per minute; difference 4%, 95% CI: 0.2-8%; P = 0.04) ( Figure S1 ).",
+            "The same trend was seen for apnea (intervention 11% per minute vs control 1.5% per minute, difference 10% per minute, 95% CI: 5-14%; P < 0.001) (Figure S2) .",
+            "Bradypnea declined faster over time in the control group [5% per minute vs 1% per minute, difference 4% per minute, 95% CI: 0-9%; P = 0.05] ( Figure S3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Further stratified analysis demonstrated that these differences in hypoventilation events were significant only among patients who received an intervention. Among patients who received an intervention, the slope difference in declining likelihood of a hypopneic event between two arms was 9% per minute (95% CI: 2-13%; control \u00c01% per minute vs intervention \u00c09% per minute, P < 0.001). However, in patients who never received any intervention the difference was not significant (control \u00c03% per minute vs intervention 1% per minute; Difference 4% per minute, 95% CI: \u00c08% to 18%, P = 0.52) ( Figure 2 ). For bradypnea, the difference in slope of declining likelihood of an event occurring among patients who received an intervention was 9% per minute (95% CI: 2-15%; control \u00c010% per minute vs intervention \u00c02% per minute, P = 0.006), but was 0.1% per minute (95% CI: \u00c08% to 8%; control \u00c03% per minute vs intervention \u00c03% per minute, P = 0.98) in patients who never received any intervention ( Figure 3 ). For apnea, the difference in slope of declining likelihood of an event occurring was significant both among patients who received an intervention (difference 8% per minute, 95% CI: 2-14%; control \u00c02% per minute vs intervention \u00c011% per minute, P = 0.01) and among patients who never received any intervention (difference 26% per minute, 95% CI: 11-38%; control \u00c00.9% per minute vs intervention \u00c027% per minute, P = 0.001) ( Figure 4 ). There were no statistically significant differences between groups in the rates of oxygen desaturations. Hypopneic hypoventilation was associated with greater likelihood of mild oxygen desaturation (adjusted odds ratio 4.6, 95% CI: 1.2-18.1, P = 0.03). However, this association did not differ by group (P = 0.68).",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "Further stratified analysis demonstrated that these differences in hypoventilation events were significant only among patients who received an intervention.",
+            "Among patients who received an intervention, the slope difference in declining likelihood of a hypopneic event between two arms was 9% per minute (95% CI: 2-13%; control \u00c01% per minute vs intervention \u00c09% per minute, P < 0.001).",
+            "However, in patients who never received any intervention the difference was not significant (control \u00c03% per minute vs intervention 1% per minute; Difference 4% per minute, 95% CI: \u00c08% to 18%, P = 0.52) ( Figure 2 ).",
+            "For bradypnea, the difference in slope of declining likelihood of an event occurring among patients who received an intervention was 9% per minute (95% CI: 2-15%; control \u00c010% per minute vs intervention \u00c02% per minute, P = 0.006), but was 0.1% per minute (95% CI: \u00c08% to 8%; control \u00c03% per minute vs intervention \u00c03% per minute, P = 0.98) in patients who never received any intervention ( Figure 3 ).",
+            "For apnea, the difference in slope of declining likelihood of an event occurring was significant both among patients who received an intervention (difference 8% per minute, 95% CI: 2-14%; control \u00c02% per minute vs intervention \u00c011% per minute, P = 0.01) and among patients who never received any intervention (difference 26% per minute, 95% CI: 11-38%; control \u00c00.9% per minute vs intervention \u00c027% per minute, P = 0.001) ( Figure 4 ).",
+            "There were no statistically significant differences between groups in the rates of oxygen desaturations.",
+            "Hypopneic hypoventilation was associated with greater likelihood of mild oxygen desaturation (adjusted odds ratio 4.6, 95% CI: 1.2-18.1, P = 0.03).",
+            "However, this association did not differ by group (P = 0.68)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "This is the first randomized trial in children to assess the impact of capnography in the PACU. We demonstrated that patients monitored with capnography had reduced rates of hypopneic hypoventilation and apnea over time; however, there was an increase in rates of bradypnea. The rates of hypoventilation and apnea detected by capnography are higher than those previously reported when being measured by clinical examination findings or pulse oximetry (1-4). However, in an observational study conducted prior to this trial, we found similar rates by using capnography monitoring (19) . This is likely due to the superior sensitivity of capnography to detect respiratory events as compared with other monitoring techniques. The impact of capnography to detect and prevent inadequate ventilation and esophageal intubations in the OR has already been demonstrated (17, 20) . Adverse respiratory events are more common among children than adults, thus monitoring of ventilation in a pediatric unit may be of greater value (21, 22) . Many of our results mirror those found in the randomized controlled trial of pulse oximetry used by Moller (23) . The application of pulse oximetry was shown to significantly improve the detection of hypoxemia in the PACU; however, it did not impact the rate of postoperative complications. Now pulse oximetry monitoring is standard of care.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "This is the first randomized trial in children to assess the impact of capnography in the PACU.",
+            "We demonstrated that patients monitored with capnography had reduced rates of hypopneic hypoventilation and apnea over time; however, there was an increase in rates of bradypnea.",
+            "The rates of hypoventilation and apnea detected by capnography are higher than those previously reported when being measured by clinical examination findings or pulse oximetry (1-4).",
+            "However, in an observational study conducted prior to this trial, we found similar rates by using capnography monitoring (19) .",
+            "This is likely due to the superior sensitivity of capnography to detect respiratory events as compared with other monitoring techniques.",
+            "The impact of capnography to detect and prevent inadequate ventilation and esophageal intubations in the OR has already been demonstrated (17, 20) .",
+            "Adverse respiratory events are more common among children than adults, thus monitoring of ventilation in a pediatric unit may be of greater value (21, 22) .",
+            "Many of our results mirror those found in the randomized controlled trial of pulse oximetry used by Moller (23) .",
+            "The application of pulse oximetry was shown to significantly improve the detection of hypoxemia in the PACU; however, it did not impact the rate of postoperative complications.",
+            "Now pulse oximetry monitoring is standard of care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Capnography detected apnea in 29% of patients in this study. Our definition of apnea captured any event lasting >20 s. Cessation of breathing for a short time frame and while on supplemental oxygen would not likely impact pulse oximetry values, the primary mode of detection of apnea for many PACU patients. Patients in this study were not monitored by plethysmography, and while there was individual nursing care, staff were not continually monitoring respiratory rate. Although these events were mainly self-limited, brief periods of apnea may be a warning for more serious adverse events and should prompt close monitoring.",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "Capnography detected apnea in 29% of patients in this study.",
+            "Our definition of apnea captured any event lasting >20 s. Cessation of breathing for a short time frame and while on supplemental oxygen would not likely impact pulse oximetry values, the primary mode of detection of apnea for many PACU patients.",
+            "Patients in this study were not monitored by plethysmography, and while there was individual nursing care, staff were not continually monitoring respiratory rate.",
+            "Although these events were mainly self-limited, brief periods of apnea may be a warning for more serious adverse events and should prompt close monitoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "It is interesting that the rates of bradypnea did not decline as quickly in the intervention group over time unlike the rates of hypopneic hypoventilation or apnea. Staff may have intervened on patients differently depending on the patient information available to them (capnography vs clinical cues). As the information provided to staff at the onset of the study emphasized the difficulties in detecting hypopneic hypoventilation with clinical examination findings or pulse oximetry, staff may have been more vigilant in monitoring for abnormally low ETCO 2 values among their patients with capnography monitoring (hypopnea and apnea). In patients without capnography monitoring, a decline in respiratory rate (bradypnea) may have prompted interventions by staff. As the respiratory rates for patients with bradypnea were often within a normal range, staff may have been less concerned by elevated ETCO 2 values. However, as these are values that the staff in the control group could monitor over time, this may have prompted the interventions in this group accounting for the difference in rates. It appears that the staff interventions provided to patients in the intervention group were more effective at preventing future events from occurring. This may be due to the staff's ability to see immediate changes in the ETCO 2 values demonstrating that their intervention was efficacious. Similarly, interventions had less effect on subsequent rates of apnea than on the rates of hypoventilation. This may be indicative of the mechanisms of these events and potentially the need for more aggressive interventions for apnea. Overall, the number of interventions was low in both groups. Nurses were not mandated to intervene for all abnormal ETCO 2 values for this study. Several factors may influence a provider's impetus to perform an intervention. One of these is the threshold at which they feel the patient may be at risk of harm. While we chose our cutoffs for ETCO 2 based on the sedation literature in nonintubated patients, anesthesiologists and staff in the PACU may tolerate higher or lower values (18) . Furthermore, while one-on-one nursing is provided in the PACU, a patient's nurse is not necessarily at the bedside at all times. This may impact their ability to monitor trends in vital signs or react promptly to alarms. It is unclear whether the stimulation provided to patients was part of routine nursing behavior or uniformly increased in both groups as a result of the information that was provided to them at the start of the study.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "It is interesting that the rates of bradypnea did not decline as quickly in the intervention group over time unlike the rates of hypopneic hypoventilation or apnea.",
+            "Staff may have intervened on patients differently depending on the patient information available to them (capnography vs clinical cues).",
+            "As the information provided to staff at the onset of the study emphasized the difficulties in detecting hypopneic hypoventilation with clinical examination findings or pulse oximetry, staff may have been more vigilant in monitoring for abnormally low ETCO 2 values among their patients with capnography monitoring (hypopnea and apnea).",
+            "In patients without capnography monitoring, a decline in respiratory rate (bradypnea) may have prompted interventions by staff.",
+            "As the respiratory rates for patients with bradypnea were often within a normal range, staff may have been less concerned by elevated ETCO 2 values.",
+            "However, as these are values that the staff in the control group could monitor over time, this may have prompted the interventions in this group accounting for the difference in rates.",
+            "It appears that the staff interventions provided to patients in the intervention group were more effective at preventing future events from occurring.",
+            "This may be due to the staff's ability to see immediate changes in the ETCO 2 values demonstrating that their intervention was efficacious.",
+            "Similarly, interventions had less effect on subsequent rates of apnea than on the rates of hypoventilation.",
+            "This may be indicative of the mechanisms of these events and potentially the need for more aggressive interventions for apnea.",
+            "Overall, the number of interventions was low in both groups.",
+            "Nurses were not mandated to intervene for all abnormal ETCO 2 values for this study.",
+            "Several factors may influence a provider's impetus to perform an intervention.",
+            "One of these is the threshold at which they feel the patient may be at risk of harm.",
+            "While we chose our cutoffs for ETCO 2 based on the sedation literature in nonintubated patients, anesthesiologists and staff in the PACU may tolerate higher or lower values (18) .",
+            "Furthermore, while one-on-one nursing is provided in the PACU, a patient's nurse is not necessarily at the bedside at all times.",
+            "This may impact their ability to monitor trends in vital signs or react promptly to alarms.",
+            "It is unclear whether the stimulation provided to patients was part of routine nursing behavior or uniformly increased in both groups as a result of the information that was provided to them at the start of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "There was also no effect of capnography on the rates of oxygen desaturation in our cohort. This is understandable as it would take significant and prolonged respiratory depression to impact oxygen saturation when supplemental oxygen is being administered, as was the case in the majority of our patients (12, 14) . ",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "There was also no effect of capnography on the rates of oxygen desaturation in our cohort.",
+            "This is understandable as it would take significant and prolonged respiratory depression to impact oxygen saturation when supplemental oxygen is being administered, as was the case in the majority of our patients (12, 14) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Decreases in oxygen saturation occur relatively infrequently while supplemental oxygen is being administered. For this study, hypoxemia was defined as oxygen desaturation <95% while on supplemental oxygen and <93% while on room air concentration of oxygen. Although the direct patient morbidity associated with oxygen desaturations are unknown, the administration of supplemental oxygen without the ability to continuously monitor a patient's ventilatory status can mask continued respiratory depression, hypercarbia, and lead to respiratory arrest if no other interventions take place.",
+        "section": "Limitations",
+        "section_number": 21,
+        "sentences": [
+            "Decreases in oxygen saturation occur relatively infrequently while supplemental oxygen is being administered.",
+            "For this study, hypoxemia was defined as oxygen desaturation <95% while on supplemental oxygen and <93% while on room air concentration of oxygen.",
+            "Although the direct patient morbidity associated with oxygen desaturations are unknown, the administration of supplemental oxygen without the ability to continuously monitor a patient's ventilatory status can mask continued respiratory depression, hypercarbia, and lead to respiratory arrest if no other interventions take place."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "While capnography was observable in the intervention group, we cannot reliably control the behavior of staff responsible for patient monitoring and whether or not they decide to act upon these measurements. Nurses in the PACU were educated prior to study onset and informed that simple patient interventions could be provided when abnormal ETCO 2 values were encountered. Staff may have been more vigilant in their monitoring during this study, or impacted by observations taking place by study personnel. However, as capnography is a more sensitive tool than clinical examination, this would not likely affect their ability to detect hypoventilation. Similarly, both groups were subject to observations.",
+        "section": "Limitations",
+        "section_number": 22,
+        "sentences": [
+            "While capnography was observable in the intervention group, we cannot reliably control the behavior of staff responsible for patient monitoring and whether or not they decide to act upon these measurements.",
+            "Nurses in the PACU were educated prior to study onset and informed that simple patient interventions could be provided when abnormal ETCO 2 values were encountered.",
+            "Staff may have been more vigilant in their monitoring during this study, or impacted by observations taking place by study personnel.",
+            "However, as capnography is a more sensitive tool than clinical examination, this would not likely affect their ability to detect hypoventilation.",
+            "Similarly, both groups were subject to observations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "The rates of emergence delirium and inability to tolerate the nasal-oral cannula in our sample were similar to previously published data (19, 24, 25) . This did skew our sample to an older population with less history of airway obstruction and may impact the generalizability of our results. In our preceding observational study, no significant associations were found between these factors and hypoventilation or apnea. We aimed to enroll healthy patients with few exclusion criteria to enhance generalizability; however, the practices of the anesthesiology team and staff in the PACU at this institution, such as the use of supplemental oxygen, may differ from other institutions. As this study focused on monitoring in the PACU only, data on anesthesia management were not collected.",
+        "section": "Limitations",
+        "section_number": 23,
+        "sentences": [
+            "The rates of emergence delirium and inability to tolerate the nasal-oral cannula in our sample were similar to previously published data (19, 24, 25) .",
+            "This did skew our sample to an older population with less history of airway obstruction and may impact the generalizability of our results.",
+            "In our preceding observational study, no significant associations were found between these factors and hypoventilation or apnea.",
+            "We aimed to enroll healthy patients with few exclusion criteria to enhance generalizability; however, the practices of the anesthesiology team and staff in the PACU at this institution, such as the use of supplemental oxygen, may differ from other institutions.",
+            "As this study focused on monitoring in the PACU only, data on anesthesia management were not collected."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "We did not measure the impact of capnography monitoring on length of stay or cost. Similarly, we were unable to capture any serious adverse events such as the need for reintubation. Given that the rate of reintubation in the PACU is~0.2%, a much larger study would be needed to measure the impact of monitoring on prevention of these events. Further analyses would also need to be performed to evaluate the cost-effectiveness of monitoring.",
+        "section": "Limitations",
+        "section_number": 24,
+        "sentences": [
+            "We did not measure the impact of capnography monitoring on length of stay or cost.",
+            "Similarly, we were unable to capture any serious adverse events such as the need for reintubation.",
+            "Given that the rate of reintubation in the PACU is~0.2%, a much larger study would be needed to measure the impact of monitoring on prevention of these events.",
+            "Further analyses would also need to be performed to evaluate the cost-effectiveness of monitoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Lastly, while patients were on continuous monitoring, measurements were only recorded every 30 s. In order to capture significant events, definitions specified that abnormal values had to be present during two consecutive measurements. If analysis of continuous measurements were possible, our results may shift, as either more events would be captured or consecutive abnormalities would be found to not be consistently abnormal over the time period.",
+        "section": "Limitations",
+        "section_number": 25,
+        "sentences": [
+            "Lastly, while patients were on continuous monitoring, measurements were only recorded every 30 s. In order to capture significant events, definitions specified that abnormal values had to be present during two consecutive measurements.",
+            "If analysis of continuous measurements were possible, our results may shift, as either more events would be captured or consecutive abnormalities would be found to not be consistently abnormal over the time period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "Additional Supporting Information may be found in the online version of this article: Figure S1 Comparison of hypopneic hypoventilation events between the control and intervention groups over time (up to 35 min). The scatter plots show the observed proportion of events over time for two arms, while the lines represent the predicted probability of having events over time from GEE analysis. Figure S2 Comparison of apnea events between the control and intervention groups over time (up to 35 min). Figure S3 Comparison of bradypneic hypoventilation events between the control and intervention groups over time (up to 35 min). Table S1 Demographic data for excluded subjects compared to included subjects.",
+        "section": "Supporting information",
+        "section_number": 26,
+        "sentences": [
+            "Additional Supporting Information may be found in the online version of this article: Figure S1 Comparison of hypopneic hypoventilation events between the control and intervention groups over time (up to 35 min).",
+            "The scatter plots show the observed proportion of events over time for two arms, while the lines represent the predicted probability of having events over time from GEE analysis.",
+            "Figure S2 Comparison of apnea events between the control and intervention groups over time (up to 35 min).",
+            "Figure S3 Comparison of bradypneic hypoventilation events between the control and intervention groups over time (up to 35 min).",
+            "Table S1 Demographic data for excluded subjects compared to included subjects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33574",
+        "text": "\u00a9 2017 John Wiley & Sons Ltd Pediatric Anesthesia 27 (2017) 385-393",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "\u00a9 2017 John Wiley & Sons Ltd Pediatric Anesthesia 27 (2017) 385-393"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

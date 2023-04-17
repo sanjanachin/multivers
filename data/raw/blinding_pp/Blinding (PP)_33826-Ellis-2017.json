@@ -1,0 +1,803 @@
+[
+    {
+        "doc_id": "33826",
+        "text": "Background: African American adolescents with type 1 diabetes (T1D) are at elevated risk for poor diabetes management and metabolic control. Parental supervision and monitoring of adolescent diabetes management have been shown to promote better diabetes management among adolescents, but parents typically decrease their oversight during the transition to independent diabetes care. Introduction: The purpose of the study was to conduct a randomized clinical trial to test the feasibility and efficacy of a three-session, computer-delivered motivational intervention (The 3Ms) to promote increased parental monitoring among primary caregivers of young African American adolescents with T1D. The intervention was brief and optimized for delivery during routine diabetes clinic visits. Materials and Methods: Sixty-seven adolescents with T1D aged 11-14 and their primary caregiver were randomly assigned to one of three arms: adolescent and parent motivational intervention (Arm 1), adolescent control and parent motivational intervention (Arm 2), or adolescent and parent control (Arm 3). Intervention effects were assessed 1 month after intervention completion. Results: Parents in Arm 1 and Arm 2 had significant increases in knowledge of the importance of monitoring adolescents' diabetes care. Parents in Arm 2 also had trend to significant increases in direct observation and monitoring of adolescent diabetes care, and adolescents in Arm 2 had significant improvements in glycemic control. Discussion and Conclusions: Findings from the present study provide preliminary support for the efficacy of a brief, computerdelivered parenting intervention for improving family management practices and adolescent health outcomes among African American adolescents with T1D and their caregivers.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: African American adolescents with type 1 diabetes (T1D) are at elevated risk for poor diabetes management and metabolic control.",
+            "Parental supervision and monitoring of adolescent diabetes management have been shown to promote better diabetes management among adolescents, but parents typically decrease their oversight during the transition to independent diabetes care.",
+            "Introduction: The purpose of the study was to conduct a randomized clinical trial to test the feasibility and efficacy of a three-session, computer-delivered motivational intervention (The 3Ms) to promote increased parental monitoring among primary caregivers of young African American adolescents with T1D.",
+            "The intervention was brief and optimized for delivery during routine diabetes clinic visits.",
+            "Materials and Methods: Sixty-seven adolescents with T1D aged 11-14 and their primary caregiver were randomly assigned to one of three arms: adolescent and parent motivational intervention (Arm 1), adolescent control and parent motivational intervention (Arm 2), or adolescent and parent control (Arm 3).",
+            "Intervention effects were assessed 1 month after intervention completion.",
+            "Results: Parents in Arm 1 and Arm 2 had significant increases in knowledge of the importance of monitoring adolescents' diabetes care.",
+            "Parents in Arm 2 also had trend to significant increases in direct observation and monitoring of adolescent diabetes care, and adolescents in Arm 2 had significant improvements in glycemic control.",
+            "Discussion and Conclusions: Findings from the present study provide preliminary support for the efficacy of a brief, computerdelivered parenting intervention for improving family management practices and adolescent health outcomes among African American adolescents with T1D and their caregivers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "T ype 1 diabetes is a chronic health condition with a complex medical regimen that affects *120,000 children each year in the United States. Although maintenance of near-normal blood glucose is important to avoid complications, adolescents often have difficulty following the demanding self-care regimen required to achieve this goal, which includes administration of insulin, monitoring blood glucose levels, and tracking carbohydrate intake on a daily basis. Adolescents are more likely than children or adults to be poorly adherent with almost every aspect of type 1 diabetes (T1D) management. [1] [2] [3] [4] [5] Suboptimal diabetes management is an important factor in the development of chronic high blood glucose levels (poor metabolic control). 6 African American adolescents in particular have been found to be at significantly higher risk for problems with diabetes management and metabolic control. [7] [8] [9] [10] Parental monitoring refers to parenting behaviors that involve information seeking about the youth's daily activities, as well as direct supervision and oversight of those activities. 11 Low levels of parental monitoring have been linked to a broad range of problem adolescent behaviors, [12] [13] [14] [15] [16] [17] [18] including poor diabetes care. Adolescents whose parents reported higher levels of monitoring of diabetes care have been shown not only to have better illness management but also better metabolic control. [19] [20] [21] [22] [23] [24] Furthermore, particular styles of parental monitoring appear to be related to better adolescent diabetes management. While the most common form of parental monitoring is asking the adolescent whether or not diabetes care was completed, Ellis et al. 21 showed that only direct supervision and oversight of adolescent diabetes care were related to better diabetes management and metabolic control.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "T ype 1 diabetes is a chronic health condition with a complex medical regimen that affects *120,000 children each year in the United States.",
+            "Although maintenance of near-normal blood glucose is important to avoid complications, adolescents often have difficulty following the demanding self-care regimen required to achieve this goal, which includes administration of insulin, monitoring blood glucose levels, and tracking carbohydrate intake on a daily basis.",
+            "Adolescents are more likely than children or adults to be poorly adherent with almost every aspect of type 1 diabetes (T1D) management. [",
+            "1] [2] [3] [4] [5] Suboptimal diabetes management is an important factor in the development of chronic high blood glucose levels (poor metabolic control).",
+            "6 African American adolescents in particular have been found to be at significantly higher risk for problems with diabetes management and metabolic control. [",
+            "7] [8] [9] [10] Parental monitoring refers to parenting behaviors that involve information seeking about the youth's daily activities, as well as direct supervision and oversight of those activities.",
+            "11 Low levels of parental monitoring have been linked to a broad range of problem adolescent behaviors, [12] [13] [14] [15] [16] [17] [18] including poor diabetes care.",
+            "Adolescents whose parents reported higher levels of monitoring of diabetes care have been shown not only to have better illness management but also better metabolic control. [",
+            "19] [20] [21] [22] [23] [24] Furthermore, particular styles of parental monitoring appear to be related to better adolescent diabetes management.",
+            "While the most common form of parental monitoring is asking the adolescent whether or not diabetes care was completed, Ellis et al. 21 showed that only direct supervision and oversight of adolescent diabetes care were related to better diabetes management and metabolic control."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Close parental monitoring may be particularly important in contexts of social disadvantage such as low socioeconomic status neighborhoods 25 or in single parent families. 26 Despite studies showing the importance of parental monitoring, parents of adolescents with T1D typically reduce their involvement in illness management as adolescents enter adolescence regardless of the adolescent's capacity for selfcare. [27] [28] [29] [30] Palmer et al., 27 demonstrated that the decision to transfer responsibility for diabetes care to the adolescent was associated with parental factors such as stress related to having to supervise diabetes care. Thus, motivating parents to maintain high levels of monitoring of their adolescents' diabetes care may be crucial to ensuring that parents remain involved. Urban minority parents are at particular risk for high levels of stress associated with factors such as financial problems and neighborhood crime 31 and, therefore, maintaining parental motivation for monitoring adolescent diabetes care in this population may be even more critical.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Close parental monitoring may be particularly important in contexts of social disadvantage such as low socioeconomic status neighborhoods 25 or in single parent families.",
+            "26 Despite studies showing the importance of parental monitoring, parents of adolescents with T1D typically reduce their involvement in illness management as adolescents enter adolescence regardless of the adolescent's capacity for selfcare. [",
+            "27] [28] [29] [30] Palmer et al., 27 demonstrated that the decision to transfer responsibility for diabetes care to the adolescent was associated with parental factors such as stress related to having to supervise diabetes care.",
+            "Thus, motivating parents to maintain high levels of monitoring of their adolescents' diabetes care may be crucial to ensuring that parents remain involved.",
+            "Urban minority parents are at particular risk for high levels of stress associated with factors such as financial problems and neighborhood crime 31 and, therefore, maintaining parental motivation for monitoring adolescent diabetes care in this population may be even more critical."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Motivational Interviewing (MI) 32 is a client-centered directive method for enhancing intrinsic motivation to change behavior by exploring and resolving ambivalence. MI has a strong evidence base for improving adolescent and adult health behaviors, including diabetes management. [33] [34] [35] [36] It has also been used to motivate change in parenting behavior, including supervision and monitoring. 37, 38 However, as promising as brief interventions such as MI are, their use in the community has been hindered by a number of factors, including expenses related to training and problems achieving fidelity to the treatment model. [39] [40] [41] [42] [43] The delivery of successful interventions for behavior change such as MI by computer circumvents many of these barriers. 44, 45 For adolescents with T1D, who are seen regularly in pediatric diabetes clinics for medical management, clinic visits provide a natural opportunity to provide computer-delivered interventions to promote behavior change. While a few e-Health interventions for adolescents with T1D have been developed, [46] [47] [48] these interventions neither used MI, targeted at parenting behaviors related to diabetes care, nor focused on minority adolescents. Furthermore, these interventions were not found to be more efficacious than control interventions in improving diabetes management or HbA1c.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Motivational Interviewing (MI) 32 is a client-centered directive method for enhancing intrinsic motivation to change behavior by exploring and resolving ambivalence.",
+            "MI has a strong evidence base for improving adolescent and adult health behaviors, including diabetes management. [",
+            "33] [34] [35] [36] It has also been used to motivate change in parenting behavior, including supervision and monitoring.",
+            "37, 38 However, as promising as brief interventions such as MI are, their use in the community has been hindered by a number of factors, including expenses related to training and problems achieving fidelity to the treatment model. [",
+            "39] [40] [41] [42] [43] The delivery of successful interventions for behavior change such as MI by computer circumvents many of these barriers.",
+            "44, 45 For adolescents with T1D, who are seen regularly in pediatric diabetes clinics for medical management, clinic visits provide a natural opportunity to provide computer-delivered interventions to promote behavior change.",
+            "While a few e-Health interventions for adolescents with T1D have been developed, [46] [47] [48] these interventions neither used MI, targeted at parenting behaviors related to diabetes care, nor focused on minority adolescents.",
+            "Furthermore, these interventions were not found to be more efficacious than control interventions in improving diabetes management or HbA1c."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The aim of the present study was to conduct a randomized clinical trial to test the feasibility and preliminary efficacy of an e-Health intervention targeting parental motivation for monitoring adolescent diabetes care, called The 3Ms. The intervention targeted primary caregivers of young African American adolescents with T1D aged 10-14, an age when care of diabetes typically begins to transition from the parent to the adolescent. 27 A companion intervention focusing on adolescent motivation for im-proving their diabetes self-management was also tested in the randomized clinical trial. The rationale for the development of this companion intervention was that increased parental monitoring might be most effective when adolescents were also motivated to improve their diabetes care. Feasibility and preliminary efficacy were assessed from several standpoints, including recruitment and retention rates, rates of goal setting, and effects on target outcomes such as parental monitoring, diabetes management, and glycemic control. A secondary study aim was to evaluate any potential iatrogenic effects of the intervention, such as increased family conflict secondary to increased parental monitoring.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The aim of the present study was to conduct a randomized clinical trial to test the feasibility and preliminary efficacy of an e-Health intervention targeting parental motivation for monitoring adolescent diabetes care, called The 3Ms.",
+            "The intervention targeted primary caregivers of young African American adolescents with T1D aged 10-14, an age when care of diabetes typically begins to transition from the parent to the adolescent.",
+            "27 A companion intervention focusing on adolescent motivation for im-proving their diabetes self-management was also tested in the randomized clinical trial.",
+            "The rationale for the development of this companion intervention was that increased parental monitoring might be most effective when adolescents were also motivated to improve their diabetes care.",
+            "Feasibility and preliminary efficacy were assessed from several standpoints, including recruitment and retention rates, rates of goal setting, and effects on target outcomes such as parental monitoring, diabetes management, and glycemic control.",
+            "A secondary study aim was to evaluate any potential iatrogenic effects of the intervention, such as increased family conflict secondary to increased parental monitoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Participants were recruited using medical chart data based on age and diagnosis from pediatric endocrinology clinics located in two tertiary care teaching hospitals in a major Midwestern metropolitan area. All potentially eligible families were mailed a letter of introduction from the clinic regarding the study. Research staff followed up by phone to assess interest in participation and confirm eligibility; if the family expressed interest and was eligible, they were enrolled into the study at the adolescent's next diabetes clinic visit. All parents provided informed consent to participate and adolescents provided assent. The research protocol was approved by institutional research boards at the two sites. The trial was registered in ClinicalTrials.gov under registry number NCT01515930.",
+        "section": "PARTICIPANTS",
+        "section_number": 5,
+        "sentences": [
+            "Participants were recruited using medical chart data based on age and diagnosis from pediatric endocrinology clinics located in two tertiary care teaching hospitals in a major Midwestern metropolitan area.",
+            "All potentially eligible families were mailed a letter of introduction from the clinic regarding the study.",
+            "Research staff followed up by phone to assess interest in participation and confirm eligibility; if the family expressed interest and was eligible, they were enrolled into the study at the adolescent's next diabetes clinic visit.",
+            "All parents provided informed consent to participate and adolescents provided assent.",
+            "The research protocol was approved by institutional research boards at the two sites.",
+            "The trial was registered in ClinicalTrials.gov under registry number NCT01515930."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "To be eligible, adolescents had to self-identify as African American, be between 10 years 0 months and 13 years 11 months of age, and to have been diagnosed with T1D for a minimum of 6 months. The 6-month window since diagnosis was used to exclude families of adolescents who were newly diagnosed and still learning to complete daily diabetes management, as well as to ensure that adolescents' blood glucose levels would not be affected by the insulin ''honeymoon period'' that is common immediately after diagnosis with T1D when small amounts of endogenous insulin can still be produced. As the study involved a parenting intervention, the primary caregiver who self-identified as responsible for assisting with the majority of the adolescent's diabetes care had to agree to participate. Families were excluded if the parent or adolescent was diagnosed with a moderate or severe cognitive impairment, a serious mental health concern such as suicidality or psychosis, or did not speak English or if the parent who provided the majority of diabetes care was not the person who routinely accompanied the adolescent to the diabetes clinic, as the intervention was intended to be delivered in the clinic setting if possible.",
+        "section": "PARTICIPANTS",
+        "section_number": 6,
+        "sentences": [
+            "To be eligible, adolescents had to self-identify as African American, be between 10 years 0 months and 13 years 11 months of age, and to have been diagnosed with T1D for a minimum of 6 months.",
+            "The 6-month window since diagnosis was used to exclude families of adolescents who were newly diagnosed and still learning to complete daily diabetes management, as well as to ensure that adolescents' blood glucose levels would not be affected by the insulin ''honeymoon period'' that is common immediately after diagnosis with T1D when small amounts of endogenous insulin can still be produced.",
+            "As the study involved a parenting intervention, the primary caregiver who self-identified as responsible for assisting with the majority of the adolescent's diabetes care had to agree to participate.",
+            "Families were excluded if the parent or adolescent was diagnosed with a moderate or severe cognitive impairment, a serious mental health concern such as suicidality or psychosis, or did not speak English or if the parent who provided the majority of diabetes care was not the person who routinely accompanied the adolescent to the diabetes clinic, as the intervention was intended to be delivered in the clinic setting if possible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The target sample of 20 families per arm was selected based upon conventions for pilot studies, 49 and therefore, the study was not powered to detect significant differences in study end points. Families enrolled were randomly assigned to one of three treatment arms: Arm 1: parent and adolescent each received a motivational intervention, Arm 2: parent received a motivational intervention and adolescents received an attention control intervention, or Arm 3: parents and adolescents each received an attention control intervention. Randomization was stratified by child age (10.0-11.49 vs. 11.5-13.9) using a 1:1:1 ratio. Twentyfour were assigned to Arm 1 (MI Parent and MI Adolescent), 19 to Arm 2 (MI Parent and Educational Control Adolescent), and 24 to Arm 3 (Educational Control Parent and Educational Control Adolescent). All families also continued to receive standard medical care at their diabetes clinic during the trial.",
+        "section": "PARTICIPANTS",
+        "section_number": 7,
+        "sentences": [
+            "The target sample of 20 families per arm was selected based upon conventions for pilot studies, 49 and therefore, the study was not powered to detect significant differences in study end points.",
+            "Families enrolled were randomly assigned to one of three treatment arms: Arm 1: parent and adolescent each received a motivational intervention, Arm 2: parent received a motivational intervention and adolescents received an attention control intervention, or Arm 3: parents and adolescents each received an attention control intervention.",
+            "Randomization was stratified by child age (10.0-11.49 vs. 11.5-13.9) using a 1:1:1 ratio.",
+            "Twentyfour were assigned to Arm 1 (MI Parent and MI Adolescent), 19 to Arm 2 (MI Parent and Educational Control Adolescent), and 24 to Arm 3 (Educational Control Parent and Educational Control Adolescent).",
+            "All families also continued to receive standard medical care at their diabetes clinic during the trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Data were collected at baseline (T1) and 1 month after the completion of the intervention, which corresponded to 7 months postbaseline (T2). Parents and adolescents completed three intervention sessions (content described below). The first session was delivered immediately after baseline data collection, with the next two sessions delivered at 3 month intervals. T1 data collection and intervention sessions were scheduled at the time of the adolescent's routine diabetes clinic visits, while T2 data collection, which did not necessarily correspond to a clinic visit, was conducted in the clinic or the family's home depending on their preference. All data collection measures and the intervention content were administered using Internetbased software on a touch screen tablet computer. Families received a $40 incentive for completing each data collection.",
+        "section": "PROCEDURE",
+        "section_number": 8,
+        "sentences": [
+            "Data were collected at baseline (T1) and 1 month after the completion of the intervention, which corresponded to 7 months postbaseline (T2).",
+            "Parents and adolescents completed three intervention sessions (content described below).",
+            "The first session was delivered immediately after baseline data collection, with the next two sessions delivered at 3 month intervals.",
+            "T1 data collection and intervention sessions were scheduled at the time of the adolescent's routine diabetes clinic visits, while T2 data collection, which did not necessarily correspond to a clinic visit, was conducted in the clinic or the family's home depending on their preference.",
+            "All data collection measures and the intervention content were administered using Internetbased software on a touch screen tablet computer.",
+            "Families received a $40 incentive for completing each data collection."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "In both of the diabetes clinics from which participants were recruited, routine medical visits were scheduled at quarterly intervals according to American Diabetes Association standards of care for adolescents with diabetes. 50 If the family missed a clinic visit or did not schedule a clinic visit as expected, the intervention was delivered in the family's home within a 1-month window of the expected clinic visit. This allowed the effects of the full three session intervention to be evaluated independent of the effects of regular clinic attendance. For the purpose of establishing pilot efficacy data, intervention delivery was prioritized above real world effectiveness questions such as whether or not the intervention would have obtained the desired outcomes if only delivered in the clinic setting (i.e., if dose was highly variable).",
+        "section": "PROCEDURE",
+        "section_number": 9,
+        "sentences": [
+            "In both of the diabetes clinics from which participants were recruited, routine medical visits were scheduled at quarterly intervals according to American Diabetes Association standards of care for adolescents with diabetes.",
+            "50 If the family missed a clinic visit or did not schedule a clinic visit as expected, the intervention was delivered in the family's home within a 1-month window of the expected clinic visit.",
+            "This allowed the effects of the full three session intervention to be evaluated independent of the effects of regular clinic attendance.",
+            "For the purpose of establishing pilot efficacy data, intervention delivery was prioritized above real world effectiveness questions such as whether or not the intervention would have obtained the desired outcomes if only delivered in the clinic setting (i.e., if dose was highly variable)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The 3Ms intervention was developed using CIAS, a flexible, Internet-based interactive software that is optimized for delivery of motivational content. CIAS session content is delivered by a life-like animated narrator that speaks, moves, points, and displays emotional responses as appropriate. [51] [52] [53] In addition, content is modeled after the most recent version of MI-3, 54 which is specified by four strategies: (1) Engaging, (2) Focusing, (3) Evoking, and (4) Planning.",
+        "section": "THE 3MS INTERVENTION",
+        "section_number": 10,
+        "sentences": [
+            "The 3Ms intervention was developed using CIAS, a flexible, Internet-based interactive software that is optimized for delivery of motivational content.",
+            "CIAS session content is delivered by a life-like animated narrator that speaks, moves, points, and displays emotional responses as appropriate. [",
+            "51] [52] [53] In addition, content is modeled after the most recent version of MI-3, 54 which is specified by four strategies: (1) Engaging, (2) Focusing, (3) Evoking, and (4) Planning."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Engagement was accomplished through the narrator's communication style, which conveys empathy and optimism through reflections and summaries of client statements and provisions of affirmations. Focusing the parent on the potential value of parental monitoring was accomplished with psychoeducation (in this case, videos of a pediatric diabetologist and an African American parent discussing the potential advantages of monitoring adolescent diabetes care). The narrator evoked change talk and commitment language (i.e., statements regarding desires, reasons, needs, and abilities to make behavior change) by eliciting the parent's views regarding monitoring of their adolescent's diabetes care and seeking to tip the balance toward change using strategies such as eliciting the pros of behavior change, providing affirmations to reinforce change talk, and identifying the parent's strengths and resources. The parent was guided in the planning process through optional goal setting activities. Goal choices included following all the recommendations for daily monitoring of diabetes care, using some of the recommended strategies, but not committing to all of them, or thinking more about the recommendations before deciding whether or not to use them.",
+        "section": "THE 3MS INTERVENTION",
+        "section_number": 11,
+        "sentences": [
+            "Engagement was accomplished through the narrator's communication style, which conveys empathy and optimism through reflections and summaries of client statements and provisions of affirmations.",
+            "Focusing the parent on the potential value of parental monitoring was accomplished with psychoeducation (in this case, videos of a pediatric diabetologist and an African American parent discussing the potential advantages of monitoring adolescent diabetes care).",
+            "The narrator evoked change talk and commitment language (i.e., statements regarding desires, reasons, needs, and abilities to make behavior change) by eliciting the parent's views regarding monitoring of their adolescent's diabetes care and seeking to tip the balance toward change using strategies such as eliciting the pros of behavior change, providing affirmations to reinforce change talk, and identifying the parent's strengths and resources.",
+            "The parent was guided in the planning process through optional goal setting activities.",
+            "Goal choices included following all the recommendations for daily monitoring of diabetes care, using some of the recommended strategies, but not committing to all of them, or thinking more about the recommendations before deciding whether or not to use them."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The Information-Motivation-Behavioral Skills (IMB) model of health behavior change 55 proposes that behavior change results from the joint function of three critical components: accurate information about risk behaviors and their replacement health behaviors, motivation to change behavior, and behavioral skills necessary to perform the behavior (e.g., selfefficacy). Therefore, the intervention included informational content, as well as motivational components. The intervention's informational content was based on three recommendations for direct parental supervision and oversight of adolescent diabetes care, since our prior studies 21 suggest that direct supervision is the most effective form of parental monitoring for urban families. These three recommendations were termed The 3Ms. The 3Ms were as follows: (1) watch your child give as many doses of insulin each day as possible (Medicine), (2) check your child's blood glucose meter at least once a day (Meter), and (3) eat at least one meal each day with your child so carbohydrate counting can be monitored (Meals).",
+        "section": "THE 3MS INTERVENTION",
+        "section_number": 12,
+        "sentences": [
+            "The Information-Motivation-Behavioral Skills (IMB) model of health behavior change 55 proposes that behavior change results from the joint function of three critical components: accurate information about risk behaviors and their replacement health behaviors, motivation to change behavior, and behavioral skills necessary to perform the behavior (e.g., selfefficacy).",
+            "Therefore, the intervention included informational content, as well as motivational components.",
+            "The intervention's informational content was based on three recommendations for direct parental supervision and oversight of adolescent diabetes care, since our prior studies 21 suggest that direct supervision is the most effective form of parental monitoring for urban families.",
+            "These three recommendations were termed The 3Ms.",
+            "The 3Ms were as follows: (1) watch your child give as many doses of insulin each day as possible (Medicine), (2) check your child's blood glucose meter at least once a day (Meter), and (3) eat at least one meal each day with your child so carbohydrate counting can be monitored (Meals)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The adolescent intervention mirrored the parent intervention. However, the content was focused on motivating the adolescent to complete their own diabetes management using The 3Ms as follows: (1) take the correct dose of insulin every time you eat (Medicine), (2) check your blood glucose on your meter (Meter), and (3) count the carbohydrates in all meals and snacks (Meals). Informational components (i.e., videos) were also parallel to the parent version: one involved a physician discussing the value of diabetes care completion and the second was a peer testimonial from an African American adolescent regarding the value of completing diabetes care for improving blood glucose values.",
+        "section": "ADOLESCENT DIABETES SELF-MANAGEMENT INTERVENTION",
+        "section_number": 13,
+        "sentences": [
+            "The adolescent intervention mirrored the parent intervention.",
+            "However, the content was focused on motivating the adolescent to complete their own diabetes management using The 3Ms as follows: (1) take the correct dose of insulin every time you eat (Medicine), (2) check your blood glucose on your meter (Meter), and (3) count the carbohydrates in all meals and snacks (Meals).",
+            "Informational components (i.e., videos) were also parallel to the parent version: one involved a physician discussing the value of diabetes care completion and the second was a peer testimonial from an African American adolescent regarding the value of completing diabetes care for improving blood glucose values."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The attention control consisted of three sessions of educational content that were matched to The 3Ms for session length and delivery through tablet computer, using CIAS and its animated narrator to provide information. The sessions focused on three areas of general information of use to caregivers of and adolescents with diabetes: (1) risks associated with smoking for persons with T1D, (2) how to prepare for travelling when a person has T1D, and (3) emergency preparedness for persons with T1D. No motivational components or information regarding parenting skills were included in this condition.",
+        "section": "ATTENTION CONTROL",
+        "section_number": 14,
+        "sentences": [
+            "The attention control consisted of three sessions of educational content that were matched to The 3Ms for session length and delivery through tablet computer, using CIAS and its animated narrator to provide information.",
+            "The sessions focused on three areas of general information of use to caregivers of and adolescents with diabetes: (1) risks associated with smoking for persons with T1D, (2) how to prepare for travelling when a person has T1D, and (3) emergency preparedness for persons with T1D.",
+            "No motivational components or information regarding parenting skills were included in this condition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Knowledge of the need to monitor adolescent diabetes management. Parents were administered a 14 item questionnaire assessing information covered in the intervention videos regarding ways that monitoring can help to ensure better diabetes management. Item response set was true or false. Sample items were as follows: ''Parents usually know if their teen skips insulin doses whether they supervise them or not,'' ''Many children struggle to complete their diabetes care when they become teenagers,'' and ''The best way to find out if a teen counted their carbohydrates before eating is to just ask them if they did it.'' Correct responses were summed to generate a total score. Higher scores indicated higher knowledge.",
+        "section": "MEASURES",
+        "section_number": 15,
+        "sentences": [
+            "Knowledge of the need to monitor adolescent diabetes management.",
+            "Parents were administered a 14 item questionnaire assessing information covered in the intervention videos regarding ways that monitoring can help to ensure better diabetes management.",
+            "Item response set was true or false.",
+            "Sample items were as follows: ''Parents usually know if their teen skips insulin doses whether they supervise them or not,'' ''Many children struggle to complete their diabetes care when they become teenagers,'' and ''The best way to find out if a teen counted their carbohydrates before eating is to just ask them if they did it.''",
+            "Correct responses were summed to generate a total score.",
+            "Higher scores indicated higher knowledge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Parent motivation and self-efficacy for monitoring. Parent views of (1) the importance of monitoring their adolescent's diabetes care on a daily basis and (2) their confidence that they could engage in this parenting behavior each day were each measured using an adapted version of Rollnick's Readiness Ruler. 56 Parents indicated their ratings of importance and confidence on a scale from 1 (not important/not confident) to 100 (very important/very confident). Items were summed across three items assessing different areas of diabetes management behaviors to obtain a total importance and confidence score. Such behavior-specific rulers have been widely used in studies of motivation. [57] [58] [59] Alpha coefficients for the current study were 0.76 for both the importance and confidence rulers.",
+        "section": "MEASURES",
+        "section_number": 16,
+        "sentences": [
+            "Parent motivation and self-efficacy for monitoring.",
+            "Parent views of (1) the importance of monitoring their adolescent's diabetes care on a daily basis and (2) their confidence that they could engage in this parenting behavior each day were each measured using an adapted version of Rollnick's Readiness Ruler.",
+            "56 Parents indicated their ratings of importance and confidence on a scale from 1 (not important/not confident) to 100 (very important/very confident).",
+            "Items were summed across three items assessing different areas of diabetes management behaviors to obtain a total importance and confidence score.",
+            "Such behavior-specific rulers have been widely used in studies of motivation. [",
+            "57] [58] [59] Alpha coefficients for the current study were 0.76 for both the importance and confidence rulers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Parental monitoring. The Direct Observation/Presence subscale of the Parental Monitoring of Diabetes Care Scale-Revised (PMDC-R) 21, 60 assesses how often the parent is physically present or directly observes the adolescent's diabetes care, for example, ''How often did you watch your child test his/her blood glucose?'' Higher scores indicate more direct supervision of diabetes care. The PMDC-R has demonstrated good internal consistency (a = 0.81) and test-retest reliability (r = 0.80) and is predictive of illness management and metabolic control. 61 In the current study, internal consistency was good, a = 0.81.",
+        "section": "MEASURES",
+        "section_number": 17,
+        "sentences": [
+            "Parental monitoring.",
+            "The Direct Observation/Presence subscale of the Parental Monitoring of Diabetes Care Scale-Revised (PMDC-R) 21, 60 assesses how often the parent is physically present or directly observes the adolescent's diabetes care, for example, ''How often did you watch your child test his/her blood glucose?''",
+            "Higher scores indicate more direct supervision of diabetes care.",
+            "The PMDC-R has demonstrated good internal consistency (a = 0.81) and test-retest reliability (r = 0.80) and is predictive of illness management and metabolic control.",
+            "61 In the current study, internal consistency was good, a = 0.81."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Glycemic control. Glycemic control was assessed using hemoglobin A1c (HbA1c), an indirect retrospective measure of average blood glucose levels over the previous 2 to 3 months. Values were extracted from the adolescent's medical charts using a 1-month window before or after the research data collection. HbA1c was routinely collected at every outpatient diabetes clinic visit using the DCA 2000 system (Bayer, Elkhart, IN). 61 Lower scores indicate better glycemic control.",
+        "section": "MEASURES",
+        "section_number": 18,
+        "sentences": [
+            "Glycemic control.",
+            "Glycemic control was assessed using hemoglobin A1c (HbA1c), an indirect retrospective measure of average blood glucose levels over the previous 2 to 3 months.",
+            "Values were extracted from the adolescent's medical charts using a 1-month window before or after the research data collection.",
+            "HbA1c was routinely collected at every outpatient diabetes clinic visit using the DCA 2000 system (Bayer, Elkhart, IN).",
+            "61 Lower scores indicate better glycemic control."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Family conflict. The Global Distress subscale of the Parent-Adolescent Relationship Questionnaire (PARQ) 62 was used to assess adolescent perceptions of the degree of conflict in the parent-adolescent relationship to ensure that increased parental oversight did not lead to increased conflict. The PARQ is a measure of family conflict, cohesion, communication, and problem-solving skills previously used in studies of family conflict in adolescents with T1D, including treatment outcome studies. [63] [64] [65] Higher scores indicate higher levels of family conflict. Internal consistency in the present study was good, a = 0.87.",
+        "section": "MEASURES",
+        "section_number": 19,
+        "sentences": [
+            "Family conflict.",
+            "The Global Distress subscale of the Parent-Adolescent Relationship Questionnaire (PARQ) 62 was used to assess adolescent perceptions of the degree of conflict in the parent-adolescent relationship to ensure that increased parental oversight did not lead to increased conflict.",
+            "The PARQ is a measure of family conflict, cohesion, communication, and problem-solving skills previously used in studies of family conflict in adolescents with T1D, including treatment outcome studies. [",
+            "63] [64] [65] Higher scores indicate higher levels of family conflict.",
+            "Internal consistency in the present study was good, a = 0.87."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Goal setting. Rates were obtained from tracking data available in the CIAS software as assessed at the end of Session 1.",
+        "section": "MEASURES",
+        "section_number": 20,
+        "sentences": [
+            "Goal setting.",
+            "Rates were obtained from tracking data available in the CIAS software as assessed at the end of Session 1."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "All analyses were completed with SPSS, version 23 (IBM Analytics, www.ibm.com/analytics/us/en/technology/spss/). Missing data were estimated using the missing value analysis procedure and expectation-maximization estimation within SPSS. Paired t tests with directional hypotheses were used to evaluate the effect of the 3Ms. Covariates included duration of diabetes, adolescent age and gender, number of parents in the home (single parent vs. two parents), and family income. Given low power to detect differences, effect sizes were also calculated for each outcome variable using Cohen's formula for the standardized mean difference d (d = M diff/SD pooled diff). 66 ",
+        "section": "STATISTICAL ANALYSIS PLAN",
+        "section_number": 21,
+        "sentences": [
+            "All analyses were completed with SPSS, version 23 (IBM Analytics, www.ibm.com/analytics/us/en/technology/spss/).",
+            "Missing data were estimated using the missing value analysis procedure and expectation-maximization estimation within SPSS.",
+            "Paired t tests with directional hypotheses were used to evaluate the effect of the 3Ms.",
+            "Covariates included duration of diabetes, adolescent age and gender, number of parents in the home (single parent vs. two parents), and family income.",
+            "Given low power to detect differences, effect sizes were also calculated for each outcome variable using Cohen's formula for the standardized mean difference d (d = M diff/SD pooled diff).",
+            "66"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Sample demographics are shown in Table 1 . Adolescents were 12.1 years old on average, with a mean length of duration of diabetes of 4.6 years. Approximately half (56.1%) were female. The average HbA1c of adolescents in the sample was 10.6%, suggesting poor glycemic control. The majority of parents were female (87.5%) and were biological parents (87.5%).",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "Sample demographics are shown in Table 1 .",
+            "Adolescents were 12.1 years old on average, with a mean length of duration of diabetes of 4.6 years.",
+            "Approximately half (56.1%) were female.",
+            "The average HbA1c of adolescents in the sample was 10.6%, suggesting poor glycemic control.",
+            "The majority of parents were female (87.5%) and were biological parents (87.5%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "A total of 466 families were screened for eligibility (Fig. 1) ; of these, 372 were ineligible. Of the 94 eligible, 67 (71%) were enrolled into the study, 16 (17%) refused, and 11 (12%) indicated an interest, but could not be enrolled during the study enrollment window (e.g., did not keep a diabetes clinic appointment). Ninety-four percent of families were retained through the T4 data collection. One hundred percent of first intervention sessions were conducted in the diabetes clinic, 45% of second intervention sessions were conducted in the diabetes clinic, and 30% of third intervention sessions were conducted in the diabetes clinic.",
+        "section": "RECRUITMENT AND INTERVENTION FEASIBILITY",
+        "section_number": 23,
+        "sentences": [
+            "A total of 466 families were screened for eligibility (Fig. 1) ; of these, 372 were ineligible.",
+            "Of the 94 eligible, 67 (71%) were enrolled into the study, 16 (17%) refused, and 11 (12%) indicated an interest, but could not be enrolled during the study enrollment window (e.g., did not keep a diabetes clinic appointment).",
+            "Ninety-four percent of families were retained through the T4 data collection.",
+            "One hundred percent of first intervention sessions were conducted in the diabetes clinic, 45% of second intervention sessions were conducted in the diabetes clinic, and 30% of third intervention sessions were conducted in the diabetes clinic."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "At the end of the first intervention session, 87% of adolescents set a goal of following all steps recommended in The 3Ms program. Thirteen percent of adolescents chose not to follow all The 3Ms recommendations for daily diabetes management, but to take some steps to improve their diabetes care. No youth endorsed wanting to ''think more about it'' before taking steps to improve their diabetes management. All parents (100%) set a goal of following all steps of The 3Ms. IMB model constructs. Table 2 shows means and standard deviations for each outcome measure by treatment arm. There was a significant increase in parents' knowledge of the need to monitor in all three study arms ( p = 0.01 in all arms) from T1 to T2. The effect size for changes in knowledge were large for parents who received the monitoring intervention (Arm 1: d = 1.40; Arm 2: d = 1.48) and moderate for parents in the control condition (Arm 3: d = 0.55). There was no significant change in parental motivation for monitoring or self-efficacy for monitoring adolescent diabetes care in any arm. However, inspection of the mean level of motivation at baseline suggested that parents reported very high levels of motivation on the importance ruler (M = 9.1, SD = 1.3 on 1-10 scale) and confidence ruler (M = 9.3; SD = 0.9 on 1-10 scale) across the three groups.",
+        "section": "RECRUITMENT AND INTERVENTION FEASIBILITY",
+        "section_number": 24,
+        "sentences": [
+            "At the end of the first intervention session, 87% of adolescents set a goal of following all steps recommended in The 3Ms program.",
+            "Thirteen percent of adolescents chose not to follow all The 3Ms recommendations for daily diabetes management, but to take some steps to improve their diabetes care.",
+            "No youth endorsed wanting to ''think more about it'' before taking steps to improve their diabetes management.",
+            "All parents (100%) set a goal of following all steps of The 3Ms.",
+            "IMB model constructs.",
+            "Table 2 shows means and standard deviations for each outcome measure by treatment arm.",
+            "There was a significant increase in parents' knowledge of the need to monitor in all three study arms ( p = 0.01 in all arms) from T1 to T2.",
+            "The effect size for changes in knowledge were large for parents who received the monitoring intervention (Arm 1: d = 1.40; Arm 2: d = 1.48) and moderate for parents in the control condition (Arm 3: d = 0.55).",
+            "There was no significant change in parental motivation for monitoring or self-efficacy for monitoring adolescent diabetes care in any arm.",
+            "However, inspection of the mean level of motivation at baseline suggested that parents reported very high levels of motivation on the importance ruler (M = 9.1, SD = 1.3 on 1-10 scale) and confidence ruler (M = 9.3; SD = 0.9 on 1-10 scale) across the three groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Parental monitoring and glycemic control. As shown in Table 2 , parents in Arm 2 reported trend to significant increases in parental monitoring ( p = 0.08); the effect size was small (d = 0.35). Adolescents whose parents were assigned to Arm 2 had significant improvements in HbA1c ( p = 0.05) that were small to moderate (d = -0.42). Furthermore, the mean decrease in HbA1c was 0.6%; a change of 0.5% or greater is considered clinically significant and has been linked to reductions in diabetes complications. 67 Family conflict. There were no significant increases in family conflict over the course of the study in any treatment arm.",
+        "section": "RECRUITMENT AND INTERVENTION FEASIBILITY",
+        "section_number": 25,
+        "sentences": [
+            "Parental monitoring and glycemic control.",
+            "As shown in Table 2 , parents in Arm 2 reported trend to significant increases in parental monitoring ( p = 0.08); the effect size was small (d = 0.35).",
+            "Adolescents whose parents were assigned to Arm 2 had significant improvements in HbA1c ( p = 0.05) that were small to moderate (d = -0.42).",
+            "Furthermore, the mean decrease in HbA1c was 0.6%; a change of 0.5% or greater is considered clinically significant and has been linked to reductions in diabetes complications.",
+            "67 Family conflict.",
+            "There were no significant increases in family conflict over the course of the study in any treatment arm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "The purpose of the present study was to conduct a preliminary evaluation of the feasibility and efficacy of The 3Ms, a The median family income is reported with the interquartile range. ",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "The purpose of the present study was to conduct a preliminary evaluation of the feasibility and efficacy of The 3Ms, a The median family income is reported with the interquartile range."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "brief clinic-delivered intervention focused on motivating parents of African American adolescents to continue to supervise adolescent diabetes management during the transition to independent self-care. Children with special healthcare needs such as T1D consistently report difficulties obtaining healthcare and related services, with these disparities most evident for minorities. 68 There have been repeated calls for improvements in care coordination, including integrated behavioral and medical care, for adolescents with chronic health conditions. 69, 70 Brief, clinic-delivered behavioral health interventions that are delivered during specialty clinic visits are one means by which such services can be delivered.",
+        "section": "ELLIS ET AL.",
+        "section_number": 27,
+        "sentences": [
+            "brief clinic-delivered intervention focused on motivating parents of African American adolescents to continue to supervise adolescent diabetes management during the transition to independent self-care.",
+            "Children with special healthcare needs such as T1D consistently report difficulties obtaining healthcare and related services, with these disparities most evident for minorities.",
+            "68 There have been repeated calls for improvements in care coordination, including integrated behavioral and medical care, for adolescents with chronic health conditions.",
+            "69, 70 Brief, clinic-delivered behavioral health interventions that are delivered during specialty clinic visits are one means by which such services can be delivered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Recruitment (71%) and retention rates (94%) for the study were high, consistent with our previous findings 71, 72 that parents and adolescents felt the intervention content was useful and valuable. In addition, the majority of adolescents and all parents set goals that were consistent with The 3Ms recommendations, suggesting that the intervention content was acceptable and encouraged families to consider changing behavior. A significant number of the follow-up sessions were delivered in the home rather than in the diabetes clinic due to families not keeping appointments every 3 months as recommended. Making the intervention available through cellular devices may be one way to increase the likelihood that all three sessions would be delivered in future real-world settings. Future studies could also address whether three sessions were needed or whether a single dose delivered in the clinic would have been equally effective.",
+        "section": "ELLIS ET AL.",
+        "section_number": 28,
+        "sentences": [
+            "Recruitment (71%) and retention rates (94%) for the study were high, consistent with our previous findings 71, 72 that parents and adolescents felt the intervention content was useful and valuable.",
+            "In addition, the majority of adolescents and all parents set goals that were consistent with The 3Ms recommendations, suggesting that the intervention content was acceptable and encouraged families to consider changing behavior.",
+            "A significant number of the follow-up sessions were delivered in the home rather than in the diabetes clinic due to families not keeping appointments every 3 months as recommended.",
+            "Making the intervention available through cellular devices may be one way to increase the likelihood that all three sessions would be delivered in future real-world settings.",
+            "Future studies could also address whether three sessions were needed or whether a single dose delivered in the clinic would have been equally effective."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Results from the present study suggested that parents in each of the study arms had statistically significant increases in knowledge regarding the importance of supervising adolescent diabetes management. However, these effects were largest in the groups where parents received the MI intervention. Although parents may be encouraged to stay actively involved in their child's diabetes management during diabetes clinic visits (and anecdotally clinic staff reported having such conversations with parents of young adolescents), results suggest that the intervention was still efficacious in increasing parental awareness of the importance of direct oversight of care. Interestingly, in light of the apparently low knowledge of the need to monitor diabetes care, parents reported very high baseline levels of motivation to monitor, as well as high self-efficacy to perform such monitoring. There were no significant increases in either of these areas for any treatment arm. However, for families where parents received the motivational intervention and adolescents received the control intervention, there was a trend to significant increase in daily direct supervision and oversight of adolescent diabetes management one month after intervention completion, with an associated moderate effect size. Consistent with this, adolescents in this arm also had a significant improvement in glycemic control. Therefore, increases in parental supervision were associated with changes in health status. The lack of change in family conflict was notable in light of this increased parental oversight. This was of particular importance because given the brief nature of the intervention, parents who encountered significant resistance from the adolescent might have ceased to monitor. In addition, increased family conflict could have led to adverse effects such as decreased self-esteem on the part of the adolescent. In the present intervention, each parent set an individualized goal for increased supervision of their adolescent, which may have increased the likelihood that parents select a method of tracking diabetes management that was appropriate for their family and adolescent.",
+        "section": "ELLIS ET AL.",
+        "section_number": 29,
+        "sentences": [
+            "Results from the present study suggested that parents in each of the study arms had statistically significant increases in knowledge regarding the importance of supervising adolescent diabetes management.",
+            "However, these effects were largest in the groups where parents received the MI intervention.",
+            "Although parents may be encouraged to stay actively involved in their child's diabetes management during diabetes clinic visits (and anecdotally clinic staff reported having such conversations with parents of young adolescents), results suggest that the intervention was still efficacious in increasing parental awareness of the importance of direct oversight of care.",
+            "Interestingly, in light of the apparently low knowledge of the need to monitor diabetes care, parents reported very high baseline levels of motivation to monitor, as well as high self-efficacy to perform such monitoring.",
+            "There were no significant increases in either of these areas for any treatment arm.",
+            "However, for families where parents received the motivational intervention and adolescents received the control intervention, there was a trend to significant increase in daily direct supervision and oversight of adolescent diabetes management one month after intervention completion, with an associated moderate effect size.",
+            "Consistent with this, adolescents in this arm also had a significant improvement in glycemic control.",
+            "Therefore, increases in parental supervision were associated with changes in health status.",
+            "The lack of change in family conflict was notable in light of this increased parental oversight.",
+            "This was of particular importance because given the brief nature of the intervention, parents who encountered significant resistance from the adolescent might have ceased to monitor.",
+            "In addition, increased family conflict could have led to adverse effects such as decreased self-esteem on the part of the adolescent.",
+            "In the present intervention, each parent set an individualized goal for increased supervision of their adolescent, which may have increased the likelihood that parents select a method of tracking diabetes management that was appropriate for their family and adolescent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "No significant effects on either parental monitoring or glycemic control were found among families where both the parent and adolescent received a motivational intervention. The simultaneous promotion of improved adolescent selfmanagement might have been expected to optimize the parent intervention. However, it is also possible that promoting independent adolescent goal setting and self-efficacy for diabetes care did not fit well with concurrent increases in parental involvement. It was not possible to ensure that parents and adolescents remained blinded to each other's treatment assignment after the delivery of treatment sessions. Parents whose adolescent received the motivational intervention may have decided against increased monitoring if the adolescent verbalized an intention to improve their diabetes care. Regardless, no evidence was found to suggest the need to deliver a concurrent motivational intervention to the adolescent to ensure the effectiveness of The 3Ms.",
+        "section": "ELLIS ET AL.",
+        "section_number": 30,
+        "sentences": [
+            "No significant effects on either parental monitoring or glycemic control were found among families where both the parent and adolescent received a motivational intervention.",
+            "The simultaneous promotion of improved adolescent selfmanagement might have been expected to optimize the parent intervention.",
+            "However, it is also possible that promoting independent adolescent goal setting and self-efficacy for diabetes care did not fit well with concurrent increases in parental involvement.",
+            "It was not possible to ensure that parents and adolescents remained blinded to each other's treatment assignment after the delivery of treatment sessions.",
+            "Parents whose adolescent received the motivational intervention may have decided against increased monitoring if the adolescent verbalized an intention to improve their diabetes care.",
+            "Regardless, no evidence was found to suggest the need to deliver a concurrent motivational intervention to the adolescent to ensure the effectiveness of The 3Ms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 2
+    },
+    {
+        "doc_id": "33826",
+        "text": "Limitations of this pilot study include the small sample size and limited follow-up period. In addition, some intervention sessions were delivered in the home rather than in the clinic to ensure that the test of intervention efficacy was not confounded with intervention dose. The present study cannot address whether the full three sessions of the intervention were necessary. The 3Ms may be best suited to certain adolescents or families, such as those with low family conflict or high diabetes knowledge or skills. Future studies should focus on testing treatment moderators.",
+        "section": "ELLIS ET AL.",
+        "section_number": 31,
+        "sentences": [
+            "Limitations of this pilot study include the small sample size and limited follow-up period.",
+            "In addition, some intervention sessions were delivered in the home rather than in the clinic to ensure that the test of intervention efficacy was not confounded with intervention dose.",
+            "The present study cannot address whether the full three sessions of the intervention were necessary.",
+            "The 3Ms may be best suited to certain adolescents or families, such as those with low family conflict or high diabetes knowledge or skills.",
+            "Future studies should focus on testing treatment moderators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "Findings from the present study provide preliminary support for the efficacy of a brief, e-Health parenting intervention for improving health outcomes among African American adolescents with T1D. Motivational interventions focused on parenting practices are one means by which health outcomes can be improved in this population.",
+        "section": "ELLIS ET AL.",
+        "section_number": 32,
+        "sentences": [
+            "Findings from the present study provide preliminary support for the efficacy of a brief, e-Health parenting intervention for improving health outcomes among African American adolescents with T1D.",
+            "Motivational interventions focused on parenting practices are one means by which health outcomes can be improved in this population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "\u00aa MARY ANN LIE BERT, INC.",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "\u00aa MARY ANN LIE BERT, INC."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "\u00aa M A R Y A N N L I E B E R T , I N C .VOL. 23 NO. 6 JUNE 2017 TELEMEDICINE and e-HEALTH 495",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "\u00aa M A R Y A N N L I E B E R T , I N C .VOL.",
+            "23 NO.",
+            "6 JUNE 2017 TELEMEDICINE and e-HEALTH 495"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "\u00aa M A R Y A N N L I E B E R T , I N C .VOL. 23 NO. 6 JUNE 2017 TELEMEDICINE and e-HEALTH 497",
+        "section": "",
+        "section_number": 35,
+        "sentences": [
+            "\u00aa M A R Y A N N L I E B E R T , I N C .VOL.",
+            "23 NO.",
+            "6 JUNE 2017 TELEMEDICINE and e-HEALTH 497"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "\u00aa M A R Y A N N L I E B E R T , I N C . VOL. 23 NO. 6 JUNE 2017 TELEMEDICINE and e-HEALTH 499",
+        "section": "",
+        "section_number": 36,
+        "sentences": [
+            "\u00aa M A R Y A N N L I E B E R T , I N C .",
+            "VOL.",
+            "23 NO.",
+            "6 JUNE 2017 TELEMEDICINE and e-HEALTH 499"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33826",
+        "text": "\u00aa M A R Y A N N L I E B E R T , I N C . VOL. 23 NO. 6 JUNE 2017 TELEMEDICINE and e-HEALTH 501",
+        "section": "",
+        "section_number": 37,
+        "sentences": [
+            "\u00aa M A R Y A N N L I E B E R T , I N C .",
+            "VOL.",
+            "23 NO.",
+            "6 JUNE 2017 TELEMEDICINE and e-HEALTH 501"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

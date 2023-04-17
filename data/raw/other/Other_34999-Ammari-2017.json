@@ -1,0 +1,673 @@
+[
+    {
+        "doc_id": "34999",
+        "text": "Objective: Verbal counselling (VC) is the clinical standard for training patients on correct inhaler use. Patients fail to recall their VC with time. Ethical approval was obtained to compare the pressurized metered dose inhaler (pMDI) VC with Trainhaler (TH), a novel pMDI inhalation flow and technique training device, in children with asthma. Methods: At visit 1, 7e17 year-old children with a pMDI hand-lung coordination problem including a fast peak inhalation flow (PIF) through pMDI >60 L/min were randomized into either VC group that received verbal pMDI training; or into TH group that were trained on-and given TH to practice at home. Whereas, children with correct pMDI use formed the control group (CT). Overall pMDI technique, PIF through inhaler, asthma control (AC) and quality of life (QoL) were evaluated. Participants were re-evaluated 6e8 weeks later (visit 2). Results: Of 105 enrolled children; 76 completed the study (VC \u00bc 21, TH \u00bc 25 and CT \u00bc 30). VC decreased non-significantly (p > 0.05) the mean PIF from 104.0 L/min at visit 1 to 84.8 at visit 2. Whilst, the TH did significantly (p < 0.05) reduce the PIF from 113.5 to 71.4 L/min. The two approaches similarly and significantly (p < 0.05) improved the inhaler technique, AC and QoL scores. Conclusions: The TH improved the inhalation flow through the pMDI close to the ideal needed for adequate lung deposition. Both methods equally enhanced the children's mastery of pMDI use. This was reflected on better AC and QoL. Accessibility to TH might help maintaining the good inhaler use and decreasing regular VC.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: Verbal counselling (VC) is the clinical standard for training patients on correct inhaler use.",
+            "Patients fail to recall their VC with time.",
+            "Ethical approval was obtained to compare the pressurized metered dose inhaler (pMDI) VC with Trainhaler (TH), a novel pMDI inhalation flow and technique training device, in children with asthma.",
+            "Methods: At visit 1, 7e17 year-old children with a pMDI hand-lung coordination problem including a fast peak inhalation flow (PIF) through pMDI >60 L/min were randomized into either VC group that received verbal pMDI training; or into TH group that were trained on-and given TH to practice at home.",
+            "Whereas, children with correct pMDI use formed the control group (CT).",
+            "Overall pMDI technique, PIF through inhaler, asthma control (AC) and quality of life (QoL) were evaluated.",
+            "Participants were re-evaluated 6e8 weeks later (visit 2).",
+            "Results: Of 105 enrolled children; 76 completed the study (VC \u00bc 21, TH \u00bc 25 and CT \u00bc 30).",
+            "VC decreased non-significantly (p > 0.05) the mean PIF from 104.0 L/min at visit 1 to 84.8 at visit 2.",
+            "Whilst, the TH did significantly (p < 0.05) reduce the PIF from 113.5 to 71.4 L/min.",
+            "The two approaches similarly and significantly (p < 0.05) improved the inhaler technique, AC and QoL scores.",
+            "Conclusions: The TH improved the inhalation flow through the pMDI close to the ideal needed for adequate lung deposition.",
+            "Both methods equally enhanced the children's mastery of pMDI use.",
+            "This was reflected on better AC and QoL. Accessibility to TH might help maintaining the good inhaler use and decreasing regular VC."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The pressurized metered dose inhaler (pMDI) remains a key inhaler option in asthma management, [1, 2] . Despite its wide global prescription, patients commonly use their pMDIs improperly, [3e5] . Although the correct pMDI technique (Fig. 1 ) seems simple to understand and follow, many patients do forget the inhaler verbal training they frequently receive; particularly coordinating the start of a slow and deep inhalation flow through the inhaler with actuating its canister to release the aerosol, [6, 7] . A slow inhalation flow profile achieved by the patients through their pMDIs is critical for therapeutically adequate lung deposition; where a peak inhalation flow (PIF) in this profile should be slightly less than or around 30 L/min, [8, 9] . However, a PIF up to 60 L/min through the pMDI is acceptable when patients cannot learn to modulate their inspiratory efforts to achieve the slower PIF through their pressurized inhalers, [10] . Nevertheless, it has been reported that most patients using pMDIs inhale at a much faster flow (>100 L/min), [6, 7, 11] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The pressurized metered dose inhaler (pMDI) remains a key inhaler option in asthma management, [1, 2] .",
+            "Despite its wide global prescription, patients commonly use their pMDIs improperly, [3e5] .",
+            "Although the correct pMDI technique (Fig. 1 ) seems simple to understand and follow, many patients do forget the inhaler verbal training they frequently receive; particularly coordinating the start of a slow and deep inhalation flow through the inhaler with actuating its canister to release the aerosol, [6, 7] .",
+            "A slow inhalation flow profile achieved by the patients through their pMDIs is critical for therapeutically adequate lung deposition; where a peak inhalation flow (PIF) in this profile should be slightly less than or around 30 L/min, [8, 9] .",
+            "However, a PIF up to 60 L/min through the pMDI is acceptable when patients cannot learn to modulate their inspiratory efforts to achieve the slower PIF through their pressurized inhalers, [10] .",
+            "Nevertheless, it has been reported that most patients using pMDIs inhale at a much faster flow (>100 L/min), [6, 7, 11] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Using a spacer device with a pMDI improves drug delivery to lungs and decreases the risk of side effects, [12] . International Asthma Management Guidelines recommend using suitable spacers with pMDIs in all young children 5 years. In older patients, spacers can be used provided that the patients' pMDI adherence and compliance are not jeopardized. Poor adherence, which leads to poor asthma control, might arise from many factors such as therapy cost, multiple inhalers and poor understanding of inhaler use, cultural or social stigmatization, [12] . The latter can be a serious issue in school-aged children (>6 years) and adolescents, and probably is the reason why asthmatic children are prescribed and trained, when they are psychologically and physically fit, to start using their pMDIs alone without the bulky spacers, [13, 14] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Using a spacer device with a pMDI improves drug delivery to lungs and decreases the risk of side effects, [12] .",
+            "International Asthma Management Guidelines recommend using suitable spacers with pMDIs in all young children 5 years.",
+            "In older patients, spacers can be used provided that the patients' pMDI adherence and compliance are not jeopardized.",
+            "Poor adherence, which leads to poor asthma control, might arise from many factors such as therapy cost, multiple inhalers and poor understanding of inhaler use, cultural or social stigmatization, [12] .",
+            "The latter can be a serious issue in school-aged children (>6 years) and adolescents, and probably is the reason why asthmatic children are prescribed and trained, when they are psychologically and physically fit, to start using their pMDIs alone without the bulky spacers, [13, 14] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Patients prescribed pMDIs for the first time are normally verbally counselled (VC), with or without placebo inhaler demonstration, on the correct inhaler technique by their healthcare providers, [15] . However, only half of the trained patients managed to remember and maintain the good inhaler use within 30 days after the VC session [5] , and only 60% maintained their correct pMDI use even with a spacer attachment, [16] . Therefore, routine clinic-based check and reinforcement of the patients' mastery of correct inhaler technique is performed; a practice that can be a time, effort and cost burden in busy healthcare settings.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Patients prescribed pMDIs for the first time are normally verbally counselled (VC), with or without placebo inhaler demonstration, on the correct inhaler technique by their healthcare providers, [15] .",
+            "However, only half of the trained patients managed to remember and maintain the good inhaler use within 30 days after the VC session [5] , and only 60% maintained their correct pMDI use even with a spacer attachment, [16] .",
+            "Therefore, routine clinic-based check and reinforcement of the patients' mastery of correct inhaler technique is performed; a practice that can be a time, effort and cost burden in busy healthcare settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The Aerosol Drug Management Improvement Team (ADMIT) in Europe have stated in their report that inhaler training tools designed with feedback mechanisms of good inhalation flow and technique can help patients improving and maintaining their inhaler use, [17] . Trainhaler\u2122 (TH) is a recent pMDI training device developed by Clement Clarke International, United Kingdom. The TH (Fig. 2) has been designed to enhance the patient's Hand-Lung co-ordination along with a slow and deep inhalation flow through their pMDIs. When the patient inhales through the TH, they will hear a whistle sound as an audible feedback of the correct, slow inhalation flow (30e60 L/min). Once the whistling sound starts, this is the signal for the patient to immediately press the TH's canister which will produce a \"Whoosh\" noise feedback mimicking that of a real puff released from an actuated pMDI. The patient is instructed to change their inspiratory effort to keep the whistling sound going over at least 5 s. They will need, then, to simulate this manoeuvre when they use their real pMDI therapy. The current work aimed to compare the pMDI VC with the novel TH tool in 7e17 year-old children with asthma attending respiratory outpatient clinics. Clinical implications in asthma control and quality of life were also evaluated.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The Aerosol Drug Management Improvement Team (ADMIT) in Europe have stated in their report that inhaler training tools designed with feedback mechanisms of good inhalation flow and technique can help patients improving and maintaining their inhaler use, [17] .",
+            "Trainhaler\u2122 (TH) is a recent pMDI training device developed by Clement Clarke International, United Kingdom.",
+            "The TH (Fig. 2) has been designed to enhance the patient's Hand-Lung co-ordination along with a slow and deep inhalation flow through their pMDIs.",
+            "When the patient inhales through the TH, they will hear a whistle sound as an audible feedback of the correct, slow inhalation flow (30e60 L/min).",
+            "Once the whistling sound starts, this is the signal for the patient to immediately press the TH's canister which will produce a \"Whoosh\" noise feedback mimicking that of a real puff released from an actuated pMDI.",
+            "The patient is instructed to change their inspiratory effort to keep the whistling sound going over at least 5 s. They will need, then, to simulate this manoeuvre when they use their real pMDI therapy.",
+            "The current work aimed to compare the pMDI VC with the novel TH tool in 7e17 year-old children with asthma attending respiratory outpatient clinics.",
+            "Clinical implications in asthma control and quality of life were also evaluated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The approvals of the Research Ethics Committees at the Jordan University Hospital (Ref: IRB/2014/122) and at the Jordanian Ministry of Health (Ref: MOH/REC/150041) were obtained for this study which was conducted at the paediatric respiratory outpatient clinics of the involved hospitals according to Helsinki Declaration and Good Clinical Practice (ICH/GCP) Guidelines. Seven to 17 yearold children with asthma, male or female, who were originally prescribed and using pMDI therapy (without a spacer device) including a corticosteroid inhaler for at least 3 months prior to enrolment in this research were eligible for participation. Children were excluded from participation if they had experienced an acute exacerbation of asthma or had received oral prednisolone one month prior to recruitment, had other diseases adversely affecting their respiratory system or affecting their ability to use the pMDI or the TH tool by themselves, or if they were deaf or unable to distinguish the whistle tone produced by the TH. Eligible children, along with their parents, who agreed to take part in the study gave a written informed consent.",
+        "section": "Methods",
+        "section_number": 5,
+        "sentences": [
+            "The approvals of the Research Ethics Committees at the Jordan University Hospital (Ref: IRB/2014/122) and at the Jordanian Ministry of Health (Ref: MOH/REC/150041) were obtained for this study which was conducted at the paediatric respiratory outpatient clinics of the involved hospitals according to Helsinki Declaration and Good Clinical Practice (ICH/GCP) Guidelines.",
+            "Seven to 17 yearold children with asthma, male or female, who were originally prescribed and using pMDI therapy (without a spacer device) including a corticosteroid inhaler for at least 3 months prior to enrolment in this research were eligible for participation.",
+            "Children were excluded from participation if they had experienced an acute exacerbation of asthma or had received oral prednisolone one month prior to recruitment, had other diseases adversely affecting their respiratory system or affecting their ability to use the pMDI or the TH tool by themselves, or if they were deaf or unable to distinguish the whistle tone produced by the TH.",
+            "Eligible children, along with their parents, who agreed to take part in the study gave a written informed consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The current work was designed as an investigational, parallelgrouped, controlled randomized study that compared the effect of the conventional verbal pMDI training method with that of the novel TH tool in asthmatic children on the overall inhaler technique with emphasis on the patient's PIF through the inhaler and handlung coordination manoeuvre. The study was divided into 3 groups; a control group (CT) and two interventional groups. The latter were the pMDI verbal counselling (VC) and the TH groups. Allocation of subjects into the study groups was based on their initial pMDI inhalation flow and technique.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "The current work was designed as an investigational, parallelgrouped, controlled randomized study that compared the effect of the conventional verbal pMDI training method with that of the novel TH tool in asthmatic children on the overall inhaler technique with emphasis on the patient's PIF through the inhaler and handlung coordination manoeuvre.",
+            "The study was divided into 3 groups; a control group (CT) and two interventional groups.",
+            "The latter were the pMDI verbal counselling (VC) and the TH groups.",
+            "Allocation of subjects into the study groups was based on their initial pMDI inhalation flow and technique."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The study involved two clinic-based visits for each recruited patient, with a 6 to 8 week-gap between these visits. At the first recruitment visit, the age, gender, height and asthma medications of the participant were recorded. Then, the child's FEV 1 was measured using a portable spirometer. The child was then asked to complete both the Childhood Asthma Control Questionnaire (ACQ) [18] , and the Paediatric Asthma Quality of Life Questionnaire (PAQLQ), [19] . Whilst, their parents completed the Paediatric Asthma Caregivers Quality of Life Questionnaire (PACQLQ), [20] . The child was then asked to demonstrate their own, usual pMDI technique using a placebo inhaler which was checked against the 11-step most desirable pMDI technique (Fig. 1) . Afterwards, the PIF through a pMDI was measured using the In-Check Flow Meter \u00ae (Clement Clarke International Ltd, UK). Accordingly, those with good inhaler technique (defined as a good hand-lung co-ordination and a PIF of 60 L/min) formed the CT which was followed up without any interventions. However, for ethical considerations, any minor inhaler mistakes made by the CT children were verbally corrected. Whilst, children with a poor pMDI technique (defined as a poor hand-lung co-ordination and a PIF of >60 L/min) were randomized into either the VC group that were verbally trained on the correct pMDI steps described in Fig. 1 , or into the TH group that received the pMDI technique training (Fig. 1 ) by practicing the TH device. The TH children were trained on how to use this device and were given this tool to take home to practice with 2e3 times a day just before taking their real pMDI therapy. The training of the VC and TH children at visit 1 continued as described above until they adequately demonstrated the correct pMDI technique including a PIF 60 L/min. Those children were successively randomized into either the VC or TH groups according to a pre-study randomization list that was created online in which the two study interventions (VC and TH) were distributed randomly in balanced blocks of four (Sealed Envelope Ltd. Create a blocked randomization list. Available from: https://www.sealedenvelope.com/simplerandomiser/v1/lists).",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "The study involved two clinic-based visits for each recruited patient, with a 6 to 8 week-gap between these visits.",
+            "At the first recruitment visit, the age, gender, height and asthma medications of the participant were recorded.",
+            "Then, the child's FEV 1 was measured using a portable spirometer.",
+            "The child was then asked to complete both the Childhood Asthma Control Questionnaire (ACQ) [18] , and the Paediatric Asthma Quality of Life Questionnaire (PAQLQ), [19] .",
+            "Whilst, their parents completed the Paediatric Asthma Caregivers Quality of Life Questionnaire (PACQLQ), [20] .",
+            "The child was then asked to demonstrate their own, usual pMDI technique using a placebo inhaler which was checked against the 11-step most desirable pMDI technique (Fig. 1) .",
+            "Afterwards, the PIF through a pMDI was measured using the In-Check Flow Meter \u00ae (Clement Clarke International Ltd, UK).",
+            "Accordingly, those with good inhaler technique (defined as a good hand-lung co-ordination and a PIF of 60 L/min) formed the CT which was followed up without any interventions.",
+            "However, for ethical considerations, any minor inhaler mistakes made by the CT children were verbally corrected.",
+            "Whilst, children with a poor pMDI technique (defined as a poor hand-lung co-ordination and a PIF of >60 L/min) were randomized into either the VC group that were verbally trained on the correct pMDI steps described in Fig. 1 , or into the TH group that received the pMDI technique training (Fig. 1 ) by practicing the TH device.",
+            "The TH children were trained on how to use this device and were given this tool to take home to practice with 2e3 times a day just before taking their real pMDI therapy.",
+            "The training of the VC and TH children at visit 1 continued as described above until they adequately demonstrated the correct pMDI technique including a PIF 60 L/min.",
+            "Those children were successively randomized into either the VC or TH groups according to a pre-study randomization list that was created online in which the two study interventions (VC and TH) were distributed randomly in balanced blocks of four (Sealed Envelope Ltd. Create a blocked randomization list.",
+            "Available from: https://www.sealedenvelope.com/simplerandomiser/v1/lists)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "At the second study visit, the children demonstrated their pMDI technique using the placebo inhaler and their PIF through the pMDI was measured. The same tests and questionnaires previously performed during the enrollment visit were also repeated on this occasion. Changes to the participants' asthma medications over the study follow-up period were checked for and the reason for any changes, if any, was obtained.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "At the second study visit, the children demonstrated their pMDI technique using the placebo inhaler and their PIF through the pMDI was measured.",
+            "The same tests and questionnaires previously performed during the enrollment visit were also repeated on this occasion.",
+            "Changes to the participants' asthma medications over the study follow-up period were checked for and the reason for any changes, if any, was obtained."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The statistical analysis of the study data was carried out using the Statistical Package for Social Sciences software (IBM SPSS for windows, Version 20). The intention-to-treat approach was applied, where the results of the participants who only completed the two study visits were analyzed in the groups to which they were allocated. Parametric and normal distribution characteristics of these participants' results were checked first, using histograms and Kolmogorov-Smirnov and Shapiro-Wilk tests, before choosing the appropriate statistical tests. Descriptive statistics were presented as mean (standard deviation), median (25%; 75% quartiles), minimum and maximum values, frequencies and percentages; as appropriate. Comparisons within the same study group (visit 1 vs. visit 2) were performed using the related (paired)-samples t-test (for parametric data) and the Wilcoxon test (for non-parametric data). Whereas, pairwise comparisons between CT, VC and TH groups were performed using the independent-sample t-test (for parametric data) and the Mann-Whitney U test (for non-parametric data).",
+        "section": "Statistical analysis",
+        "section_number": 9,
+        "sentences": [
+            "The statistical analysis of the study data was carried out using the Statistical Package for Social Sciences software (IBM SPSS for windows, Version 20).",
+            "The intention-to-treat approach was applied, where the results of the participants who only completed the two study visits were analyzed in the groups to which they were allocated.",
+            "Parametric and normal distribution characteristics of these participants' results were checked first, using histograms and Kolmogorov-Smirnov and Shapiro-Wilk tests, before choosing the appropriate statistical tests.",
+            "Descriptive statistics were presented as mean (standard deviation), median (25%; 75% quartiles), minimum and maximum values, frequencies and percentages; as appropriate.",
+            "Comparisons within the same study group (visit 1 vs. visit 2) were performed using the related (paired)-samples t-test (for parametric data) and the Wilcoxon test (for non-parametric data).",
+            "Whereas, pairwise comparisons between CT, VC and TH groups were performed using the independent-sample t-test (for parametric data) and the Mann-Whitney U test (for non-parametric data)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Children enrollment started in early 2014 and the last patient out was in early 2016. Two hundred and eighty two children were screened for eligibility of which 105 gave consent, were allocated into the study groups and completed visit 1. However, 76 (72.4%) children completed the second study visit as per the study protocol; CT (n \u00bc 30), VC (n \u00bc 21) and TH (n \u00bc 25), whose data was used for the comparative statistical analyses of the study outcome measures. No changes in the children's asthma medications were noticed throughout their study enrollment. Fig. 3 presents a consort flow diagram of the study progress. A summary of the demographics and lung function of the children who completed the two study visits (n \u00bc 76) is presented in Table 1 .",
+        "section": "Results",
+        "section_number": 10,
+        "sentences": [
+            "Children enrollment started in early 2014 and the last patient out was in early 2016.",
+            "Two hundred and eighty two children were screened for eligibility of which 105 gave consent, were allocated into the study groups and completed visit 1.",
+            "However, 76 (72.4%) children completed the second study visit as per the study protocol; CT (n \u00bc 30), VC (n \u00bc 21) and TH (n \u00bc 25), whose data was used for the comparative statistical analyses of the study outcome measures.",
+            "No changes in the children's asthma medications were noticed throughout their study enrollment.",
+            "Fig. 3 presents a consort flow diagram of the study progress.",
+            "A summary of the demographics and lung function of the children who completed the two study visits (n \u00bc 76) is presented in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "At visit 1, the pairwise comparisons of the FEV 1 % predicted showed significant difference (p < 0.05) between the CT and TH groups only. Whilst, no significant difference (p > 0.05) in the FEV 1 % predicted was found among all study groups at visit 2. Similarly, the statistical analysis showed no significant differences (p > 0.05) in the FEV 1 % predicted between the two visits within each study group (Table 2) .",
+        "section": "Results",
+        "section_number": 11,
+        "sentences": [
+            "At visit 1, the pairwise comparisons of the FEV 1 % predicted showed significant difference (p < 0.05) between the CT and TH groups only.",
+            "Whilst, no significant difference (p > 0.05) in the FEV 1 % predicted was found among all study groups at visit 2.",
+            "Similarly, the statistical analysis showed no significant differences (p > 0.05) in the FEV 1 % predicted between the two visits within each study group (Table 2) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "At the second visit, 26 (56.5%) children continued to have the slow PIF through their inhaler; 9 (42.9%) VC and 17 (68%) TH. However, only 24 (80%) CT children continued to inhale slowly through their inhaler at visit 2. For the CT, the Wilcoxon test showed that the difference in the PIF between visit 1 (M \u00bc 48.5; SD \u00bc 11.5) and visit 2 (M \u00bc 59.0; SD \u00bc 24.1) was statistically significant: z-statistic \u00bc \u00c02.215 (p \u00bc 0.027). For the VC, the decrease in the PIF between visit 1 (M \u00bc 104.0; SD \u00bc 39.2) and visit 2 (M \u00bc 84.8; SD \u00bc 49.8) was not statistically significant: z-statistic \u00bc \u00c01.814 (p \u00bc 0.070). Whilst for the TH, the decrease in the PIF between visit 1 (M \u00bc 113.5; SD \u00bc 33.9) and visit 2 (M \u00bc 71.4; SD \u00bc 32.7) was statistically significant: z-statistic \u00bc \u00c03.555 (p < 0.001). Moreover, pairwise Mann-Whitney U test comparisons of the PIF (at visit 1, at visit 2 and for the change (D) in PIF between the two visits) among the three study groups were done; the results are presented in Table 3 . Fig. 4 shows the individual PIF at visits 1 and 2 for the 3 study groups.",
+        "section": "Results",
+        "section_number": 12,
+        "sentences": [
+            "At the second visit, 26 (56.5%) children continued to have the slow PIF through their inhaler; 9 (42.9%) VC and 17 (68%) TH.",
+            "However, only 24 (80%) CT children continued to inhale slowly through their inhaler at visit 2.",
+            "For the CT, the Wilcoxon test showed that the difference in the PIF between visit 1 (M \u00bc 48.5; SD \u00bc 11.5) and visit 2 (M \u00bc 59.0; SD \u00bc 24.1) was statistically significant: z-statistic \u00bc \u00c02.215 (p \u00bc 0.027).",
+            "For the VC, the decrease in the PIF between visit 1 (M \u00bc 104.0; SD \u00bc 39.2) and visit 2 (M \u00bc 84.8; SD \u00bc 49.8) was not statistically significant: z-statistic \u00bc \u00c01.814 (p \u00bc 0.070).",
+            "Whilst for the TH, the decrease in the PIF between visit 1 (M \u00bc 113.5; SD \u00bc 33.9) and visit 2 (M \u00bc 71.4; SD \u00bc 32.7) was statistically significant: z-statistic \u00bc \u00c03.555 (p < 0.001).",
+            "Moreover, pairwise Mann-Whitney U test comparisons of the PIF (at visit 1, at visit 2 and for the change (D) in PIF between the two visits) among the three study groups were done; the results are presented in Table 3 .",
+            "Fig. 4 shows the individual PIF at visits 1 and 2 for the 3 study groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The participants' overall pMDI technique (11 steps), at both visit 1 and visit 2 was evaluated. The median (quartiles) of the incorrect pMDI technique steps at visit 1 was: 4.5 (0; 7) for the CT, 10 (5.5; 10.0) for the VC and 8 (6.0; 10.0) for the TH. Whereas, at visit 2 the median (quartiles) of the incorrect pMDI technique steps was: 3 (0; 4) for the CT, 1 (0; 2.0) for the VC and 0 (0; 1.5) for the TH. Frequencies of the children with incorrect pMDI steps at both visits, for the VC, TH and CT groups are presented in Figs. 5e7, respectively. The Wilcoxon test showed a non-significant difference (zstatistic \u00bc \u00c01.65; p \u00bc 0.099) in the incorrect pMDI steps between visits 1 and 2, within the CT group. Whilst, the difference was statistically significant within the VC (z-statistic \u00bc \u00c04.03; p < 0.001) and within the TH (z-statistic \u00bc \u00c04.39; p < 0.001) groups. On the other hand, the independent-samples Mann-Whitney U test showed significant differences in the incorrectly preformed pMDI steps between the CT and the VC at both visit 1 (U \u00bc 93.5; z \u00bc \u00c04.3; p < 0.001) and at visit 2 (U \u00bc 207.0; z \u00bc \u00c02.2; p \u00bc 0.031). Similarly, significant differences in the incorrect inhaler steps was found between the CT and the TH at both visit 1 (U \u00bc 129.0; z \u00bc \u00c04.2; p < 0.001) and at visit 2 (U \u00bc 211.5; z \u00bc \u00c02.9; p < 0.001). Whereas, no significant differences in the incorrect pMDI steps were found between the VC and the TH at both visit 1 (U \u00bc 218.0; z \u00bc \u00c01.0; p \u00bc 0.317) and at visit 2 (U \u00bc 216.0; z \u00bc \u00c01.1; p \u00bc 0.260).",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "The participants' overall pMDI technique (11 steps), at both visit 1 and visit 2 was evaluated.",
+            "The median (quartiles) of the incorrect pMDI technique steps at visit 1 was: 4.5 (0; 7) for the CT, 10 (5.5; 10.0) for the VC and 8 (6.0; 10.0) for the TH.",
+            "Whereas, at visit 2 the median (quartiles) of the incorrect pMDI technique steps was: 3 (0; 4) for the CT, 1 (0; 2.0) for the VC and 0 (0; 1.5) for the TH.",
+            "Frequencies of the children with incorrect pMDI steps at both visits, for the VC, TH and CT groups are presented in Figs. 5e7, respectively.",
+            "The Wilcoxon test showed a non-significant difference (zstatistic \u00bc \u00c01.65; p \u00bc 0.099) in the incorrect pMDI steps between visits 1 and 2, within the CT group.",
+            "Whilst, the difference was statistically significant within the VC (z-statistic \u00bc \u00c04.03; p < 0.001) and within the TH (z-statistic \u00bc \u00c04.39; p < 0.001) groups.",
+            "On the other hand, the independent-samples Mann-Whitney U test showed significant differences in the incorrectly preformed pMDI steps between the CT and the VC at both visit 1 (U \u00bc 93.5; z \u00bc \u00c04.3; p < 0.001) and at visit 2 (U \u00bc 207.0; z \u00bc \u00c02.2; p \u00bc 0.031).",
+            "Similarly, significant differences in the incorrect inhaler steps was found between the CT and the TH at both visit 1 (U \u00bc 129.0; z \u00bc \u00c04.2; p < 0.001) and at visit 2 (U \u00bc 211.5; z \u00bc \u00c02.9; p < 0.001).",
+            "Whereas, no significant differences in the incorrect pMDI steps were found between the VC and the TH at both visit 1 (U \u00bc 218.0; z \u00bc \u00c01.0; p \u00bc 0.317) and at visit 2 (U \u00bc 216.0; z \u00bc \u00c01.1; p \u00bc 0.260)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Asthma control was evaluated. For the CT group, the Wilcoxon test showed that the difference in the ACQ scores between visit 1 (M \u00bc 2.00; SD \u00bc 1.12) and visit 2 (M \u00bc 0.86; SD \u00bc 0.76) was statistically significant: z-statistic \u00bc \u00c04.34 (p < 0.001). For the VC, the ACQ difference between visit 1 (M \u00bc 2.08; SD \u00bc 1.58) and visit 2 (M \u00bc 0.86; SD \u00bc 0.70) was statistically significant: zstatistic \u00bc \u00c02.86 (p < 0.01). Similarly, for the TH, the ACQ difference between visit 1 (M \u00bc 2.27; SD \u00bc 1.17) and visit 2 (M \u00bc 0.86; SD \u00bc 0.83) was statistically significant: z-statistic \u00bc \u00c04.05 (p < 0.001). Table 4 presents the frequencies of the CT, VC and TH children in the clinical ACQ minimum important difference (MID) cut-point categories. The Mann-Whitney U test showed that there were no significant differences (p > 0.05) in asthma control among the CT, VC and TH at both visits 1 and 2.",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Asthma control was evaluated.",
+            "For the CT group, the Wilcoxon test showed that the difference in the ACQ scores between visit 1 (M \u00bc 2.00; SD \u00bc 1.12) and visit 2 (M \u00bc 0.86; SD \u00bc 0.76) was statistically significant: z-statistic \u00bc \u00c04.34 (p < 0.001).",
+            "For the VC, the ACQ difference between visit 1 (M \u00bc 2.08; SD \u00bc 1.58) and visit 2 (M \u00bc 0.86; SD \u00bc 0.70) was statistically significant: zstatistic \u00bc \u00c02.86 (p < 0.01).",
+            "Similarly, for the TH, the ACQ difference between visit 1 (M \u00bc 2.27; SD \u00bc 1.17) and visit 2 (M \u00bc 0.86; SD \u00bc 0.83) was statistically significant: z-statistic \u00bc \u00c04.05 (p < 0.001).",
+            "Table 4 presents the frequencies of the CT, VC and TH children in the clinical ACQ minimum important difference (MID) cut-point categories.",
+            "The Mann-Whitney U test showed that there were no significant differences (p > 0.05) in asthma control among the CT, VC and TH at both visits 1 and 2."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The children completed the 23-question PAQLQ. These equallyweighted questions evaluated 3 asthma-related domains; the symptoms (10 questions), activity limitation (5 questions) and emotional function impairment (8 questions). For each question, the children had to choose one option on a 7-point scale (1 \u00bc maximal limitation, and 7 \u00bc no limitation). The means of the responses represented the overall PAQLQ (23 questions) and its domains' quality of life. A score change of !0.50, over the patients' follow-up period, was the clinically minimal important difference (MID) for the overall PAQLQ and its 3 domains. Table 5 presents the mean (SD) of the PAQLQ scores at visit 1 and visit 2. The PAQLQ scores' comparison between visits 1 and 2, within each study group, is presented in Table 6 . The results showed that all differences in the overall PAQLQ and its domains were statistically Table 7 .",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "The children completed the 23-question PAQLQ.",
+            "These equallyweighted questions evaluated 3 asthma-related domains; the symptoms (10 questions), activity limitation (5 questions) and emotional function impairment (8 questions).",
+            "For each question, the children had to choose one option on a 7-point scale (1 \u00bc maximal limitation, and 7 \u00bc no limitation).",
+            "The means of the responses represented the overall PAQLQ (23 questions) and its domains' quality of life.",
+            "A score change of !",
+            "0.50, over the patients' follow-up period, was the clinically minimal important difference (MID) for the overall PAQLQ and its 3 domains.",
+            "Table 5 presents the mean (SD) of the PAQLQ scores at visit 1 and visit 2.",
+            "The PAQLQ scores' comparison between visits 1 and 2, within each study group, is presented in Table 6 .",
+            "The results showed that all differences in the overall PAQLQ and its domains were statistically Table 7 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The parents completed the 13-question PACQLQ. These equallyweighted questions evaluated 2 domains; the activity limitation (4 questions) and emotional function impairment (9 questions). For each question, the parent had to choose one option on a 7-point scale (1 \u00bc maximal limitation, and 7 \u00bc no limitation). The means of the responses represented the overall PACQLQ (13 questions) and its domains' quality of life. A score change of !0.50, over the study follow-up period, was the clinically minimal important difference (MID) for the overall PACQLQ and its domains. Table 8 presents the mean (SD) of the PACQLQ scores at visit 1 and visit 2. Wilcoxon Signed Ranks test compared the PACQLQ scores between visit 1 and visit 2. The results showed that within the CT, a significant difference was found in the overall PACQLQ (z-statistic \u00bc \u00c04.4, p < 0.001), activity limitation (z-statistic \u00bc \u00c04.5, p < 0.001) and emotional function (z-statistic \u00bc \u00c04.3, p < 0.001) domains. Similarly, a significant difference was found in the overall PACQLQ (zstatistic \u00bc \u00c03.7, p < 0.001), activity limitation (z-statistic \u00bc \u00c03.3, p < 0.001) and emotional function (z-statistic \u00bc \u00c03.7, p < 0.001) domains within the TH. Differences in the overall PACQLQ (zstatistic \u00bc \u00c02.2, p \u00bc 0.025) and emotional function (zstatistic \u00bc \u00c02.2, p \u00bc 0.030) were significant within the VC. Whereas, it was not significant for the activity limitation domain (p > 0.05). Additionally, pairwise comparisons among the CT, VC and TH for the PACQLQ scores at visit 1 and at visit 2 were performed, with comparisons for the change (D) in the PACQLQ scores (Table 9 ).",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "The parents completed the 13-question PACQLQ.",
+            "These equallyweighted questions evaluated 2 domains; the activity limitation (4 questions) and emotional function impairment (9 questions).",
+            "For each question, the parent had to choose one option on a 7-point scale (1 \u00bc maximal limitation, and 7 \u00bc no limitation).",
+            "The means of the responses represented the overall PACQLQ (13 questions) and its domains' quality of life.",
+            "A score change of !",
+            "0.50, over the study follow-up period, was the clinically minimal important difference (MID) for the overall PACQLQ and its domains.",
+            "Table 8 presents the mean (SD) of the PACQLQ scores at visit 1 and visit 2.",
+            "Wilcoxon Signed Ranks test compared the PACQLQ scores between visit 1 and visit 2.",
+            "The results showed that within the CT, a significant difference was found in the overall PACQLQ (z-statistic \u00bc \u00c04.4, p < 0.001), activity limitation (z-statistic \u00bc \u00c04.5, p < 0.001) and emotional function (z-statistic \u00bc \u00c04.3, p < 0.001) domains.",
+            "Similarly, a significant difference was found in the overall PACQLQ (zstatistic \u00bc \u00c03.7, p < 0.001), activity limitation (z-statistic \u00bc \u00c03.3, p < 0.001) and emotional function (z-statistic \u00bc \u00c03.7, p < 0.001) domains within the TH.",
+            "Differences in the overall PACQLQ (zstatistic \u00bc \u00c02.2, p \u00bc 0.025) and emotional function (zstatistic \u00bc \u00c02.2, p \u00bc 0.030) were significant within the VC.",
+            "Whereas, it was not significant for the activity limitation domain (p > 0.05).",
+            "Additionally, pairwise comparisons among the CT, VC and TH for the PACQLQ scores at visit 1 and at visit 2 were performed, with comparisons for the change (D) in the PACQLQ scores (Table 9 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "A good pMDI technique used by patients is very critical to maximize the lung deposition and thus the therapeutic benefit [21] , and the inhaler VC is the standard in clinical practice, [1] . However, the proper inhaler technique fades away gradually with time after the VC session, [7, 14] . Accordingly, inhaler technique training devices designed with feedback mechanisms that reassure the patients of correct inhaler use might be beneficial, [17] . The present research compared the pMDI VC with the novel TH pMDI training device in children with asthma. The impact of these two inhaler training approaches on the pMDI technique and inhalation flow was primarily investigated along with potential clinical reflections on asthma control and quality of life.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "A good pMDI technique used by patients is very critical to maximize the lung deposition and thus the therapeutic benefit [21] , and the inhaler VC is the standard in clinical practice, [1] .",
+            "However, the proper inhaler technique fades away gradually with time after the VC session, [7, 14] .",
+            "Accordingly, inhaler technique training devices designed with feedback mechanisms that reassure the patients of correct inhaler use might be beneficial, [17] .",
+            "The present research compared the pMDI VC with the novel TH pMDI training device in children with asthma.",
+            "The impact of these two inhaler training approaches on the pMDI technique and inhalation flow was primarily investigated along with potential clinical reflections on asthma control and quality of life."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "None of the study's children could perform all of the 11 pMDI steps correctly at either visit 1 or visit 2. Prior to training at visit 1, all VC and TH children failed to have good hand-lung coordination along with a slow and deep inhalation through the pMDI (steps 6 and 7). These two steps are the most critical for adequate aerosol lung deposition, [13, 22, 23] . At visit 2, however, 62% VC and 76% TH children were able to perform these two steps correctly. On the other hand, 5 (16.7%) of the CT did not maintain their original slow inhalation along with the pMDI hand-lung coordination at visit 2. This is in agreement with that patients can forget the correct inhaler technique with time, even if they have been using their inhalers correctly for long periods, [14, 16, 24] . Holding the breath as long as possible after inhaling the aerosol is also a critical pMDI manoeuvre (step 9) for lung deposition, [25e27] . Nineteen percent VC and 16% TH children performed step 9 correctly at visit 1. Whilst, 100% VC and TH children did perform this step correctly at visit 2. Statistically, both the VC and TH interventions significantly (p < 0.05) improved the overall pMDI technique within each group over the study period. This improvement, however, in the pMDI use was comparable (p > 0.05) between the two methods. No significant change in the overall inhaler technique was noticed within the CT at the study end. Our findings are in agreement with previous studies that compared other inhaler training devices with the VC, [7, 28] .",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "None of the study's children could perform all of the 11 pMDI steps correctly at either visit 1 or visit 2.",
+            "Prior to training at visit 1, all VC and TH children failed to have good hand-lung coordination along with a slow and deep inhalation through the pMDI (steps 6 and 7).",
+            "These two steps are the most critical for adequate aerosol lung deposition, [13, 22, 23] .",
+            "At visit 2, however, 62% VC and 76% TH children were able to perform these two steps correctly.",
+            "On the other hand, 5 (16.7%) of the CT did not maintain their original slow inhalation along with the pMDI hand-lung coordination at visit 2.",
+            "This is in agreement with that patients can forget the correct inhaler technique with time, even if they have been using their inhalers correctly for long periods, [14, 16, 24] .",
+            "Holding the breath as long as possible after inhaling the aerosol is also a critical pMDI manoeuvre (step 9) for lung deposition, [25e27] .",
+            "Nineteen percent VC and 16% TH children performed step 9 correctly at visit 1.",
+            "Whilst, 100% VC and TH children did perform this step correctly at visit 2.",
+            "Statistically, both the VC and TH interventions significantly (p < 0.05) improved the overall pMDI technique within each group over the study period.",
+            "This improvement, however, in the pMDI use was comparable (p > 0.05) between the two methods.",
+            "No significant change in the overall inhaler technique was noticed within the CT at the study end.",
+            "Our findings are in agreement with previous studies that compared other inhaler training devices with the VC, [7, 28] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "A slow and deep inhalation through the pMDI has been found to be much more important, in relation to lung deposition, than a perfectly performed hand-lung coordination, provided that the patient is inhaling at the time of inhaler actuation, [25e27,29] . An ideal PIF through the pMDI is agreed to range between 30 and 60 L/ min, [10, 26, 30] . Currently, the VC decreased the mean PIF through the pMDI from 104 L/min at visit 1e84.8 L/min at visit 2, however this reduction was not statistically significant (p > 0.05). On the other hand, practicing with the TH tool did significantly (p < 0.05) reduce the asthmatic children's mean PIF through their inhaler from 113.5 to 71.4 L/min. The pairwise comparison, however, revealed no significant difference in the PIF between the VC and TH at the end of the study. In real-life, most patients had PIFs >100 L/ min through their pMDIs, [6, 11, 21] . Thus, realistically acceptable slow PIFs for adequate lung deposition can be < 90 L/min, whilst, a PIF !90 L/min is considered fast, [6, 11, 31] . Previously, the 2Tone-Trainer device improved the asthmatic adults PIF through their pMDIs over the VC [6] , whereas, this tool was comparable to VC improvements in asthmatic children, [7] .",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "A slow and deep inhalation through the pMDI has been found to be much more important, in relation to lung deposition, than a perfectly performed hand-lung coordination, provided that the patient is inhaling at the time of inhaler actuation, [25e27,29] .",
+            "An ideal PIF through the pMDI is agreed to range between 30 and 60 L/ min, [10, 26, 30] .",
+            "Currently, the VC decreased the mean PIF through the pMDI from 104 L/min at visit 1e84.8 L/min at visit 2, however this reduction was not statistically significant (p > 0.05).",
+            "On the other hand, practicing with the TH tool did significantly (p < 0.05) reduce the asthmatic children's mean PIF through their inhaler from 113.5 to 71.4 L/min.",
+            "The pairwise comparison, however, revealed no significant difference in the PIF between the VC and TH at the end of the study.",
+            "In real-life, most patients had PIFs >100 L/ min through their pMDIs, [6, 11, 21] .",
+            "Thus, realistically acceptable slow PIFs for adequate lung deposition can be < 90 L/min, whilst, a PIF !",
+            "90 L/min is considered fast, [6, 11, 31] .",
+            "Previously, the 2Tone-Trainer device improved the asthmatic adults PIF through their pMDIs over the VC [6] , whereas, this tool was comparable to VC improvements in asthmatic children, [7] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "A well-controlled asthma is the ultimate goal of the International Asthma Management Guidelines [12, 32] , and a correct inhaler technique can help achieving this goal, [33, 34] . Both the VC and TH improved the asthma control significantly over the study period. Moreover, the improvement in the ACQ scores exceeded the MID. However, both training methods resulted in similar (p > 0.05) asthma control levels at the end of the study. Al-Showair and his Colleagues (2007) showed that the improvement in the pressurized inhaler use following either VC or using the 2ToneTrainer tool was reflected on better asthma control and quality of life. Improvement in the patients' asthma control can translate into better asthma-related quality of life, [35, 36] . Significant improvements (p < 0.05) in the overall PAQLQ and its Symptoms, Activity Limitation and Emotional Function domains were achieved within both intervention groups. Additionally, 71.4% and 88.0% of the VC and TH children, respectively, had a change in their overall PAQLQ scores !0.5 MID. However, both the VC and the TH resulted in comparable (p > 0.05) quality of life improvements at the study end, where the mean (SD) overall PAQLQ scores were 5.86 (1.12) and 5.96 (0.94), respectively.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "A well-controlled asthma is the ultimate goal of the International Asthma Management Guidelines [12, 32] , and a correct inhaler technique can help achieving this goal, [33, 34] .",
+            "Both the VC and TH improved the asthma control significantly over the study period.",
+            "Moreover, the improvement in the ACQ scores exceeded the MID.",
+            "However, both training methods resulted in similar (p > 0.05) asthma control levels at the end of the study.",
+            "Al-Showair and his Colleagues (2007) showed that the improvement in the pressurized inhaler use following either VC or using the 2ToneTrainer tool was reflected on better asthma control and quality of life.",
+            "Improvement in the patients' asthma control can translate into better asthma-related quality of life, [35, 36] .",
+            "Significant improvements (p < 0.05) in the overall PAQLQ and its Symptoms, Activity Limitation and Emotional Function domains were achieved within both intervention groups.",
+            "Additionally, 71.4% and 88.0% of the VC and TH children, respectively, had a change in their overall PAQLQ scores !",
+            "0.5 MID.",
+            "However, both the VC and the TH resulted in comparable (p > 0.05) quality of life improvements at the study end, where the mean (SD) overall PAQLQ scores were 5.86 (1.12) and 5.96 (0.94), respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Parallel to their children's quality of life improvement, the parents of the VC and TH groups had significant (p < 0.05) improvements in their overall PACQLQ. The Activity Limitation and Emotional Function domains significantly improved in the TH parents. Whilst, only the Emotional Function improved significantly in the VC parents. Fifty seven percent of the VC parents and 84.0% of the TH parents had changes in the overall PACQLQ exceeding the MID. The changes in the overall PACQLQ and Emotional Function over the two study visits, however, were significant (p < 0.05) between the VC and TH groups. The greater improvement in the TH parents' quality of life compared to the VC parents might be justified by the availability of the TH tool with their children all the times gave the parents more confidence and peace of mind that their children were using their pressurized inhalers correctly, and that they could refer to the TH at any time when they were in doubt of their inhaler technique.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "Parallel to their children's quality of life improvement, the parents of the VC and TH groups had significant (p < 0.05) improvements in their overall PACQLQ.",
+            "The Activity Limitation and Emotional Function domains significantly improved in the TH parents.",
+            "Whilst, only the Emotional Function improved significantly in the VC parents.",
+            "Fifty seven percent of the VC parents and 84.0% of the TH parents had changes in the overall PACQLQ exceeding the MID.",
+            "The changes in the overall PACQLQ and Emotional Function over the two study visits, however, were significant (p < 0.05) between the VC and TH groups.",
+            "The greater improvement in the TH parents' quality of life compared to the VC parents might be justified by the availability of the TH tool with their children all the times gave the parents more confidence and peace of mind that their children were using their pressurized inhalers correctly, and that they could refer to the TH at any time when they were in doubt of their inhaler technique."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "The change in the lung function; as FEV 1 % predicted, between visits 1 and 2 was not significant in all study groups, and did not reflect the significant improvement in the patients' pMDI use, asthma control and quality of life. This can be explained by the fact that the majority of the children had stable, mild asthma at recruitment, which did not leave extra room for any potential significant changes due to the study interventions. Previous studies showed either no-or very weak-correlation between the lung function and asthma-related quality of life tools, [7,37e40] .",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "The change in the lung function; as FEV 1 % predicted, between visits 1 and 2 was not significant in all study groups, and did not reflect the significant improvement in the patients' pMDI use, asthma control and quality of life.",
+            "This can be explained by the fact that the majority of the children had stable, mild asthma at recruitment, which did not leave extra room for any potential significant changes due to the study interventions.",
+            "Previous studies showed either no-or very weak-correlation between the lung function and asthma-related quality of life tools, [7,37e40] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Although 105 asthmatic children were enrolled into the study, 76 children did complete the two study visits. We did, however, try to have all the children and their parents return for their second visit via phone call and text message reminders. School commitments, residence reallocation or personal reasons were behind their absences. This study was also limited by the relatively short follow up period (6e8 weeks). Longer duration might have shown significant differences between the VC and TH in terms of maintaining the adequate pMDI technique, asthma control and quality of life.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Although 105 asthmatic children were enrolled into the study, 76 children did complete the two study visits.",
+            "We did, however, try to have all the children and their parents return for their second visit via phone call and text message reminders.",
+            "School commitments, residence reallocation or personal reasons were behind their absences.",
+            "This study was also limited by the relatively short follow up period (6e8 weeks).",
+            "Longer duration might have shown significant differences between the VC and TH in terms of maintaining the adequate pMDI technique, asthma control and quality of life."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "Fast PIF with poor Hand-Lung synchronization through the pMDI adversely affect lung deposition. Both VC and TH approaches improved the pressurized inhaler's inhalation flow and technique, asthma control and quality of life of asthmatic children. Greater, yet comparable, reduction in the PIF through the pMDI was achieved by the TH. The TH parents had better quality of life improvement. Being accessible all the times, the TH device might maintain the asthmatic children's mastery of pMDI technique for longer periods over the VC. This can decrease the burden of regular inhaler use reinforcement in the increasingly busy healthcare settings.",
+        "section": "Conclusion",
+        "section_number": 24,
+        "sentences": [
+            "Fast PIF with poor Hand-Lung synchronization through the pMDI adversely affect lung deposition.",
+            "Both VC and TH approaches improved the pressurized inhaler's inhalation flow and technique, asthma control and quality of life of asthmatic children.",
+            "Greater, yet comparable, reduction in the PIF through the pMDI was achieved by the TH.",
+            "The TH parents had better quality of life improvement.",
+            "Being accessible all the times, the TH device might maintain the asthmatic children's mastery of pMDI technique for longer periods over the VC.",
+            "This can decrease the burden of regular inhaler use reinforcement in the increasingly busy healthcare settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+        "section": "Funding",
+        "section_number": 25,
+        "sentences": [
+            "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "NAH, NO, MK and AS all have no conflict of interest to declare. MS is the Managing Director at Clement Clarke International, UK.",
+        "section": "Declaration of interests",
+        "section_number": 26,
+        "sentences": [
+            "NAH, NO, MK and AS all have no conflict of interest to declare.",
+            "MS is the Managing Director at Clement Clarke International, UK."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34999",
+        "text": "WGA is an academic researcher in the inhaled respiratory medicine and inhaler devices area. He has received un-conditional travel grants from Clement Clarke International to present parts of the current research findings at the BTS 2015 Winter Meeting, UK, and the ATS 2016 International Conference, San Francisco, CA.",
+        "section": "Declaration of interests",
+        "section_number": 27,
+        "sentences": [
+            "WGA is an academic researcher in the inhaled respiratory medicine and inhaler devices area.",
+            "He has received un-conditional travel grants from Clement Clarke International to present parts of the current research findings at the BTS 2015 Winter Meeting, UK, and the ATS 2016 International Conference, San Francisco, CA."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

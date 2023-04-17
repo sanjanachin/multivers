@@ -1,0 +1,729 @@
+[
+    {
+        "doc_id": "37304",
+        "text": "Background Iodine deficiency during pregnancy might be associated with reduced intelligence quotient (IQ) score in offspring. We assessed the effect of iodine supplementation in mildly iodine-deficient pregnant women on neurodevelopment of their offspring in areas where schoolchildren were iodine sufficient. Methods In this randomised, placebo-controlled trial, pregnant women in Bangalore, India, and Bangkok, Thailand, were randomly assigned (1:1) to receive 200 \u00b5g iodine orally once a day or placebo until delivery. Randomisation was done with a computer-generated sequence and stratified by site. Co-primary outcomes were verbal and performance IQ scores on the Wechsler Preschool and Primary Scale of Intelligence Third Edition (WPPSI-III) and the global executive composite score from the Behaviour Rating Inventory of Executive Function-Preschool Version (BRIEF-P) in the children at age 5-6 years. The trial was double-blinded; some unmasking took place at age 2 years for an interim analysis, but participants and nearly all investigators remained masked to group assignment until age 5-6 years. Analysis was by intention to treat using mixed-effects models. This trial is registered with ClinicalTrials.gov, number NCT00791466.",
+        "section": "Abstract",
+        "sentences": [
+            "Background Iodine deficiency during pregnancy might be associated with reduced intelligence quotient (IQ) score in offspring.",
+            "We assessed the effect of iodine supplementation in mildly iodine-deficient pregnant women on neurodevelopment of their offspring in areas where schoolchildren were iodine sufficient.",
+            "Methods In this randomised, placebo-controlled trial, pregnant women in Bangalore, India, and Bangkok, Thailand, were randomly assigned (1:1) to receive 200 \u00b5g iodine orally once a day or placebo until delivery.",
+            "Randomisation was done with a computer-generated sequence and stratified by site.",
+            "Co-primary outcomes were verbal and performance IQ scores on the Wechsler Preschool and Primary Scale of Intelligence Third Edition (WPPSI-III) and the global executive composite score from the Behaviour Rating Inventory of Executive Function-Preschool Version (BRIEF-P) in the children at age 5-6 years.",
+            "The trial was double-blinded; some unmasking took place at age 2 years for an interim analysis, but participants and nearly all investigators remained masked to group assignment until age 5-6 years.",
+            "Analysis was by intention to treat using mixed-effects models.",
+            "This trial is registered with ClinicalTrials.gov, number NCT00791466."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Iodine is an essential component of thyroid hormones, which are needed for normal fetal growth and development. 1 At week 4 of pregnancy, maternal thyroid hormone is present in utero and promotes neuronal proliferation and migration in the developing brain. 2 Fetal thyroid hormone synthesis begins at about week 20; 2 thereafter, both maternal and fetal thyroid hormones support fetal neurodevelopment. 1, 2 To maintain maternal and fetal euthyroidism, iodine requirements during pregnancy increase by about 65%, and WHO recom mends an intake of 250 \u00b5g per day for pregnant women. 3 In randomised controlled trials in regions of severe endemic goitre, iodine supplementation in pregnancy improved maternal thyroid status and child neurodevel opment. 1 Although severe iodine deficiency now only rarely occurs in most countries, mild iodine deficiency during pregnancy remains common. 4 WHO recommends meas urement of median urinary iodine concentration to assess populationlevel iodine nutrition during preg nancy; in a population of pregnant women, a median concentration of 150-250 \u00b5g/L indicates optimal iodine nutrition whereas 50-150 \u03bcg/L suggests mild iodine deficiency. 5 In national studies of pregnant women in Europe, about twothirds of countries reported mild iodine deficiency based on the median urinary iodine concentration. 4 Pregnant women in the USA are also mildly deficient, with a median urinary iodine concentration of 129 \u00b5g/L. 6 Two observational studies reported lower intelligence quotient (IQ) scores and poorer school performance in children born to mildly iodinedeficient mothers than in children of mothers without deficiency; 7, 8 another study comparing different doses of iodine supplements in pregnancy showed no effect on neuropsychological development of infants. 9 Controlled trials of iodine supplementation in mildly iodinedeficient pregnant women have shown no clear benefits on maternal or newborn thyroid hormone concentrations. 10 Systematic reviews have concluded that the effects of mild iodine deficiency during pregnancy remain uncertain because no placebocontrolled intervention trial has measured child development. 10, 11 Although they acknowledge the paucity of data regarding benefits, the American Thyroid Association 12 and European Thyroid Association 13 recommend that women take a supplement containing 150 \u00b5g iodine daily during pregnancy. By contrast, WHO does not recommend maternal iodine supplements in countries with iodised salt programmes, 14 concluding that if women are iodine sufficient before they enter pregnancy, they can cover their requirements by increasing fractional clearance of plasma iodide and drawing from thyroidal iodine stores. Of concern, observational studies have linked excessive maternal iodine intake with mild maternal hypothyroidism, 15 and maternal iodine supple mentation with impaired infant development. 9 Therefore, we aimed to assess the safety and efficacy of iodine supplementation in mildly iodinedeficient pregnant women on child neurodevelopment. Our hypothesis was that iodine supplementation of this group would be safe, but would have no significant benefits on child development.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Iodine is an essential component of thyroid hormones, which are needed for normal fetal growth and development.",
+            "1 At week 4 of pregnancy, maternal thyroid hormone is present in utero and promotes neuronal proliferation and migration in the developing brain.",
+            "2 Fetal thyroid hormone synthesis begins at about week 20; 2 thereafter, both maternal and fetal thyroid hormones support fetal neurodevelopment.",
+            "1, 2 To maintain maternal and fetal euthyroidism, iodine requirements during pregnancy increase by about 65%, and WHO recom mends an intake of 250 \u00b5g per day for pregnant women.",
+            "3 In randomised controlled trials in regions of severe endemic goitre, iodine supplementation in pregnancy improved maternal thyroid status and child neurodevel opment.",
+            "1 Although severe iodine deficiency now only rarely occurs in most countries, mild iodine deficiency during pregnancy remains common.",
+            "4 WHO recommends meas urement of median urinary iodine concentration to assess populationlevel iodine nutrition during preg nancy; in a population of pregnant women, a median concentration of 150-250 \u00b5g/L indicates optimal iodine nutrition whereas 50-150 \u03bcg/L suggests mild iodine deficiency.",
+            "5 In national studies of pregnant women in Europe, about twothirds of countries reported mild iodine deficiency based on the median urinary iodine concentration.",
+            "4 Pregnant women in the USA are also mildly deficient, with a median urinary iodine concentration of 129 \u00b5g/L. 6 Two observational studies reported lower intelligence quotient (IQ) scores and poorer school performance in children born to mildly iodinedeficient mothers than in children of mothers without deficiency; 7, 8 another study comparing different doses of iodine supplements in pregnancy showed no effect on neuropsychological development of infants.",
+            "9 Controlled trials of iodine supplementation in mildly iodinedeficient pregnant women have shown no clear benefits on maternal or newborn thyroid hormone concentrations.",
+            "10 Systematic reviews have concluded that the effects of mild iodine deficiency during pregnancy remain uncertain because no placebocontrolled intervention trial has measured child development.",
+            "10, 11 Although they acknowledge the paucity of data regarding benefits, the American Thyroid Association 12 and European Thyroid Association 13 recommend that women take a supplement containing 150 \u00b5g iodine daily during pregnancy.",
+            "By contrast, WHO does not recommend maternal iodine supplements in countries with iodised salt programmes, 14 concluding that if women are iodine sufficient before they enter pregnancy, they can cover their requirements by increasing fractional clearance of plasma iodide and drawing from thyroidal iodine stores.",
+            "Of concern, observational studies have linked excessive maternal iodine intake with mild maternal hypothyroidism, 15 and maternal iodine supple mentation with impaired infant development.",
+            "9 Therefore, we aimed to assess the safety and efficacy of iodine supplementation in mildly iodinedeficient pregnant women on child neurodevelopment.",
+            "Our hypothesis was that iodine supplementation of this group would be safe, but would have no significant benefits on child development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "This randomised, placebocontrolled, doubleblind trial was done at Ramathibodi Hospital of Mahidol University in Bangkok, Thailand, and St Martha's Hospital in Bangalore, Karnataka, India. These hospitals were chosen because they had large, wellrun antenatal clinics and served mainly middleincome families. We chose only one hospital at each site to simplify logistics and follow up. Although, in 2017, Thailand and India have effective salt iodisation programmes and women of reproductive age are iodine sufficient at the national level, 16 at the time of our intervention, no data were available for iodine status in women of reproductive age, and household coverage with adequately iodised salt was only about 35% in Karnataka and 60% in Thailand, but schoolaged children (aged 6-12 years) were iodine sufficient on the basis of their median urinary iodine concentration. 17, 18 Research in context Evidence before this study We searched PubMed with the terms \"iodine supplementation\" OR \"iodine supplements\" OR \"oral iodine\" AND \"pregnancy\" with no language or date restrictions. The date of our last search was April 24, 2017. Iodine deficiency during pregnancy might be associated with reduced intelligence quotient (IQ) score in offspring. In randomised controlled trials in regions of severe endemic goitre, iodine supplementation in pregnancy improved maternal thyroid status and child neurodevelopment. Two observational studies reported lower IQ and poorer school performance in children born to mildly iodine-deficient mothers than in children of mothers without deficiency, but other studies showed no difference in neurodevelopment between infants of mothers who had mild iodine deficiency and those of mothers who had iodine sufficiency. Controlled trials of iodine supplementation in mildly iodine-deficient pregnant women have shown no clear benefits on maternal or newborn thyroid hormone concentrations. Systematic reviews have concluded that the effects of mild iodine deficiency during pregnancy are uncertain because no placebo-controlled intervention trial has measured child development following maternal iodine supplementation in women with mild iodine deficiency.",
+        "section": "Study design and participants",
+        "section_number": 2,
+        "sentences": [
+            "This randomised, placebocontrolled, doubleblind trial was done at Ramathibodi Hospital of Mahidol University in Bangkok, Thailand, and St Martha's Hospital in Bangalore, Karnataka, India.",
+            "These hospitals were chosen because they had large, wellrun antenatal clinics and served mainly middleincome families.",
+            "We chose only one hospital at each site to simplify logistics and follow up.",
+            "Although, in 2017, Thailand and India have effective salt iodisation programmes and women of reproductive age are iodine sufficient at the national level, 16 at the time of our intervention, no data were available for iodine status in women of reproductive age, and household coverage with adequately iodised salt was only about 35% in Karnataka and 60% in Thailand, but schoolaged children (aged 6-12 years) were iodine sufficient on the basis of their median urinary iodine concentration.",
+            "17, 18 Research in context Evidence before this study We searched PubMed with the terms \"iodine supplementation\" OR \"iodine supplements\" OR \"oral iodine\" AND \"pregnancy\" with no language or date restrictions.",
+            "The date of our last search was April 24, 2017.",
+            "Iodine deficiency during pregnancy might be associated with reduced intelligence quotient (IQ) score in offspring.",
+            "In randomised controlled trials in regions of severe endemic goitre, iodine supplementation in pregnancy improved maternal thyroid status and child neurodevelopment.",
+            "Two observational studies reported lower IQ and poorer school performance in children born to mildly iodine-deficient mothers than in children of mothers without deficiency, but other studies showed no difference in neurodevelopment between infants of mothers who had mild iodine deficiency and those of mothers who had iodine sufficiency.",
+            "Controlled trials of iodine supplementation in mildly iodine-deficient pregnant women have shown no clear benefits on maternal or newborn thyroid hormone concentrations.",
+            "Systematic reviews have concluded that the effects of mild iodine deficiency during pregnancy are uncertain because no placebo-controlled intervention trial has measured child development following maternal iodine supplementation in women with mild iodine deficiency."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "To our knowledge, our study is the first randomised, double-blind, placebo-controlled trial to assess the effects of oral iodine supplementation in mildly iodine-deficient pregnant women on neurodevelopment of their children. We assessed neurocognitive outcomes during infancy and early school age. Although supplementation was safe and increased iodine intake into the sufficient range, we found no significant differences in cognitive developmental scores between children whose mothers were assigned to receive iodine supplementation during pregnancy and children of those assigned to placebo.",
+        "section": "Added value of this study",
+        "section_number": 3,
+        "sentences": [
+            "To our knowledge, our study is the first randomised, double-blind, placebo-controlled trial to assess the effects of oral iodine supplementation in mildly iodine-deficient pregnant women on neurodevelopment of their children.",
+            "We assessed neurocognitive outcomes during infancy and early school age.",
+            "Although supplementation was safe and increased iodine intake into the sufficient range, we found no significant differences in cognitive developmental scores between children whose mothers were assigned to receive iodine supplementation during pregnancy and children of those assigned to placebo."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Our finding that iodine supplementation of mildly iodine-deficient pregnant women had no clear benefits on maternal thyroid function or child neurodevelopment needs to be confirmed in future studies in other populations and other settings. However, our results generally support findings from previous intervention studies suggesting that pregnant women might be able to physiologically adapt to mildly low iodine intakes to maintain fetal euthyroidism, allowing healthy in-utero development. This conclusion is consistent with current WHO recommendations that iodine supplementation is unlikely to harm, but might not be justified in mildly iodine-deficient pregnant women.",
+        "section": "Implications of all the available evidence",
+        "section_number": 4,
+        "sentences": [
+            "Our finding that iodine supplementation of mildly iodine-deficient pregnant women had no clear benefits on maternal thyroid function or child neurodevelopment needs to be confirmed in future studies in other populations and other settings.",
+            "However, our results generally support findings from previous intervention studies suggesting that pregnant women might be able to physiologically adapt to mildly low iodine intakes to maintain fetal euthyroidism, allowing healthy in-utero development.",
+            "This conclusion is consistent with current WHO recommendations that iodine supplementation is unlikely to harm, but might not be justified in mildly iodine-deficient pregnant women."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Ethical review boards at both study sites and at Wageningen University, Netherlands, approved the study. Approval was first granted for a study up to 2 years after delivery, but approval was subsequently granted to extend the study up to 5-6 years post partum. Change to the primary outcome was approved at both study sites. An external data safety monitoring board supervised the study.",
+        "section": "Implications of all the available evidence",
+        "section_number": 5,
+        "sentences": [
+            "Ethical review boards at both study sites and at Wageningen University, Netherlands, approved the study.",
+            "Approval was first granted for a study up to 2 years after delivery, but approval was subsequently granted to extend the study up to 5-6 years post partum.",
+            "Change to the primary outcome was approved at both study sites.",
+            "An external data safety monitoring board supervised the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "We recruited pregnant women presenting at their first antenatal visit, and all gave written informed consent. Women aged 18-40 years were eligible if they had a singleton pregnancy less than or equal to 14 weeks of gestation, were not lactating, were generally healthy with no thyroid diseases or major medical illnesses, and were not taking iodinecontaining supplements. We excluded women with a thyroid stimulating hormone con centration of more than 6 mIU/L at screening and referred them for treatment.",
+        "section": "Implications of all the available evidence",
+        "section_number": 6,
+        "sentences": [
+            "We recruited pregnant women presenting at their first antenatal visit, and all gave written informed consent.",
+            "Women aged 18-40 years were eligible if they had a singleton pregnancy less than or equal to 14 weeks of gestation, were not lactating, were generally healthy with no thyroid diseases or major medical illnesses, and were not taking iodinecontaining supplements.",
+            "We excluded women with a thyroid stimulating hormone con centration of more than 6 mIU/L at screening and referred them for treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "We randomly assigned (1:1) women to receive either iodine supplementation or placebo by use of simple randomisation stratified by site. We used a computer generated randomisation sequence. Masking was achieved by use of tablets with identical appearance and taste and coding of participants. An individual at Wageningen University who was not involved in the study coded the iodine and placebo supplements, and sealed envelopes with the code were sent to the data safety monitoring board members. The ethical review board at Wageningen University asked for an interim analysis of data up to 2 years offspring age during review of the application for study extension in June, 2015. One of the authors (AMB) was unmasked to provide the interim analysis, which was not published. Participants, the study team assessing outcomes, and the team analysing the data remained masked to group assignment until analysis of the final data.",
+        "section": "Randomisation and masking",
+        "section_number": 7,
+        "sentences": [
+            "We randomly assigned (1:1) women to receive either iodine supplementation or placebo by use of simple randomisation stratified by site.",
+            "We used a computer generated randomisation sequence.",
+            "Masking was achieved by use of tablets with identical appearance and taste and coding of participants.",
+            "An individual at Wageningen University who was not involved in the study coded the iodine and placebo supplements, and sealed envelopes with the code were sent to the data safety monitoring board members.",
+            "The ethical review board at Wageningen University asked for an interim analysis of data up to 2 years offspring age during review of the application for study extension in June, 2015.",
+            "One of the authors (AMB) was unmasked to provide the interim analysis, which was not published.",
+            "Participants, the study team assessing outcomes, and the team analysing the data remained masked to group assignment until analysis of the final data."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Women received 200 \u00b5g iodine given as potassium iodide tablets (Merck, Darmstadt, Germany) or an identical placebo tablet (Merck) taken once daily until delivery. We gave out tablets, assessed compliance by tablet counting, and assessed sideeffects by use of a question naire at monthly visits. Serious adverse events were defined as death or hospital admission of either mother or baby for a cause other than delivery. At baseline, we administered a structured multiplechoice questionnaire to collect data on household income, and household use of iodised salt or maternal use of nutritional supplements. At baseline, during the second trimester (20-24 weeks), and during the third trimester (30-33 weeks), we measured maternal weight and height, collected venipuncture blood for measurement of thyroid function, collected a spot urine sample for measurement of urinary iodine concentration; and measured thyroid volume with a portable echocamera (Aloka, Mure, Japan) with a 7\u20225MHz linear transducer. We obtained birth outcomes from the hospital record; measured height, weight, and head circumference of the infants at birth; and collected newborn heel prick blood within 72 h after birth.",
+        "section": "Procedures",
+        "section_number": 8,
+        "sentences": [
+            "Women received 200 \u00b5g iodine given as potassium iodide tablets (Merck, Darmstadt, Germany) or an identical placebo tablet (Merck) taken once daily until delivery.",
+            "We gave out tablets, assessed compliance by tablet counting, and assessed sideeffects by use of a question naire at monthly visits.",
+            "Serious adverse events were defined as death or hospital admission of either mother or baby for a cause other than delivery.",
+            "At baseline, we administered a structured multiplechoice questionnaire to collect data on household income, and household use of iodised salt or maternal use of nutritional supplements.",
+            "At baseline, during the second trimester (20-24 weeks), and during the third trimester (30-33 weeks), we measured maternal weight and height, collected venipuncture blood for measurement of thyroid function, collected a spot urine sample for measurement of urinary iodine concentration; and measured thyroid volume with a portable echocamera (Aloka, Mure, Japan) with a 7\u20225MHz linear transducer.",
+            "We obtained birth outcomes from the hospital record; measured height, weight, and head circumference of the infants at birth; and collected newborn heel prick blood within 72 h after birth."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "At 6 weeks after delivery, we administered the Neonatal Behavioural Assessment Scale (NBAS) test to assess newborn development individually for each child. 19 The NBAS contains 28 behavioural items, 18 neurological reflex items, and seven supplementary items that measure infant responsiveness. Scores on the NBAS were reduced to seven clusters: habituation; orientation; motor; range of state; regulation of state; autonomic stability; and reflexes, including supplementary items.",
+        "section": "Procedures",
+        "section_number": 9,
+        "sentences": [
+            "At 6 weeks after delivery, we administered the Neonatal Behavioural Assessment Scale (NBAS) test to assess newborn development individually for each child.",
+            "19 The NBAS contains 28 behavioural items, 18 neurological reflex items, and seven supplementary items that measure infant responsiveness.",
+            "Scores on the NBAS were reduced to seven clusters: habituation; orientation; motor; range of state; regulation of state; autonomic stability; and reflexes, including supplementary items."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Within 1 week before or after the child's first and second birthdays, we measured their height, weight, and head circumference; obtained a heel prick blood sample and a spot urine sample; and administered the Bayley Scales of Infant Development Third Edition (BSIDIII) to obtain scores for each infant's cognitive, language, and motor development. 20 The BSIDIII has three main subtests. The cognitive scale includes items such as attention to objects and pretend play. The language scale assesses understanding and expression of language, object recognition, and following directions. The motor scale assesses gross and fine motor skills including grasping, stacking blocks, sitting, and climbing stairs. We did not assess the socialemotional or adaptive behaviour scales, which are done with parent questionnaires. We used raw scores because agespecific norms were not available for the Indian or Thai populations and the assessments at both sites occurred within a narrow age window. The BSIDIII raw scores were adjusted for infant's gestational age at birth. When children were aged between 5 and 6 years, we measured height and weight, obtained a fingerprick blood sample and a spot urine sample, and obtained audiograms using a GrasonStadler GSI 61 audiometer (GrasonStadler, Eden Prairie, USA). During the acoustic testing, pure tone was determined as average level of signal response during two ascending processes. Starting signal level was about 10 dB below the level at which the child responded during the familiarisation session. The signal was presented for 2-3 s; if the child failed to respond to the signal, the level was increased by 5 dB until the child responded. The time between presentations was about 5 s. To assess verbal and performance IQ, performance speed quotient, and full scale IQ, we administered the Wechsler Preschool and Primary Scale of Intelligence Third Edition (WPPSIIII) individually for each child. 21 an 86item questionnaire in eight clinical scales and two validity scales; the global executive composite score takes into account all of the clinical scales and represents the child's overall executive function. To assess behaviour, we administered the Strengths and Difficulties Question naire (SDQ) to the mother of each child. 23 Each of its five scales were scored from 0 to 10, the emotional and peer items were summed for an internalising problems score (range 0-20), the conduct and hyperactivity items summed for an externalising problems score (range 0-20), and four of the scales (emotional, conduct, hyperactivity, and peer problems) were summed to create a total difficulty score (range 0-40). All of the developmental tests have been widely used in Thailand and India and were administered in the local language. However, populationspecific norms were not available and because there were several months of variation in the children's age at the time of testing, BRIEFP and WPPSIIII scaled scores were generated using US norms for both sites, allowing us to pool the data. Testing techniques were carefully standardised between the two study sites and were done by Master'slevel clinical psychologists. During the course of the study, the senior psychologist (KS) reviewed the cognitive assessments for correctness of administration and scoring.",
+        "section": "Procedures",
+        "section_number": 10,
+        "sentences": [
+            "Within 1 week before or after the child's first and second birthdays, we measured their height, weight, and head circumference; obtained a heel prick blood sample and a spot urine sample; and administered the Bayley Scales of Infant Development Third Edition (BSIDIII) to obtain scores for each infant's cognitive, language, and motor development.",
+            "20 The BSIDIII has three main subtests.",
+            "The cognitive scale includes items such as attention to objects and pretend play.",
+            "The language scale assesses understanding and expression of language, object recognition, and following directions.",
+            "The motor scale assesses gross and fine motor skills including grasping, stacking blocks, sitting, and climbing stairs.",
+            "We did not assess the socialemotional or adaptive behaviour scales, which are done with parent questionnaires.",
+            "We used raw scores because agespecific norms were not available for the Indian or Thai populations and the assessments at both sites occurred within a narrow age window.",
+            "The BSIDIII raw scores were adjusted for infant's gestational age at birth.",
+            "When children were aged between 5 and 6 years, we measured height and weight, obtained a fingerprick blood sample and a spot urine sample, and obtained audiograms using a GrasonStadler GSI 61 audiometer (GrasonStadler, Eden Prairie, USA).",
+            "During the acoustic testing, pure tone was determined as average level of signal response during two ascending processes.",
+            "Starting signal level was about 10 dB below the level at which the child responded during the familiarisation session.",
+            "The signal was presented for 2-3 s; if the child failed to respond to the signal, the level was increased by 5 dB until the child responded.",
+            "The time between presentations was about 5 s. To assess verbal and performance IQ, performance speed quotient, and full scale IQ, we administered the Wechsler Preschool and Primary Scale of Intelligence Third Edition (WPPSIIII) individually for each child.",
+            "21 an 86item questionnaire in eight clinical scales and two validity scales; the global executive composite score takes into account all of the clinical scales and represents the child's overall executive function.",
+            "To assess behaviour, we administered the Strengths and Difficulties Question naire (SDQ) to the mother of each child.",
+            "23 Each of its five scales were scored from 0 to 10, the emotional and peer items were summed for an internalising problems score (range 0-20), the conduct and hyperactivity items summed for an externalising problems score (range 0-20), and four of the scales (emotional, conduct, hyperactivity, and peer problems) were summed to create a total difficulty score (range 0-40).",
+            "All of the developmental tests have been widely used in Thailand and India and were administered in the local language.",
+            "However, populationspecific norms were not available and because there were several months of variation in the children's age at the time of testing, BRIEFP and WPPSIIII scaled scores were generated using US norms for both sites, allowing us to pool the data.",
+            "Testing techniques were carefully standardised between the two study sites and were done by Master'slevel clinical psychologists.",
+            "During the course of the study, the senior psychologist (KS) reviewed the cognitive assessments for correctness of administration and scoring."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "The coprimary outcomes in the final protocol (2015) were the verbal and performance IQ scores on WPPSIIII and the global executive composite score from BRIEFP in children aged between 5 and 6 years. Secondary outcomes were the child's auditory performance, weight and height, urinary iodine concentration, thyroid stimulating hormone (TSH) concentration, and total thyroxine (T 4 ) concentration, all measured between 5 and 6 years. In the protocol, we planned to study children at age 4-5 years, but because of administrative delays in locating the children, they were tested at a mean age of 5\u20224 years. All of the protocol outcomes are reported in this study.",
+        "section": "Outcomes",
+        "section_number": 11,
+        "sentences": [
+            "The coprimary outcomes in the final protocol (2015) were the verbal and performance IQ scores on WPPSIIII and the global executive composite score from BRIEFP in children aged between 5 and 6 years.",
+            "Secondary outcomes were the child's auditory performance, weight and height, urinary iodine concentration, thyroid stimulating hormone (TSH) concentration, and total thyroxine (T 4 ) concentration, all measured between 5 and 6 years.",
+            "In the protocol, we planned to study children at age 4-5 years, but because of administrative delays in locating the children, they were tested at a mean age of 5\u20224 years.",
+            "All of the protocol outcomes are reported in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "The first protocol (2008) specified followup of children to age 2 years. In the first protocol, the coprimary outcomes were maternal and infant thyroid hormone concentrations (TSH, total T 4 , total triiodothyronine [T 3 ], free T 4 , free T 3 , maternal thyroglobulin, thyroxinebinding globulin, and antithyroid peroxidase antibodies [TPO Ab]); ultrasound measurement of maternal and infant thyroid gland volumes; newborn development at 6 weeks of age assessed with the NBAS; and infant development at 6 months, 1 year, and 2 years assessed with the BSID III. Secondary outcomes were maternal pregnancy outcomes; infant birthweight, length, head circumference, and Apgar scores; maternal and infant urinary iodine concentrations; and breastmilk iodine concentrations. All outcomes from this protocol are included in this report apart from infant thyroid gland volume, newborn and infant free T 4 , free T 3 and total T 3 , maternal thyroxine binding globulin, Apgar scores, breastmilk iodine con centrations, and BSIDIII at 6 months, because these variables were not recorded. Both the earlier 2008 protocol and final 2015 protocol are available online.",
+        "section": "Outcomes",
+        "section_number": 12,
+        "sentences": [
+            "The first protocol (2008) specified followup of children to age 2 years.",
+            "In the first protocol, the coprimary outcomes were maternal and infant thyroid hormone concentrations (TSH, total T 4 , total triiodothyronine [T 3 ], free T 4 , free T 3 , maternal thyroglobulin, thyroxinebinding globulin, and antithyroid peroxidase antibodies [TPO Ab]); ultrasound measurement of maternal and infant thyroid gland volumes; newborn development at 6 weeks of age assessed with the NBAS; and infant development at 6 months, 1 year, and 2 years assessed with the BSID III.",
+            "Secondary outcomes were maternal pregnancy outcomes; infant birthweight, length, head circumference, and Apgar scores; maternal and infant urinary iodine concentrations; and breastmilk iodine concentrations.",
+            "All outcomes from this protocol are included in this report apart from infant thyroid gland volume, newborn and infant free T 4 , free T 3 and total T 3 , maternal thyroxine binding globulin, Apgar scores, breastmilk iodine con centrations, and BSIDIII at 6 months, because these variables were not recorded.",
+            "Both the earlier 2008 protocol and final 2015 protocol are available online."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "The justification for the change in the primary outcomes from the first to the final protocol was that cognitive assessment at early school age assesses a wider array of cognitive functions than does broad domain wise assessment in infancy. We felt that the tests administered later in childhood would be more predictive of future development and longterm intelligence than tests given during infancy. Serious adverse events were reported to the external data safety monitoring board.",
+        "section": "Outcomes",
+        "section_number": 13,
+        "sentences": [
+            "The justification for the change in the primary outcomes from the first to the final protocol was that cognitive assessment at early school age assesses a wider array of cognitive functions than does broad domain wise assessment in infancy.",
+            "We felt that the tests administered later in childhood would be more predictive of future development and longterm intelligence than tests given during infancy.",
+            "Serious adverse events were reported to the external data safety monitoring board."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "We determined urinary iodine concentration by spectro photometry at Swiss Federal Institute of Technology (ETH) Zurich, Switzerland, for the Indian samples and at Mahidol University, Bangkok, Thailand, for the Thai samples; 24 laboratoryspecific urine controls were used for the calibration at both sites and at certified urinary iodine concentrations of 74, 162, and 282 \u00b5g/L, mean measured values were 77, 156, and 271 \u00b5g/L, respectively, giving coefficients of variation of about 11%, 9%, and 13%, respectively. In women, thyroid function, thyroglobulin, and TPOAb were measured by immunoassay (IMMULITE, Siemens Healthcare Diagnostics, UK) at ETH Zurich for the Thai samples and at St John's Hospital, Bangalore, India, for the Indian samples. With the exception of TSH and total T 4 during pregnancy, we used the manufacturer's reference ranges: 0\u20224-4\u20220 mIU/L for TSH, 58-161 nmol/L for total T 4 , 0\u202289-1\u202276 ng/dL for free T 4 , 1\u20223-2\u20226 nmol/L for total T 3 , 1\u20228-4\u20222 pg/mL for free T 3 , less than or equal to 55 ng/mL for thyroglobulin, and less than 35 IU/mL for TPOAb. For TSH during pregnancy, we used trimesterspecific reference ranges: 0\u20221-2\u20225 mIU/L for the first trimester, 0\u20222-3\u20220 mIU/L for the second trimester, and 0\u20223-3\u20220 mIU/L for the third trimester. 25 26 For the thyroglobulin assay, we used standards provided by the manufacturer (IMMULITE, Siemens) to calibrate the assay. In children, a heel prick or fingerprick blood sample was spotted onto filter paper and TSH and T 4 concentrations were measured by fluoroimmunoassay (TSH, DELFIA NeoTSH, PerkinElmer Life Sciences, Turku, Finland; and T 4 , Delfia Neonatal T4 kit, PerkinElmer Life Sciences). We applied agespecific reference ranges for TSH and total T 4 as supplied by the manufacturer: for 0-7 days after birth, TSH 0\u20221-10\u20225 mIU/L and total T 4 114-245 nmol/L; after 155 days, TSH 0\u20221-3\u20227 mIU/L and total T 4 65-165 nmol/L.",
+        "section": "Biochemical analyses",
+        "section_number": 14,
+        "sentences": [
+            "We determined urinary iodine concentration by spectro photometry at Swiss Federal Institute of Technology (ETH) Zurich, Switzerland, for the Indian samples and at Mahidol University, Bangkok, Thailand, for the Thai samples; 24 laboratoryspecific urine controls were used for the calibration at both sites and at certified urinary iodine concentrations of 74, 162, and 282 \u00b5g/L, mean measured values were 77, 156, and 271 \u00b5g/L, respectively, giving coefficients of variation of about 11%, 9%, and 13%, respectively.",
+            "In women, thyroid function, thyroglobulin, and TPOAb were measured by immunoassay (IMMULITE, Siemens Healthcare Diagnostics, UK) at ETH Zurich for the Thai samples and at St John's Hospital, Bangalore, India, for the Indian samples.",
+            "With the exception of TSH and total T 4 during pregnancy, we used the manufacturer's reference ranges: 0\u20224-4\u20220 mIU/L for TSH, 58-161 nmol/L for total T 4 , 0\u202289-1\u202276 ng/dL for free T 4 , 1\u20223-2\u20226 nmol/L for total T 3 , 1\u20228-4\u20222 pg/mL for free T 3 , less than or equal to 55 ng/mL for thyroglobulin, and less than 35 IU/mL for TPOAb.",
+            "For TSH during pregnancy, we used trimesterspecific reference ranges: 0\u20221-2\u20225 mIU/L for the first trimester, 0\u20222-3\u20220 mIU/L for the second trimester, and 0\u20223-3\u20220 mIU/L for the third trimester.",
+            "25 26 For the thyroglobulin assay, we used standards provided by the manufacturer (IMMULITE, Siemens) to calibrate the assay.",
+            "In children, a heel prick or fingerprick blood sample was spotted onto filter paper and TSH and T 4 concentrations were measured by fluoroimmunoassay (TSH, DELFIA NeoTSH, PerkinElmer Life Sciences, Turku, Finland; and T 4 , Delfia Neonatal T4 kit, PerkinElmer Life Sciences).",
+            "We applied agespecific reference ranges for TSH and total T 4 as supplied by the manufacturer: for 0-7 days after birth, TSH 0\u20221-10\u20225 mIU/L and total T 4 114-245 nmol/L; after 155 days, TSH 0\u20221-3\u20227 mIU/L and total T 4 65-165 nmol/L."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "In the first protocol, we calculated that to have 80% power to detect a decrease of 0\u20228 in the proportion of raised newborn TSH values, from an anticipated incidence of 10% in the control group to 2% in the treatment group, with a significance level of 0\u202205 (twosided), we would require a sample size of 250 women per group; anticipating a 30-35% loss to followup, we aimed to enrol 800 pregnant women to our study. In the second protocol, we calculated that to have 80% power to detect a 5point difference on the full scale IQ score of the WPPSIIII between groups at 5-6 years, with SD of 15, and a significance level of 0\u202205 (twosided), we would require a sample size of 142 children per group on the 27 anticipating a loss to followup of about 25% between 2 years and 5-6 years, our sample size of 218 children in the iodine group and 212 in the placebo group at the time of the second protocol being approved was deemed sufficient.",
+        "section": "Data and statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "In the first protocol, we calculated that to have 80% power to detect a decrease of 0\u20228 in the proportion of raised newborn TSH values, from an anticipated incidence of 10% in the control group to 2% in the treatment group, with a significance level of 0\u202205 (twosided), we would require a sample size of 250 women per group; anticipating a 30-35% loss to followup, we aimed to enrol 800 pregnant women to our study.",
+            "In the second protocol, we calculated that to have 80% power to detect a 5point difference on the full scale IQ score of the WPPSIIII between groups at 5-6 years, with SD of 15, and a significance level of 0\u202205 (twosided), we would require a sample size of 142 children per group on the 27 anticipating a loss to followup of about 25% between 2 years and 5-6 years, our sample size of 218 children in the iodine group and 212 in the placebo group at the time of the second protocol being approved was deemed sufficient."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Gestational age was estimated from maternal report of last menstrual period at the first prenatal visit and confirmed by a dating ultrasound later in pregnancy. BMI was calculated by bodyweight (kg) divided by height (m) squared. We used WHO criteria based on the median urinary iodine concentration to classify adequate iodine intake for pregnant women (\u2265150 \u03bcg/L), postpartum women, infants, and children (\u2265100 \u03bcg/L). 3 Overt hypo thyroidism was defined as a high TSH and a low total T 4 ; subclinical hypothyroidism as a high TSH and a normal total T 4 ; isolated hypothyroxinaemia (in the pregnant women) was defined as a normal TSH and a low total T 4 ; overt hyperthyroidism was defined as a low TSH and a high total T 4 ; subclinical hyperthyroidism as a low TSH and a normal total T 4 . Thyroid function tests from the mothers were measured only after delivery. From the thyroid ultrasound measurements, we calculated thyroid volume as previously described. 3 We defined low birthweight as weight at birth of less than 2\u20225 kg irrespective of gestational age, 28 preterm birth as gesta tional age at birth of less than 37 completed weeks, and stunting as heightforage more than two SDs below the WHO Child Growth Standards median. 29 On the WPPSIIII, we defined a score of lower than 85 as abnormally low and a score of lower than 70 as severely abnormally low. 21 We analysed data using R (version 3.3.1). We ran de scriptive statistics for all variables. From crude continuous variables, we identified outliers by visual inspection of box plots stratified by group and timepoint. We assessed normality by testing the distribution of continuous variables against a normal distribution using the Shapiro Wilk W test. When departing significantly from normality, the variables were transformed using log(x), sqrt(x), or -1/x to correct positive skewness or x\u00b2, x\u00b3, or antilog(x) to correct negative skewness, until achieving W>0\u202297 before proceeding with further data analysis. Values in the text and tables are presented as mean (SD) for normally distributed data, median (IQR) for nonnormal data, and number (%) for prevalence. We assessed the intervention effect by fitting linear mixed effects models to continuous dependent variables and by fitting logistic regression mixed effects models to categorical dependent variables using maximum likelihood procedure for the estimation of variance components. Analysis was intention to treat and missing values were dropped from analysis by listwise deletion. During gestation, we defined the fixed effects on the variance as treatment, trimester, treatmentbytrimester interaction, household average monthly in come, maternal education, and maternal BMI at trial entry; the random structure was defined as study site=~trimester*treatment and individual=~trimester, to control for betweenstudy site and betweenindividual differences, respectively. At delivery and at 6 weeks after delivery, we defined the fixed effect as treatment, house hold average monthly income, maternal education, and maternal BMI at trial entry; whereas at 1, 2, and 5-6 years, we defined the fixed effect as treatment, household average monthly income, maternal education, child's birthweight, child's age, and child's sex. At these time points, in absence of a time variable, we defined the random structure as tester=~1 for cognitive outcomes and as study site=~1 for all other outcomes. We checked models' normality and homo scedasticity by residuals plot analysis. Statistical significance was set at p<0\u202205. In the assessment of the coprimary outcomes, to avoid type I error caused by multiple comparisons, a twotailed p value of <0\u202201 was considered statistically significant. This trial is registered at ClinicalTrials.gov, number NCT00791466.",
+        "section": "Data and statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "Gestational age was estimated from maternal report of last menstrual period at the first prenatal visit and confirmed by a dating ultrasound later in pregnancy.",
+            "BMI was calculated by bodyweight (kg) divided by height (m) squared.",
+            "We used WHO criteria based on the median urinary iodine concentration to classify adequate iodine intake for pregnant women (\u2265150 \u03bcg/L), postpartum women, infants, and children (\u2265100 \u03bcg/L).",
+            "3 Overt hypo thyroidism was defined as a high TSH and a low total T 4 ; subclinical hypothyroidism as a high TSH and a normal total T 4 ; isolated hypothyroxinaemia (in the pregnant women) was defined as a normal TSH and a low total T 4 ; overt hyperthyroidism was defined as a low TSH and a high total T 4 ; subclinical hyperthyroidism as a low TSH and a normal total T 4 .",
+            "Thyroid function tests from the mothers were measured only after delivery.",
+            "From the thyroid ultrasound measurements, we calculated thyroid volume as previously described.",
+            "3 We defined low birthweight as weight at birth of less than 2\u20225 kg irrespective of gestational age, 28 preterm birth as gesta tional age at birth of less than 37 completed weeks, and stunting as heightforage more than two SDs below the WHO Child Growth Standards median.",
+            "29 On the WPPSIIII, we defined a score of lower than 85 as abnormally low and a score of lower than 70 as severely abnormally low.",
+            "21 We analysed data using R (version 3.3.1).",
+            "We ran de scriptive statistics for all variables.",
+            "From crude continuous variables, we identified outliers by visual inspection of box plots stratified by group and timepoint.",
+            "We assessed normality by testing the distribution of continuous variables against a normal distribution using the Shapiro Wilk W test.",
+            "When departing significantly from normality, the variables were transformed using log(x), sqrt(x), or -1/x to correct positive skewness or x\u00b2, x\u00b3, or antilog(x) to correct negative skewness, until achieving W>0\u202297 before proceeding with further data analysis.",
+            "Values in the text and tables are presented as mean (SD) for normally distributed data, median (IQR) for nonnormal data, and number (%) for prevalence.",
+            "We assessed the intervention effect by fitting linear mixed effects models to continuous dependent variables and by fitting logistic regression mixed effects models to categorical dependent variables using maximum likelihood procedure for the estimation of variance components.",
+            "Analysis was intention to treat and missing values were dropped from analysis by listwise deletion.",
+            "During gestation, we defined the fixed effects on the variance as treatment, trimester, treatmentbytrimester interaction, household average monthly in come, maternal education, and maternal BMI at trial entry; the random structure was defined as study site=~trimester*treatment and individual=~trimester, to control for betweenstudy site and betweenindividual differences, respectively.",
+            "At delivery and at 6 weeks after delivery, we defined the fixed effect as treatment, house hold average monthly income, maternal education, and maternal BMI at trial entry; whereas at 1, 2, and 5-6 years, we defined the fixed effect as treatment, household average monthly income, maternal education, child's birthweight, child's age, and child's sex.",
+            "At these time points, in absence of a time variable, we defined the random structure as tester=~1 for cognitive outcomes and as study site=~1 for all other outcomes.",
+            "We checked models' normality and homo scedasticity by residuals plot analysis.",
+            "Statistical significance was set at p<0\u202205.",
+            "In the assessment of the coprimary outcomes, to avoid type I error caused by multiple comparisons, a twotailed p value of <0\u202201 was considered statistically significant.",
+            "This trial is registered at ClinicalTrials.gov, number NCT00791466."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication.",
+        "section": "Role of the funding source",
+        "section_number": 17,
+        "sentences": [
+            "The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+            "The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "We recruited pregnant women between Nov 18, 2008 , and March 12, 2011, and completed data collection on July 30, 2016. We assessed 1724 pregnant women for eligibility; 892 declined to participate or did not meet the inclusion criteria (figure 1). 514 pregnant women in Bangkok and 318 in Bangalore (n=832) were enrolled and randomly assigned to the two groups. Mean gestational age at trial entry was 10\u20227 weeks (SD 2\u20227) and median urinary iodine concentration was 131 \u00b5g/L (IQR 81-213), indicating mild iodine deficiency. 3 Baseline characteristics were similar between groups (table 1) . We analysed data from 399 children at age 1 year, 430 children at age 2 years, and 330 children at age 5\u20224 years; attrition was balanced between groups and the main reason was a move away from the trial area around the time of delivery (figure 1). Baseline characteristics of women who were lost to follow up did not differ from those of women who completed the study, although women completing the study were enrolled a mean 4\u20222 gestational days later (appendix p 1). The women in India had a higher median urinary iodine concentration at baseline than did those in Thailand (188 \u00b5g/L [IQR 97-338] vs 112 [75-170]; appendix p 2), with those in India at the lower end of iodine sufficiency. For each mother, compliance by tablet counting was assessed monthly and an average monthly compliance was calculated to assess study mean compliance. Groups did not differ (p=0\u202276, mixed effect model analysis). Mean compliance with supplementation was 87% (SD 13). No significant differences were evident between the iodine and placebo groups in any characteristics of the children who were tested for the primary outcomes at 5\u20224 years (appendix p 2).",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "We recruited pregnant women between Nov 18, 2008 , and March 12, 2011, and completed data collection on July 30, 2016.",
+            "We assessed 1724 pregnant women for eligibility; 892 declined to participate or did not meet the inclusion criteria (figure 1).",
+            "514 pregnant women in Bangkok and 318 in Bangalore (n=832) were enrolled and randomly assigned to the two groups.",
+            "Mean gestational age at trial entry was 10\u20227 weeks (SD 2\u20227) and median urinary iodine concentration was 131 \u00b5g/L (IQR 81-213), indicating mild iodine deficiency.",
+            "3 Baseline characteristics were similar between groups (table 1) .",
+            "We analysed data from 399 children at age 1 year, 430 children at age 2 years, and 330 children at age 5\u20224 years; attrition was balanced between groups and the main reason was a move away from the trial area around the time of delivery (figure 1).",
+            "Baseline characteristics of women who were lost to follow up did not differ from those of women who completed the study, although women completing the study were enrolled a mean 4\u20222 gestational days later (appendix p 1).",
+            "The women in India had a higher median urinary iodine concentration at baseline than did those in Thailand (188 \u00b5g/L [IQR 97-338] vs 112 [75-170]; appendix p 2), with those in India at the lower end of iodine sufficiency.",
+            "For each mother, compliance by tablet counting was assessed monthly and an average monthly compliance was calculated to assess study mean compliance.",
+            "Groups did not differ (p=0\u202276, mixed effect model analysis).",
+            "Mean compliance with supplementation was 87% (SD 13).",
+            "No significant differences were evident between the iodine and placebo groups in any characteristics of the children who were tested for the primary outcomes at 5\u20224 years (appendix p 2)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "At 5\u20224 years, no significant differences were evident between groups in children's mean WPPSIIII or BRIEFP scores, overall (figure 2; table 2) or by site (appendix p 6). These results did not change when testing gestational age at study entry as a covariate (data not shown). (table 3) .",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "At 5\u20224 years, no significant differences were evident between groups in children's mean WPPSIIII or BRIEFP scores, overall (figure 2; table 2) or by site (appendix p 6).",
+            "These results did not change when testing gestational age at study entry as a covariate (data not shown). (",
+            "table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Maternal urinary iodine concentration was significantly higher in the iodine group than in the placebo group during pregnancy (p<0\u20220001) but not at 6 weeks post partum (p=0\u202261; table 4). During pregnancy and at 6 weeks post partum, there were no significant differences between groups in maternal thyroid function tests, thyroid volume, TPOAb, or thyroid disorders; however, free T 4 and total T 4 were slightly higher in the iodine group during pregnancy (p=0\u20220005 and p=0\u202204, respectively). Free T 3 and total T 3 were slightly higher in the placebo group than in the iodine group at 6 weeks post partum (p=0\u202203, p=0\u20220003, respectively). Two cases of overt hypothyroidism were evident at baseline (both in the iodine group), but patients became euthyroid in the later trimesters. Although serum thyroglobulin concentration was less than 10 \u00b5g/L during pregnancy in both groups, 30 this marker was significantly higher in the placebo group than the iodine group (p=0\u20220009), suggesting mild thyroidal adjustment to the lower iodine intakes in the placebo group. No significant differences were evident between groups in sex, age, anthropometric variables, TSH, total T 4 , or urinary iodine concentration in children at birth, 1 year, 2 years, or 5\u20224 years post partum (table 3, appendix pp 3-5). Children in both groups were iodine sufficient on the basis of their median urinary iodine concentration. 3 No significant differences were evident between groups in frequency of preterm birth (21 [7%] . NBAS scores at 6 weeks after birth did not differ between groups (appendix pp 3-5). At 1 and 2 years of age, BSIDIII scores did not differ between groups, apart from the score for expressive language at 1 year, which was lower in the iodine group than in the placebo group (14\u20228 [SD 3\u20221] in the iodine group vsw 15\u20222 [3\u20223] in the placebo group; p=0\u2022009; appendix pp 3-5).",
+        "section": "Results",
+        "section_number": 20,
+        "sentences": [
+            "Maternal urinary iodine concentration was significantly higher in the iodine group than in the placebo group during pregnancy (p<0\u20220001) but not at 6 weeks post partum (p=0\u202261; table 4).",
+            "During pregnancy and at 6 weeks post partum, there were no significant differences between groups in maternal thyroid function tests, thyroid volume, TPOAb, or thyroid disorders; however, free T 4 and total T 4 were slightly higher in the iodine group during pregnancy (p=0\u20220005 and p=0\u202204, respectively).",
+            "Free T 3 and total T 3 were slightly higher in the placebo group than in the iodine group at 6 weeks post partum (p=0\u202203, p=0\u20220003, respectively).",
+            "Two cases of overt hypothyroidism were evident at baseline (both in the iodine group), but patients became euthyroid in the later trimesters.",
+            "Although serum thyroglobulin concentration was less than 10 \u00b5g/L during pregnancy in both groups, 30 this marker was significantly higher in the placebo group than the iodine group (p=0\u20220009), suggesting mild thyroidal adjustment to the lower iodine intakes in the placebo group.",
+            "No significant differences were evident between groups in sex, age, anthropometric variables, TSH, total T 4 , or urinary iodine concentration in children at birth, 1 year, 2 years, or 5\u20224 years post partum (table 3, appendix pp 3-5).",
+            "Children in both groups were iodine sufficient on the basis of their median urinary iodine concentration.",
+            "3 No significant differences were evident between groups in frequency of preterm birth (21 [7%] .",
+            "NBAS scores at 6 weeks after birth did not differ between groups (appendix pp 3-5).",
+            "At 1 and 2 years of age, BSIDIII scores did not differ between groups, apart from the score for expressive language at 1 year, which was lower in the iodine group than in the placebo group (14\u20228 [SD 3\u20221] in the iodine group vsw 15\u20222 [3\u20223] in the placebo group; p=0\u2022009; appendix pp 3-5)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "All adverse events during gestation and delivery were recorded; the frequency of adverse events did not differ between groups: 24 women in the iodine group and 28 in the placebo group reported adverse events (table 5) .",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "All adverse events during gestation and delivery were recorded; the frequency of adverse events did not differ between groups: 24 women in the iodine group and 28 in the placebo group reported adverse events (table 5) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "To our knowledge, this study is the first randomised, placebocontrolled trial to assess the effect of iodine supplementation in mildly iodinedeficient pregnant women on child development. Although we found higher scores on one subtest of the BSIDIII at 1 year (favouring placebo), there were no significant differences between groups in all other tests, including the coprimary outcomes (WPPSIIII verbal and performance IQ scores and BRIEFP global executive composite score at mean age 5\u20224 years). Thus, iodine supplementation of pregnant women who were mildly iodine deficient at baseline did not affect overall child neurodevelopment. In cohort studies in the UK and Australia, more severe maternal iodine deficiency than in our study (maternal median urinary iodine concentration of 91 \u00b5g/L and 81 \u00b5g/L, respectively) was associated with lower IQ 7 and reduced educational outcomes 8 at school age. However, findings from other cohort studies showed no difference in neurodevelopment in infants of mothers who had mild iodine deficiency or iodine sufficiency. 9 It is likely that any potential benefits of maternal iodine supplementation on offspring development would be caused by correction of mild maternal or fetal hypothyroidism; however, two controlled trials 31, 32 have reported that correction of sub clinical hypothyroidism or isolated hypothyroxinaemia with levothyroxine did not improve offspring development; one of these trials was in an iodinedeficient population. 32 We tested children at age 5-6 years because investigation at this age allows assessment of a wider array of cognitive functions, as opposed to broad domainwise assessment (motor, cognitive) in infancy. Scores on the BSIDIII at 1 and 2 years show only modest association with adult IQ, and developmental tests in children at 5 years or older are better predictors of adult intelligence than tests given during infancy. 33 The pregnant women in our study had a median urinary iodine concentration of 131 \u03bcg/L at baseline; this degree of mild maternal iodine deficiency is common worldwide: the national median concentration in preg nant women is 100-150 \u03bcg/L in many highincome and lowincome countries, despite adequate median urinary iodine concentrations in schoolaged children. 4, 6, 16 By site, the median urinary iodine concentration of the women in Thailand was in the deficient range while in India it was at the lower end of iodine sufficiency. Despite this difference, there were no sitespecific differences in the effects of iodine supplementation on the primary outcomes (appendix p 6). We chose a daily dose of 200 \u00b5g because expert recommendations vary: the American Thyroid Association 12 and the European Thyroid Association 13 recommend 150 \u00b5g per day whereas WHO recommends 250 \u00b5g per day. 3 The 200 \u03bcg dose of iodine was effective: in the iodine group, median urinary iodine concentration increased to 231-247 \u03bcg/L in the second and third trimesters, at the upper end of the reference range for pregnancy of 150-249 \u03bcg/L. 3 Iodine supplementation had minimal effects on maternal thyroid function; there were no differences in thyroid disorders between the iodine and placebo groups, and nearly all women were euthyroid. The marginally higher TSH and thyroglobulin concentrations in the placebo group might represent physiological adaptation of the maternal thyroid to low iodine intake through increased turnover of thyroidal iodine stores. However, these small differences in thyroid function (as well as the slight Continuous data were analysed using linear mixed effect models with non-transformed or transformed dependent variable, and frequencies were analysed using mixed effects logistic regression. During gestation: testing the interaction effect of time (first to third trimester) by treatment (iodine vs placebo) and controlling for household average monthly income, maternal education, and maternal BMI at trial entry. At 6 weeks post partum: testing treatment (iodine vs placebo) effect and controlling for household average monthly income, maternal education, and maternal BMI at trial entry. T 3 =tri-iodothyronine. T 4 =thyroxine. TPO-Ab=antithyroid peroxidase antibodies. maternal differences in T 3 post partum) are unlikely to be of clinical significance. Our findings are similar to previous studies of iodine supplementation in mildto moderately iodinedeficient pregnant women, 5 in which iodine did not improve concentrations of maternal or newborn thyroid hormones, which are likely to be the best biomarker for healthy fetal development.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "To our knowledge, this study is the first randomised, placebocontrolled trial to assess the effect of iodine supplementation in mildly iodinedeficient pregnant women on child development.",
+            "Although we found higher scores on one subtest of the BSIDIII at 1 year (favouring placebo), there were no significant differences between groups in all other tests, including the coprimary outcomes (WPPSIIII verbal and performance IQ scores and BRIEFP global executive composite score at mean age 5\u20224 years).",
+            "Thus, iodine supplementation of pregnant women who were mildly iodine deficient at baseline did not affect overall child neurodevelopment.",
+            "In cohort studies in the UK and Australia, more severe maternal iodine deficiency than in our study (maternal median urinary iodine concentration of 91 \u00b5g/L and 81 \u00b5g/L, respectively) was associated with lower IQ 7 and reduced educational outcomes 8 at school age.",
+            "However, findings from other cohort studies showed no difference in neurodevelopment in infants of mothers who had mild iodine deficiency or iodine sufficiency.",
+            "9 It is likely that any potential benefits of maternal iodine supplementation on offspring development would be caused by correction of mild maternal or fetal hypothyroidism; however, two controlled trials 31, 32 have reported that correction of sub clinical hypothyroidism or isolated hypothyroxinaemia with levothyroxine did not improve offspring development; one of these trials was in an iodinedeficient population.",
+            "32 We tested children at age 5-6 years because investigation at this age allows assessment of a wider array of cognitive functions, as opposed to broad domainwise assessment (motor, cognitive) in infancy.",
+            "Scores on the BSIDIII at 1 and 2 years show only modest association with adult IQ, and developmental tests in children at 5 years or older are better predictors of adult intelligence than tests given during infancy.",
+            "33 The pregnant women in our study had a median urinary iodine concentration of 131 \u03bcg/L at baseline; this degree of mild maternal iodine deficiency is common worldwide: the national median concentration in preg nant women is 100-150 \u03bcg/L in many highincome and lowincome countries, despite adequate median urinary iodine concentrations in schoolaged children.",
+            "4, 6, 16 By site, the median urinary iodine concentration of the women in Thailand was in the deficient range while in India it was at the lower end of iodine sufficiency.",
+            "Despite this difference, there were no sitespecific differences in the effects of iodine supplementation on the primary outcomes (appendix p 6).",
+            "We chose a daily dose of 200 \u00b5g because expert recommendations vary: the American Thyroid Association 12 and the European Thyroid Association 13 recommend 150 \u00b5g per day whereas WHO recommends 250 \u00b5g per day.",
+            "3 The 200 \u03bcg dose of iodine was effective: in the iodine group, median urinary iodine concentration increased to 231-247 \u03bcg/L in the second and third trimesters, at the upper end of the reference range for pregnancy of 150-249 \u03bcg/L. 3 Iodine supplementation had minimal effects on maternal thyroid function; there were no differences in thyroid disorders between the iodine and placebo groups, and nearly all women were euthyroid.",
+            "The marginally higher TSH and thyroglobulin concentrations in the placebo group might represent physiological adaptation of the maternal thyroid to low iodine intake through increased turnover of thyroidal iodine stores.",
+            "However, these small differences in thyroid function (as well as the slight Continuous data were analysed using linear mixed effect models with non-transformed or transformed dependent variable, and frequencies were analysed using mixed effects logistic regression.",
+            "During gestation: testing the interaction effect of time (first to third trimester) by treatment (iodine vs placebo) and controlling for household average monthly income, maternal education, and maternal BMI at trial entry.",
+            "At 6 weeks post partum: testing treatment (iodine vs placebo) effect and controlling for household average monthly income, maternal education, and maternal BMI at trial entry.",
+            "T 3 =tri-iodothyronine.",
+            "T 4 =thyroxine.",
+            "TPO-Ab=antithyroid peroxidase antibodies.",
+            "maternal differences in T 3 post partum) are unlikely to be of clinical significance.",
+            "Our findings are similar to previous studies of iodine supplementation in mildto moderately iodinedeficient pregnant women, 5 in which iodine did not improve concentrations of maternal or newborn thyroid hormones, which are likely to be the best biomarker for healthy fetal development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Although iodine supplementation is generally thought to be safe in healthy pregnant women, 3, 12, 13 observational studies have suggested that it might not be without risk. 9, 15 A large cohort study (>1500 motherinfant pairs) in iodine sufficient areas of Spain reported maternal intake of a multivitaminmineral supplement containing at least 150 \u03bcg of iodine per day, compared with intake of a sup plement containing less than 100 \u03bcg iodine per day, increased risk of a BSIDIII motor score of less than 85 in 1yearold children. 9 In a crosssectional study of 7190 pregnant women at 4-8 weeks' gestation in an iodine sufficient region of China, spot urinary iodine concen trations of 250-499 \u03bcg/L and 500 \u03bcg/L or more were associated with 1\u20227 times and 2\u20222 times increased risk of subclinical hypothyroidism, respectively, compared with concentrations of 150-250 \u03bcg/L. 15 Additionally, urinary iodine concentrations of 500 \u03bcg/L or more were associated with a 2\u20229 times increased risk of isolated hypo thyroxinaemia and higher TPOAb positivity in pregnant women. 15 By contrast, our data suggest no detrimental effect of iodine supplementation, consistent with previous supplementation studies in pregnant women. 5 Our study has several strengths. It was randomised and placebocontrolled, compliance was high, and the baseline median urinary iodine concentration was representative of mild iodine deficiency reported in many national studies of pregnant women. We assessed thyroid function at multiple prenatal and postnatal timepoints, and comprehensively assessed neuro cognitive outcomes including IQ and executive functions and behaviour at early school age to increase validity. 33 Asking mothers to rate their own child using SDQ and the BRIEFP might have introduced bias, although this would probably have been similar between groups. The women began iodine supplementation at a mean gestational age of 10\u20227 weeks. Beginning supple mentation earlier might have resulted in different findings, because the fetal brain rapidly develops in the first trimester. 1,2 However, we did not find an effect of gestational age at entry on any of the developmental outcomes in a secondary analysis of the iodine group. We confirmed iodine sufficiency in offspring using repeated measurements of urinary iodine concentration; the only significant difference in median urinary iodine concentrations were due to increased maternal iodine intakes caused by supplementation during gestation.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Although iodine supplementation is generally thought to be safe in healthy pregnant women, 3, 12, 13 observational studies have suggested that it might not be without risk.",
+            "9, 15 A large cohort study (>1500 motherinfant pairs) in iodine sufficient areas of Spain reported maternal intake of a multivitaminmineral supplement containing at least 150 \u03bcg of iodine per day, compared with intake of a sup plement containing less than 100 \u03bcg iodine per day, increased risk of a BSIDIII motor score of less than 85 in 1yearold children.",
+            "9 In a crosssectional study of 7190 pregnant women at 4-8 weeks' gestation in an iodine sufficient region of China, spot urinary iodine concen trations of 250-499 \u03bcg/L and 500 \u03bcg/L or more were associated with 1\u20227 times and 2\u20222 times increased risk of subclinical hypothyroidism, respectively, compared with concentrations of 150-250 \u03bcg/L. 15 Additionally, urinary iodine concentrations of 500 \u03bcg/L or more were associated with a 2\u20229 times increased risk of isolated hypo thyroxinaemia and higher TPOAb positivity in pregnant women.",
+            "15 By contrast, our data suggest no detrimental effect of iodine supplementation, consistent with previous supplementation studies in pregnant women.",
+            "5 Our study has several strengths.",
+            "It was randomised and placebocontrolled, compliance was high, and the baseline median urinary iodine concentration was representative of mild iodine deficiency reported in many national studies of pregnant women.",
+            "We assessed thyroid function at multiple prenatal and postnatal timepoints, and comprehensively assessed neuro cognitive outcomes including IQ and executive functions and behaviour at early school age to increase validity.",
+            "33 Asking mothers to rate their own child using SDQ and the BRIEFP might have introduced bias, although this would probably have been similar between groups.",
+            "The women began iodine supplementation at a mean gestational age of 10\u20227 weeks.",
+            "Beginning supple mentation earlier might have resulted in different findings, because the fetal brain rapidly develops in the first trimester.",
+            "1,2 However, we did not find an effect of gestational age at entry on any of the developmental outcomes in a secondary analysis of the iodine group.",
+            "We confirmed iodine sufficiency in offspring using repeated measurements of urinary iodine concentration; the only significant difference in median urinary iodine concentrations were due to increased maternal iodine intakes caused by supplementation during gestation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Our study also has limitations. We used the median urinary iodine concentration from spot samples to classify population iodine status in pregnant women according to recommendations from WHO, 3 but urinary iodine concentration is a poor marker of individual status. 34 Thus, whether all women included in this study were iodine deficient is uncertain and exposure misclassification might have biased our results. We did not collect 24 h urine samples or measure urinary creatinine because these often do not reduce withinindividual variability compared with a spot urinary iodine concentration. 34 The median urinary iodine concentration in the placebo group remained within the recommended range (although at the lower end) in the second and third trimesters; 3 this finding might have been caused by a physiological increase in renal iodine clearance 5 or by being enrolled into the study and being told about the importance of iodine nutrition during pregnancy, prompting the women to consume more iodinerich foods, which might have biased our trial towards a null effect. The dropout rate was high around delivery because many women returned to their hometowns to deliver or care for their babies; thereafter, attrition was low and most children remained in the study. Attrition was balanced between groups, the study was randomised, and there were no significant differences in baseline characteristics between those who completed the study and those lost to followup by delivery, suggesting no strong attrition bias that would compromise generalisability. The final sample size at 5\u20224 years (n=313) was well above the estimated sample size (n=284) needed to discriminate a 5point difference in WPPSIIII score between groups, suggesting that attrition did not result in a type I error in the primary outcomes.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Our study also has limitations.",
+            "We used the median urinary iodine concentration from spot samples to classify population iodine status in pregnant women according to recommendations from WHO, 3 but urinary iodine concentration is a poor marker of individual status.",
+            "34 Thus, whether all women included in this study were iodine deficient is uncertain and exposure misclassification might have biased our results.",
+            "We did not collect 24 h urine samples or measure urinary creatinine because these often do not reduce withinindividual variability compared with a spot urinary iodine concentration.",
+            "34 The median urinary iodine concentration in the placebo group remained within the recommended range (although at the lower end) in the second and third trimesters; 3 this finding might have been caused by a physiological increase in renal iodine clearance 5 or by being enrolled into the study and being told about the importance of iodine nutrition during pregnancy, prompting the women to consume more iodinerich foods, which might have biased our trial towards a null effect.",
+            "The dropout rate was high around delivery because many women returned to their hometowns to deliver or care for their babies; thereafter, attrition was low and most children remained in the study.",
+            "Attrition was balanced between groups, the study was randomised, and there were no significant differences in baseline characteristics between those who completed the study and those lost to followup by delivery, suggesting no strong attrition bias that would compromise generalisability.",
+            "The final sample size at 5\u20224 years (n=313) was well above the estimated sample size (n=284) needed to discriminate a 5point difference in WPPSIIII score between groups, suggesting that attrition did not result in a type I error in the primary outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "In conclusion, supplementation with 200 \u03bcg iodine in mildly iodinedeficient pregnant women was safe and increased iodine intakes into the sufficient range. However, iodine supplementation had no clear benefits on maternal thyroid function or child neurodevelopment. Our findings suggest that pregnant women might be able to physio logically adapt to mildly low iodine intakes during pregnancy, draw from intrathyroidal iodine stores, and maintain fetal euthyroidism allowing for normal inutero development. 5 This conclusion is con sistent with current WHO recommendations 14 that iodine supplementation is unlikely to be of harm, but might not be justified in mildly iodinedeficient pregnant women residing in countries with effective iodised salt programmes where other population groups have sufficient iodine intakes. Future intervention trials in pregnant women with more severe iodine deficiency (eg, with a median urinary iodine concentration <100 \u03bcg/L) and in settings where women of reproductive age are clearly iodine deficient would be valuable.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "In conclusion, supplementation with 200 \u03bcg iodine in mildly iodinedeficient pregnant women was safe and increased iodine intakes into the sufficient range.",
+            "However, iodine supplementation had no clear benefits on maternal thyroid function or child neurodevelopment.",
+            "Our findings suggest that pregnant women might be able to physio logically adapt to mildly low iodine intakes during pregnancy, draw from intrathyroidal iodine stores, and maintain fetal euthyroidism allowing for normal inutero development.",
+            "5 This conclusion is con sistent with current WHO recommendations 14 that iodine supplementation is unlikely to be of harm, but might not be justified in mildly iodinedeficient pregnant women residing in countries with effective iodised salt programmes where other population groups have sufficient iodine intakes.",
+            "Future intervention trials in pregnant women with more severe iodine deficiency (eg, with a median urinary iodine concentration <100 \u03bcg/L) and in settings where women of reproductive age are clearly iodine deficient would be valuable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Contributors SG, NJ, AMB, IM, PW, KS, and MBZ designed the study. SG, NJ, ST, PW, and KS did the field work. SG, NJ, and SS did the laboratory analyses. SG, NJ, AMB, VG, and TT did the statistical analysis. SG, NJ, AMB, VG, and MBZ wrote the first draft of the report and all authors edited and approved the final text.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Contributors SG, NJ, AMB, IM, PW, KS, and MBZ designed the study.",
+            "SG, NJ, ST, PW, and KS did the field work.",
+            "SG, NJ, and SS did the laboratory analyses.",
+            "SG, NJ, AMB, VG, and TT did the statistical analysis.",
+            "SG, NJ, AMB, VG, and MBZ wrote the first draft of the report and all authors edited and approved the final text."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "We declare no competing interests.",
+        "section": "Declaration of interests",
+        "section_number": 27,
+        "sentences": [
+            "We declare no competing interests."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "www.thelancet.com/diabetes-endocrinology Vol 5 November 2017",
+        "section": "",
+        "section_number": 28,
+        "sentences": [
+            "www.thelancet.com/diabetes-endocrinology Vol 5 November 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37304",
+        "text": "Downloaded for Anonymous User (n/a) at University of Alberta from ClinicalKey.com by Elsevier on March 17, 2020.For personal use only. No other uses without permission. Copyright \u00a92020. Elsevier Inc. All rights reserved.",
+        "section": "",
+        "section_number": 29,
+        "sentences": [
+            "Downloaded for Anonymous User (n/a) at University of Alberta from ClinicalKey.com by Elsevier on March 17, 2020.For personal use only.",
+            "No other uses without permission.",
+            "Copyright \u00a92020.",
+            "Elsevier Inc. All rights reserved."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

@@ -1,0 +1,915 @@
+[
+    {
+        "doc_id": "37688",
+        "text": "A cluster randomized effectiveness trial was used to examine the effects on mental development of introducing iodized salt to children 4 to 6 years of age in Ethiopia, where there were reportedly high levels of iodine deficiency. Sixty district clusters were randomized to receive iodized salt early at their markets with assistance from regular salt distributors or later as introduced by market forces. At pre-and post-iodization, 1602 children were given cognitive/language tests (namely School Readiness, WPPSI verbal reasoning, WPPSI Matrix reasoning), and mothers were interviewed concerning demographics, nutrition and health. Children's weight, height, urine and a blood sample were taken. Analyses of covariance, adjusting for clustering and baseline levels were conducted. Urinary iodine concentrations were significantly higher at endline in the intervention children than controls though both medians were above threshold. Overall, less than 5% were anemic. There were no significant main effect differences between groups on the cognitive/language tests, but there were effect modifiers, namely mother's education, child's sex and diet. For example, the intervention group performed better on the school readiness test than controls if their mothers had attended school, but not otherwise. In conclusion, the data are consistent with negative findings from studies where children 6 to 12 years were supplemented with an iodine capsule, indicating that the benefits of iodine, in salt or capsule form, for brain development may be restricted to children under 3 years. Yet, benefits may be tied to those with more educational resources or may compensate for conditions of disadvantage.",
+        "section": "Abstract",
+        "sentences": [
+            "A cluster randomized effectiveness trial was used to examine the effects on mental development of introducing iodized salt to children 4 to 6 years of age in Ethiopia, where there were reportedly high levels of iodine deficiency.",
+            "Sixty district clusters were randomized to receive iodized salt early at their markets with assistance from regular salt distributors or later as introduced by market forces.",
+            "At pre-and post-iodization, 1602 children were given cognitive/language tests (namely School Readiness, WPPSI verbal reasoning, WPPSI Matrix reasoning), and mothers were interviewed concerning demographics, nutrition and health.",
+            "Children's weight, height, urine and a blood sample were taken.",
+            "Analyses of covariance, adjusting for clustering and baseline levels were conducted.",
+            "Urinary iodine concentrations were significantly higher at endline in the intervention children than controls though both medians were above threshold.",
+            "Overall, less than 5% were anemic.",
+            "There were no significant main effect differences between groups on the cognitive/language tests, but there were effect modifiers, namely mother's education, child's sex and diet.",
+            "For example, the intervention group performed better on the school readiness test than controls if their mothers had attended school, but not otherwise.",
+            "In conclusion, the data are consistent with negative findings from studies where children 6 to 12 years were supplemented with an iodine capsule, indicating that the benefits of iodine, in salt or capsule form, for brain development may be restricted to children under 3 years.",
+            "Yet, benefits may be tied to those with more educational resources or may compensate for conditions of disadvantage."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "A number of modifiable conditions conspire to prevent many children under 5 years of age worldwide from reaching their mental development potential. From a nutrition perspective, iodine deficiency is regarded as the most common cause of preventable cognitive impairment worldwide (World Health Organization 2014; Zimmermann et al. 2008) . National estimates of iodine deficiency, based on urinary iodine concentrations (UIC) of school-aged children from 2011, show that 30% of the world's population are iodine deficient (UIC < 100 \u03bcg/L), and 5.2% are severely deficient (UIC < 20 \u03bcg/L) (Andersson et al. 2012) . Among the 10 African countries showing high levels of iodine deficiency, Ethiopia ranks first. A recent national survey of households in Ethiopia with a sample size of 10 965 children aged 6 to 12 years confirmed the seriousness of the problem: the median urinary iodine concentration was 24.5 \u03bcg/L, with 45.8% of the sample being severely deficient (Abuye et al. 2007) . Whereas urine concentrations reveal recent intake of iodine, the presence of goiter reveals longer-term deficiencies in intake; the goiter rate was 39.9%. Worldwide, the number of countries with iodine deficiencies has been declining as countries adopt universal salt iodization strategy. The objective of the current study was to use a randomized design to examine the effect of iodized salt on children's mental development in northern Ethiopia.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "A number of modifiable conditions conspire to prevent many children under 5 years of age worldwide from reaching their mental development potential.",
+            "From a nutrition perspective, iodine deficiency is regarded as the most common cause of preventable cognitive impairment worldwide (World Health Organization 2014; Zimmermann et al. 2008) .",
+            "National estimates of iodine deficiency, based on urinary iodine concentrations (UIC) of school-aged children from 2011, show that 30% of the world's population are iodine deficient (UIC < 100 \u03bcg/L), and 5.2% are severely deficient (UIC < 20 \u03bcg/L) (Andersson et al. 2012) .",
+            "Among the 10 African countries showing high levels of iodine deficiency, Ethiopia ranks first.",
+            "A recent national survey of households in Ethiopia with a sample size of 10 965 children aged 6 to 12 years confirmed the seriousness of the problem: the median urinary iodine concentration was 24.5 \u03bcg/L, with 45.8% of the sample being severely deficient (Abuye et al. 2007) .",
+            "Whereas urine concentrations reveal recent intake of iodine, the presence of goiter reveals longer-term deficiencies in intake; the goiter rate was 39.9%.",
+            "Worldwide, the number of countries with iodine deficiencies has been declining as countries adopt universal salt iodization strategy.",
+            "The objective of the current study was to use a randomized design to examine the effect of iodized salt on children's mental development in northern Ethiopia."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "There is a general understanding that iodine in the form of two thyroid hormones, thyroxine and triiodothyronine, is important in early brain development (Delange 1994) . Not only does it regulate the timing of differentiation of neural tissue in the brain during the fetal stage, but iodine continues postnatally to determine the number of glial cells produced in preparation for the creation of a myelin sheath that coats neural axons in the brain (Bernal et al. 2003 ). Yet careful scrutiny of the research raises questions about the timing of effects of iodine supplementation on mental development in iodine-deficient children (Melse-Boonstra & Jaiswal 2010; Zimmermann et al. 2008) . According to a recent meta-analysis, an effect size of d = 0.48 showed a moderate effect on the cognitive development of children under 3 years following iodine supplementation of their mothers during pregnancy (Bougma et al. 2013) . This is sometimes translated into half a standard deviation difference on a test of intelligence, meaning 7.0 IQ points. Randomized control trials (RCT) with school children aged 6 to 12 years are mainly non-significant. Eight trials (Bautista et al. 1982; Connolly et al. 1979; Gordon et al. 2009; Huda et al. 2001; Solon et al. 2003; Untoro et al. 1999; van den Briel et al. 2000; Zimmermann et al. 2006) , conducted mainly in low-and middle-income countries, supplemented children with a single high dose (400-800 mg) of iodine and measured cognitive development up to 6 months later. On verbal, nonverbal and speed of processing tests, the performance of iodine-supplemented children surpassed controls on only 8 out of 32 outcomes. Thus the effects of iodine found in the early years appear to be diminished in school-aged children. Little is known about the effects of iodine supplements for children between birth and 6 years, especially after 24 months when myelination is largely complete. Although axons and synapses are being pruned for lack of use during these years, remaining axons continue to receive thicker myelin for many years particularly in brain regions underlying language and numeracy (Bernal et al. 2003; Zoeller & Rovet 2004) . It is important to determine whether the window for iodine benefits extends to the preschool years.",
+        "section": "Iodine and mental development",
+        "section_number": 2,
+        "sentences": [
+            "There is a general understanding that iodine in the form of two thyroid hormones, thyroxine and triiodothyronine, is important in early brain development (Delange 1994) .",
+            "Not only does it regulate the timing of differentiation of neural tissue in the brain during the fetal stage, but iodine continues postnatally to determine the number of glial cells produced in preparation for the creation of a myelin sheath that coats neural axons in the brain (Bernal et al. 2003 ).",
+            "Yet careful scrutiny of the research raises questions about the timing of effects of iodine supplementation on mental development in iodine-deficient children (Melse-Boonstra & Jaiswal 2010; Zimmermann et al. 2008) .",
+            "According to a recent meta-analysis, an effect size of d = 0.48 showed a moderate effect on the cognitive development of children under 3 years following iodine supplementation of their mothers during pregnancy (Bougma et al. 2013) .",
+            "This is sometimes translated into half a standard deviation difference on a test of intelligence, meaning 7.0 IQ points.",
+            "Randomized control trials (RCT) with school children aged 6 to 12 years are mainly non-significant.",
+            "Eight trials (Bautista et al. 1982; Connolly et al. 1979; Gordon et al. 2009; Huda et al. 2001; Solon et al. 2003; Untoro et al. 1999; van den Briel et al. 2000; Zimmermann et al. 2006) , conducted mainly in low-and middle-income countries, supplemented children with a single high dose (400-800 mg) of iodine and measured cognitive development up to 6 months later.",
+            "On verbal, nonverbal and speed of processing tests, the performance of iodine-supplemented children surpassed controls on only 8 out of 32 outcomes.",
+            "Thus the effects of iodine found in the early years appear to be diminished in school-aged children.",
+            "Little is known about the effects of iodine supplements for children between birth and 6 years, especially after 24 months when myelination is largely complete.",
+            "Although axons and synapses are being pruned for lack of use during these years, remaining axons continue to receive thicker myelin for many years particularly in brain regions underlying language and numeracy (Bernal et al. 2003; Zoeller & Rovet 2004) .",
+            "It is important to determine whether the window for iodine benefits extends to the preschool years."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "A second issue concerns the effects of iodized salt, at habitual low daily doses, on children's cognitive and language development. Iodizing salt is the public health strategy adopted by most countries to address iodine deficiency and where soil and water are naturally low in iodine. Young children may be better able to metabolize iodine from salt than from large doses of iodide oil (Bouhouch et al. 2014 ). Yet the exposure to, duration, and quality of iodized salt will vary by child and household just as breast milk does in studies where mothers and newborns are randomized to Baby-Friendly Hospitals (Kramer et al. 2008) . Very little research has been conducted to examine the effects of iodized salt on children's development, and none used a randomized design with preschool-aged children (Aburto et al. 2014) .",
+        "section": "Iodine and mental development",
+        "section_number": 3,
+        "sentences": [
+            "A second issue concerns the effects of iodized salt, at habitual low daily doses, on children's cognitive and language development.",
+            "Iodizing salt is the public health strategy adopted by most countries to address iodine deficiency and where soil and water are naturally low in iodine.",
+            "Young children may be better able to metabolize iodine from salt than from large doses of iodide oil (Bouhouch et al. 2014 ).",
+            "Yet the exposure to, duration, and quality of iodized salt will vary by child and household just as breast milk does in studies where mothers and newborns are randomized to Baby-Friendly Hospitals (Kramer et al. 2008) .",
+            "Very little research has been conducted to examine the effects of iodized salt on children's development, and none used a randomized design with preschool-aged children (Aburto et al. 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "\u2022 A cluster RCT on the effects of iodized salt with iodine deficient Ethiopian children 4 to 6 years found no significant main effects on cognitive and language tests.",
+        "section": "Key messages",
+        "section_number": 4,
+        "sentences": [
+            "\u2022 A cluster RCT on the effects of iodized salt with iodine deficient Ethiopian children 4 to 6 years found no significant main effects on cognitive and language tests."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "\u2022 Iodized salt had a beneficial effect on children whose mothers had some schooling but not on children whose mothers lacked schooling.",
+        "section": "Key messages",
+        "section_number": 5,
+        "sentences": [
+            "\u2022 Iodized salt had a beneficial effect on children whose mothers had some schooling but not on children whose mothers lacked schooling."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "\u2022 Effects of iodized salt on mental development of preschool-aged children might be enhanced when combined with home and preschool psychosocial stimulation.",
+        "section": "Key messages",
+        "section_number": 6,
+        "sentences": [
+            "\u2022 Effects of iodized salt on mental development of preschool-aged children might be enhanced when combined with home and preschool psychosocial stimulation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "\u2022 There may be a narrow window in the early childhood years when thyroid hormones enhance mental development through expansion of synapses and myelination of axons.",
+        "section": "Key messages",
+        "section_number": 7,
+        "sentences": [
+            "\u2022 There may be a narrow window in the early childhood years when thyroid hormones enhance mental development through expansion of synapses and myelination of axons."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Three cross-sectional studies and one review of 37 studies in China with non-randomized groups found positive effects of iodized salt on children 6 to 12 years (e.g. Amarra et al. 2007; Gao et al. 2004; Qian et al. 2005; Santiago-Fernandez et al. 2004) . Non-randomized groups, however, often have differences in rural-urban residence and maternal education that are not controlled yet likely affect children's development.",
+        "section": "Key messages",
+        "section_number": 8,
+        "sentences": [
+            "Three cross-sectional studies and one review of 37 studies in China with non-randomized groups found positive effects of iodized salt on children 6 to 12 years (e.g. Amarra et al. 2007; Gao et al. 2004; Qian et al. 2005; Santiago-Fernandez et al. 2004) .",
+            "Non-randomized groups, however, often have differences in rural-urban residence and maternal education that are not controlled yet likely affect children's development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Iodine is naturally lacking in the soil and water of Ethiopia (Abuye et al. 2008; Abuye & Kelbessa 2000) , as it is in many other countries. To produce and distribute iodized salt at the national level required a number of pre-conditions, namely legislation to allow the sale of only iodized salt (passed February 2011), agreement among salt producers and distributors to iodize their salt and provision of iodization machines and potassium iodate. These conditions were fulfilled by March 2012. Although the initial quality of salt was not expected to meet the 15 ppm level required, and distribution would be gradual, the change-over provided a valuable opportunity to study the effects of iodized salt on children's mental development using a randomized cluster design. Rather than providing iodized salt at the household level, which might later undermine its adoption through normal market channels, we worked with distributors to deliver the first produced iodized salt to randomly assigned intervention village markets, and let market forces deliver it naturally to control villages. Children eat off the same plate as the rest of the family and so were expected to ingest their share of iodized salt added to food during cooking.",
+        "section": "Iodine and child development in Ethiopia",
+        "section_number": 9,
+        "sentences": [
+            "Iodine is naturally lacking in the soil and water of Ethiopia (Abuye et al. 2008; Abuye & Kelbessa 2000) , as it is in many other countries.",
+            "To produce and distribute iodized salt at the national level required a number of pre-conditions, namely legislation to allow the sale of only iodized salt (passed February 2011), agreement among salt producers and distributors to iodize their salt and provision of iodization machines and potassium iodate.",
+            "These conditions were fulfilled by March 2012.",
+            "Although the initial quality of salt was not expected to meet the 15 ppm level required, and distribution would be gradual, the change-over provided a valuable opportunity to study the effects of iodized salt on children's mental development using a randomized cluster design.",
+            "Rather than providing iodized salt at the household level, which might later undermine its adoption through normal market channels, we worked with distributors to deliver the first produced iodized salt to randomly assigned intervention village markets, and let market forces deliver it naturally to control villages.",
+            "Children eat off the same plate as the rest of the family and so were expected to ingest their share of iodized salt added to food during cooking."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "A search for studies on the cognitive and language consequences of iodine deficiency in Ethiopia turned up one study. Children from 4 to 6 years were tested on a battery of eight memory and processing subtests of the Kaufmann Assessment Battery for Children (Bogale et al. 2009) . One of the memory tests was positively correlated with UIC; 93% of the children had UIC < 10 \u03bcg/L, so variation was all at the low end. Here we decided to use broader measures of cognitive (nonverbal reasoning), verbal reasoning and achievement of school readiness skills commonly included in assessments of preschool-aged children (Aboud 2006) .",
+        "section": "Iodine and child development in Ethiopia",
+        "section_number": 10,
+        "sentences": [
+            "A search for studies on the cognitive and language consequences of iodine deficiency in Ethiopia turned up one study.",
+            "Children from 4 to 6 years were tested on a battery of eight memory and processing subtests of the Kaufmann Assessment Battery for Children (Bogale et al. 2009) .",
+            "One of the memory tests was positively correlated with UIC; 93% of the children had UIC < 10 \u03bcg/L, so variation was all at the low end.",
+            "Here we decided to use broader measures of cognitive (nonverbal reasoning), verbal reasoning and achievement of school readiness skills commonly included in assessments of preschool-aged children (Aboud 2006) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The hypothesis was that iodized salt would enhance mental development outcomes for intervention children in rural villages randomized to receive it early compared with control children.",
+        "section": "Iodine and child development in Ethiopia",
+        "section_number": 11,
+        "sentences": [
+            "The hypothesis was that iodized salt would enhance mental development outcomes for intervention children in rural villages randomized to receive it early compared with control children."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The study used a cluster randomized design in which clusters were defined as districts randomly assigned to receive iodized salt as early as it was available (intervention) or when market forces brought it in (control). The setting was the Amhara region of northern Ethiopia which in previous studies had an adult goiter rate of 29% (Abuye et al. 2007) . Excluded were 4 of 10 zones for reasons concerning language, university medical training, alternative salt source and urbanization. Most of the rural population is engaged in subsistence farming. The caregiver, usually the mother, provided written consent. Ethics approval was obtained from McGill University, the Ethiopian Public Health Institute and the National Research Ethics Review Committee. Approval was also obtained from the Amhara Regional Health Board. The trial was registered with ClinicalTrials.gov, NCT01349634.",
+        "section": "Method Design and participants",
+        "section_number": 12,
+        "sentences": [
+            "The study used a cluster randomized design in which clusters were defined as districts randomly assigned to receive iodized salt as early as it was available (intervention) or when market forces brought it in (control).",
+            "The setting was the Amhara region of northern Ethiopia which in previous studies had an adult goiter rate of 29% (Abuye et al. 2007) .",
+            "Excluded were 4 of 10 zones for reasons concerning language, university medical training, alternative salt source and urbanization.",
+            "Most of the rural population is engaged in subsistence farming.",
+            "The caregiver, usually the mother, provided written consent.",
+            "Ethics approval was obtained from McGill University, the Ethiopian Public Health Institute and the National Research Ethics Review Committee.",
+            "Approval was also obtained from the Amhara Regional Health Board.",
+            "The trial was registered with ClinicalTrials.gov, NCT01349634."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "From six out of ten zones surrounding Lake Tana in the Amhara region, 75 districts were numbered; using a random numbers table and a simple randomization method, two researchers unfamiliar with the region randomly selected 60 districts (woreda). Using a random numbers table, we assigned 30 to the intervention group and 30 to the control group. From each, one rural village (kebele) was randomly selected to represent the district. All households with children in the 54 to 60 month age range at baseline were eligible to participate. High school student enumerators were deployed with the help of our screening team and village health extension workers to identify all eligible families. From these, a random sampling was used to select approximately 30 children, over-sampling up to 35 from larger villages to make up for smaller villages where fewer than 30 were eligible.",
+        "section": "Randomization and masking",
+        "section_number": 13,
+        "sentences": [
+            "From six out of ten zones surrounding Lake Tana in the Amhara region, 75 districts were numbered; using a random numbers table and a simple randomization method, two researchers unfamiliar with the region randomly selected 60 districts (woreda).",
+            "Using a random numbers table, we assigned 30 to the intervention group and 30 to the control group.",
+            "From each, one rural village (kebele) was randomly selected to represent the district.",
+            "All households with children in the 54 to 60 month age range at baseline were eligible to participate.",
+            "High school student enumerators were deployed with the help of our screening team and village health extension workers to identify all eligible families.",
+            "From these, a random sampling was used to select approximately 30 children, over-sampling up to 35 from larger villages to make up for smaller villages where fewer than 30 were eligible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Contamination was minimized by using districts as the unit of randomization, and selecting only one village per district. Two control districts and four intervention districts were found to have high UIC levels at baseline, although only three of the six had iodized salt in a sizeable number of households. It was known that some agricultural cooperative managers understood the benefits of iodized salt and were planning to bring it in to their district. Only four control villages shared a district market with intervention villages, so we distributed iodized salt to the latter only at village shops and not at the shared market.",
+        "section": "Randomization and masking",
+        "section_number": 14,
+        "sentences": [
+            "Contamination was minimized by using districts as the unit of randomization, and selecting only one village per district.",
+            "Two control districts and four intervention districts were found to have high UIC levels at baseline, although only three of the six had iodized salt in a sizeable number of households.",
+            "It was known that some agricultural cooperative managers understood the benefits of iodized salt and were planning to bring it in to their district.",
+            "Only four control villages shared a district market with intervention villages, so we distributed iodized salt to the latter only at village shops and not at the shared market."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "On site, only the lead researcher and the person who subsequently monitored salt at markets were aware of the group assignment. Members of the assessment team were not informed about the condition of districts and participants; they were present in the field only at the two testing times when markets uniformly had noniodized and iodized salt, respectively. Participants were also blind to their condition: they simply continued to buy salt from their usual market, and at endline 86.9% said they had not heard of iodized salt and 97.1% said they had not bought iodized salt (no difference between groups), although samples of their household salt showed otherwise.",
+        "section": "Randomization and masking",
+        "section_number": 15,
+        "sentences": [
+            "On site, only the lead researcher and the person who subsequently monitored salt at markets were aware of the group assignment.",
+            "Members of the assessment team were not informed about the condition of districts and participants; they were present in the field only at the two testing times when markets uniformly had noniodized and iodized salt, respectively.",
+            "Participants were also blind to their condition: they simply continued to buy salt from their usual market, and at endline 86.9% said they had not heard of iodized salt and 97.1% said they had not bought iodized salt (no difference between groups), although samples of their household salt showed otherwise."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The intervention group received iodized salt produced by private companies around Lake Afdera, north-east of Amhara. Although legislation was passed in February 2011 to produce and distribute only iodized salt, it was not enforced until October 2012 when sufficient quantities were produced. Consequently, starting in July 2012, we worked with the two Amhara distributors to bring only iodized salt to markets and shops used by intervention villages, while continuing to deliver noniodized salt to control villages. This continued until October 2012 when most villages were receiving iodized salt and the ban on non-iodized salt was enforced. In July 2012, 70% of intervention households sampled had iodized salt, rising to 83% in August and 90% in September. At this time, our salt distributors were still delivering non-iodized salt to control villages and gradually bringing in more iodized salt, where it was purchased by 66% of control households sampled in October 2012 and 100% after November. Consequently the intervention group received approximately 4 to 6 months more exposure to iodized salt than controls; intervention children had approximately 8 to 10 months of iodized salt and control children had 4 to 6 months at endline. The iodized salt was transported to market in differently coloured bags but the texture and cost were the same as non-iodized salt.",
+        "section": "Intervention delivery and monitoring",
+        "section_number": 16,
+        "sentences": [
+            "The intervention group received iodized salt produced by private companies around Lake Afdera, north-east of Amhara.",
+            "Although legislation was passed in February 2011 to produce and distribute only iodized salt, it was not enforced until October 2012 when sufficient quantities were produced.",
+            "Consequently, starting in July 2012, we worked with the two Amhara distributors to bring only iodized salt to markets and shops used by intervention villages, while continuing to deliver noniodized salt to control villages.",
+            "This continued until October 2012 when most villages were receiving iodized salt and the ban on non-iodized salt was enforced.",
+            "In July 2012, 70% of intervention households sampled had iodized salt, rising to 83% in August and 90% in September.",
+            "At this time, our salt distributors were still delivering non-iodized salt to control villages and gradually bringing in more iodized salt, where it was purchased by 66% of control households sampled in October 2012 and 100% after November.",
+            "Consequently the intervention group received approximately 4 to 6 months more exposure to iodized salt than controls; intervention children had approximately 8 to 10 months of iodized salt and control children had 4 to 6 months at endline.",
+            "The iodized salt was transported to market in differently coloured bags but the texture and cost were the same as non-iodized salt."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "All measures were translated into Amharic by a professional translator who worked directly with a local university psychologist to ensure that the language was appropriate. It was back-translated during training as each item was scrutinized.",
+        "section": "Measurements",
+        "section_number": 17,
+        "sentences": [
+            "All measures were translated into Amharic by a professional translator who worked directly with a local university psychologist to ensure that the language was appropriate.",
+            "It was back-translated during training as each item was scrutinized."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Cognitive outcomes. The primary outcome was cognitive development as measured by a test of school readiness, a verbal reasoning test and a nonverbal reasoning test. The school readiness test consisted of 25 items each given a point if passed. The items concerned colours, shapes, letters, enumeration, math concepts and general knowledge (what part of your body do you hear with?). It was adapted from one used successfully in Bangladesh with pre-primary children (Aboud 2006) (Aboud et al. 1991; Bogale et al. 2009) and is a common test used to assess iodine supplementation in China and elsewhere (e.g. Gao et al. 2004; Gordon et al. 2009; Huda et al. 2001; O'Donnell et al. 2002; Untoro et al. 1999; Zimmermann et al. 2006) . The Similarities test has been used with very good reliability and validity in Bangladesh (Aboud 2006 ), Iran (Azizi et al. 2000) , and Belarus (Kramer et al. 2008) . Both required some modification for this sample. The Similarities test assesses formation of concepts with items such as 'How are balls and dolls alike?' Two psychologists coded responses reliably with a weighted kappa coefficient of .877. Concurrent validity for the three tests was assessed during pretesting in relation to expected differences because of age (p < 0.03) and urban-rural residence. For example, on the school readiness test, children in the town of Bahir Dar received a mean of 16.0 out of 25 whereas a preliminary rural sample had a mean of 5.2. On Matrix Reasoning, the urban children scored 9.5 and the rural 7.6 out of 19.",
+        "section": "Measurements",
+        "section_number": 18,
+        "sentences": [
+            "Cognitive outcomes.",
+            "The primary outcome was cognitive development as measured by a test of school readiness, a verbal reasoning test and a nonverbal reasoning test.",
+            "The school readiness test consisted of 25 items each given a point if passed.",
+            "The items concerned colours, shapes, letters, enumeration, math concepts and general knowledge (what part of your body do you hear with?).",
+            "It was adapted from one used successfully in Bangladesh with pre-primary children (Aboud 2006) (Aboud et al. 1991; Bogale et al. 2009) and is a common test used to assess iodine supplementation in China and elsewhere (e.g. Gao et al. 2004; Gordon et al. 2009; Huda et al. 2001; O'Donnell et al. 2002; Untoro et al. 1999; Zimmermann et al. 2006) .",
+            "The Similarities test has been used with very good reliability and validity in Bangladesh (Aboud 2006 ), Iran (Azizi et al. 2000) , and Belarus (Kramer et al. 2008) .",
+            "Both required some modification for this sample.",
+            "The Similarities test assesses formation of concepts with items such as 'How are balls and dolls alike?'",
+            "Two psychologists coded responses reliably with a weighted kappa coefficient of .877.",
+            "Concurrent validity for the three tests was assessed during pretesting in relation to expected differences because of age (p < 0.03) and urban-rural residence.",
+            "For example, on the school readiness test, children in the town of Bahir Dar received a mean of 16.0 out of 25 whereas a preliminary rural sample had a mean of 5.2.",
+            "On Matrix Reasoning, the urban children scored 9.5 and the rural 7.6 out of 19."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Sociodemographic, Nutrition and Health. Questionnaires were used to collect sociodemographic, health and diet information from the mother. She was asked about the age, years of education and occupation of herself and the child's father; because schooling was so low, a dichotomized variable of never or ever attended school was analysed (6.77% had attended primary school and 3.57% secondary school). The assets owned by the family (e.g. bed, chair, watch, bicycle, phone) were used to derive an assets score out of 10, by summing assets; a separate score reflecting livestock owned by the family was out of 6. A water and sanitation score out of 3 reflected the number of facilities available to the household (improved water, waste disposal, latrine). A food frequency questionnaire listing locally available foods was read, and the mother identified foods that had ever been eaten by the child and eaten in the past week and 24 h. Diet did not vary, so daily rather than weekly dietary diversity was calculated based on the number of food categories out of seven present in the child's diet: grains/tubers, legumes, animal flesh, eggs, dairy, vitamin A-rich fruits and vegetables, and other fruits and vegetables (Daelmans et al. 2009 ). The mother reported child illnesses in the past 14 days (including diarrhea, fever, malaria, cough, rapid breathing and other), along with whether the child had received the main immunizations, deworming medication and vitamin A drops. The child's sex and age were recorded, the latter based on what was reported on the immunization card, a religious document or an Ethiopian Gregorian calendar.",
+        "section": "Measurements",
+        "section_number": 19,
+        "sentences": [
+            "Sociodemographic, Nutrition and Health.",
+            "Questionnaires were used to collect sociodemographic, health and diet information from the mother.",
+            "She was asked about the age, years of education and occupation of herself and the child's father; because schooling was so low, a dichotomized variable of never or ever attended school was analysed (6.77% had attended primary school and 3.57% secondary school).",
+            "The assets owned by the family (e.g. bed, chair, watch, bicycle, phone) were used to derive an assets score out of 10, by summing assets; a separate score reflecting livestock owned by the family was out of 6.",
+            "A water and sanitation score out of 3 reflected the number of facilities available to the household (improved water, waste disposal, latrine).",
+            "A food frequency questionnaire listing locally available foods was read, and the mother identified foods that had ever been eaten by the child and eaten in the past week and 24 h. Diet did not vary, so daily rather than weekly dietary diversity was calculated based on the number of food categories out of seven present in the child's diet: grains/tubers, legumes, animal flesh, eggs, dairy, vitamin A-rich fruits and vegetables, and other fruits and vegetables (Daelmans et al. 2009 ).",
+            "The mother reported child illnesses in the past 14 days (including diarrhea, fever, malaria, cough, rapid breathing and other), along with whether the child had received the main immunizations, deworming medication and vitamin A drops.",
+            "The child's sex and age were recorded, the latter based on what was reported on the immunization card, a religious document or an Ethiopian Gregorian calendar."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Children's height was taken in duplicate with a precision of 0.1 cm with a stadiometer, and weight with a precision of 100 g on a Tanita scale. The technical error measurement (TEM) and the coefficient of reliability R were good for height (baseline: TEM < 0.5 cm, R = 99.1 %; endline: TEM < 0.5 cm, R = 99.5 %) and weight (baseline: TEM < 0.1 kg, R = 99.7 %; endline: TEM < 0.1 kg, R = 99.8 %). Height-for-age, weight-forage and weight-for-height z scores were calculated using the World Health Organization's age and sex standardization. Goiter was assessed by thyroid palpation according to WHO guidelines using four graded levels (World Health Organization 2007). Whether or not anyone in the family other than the target child had a goiter was reported by the mother. Children were asked to provide a urine sample of approximately 20 mL, which was then stored at \u00c020\u00b0C in the field and sent to a laboratory at the Ethiopian Public Health Institute for analysis of iodine, using the digestion method of Sandell-Kolthoff reaction. A sample of blood from a vein was analysed on the spot for hemoglobin (Hb g/L) using a portable Hemocue. Hemoglobin was negatively skewed and so transformed by squaring raw values. Urinary iodine was positively skewed and so transformed to the square root.",
+        "section": "Measurements",
+        "section_number": 20,
+        "sentences": [
+            "Children's height was taken in duplicate with a precision of 0.1 cm with a stadiometer, and weight with a precision of 100 g on a Tanita scale.",
+            "The technical error measurement (TEM) and the coefficient of reliability R were good for height (baseline: TEM < 0.5 cm, R = 99.1 %; endline: TEM < 0.5 cm, R = 99.5 %) and weight (baseline: TEM < 0.1 kg, R = 99.7 %; endline: TEM < 0.1 kg, R = 99.8 %).",
+            "Height-for-age, weight-forage and weight-for-height z scores were calculated using the World Health Organization's age and sex standardization.",
+            "Goiter was assessed by thyroid palpation according to WHO guidelines using four graded levels (World Health Organization 2007).",
+            "Whether or not anyone in the family other than the target child had a goiter was reported by the mother.",
+            "Children were asked to provide a urine sample of approximately 20 mL, which was then stored at \u00c020\u00b0C in the field and sent to a laboratory at the Ethiopian Public Health Institute for analysis of iodine, using the digestion method of Sandell-Kolthoff reaction.",
+            "A sample of blood from a vein was analysed on the spot for hemoglobin (Hb g/L) using a portable Hemocue.",
+            "Hemoglobin was negatively skewed and so transformed by squaring raw values.",
+            "Urinary iodine was positively skewed and so transformed to the square root."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "A salt sample was taken from the household and tested with a rapid test kit for the presence of iodine. If positive, it was further tested by titration to determine the parts-per-million level of iodine.",
+        "section": "Measurements",
+        "section_number": 21,
+        "sentences": [
+            "A salt sample was taken from the household and tested with a rapid test kit for the presence of iodine.",
+            "If positive, it was further tested by titration to determine the parts-per-million level of iodine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The baseline assessment was conducted October 2011 to March 2012 and the endline during March to October 2013, following the same order of districts at both times. At both baseline and endline, up to 20 psychology Masters students were trained for one week on the cognitive measures by a local university psychologist and a Canadian child developmental psychologist. Eight testers who performed the best with high interrater reliability and a child-friendly manner were recruited. Inter-rater reliability, assessed during baseline and endline, yielded correlations of r = 0.63 (Matrices) to 0.90 (School readiness), p < 0.001, with non-significant differences between the two testers. Consistency with the local psychologist remained high at mid-collection. They travelled in a team with others trained to administer other measures. Children were enrolled at the baseline assessment and were tested at home in the presence of their mother. Anthropometric measures along with blood and urine were taken at a central village site.",
+        "section": "Training and procedures",
+        "section_number": 22,
+        "sentences": [
+            "The baseline assessment was conducted October 2011 to March 2012 and the endline during March to October 2013, following the same order of districts at both times.",
+            "At both baseline and endline, up to 20 psychology Masters students were trained for one week on the cognitive measures by a local university psychologist and a Canadian child developmental psychologist.",
+            "Eight testers who performed the best with high interrater reliability and a child-friendly manner were recruited.",
+            "Inter-rater reliability, assessed during baseline and endline, yielded correlations of r = 0.63 (Matrices) to 0.90 (School readiness), p < 0.001, with non-significant differences between the two testers.",
+            "Consistency with the local psychologist remained high at mid-collection.",
+            "They travelled in a team with others trained to administer other measures.",
+            "Children were enrolled at the baseline assessment and were tested at home in the presence of their mother.",
+            "Anthropometric measures along with blood and urine were taken at a central village site."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Sample size estimation was based on a WPPSI subtest score of M = 10, SD = 1.5 (comparable to an expected IQ score of M = 100 with SD = 15), where alpha = 0.05, power = 0.80, and effect size d = 0.20. This yielded a sample size of n = 393 per group. Assuming a loss-to-followup of 10% and a cluster size of 26 children per village, a variance inflation factor of 2.0 was required to accommodate intracluster correlations of 0.04, where VIF = 1 + (cluster size of 26 \u00d7 expected ICC of 0.04) yielding a sample size of 850 per group.",
+        "section": "Sample size estimation",
+        "section_number": 23,
+        "sentences": [
+            "Sample size estimation was based on a WPPSI subtest score of M = 10, SD = 1.5 (comparable to an expected IQ score of M = 100 with SD = 15), where alpha = 0.05, power = 0.80, and effect size d = 0.20.",
+            "This yielded a sample size of n = 393 per group.",
+            "Assuming a loss-to-followup of 10% and a cluster size of 26 children per village, a variance inflation factor of 2.0 was required to accommodate intracluster correlations of 0.04, where VIF = 1 + (cluster size of 26 \u00d7 expected ICC of 0.04) yielding a sample size of 850 per group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "For all analyses, SAS 9.3 was used because the PROC MIXED program for an analysis of covariance (ANCOVA) examines intervention-control differences while accommodating both covariates and clusters. A check on the success of randomization was conducted on baseline sociodemographic, health and nutrition variables. Variables showing group differences were included as covariates in the endline analysis. Second, using an intention-to-treat design, differences in the endline cognitive scores of intervention and control children were examined with an ANCOVA that accommodated clusters and covaried baseline values of the corresponding variable along with the child's current age, and other covariates. The conditions for mediator effects were not supported, but exploratory moderator effects of the intervention were examined to determine whether the mother's education, the child's sex and dietary diversity, separately, interacted with the intervention to have an effect on child development outcomes. This entailed conducting ANCOVAs where an interaction term was introduced after main effects.",
+        "section": "Statistical methods",
+        "section_number": 24,
+        "sentences": [
+            "For all analyses, SAS 9.3 was used because the PROC MIXED program for an analysis of covariance (ANCOVA) examines intervention-control differences while accommodating both covariates and clusters.",
+            "A check on the success of randomization was conducted on baseline sociodemographic, health and nutrition variables.",
+            "Variables showing group differences were included as covariates in the endline analysis.",
+            "Second, using an intention-to-treat design, differences in the endline cognitive scores of intervention and control children were examined with an ANCOVA that accommodated clusters and covaried baseline values of the corresponding variable along with the child's current age, and other covariates.",
+            "The conditions for mediator effects were not supported, but exploratory moderator effects of the intervention were examined to determine whether the mother's education, the child's sex and dietary diversity, separately, interacted with the intervention to have an effect on child development outcomes.",
+            "This entailed conducting ANCOVAs where an interaction term was introduced after main effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The total baseline sample analyzed was n = 1601, with n = 778 in the intervention group and n = 823 in the control group (see flowchart Fig. 1 ). Children were 54 to 60 months of age. The sample was somewhat smaller for variables such as mother's education (n = 1596), cognitive test (n = 1471) and hemoglobin (n = 1458) if for example children refused. An analysis comparing children retained and those who were not followed at endline found only two significant differences: those retained had slightly higher levels of goiter (p = 0.054) and they were more likely to have a family member with goiter (p = 0.04). Otherwise those retained represented the baseline sample.",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "The total baseline sample analyzed was n = 1601, with n = 778 in the intervention group and n = 823 in the control group (see flowchart Fig. 1 ).",
+            "Children were 54 to 60 months of age.",
+            "The sample was somewhat smaller for variables such as mother's education (n = 1596), cognitive test (n = 1471) and hemoglobin (n = 1458) if for example children refused.",
+            "An analysis comparing children retained and those who were not followed at endline found only two significant differences: those retained had slightly higher levels of goiter (p = 0.054) and they were more likely to have a family member with goiter (p = 0.04).",
+            "Otherwise those retained represented the baseline sample."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Group differences were found for several baseline variables, in particular child's sex and weight-for-age (see Table 1 ). Indicators of iodine status showed unexpectedly better status among intervention children though over 75% overall were moderately or severely deficient (below 50 \u03bcg/L); less than 5% were anemic (below 110 g/L). Stunting, a common determinant of poor mental development, was similarly high in both groups: 40.64% and 44.22% (p = 0.86) for intervention and control children, respectively.",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "Group differences were found for several baseline variables, in particular child's sex and weight-for-age (see Table 1 ).",
+            "Indicators of iodine status showed unexpectedly better status among intervention children though over 75% overall were moderately or severely deficient (below 50 \u03bcg/L); less than 5% were anemic (below 110 g/L).",
+            "Stunting, a common determinant of poor mental development, was similarly high in both groups: 40.64% and 44.22% (p = 0.86) for intervention and control children, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Although only 7.6% of intervention and 4.7% of control household had iodized salt at baseline, by endline almost all were receiving iodized salt: 93.8% of intervention and 89.3% of control households had iodized salt -16.1% and 12.7%, respectively, had salt with iodization to the desired level of >15 ppm.",
+        "section": "Nutrition and health outcomes",
+        "section_number": 27,
+        "sentences": [
+            "Although only 7.6% of intervention and 4.7% of control household had iodized salt at baseline, by endline almost all were receiving iodized salt: 93.8% of intervention and 89.3% of control households had iodized salt -16.1% and 12.7%, respectively, had salt with iodization to the desired level of >15 ppm."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "We examined whether this was reflected in biomarkers of iodine, such as urinary iodine concentration and goiter (see Table 2 ). At endline, urinary iodine concentration levels were significantly higher in intervention than control children (p < 0.0001); 72.23% and 58.36%, respectively, were above the threshold of 100 \u03bcg/L and less than 20% below 50 \u03bcg/L. An analysis of the four-point grading of child goiter also showed a slightly lower goiter grade among intervention children. Goiter in the family remained at 57.16% among intervention families and 61.58% among control families. Urinary concentration reflects current levels whereas goiter is slower to respond to iodine in the diet.",
+        "section": "Nutrition and health outcomes",
+        "section_number": 28,
+        "sentences": [
+            "We examined whether this was reflected in biomarkers of iodine, such as urinary iodine concentration and goiter (see Table 2 ).",
+            "At endline, urinary iodine concentration levels were significantly higher in intervention than control children (p < 0.0001); 72.23% and 58.36%, respectively, were above the threshold of 100 \u03bcg/L and less than 20% below 50 \u03bcg/L. An analysis of the four-point grading of child goiter also showed a slightly lower goiter grade among intervention children.",
+            "Goiter in the family remained at 57.16% among intervention families and 61.58% among control families.",
+            "Urinary concentration reflects current levels whereas goiter is slower to respond to iodine in the diet."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Hemoglobin levels were significantly higher in control children, although both groups were well above the threshold of 110 g/L. There were no group differences in weight-for-age z or height-for-age z scores. However, the dietary diversity of intervention children was significantly higher than controls, although both were below the level of a minimum adequate diet of four food categories. Intervention children reportedly had fewer illnesses than control children.",
+        "section": "Nutrition and health outcomes",
+        "section_number": 29,
+        "sentences": [
+            "Hemoglobin levels were significantly higher in control children, although both groups were well above the threshold of 110 g/L. There were no group differences in weight-for-age z or height-for-age z scores.",
+            "However, the dietary diversity of intervention children was significantly higher than controls, although both were below the level of a minimum adequate diet of four food categories.",
+            "Intervention children reportedly had fewer illnesses than control children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Children were on average 72.85 months at endline, and children in both groups were on average 15.65 months older (the time between assessments was not significantly different between groups). Table 2 shows that on no test of mental development was there a significant group difference.",
+        "section": "Mental development outcomes",
+        "section_number": 30,
+        "sentences": [
+            "Children were on average 72.85 months at endline, and children in both groups were on average 15.65 months older (the time between assessments was not significantly different between groups).",
+            "Table 2 shows that on no test of mental development was there a significant group difference."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Modifier effects were then examined to determine if mother's education, child's sex and child's dietary diversity (among others) modified the effect of the iodized salt intervention on children's mental development. Three interaction terms were significant: School Readiness was significantly affected by an interaction between the iodized salt intervention and mother's education (none vs. any). Table 3 shows that in this model, intervention children whose mothers had some schooling performed better than controls whose mothers had some schooling (p = 0.04, effect size d = +0.44), whereas intervention children whose mothers had no schooling did not perform better than controls whose mothers lacked schooling. Unfortunately, because so many mothers had no schooling at all, the findings from this group dominated the overall non-significant effect of the iodized salt intervention when run without the interaction term.",
+        "section": "Mental development outcomes",
+        "section_number": 31,
+        "sentences": [
+            "Modifier effects were then examined to determine if mother's education, child's sex and child's dietary diversity (among others) modified the effect of the iodized salt intervention on children's mental development.",
+            "Three interaction terms were significant: School Readiness was significantly affected by an interaction between the iodized salt intervention and mother's education (none vs. any).",
+            "Table 3 shows that in this model, intervention children whose mothers had some schooling performed better than controls whose mothers had some schooling (p = 0.04, effect size d = +0.44), whereas intervention children whose mothers had no schooling did not perform better than controls whose mothers lacked schooling.",
+            "Unfortunately, because so many mothers had no schooling at all, the findings from this group dominated the overall non-significant effect of the iodized salt intervention when run without the interaction term."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The Similarities test results were significantly different when child's sex was introduced as a modifier (p = 0.05). Girls overall performed better than boys on this measure of verbal reasoning, regardless of treatment condition. Boys in the intervention group performed better than boys in the control group (d = +0.10) whereas intervention girls performed worse (d = \u00c00.12).",
+        "section": "Mental development outcomes",
+        "section_number": 32,
+        "sentences": [
+            "The Similarities test results were significantly different when child's sex was introduced as a modifier (p = 0.05).",
+            "Girls overall performed better than boys on this measure of verbal reasoning, regardless of treatment condition.",
+            "Boys in the intervention group performed better than boys in the control group (d = +0.10) whereas intervention girls performed worse (d = \u00c00.12)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The Matrix Reasoning test results were significantly affected by the child's dietary diversity, split at one or two categories of food vs. three or more. Although four or more categories are considered the minimum adequate diversity, the sample sizes would have been very unbalanced had this cut-off been used. The interaction term was significant (p = 0.02), showing that among those with low dietary diversity, intervention children performed better on this test of nonverbal reasoning than control children (d = +0.11) whereas among those with higher diversity, the reverse was true (d = \u00c00.17). Thus, iodized salt benefited nonverbal reasoning scores of children who were nutritionally disadvantagedor harmed those who were nutritionally better off.",
+        "section": "Mental development outcomes",
+        "section_number": 33,
+        "sentences": [
+            "The Matrix Reasoning test results were significantly affected by the child's dietary diversity, split at one or two categories of food vs. three or more.",
+            "Although four or more categories are considered the minimum adequate diversity, the sample sizes would have been very unbalanced had this cut-off been used.",
+            "The interaction term was significant (p = 0.02), showing that among those with low dietary diversity, intervention children performed better on this test of nonverbal reasoning than control children (d = +0.11) whereas among those with higher diversity, the reverse was true (d = \u00c00.17).",
+            "Thus, iodized salt benefited nonverbal reasoning scores of children who were nutritionally disadvantagedor harmed those who were nutritionally better off."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The main finding was that there were no overall differences between intervention and control children on the three measures of mental development. This is consistent with the findings for the large majority of outcomes in studies with children 6 to 12 years of age. We Urinary iodine \u03bcg/L was square root transformed for analysis to reduce positive skew; median and interquartile range (IQR) are reported.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "The main finding was that there were no overall differences between intervention and control children on the three measures of mental development.",
+            "This is consistent with the findings for the large majority of outcomes in studies with children 6 to 12 years of age.",
+            "We Urinary iodine \u03bcg/L was square root transformed for analysis to reduce positive skew; median and interquartile range (IQR) are reported."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Hemoglobin g/L was squared for analysis to reduce negative skew; reverse transformed means are reported.",
+        "section": "4",
+        "section_number": 35,
+        "sentences": [
+            "Hemoglobin g/L was squared for analysis to reduce negative skew; reverse transformed means are reported."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "examined modifier effects; three intervention-bymodifier interactions were significant. Intervention children whose mothers had some schooling performed much better on the school readiness test compared with controls, with a moderate effect size of +0.44. In contrast, the iodized salt intervention had no effect on children whose mothers had no schooling. This finding suggests an additive effect: parental education is known to facilitate children's school readiness skills and more exposure to iodized salt further enhanced this effect. Children did not attend preschool in these villages, but it is possible that they were more attentive to opportunities to learn colours, shapes, numbers and letters from educated mothers and school-attending older siblings. Because Cohen's effect size d is provided when the effect is significant at p < 0.05.",
+        "section": "4",
+        "section_number": 36,
+        "sentences": [
+            "examined modifier effects; three intervention-bymodifier interactions were significant.",
+            "Intervention children whose mothers had some schooling performed much better on the school readiness test compared with controls, with a moderate effect size of +0.44.",
+            "In contrast, the iodized salt intervention had no effect on children whose mothers had no schooling.",
+            "This finding suggests an additive effect: parental education is known to facilitate children's school readiness skills and more exposure to iodized salt further enhanced this effect.",
+            "Children did not attend preschool in these villages, but it is possible that they were more attentive to opportunities to learn colours, shapes, numbers and letters from educated mothers and school-attending older siblings.",
+            "Because Cohen's effect size d is provided when the effect is significant at p < 0.05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Maximum scores are provided in parentheses after the variable.",
+        "section": "4",
+        "section_number": 37,
+        "sentences": [
+            "Maximum scores are provided in parentheses after the variable."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Urinary iodine \u03bcg/L was square root transformed for analysis to reduce positive skew; median and interquartile range (IQR) are reported here.",
+        "section": "5",
+        "section_number": 38,
+        "sentences": [
+            "Urinary iodine \u03bcg/L was square root transformed for analysis to reduce positive skew; median and interquartile range (IQR) are reported here."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Hemoglobin g/L was squared for analysis to reduce negative skew; reverse transformed means are reported here.",
+        "section": "6",
+        "section_number": 39,
+        "sentences": [
+            "Hemoglobin g/L was squared for analysis to reduce negative skew; reverse transformed means are reported here."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Similarities and matrices raw scores were analysed covarying current age; the age standardized means are reported here for comparative purposes.",
+        "section": "7",
+        "section_number": 40,
+        "sentences": [
+            "Similarities and matrices raw scores were analysed covarying current age; the age standardized means are reported here for comparative purposes."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "the next generation of mothers are more likely to have attended school, the effects of iodized salt should be more detectable. Benefits to children might be more rapid and measureable if psychosocial stimulation programmes were introduced to parents and preschools along with iodizing their salt. The effects of iodized salt were also found on verbal and nonverbal reasoning test scores when modifiers were examined. Similarities scores were higher among boys in the intervention compared with the control group. Recall that boys overall performed worse than girls on this verbal reasoning test, but intervention boys performed better than control boys. So the greater exposure to iodized salt helped boys compensate for their poorer verbal skills. The compensation effect was found on the nonverbal reasoning test with children who had very low dietary diversity. Children whose diet consisted of less than three food categories showed better scores on the matrix reasoning test if they had greater exposure to iodized salt. It is not clear why children with three or more food categories performed better if in the control group.",
+        "section": "7",
+        "section_number": 41,
+        "sentences": [
+            "the next generation of mothers are more likely to have attended school, the effects of iodized salt should be more detectable.",
+            "Benefits to children might be more rapid and measureable if psychosocial stimulation programmes were introduced to parents and preschools along with iodizing their salt.",
+            "The effects of iodized salt were also found on verbal and nonverbal reasoning test scores when modifiers were examined.",
+            "Similarities scores were higher among boys in the intervention compared with the control group.",
+            "Recall that boys overall performed worse than girls on this verbal reasoning test, but intervention boys performed better than control boys.",
+            "So the greater exposure to iodized salt helped boys compensate for their poorer verbal skills.",
+            "The compensation effect was found on the nonverbal reasoning test with children who had very low dietary diversity.",
+            "Children whose diet consisted of less than three food categories showed better scores on the matrix reasoning test if they had greater exposure to iodized salt.",
+            "It is not clear why children with three or more food categories performed better if in the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "Scores on these tests were generally low as expected. Others have reported similarly low scores on standardized tests (Bogale et al. 2009) . This is at least partly because of poor nutritional status and low levels of early psychosocial stimulation (Aboud & Yousafzai 2015) . In this sample, both weight-and height-for-age were highly correlated with all three measures of mental development (data not shown, p < 0.0001), while anemia was rare. Psychosocial stimulation was low in a younger sample from these villages (24 out of 45 on the HOME, unpublished observations). Thus, the overall poor scores were largely attributable to poor nutritional status other than anemia, low maternal education and little psychosocial stimulation in the early years. They are also likely to be because of low levels of iodine over the years which reduced foundational learning skills such as reasoning, memory and attention (Bogale et al. 2009) .",
+        "section": "7",
+        "section_number": 42,
+        "sentences": [
+            "Scores on these tests were generally low as expected.",
+            "Others have reported similarly low scores on standardized tests (Bogale et al. 2009) .",
+            "This is at least partly because of poor nutritional status and low levels of early psychosocial stimulation (Aboud & Yousafzai 2015) .",
+            "In this sample, both weight-and height-for-age were highly correlated with all three measures of mental development (data not shown, p < 0.0001), while anemia was rare.",
+            "Psychosocial stimulation was low in a younger sample from these villages (24 out of 45 on the HOME, unpublished observations).",
+            "Thus, the overall poor scores were largely attributable to poor nutritional status other than anemia, low maternal education and little psychosocial stimulation in the early years.",
+            "They are also likely to be because of low levels of iodine over the years which reduced foundational learning skills such as reasoning, memory and attention (Bogale et al. 2009) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The expected effects of iodized salt on urinary iodine concentrations were seen. Although both groups were receiving iodized salt at endline, the mean UIC of intervention children was significantly higher than controls and fewer of the former had levels below 50 \u03bcg/L or even below the deficiency threshold of 100 \u03bcg/l (27.7% vs. 41.6%, respectively). The difference may be attributed to several months' longer access to iodized salt and to higher levels of iodine in salt among intervention children. Intervention children were found to have significantly fewer illnesses over the previous 2 weeks, and their diets were slightly more diverse. However, there were no benefits to height-or weight-for-age of the children.",
+        "section": "7",
+        "section_number": 43,
+        "sentences": [
+            "The expected effects of iodized salt on urinary iodine concentrations were seen.",
+            "Although both groups were receiving iodized salt at endline, the mean UIC of intervention children was significantly higher than controls and fewer of the former had levels below 50 \u03bcg/L or even below the deficiency threshold of 100 \u03bcg/l (27.7% vs. 41.6%, respectively).",
+            "The difference may be attributed to several months' longer access to iodized salt and to higher levels of iodine in salt among intervention children.",
+            "Intervention children were found to have significantly fewer illnesses over the previous 2 weeks, and their diets were slightly more diverse.",
+            "However, there were no benefits to height-or weight-for-age of the children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The strengths of the study include a randomized design, a large sample that is fairly representative of a region in northern Ethiopia, age-appropriate measures that cover cognitive and language development, and analysis of the effects of exposure to iodized salt rather than a high-dose capsule. Exposure to a high dose of iodine in the form of a capsule permits an individual randomized controlled design but does not reflect how children will be receiving iodine on a regular basis. Earlier reviews have almost certainly over-estimated the effects of iodine supplements on children and adults (effect size 0.9) because of the inadequate designs and measures used by researchers at that time (Bleichrodt & Born 1994) . While there is some evidence that iodine supplements in the fetal or infancy stages are effective at supporting moderate cognitive gains (Bougma et al. 2013) , there is at best mixed evidence for older children. Despite these strengths, there are a number of limitations. One is that both groups of children were receiving iodized salt at the endline and had been receiving it at least for several months. The exact exposure for each child was not known, neither the number of days nor the quality of iodization, and could not therefore be included in the analysis. Thus the comparison group was not a no-iodine control, which would have been unethical in this context, but rather a delayed exposure comparison. Thus the lack of an overall difference between groups in mental development may be because of similar endline levels of exposure to iodized salt or to over 5 years of insufficient iodine to support thyroid hormone activity in brain development. If exposure to iodized salt for a minimum of 4 months is as beneficial as 10 months, then it suggests that even a short exposure to iodized salt is valuable at this age. However, if the lack of difference is because of 'too little, too late' exposure for both groups, then the interpretation is that 5 years of early development with inadequate axon growth, dendritic branching and myelination cannot be easily reversed. In support of the latter interpretation, intervention children with educated mothers benefited more from iodized salt; they may have received more stimulation in the early years, with more synaptic growth and less pruning of unused neurons. Myelination continues for a number of years after birth but cannot coat axons that have been deleted.",
+        "section": "7",
+        "section_number": 44,
+        "sentences": [
+            "The strengths of the study include a randomized design, a large sample that is fairly representative of a region in northern Ethiopia, age-appropriate measures that cover cognitive and language development, and analysis of the effects of exposure to iodized salt rather than a high-dose capsule.",
+            "Exposure to a high dose of iodine in the form of a capsule permits an individual randomized controlled design but does not reflect how children will be receiving iodine on a regular basis.",
+            "Earlier reviews have almost certainly over-estimated the effects of iodine supplements on children and adults (effect size 0.9) because of the inadequate designs and measures used by researchers at that time (Bleichrodt & Born 1994) .",
+            "While there is some evidence that iodine supplements in the fetal or infancy stages are effective at supporting moderate cognitive gains (Bougma et al. 2013) , there is at best mixed evidence for older children.",
+            "Despite these strengths, there are a number of limitations.",
+            "One is that both groups of children were receiving iodized salt at the endline and had been receiving it at least for several months.",
+            "The exact exposure for each child was not known, neither the number of days nor the quality of iodization, and could not therefore be included in the analysis.",
+            "Thus the comparison group was not a no-iodine control, which would have been unethical in this context, but rather a delayed exposure comparison.",
+            "Thus the lack of an overall difference between groups in mental development may be because of similar endline levels of exposure to iodized salt or to over 5 years of insufficient iodine to support thyroid hormone activity in brain development.",
+            "If exposure to iodized salt for a minimum of 4 months is as beneficial as 10 months, then it suggests that even a short exposure to iodized salt is valuable at this age.",
+            "However, if the lack of difference is because of 'too little, too late' exposure for both groups, then the interpretation is that 5 years of early development with inadequate axon growth, dendritic branching and myelination cannot be easily reversed.",
+            "In support of the latter interpretation, intervention children with educated mothers benefited more from iodized salt; they may have received more stimulation in the early years, with more synaptic growth and less pruning of unused neurons.",
+            "Myelination continues for a number of years after birth but cannot coat axons that have been deleted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "The tests had not been normed in Ethiopia, so we analyzed raw scores, covarying age; still the comparison was internal and not with an external norm. The findings are generalizable to places with a similar level of iodine deficiency; the Amhara region ranked in the middle of Ethiopian regions, with those in the south and west showing higher prevalence of goiter (Abuye et al. 2007) . Other variables that might influence the generalizability of the results include levels of nutritional status and psychosocial stimulation. Both are strong determinants of mental development in the preschool years.",
+        "section": "7",
+        "section_number": 45,
+        "sentences": [
+            "The tests had not been normed in Ethiopia, so we analyzed raw scores, covarying age; still the comparison was internal and not with an external norm.",
+            "The findings are generalizable to places with a similar level of iodine deficiency; the Amhara region ranked in the middle of Ethiopian regions, with those in the south and west showing higher prevalence of goiter (Abuye et al. 2007) .",
+            "Other variables that might influence the generalizability of the results include levels of nutritional status and psychosocial stimulation.",
+            "Both are strong determinants of mental development in the preschool years."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "In conclusion, the findings, based on a robust method, indicate that cognitive and language development among preschool-aged children is not enhanced by greater exposure of 4 to 6 months to iodized salt in the diet. The presence of other conditions such as maternal schooling and sex facilitated the effect of iodized salt on school readiness and verbal reasoning, respectively. The findings are consistent with research showing greater effects among infants that diminish among older children.",
+        "section": "7",
+        "section_number": 46,
+        "sentences": [
+            "In conclusion, the findings, based on a robust method, indicate that cognitive and language development among preschool-aged children is not enhanced by greater exposure of 4 to 6 months to iodized salt in the diet.",
+            "The presence of other conditions such as maternal schooling and sex facilitated the effect of iodized salt on school readiness and verbal reasoning, respectively.",
+            "The findings are consistent with research showing greater effects among infants that diminish among older children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37688",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12322",
+        "section": "",
+        "section_number": 47,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd Maternal & Child Nutrition (2017), 13, e12322"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

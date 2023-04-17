@@ -1,0 +1,954 @@
+[
+    {
+        "doc_id": "46967",
+        "text": "Background: Whether consumption of prebiotics increases iron absorption in infants is unclear. Objective: We set out to determine whether prebiotic consumption affects iron absorption from a micronutrient powder (MNP) containing a mixture of ferrous fumarate and sodium iron EDTA (FeFum+ NaFeEDTA) in Kenyan infants. Design: Infants (n = 50; aged 6-14 mo) consumed maize porridge that was fortified with an MNP containing FeFum+NaFeEDTA and 7.5 g galacto-oligosaccharides (GOSs) (Fe+GOS group, n = 22) or the same MNP without GOSs (Fe group, n = 28) each day for 3 wk. Then, on 2 consecutive days, we fed all infants isotopically labeled maize porridge and MNP test meals containing 5 mg Fe as 57 FeFum+Na 58 FeEDTA or ferrous sulfate (54 FeSO 4). Iron absorption was measured as the erythrocyte incorporation of stable isotopes. Iron markers, fecal pH, and bacterial groups were assessed at baseline and 3 wk. Comparisons within and between groups were done with the use of mixedeffects models. Results: There was a significant group-by-compound interaction on iron absorption (P = 0.011). The median percentages of fractional iron absorption from FeFum+NaFeEDTA and from FeSO 4 in the Fe group were 11.6% (IQR: 6.9-19.9%) and 20.3% (IQR: 14.2-25.7%), respectively, (P , 0.001) and, in the Fe+GOS group, were 18.8% (IQR: 8.3-37.5%) and 25.5% (IQR: 15.1-37.8%), respectively (P = 0.124). Between groups, iron absorption was greater from the FeFum+NaFeEDTA (P = 0.047) in the Fe+GOS group but not from the FeSO 4 (P = 0.653). The relative iron bioavailability from FeFum+NaFeEDTA compared with FeSO 4 was higher in the Fe+GOS group than in the Fe group (88% compared with 63%; P = 0.006). There was a significant time-by-group interaction on Bifidobacterium spp. (P = 0.008) and Lactobacillus/Pediococcus/Leuconostoc spp. (P = 0.018); Lactobacillus/Pediococcus/Leuconostoc spp. decreased in the Fe group (P = 0.013), and there was a nonsignificant trend toward higher Bifidobacterium spp. in the Fe+GOS group (P = 0.099). At 3 wk, iron absorption was negatively correlated with fecal pH (P , 0.001) and positively correlated with Lactobacillus/Pediococcus/ Leuconostoc spp. (P = 0.001). Conclusion: GOS consumption by infants increased iron absorption by 62% from an MNP containing FeFum+NaFeEDTA, thereby possibly reflecting greater colonic iron absorption. This trial was registered at clinicaltrials.gov as NCT02666417.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Whether consumption of prebiotics increases iron absorption in infants is unclear.",
+            "Objective: We set out to determine whether prebiotic consumption affects iron absorption from a micronutrient powder (MNP) containing a mixture of ferrous fumarate and sodium iron EDTA (FeFum+ NaFeEDTA) in Kenyan infants.",
+            "Design: Infants (n = 50; aged 6-14 mo) consumed maize porridge that was fortified with an MNP containing FeFum+NaFeEDTA and 7.5 g galacto-oligosaccharides (GOSs) (Fe+GOS group, n = 22) or the same MNP without GOSs (Fe group, n = 28) each day for 3 wk.",
+            "Then, on 2 consecutive days, we fed all infants isotopically labeled maize porridge and MNP test meals containing 5 mg Fe as 57 FeFum+Na 58 FeEDTA or ferrous sulfate (54 FeSO 4).",
+            "Iron absorption was measured as the erythrocyte incorporation of stable isotopes.",
+            "Iron markers, fecal pH, and bacterial groups were assessed at baseline and 3 wk.",
+            "Comparisons within and between groups were done with the use of mixedeffects models.",
+            "Results: There was a significant group-by-compound interaction on iron absorption (P = 0.011).",
+            "The median percentages of fractional iron absorption from FeFum+NaFeEDTA and from FeSO 4 in the Fe group were 11.6% (IQR: 6.9-19.9%) and 20.3% (IQR: 14.2-25.7%), respectively, (P , 0.001) and, in the Fe+GOS group, were 18.8% (IQR: 8.3-37.5%) and 25.5% (IQR: 15.1-37.8%), respectively (P = 0.124).",
+            "Between groups, iron absorption was greater from the FeFum+NaFeEDTA (P = 0.047) in the Fe+GOS group but not from the FeSO 4 (P = 0.653).",
+            "The relative iron bioavailability from FeFum+NaFeEDTA compared with FeSO 4 was higher in the Fe+GOS group than in the Fe group (88% compared with 63%; P = 0.006).",
+            "There was a significant time-by-group interaction on Bifidobacterium spp. (",
+            "P = 0.008) and Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "P = 0.018); Lactobacillus/Pediococcus/Leuconostoc spp.",
+            "decreased in the Fe group (P = 0.013), and there was a nonsignificant trend toward higher Bifidobacterium spp.",
+            "in the Fe+GOS group (P = 0.099).",
+            "At 3 wk, iron absorption was negatively correlated with fecal pH (P , 0.001) and positively correlated with Lactobacillus/Pediococcus/ Leuconostoc spp. (",
+            "P = 0.001).",
+            "Conclusion: GOS consumption by infants increased iron absorption by 62% from an MNP containing FeFum+NaFeEDTA, thereby possibly reflecting greater colonic iron absorption.",
+            "This trial was registered at clinicaltrials.gov as NCT02666417."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "In-home iron fortification of complementary foods with micronutrient powders (MNPs) containing 12.5 mg Fe as ferrous fumarate (FeFum) is an effective strategy to control anemia in African infants (1) . The iron dose in MNPs is set high because iron absorption is often low because of the inhibitory matrices of many complementary foods and high plasma hepcidin concentrations that are due to infections (2) . Iron absorption from these MNPs is generally 4-9% (3); therefore, most iron passes into the colon where it can increase the abundance of enteropathogens (4) and diarrhea risk (5) . One approach to reduce the MNP iron dose by improving iron absorption is to provide the iron as sodium iron EDTA (NaFeEDTA) (6) , which is a chelated iron fortificant that is well absorbed from inhibitory foods. However, the acceptable daily intake of 1.9 mg $ kg 21 $ d 21 for EDTA limits the iron dose that can be provided as NaFeEDTA to infants to 2-3 mg Fe/d (6) . NaFeEDTA can be combined with ferrous sulfate (FeSO 4 ) or FeFum to increase the total iron dose (7) . In contrast with FeSO 4 and NaFeEDTA that dissolve at near-neutral pH (8) , FeFum requires a pH of w2 for complete dissolution (9) . Because postprandial gastric pH in infants is w3-6 (10), much of the FeFum will not dissolve in their stomach. Therefore, in infants, dissolved unabsorbed iron from FeSO 4 and NaFeEDTA likely enter the colon as ferric hydroxides, whereas much of the iron from FeFum likely enters as the intact ferrous salt.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "In-home iron fortification of complementary foods with micronutrient powders (MNPs) containing 12.5 mg Fe as ferrous fumarate (FeFum) is an effective strategy to control anemia in African infants (1) .",
+            "The iron dose in MNPs is set high because iron absorption is often low because of the inhibitory matrices of many complementary foods and high plasma hepcidin concentrations that are due to infections (2) .",
+            "Iron absorption from these MNPs is generally 4-9% (3); therefore, most iron passes into the colon where it can increase the abundance of enteropathogens (4) and diarrhea risk (5) .",
+            "One approach to reduce the MNP iron dose by improving iron absorption is to provide the iron as sodium iron EDTA (NaFeEDTA) (6) , which is a chelated iron fortificant that is well absorbed from inhibitory foods.",
+            "However, the acceptable daily intake of 1.9 mg $ kg 21 $ d 21 for EDTA limits the iron dose that can be provided as NaFeEDTA to infants to 2-3 mg Fe/d (6) .",
+            "NaFeEDTA can be combined with ferrous sulfate (FeSO 4 ) or FeFum to increase the total iron dose (7) .",
+            "In contrast with FeSO 4 and NaFeEDTA that dissolve at near-neutral pH (8) , FeFum requires a pH of w2 for complete dissolution (9) .",
+            "Because postprandial gastric pH in infants is w3-6 (10), much of the FeFum will not dissolve in their stomach.",
+            "Therefore, in infants, dissolved unabsorbed iron from FeSO 4 and NaFeEDTA likely enter the colon as ferric hydroxides, whereas much of the iron from FeFum likely enters as the intact ferrous salt."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Prebiotic fibers, such as galacto-oligosaccharides (GOSs), selectively enhance the growth of commensal colonic bacteria that are beneficial for the host (11, 12) . GOSs are mixtures of glucose-and galactose-based disaccharides and oligosaccharides of varying structure enzymatically produced from lactose that may have increased the selectivity toward Bifidobacterium spp. compared with the effect of other prebiotics (11, 12) . GOS has Generally Recognized as Safe (GRAS) status in the United States (13) and is added to commercial infant formula to stimulate the growth of beneficial barrier bacteria (11) . Prebiotics increase the colonic production of short-chain fatty acids (SCFAs) that decrease luminal pH, which may reduce the growth of enteropathogens (11, 12) . A recent study in Kenyan infants reported that the provision of GOSs in an iron-containing MNP mitigated the adverse effects of iron on the gut microbiome (14) . Because prebiotics reduce colonic pH, they can enhance the absorption of minerals such as calcium and magnesium (12, 15) , and they have been proposed as potential enhancers of iron absorption. In animals, lower fecal pH predicts greater colonic iron absorption (16, 17) . Although humans can absorb iron from the colon (18) , in iron-replete adults, colonic iron absorption is minimal compared with duodenal absorption. However, in animals, anemia sharply increases colonic iron absorption (16, 17) , and thus, this absorptive pathway may become more important in humans with iron-deficiency anemia. Potential prebiotic-induced changes in colonic iron absorption may be stronger in infants because they are more responsive to prebiotic-induced changes in the gut microbiota, resulting in increased SCFA production and decreased colonic pH (11, 12) . Therefore, the objective of this study was to determine, in Kenyan infants, whether daily consumption of GOSs for 3 wk would affect fractional iron absorption from maize porridge fortified with an MNP containing a mixture of FeFum and NaFeEDTA or FeSO 4 as a reference. The study hypotheses were as follows: 1) consumption of GOSs for 3 wk would increase Bifidobacterium spp., decrease fecal pH, and result in higher iron absorption than would no GOS consumption; and 2) the increase in iron absorption with GOSs would be greater from FeFum than from NaFeEDTA or from FeSO 4 because of their different dissolution profiles in the infant gut.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Prebiotic fibers, such as galacto-oligosaccharides (GOSs), selectively enhance the growth of commensal colonic bacteria that are beneficial for the host (11, 12) .",
+            "GOSs are mixtures of glucose-and galactose-based disaccharides and oligosaccharides of varying structure enzymatically produced from lactose that may have increased the selectivity toward Bifidobacterium spp.",
+            "compared with the effect of other prebiotics (11, 12) .",
+            "GOS has Generally Recognized as Safe (GRAS) status in the United States (13) and is added to commercial infant formula to stimulate the growth of beneficial barrier bacteria (11) .",
+            "Prebiotics increase the colonic production of short-chain fatty acids (SCFAs) that decrease luminal pH, which may reduce the growth of enteropathogens (11, 12) .",
+            "A recent study in Kenyan infants reported that the provision of GOSs in an iron-containing MNP mitigated the adverse effects of iron on the gut microbiome (14) .",
+            "Because prebiotics reduce colonic pH, they can enhance the absorption of minerals such as calcium and magnesium (12, 15) , and they have been proposed as potential enhancers of iron absorption.",
+            "In animals, lower fecal pH predicts greater colonic iron absorption (16, 17) .",
+            "Although humans can absorb iron from the colon (18) , in iron-replete adults, colonic iron absorption is minimal compared with duodenal absorption.",
+            "However, in animals, anemia sharply increases colonic iron absorption (16, 17) , and thus, this absorptive pathway may become more important in humans with iron-deficiency anemia.",
+            "Potential prebiotic-induced changes in colonic iron absorption may be stronger in infants because they are more responsive to prebiotic-induced changes in the gut microbiota, resulting in increased SCFA production and decreased colonic pH (11, 12) .",
+            "Therefore, the objective of this study was to determine, in Kenyan infants, whether daily consumption of GOSs for 3 wk would affect fractional iron absorption from maize porridge fortified with an MNP containing a mixture of FeFum and NaFeEDTA or FeSO 4 as a reference.",
+            "The study hypotheses were as follows: 1) consumption of GOSs for 3 wk would increase Bifidobacterium spp.,",
+            "decrease fecal pH, and result in higher iron absorption than would no GOS consumption; and 2) the increase in iron absorption with GOSs would be greater from FeFum than from NaFeEDTA or from FeSO 4 because of their different dissolution profiles in the infant gut."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "We conducted the study during the dry season from January 2016 to April 2016 in Kwale County, Southern coastal Kenya. Maize is the staple food crop, and the local complementary food for weaning infants is uji, which is a thin maize porridge. We recruited caregiver-infant pairs during well-baby visits for growth monitoring and routine vaccination services at Msambweni County Referral Hospital and neighboring health centers. We identified 530 infants aged 6-14 mo; 341 caregivers were interested in participating (study design is shown in Figure 1 ) and 68 caregivers gave informed consent with either a written signature or a fingerprint. On the basis of local health records and a caregiver interview, we prescreened for the following inclusion criteria: 1) age 6-14 mo; 2) no chronic or acute illnesses; 3) no use of vitamin and mineral supplements in the past 2 mo; 4) no antibiotic treatment in the past 4 wk; 5) no participation in other ongoing research studies; and 6) anticipated residence in the area for the study duration. A total of 68 infants were eligible and were invited for the complete baseline screening (Figure 1 ). During the baseline screening; inclusion criteria were as follows: 7) hemoglobin concentration .70 g/L and 8) z scores for weight-for-age and weight-for-length both .23. Ethical review committees of ETH Zurich and the Kenyatta National Hospital/University of Nairobi approved the study, and an independent Data Safety Monitoring Board monitored the study. This trial was registered at clinicaltrials.gov as NCT02666417.",
+        "section": "Study site and subjects",
+        "section_number": 3,
+        "sentences": [
+            "We conducted the study during the dry season from January 2016 to April 2016 in Kwale County, Southern coastal Kenya.",
+            "Maize is the staple food crop, and the local complementary food for weaning infants is uji, which is a thin maize porridge.",
+            "We recruited caregiver-infant pairs during well-baby visits for growth monitoring and routine vaccination services at Msambweni County Referral Hospital and neighboring health centers.",
+            "We identified 530 infants aged 6-14 mo; 341 caregivers were interested in participating (study design is shown in Figure 1 ) and 68 caregivers gave informed consent with either a written signature or a fingerprint.",
+            "On the basis of local health records and a caregiver interview, we prescreened for the following inclusion criteria: 1) age 6-14 mo; 2) no chronic or acute illnesses; 3) no use of vitamin and mineral supplements in the past 2 mo; 4) no antibiotic treatment in the past 4 wk; 5) no participation in other ongoing research studies; and 6) anticipated residence in the area for the study duration.",
+            "A total of 68 infants were eligible and were invited for the complete baseline screening (Figure 1 ).",
+            "During the baseline screening; inclusion criteria were as follows: 7) hemoglobin concentration .70 g/L and 8) z scores for weight-for-age and weight-for-length both .23.",
+            "Ethical review committees of ETH Zurich and the Kenyatta National Hospital/University of Nairobi approved the study, and an independent Data Safety Monitoring Board monitored the study.",
+            "This trial was registered at clinicaltrials.gov as NCT02666417."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "With the use of a single-blind, randomized design, we measured fractional iron absorption from maize porridge that was fortified with an MNP containing FeFum+NaFeEDTA or FeSO 4 as a reference after the infants had consumed the MNP with or without GOSs daily for 3 wk. During the baseline screening, we collected a venipuncture blood sample (3 mL) for the determination of hemoglobin, plasma ferritin (PF), soluble transferrin receptor (sTfR), C-reactive protein (CRP), a-1-acid glycoprotein (AGP), and hepcidin. We measured infant weight using a Salter-type baby weighing scale to the nearest 0.1 kg and infant length using a rigid measurement board to the nearest 0.5 cm. Demographic characteristics, brief medical histories, and feeding habits of the infants were assessed via a questionnaire and local health records. Each week during the entire study, we provided 2 kg unfortified, refined maize flour (Mombasa Maize Millers) to the families of the enrolled infants for the preparation of maize porridge at home. We instructed the caregivers to use this flour for all porridge that was fed to the infant for the duration of the study. In a 2-3-d run-in period, we assessed the ability of the infants to consume adequate amounts of the maize porridge and collected a baseline fecal sample from the infants to measure pH, SCFAs, and bacterial groups. On day 1, we randomly assigned the infants into 2 groups ( Figure 1 ). One group (the Fe group) received sachets of MNP containing 2.5 mg Fe as FeFum and 2.5 mg Fe as NaFeEDTA along with 30 mg ascorbic acid and other vitamins and minerals, 190 phytase unit (FTU) of a foodgrade microbial phytase (6) (Tolerase 20,000G; DSM Nutritional Products) and 10.5 g maltodextrin (MNP contents are shown in Table 1 ). The second group (the Fe+GOS group) received the identical MNP except that the maltodextrin was replaced with 10.5 g 75% GOSs (Vivinal GOS 75 Powder; FrieslandCampina). We chose a GOS dose of 7.5 g/d on the basis of studies that reported a bifidogenic effect in infants and adults at a range of doses from 2.5 to .10 g/d (11) and the enhancement of calcium absorption at doses $8 g/d (12) . We showed the caregivers how to in-home fortify the porridge with the MNP and instructed them to provide one MNP sachet per day for 5 wk. Weekly, the caregiver of the participating infant received 7 MNP sachets, which were packed in color-coded paper bags. During weekly visits, we assessed compliance by questioning the caregiver and collecting used and unused MNP sachets and assessed infant morbidity via a questionnaire that contained forcedchoice questions on fever, cough, difficult or rapid breathing, diarrhea, blood or mucus in the stool, and other illness. Infants who became ill during the study were treated by the study clinicians and were excluded from the study if they received antibiotics between recruitment and day 22 or if they had a severe illness between days 14 and 22.",
+        "section": "Study design",
+        "section_number": 4,
+        "sentences": [
+            "With the use of a single-blind, randomized design, we measured fractional iron absorption from maize porridge that was fortified with an MNP containing FeFum+NaFeEDTA or FeSO 4 as a reference after the infants had consumed the MNP with or without GOSs daily for 3 wk.",
+            "During the baseline screening, we collected a venipuncture blood sample (3 mL) for the determination of hemoglobin, plasma ferritin (PF), soluble transferrin receptor (sTfR), C-reactive protein (CRP), a-1-acid glycoprotein (AGP), and hepcidin.",
+            "We measured infant weight using a Salter-type baby weighing scale to the nearest 0.1 kg and infant length using a rigid measurement board to the nearest 0.5 cm.",
+            "Demographic characteristics, brief medical histories, and feeding habits of the infants were assessed via a questionnaire and local health records.",
+            "Each week during the entire study, we provided 2 kg unfortified, refined maize flour (Mombasa Maize Millers) to the families of the enrolled infants for the preparation of maize porridge at home.",
+            "We instructed the caregivers to use this flour for all porridge that was fed to the infant for the duration of the study.",
+            "In a 2-3-d run-in period, we assessed the ability of the infants to consume adequate amounts of the maize porridge and collected a baseline fecal sample from the infants to measure pH, SCFAs, and bacterial groups.",
+            "On day 1, we randomly assigned the infants into 2 groups ( Figure 1 ).",
+            "One group (the Fe group) received sachets of MNP containing 2.5 mg Fe as FeFum and 2.5 mg Fe as NaFeEDTA along with 30 mg ascorbic acid and other vitamins and minerals, 190 phytase unit (FTU) of a foodgrade microbial phytase (6) (Tolerase 20,000G; DSM Nutritional Products) and 10.5 g maltodextrin (MNP contents are shown in Table 1 ).",
+            "The second group (the Fe+GOS group) received the identical MNP except that the maltodextrin was replaced with 10.5 g 75% GOSs (Vivinal GOS 75 Powder; FrieslandCampina).",
+            "We chose a GOS dose of 7.5 g/d on the basis of studies that reported a bifidogenic effect in infants and adults at a range of doses from 2.5 to .10 g/d (11) and the enhancement of calcium absorption at doses $8 g/d (12) .",
+            "We showed the caregivers how to in-home fortify the porridge with the MNP and instructed them to provide one MNP sachet per day for 5 wk.",
+            "Weekly, the caregiver of the participating infant received 7 MNP sachets, which were packed in color-coded paper bags.",
+            "During weekly visits, we assessed compliance by questioning the caregiver and collecting used and unused MNP sachets and assessed infant morbidity via a questionnaire that contained forcedchoice questions on fever, cough, difficult or rapid breathing, diarrhea, blood or mucus in the stool, and other illness.",
+            "Infants who became ill during the study were treated by the study clinicians and were excluded from the study if they received antibiotics between recruitment and day 22 or if they had a severe illness between days 14 and 22."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "The infants began consuming the MNPs on day 1. After 3 wk of daily MNP consumption, we collected a second fecal sample on day 21 to measure pH, SCFAs, and bacterial groups. On days 21 and 22, between 0730 and 0900, we fed the 2 test meals in a randomized order to all infants in both groups. The caregivers were told to feed the infants nothing except breast milk after the previous evening meal and to not feed any breast milk to the infant $3 h before the test meal. The test meals consisted of 70 g unfortified maize porridge, which contained 4.7 g unfortified, refined maize flour, 2.8 g sugar, and 62.5 mL bottled water (Keringet still; Crown beverages Ltd.) to which the contents of an MNP sachet were added just before feeding. We prepared the maize porridge in bulk each study day according to a standardized protocol. The MNP sachet that was added to the test meals was identical to the ones that the infants had received for the 3 previous weeks (Table 1 ) with the exception that it did not contain the 5 mg Fe, which was substituted with isotopically labeled iron; test meal A was labeled with 2.5 mg Fe as FeFum given as 2.5 mg 57 Fe and 2.5 mg Fe as NaFeEDTA given as 1 mg of 58 Fe and 1.5 mg of 56 Fe. Test meal B was labeled with 5 mg FeSO 4 given as 2 mg 54 Fe and 3 mg 56 Fe. The test meals were fed by the caregiver under the close supervision and assistance of the study team using a feeding bottle or a bowl and spoon. All utensils were carefully rinsed with water, and the rinse water was consumed by the infant. Afterward, the infant remained at the feeding site and was not allowed to eat or drink for 2 h after the test meal. On day 23, the infants resumed consumption of the maize porridge and the daily MNP consumption at home for another 2 wk. Fourteen days after the second test meal was administered (day 36), we collected a venipuncture blood sample (3 mL) for iron isotopic analysis and for the measurement of hemoglobin, PF, sTfR, CRP, AGP, and hepcidin. Anthropometric measurements were repeated as described for the baseline measurement. Any infants who remained anemic at the end of the study were examined by a local pediatrician and treated for anemia according to local health care guidelines.",
+        "section": "Study design",
+        "section_number": 5,
+        "sentences": [
+            "The infants began consuming the MNPs on day 1.",
+            "After 3 wk of daily MNP consumption, we collected a second fecal sample on day 21 to measure pH, SCFAs, and bacterial groups.",
+            "On days 21 and 22, between 0730 and 0900, we fed the 2 test meals in a randomized order to all infants in both groups.",
+            "The caregivers were told to feed the infants nothing except breast milk after the previous evening meal and to not feed any breast milk to the infant $3 h before the test meal.",
+            "The test meals consisted of 70 g unfortified maize porridge, which contained 4.7 g unfortified, refined maize flour, 2.8 g sugar, and 62.5 mL bottled water (Keringet still; Crown beverages Ltd.) to which the contents of an MNP sachet were added just before feeding.",
+            "We prepared the maize porridge in bulk each study day according to a standardized protocol.",
+            "The MNP sachet that was added to the test meals was identical to the ones that the infants had received for the 3 previous weeks (Table 1 ) with the exception that it did not contain the 5 mg Fe, which was substituted with isotopically labeled iron; test meal A was labeled with 2.5 mg Fe as FeFum given as 2.5 mg 57 Fe and 2.5 mg Fe as NaFeEDTA given as 1 mg of 58 Fe and 1.5 mg of 56 Fe.",
+            "Test meal B was labeled with 5 mg FeSO 4 given as 2 mg 54 Fe and 3 mg 56 Fe.",
+            "The test meals were fed by the caregiver under the close supervision and assistance of the study team using a feeding bottle or a bowl and spoon.",
+            "All utensils were carefully rinsed with water, and the rinse water was consumed by the infant.",
+            "Afterward, the infant remained at the feeding site and was not allowed to eat or drink for 2 h after the test meal.",
+            "On day 23, the infants resumed consumption of the maize porridge and the daily MNP consumption at home for another 2 wk.",
+            "Fourteen days after the second test meal was administered (day 36), we collected a venipuncture blood sample (3 mL) for iron isotopic analysis and for the measurement of hemoglobin, PF, sTfR, CRP, AGP, and hepcidin.",
+            "Anthropometric measurements were repeated as described for the baseline measurement.",
+            "Any infants who remained anemic at the end of the study were examined by a local pediatrician and treated for anemia according to local health care guidelines."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "We randomly assigned infants to the 2 intervention groups using a computer-generated list (Excel, Microsoft Office 2010; Microsoft Corp) and 2 color codes and randomly assigned the test-meal order using a computer-generated list (Excel, Microsoft Office 2010) of letter codes (AB or BA) with infants blocked in groups to ensure that, within groups, an equal number of infants started with test meals A and B. The caregivers and infants, as well as most of the research team, were masked to the intervention group assignment and test-meal order. Two senior members of the research team, who were responsible for the addition of the isotopic iron and MNP to the test meals just before they were administered, were not masked.",
+        "section": "Random assignment and masking",
+        "section_number": 6,
+        "sentences": [
+            "We randomly assigned infants to the 2 intervention groups using a computer-generated list (Excel, Microsoft Office 2010; Microsoft Corp) and 2 color codes and randomly assigned the test-meal order using a computer-generated list (Excel, Microsoft Office 2010) of letter codes (AB or BA) with infants blocked in groups to ensure that, within groups, an equal number of infants started with test meals A and B. The caregivers and infants, as well as most of the research team, were masked to the intervention group assignment and test-meal order.",
+            "Two senior members of the research team, who were responsible for the addition of the isotopic iron and MNP to the test meals just before they were administered, were not masked."
+        ],
+        "sentence_labels": [
+            1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "46967",
+        "text": "Fe-labeled FeFum was prepared from 57 Fe-enriched elemental iron (95.78% isotopic enrichment; Chemgas) by Dr. Paul Lohmann, GmbH. Na 58 FeEDTA was prepared in solution from 58 Fe-enriched elemental iron (99.9% isotopic enrichment; Chemgas), which was dissolved in 2 mL HCl and diluted with water. The resulting FeCl 3 solution was mixed immediately before use with an aqueous Na 2 EDTA solution (Na 2 EDTA H 2 O; Sigma-Aldrich) at a molar ratio of 1:1 (iron:EDTA). 54 FeSO 4 was prepared from 54 Fe-enriched elemental iron (.99.8% isotopic enrichment; Chemgas) by dissolution in 0.1 mol/L H 2 SO 4 . Labeled iron compounds were analyzed for iron isotopic composition and the tracer iron concentration via isotope-dilution mass spectrometry as outlined in the analytic methods.",
+        "section": "Stable-isotope labels 57",
+        "section_number": 7,
+        "sentences": [
+            "Fe-labeled FeFum was prepared from 57 Fe-enriched elemental iron (95.78% isotopic enrichment; Chemgas) by Dr. Paul Lohmann, GmbH. Na 58 FeEDTA was prepared in solution from 58 Fe-enriched elemental iron (99.9% isotopic enrichment; Chemgas), which was dissolved in 2 mL HCl and diluted with water.",
+            "The resulting FeCl 3 solution was mixed immediately before use with an aqueous Na 2 EDTA solution (Na 2 EDTA H 2 O; Sigma-Aldrich) at a molar ratio of 1:1 (iron:EDTA).",
+            "54 FeSO 4 was prepared from 54 Fe-enriched elemental iron (.99.8% isotopic enrichment; Chemgas) by dissolution in 0.1 mol/L H 2 SO 4 .",
+            "Labeled iron compounds were analyzed for iron isotopic composition and the tracer iron concentration via isotope-dilution mass spectrometry as outlined in the analytic methods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Venous blood samples were drawn in to heparin-treated vacutainer tubes. We measured hemoglobin with the use of a HemoCue 300 analyzer (HemoCue), and controls (Eurotrol) were measured daily. We measured PF, sTfR, AGP, and CRP using a multiplex immunoassay (19) , and plasma hepcidin using a commercial available ELISA (DRG Instruments GmbH). Anemia was defined as a hemoglobin concentration ,110 g/L (20) ; iron deficiency in this setting with a high infection burden was defined as a PF concentration ,30 mg/L (20) or elevated sTfR concentration .8.3 mg/mL, and iron-deficiency anemia was defined as a hemoglobin concentration ,110 g/L and PF concentration ,30 mg/L or elevated sTfR concentration .8.3 mg/mL. Body iron stores were calculated from the ratio of PF and sTfR. CRP and AGP values .5 mg/L and .1 g/L, respectively, were defined as indicating inflammation. Whole blood samples that were collected on day 36 were mineralized in duplicates with the use of an HNO 3 and H 2 O 2 mixture and microwave digestion followed by the separation of the iron from the blood matrix via anion-exchange chromatography and a solvent or solvent extraction step into diethylether (21) . All isotopic analyses were performed with multicollector inductively coupled plasma mass spectrometry (Neptune; Thermo Finnigan) (21) .",
+        "section": "Blood samples",
+        "section_number": 8,
+        "sentences": [
+            "Venous blood samples were drawn in to heparin-treated vacutainer tubes.",
+            "We measured hemoglobin with the use of a HemoCue 300 analyzer (HemoCue), and controls (Eurotrol) were measured daily.",
+            "We measured PF, sTfR, AGP, and CRP using a multiplex immunoassay (19) , and plasma hepcidin using a commercial available ELISA (DRG Instruments GmbH).",
+            "Anemia was defined as a hemoglobin concentration ,110 g/L (20) ; iron deficiency in this setting with a high infection burden was defined as a PF concentration ,30 mg/L (20) or elevated sTfR concentration .8.3 mg/mL, and iron-deficiency anemia was defined as a hemoglobin concentration ,110 g/L and PF concentration ,30 mg/L or elevated sTfR concentration .8.3 mg/mL. Body iron stores were calculated from the ratio of PF and sTfR. CRP and AGP values .5 mg/L and .1 g/L, respectively, were defined as indicating inflammation.",
+            "Whole blood samples that were collected on day 36 were mineralized in duplicates with the use of an HNO 3 and H 2 O 2 mixture and microwave digestion followed by the separation of the iron from the blood matrix via anion-exchange chromatography and a solvent or solvent extraction step into diethylether (21) .",
+            "All isotopic analyses were performed with multicollector inductively coupled plasma mass spectrometry (Neptune; Thermo Finnigan) (21) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Sample analyses of the test meals were done in triplicate. We measured iron concentrations of the maize flour and the MNP using graphite-furnace atomic absorption spectrophotometry (AA240Z; Varian) after mineralization by microwave digestion. We measured the phytate concentration in the maize flour using a modification of the method of Makower (22) in which iron was replaced by cerium in the precipitation step; after the mineralization of the precipitate, inorganic phosphate was determined and converted into phytate concentrations. The amount of GOSs in the MNPs was measured with the use of high-performance anion-exchange chromatography with pulsed amperometric detection at FrieslandCampina.",
+        "section": "Composition of the test meal",
+        "section_number": 9,
+        "sentences": [
+            "Sample analyses of the test meals were done in triplicate.",
+            "We measured iron concentrations of the maize flour and the MNP using graphite-furnace atomic absorption spectrophotometry (AA240Z; Varian) after mineralization by microwave digestion.",
+            "We measured the phytate concentration in the maize flour using a modification of the method of Makower (22) in which iron was replaced by cerium in the precipitation step; after the mineralization of the precipitate, inorganic phosphate was determined and converted into phytate concentrations.",
+            "The amount of GOSs in the MNPs was measured with the use of high-performance anion-exchange chromatography with pulsed amperometric detection at FrieslandCampina."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Fecal sample collection. Caregivers, after careful instruction, collected fecal samples from the infant at home into screw-cap containers containing a carbon-dioxide generator system to create an anaerobic atmosphere (Microbiologie Anaerocult A mini; Merck). The fecal samples were delivered to the study team and were aliquoted and stored at 2208C until further analysis.",
+        "section": "Fecal samples",
+        "section_number": 10,
+        "sentences": [
+            "Fecal sample collection.",
+            "Caregivers, after careful instruction, collected fecal samples from the infant at home into screw-cap containers containing a carbon-dioxide generator system to create an anaerobic atmosphere (Microbiologie Anaerocult A mini; Merck).",
+            "The fecal samples were delivered to the study team and were aliquoted and stored at 2208C until further analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Analysis of fecal pH. A total of 100 mg (610%) of feces were added to 1 mL ultrapure water (.18 MV$cm), vortexed for 30 s, and centrifuged for 3 min at 5000 3 g at 48C; the pH in the liquid phase was measured with a digital pH meter (Metrohm).",
+        "section": "Fecal samples",
+        "section_number": 11,
+        "sentences": [
+            "Analysis of fecal pH. A total of 100 mg (610%) of feces were added to 1 mL ultrapure water (.18 MV$cm), vortexed for 30 s, and centrifuged for 3 min at 5000 3 g at 48C; the pH in the liquid phase was measured with a digital pH meter (Metrohm)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Analysis of fecal SCFAs. SCFAs (acetate, propionate, and butyrate) were measured with the use of an HPLC device (Merck-Hitachi) equipped with a Rezex ROA-Organic Acid H + column (Phenomenex) and a refractive index detector (Merck-Hitachi). For preparation of SCFAs measurement, 300 mg (610%) of feces were added to 0.5 mL 10 mmol/L H 2 SO 4 , vortexed for 90 s, and centrifuged at 13,000 3 g for 30 min at 48C. The supernatant fluid (40-mL injection volume) was eluted with 10 mmol/L H 2 SO 4 at a flow rate of 0.4 mL/min at 408C.",
+        "section": "Fecal samples",
+        "section_number": 12,
+        "sentences": [
+            "Analysis of fecal SCFAs.",
+            "SCFAs (acetate, propionate, and butyrate) were measured with the use of an HPLC device (Merck-Hitachi) equipped with a Rezex ROA-Organic Acid H + column (Phenomenex) and a refractive index detector (Merck-Hitachi).",
+            "For preparation of SCFAs measurement, 300 mg (610%) of feces were added to 0.5 mL 10 mmol/L H 2 SO 4 , vortexed for 90 s, and centrifuged at 13,000 3 g for 30 min at 48C.",
+            "The supernatant fluid (40-mL injection volume) was eluted with 10 mmol/L H 2 SO 4 at a flow rate of 0.4 mL/min at 408C."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "DNA extraction and quantitative polymerase chain reaction. We targeted Bifidobacterium spp. and Lactobacillus/Pediococcus/ Leuconostoc spp. because they are both major commensals with growth that is selectively enhanced in infants by consumption of prebiotics. DNA was extracted from 250 mg (610%) of feces with the use of a FastDNA Spin Kit for Soil (MP Biomedicals). Quantification was carried out with a Nanodrop ND-1000 Spectrophotometer (Witec AG) at 260 nm. We used the following primers for a quantitative polymerase chain reaction (qPCR): Bifidobacterium spp. primers F: 5#TCGCGTC(C/T)GGTGT-GAAAG3# and R: 5#CCACATCCAGC(A/G)TCCAC3# (23); and Lactobacillus/Pediococcus/Leuconostoc spp. primers F_Lacto 05: 5#AGCAGTAGGGAATCTTCC A3# and R_Lacto 04: 5#CGC-CACTGGTGTTC(C/T)TCCATATA3# (24) . qPCR was performed with BioMark 96.96 Gene Expression Dynamic Arrays (Fluidigm). A sample premix was prepared by mixing 2 mL DNA with 0.4 mL 203 DNA Binding Dye Sample Loading Reagent (PN 100-0388; Fluidigm), 4 mL 23 Taq Man Gene Expression Master Mix (PN 4359016; Thermo Fisher Scientific), 0.4 mL 203 EvaGreen DNA binding dye (PN 31000; Biotium), and 1.2 mL Tris-EDTA buffer. We prepared the assay mix by mixing 4 mL of 23 Assay loading Reagent (PN 85000736; Fluidigm), 0.4 mL Tris-EDTA buffer, and 3.6 mL of the 20 mmol/L of a forward and reverse primer mix. We loaded and ran two 96.96 GE Dynamic Array chips (PN BMK-M-96.69; Fluidigm) on a BioMark system as described by the manufacturer (advanced development protocol 41: using EvaGreen DNA-binding dye for gene expression with the 48.48 and 96.96 Dynamic Array IFCs; Fluidigm). The PCR was performed under the following conditions: 508C for 2 min and 958C for 10 min followed by 40 cycles at 958C for 15 s and at 608C for 1 min. To generate standards, complete or partial 16S ribosomal RNA genes were amplified from representative strains. Amplicons were purified and cloned into a PGEMT Easy Vector (Promega) and heterologously expressed in Escherichia coli according to the instruction of the supplier. Standard curves were prepared from 10-fold dilutions of linearized plasmids harboring the 16S ribosomal RNA gene of interest. Concentrations were measured with a Qubit dsDNA BR assay kit (Q32850; Thermo Fisher Scientific) in triplicate on a Spark M10 plate reader (Tecan Group Ltd.). We processed data with Fluidigm Real-Time PCR Analysis Software, including a melting curve analysis.",
+        "section": "Fecal samples",
+        "section_number": 13,
+        "sentences": [
+            "DNA extraction and quantitative polymerase chain reaction.",
+            "We targeted Bifidobacterium spp.",
+            "and Lactobacillus/Pediococcus/ Leuconostoc spp.",
+            "because they are both major commensals with growth that is selectively enhanced in infants by consumption of prebiotics.",
+            "DNA was extracted from 250 mg (610%) of feces with the use of a FastDNA Spin Kit for Soil (MP Biomedicals).",
+            "Quantification was carried out with a Nanodrop ND-1000 Spectrophotometer (Witec AG) at 260 nm.",
+            "We used the following primers for a quantitative polymerase chain reaction (qPCR): Bifidobacterium spp.",
+            "primers F: 5#TCGCGTC(C/T)GGTGT-GAAAG3# and R: 5#CCACATCCAGC(A/G)TCCAC3# (23); and Lactobacillus/Pediococcus/Leuconostoc spp.",
+            "primers F_Lacto 05: 5#AGCAGTAGGGAATCTTCC A3# and R_Lacto 04: 5#CGC-CACTGGTGTTC(C/T)TCCATATA3# (24) .",
+            "qPCR was performed with BioMark 96.96 Gene Expression Dynamic Arrays (Fluidigm).",
+            "A sample premix was prepared by mixing 2 mL DNA with 0.4 mL 203 DNA Binding Dye Sample Loading Reagent (PN 100-0388; Fluidigm), 4 mL 23 Taq Man Gene Expression Master Mix (PN 4359016; Thermo Fisher Scientific), 0.4 mL 203 EvaGreen DNA binding dye (PN 31000; Biotium), and 1.2 mL Tris-EDTA buffer.",
+            "We prepared the assay mix by mixing 4 mL of 23 Assay loading Reagent (PN 85000736; Fluidigm), 0.4 mL Tris-EDTA buffer, and 3.6 mL of the 20 mmol/L of a forward and reverse primer mix.",
+            "We loaded and ran two 96.96 GE Dynamic Array chips (PN BMK-M-96.69; Fluidigm) on a BioMark system as described by the manufacturer (advanced development protocol 41: using EvaGreen DNA-binding dye for gene expression with the 48.48 and 96.96 Dynamic Array IFCs; Fluidigm).",
+            "The PCR was performed under the following conditions: 508C for 2 min and 958C for 10 min followed by 40 cycles at 958C for 15 s and at 608C for 1 min.",
+            "To generate standards, complete or partial 16S ribosomal RNA genes were amplified from representative strains.",
+            "Amplicons were purified and cloned into a PGEMT Easy Vector (Promega) and heterologously expressed in Escherichia coli according to the instruction of the supplier.",
+            "Standard curves were prepared from 10-fold dilutions of linearized plasmids harboring the 16S ribosomal RNA gene of interest.",
+            "Concentrations were measured with a Qubit dsDNA BR assay kit (Q32850; Thermo Fisher Scientific) in triplicate on a Spark M10 plate reader (Tecan Group Ltd.).",
+            "We processed data with Fluidigm Real-Time PCR Analysis Software, including a melting curve analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "We calculated the amounts of 57 Fe, 58 Fe, and 54 Fe isotopic labels in blood 14 d after administration of the second test meal on the basis of the shift in iron-isotope ratios and the estimated amount of iron circulating in the body. Circulating iron was calculated on the basis of the blood volume that was estimated from length and weight (endpoint measurement) according to Brown et al. (25) and measured hemoglobin concentrations (mean hemoglobin values of the baseline measurement and endpoint measurement). The calculations were based on the principles of isotope dilution and took into account that iron isotopic labels were not monoisotopic (21) . For the calculation of fractional absorption, we assumed a 75% incorporation of the absorbed iron on the basis of a previous study that measured erythrocyte isotope incorporation from intravenously infused 58 Fe in African infants of the same age as our subjects (3).",
+        "section": "Calculation of iron absorption",
+        "section_number": 14,
+        "sentences": [
+            "We calculated the amounts of 57 Fe, 58 Fe, and 54 Fe isotopic labels in blood 14 d after administration of the second test meal on the basis of the shift in iron-isotope ratios and the estimated amount of iron circulating in the body.",
+            "Circulating iron was calculated on the basis of the blood volume that was estimated from length and weight (endpoint measurement) according to Brown et al. (25) and measured hemoglobin concentrations (mean hemoglobin values of the baseline measurement and endpoint measurement).",
+            "The calculations were based on the principles of isotope dilution and took into account that iron isotopic labels were not monoisotopic (21) .",
+            "For the calculation of fractional absorption, we assumed a 75% incorporation of the absorbed iron on the basis of a previous study that measured erythrocyte isotope incorporation from intravenously infused 58 Fe in African infants of the same age as our subjects (3)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "The study was powered to detect a 28% within-group difference and a 52% between-group difference in iron absorption on the basis of data from a previous iron-absorption study from our laboratory where the summary of absorption data showed mean 6 SD log10(percentage of absorption) values as follows: meal A: 1.12 6 0.38; and meal B: 0.97 6 0.37; the difference between pairs was 0.15 6 0.23 with a type I error rate of 5% and 80% power; this calculation yielded a sample size of 24 infants/group.",
+        "section": "Sample-size calculation",
+        "section_number": 15,
+        "sentences": [
+            "The study was powered to detect a 28% within-group difference and a 52% between-group difference in iron absorption on the basis of data from a previous iron-absorption study from our laboratory where the summary of absorption data showed mean 6 SD log10(percentage of absorption) values as follows: meal A: 1.12 6 0.38; and meal B: 0.97 6 0.37; the difference between pairs was 0.15 6 0.23 with a type I error rate of 5% and 80% power; this calculation yielded a sample size of 24 infants/group."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "We calculated z scores for weight-for-age, weight-for-length, and length-for-age using WHO Anthro software (version 3.2.2.1; WHO). Because of the high prevalence of elevated CRP and AGP, we adjusted the PF values for CRP and AGP (26) . Infants were grouped into early convalescence (geometric mean PF concentration: 39.5 mg/L), late convalescence (geometric mean PF concentration: 26.5 mg/L), and reference groups (geometric mean PF concentration: 16.1 mg/L). No infant was in the incubation phase (elevated CRP only). The use of the ratio between the geometric mean of the reference group to early convalescence and late convalescence (26) resulted in a correction factor of 0.41 for PF in the early convalescence phase and a correction factor of 0.61 for PF in the late convalescence phase. We used the adjusted PF values to adjust iron-absorption values to a PF of 15 mg/L for between-group comparisons (27) . We used Excel software (Microsoft Office 2010) for further analysis of the qPCR data. The standard curves were generated via a linear regression analysis of the C T (threshold cycle) values compared with the amounts of the template DNA of the standard (log gene copies per microliter). The goodness of fit (r 2 ) was calculated for each linear regression. The limit of quantification was set at the last point of the standard line falling in the linear range. Values less than the limit of quantification were not included in the analysis (in the Fe group, n = 4 at baseline, and n = 3 at 3 wk; in the Fe+GOS group, n =5 at baseline, and n = 5 at 3 wk). We excluded fecal samples from 8 infants from the Fe group and 4 infants from the Fe+GOS group because of poor sample quality. We analyzed biochemical and anthropometric data, fecal pH, SCFAs, bacterial groups, and fractional absorption using the R statistical programming environment (R 3.3.1 software; R Core Team). We ran descriptive statistics for all variables and assessed normality by testing the distribution of continuous variables against a normal distribution using the Shapiro-Wilk W test. When departing significantly from normality, the variables were transformed with the use of log(x), sqrt(x), or 21 divided by x to correct positive skewness or x 2 , x 3 , or antilog(x) to correct negative skewness until achieving W . 0.97 before proceeding with further data analyses. Values in the text and in tables are represented as means 6 SDs for normally distributed data and as medians (IQRs) for nonnormal data. We assessed the intervention effect on biochemical and anthropometric data, bacterial groups, fecal pH, and SCFAs by fitting linear mixed-effects models. We defined the fixed effects on the variance as time, group, and time by group and the random structure as the subject to control between-subject differences. If the interaction term significantly predicted the dependent variable, we ran a post hoc analysis to investigate the effect of one factor within levels of the other by applying Tukey's correction. We performed model diagnostics by visually inspecting the Tukey-Anscombe plot and the residual plot to verify the assumptions of homoscedasticity and normality of residuals. We assessed the intervention effect on fractional iron absorption by fitting linear mixed-effects models: We constructed 2 models, one model with fractional absorption expressed as iron absorption from the 2 test meals (with FeFum+NaFeEDTA and FeSO 4 as the two factor-levels of the iron compound variable) and a second model with fractional absorption given as absorption from the 2 separate iron compounds (with FeFum and NaFeEDTA as the two factor-levels of the iron compound variable). We defined the fixed effects on the variance as the group, compound, and group by compound, the random structure was defined as the subject, and we performed model diagnostics as previously described. If the interaction term significantly predicted iron absorption, we ran a post hoc analysis to investigate the effect of one factor within levels of the other by applying Tukey's correction.",
+        "section": "Data and statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "We calculated z scores for weight-for-age, weight-for-length, and length-for-age using WHO Anthro software (version 3.2.2.1; WHO).",
+            "Because of the high prevalence of elevated CRP and AGP, we adjusted the PF values for CRP and AGP (26) .",
+            "Infants were grouped into early convalescence (geometric mean PF concentration: 39.5 mg/L), late convalescence (geometric mean PF concentration: 26.5 mg/L), and reference groups (geometric mean PF concentration: 16.1 mg/L).",
+            "No infant was in the incubation phase (elevated CRP only).",
+            "The use of the ratio between the geometric mean of the reference group to early convalescence and late convalescence (26) resulted in a correction factor of 0.41 for PF in the early convalescence phase and a correction factor of 0.61 for PF in the late convalescence phase.",
+            "We used the adjusted PF values to adjust iron-absorption values to a PF of 15 mg/L for between-group comparisons (27) .",
+            "We used Excel software (Microsoft Office 2010) for further analysis of the qPCR data.",
+            "The standard curves were generated via a linear regression analysis of the C T (threshold cycle) values compared with the amounts of the template DNA of the standard (log gene copies per microliter).",
+            "The goodness of fit (r 2 ) was calculated for each linear regression.",
+            "The limit of quantification was set at the last point of the standard line falling in the linear range.",
+            "Values less than the limit of quantification were not included in the analysis (in the Fe group, n = 4 at baseline, and n = 3 at 3 wk; in the Fe+GOS group, n =5 at baseline, and n = 5 at 3 wk).",
+            "We excluded fecal samples from 8 infants from the Fe group and 4 infants from the Fe+GOS group because of poor sample quality.",
+            "We analyzed biochemical and anthropometric data, fecal pH, SCFAs, bacterial groups, and fractional absorption using the R statistical programming environment (R 3.3.1 software; R Core Team).",
+            "We ran descriptive statistics for all variables and assessed normality by testing the distribution of continuous variables against a normal distribution using the Shapiro-Wilk W test.",
+            "When departing significantly from normality, the variables were transformed with the use of log(x), sqrt(x), or 21 divided by x to correct positive skewness or x 2 , x 3 , or antilog(x) to correct negative skewness until achieving W .",
+            "0.97 before proceeding with further data analyses.",
+            "Values in the text and in tables are represented as means 6 SDs for normally distributed data and as medians (IQRs) for nonnormal data.",
+            "We assessed the intervention effect on biochemical and anthropometric data, bacterial groups, fecal pH, and SCFAs by fitting linear mixed-effects models.",
+            "We defined the fixed effects on the variance as time, group, and time by group and the random structure as the subject to control between-subject differences.",
+            "If the interaction term significantly predicted the dependent variable, we ran a post hoc analysis to investigate the effect of one factor within levels of the other by applying Tukey's correction.",
+            "We performed model diagnostics by visually inspecting the Tukey-Anscombe plot and the residual plot to verify the assumptions of homoscedasticity and normality of residuals.",
+            "We assessed the intervention effect on fractional iron absorption by fitting linear mixed-effects models: We constructed 2 models, one model with fractional absorption expressed as iron absorption from the 2 test meals (with FeFum+NaFeEDTA and FeSO 4 as the two factor-levels of the iron compound variable) and a second model with fractional absorption given as absorption from the 2 separate iron compounds (with FeFum and NaFeEDTA as the two factor-levels of the iron compound variable).",
+            "We defined the fixed effects on the variance as the group, compound, and group by compound, the random structure was defined as the subject, and we performed model diagnostics as previously described.",
+            "If the interaction term significantly predicted iron absorption, we ran a post hoc analysis to investigate the effect of one factor within levels of the other by applying Tukey's correction."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "We used Spearman correlations for associations between fractional iron absorption and variables of interest and to investigate potential variables to be included in a multiple regression model. Age, weight, sex, hemoglobin, and all variables that significantly correlated with fractional iron absorption from FeFum+NaFeEDTA or FeSO 4 (P , 0.05) were included in the multiple regression model. To achieve the minimal adequate model, we applied a stepwise backward deletion procedure by discarding variables that, when removed, did not significantly increase model deviance. We evaluated the goodness-of-fit via the Akaike information criterion and reported estimates and SEs for each selected predictor. We performed the model diagnostic as described previously. Significance was set at P , 0.05.",
+        "section": "Data and statistical analysis",
+        "section_number": 17,
+        "sentences": [
+            "We used Spearman correlations for associations between fractional iron absorption and variables of interest and to investigate potential variables to be included in a multiple regression model.",
+            "Age, weight, sex, hemoglobin, and all variables that significantly correlated with fractional iron absorption from FeFum+NaFeEDTA or FeSO 4 (P , 0.05) were included in the multiple regression model.",
+            "To achieve the minimal adequate model, we applied a stepwise backward deletion procedure by discarding variables that, when removed, did not significantly increase model deviance.",
+            "We evaluated the goodness-of-fit via the Akaike information criterion and reported estimates and SEs for each selected predictor.",
+            "We performed the model diagnostic as described previously.",
+            "Significance was set at P , 0.05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "After the baseline screening, 64 infants were included in the study. One infant left the study during the run-in period, and the following 13 infants dropped out of the study after group assignment: 2 infants in the Fe group (withdrawal from the study) and 11 infants in the Fe+GOS group [withdrawal from the study: n = 2; excluded because of antibiotic use: n = 8 (n = 6 for upper respiratory tract infection, n = 1 for diarrhea, and n = 1 for fever); and excluded because of malaria with severe anemia: n = 1]. Thus, 50 infants completed the study (n = 28 in the Fe group, and n = 22 in the Fe+GOS group) (Figure 1) . At baseline, the infants' median age was 8.5 mo (range: 6.0-13.8 mo, the boy:girl ratio was 1:1.08, the mean 6 SD length-for-age score was 20.72 6 1.27, the weight-for-age z score was 20.84 6 1.20, and the weightfor-length z score was 20.55 6 1.17. The median hemoglobin concentration was 105 g/L (IQR: 97-111 g/L), the median PF concentration was 16.7 mg/L (IQR: 10.3-29.9 mg/L), the median adjusted PF concentration was 14.6 mg/L (IQR: 7.5-25.0 mg/L), the median sTfR concentration was 12.3 mg/L (IQR: 8.9-17.4 mg/L), the median CRP concentration was 0.6 mg/L (IQR: 0.3-1.7 mg/L), the median AGP concentration was 0.7 g/L (IQR: 0.5-1.3 g/L), and the median hepcidin concentration was 4.5 mg/L (IQR: 1.5-10.4 mg/L). Sixty-four percent of the infants were anemic, 96% of the infants were iron deficient, and 64% of the infants had iron-deficiency anemia; 18% and 36% of infants had an elevated baseline CRP or AGP concentration, respectively. Compliance with sachet use was high; the basis of weekly counts of returned sachets and weekly questioning of the caregiver about complete consumption of the MNP, 98% of sachets were consumed in the Fe group, and 98% of sachets were consumed in the Fe+GOS group.",
+        "section": "Subjects",
+        "section_number": 18,
+        "sentences": [
+            "After the baseline screening, 64 infants were included in the study.",
+            "One infant left the study during the run-in period, and the following 13 infants dropped out of the study after group assignment: 2 infants in the Fe group (withdrawal from the study) and 11 infants in the Fe+GOS group [withdrawal from the study: n = 2; excluded because of antibiotic use: n = 8 (n = 6 for upper respiratory tract infection, n = 1 for diarrhea, and n = 1 for fever); and excluded because of malaria with severe anemia: n = 1].",
+            "Thus, 50 infants completed the study (n = 28 in the Fe group, and n = 22 in the Fe+GOS group) (Figure 1) .",
+            "At baseline, the infants' median age was 8.5 mo (range: 6.0-13.8 mo, the boy:girl ratio was 1:1.08, the mean 6 SD length-for-age score was 20.72 6 1.27, the weight-for-age z score was 20.84 6 1.20, and the weightfor-length z score was 20.55 6 1.17.",
+            "The median hemoglobin concentration was 105 g/L (IQR: 97-111 g/L), the median PF concentration was 16.7 mg/L (IQR: 10.3-29.9 mg/L), the median adjusted PF concentration was 14.6 mg/L (IQR: 7.5-25.0 mg/L), the median sTfR concentration was 12.3 mg/L (IQR: 8.9-17.4 mg/L), the median CRP concentration was 0.6 mg/L (IQR: 0.3-1.7 mg/L), the median AGP concentration was 0.7 g/L (IQR: 0.5-1.3 g/L), and the median hepcidin concentration was 4.5 mg/L (IQR: 1.5-10.4 mg/L).",
+            "Sixty-four percent of the infants were anemic, 96% of the infants were iron deficient, and 64% of the infants had iron-deficiency anemia; 18% and 36% of infants had an elevated baseline CRP or AGP concentration, respectively.",
+            "Compliance with sachet use was high; the basis of weekly counts of returned sachets and weekly questioning of the caregiver about complete consumption of the MNP, 98% of sachets were consumed in the Fe group, and 98% of sachets were consumed in the Fe+GOS group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "The phytate concentration in the maize flour was 0.24 6 0.01 g/100 g dry matter. With the assumption of a residence time in the stomach of 30-60 min and phytase activity at gastric pH of w50%, w8 FTU would be needed to degrade 1 mmol phytate (w0.7 mg phytate) (28); thus, the low amount of phytate in the test meal (4.7 g maize flour containing 11.5 mg phytate/meal) was likely completely degraded by the 190 FTU phytase in the MNP. The native iron concentrations in the maize flour used for porridge preparation was 0.81 6 0.04 mg Fe/100 g dry matter (w0.04 mg Fe/test meal) and, in the MNP that was used for testmeal preparation, was 0.24 6 0.06 mg Fe/100 g dry matter (w0.03 mg Fe/MNP sachet). Thus, the phytate:total iron molar ratio in all test meals was 0.2:1, and the ascorbic acid:total iron molar ratio in all test meals was 1.9:1. Table 2 shows baseline and endpoint age, sex, anthropometric data, hemoglobin, PF, sTfR, body iron stores, hepcidin, CRP, and AGP. There was no effect of the time-by-group interaction or of the group term on any of these variables. Overall, there was a significant increase of PF (P = 0.003), adjusted PF (P = 0.002), body iron stores (P = 0.002), hepcidin (P = 0.027), and AGP (P = 0.010) from baseline to study endpoint.",
+        "section": "Test-meal composition",
+        "section_number": 19,
+        "sentences": [
+            "The phytate concentration in the maize flour was 0.24 6 0.01 g/100 g dry matter.",
+            "With the assumption of a residence time in the stomach of 30-60 min and phytase activity at gastric pH of w50%, w8 FTU would be needed to degrade 1 mmol phytate (w0.7 mg phytate) (28); thus, the low amount of phytate in the test meal (4.7 g maize flour containing 11.5 mg phytate/meal) was likely completely degraded by the 190 FTU phytase in the MNP.",
+            "The native iron concentrations in the maize flour used for porridge preparation was 0.81 6 0.04 mg Fe/100 g dry matter (w0.04 mg Fe/test meal) and, in the MNP that was used for testmeal preparation, was 0.24 6 0.06 mg Fe/100 g dry matter (w0.03 mg Fe/MNP sachet).",
+            "Thus, the phytate:total iron molar ratio in all test meals was 0.2:1, and the ascorbic acid:total iron molar ratio in all test meals was 1.9:1.",
+            "Table 2 shows baseline and endpoint age, sex, anthropometric data, hemoglobin, PF, sTfR, body iron stores, hepcidin, CRP, and AGP.",
+            "There was no effect of the time-by-group interaction or of the group term on any of these variables.",
+            "Overall, there was a significant increase of PF (P = 0.003), adjusted PF (P = 0.002), body iron stores (P = 0.002), hepcidin (P = 0.027), and AGP (P = 0.010) from baseline to study endpoint."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Fecal pH, SCFAs, and bacterial groups Table 3 shows fecal pH, SCFAs, and log gene copies of Bifidobacterium spp. and Lactobacillus/Pediococcus/Leuconostoc spp. at baseline and 3 wk. There was no effect of the time-by-group interaction on fecal pH or SCFAs. There was a significant overall increase in acetate and butyrate (P = 0.044 and P = 0.021, respectively) from baseline to study endpoint, and the Fe group had a higher propionate concentration than that of the Fe+GOS group (P = 0.033). There was a significant effect of the time-by-group interaction on both the Bifidobacterium spp. (P = 0.008) and the Lactobacillus/Pediococcus/Leuconostoc spp. (P = 0.018). In the Fe group, Lactobacillus/Pediococcus/ Leuconostoc spp. decreased from baseline to study endpoint (P = 0.013), whereas Bifidobacterium spp. did not (P = 0.277). In contrast, in the Fe+GOS group, there was a trend toward a higher Bifidobacterium spp. count from baseline to study endpoint (P = 0.099), but there was no change in the Lactobacillus/ Pediococcus/Leuconostoc spp. count (P = 0.945). 1 We assessed the intervention effect on fecal pH, SCFAs, and bacterial groups by fitting linear mixed-effects models. We defined the fixed effects on the variance as time, group, and time-by-group; the random structure was defined as the subject. If the interaction term was significant, a post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction. Significance was set as P , 0.05. *Significantly different value between baseline and study endpoint within the same group; # significantly different value at the same time point between groups. GOS, galactooligosaccharide; MNP, micronutrient powder; SCFA, short-chain fatty acid.",
+        "section": "Iron status and inflammation",
+        "section_number": 20,
+        "sentences": [
+            "Fecal pH, SCFAs, and bacterial groups Table 3 shows fecal pH, SCFAs, and log gene copies of Bifidobacterium spp.",
+            "and Lactobacillus/Pediococcus/Leuconostoc spp.",
+            "at baseline and 3 wk.",
+            "There was no effect of the time-by-group interaction on fecal pH or SCFAs.",
+            "There was a significant overall increase in acetate and butyrate (P = 0.044 and P = 0.021, respectively) from baseline to study endpoint, and the Fe group had a higher propionate concentration than that of the Fe+GOS group (P = 0.033).",
+            "There was a significant effect of the time-by-group interaction on both the Bifidobacterium spp. (",
+            "P = 0.008) and the Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "P = 0.018).",
+            "In the Fe group, Lactobacillus/Pediococcus/ Leuconostoc spp.",
+            "decreased from baseline to study endpoint (P = 0.013), whereas Bifidobacterium spp.",
+            "did not (P = 0.277).",
+            "In contrast, in the Fe+GOS group, there was a trend toward a higher Bifidobacterium spp.",
+            "count from baseline to study endpoint (P = 0.099), but there was no change in the Lactobacillus/ Pediococcus/Leuconostoc spp.",
+            "count (P = 0.945).",
+            "1 We assessed the intervention effect on fecal pH, SCFAs, and bacterial groups by fitting linear mixed-effects models.",
+            "We defined the fixed effects on the variance as time, group, and time-by-group; the random structure was defined as the subject.",
+            "If the interaction term was significant, a post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction.",
+            "Significance was set as P , 0.05. *",
+            "Significantly different value between baseline and study endpoint within the same group; # significantly different value at the same time point between groups.",
+            "GOS, galactooligosaccharide; MNP, micronutrient powder; SCFA, short-chain fatty acid."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "2 Twelve infants were excluded (Fe group: n = 20; Fe+GOS group: n = 18). 3 One value that was below the limit of quantitation was excluded in the Fe+GOS group. 4 Median; IQR in parentheses (all such values). 5 Sixteen values that were below the limit of quantitation were excluded (Fe group: n = 7; Fe+GOS group: n = 9). 6 All values are means 6 SDs. 1 Anthropometric measurements were missing for one infant in the Fe group at study endpoint. We assessed the intervention effect on anthropometric measurements, hemoglobin, and iron and inflammation indexes by fitting linear mixed-effects models. We defined the fixed effects on the variance as time, group, and time by group; the random structure was defined as the subject. Significance was set as P , 0.05. GOS, galacto-oligosaccharides; LAZ, length-forage z score; MNP, micronutrient powder; WAZ, weight-for age z score; WLZ, weight-for-length z score.",
+        "section": "Iron status and inflammation",
+        "section_number": 21,
+        "sentences": [
+            "2 Twelve infants were excluded (Fe group: n = 20; Fe+GOS group: n = 18).",
+            "3 One value that was below the limit of quantitation was excluded in the Fe+GOS group.",
+            "4 Median; IQR in parentheses (all such values).",
+            "5 Sixteen values that were below the limit of quantitation were excluded (Fe group: n = 7; Fe+GOS group: n = 9).",
+            "6 All values are means 6 SDs.",
+            "1 Anthropometric measurements were missing for one infant in the Fe group at study endpoint.",
+            "We assessed the intervention effect on anthropometric measurements, hemoglobin, and iron and inflammation indexes by fitting linear mixed-effects models.",
+            "We defined the fixed effects on the variance as time, group, and time by group; the random structure was defined as the subject.",
+            "Significance was set as P , 0.05.",
+            "GOS, galacto-oligosaccharides; LAZ, length-forage z score; MNP, micronutrient powder; WAZ, weight-for age z score; WLZ, weight-for-length z score."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "2 All values are medians (range). 3 Mean 6 SD (all such values). 4 Median; IQR in parentheses (all such values). 5 Plasma ferritin was adjusted for C-reactive protein and a-1-acid-glycoprotein (26).",
+        "section": "Iron status and inflammation",
+        "section_number": 22,
+        "sentences": [
+            "2 All values are medians (range).",
+            "3 Mean 6 SD (all such values).",
+            "4 Median; IQR in parentheses (all such values).",
+            "5 Plasma ferritin was adjusted for C-reactive protein and a-1-acid-glycoprotein (26)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "There was a significant group-by-compound interaction effect on fractional iron absorption (PF adjusted) (P = 0.011). A post hoc analysis revealed that the fractional iron absorption from the meal that was fortified with FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (P = 0.047) ( Figure 2 , Table 4 ). In contrast, iron absorption from FeSO 4 was not significantly different between groups (P = 0.653). The relative iron bioavailability compared with that of FeSO 4 of FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (88% compared with 63%, respectively; P = 0.006). Within groups, fractional iron absorption from FeFum+NaFeEDTA was lower than the absorption from FeSO 4 in the Fe group (P , 0.001), but not in the Fe+GOS group (P = 0.124). The median unadjusted fractional (percentage) and total iron absorption (milligrams) from the test meals were as follows: 1) in the Fe group, from FeFum+NaFeEDTA: 14.0% (IQR: 5.5-21.0%) and 0.70 mg (IQR: 0.28-1.04 mg), respectively; from FeSO 4 : 20.7% (IQR: 11.9-30.2%) and 1.03 mg (IQR: 0.59-1.51 mg), respectively; and 2) in the Fe+GOS group, from FeFum+NaFeEDTA: 14.9% (IQR: 7.6-20.7%) and 0.74 mg (IQR: 0.38-1.04 mg), respectively; and from FeSO 4 : 17.7% (IQR: 12.4-26.3%) and 0.88 mg (IQR: 0.62-1.31 mg), respectively. With the use of these unadjusted values, the relative iron bioavailability compared with FeSO 4 of FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (P = 0.006).",
+        "section": "Iron absorption",
+        "section_number": 23,
+        "sentences": [
+            "There was a significant group-by-compound interaction effect on fractional iron absorption (PF adjusted) (P = 0.011).",
+            "A post hoc analysis revealed that the fractional iron absorption from the meal that was fortified with FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (P = 0.047) ( Figure 2 , Table 4 ).",
+            "In contrast, iron absorption from FeSO 4 was not significantly different between groups (P = 0.653).",
+            "The relative iron bioavailability compared with that of FeSO 4 of FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (88% compared with 63%, respectively; P = 0.006).",
+            "Within groups, fractional iron absorption from FeFum+NaFeEDTA was lower than the absorption from FeSO 4 in the Fe group (P , 0.001), but not in the Fe+GOS group (P = 0.124).",
+            "The median unadjusted fractional (percentage) and total iron absorption (milligrams) from the test meals were as follows: 1) in the Fe group, from FeFum+NaFeEDTA: 14.0% (IQR: 5.5-21.0%) and 0.70 mg (IQR: 0.28-1.04 mg), respectively; from FeSO 4 : 20.7% (IQR: 11.9-30.2%) and 1.03 mg (IQR: 0.59-1.51 mg), respectively; and 2) in the Fe+GOS group, from FeFum+NaFeEDTA: 14.9% (IQR: 7.6-20.7%) and 0.74 mg (IQR: 0.38-1.04 mg), respectively; and from FeSO 4 : 17.7% (IQR: 12.4-26.3%) and 0.88 mg (IQR: 0.62-1.31 mg), respectively.",
+            "With the use of these unadjusted values, the relative iron bioavailability compared with FeSO 4 of FeFum+NaFeEDTA was higher in the Fe+GOS group than in the Fe group (P = 0.006)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "There was a significant correlation of the overall fractional iron absorption with hepcidin (r s = 20.63, P , 0.001), PF (r s = 20.51, P , 0.001), adjusted PF (r s = 20.45, P , 0.001), sTfR (r s = 0.45, P , 0.001), AGP (r s = 20.35, P , 0.001), and CRP (r s = 20.24, P , 0.05). The associations with hepcidin, PF, adjusted PF, sTfR, AGP, and CRP were significant for fractional iron absorption from FeFum+NaFeEDTA and from each separate iron compound (FeFum, NaFeEDTA, and FeSO 4 ). There was a significant correlation of the overall fractional iron absorption (PF adjusted) with fecal pH (3 wk) (r s = 20.38, P , 0.001). The association with fecal pH was significant for fractional iron absorption from FeFum+NaFeEDTA and from each separate iron compound (FeFum, NaFeEDTA, and FeSO 4 ) ( Figure 3A ). There was a significant correlation of overall fractional iron absorption (PF adjusted) with log gene copies per gram of feces of Lactobacillus/Pediococcus/Leuconostoc spp. (3 wk) (r s = 0.40, P = 0.001). The association with log gene copies per gram of feces of Lactobacillus/Pediococcus/Leuconostoc spp. (3 wk) was also significant for fractional iron absorption from FeFum+NaFeEDTA (r s = 0.48, P = 0.008) and from the separate iron compounds FeFum (r s = 0.46, P = 0.012) and NaFeEDTA (r s = 0.48, P = 0.007) but not from FeSO 4 (r s = 0.33, P = 0.073) ( Figure 3B ). In the multiple regression model, significant predictors of overall fractional iron absorption were hepcidin, fecal pH (3 wk), iron compound (FeFum+NaFeEDTA; FeSO 4 ), body weight, and sTfR. The adjusted R 2 of the minimal adequate model was 0.552. The estimates and SEs (bs 6 SEs) were as follows: intercept (3.95 6 0.73); hepcidin (log transformed) (20.39 6 0.05; P , 0.001); pH (20.37 6 0.08; P , 0.001); FeFum+NaFeEDTA (reference FeSO 4 ) (20.40 6 0.11; P , 0.001); body weight (0.12 6 0.05; P = 0.020); sTfR (log transformed) (0.34 6 0.15; P = 0.031), and male sex (reference: female) (20.18 6 0.12; P = 0.135).",
+        "section": "Associations between iron absorption and other variables",
+        "section_number": 24,
+        "sentences": [
+            "There was a significant correlation of the overall fractional iron absorption with hepcidin (r s = 20.63, P , 0.001), PF (r s = 20.51, P , 0.001), adjusted PF (r s = 20.45, P , 0.001), sTfR (r s = 0.45, P , 0.001), AGP (r s = 20.35, P , 0.001), and CRP (r s = 20.24, P , 0.05).",
+            "The associations with hepcidin, PF, adjusted PF, sTfR, AGP, and CRP were significant for fractional iron absorption from FeFum+NaFeEDTA and from each separate iron compound (FeFum, NaFeEDTA, and FeSO 4 ).",
+            "There was a significant correlation of the overall fractional iron absorption (PF adjusted) with fecal pH (3 wk) (r s = 20.38, P , 0.001).",
+            "The association with fecal pH was significant for fractional iron absorption from FeFum+NaFeEDTA and from each separate iron compound (FeFum, NaFeEDTA, and FeSO 4 ) ( Figure 3A ).",
+            "There was a significant correlation of overall fractional iron absorption (PF adjusted) with log gene copies per gram of feces of Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "3 wk) (r s = 0.40, P = 0.001).",
+            "The association with log gene copies per gram of feces of Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "3 wk) was also significant for fractional iron absorption from FeFum+NaFeEDTA (r s = 0.48, P = 0.008) and from the separate iron compounds FeFum (r s = 0.46, P = 0.012) and NaFeEDTA (r s = 0.48, P = 0.007) but not from FeSO 4 (r s = 0.33, P = 0.073) ( Figure 3B ).",
+            "In the multiple regression model, significant predictors of overall fractional iron absorption were hepcidin, fecal pH (3 wk), iron compound (FeFum+NaFeEDTA; FeSO 4 ), body weight, and sTfR. The adjusted R 2 of the minimal adequate model was 0.552.",
+            "The estimates and SEs (bs 6 SEs) were as follows: intercept (3.95 6 0.73); hepcidin (log transformed) (20.39 6 0.05; P , 0.001); pH (20.37 6 0.08; P , 0.001); FeFum+NaFeEDTA (reference FeSO 4 ) (20.40 6 0.11; P , 0.001); body weight (0.12 6 0.05; P = 0.020); sTfR (log transformed) (0.34 6 0.15; P = 0.031), and male sex (reference: female) (20.18 6 0.12; P = 0.135)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Our main finding is that the prior consumption by infants of an MNP containing w7.5 g GOSs/d for 3 wk resulted in a 62% higher absorption of iron from a 5-mg dose of FeFum+NaFeEDTA but did not significantly increase iron absorption from FeSO 4 . There have been 3 previous studies that tested the effects of a prebiotic on iron absorption in adults (29) (30) (31) . In nonanemic men (n = 9) who received #40 g inulin/d, there was no increase in dietary iron absorption (29) . In iron-replete young men (n = 12) who consumed 15 g inulin/d, fructo-oligosaccharide, or GOS for 21 d, there was no effect on iron absorption from FeSO 4 (30). Nonanemic but iron-depleted Swiss women (n = 32) consumed w20 g inulin/d for 3 wk or a placebo, and iron absorption from FeSO 4 was 14% higher with inulin, but this finding was not significant (P = 0.10) (31) . There are several differences between our study and previous studies. We gave GOSs at a higher dose per kilogram of body weight (our study: w1 g GOSs/kg; previous studies: w0.2-0.3 g GOSs/kg). We studied mostly iron-deficient (27) . The box shows the medians (25th and 75th percentile). The whiskers extend to the furthest data point that is within 1.5 times the IQR. We assessed the intervention effect on fractional iron absorption (PF adjusted) by fitting linear mixed-effects models. We defined the fixed effects on the variance as the group, compound, and group by compound; the random structure was defined as the subject. Covariates in the models were body iron stores, hemoglobin, and sex. Model 1 tested FeFum1NaFeEDTA versus FeSO 4 as the two factor-levels of the compound variable, whereas model 2 tested FeFum versus NaFeEDTA as the two factor-levels of the compound variable. There was a significant group-by-compound interaction effect (P = 0.011 and P = 0.010 for models 1 and 2, respectively), a compound effect (P , 0.001 and P , 0.001 for models 1 and 2, respectively), and a trend toward a group effect (P = 0.058 and P = 0.061 for models 1 and 2, respectively). A post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction. *P , 0.05, **P , 0.001. FeFum, ferrous fumarate; GOS, galacto-oligosaccharide; MNP, micronutrient powder; NaFeEDTA, sodium iron EDTA; PF, plasma ferritin. anemic infants, whereas previous studies were conducted in nonanemic adults. Previous studies gave labeled FeSO 4 in solution, whereas we administered maize-based test meals and used 3 different iron compounds with different dissolution profiles. Also, infants have a different gut microbiota than adults, including higher abundances of bifidobacteria and lower colonic pH (11, 12) .",
+        "section": "DISCUSSION",
+        "section_number": 25,
+        "sentences": [
+            "Our main finding is that the prior consumption by infants of an MNP containing w7.5 g GOSs/d for 3 wk resulted in a 62% higher absorption of iron from a 5-mg dose of FeFum+NaFeEDTA but did not significantly increase iron absorption from FeSO 4 .",
+            "There have been 3 previous studies that tested the effects of a prebiotic on iron absorption in adults (29) (30) (31) .",
+            "In nonanemic men (n = 9) who received #40 g inulin/d, there was no increase in dietary iron absorption (29) .",
+            "In iron-replete young men (n = 12) who consumed 15 g inulin/d, fructo-oligosaccharide, or GOS for 21 d, there was no effect on iron absorption from FeSO 4 (30).",
+            "Nonanemic but iron-depleted Swiss women (n = 32) consumed w20 g inulin/d for 3 wk or a placebo, and iron absorption from FeSO 4 was 14% higher with inulin, but this finding was not significant (P = 0.10) (31) .",
+            "There are several differences between our study and previous studies.",
+            "We gave GOSs at a higher dose per kilogram of body weight (our study: w1 g GOSs/kg; previous studies: w0.2-0.3 g GOSs/kg).",
+            "We studied mostly iron-deficient (27) .",
+            "The box shows the medians (25th and 75th percentile).",
+            "The whiskers extend to the furthest data point that is within 1.5 times the IQR.",
+            "We assessed the intervention effect on fractional iron absorption (PF adjusted) by fitting linear mixed-effects models.",
+            "We defined the fixed effects on the variance as the group, compound, and group by compound; the random structure was defined as the subject.",
+            "Covariates in the models were body iron stores, hemoglobin, and sex.",
+            "Model 1 tested FeFum1NaFeEDTA versus FeSO 4 as the two factor-levels of the compound variable, whereas model 2 tested FeFum versus NaFeEDTA as the two factor-levels of the compound variable.",
+            "There was a significant group-by-compound interaction effect (P = 0.011 and P = 0.010 for models 1 and 2, respectively), a compound effect (P , 0.001 and P , 0.001 for models 1 and 2, respectively), and a trend toward a group effect (P = 0.058 and P = 0.061 for models 1 and 2, respectively).",
+            "A post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction. *",
+            "P , 0.05, **P , 0.001.",
+            "FeFum, ferrous fumarate; GOS, galacto-oligosaccharide; MNP, micronutrient powder; NaFeEDTA, sodium iron EDTA; PF, plasma ferritin.",
+            "anemic infants, whereas previous studies were conducted in nonanemic adults.",
+            "Previous studies gave labeled FeSO 4 in solution, whereas we administered maize-based test meals and used 3 different iron compounds with different dissolution profiles.",
+            "Also, infants have a different gut microbiota than adults, including higher abundances of bifidobacteria and lower colonic pH (11, 12) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Several mechanisms may explain why consumption of GOSs increased iron absorption in our study. Prebiotics enhance the absorption of calcium and magnesium in humans, which is an effect that is thought to be mediated by a decrease in colonic pH (12, 15) . In ileostomy patient models, .88% of a prebiotic dose passed through the entire small intestine (32) . Because of its inertness in the proximal gut, it is likely that the GOS effect on iron absorption occurs in the colon. In our study, consumption of GOSs increased Bifidobacterium spp. and maintained higher amounts of Lactobacillus/Pediococcus/Leuconostoc spp. (Table 3) , and there was a significant positive correlation between iron absorption and Lactobacillus/Pediococcus/Leuconostoc spp. ( Figure 3B ). It is possible that fermentation by these bacteria of the GOSs to SCFAs lowered colonic pH (11) . This effect may have increased iron dissolution and Fe 2+ available for uptake by the divalent metal transporter 1, and this outcome is supported by our finding of a significant negative correlation between iron absorption and fecal pH ( Figure 3B ). However, whether relevant amounts of dietary iron are absorbed from the human colon is unclear. In humans, radioiron studies have indicated that oral iron is absorbed in 2 periods, whereby the larger fraction (60-80%) is absorbed in the first 2-4 h, and the remaining iron is absorbed more slowly over the next 22-48 h (33, 34) ; this second phase could be colonic absorption. The absorption of iron infused into the colon of ironreplete adults as ferrous chloride and ferric chloride was 7% and 0.5%, respectively, compared with 21% from orally administered ferrous chloride (18) . In our study, GOS selectively enhanced the absorption from the combination of FeFum and NaFeEDTA but not from FeSO 4 . Only ferrous iron is absorbed in humans, and as pH rises to w6 in the proximal duodenum, any dissolved ferrous iron that is not absorbed rapidly oxidizes and precipitates as mainly ferric hydroxides, which, because of their very poor solubility, likely pass intact into the colon. Because FeSO 4 and NaFeEDTA (8) are water soluble, it is expected that their iron will enter the colon mainly as ferric hydroxides. In contrast, because FeFum is only acid soluble, and postprandial gastric pH is high in infants (10), FeFum iron may pass into the colon mainly as intact FeFum, where its absorption might be more likely to be enhanced by a GOS-mediated pH decrease. Other mechanisms that may contribute to a prebiotic effect on iron absorption are 1) an increased expression of genes involved in iron absorption (35) , 2) changes in colonic mucosal architecture (36) , 3) modification of the meal matrix such as changes in viscosity or reducing power, and 4) anti-inflammatory effects in the colon (37) reducing circulating hepcidin (35) , but not all studies agree (38) .",
+        "section": "DISCUSSION",
+        "section_number": 26,
+        "sentences": [
+            "Several mechanisms may explain why consumption of GOSs increased iron absorption in our study.",
+            "Prebiotics enhance the absorption of calcium and magnesium in humans, which is an effect that is thought to be mediated by a decrease in colonic pH (12, 15) .",
+            "In ileostomy patient models, .88% of a prebiotic dose passed through the entire small intestine (32) .",
+            "Because of its inertness in the proximal gut, it is likely that the GOS effect on iron absorption occurs in the colon.",
+            "In our study, consumption of GOSs increased Bifidobacterium spp.",
+            "and maintained higher amounts of Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "Table 3) , and there was a significant positive correlation between iron absorption and Lactobacillus/Pediococcus/Leuconostoc spp. (",
+            "Figure 3B ).",
+            "It is possible that fermentation by these bacteria of the GOSs to SCFAs lowered colonic pH (11) .",
+            "This effect may have increased iron dissolution and Fe 2+ available for uptake by the divalent metal transporter 1, and this outcome is supported by our finding of a significant negative correlation between iron absorption and fecal pH ( Figure 3B ).",
+            "However, whether relevant amounts of dietary iron are absorbed from the human colon is unclear.",
+            "In humans, radioiron studies have indicated that oral iron is absorbed in 2 periods, whereby the larger fraction (60-80%) is absorbed in the first 2-4 h, and the remaining iron is absorbed more slowly over the next 22-48 h (33, 34) ; this second phase could be colonic absorption.",
+            "The absorption of iron infused into the colon of ironreplete adults as ferrous chloride and ferric chloride was 7% and 0.5%, respectively, compared with 21% from orally administered ferrous chloride (18) .",
+            "In our study, GOS selectively enhanced the absorption from the combination of FeFum and NaFeEDTA but not from FeSO 4 .",
+            "Only ferrous iron is absorbed in humans, and as pH rises to w6 in the proximal duodenum, any dissolved ferrous iron that is not absorbed rapidly oxidizes and precipitates as mainly ferric hydroxides, which, because of their very poor solubility, likely pass intact into the colon.",
+            "Because FeSO 4 and NaFeEDTA (8) are water soluble, it is expected that their iron will enter the colon mainly as ferric hydroxides.",
+            "In contrast, because FeFum is only acid soluble, and postprandial gastric pH is high in infants (10), FeFum iron may pass into the colon mainly as intact FeFum, where its absorption might be more likely to be enhanced by a GOS-mediated pH decrease.",
+            "Other mechanisms that may contribute to a prebiotic effect on iron absorption are 1) an increased expression of genes involved in iron absorption (35) , 2) changes in colonic mucosal architecture (36) , 3) modification of the meal matrix such as changes in viscosity or reducing power, and 4) anti-inflammatory effects in the colon (37) reducing circulating hepcidin (35) , but not all studies agree (38) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Iron absorption from the Fe+GOS MNP (18.8%) was substantially higher than has been previously described for MNPs containing 12.5 mg Fe (4-9%) in similar settings and populations (3) . Thus, it is likely that the total amount of iron that was absorbed from our 5-mg dose (w0.9 mg) would be comparable to the iron that would be absorbed from MNPs containing 12.5 mg and would cover the total iron need of 0.69 mg/d in 6-12-mo-old infants (39) . In a recent randomized 4-mo trial in Kenyan infants, an MNP containing 5 mg Fe as FeFum+NaFeEDTA increased hemoglobin and reduced anemia (14) . A potential advantage of a lower 5-mg Fe dose with higher fractional absorption would be that w50% lower amounts of unabsorbed iron would reach the infant colon, which may lessen the chance for gut dysbiosis, inflammation, and diarrhea (4, 5) . Moreover, a recent intervention trial in Kenyan infants reported that the addition of GOS to an iron-containing MNP can mitigate the adverse effects of iron by enhancing the growth of bifidobacteria and lactobacilli and reducing abundances of enteropathogens (14) . (27) . We assessed the intervention effect on fractional iron absorption (PF adjusted) by fitting linear mixed-effects models. We defined the fixed effects on the variance as the group, compound, and group by compound; the random structure was defined as the subject. Covariates in the models were body iron stores, hemoglobin, and sex. Model 1 tested FeFum1NaFeEDTA versus FeSO 4 as the two factor-levels of the compound variable; whereas model 2 tested FeFum versus NaFeEDTA as the two factor-levels of the compound variable. If the interaction term was significant, a post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction. Significance was set as P , 0.05. *Significantly different absorption between 2 compounds within the same group; # significantly different absorption of the same compound between groups. FeFum, ferrous fumarate; GOS, galacto-oligosaccharide; MNP, micronutrient powder; NaFeEDTA, sodium iron EDTA; PF, plasma ferritin.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "Iron absorption from the Fe+GOS MNP (18.8%) was substantially higher than has been previously described for MNPs containing 12.5 mg Fe (4-9%) in similar settings and populations (3) .",
+            "Thus, it is likely that the total amount of iron that was absorbed from our 5-mg dose (w0.9 mg) would be comparable to the iron that would be absorbed from MNPs containing 12.5 mg and would cover the total iron need of 0.69 mg/d in 6-12-mo-old infants (39) .",
+            "In a recent randomized 4-mo trial in Kenyan infants, an MNP containing 5 mg Fe as FeFum+NaFeEDTA increased hemoglobin and reduced anemia (14) .",
+            "A potential advantage of a lower 5-mg Fe dose with higher fractional absorption would be that w50% lower amounts of unabsorbed iron would reach the infant colon, which may lessen the chance for gut dysbiosis, inflammation, and diarrhea (4, 5) .",
+            "Moreover, a recent intervention trial in Kenyan infants reported that the addition of GOS to an iron-containing MNP can mitigate the adverse effects of iron by enhancing the growth of bifidobacteria and lactobacilli and reducing abundances of enteropathogens (14) . (",
+            "27) .",
+            "We assessed the intervention effect on fractional iron absorption (PF adjusted) by fitting linear mixed-effects models.",
+            "We defined the fixed effects on the variance as the group, compound, and group by compound; the random structure was defined as the subject.",
+            "Covariates in the models were body iron stores, hemoglobin, and sex.",
+            "Model 1 tested FeFum1NaFeEDTA versus FeSO 4 as the two factor-levels of the compound variable; whereas model 2 tested FeFum versus NaFeEDTA as the two factor-levels of the compound variable.",
+            "If the interaction term was significant, a post hoc analysis was performed to investigate the effect of one factor within levels of the other by applying Tukey's correction.",
+            "Significance was set as P , 0.05. *",
+            "Significantly different absorption between 2 compounds within the same group; # significantly different absorption of the same compound between groups.",
+            "FeFum, ferrous fumarate; GOS, galacto-oligosaccharide; MNP, micronutrient powder; NaFeEDTA, sodium iron EDTA; PF, plasma ferritin."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "An advantage of a fortification mixture of FeFum and NaFeEDTA is that the EDTA moiety may enhance iron absorption from both iron compounds as well as the native iron in the meal. In infants and children consuming inhibitory meals fortified with FeSO 4 , the addition of NaFeEDTA or Na 2 EDTA enhances iron absorption by w50% (7, 40, 41) . Whether EDTA can enhance iron absorption from FeFum in young children is uncertain (42, 43) , and future studies should address this question. The enhancing effect of ascorbic acid (30 mg in our test meals) on iron absorption from FeSO 4 is stronger than its effect on FeFum (44) or NaFeEDTA (6) , and this likely explains the lower absorption from the combination of FeFum and NaFeEDTA in our study compared with that of FeSO 4 .",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "An advantage of a fortification mixture of FeFum and NaFeEDTA is that the EDTA moiety may enhance iron absorption from both iron compounds as well as the native iron in the meal.",
+            "In infants and children consuming inhibitory meals fortified with FeSO 4 , the addition of NaFeEDTA or Na 2 EDTA enhances iron absorption by w50% (7, 40, 41) .",
+            "Whether EDTA can enhance iron absorption from FeFum in young children is uncertain (42, 43) , and future studies should address this question.",
+            "The enhancing effect of ascorbic acid (30 mg in our test meals) on iron absorption from FeSO 4 is stronger than its effect on FeFum (44) or NaFeEDTA (6) , and this likely explains the lower absorption from the combination of FeFum and NaFeEDTA in our study compared with that of FeSO 4 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Strengths of our study are as follows: 1) the masked, randomized controlled design; 2) the inclusion of weaning infants with a narrow age range and a high prevalence of anemia; 3) a test meal of the local complementary food; 4) no breastfeeding for several hours before and after the test meal; and 5) the separate labeling of the 3 iron compounds, thereby allowing for the discrimination of compound-specific effects. Limitations of our study include the high dropout rate; we randomly assigned 63 infants while conducting the analysis in only 50 infants and, for some variables, even fewer infants were included. We estimated that a sample size of 24 infants/group would be sufficient and anticipated a 25% dropout from common infections and antibiotic use. Thus, the 21% dropout rate was high but not unexpected in this population of rural African infants who are vulnerable to infections. However, the omission of randomly assigned subjects because of missing data may have introduced bias into our study, and the small final sample size in the GOS group (n = 22) may have biased our study toward a null effect for some comparisons.",
+        "section": "DISCUSSION",
+        "section_number": 29,
+        "sentences": [
+            "Strengths of our study are as follows: 1) the masked, randomized controlled design; 2) the inclusion of weaning infants with a narrow age range and a high prevalence of anemia; 3) a test meal of the local complementary food; 4) no breastfeeding for several hours before and after the test meal; and 5) the separate labeling of the 3 iron compounds, thereby allowing for the discrimination of compound-specific effects.",
+            "Limitations of our study include the high dropout rate; we randomly assigned 63 infants while conducting the analysis in only 50 infants and, for some variables, even fewer infants were included.",
+            "We estimated that a sample size of 24 infants/group would be sufficient and anticipated a 25% dropout from common infections and antibiotic use.",
+            "Thus, the 21% dropout rate was high but not unexpected in this population of rural African infants who are vulnerable to infections.",
+            "However, the omission of randomly assigned subjects because of missing data may have introduced bias into our study, and the small final sample size in the GOS group (n = 22) may have biased our study toward a null effect for some comparisons."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "In conclusion, to our knowledge, our study is the first human study to clearly show that prebiotics can increase iron absorption but suggests that their effect may be selective for different iron compounds. Future studies are needed to investigate if other prebiotics and at lower doses show the same effect on iron absorption.",
+        "section": "DISCUSSION",
+        "section_number": 30,
+        "sentences": [
+            "In conclusion, to our knowledge, our study is the first human study to clearly show that prebiotics can increase iron absorption but suggests that their effect may be selective for different iron compounds.",
+            "Future studies are needed to investigate if other prebiotics and at lower doses show the same effect on iron absorption."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "Downloaded from https://academic.oup.com/ajcn/article-abstract/106/4/1020/4651912 by The University of Alberta user on 28 February 2020",
+        "section": "",
+        "section_number": 31,
+        "sentences": [
+            "Downloaded from https://academic.oup.com/ajcn/article-abstract/106/4/1020/4651912 by The University of Alberta user on 28 February 2020"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "46967",
+        "text": "FeFum, ferrous fumarate; FTU, phytase unit; GOS, galacto-oligosaccharide; NaFeEDTA, sodium iron EDTA. 2 Micronutrient powder used for the test meals contained no iron. 3 Vivinal GOS 75 Powder; FrieslandCampina. 1022 PAGANINI ET AL. Downloaded from https://academic.oup.com/ajcn/article-abstract/106/4/1020/4651912 by The University of Alberta user on 28 February 2020",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "FeFum, ferrous fumarate; FTU, phytase unit; GOS, galacto-oligosaccharide; NaFeEDTA, sodium iron EDTA.",
+            "2 Micronutrient powder used for the test meals contained no iron.",
+            "3 Vivinal GOS 75 Powder; FrieslandCampina.",
+            "1022 PAGANINI ET AL.",
+            "Downloaded from https://academic.oup.com/ajcn/article-abstract/106/4/1020/4651912 by The University of Alberta user on 28 February 2020"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

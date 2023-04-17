@@ -1,0 +1,1071 @@
+[
+    {
+        "doc_id": "44067",
+        "text": "Diet composition influences acid-base status of the body. This may become more relevant as renal functional capacity declines with aging. We examined the effects of low (LD) versus high dietary acid load (HD) on blood acid-base status and exercise performance. Participants included 22 adolescents, 33 young adults (YA), and 33 elderly (EL), who followed a 7-day LD and HD in a randomized order. At the end of both diet periods the subjects performed a cycle ergometer test (3 \u00d7 10 min at 35%, 55%, 75%, and (except EL) until exhaustion at 100% of maximal oxygen uptake). At the beginning of and after the diet periods, blood samples were collected at rest and after all workloads. Oxygen uptake, respiratory exchange ratio (RER), and heart rate (HR) were monitored during cycling. In YA and EL, bicarbonate (HCO 3 \u2212) and base excess (BE) decreased over the HD period, and HCO 3 \u2212 , BE, and pH were lower at rest after HD compared with LD. In YA and EL women, HCO 3 \u2212 and BE were lower at submaximal workloads after HD compared with LD. In YA women, the maximal workload was 19% shorter and maximal oxygen uptake, RER, and HR were lower after HD compared with LD. Our data uniquely suggests that better renal function is associated with higher availability of bases, which may diminish exercise-induced acidosis and improve maximal aerobic performance. Differences in glomerular filtration rate between the subject groups likely explains the larger effects of dietary acid load in the elderly compared with younger subjects and in women compared with men.",
+        "section": "Abstract",
+        "sentences": [
+            "Diet composition influences acid-base status of the body.",
+            "This may become more relevant as renal functional capacity declines with aging.",
+            "We examined the effects of low (LD) versus high dietary acid load (HD) on blood acid-base status and exercise performance.",
+            "Participants included 22 adolescents, 33 young adults (YA), and 33 elderly (EL), who followed a 7-day LD and HD in a randomized order.",
+            "At the end of both diet periods the subjects performed a cycle ergometer test (3 \u00d7 10 min at 35%, 55%, 75%, and (except EL) until exhaustion at 100% of maximal oxygen uptake).",
+            "At the beginning of and after the diet periods, blood samples were collected at rest and after all workloads.",
+            "Oxygen uptake, respiratory exchange ratio (RER), and heart rate (HR) were monitored during cycling.",
+            "In YA and EL, bicarbonate (HCO 3 \u2212) and base excess (BE) decreased over the HD period, and HCO 3 \u2212 , BE, and pH were lower at rest after HD compared with LD.",
+            "In YA and EL women, HCO 3 \u2212 and BE were lower at submaximal workloads after HD compared with LD.",
+            "In YA women, the maximal workload was 19% shorter and maximal oxygen uptake, RER, and HR were lower after HD compared with LD.",
+            "Our data uniquely suggests that better renal function is associated with higher availability of bases, which may diminish exercise-induced acidosis and improve maximal aerobic performance.",
+            "Differences in glomerular filtration rate between the subject groups likely explains the larger effects of dietary acid load in the elderly compared with younger subjects and in women compared with men."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Diet composition is known to influence net endogenous acid production, which may further affect acid-base status of the body (Poupin et al. 2012) . Dietary acid load can be estimated by calcu-lating the potential renal acid load (PRAL) of foods, which represents the renal net acid excretion caused by a foodstuff (Remer et al. 2003) . The digestion of meat, grain, and some dairy products increases the acid load of the body. Fruits and vegetables, which contain organic anions (e.g., citrate, malate) metabolizable to bicarbonate, lower net acid load. Western diet typically contains large amounts of animal protein and grain products but only small amounts of vegetables and fruits, and leads to a net production of acids in the body (Adeva and Souto 2011) . For elderly populations, the dietary acid load may be a particularly important issue as aging is associated with a decline in the renal functional capacity, which diminishes the accuracy and speed of the regulation of volume and composition of the body fluids (Bolignano et al. 2014) . Glomerular filtration rate (GFR) decreases with aging and consequently, blood HCO 3 \u2212 concentration and pH are regulated at lower levels (Frassetto and Sebastian 1996) . Increased acidity of the body has been reported to associate negatively with kidney function, bone health, and muscle mass. For example, in the study of Scialla et al. (2012) , higher net endogenous acid production was significantly associated with a faster decline in GFR. Tabatabai et al. (2015) found out that lower plasma HCO 3 \u2212 was associated with higher rate of bone loss in 70-year-old participants. In addition, Dawson-Hughes et al. (2008) came to the conclusion that higher intake of fruits and vegetables, which contain base-producing compounds and decrease net endogenous acid production, favored the preservation of muscle mass in men and women over 65 years of age.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Diet composition is known to influence net endogenous acid production, which may further affect acid-base status of the body (Poupin et al. 2012) .",
+            "Dietary acid load can be estimated by calcu-lating the potential renal acid load (PRAL) of foods, which represents the renal net acid excretion caused by a foodstuff (Remer et al. 2003) .",
+            "The digestion of meat, grain, and some dairy products increases the acid load of the body.",
+            "Fruits and vegetables, which contain organic anions (e.g., citrate, malate) metabolizable to bicarbonate, lower net acid load.",
+            "Western diet typically contains large amounts of animal protein and grain products but only small amounts of vegetables and fruits, and leads to a net production of acids in the body (Adeva and Souto 2011) .",
+            "For elderly populations, the dietary acid load may be a particularly important issue as aging is associated with a decline in the renal functional capacity, which diminishes the accuracy and speed of the regulation of volume and composition of the body fluids (Bolignano et al. 2014) .",
+            "Glomerular filtration rate (GFR) decreases with aging and consequently, blood HCO 3 \u2212 concentration and pH are regulated at lower levels (Frassetto and Sebastian 1996) .",
+            "Increased acidity of the body has been reported to associate negatively with kidney function, bone health, and muscle mass.",
+            "For example, in the study of Scialla et al. (2012) , higher net endogenous acid production was significantly associated with a faster decline in GFR.",
+            "Tabatabai et al. (2015) found out that lower plasma HCO 3 \u2212 was associated with higher rate of bone loss in 70-year-old participants.",
+            "In addition, Dawson-Hughes et al. (2008) came to the conclusion that higher intake of fruits and vegetables, which contain base-producing compounds and decrease net endogenous acid production, favored the preservation of muscle mass in men and women over 65 years of age."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In addition to the health issues, dietary acid load may play a role in exercise. Over the decades, many studies have reported the positive effects of sodium bicarbonate supplementation and some other ergogenic aids on blood buffering capacity and exercise performance (Krustrup et al. 2015; Wilkes et al. 1983) . Surprisingly, there are only a few studies that have investigated the impact of diet composition on acid-base status and exercise performance (e.g., Baguet et al. 2011; Caciano et al. 2015; Greenhaff et al. 1987 ; for review see Applegate et al. 2017) . Moreover, to the best of our knowledge, the effects of dietary acid load on acid-base status of the elderly have not been reported during exercise. Increasing hydrogen ion (H + ) concentrations in blood and muscle during high-intensity exercise cause acidosis, which is thought to be one of the causes of fatigue (Lancha Junior et al. 2015; Robergs et al. 2004) . A diet high in vegetables and fruits could have the potential to affect blood bicarbonate buffering capacity and physical performance by attenuating the exercise-induced acidosis. For example, sodium bicarbonate supplementation has been reported to improve performance both in short (\u03f31-2 min) (Mero et al. 2013; Van Montfoort et al. 2004) and longer (\u03f320 min) exercise performances (O\u00f6pik et al. 2003) . The main purpose of this paper was to find out if low dietary acid load (LD) and high dietary acid load (HD) have effects on blood acid-base status and exercise performance during submaximal and maximal aerobic cycling in adolescents, young adults, and the elderly. We hypothesized that a diet with high acid load increases acidity of the blood and age-related decline in renal function affects the responses in acid-base parameters both at rest and in exercise.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "In addition to the health issues, dietary acid load may play a role in exercise.",
+            "Over the decades, many studies have reported the positive effects of sodium bicarbonate supplementation and some other ergogenic aids on blood buffering capacity and exercise performance (Krustrup et al. 2015; Wilkes et al. 1983) .",
+            "Surprisingly, there are only a few studies that have investigated the impact of diet composition on acid-base status and exercise performance (e.g., Baguet et al. 2011; Caciano et al. 2015; Greenhaff et al. 1987 ; for review see Applegate et al. 2017) .",
+            "Moreover, to the best of our knowledge, the effects of dietary acid load on acid-base status of the elderly have not been reported during exercise.",
+            "Increasing hydrogen ion (H + ) concentrations in blood and muscle during high-intensity exercise cause acidosis, which is thought to be one of the causes of fatigue (Lancha Junior et al. 2015; Robergs et al. 2004) .",
+            "A diet high in vegetables and fruits could have the potential to affect blood bicarbonate buffering capacity and physical performance by attenuating the exercise-induced acidosis.",
+            "For example, sodium bicarbonate supplementation has been reported to improve performance both in short (\u03f31-2 min) (Mero et al. 2013; Van Montfoort et al. 2004) and longer (\u03f320 min) exercise performances (O\u00f6pik et al. 2003) .",
+            "The main purpose of this paper was to find out if low dietary acid load (LD) and high dietary acid load (HD) have effects on blood acid-base status and exercise performance during submaximal and maximal aerobic cycling in adolescents, young adults, and the elderly.",
+            "We hypothesized that a diet with high acid load increases acidity of the blood and age-related decline in renal function affects the responses in acid-base parameters both at rest and in exercise."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In total, 93 men and women were selected to participate in the present study. Subjects were recruited from 3 age groups: 12-15-year-old adolescents (AD), 25-35-year-old young adults (YA), and 60-75-year-old elderly (EL). To recruit the AD group, we visited the local sports clubs who were participating in ice hockey, figure skating, gymnastics, and athletics. The YA and EL groups were recruited via e-mail lists. The subjects of YA group were mainly students in the University of Jyv\u00e4skyl\u00e4 and the communitydwelling EL subjects were recruited from the Ageing Program of the University of Jyv\u00e4skyl\u00e4. All subjects of YA and EL were recreationally active (e.g., walking, jogging, cycling, resistance training 2-4 times per week) but they were not training for competitive purposes. In the beginning of the study, there were 14 boys and 10 girls in the AD group, 16 men and 19 women in the YA group, and 17 men and 17 women in the EL group. Altogether 5 subjects were not able to finish the study. Baseline anthropometric characteristics of the subjects who completed the whole data collection are presented in Table 1 . The subjects did not use any medication during the study period aside from 2 exceptions: women of YA were allowed to use contraceptive pills and in the EL groups medications for high blood pressure and high cholesterol were acceptable. Subjects whose body mass index was above 33 kg/m 2 or who had other medications were excluded from the study. The experimental diets were planned beforehand and volunteers who had any relevant food allergy were not able to participate. Ethical approval for the study was obtained from the Ethical Committee of the University of Jyv\u00e4skyl\u00e4 and the study was in accordance with the Helsinki Declaration. Before any data collection the subjects were informed of the purpose and the methods of the study and they signed a written informed consent. Additionally, the subjects completed a health questionnaire and the elderly subjects also completed a health examination, which was performed by a physician.",
+        "section": "Participants",
+        "section_number": 3,
+        "sentences": [
+            "In total, 93 men and women were selected to participate in the present study.",
+            "Subjects were recruited from 3 age groups: 12-15-year-old adolescents (AD), 25-35-year-old young adults (YA), and 60-75-year-old elderly (EL).",
+            "To recruit the AD group, we visited the local sports clubs who were participating in ice hockey, figure skating, gymnastics, and athletics.",
+            "The YA and EL groups were recruited via e-mail lists.",
+            "The subjects of YA group were mainly students in the University of Jyv\u00e4skyl\u00e4 and the communitydwelling EL subjects were recruited from the Ageing Program of the University of Jyv\u00e4skyl\u00e4.",
+            "All subjects of YA and EL were recreationally active (e.g., walking, jogging, cycling, resistance training 2-4 times per week) but they were not training for competitive purposes.",
+            "In the beginning of the study, there were 14 boys and 10 girls in the AD group, 16 men and 19 women in the YA group, and 17 men and 17 women in the EL group.",
+            "Altogether 5 subjects were not able to finish the study.",
+            "Baseline anthropometric characteristics of the subjects who completed the whole data collection are presented in Table 1 .",
+            "The subjects did not use any medication during the study period aside from 2 exceptions: women of YA were allowed to use contraceptive pills and in the EL groups medications for high blood pressure and high cholesterol were acceptable.",
+            "Subjects whose body mass index was above 33 kg/m 2 or who had other medications were excluded from the study.",
+            "The experimental diets were planned beforehand and volunteers who had any relevant food allergy were not able to participate.",
+            "Ethical approval for the study was obtained from the Ethical Committee of the University of Jyv\u00e4skyl\u00e4 and the study was in accordance with the Helsinki Declaration.",
+            "Before any data collection the subjects were informed of the purpose and the methods of the study and they signed a written informed consent.",
+            "Additionally, the subjects completed a health questionnaire and the elderly subjects also completed a health examination, which was performed by a physician."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "To determine the subjects' maximal oxygen uptake (V O 2max ) and maximal workload at baseline (test 1) an incremental cycle ergometer test was cycled with a microprocessor-controlled, eddy current brake-equipped ergometer (Ergoline ergometrics 800, D-72475, Bitz, Germany). For the AD group, the initial workload was 30 W and at each stage it was increased by 20 W for boys and by 15 W for girls. For YA, the initial workload was 50 W and at each stage it was increased by 25 W for men and by 20 W for women. For EL, the initial workload was 30 W and at each stage it was increased by 25 W for men and 20 W for women. The subjects were advised to select a comfortable pedaling cadence between 60 and 90 r/min and to maintain it for the duration of the test. In the AD and YA groups, the workload was increased every 2 min until volitional exhaustion occurred. V O 2max was determined to be the highest 30-s oxygen uptake (V O 2 ) value during the test and coincided with at least 2 of the following 3 criteria: (i) 90% of agepredicted maximum heart rate; (ii) respiratory exchange ratio (RER) >1.1; and/or (iii) a plateau of V O 2 (less than 150 mL/min increase in V O 2 during the last 60 s of the test). In EL subjects, the workload was increased every 2 min until 85% of the age-predicted maximal heart rate was achieved and V O 2max was estimated submaximally with Aino FitWare Pro -physical performance testing software (Aino Health Management, Finland). V O 2max determined at the baseline was used in all subject groups to set the workloads for cycling tests performed during the experimental design.",
+        "section": "Baseline testing",
+        "section_number": 4,
+        "sentences": [
+            "To determine the subjects' maximal oxygen uptake (V O 2max ) and maximal workload at baseline (test 1) an incremental cycle ergometer test was cycled with a microprocessor-controlled, eddy current brake-equipped ergometer (Ergoline ergometrics 800, D-72475, Bitz, Germany).",
+            "For the AD group, the initial workload was 30 W and at each stage it was increased by 20 W for boys and by 15 W for girls.",
+            "For YA, the initial workload was 50 W and at each stage it was increased by 25 W for men and by 20 W for women.",
+            "For EL, the initial workload was 30 W and at each stage it was increased by 25 W for men and 20 W for women.",
+            "The subjects were advised to select a comfortable pedaling cadence between 60 and 90 r/min and to maintain it for the duration of the test.",
+            "In the AD and YA groups, the workload was increased every 2 min until volitional exhaustion occurred.",
+            "V O 2max was determined to be the highest 30-s oxygen uptake (V O 2 ) value during the test and coincided with at least 2 of the following 3 criteria: (i) 90% of agepredicted maximum heart rate; (ii) respiratory exchange ratio (RER) >1.1; and/or (iii) a plateau of V O 2 (less than 150 mL/min increase in V O 2 during the last 60 s of the test).",
+            "In EL subjects, the workload was increased every 2 min until 85% of the age-predicted maximal heart rate was achieved and V O 2max was estimated submaximally with Aino FitWare Pro -physical performance testing software (Aino Health Management, Finland).",
+            "V O 2max determined at the baseline was used in all subject groups to set the workloads for cycling tests performed during the experimental design."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "After the baseline testing, each age and sex group was randomly divided into 2 subgroups for the experimental design. The subjects went through a crossover study design during which they were randomly assigned to follow either an LD or HD for 7 days. Two to 4 weeks after finishing the first diet period, the subjects were assigned to the alternate diet. Thus, in both diet groups the total number of subjects was 88 and the subjects acted as their own controls. For the female subjects the diet periods were scheduled in the same phase of their menstrual cycles.",
+        "section": "Experimental design",
+        "section_number": 5,
+        "sentences": [
+            "After the baseline testing, each age and sex group was randomly divided into 2 subgroups for the experimental design.",
+            "The subjects went through a crossover study design during which they were randomly assigned to follow either an LD or HD for 7 days.",
+            "Two to 4 weeks after finishing the first diet period, the subjects were assigned to the alternate diet.",
+            "Thus, in both diet groups the total number of subjects was 88 and the subjects acted as their own controls.",
+            "For the female subjects the diet periods were scheduled in the same phase of their menstrual cycles."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Before both experimental diet periods the subjects followed their normal diet (ND) and kept a food diary for 3 days. During the last 12 h of the ND period, subjects had a 12-h overnight fast and on the fourth morning, fasting blood samples (PRE) were drawn from a fingertip capillary and an antecubital vein in a laboratory. The last meal before PRE samples was consistent with the ND of the subjects. Starting from the PRE sample, the subjects followed either LD or HD and kept food diaries for 7 days. On the eighth morning, after a 12-h overnight fast, fasting blood samples (POST) were drawn at the same time as the PRE sample. The last meal before the POST sample was consistent with the diet followed during the 7-day period (either LD or HD). A light breakfast, which was consistent with the assigned diet, was eaten thereafter. After 45 min of rest, resting blood samples were drawn once more (REST) before completing a cycle ergometer test (tests 2 and 3). Tests 2 and 3 started with a 5-min warm-up followed by a 4-min break. Thereafter, the subjects completed three 10-min trials at 35%, 55%, and 75% of the V O 2max . The AD and YA groups also completed a trial until volitional exhaustion at a workload equivalent to 100% of V O 2max . The maximal workload was continued until volitional exhaustion occurred or a subject was unable to continue pedaling over 60 r/min. The workloads for tests 2 and 3 were determined individually by calculating each subject's V O 2 at 35%, 55%, 75%, and 100% of V O 2max obtained during test 1 and choosing the workload corresponding to each V O 2 . The workloads were identical in tests 2 and 3. All workloads were separated by 4-min rest periods, during which blood samples (cycling test (CT) 35, CT55, CT75, CT100, respectively) were collected from a fingertip capillary.",
+        "section": "Experimental design",
+        "section_number": 6,
+        "sentences": [
+            "Before both experimental diet periods the subjects followed their normal diet (ND) and kept a food diary for 3 days.",
+            "During the last 12 h of the ND period, subjects had a 12-h overnight fast and on the fourth morning, fasting blood samples (PRE) were drawn from a fingertip capillary and an antecubital vein in a laboratory.",
+            "The last meal before PRE samples was consistent with the ND of the subjects.",
+            "Starting from the PRE sample, the subjects followed either LD or HD and kept food diaries for 7 days.",
+            "On the eighth morning, after a 12-h overnight fast, fasting blood samples (POST) were drawn at the same time as the PRE sample.",
+            "The last meal before the POST sample was consistent with the diet followed during the 7-day period (either LD or HD).",
+            "A light breakfast, which was consistent with the assigned diet, was eaten thereafter.",
+            "After 45 min of rest, resting blood samples were drawn once more (REST) before completing a cycle ergometer test (tests 2 and 3).",
+            "Tests 2 and 3 started with a 5-min warm-up followed by a 4-min break.",
+            "Thereafter, the subjects completed three 10-min trials at 35%, 55%, and 75% of the V O 2max .",
+            "The AD and YA groups also completed a trial until volitional exhaustion at a workload equivalent to 100% of V O 2max .",
+            "The maximal workload was continued until volitional exhaustion occurred or a subject was unable to continue pedaling over 60 r/min.",
+            "The workloads for tests 2 and 3 were determined individually by calculating each subject's V O 2 at 35%, 55%, 75%, and 100% of V O 2max obtained during test 1 and choosing the workload corresponding to each V O 2 .",
+            "The workloads were identical in tests 2 and 3.",
+            "All workloads were separated by 4-min rest periods, during which blood samples (cycling test (CT) 35, CT55, CT75, CT100, respectively) were collected from a fingertip capillary."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "The subjects were allowed to exercise moderately during the diet periods. During the last 24 h before every fasting blood sample the subjects were instructed to minimize their physical activity. The subjects were asked to report their physical activity along with the food diaries.",
+        "section": "Experimental design",
+        "section_number": 7,
+        "sentences": [
+            "The subjects were allowed to exercise moderately during the diet periods.",
+            "During the last 24 h before every fasting blood sample the subjects were instructed to minimize their physical activity.",
+            "The subjects were asked to report their physical activity along with the food diaries."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "The diets used in the present study were designed with the help of PRAL calculations to have low and high acid loads. The PRAL values were calculated as follows: PRAL (mEq/100 g) = 0.49 \u00d7 protein (g/100 g) + 0.037 \u00d7 phosphorous (mg/100 g) -0.021 \u00d7 potassium (mg/100 g) -0.026 \u00d7 magnesium (mg/100 g) -0.013 \u00d7 calcium (mg/100 g) (Remer et al. 2003) . The nutrient contents of the foodstuffs were taken from the Finnish Food Composition Database (Fineli, Finnish National Institute of Health and Welfare).",
+        "section": "Diet periods and analysis",
+        "section_number": 8,
+        "sentences": [
+            "The diets used in the present study were designed with the help of PRAL calculations to have low and high acid loads.",
+            "The PRAL values were calculated as follows: PRAL (mEq/100 g) = 0.49 \u00d7 protein (g/100 g) + 0.037 \u00d7 phosphorous (mg/100 g) -0.021 \u00d7 potassium (mg/100 g) -0.026 \u00d7 magnesium (mg/100 g) -0.013 \u00d7 calcium (mg/100 g) (Remer et al. 2003) .",
+            "The nutrient contents of the foodstuffs were taken from the Finnish Food Composition Database (Fineli, Finnish National Institute of Health and Welfare)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "The subjects were given exact instructions how to follow the diets. Specific 1-day menus were designed for both diet periods, and every day during the diet periods subjects repeated the meals and snacks according to the menus. The subjects noted down the amount of foods eaten in grams after weighing each foodstuff. LD was based on a large intake of vegetables and fruits and a limited use of grain and dairy products. The subjects were instructed not to eat red meat, eggs or cheese during the 7 days. However, the diet included chicken (2 g\u2022kg \u22121 \u2022day \u22121 ) to ensure the adequate intake of protein. HD was planned to include no vegetables and fruits at all. It mainly consisted of grain products, chicken, red meat, and eggs. Vitamin and mineral supplements were not allowed during the study periods. Within the given instructions, the subjects were advised to eat according to their perceived energy needs during the first diet period. Thus, they were allowed to adjust the amounts of foods in the menus according to their appetite without leaving anything out or adding anything. The dietary instructions for the second diet period were adjusted so that the diet periods were isoenergetic. Between the 2 diet periods, the subjects were advised to eat according to their habitual diet. During both experimental diet periods, the subjects were compensated with some chicken, grain products, tomato, cucumber, lettuce, and mushrooms, which were received from the companies who partially funded this study. The breakfasts before the cycling tests were standard and isoenergetic in all groups with subtle adjustments in the amount of the foods. During LD, the breakfast contained approximately 370 kcal of energy, 63 g of carbohydrates, 16 g of protein, 7.2 g of fat, and its PRAL was \u221212.4 mEq. During HD, the breakfast contained 370 kcal of energy, 33 g of carbohydrates, 21 g of protein, 16 g of fat, and its PRAL was 7.4 mEq.",
+        "section": "Diet periods and analysis",
+        "section_number": 9,
+        "sentences": [
+            "The subjects were given exact instructions how to follow the diets.",
+            "Specific 1-day menus were designed for both diet periods, and every day during the diet periods subjects repeated the meals and snacks according to the menus.",
+            "The subjects noted down the amount of foods eaten in grams after weighing each foodstuff.",
+            "LD was based on a large intake of vegetables and fruits and a limited use of grain and dairy products.",
+            "The subjects were instructed not to eat red meat, eggs or cheese during the 7 days.",
+            "However, the diet included chicken (2 g\u2022kg \u22121 \u2022day \u22121 ) to ensure the adequate intake of protein.",
+            "HD was planned to include no vegetables and fruits at all.",
+            "It mainly consisted of grain products, chicken, red meat, and eggs.",
+            "Vitamin and mineral supplements were not allowed during the study periods.",
+            "Within the given instructions, the subjects were advised to eat according to their perceived energy needs during the first diet period.",
+            "Thus, they were allowed to adjust the amounts of foods in the menus according to their appetite without leaving anything out or adding anything.",
+            "The dietary instructions for the second diet period were adjusted so that the diet periods were isoenergetic.",
+            "Between the 2 diet periods, the subjects were advised to eat according to their habitual diet.",
+            "During both experimental diet periods, the subjects were compensated with some chicken, grain products, tomato, cucumber, lettuce, and mushrooms, which were received from the companies who partially funded this study.",
+            "The breakfasts before the cycling tests were standard and isoenergetic in all groups with subtle adjustments in the amount of the foods.",
+            "During LD, the breakfast contained approximately 370 kcal of energy, 63 g of carbohydrates, 16 g of protein, 7.2 g of fat, and its PRAL was \u221212.4 mEq.",
+            "During HD, the breakfast contained 370 kcal of energy, 33 g of carbohydrates, 21 g of protein, 16 g of fat, and its PRAL was 7.4 mEq."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "The food diaries were analyzed for energy, protein, carbohydrate, fat, phosphorous, potassium, magnesium, and calcium intake using Nutri-Flow software (Flow-Team Oy, Oulu, Finland). The average daily PRAL during LD and HD were calculated according to the relevant dietary intake data.",
+        "section": "Diet periods and analysis",
+        "section_number": 10,
+        "sentences": [
+            "The food diaries were analyzed for energy, protein, carbohydrate, fat, phosphorous, potassium, magnesium, and calcium intake using Nutri-Flow software (Flow-Team Oy, Oulu, Finland).",
+            "The average daily PRAL during LD and HD were calculated according to the relevant dietary intake data."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "All capillary and antecubital vein blood samples were drawn at the same time in the morning during both diet periods. Liheparinized whole-blood samples (200 and 20 L) from a fingertip capillary were analyzed immediately after sampling for pH, HCO 3 \u2212 , standard BE, and lactate. The determination of pH was based on the principle of ion-selective electrode whereas HCO 3 \u2212 and BE were determined computationally from pH and pCO 2 values (GEM Premier 3000, Instrumentation Laboratory, Lexington, Mass., USA). Lactate was analyzed by the amperometric and enzymatic method (BIOSEN C_line, Sport, EKF Diagnostic, Magdeburg, Germany). The blood samples from antecubital vein were drawn in vacuum tubes and centrifuged for 10 min at 3500 r/min (2100g). The serum was separated and creatinine was analyzed by KoneLab 20 XTi analyzator (Thermo Electron Corp., Vantaa, Finland). Serum creatinine values were used to calculate the GFR with the CKD-EPI equation, which uses also age, race, sex, and body size to estimate GFR (Levey et al. 2009 ).",
+        "section": "Blood sampling and analysis",
+        "section_number": 11,
+        "sentences": [
+            "All capillary and antecubital vein blood samples were drawn at the same time in the morning during both diet periods.",
+            "Liheparinized whole-blood samples (200 and 20 L) from a fingertip capillary were analyzed immediately after sampling for pH, HCO 3 \u2212 , standard BE, and lactate.",
+            "The determination of pH was based on the principle of ion-selective electrode whereas HCO 3 \u2212 and BE were determined computationally from pH and pCO 2 values (GEM Premier 3000, Instrumentation Laboratory, Lexington, Mass., USA).",
+            "Lactate was analyzed by the amperometric and enzymatic method (BIOSEN C_line, Sport, EKF Diagnostic, Magdeburg, Germany).",
+            "The blood samples from antecubital vein were drawn in vacuum tubes and centrifuged for 10 min at 3500 r/min (2100g).",
+            "The serum was separated and creatinine was analyzed by KoneLab 20 XTi analyzator (Thermo Electron Corp., Vantaa, Finland).",
+            "Serum creatinine values were used to calculate the GFR with the CKD-EPI equation, which uses also age, race, sex, and body size to estimate GFR (Levey et al. 2009 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In all 3 cycle ergometer tests, the gaseous exchange was measured using Jaeger Oxycon Pro breath-by-breath gas analyzer (VIASYS Healthcare GmbH, Hoechburg, Germany). The device was calibrated for volume and gas analyzer before every measurement. Cardiorespiratory variables (V O 2 , RER) were determined as a mean from the final 30 s of every workload.",
+        "section": "Breath gas analysis",
+        "section_number": 12,
+        "sentences": [
+            "In all 3 cycle ergometer tests, the gaseous exchange was measured using Jaeger Oxycon Pro breath-by-breath gas analyzer (VIASYS Healthcare GmbH, Hoechburg, Germany).",
+            "The device was calibrated for volume and gas analyzer before every measurement.",
+            "Cardiorespiratory variables (V O 2 , RER) were determined as a mean from the final 30 s of every workload."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Differences in blood variables between the diet groups were tested with mixed models with random ID. Comparisons were made separately at rest (PRE and POST) and during the cycling test day (POST, REST, CT35, CT55, CT75, and CT100). When the main effect of diet composition, age, sex, or time (between PRE and POST) was statistically significant the comparison was continued with least significant difference pairwise comparisons. The effect of dietary acid load on cardiorespiratory variables and GFR was examined by 2-way repeated measures ANOVA, and if a statistically significant difference was observed, the comparison was continued by a paired t test. The variables of dietary intake analysis and the difference in the duration of maximal workload were compared inside each age and sex group with paired-samples t test. The correlations of GFR with acid-base parameters were analyzed by Pearson correlation analysis. Statistical analyses were performed with IBM SPSS Statistics (version 22.0; SPSS Inc., an IBM Company). Data are presented as means \u00b1 SD. The statistical difference was significant at the P < 0.05 level.",
+        "section": "Statistical analysis",
+        "section_number": 13,
+        "sentences": [
+            "Differences in blood variables between the diet groups were tested with mixed models with random ID.",
+            "Comparisons were made separately at rest (PRE and POST) and during the cycling test day (POST, REST, CT35, CT55, CT75, and CT100).",
+            "When the main effect of diet composition, age, sex, or time (between PRE and POST) was statistically significant the comparison was continued with least significant difference pairwise comparisons.",
+            "The effect of dietary acid load on cardiorespiratory variables and GFR was examined by 2-way repeated measures ANOVA, and if a statistically significant difference was observed, the comparison was continued by a paired t test.",
+            "The variables of dietary intake analysis and the difference in the duration of maximal workload were compared inside each age and sex group with paired-samples t test.",
+            "The correlations of GFR with acid-base parameters were analyzed by Pearson correlation analysis.",
+            "Statistical analyses were performed with IBM SPSS Statistics (version 22.0; SPSS Inc., an IBM Company).",
+            "Data are presented as means \u00b1 SD.",
+            "The statistical difference was significant at the P < 0.05 level."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Altogether 88 subjects of 93 completed the study design and followed both LD and HD for 7 days in a randomized order. One subject of every age and sex group except EL men dropped out before the second diet period. Those subjects were excluded from the statistical analysis.",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Altogether 88 subjects of 93 completed the study design and followed both LD and HD for 7 days in a randomized order.",
+            "One subject of every age and sex group except EL men dropped out before the second diet period.",
+            "Those subjects were excluded from the statistical analysis."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "44067",
+        "text": "The PRAL and macronutrient contents were not different between the ND periods that preceded both LD and HD in any of the subject groups. The PRAL values presented in Table 1 are means from these two 3-day normal diet periods.",
+        "section": "Dietary intake",
+        "section_number": 15,
+        "sentences": [
+            "The PRAL and macronutrient contents were not different between the ND periods that preceded both LD and HD in any of the subject groups.",
+            "The PRAL values presented in Table 1 are means from these two 3-day normal diet periods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Experimental dietary intake data are presented in Table 2 . PRAL was significantly lower (P < 0.001 in all groups) and intake of vegetables and fruits was significantly higher (P \u2264 0.001) in LD compared with HD in all groups. In AD boys and EL women the energy intake did not differ between the diets, but in other groups it was significantly lower during LD compared with HD (P \u2264 0.022). The protein intake (g\u2022kg \u22121 \u2022day \u22121 ) was significantly lower (P < 0.001) during LD compared with HD in all groups except in AD girls.",
+        "section": "Dietary intake",
+        "section_number": 16,
+        "sentences": [
+            "Experimental dietary intake data are presented in Table 2 .",
+            "PRAL was significantly lower (P < 0.001 in all groups) and intake of vegetables and fruits was significantly higher (P \u2264 0.001) in LD compared with HD in all groups.",
+            "In AD boys and EL women the energy intake did not differ between the diets, but in other groups it was significantly lower during LD compared with HD (P \u2264 0.022).",
+            "The protein intake (g\u2022kg \u22121 \u2022day \u22121 ) was significantly lower (P < 0.001) during LD compared with HD in all groups except in AD girls."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "The GFR data are presented in Fig. 1 . In young men, GFR decreased over the LD period (P = 0.009) and in the elderly men and women it was higher after HD compared with LD (P < 0.001 and P = 0.047, respectively). Age had a significant (P < 0.001) effect on GFR. GFR was significantly lower (P < 0.001) in young adults compared with the adolescents, in the elderly compared with young adults, and in the elderly compared with adolescents throughout the study period. Sex also had a significant (P < 0.001) effect on GFR. GFR was higher (P \u2264 0.009) in boys compared with girls at all points. GFR was also higher (P \u2264 0.030) in YA men compared with YA women at all points except at POST after LD. In the elderly, the sex differences in GFR were smaller and it was significantly higher (P = 0.029) in men compared with women only at PRE during HD.",
+        "section": "Glomerular filtration rate",
+        "section_number": 17,
+        "sentences": [
+            "The GFR data are presented in Fig. 1 .",
+            "In young men, GFR decreased over the LD period (P = 0.009) and in the elderly men and women it was higher after HD compared with LD (P < 0.001 and P = 0.047, respectively).",
+            "Age had a significant (P < 0.001) effect on GFR.",
+            "GFR was significantly lower (P < 0.001) in young adults compared with the adolescents, in the elderly compared with young adults, and in the elderly compared with adolescents throughout the study period.",
+            "Sex also had a significant (P < 0.001) effect on GFR.",
+            "GFR was higher (P \u2264 0.009) in boys compared with girls at all points.",
+            "GFR was also higher (P \u2264 0.030) in YA men compared with YA women at all points except at POST after LD.",
+            "In the elderly, the sex differences in GFR were smaller and it was significantly higher (P = 0.029) in men compared with women only at PRE during HD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In all male subjects together, GFR correlated negatively with HCO 3 \u2212 (r = \u22120.42, P = 0.007) and BE (r = \u22120.43, P = 0.006) at rest at the beginning of the HD period. After HD, GFR correlated with HCO 3 \u2212 (r = 0.57, P = 0.003) and BE (r = 0.60, P = 0.001) at CT100. Moreover, GFR correlated with BE at CT35 and CT55 (r = 0.32, P = 0.039; r = 0.31, P = 0.045, respectively). In all female subjects together, GFR correlated with HCO 3 \u2212 and BE at CT100 after both diet periods (LD: r = 0.57, P = 0.003; r = 0.57, P = 0.004, respectively. HD: r = 0.53, P = 0.013; r = 0.58, P = 0.006, respectively).",
+        "section": "Glomerular filtration rate",
+        "section_number": 18,
+        "sentences": [
+            "In all male subjects together, GFR correlated negatively with HCO 3 \u2212 (r = \u22120.42, P = 0.007) and BE (r = \u22120.43, P = 0.006) at rest at the beginning of the HD period.",
+            "After HD, GFR correlated with HCO 3 \u2212 (r = 0.57, P = 0.003) and BE (r = 0.60, P = 0.001) at CT100.",
+            "Moreover, GFR correlated with BE at CT35 and CT55 (r = 0.32, P = 0.039; r = 0.31, P = 0.045, respectively).",
+            "In all female subjects together, GFR correlated with HCO 3 \u2212 and BE at CT100 after both diet periods (LD: r = 0.57, P = 0.003; r = 0.57, P = 0.004, respectively.",
+            "HD: r = 0.53, P = 0.013; r = 0.58, P = 0.006, respectively)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "For HCO 3 \u2212 and BE, the time \u00d7 age effects were significant (P < 0.001) at rest and in exercise. During exercise, diet \u00d7 age and time \u00d7 sex effects were significant for HCO 3 \u2212 (P = 0.026 and P = 0.005, respectively) and BE (P = 0.028 and P = 0.002, respectively). For pH, the time \u00d7 age (P < 0.001) and time \u00d7 sex (P = 0.002) effects were significant during exercise. In general, the changes in HCO 3 \u2212 and BE between the diet periods were larger in the elderly compared with younger subject groups at rest and during exercise. During exercise, the decrease in acid-base parameters within each of the diet periods was larger in young adults compared with adolescents and the elderly and in men compared with women. In addition, in lactate, time \u00d7 age and time \u00d7 sex effects were significant (P < 0.001) during exercise.",
+        "section": "Blood acid-base status and lactate",
+        "section_number": 19,
+        "sentences": [
+            "For HCO 3 \u2212 and BE, the time \u00d7 age effects were significant (P < 0.001) at rest and in exercise.",
+            "During exercise, diet \u00d7 age and time \u00d7 sex effects were significant for HCO 3 \u2212 (P = 0.026 and P = 0.005, respectively) and BE (P = 0.028 and P = 0.002, respectively).",
+            "For pH, the time \u00d7 age (P < 0.001) and time \u00d7 sex (P = 0.002) effects were significant during exercise.",
+            "In general, the changes in HCO 3 \u2212 and BE between the diet periods were larger in the elderly compared with younger subject groups at rest and during exercise.",
+            "During exercise, the decrease in acid-base parameters within each of the diet periods was larger in young adults compared with adolescents and the elderly and in men compared with women.",
+            "In addition, in lactate, time \u00d7 age and time \u00d7 sex effects were significant (P < 0.001) during exercise."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Capillary pH, HCO 3 \u2212 and BE decreased (P < 0.001) over the HD period and were higher (P < 0.001) at POST after LD compared with HD (Figs. 2, 3 , and 4, respectively). BE increased (P = 0.048) during LD. Lactate was higher before the cycling test at REST after LD compared with HD (3.0 \u00b1 0.5 vs. 2.0 \u00b1 0.5 mmol/L, P = 0.026) (Fig. 5) .",
+        "section": "Elderly women",
+        "section_number": 20,
+        "sentences": [
+            "Capillary pH, HCO 3 \u2212 and BE decreased (P < 0.001) over the HD period and were higher (P < 0.001) at POST after LD compared with HD (Figs. 2, 3 , and 4, respectively).",
+            "BE increased (P = 0.048) during LD.",
+            "Lactate was higher before the cycling test at REST after LD compared with HD (3.0 \u00b1 0.5 vs. 2.0 \u00b1 0.5 mmol/L, P = 0.026) (Fig. 5) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "After LD compared with HD, both HCO 3 \u2212 (P \u2264 0.020) and BE (P \u2264 0.011) sustained at significantly higher level throughout the cycling test. Moreover, pH was higher also at CT75 (P = 0.002) after LD compared with HD.",
+        "section": "Elderly women",
+        "section_number": 21,
+        "sentences": [
+            "After LD compared with HD, both HCO 3 \u2212 (P \u2264 0.020) and BE (P \u2264 0.011) sustained at significantly higher level throughout the cycling test.",
+            "Moreover, pH was higher also at CT75 (P = 0.002) after LD compared with HD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "HCO 3 \u2212 and BE decreased significantly (P < 0.001) over the HD period. HCO 3 \u2212 increased (P = 0.039) during the LD diet. After LD compared with HD, pH (P = 0.021) HCO 3 \u2212 (P < 0.001), and BE (P < 0.001) were higher at POST. BE was higher also at CT75 (P = 0.021) after LD compared with HD. There were no differences in lactate concentrations between the diet periods at rest or during exercise.",
+        "section": "Elderly men",
+        "section_number": 22,
+        "sentences": [
+            "HCO 3 \u2212 and BE decreased significantly (P < 0.001) over the HD period.",
+            "HCO 3 \u2212 increased (P = 0.039) during the LD diet.",
+            "After LD compared with HD, pH (P = 0.021) HCO 3 \u2212 (P < 0.001), and BE (P < 0.001) were higher at POST.",
+            "BE was higher also at CT75 (P = 0.021) after LD compared with HD.",
+            "There were no differences in lactate concentrations between the diet periods at rest or during exercise."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Capillary pH (P = 0.019), HCO 3 \u2212 (P = 0.001), and BE (P < 0.001) decreased over the HD period. During LD compared with HD, BE (P = 0.039) was higher at PRE and pH, HCO 3 \u2212 , and BE were higher at POST (P < 0.001). Moreover, HCO 3 \u2212 (P \u2264 0.022) and BE (P \u2264 0.015) were higher at all submaximal stages and pH at CT75 (P = 0.005). Also, lactate was higher at CT100 after LD compared with HD (10.0 \u00b1 1.8 vs. 8.6 \u00b1 1.2 mmol/L, P = 0.002).",
+        "section": "Young women",
+        "section_number": 23,
+        "sentences": [
+            "Capillary pH (P = 0.019), HCO 3 \u2212 (P = 0.001), and BE (P < 0.001) decreased over the HD period.",
+            "During LD compared with HD, BE (P = 0.039) was higher at PRE and pH, HCO 3 \u2212 , and BE were higher at POST (P < 0.001).",
+            "Moreover, HCO 3 \u2212 (P \u2264 0.022) and BE (P \u2264 0.015) were higher at all submaximal stages and pH at CT75 (P = 0.005).",
+            "Also, lactate was higher at CT100 after LD compared with HD (10.0 \u00b1 1.8 vs. 8.6 \u00b1 1.2 mmol/L, P = 0.002)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Capillary pH (P = 0.039), HCO 3 \u2212 (P = 0.027), and BE (P = 0.012) decreased over the HD period. After LD compared with HD, pH (P = 0.038), HCO 3 \u2212 (P = 0.042), and BE (P = 0.011) were higher at POST. Moreover, pH was higher at CT100 (P = 0.034). There were no significant differences in lactate between the diet periods.",
+        "section": "Young men",
+        "section_number": 24,
+        "sentences": [
+            "Capillary pH (P = 0.039), HCO 3 \u2212 (P = 0.027), and BE (P = 0.012) decreased over the HD period.",
+            "After LD compared with HD, pH (P = 0.038), HCO 3 \u2212 (P = 0.042), and BE (P = 0.011) were higher at POST.",
+            "Moreover, pH was higher at CT100 (P = 0.034).",
+            "There were no significant differences in lactate between the diet periods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In the AD group the only diet-induced change in the blood variables was the significant increase of HCO 3 \u2212 (P = 0.005) and BE (P = 0.003) during the LD diet-period in girls.",
+        "section": "Adolescents",
+        "section_number": 25,
+        "sentences": [
+            "In the AD group the only diet-induced change in the blood variables was the significant increase of HCO 3 \u2212 (P = 0.005) and BE (P = 0.003) during the LD diet-period in girls."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Four older women were not able to finish the CT75 after the HD period. One older man was not able to finish the CT75 after either LD or HD. The duration of CT75 was shorter after HD compared with LD both in men (9.66 \u00b1 1.39 vs. 9.81 \u00b1 0.79 min) and women (9.23 \u00b1 2.07 vs. 10.0 \u00b1 0 min) but the differences were not significant. In men, RER was lower (P \u2264 0.009) at all submaximal workloads after HD compared with LD (Table 3) . In women, there were no differences in cardiorespiratory responses between the diet periods.",
+        "section": "Elderly",
+        "section_number": 26,
+        "sentences": [
+            "Four older women were not able to finish the CT75 after the HD period.",
+            "One older man was not able to finish the CT75 after either LD or HD.",
+            "The duration of CT75 was shorter after HD compared with LD both in men (9.66 \u00b1 1.39 vs. 9.81 \u00b1 0.79 min) and women (9.23 \u00b1 2.07 vs. 10.0 \u00b1 0 min) but the differences were not significant.",
+            "In men, RER was lower (P \u2264 0.009) at all submaximal workloads after HD compared with LD (Table 3) .",
+            "In women, there were no differences in cardiorespiratory responses between the diet periods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In women the duration of the maximal workload was shorter after HD compared with LD (3.12 \u00b1 1.01 vs. 3.84 \u00b1 1.28 min, P = 0.001). V O 2 (P = 0.006), RER (P = 0.029), and HR (P = 0.004) were lower at CT100 after HD compared with LD. RER (P = 0.023) and HR (P = 0.026) were lower also at CT35 after HD compared with LD. In men there were no differences in the duration of maximal workload (3.79 \u00b1 1.48 vs. 3.67 \u00b1 1.20 min, respectively) or in cardiorespiratory responses between HD and LD.",
+        "section": "Young adults",
+        "section_number": 27,
+        "sentences": [
+            "In women the duration of the maximal workload was shorter after HD compared with LD (3.12 \u00b1 1.01 vs. 3.84 \u00b1 1.28 min, P = 0.001).",
+            "V O 2 (P = 0.006), RER (P = 0.029), and HR (P = 0.004) were lower at CT100 after HD compared with LD.",
+            "RER (P = 0.023) and HR (P = 0.026) were lower also at CT35 after HD compared with LD.",
+            "In men there were no differences in the duration of maximal workload (3.79 \u00b1 1.48 vs. 3.67 \u00b1 1.20 min, respectively) or in cardiorespiratory responses between HD and LD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "There were no significant differences in exercise performance or cardiorespiratory measures between the diet groups of adolescents. In boys, the time until exhaustion at CT100 was 3.21 \u00b1 1.74 min after LD and 3.34 \u00b1 1.58 min after HD. In girls, the durations were 3.20 \u00b1 0.78 min and 3.17 \u00b1 0.88 min, respectively.",
+        "section": "Adolescents",
+        "section_number": 28,
+        "sentences": [
+            "There were no significant differences in exercise performance or cardiorespiratory measures between the diet groups of adolescents.",
+            "In boys, the time until exhaustion at CT100 was 3.21 \u00b1 1.74 min after LD and 3.34 \u00b1 1.58 min after HD.",
+            "In girls, the durations were 3.20 \u00b1 0.78 min and 3.17 \u00b1 0.88 min, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "There was no period effect in cardiorespiratory measures between the experimental diet periods. Highest V O 2 obtained during the cycling test and the duration of the last workload was not different between the first and second experimental diet period regardless of the sequence of the diets followed. Fig. 1 . Glomerular filtration rate (GFR) in adolescents (A), young adults (B), and the elderly (C) in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD). *, P < 0.05; ***, P < 0.001, statistically significant difference between LD and HD; \u2020 \u2020, P < 0.01, statistically significant difference between the PRE and POST of the 7-day LD (mixed models with random identification number, least significant difference pairwise comparison). Values are means \u00b1 SD. ",
+        "section": "Adolescents",
+        "section_number": 29,
+        "sentences": [
+            "There was no period effect in cardiorespiratory measures between the experimental diet periods.",
+            "Highest V O 2 obtained during the cycling test and the duration of the last workload was not different between the first and second experimental diet period regardless of the sequence of the diets followed.",
+            "Fig. 1 .",
+            "Glomerular filtration rate (GFR) in adolescents (A), young adults (B), and the elderly (C) in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD). *,",
+            "P < 0.05; ***, P < 0.001, statistically significant difference between LD and HD; \u2020 \u2020, P < 0.01, statistically significant difference between the PRE and POST of the 7-day LD (mixed models with random identification number, least significant difference pairwise comparison).",
+            "Values are means \u00b1 SD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "During the present study adolescents, young adults and the elderly followed an LD and HD for 7 days to examine the effects associated with diet composition on blood acid-base status and exercise performance. To the best of our knowledge, our study is the first to suggest that better renal function may be associated with higher base availability, which can diminish exercise-induced acidosis. This could be particularly important for the elderly who have diminished renal function. Our results show that in healthy, recreationally active men and women, pH, HCO 3 \u2212 , and BE were lower after a 7-day HD compared with a 7-day LD, which is an indication of more acidic blood acid-base status. Particularly in young and elderly women, the blood was more acidic also during submaximal cycling. These changes affected the performance in young women, as their maximal cardiorespiratory measures were lower and the time of exhaustion shorter after HD compared with LD. Our data are in accordance with the literature as we found a clear decrease in GFR with aging. This likely explains why the diet-induced changes in blood acid-base status were greater in elderly subjects compared with younger groups. Moreover, women had lower GFR compared with men and consequently were more sensitive to changes in dietary acid load.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "During the present study adolescents, young adults and the elderly followed an LD and HD for 7 days to examine the effects associated with diet composition on blood acid-base status and exercise performance.",
+            "To the best of our knowledge, our study is the first to suggest that better renal function may be associated with higher base availability, which can diminish exercise-induced acidosis.",
+            "This could be particularly important for the elderly who have diminished renal function.",
+            "Our results show that in healthy, recreationally active men and women, pH, HCO 3 \u2212 , and BE were lower after a 7-day HD compared with a 7-day LD, which is an indication of more acidic blood acid-base status.",
+            "Particularly in young and elderly women, the blood was more acidic also during submaximal cycling.",
+            "These changes affected the performance in young women, as their maximal cardiorespiratory measures were lower and the time of exhaustion shorter after HD compared with LD.",
+            "Our data are in accordance with the literature as we found a clear decrease in GFR with aging.",
+            "This likely explains why the diet-induced changes in blood acid-base status were greater in elderly subjects compared with younger groups.",
+            "Moreover, women had lower GFR compared with men and consequently were more sensitive to changes in dietary acid load."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "It has been suggested that the acidity of the body increases with aging as the functional capacity of the kidneys declines (Frassetto and Sebastian 1996; Goraya et al. 2012) . Our cross-sectional data does not allow us to make a conclusion about how acid-base status of a certain individual has changed from adulthood to elderly, but in our data, despite the clear decline in GFR with aging, the acidity of the blood was not higher in the elderly compared with younger subjects. This might be affected by the fact that the elderly subjects had lower dietary acid intake during their habitual diets compared with younger subjects. Moreover, Wesson and Simoni (2009) , comparing rats with and without subtotal nephrectomy, demonstrated no differences in blood acid-base levels between the 2 groups. However, the rats with lower kidney mass were not able to excrete the same acid load in the urine, while at the same Fig. 2 . Capillary pH in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled. Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *, P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD. \u2020, P < 0.05; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD (mixed models with random identification number, least significant difference pairwise comparison). Values are means \u00b1 SD.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "It has been suggested that the acidity of the body increases with aging as the functional capacity of the kidneys declines (Frassetto and Sebastian 1996; Goraya et al. 2012) .",
+            "Our cross-sectional data does not allow us to make a conclusion about how acid-base status of a certain individual has changed from adulthood to elderly, but in our data, despite the clear decline in GFR with aging, the acidity of the blood was not higher in the elderly compared with younger subjects.",
+            "This might be affected by the fact that the elderly subjects had lower dietary acid intake during their habitual diets compared with younger subjects.",
+            "Moreover, Wesson and Simoni (2009) , comparing rats with and without subtotal nephrectomy, demonstrated no differences in blood acid-base levels between the 2 groups.",
+            "However, the rats with lower kidney mass were not able to excrete the same acid load in the urine, while at the same Fig. 2 .",
+            "Capillary pH in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled.",
+            "Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *,",
+            "P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD. \u2020,",
+            "P < 0.05; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD (mixed models with random identification number, least significant difference pairwise comparison).",
+            "Values are means \u00b1 SD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "time demonstrated higher renal tissue acid levels. We suggest a similar effect might be occurring in the relatively reduced functional renal tissue in the elderly subjects. According to the analyzed daily PRAL, the experimental diets used in the present study had low and high dietary acid loads. A high intake of vegetables and fruits and a low intake of meat, grains, eggs, and cheese during LD and the opposite dietary pattern during HD caused the difference in dietary acid loads. Diets that have low acid load and promote alkalinity of the body may be beneficial for the health of elderly populations, who have decreased renal functional capacity to excrete acids. Reducing dietary acid load with increased intake of vegetables and fruits or bicarbonate supplementation has been reported to decrease the risk factors for chronic kidney disease (Banerjee et al. 2014; de Brito-Ashurst et al. 2009) . These diets may also help in the preservation of muscle mass (Dawson-Hughes et al. 2008; Welch et al. 2013) , and lower serum bicarbonate has been reported to associate with reduced muscle strength and greater risk of incident and functional limitations (Abramowitz et al. 2011; Yenchek et al. 2014) . It is important to acknowledge the significance of adequate protein intake for health (Westerterp-Plantenga et al. 2012) and in maintaining or improving skeletal muscle size (Houston et al. 2008; Hulmi et al. 2009) . Our results show that to reduce the body's acid load the dietary protein intake does not have to be low; instead, it can be sustained at a moderately higher level than the current recommended daily allowance (0.8 g\u2022kg \u22121 \u2022day \u22121 ) if the intake of fruits and vegetables is high enough.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "time demonstrated higher renal tissue acid levels.",
+            "We suggest a similar effect might be occurring in the relatively reduced functional renal tissue in the elderly subjects.",
+            "According to the analyzed daily PRAL, the experimental diets used in the present study had low and high dietary acid loads.",
+            "A high intake of vegetables and fruits and a low intake of meat, grains, eggs, and cheese during LD and the opposite dietary pattern during HD caused the difference in dietary acid loads.",
+            "Diets that have low acid load and promote alkalinity of the body may be beneficial for the health of elderly populations, who have decreased renal functional capacity to excrete acids.",
+            "Reducing dietary acid load with increased intake of vegetables and fruits or bicarbonate supplementation has been reported to decrease the risk factors for chronic kidney disease (Banerjee et al. 2014; de Brito-Ashurst et al. 2009) .",
+            "These diets may also help in the preservation of muscle mass (Dawson-Hughes et al. 2008; Welch et al. 2013) , and lower serum bicarbonate has been reported to associate with reduced muscle strength and greater risk of incident and functional limitations (Abramowitz et al. 2011; Yenchek et al. 2014) .",
+            "It is important to acknowledge the significance of adequate protein intake for health (Westerterp-Plantenga et al. 2012) and in maintaining or improving skeletal muscle size (Houston et al. 2008; Hulmi et al. 2009) .",
+            "Our results show that to reduce the body's acid load the dietary protein intake does not have to be low; instead, it can be sustained at a moderately higher level than the current recommended daily allowance (0.8 g\u2022kg \u22121 \u2022day \u22121 ) if the intake of fruits and vegetables is high enough."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Similar to the elderly subjects, in young men and women, pH, HCO 3 \u2212 , and BE decreased significantly over the HD period. In contrast, the only significant change in acid-base status of adolescents occurred in girls, as HCO 3 \u2212 and BE increased during the period of LD. The difference in the acid loads between the experimental diet periods was smaller in adolescents compared with the older subjects, which may have impacted the acid-base responses in adolescents. However, adolescents' acid-base status may not be as sensitive to Fig. 3 . Bicarbonate (HCO 3 \u2212 ) in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled. Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *, P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD; \u2020, P < 0.05; \u2020 \u2020, P < 0.01; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD; #, P < 0.05; ##, P < 0.01, statistically significant difference between PRE and POST during LD (mixed models with random identification number, least significant difference pairwise comparison). Values are means \u00b1 SD.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "Similar to the elderly subjects, in young men and women, pH, HCO 3 \u2212 , and BE decreased significantly over the HD period.",
+            "In contrast, the only significant change in acid-base status of adolescents occurred in girls, as HCO 3 \u2212 and BE increased during the period of LD.",
+            "The difference in the acid loads between the experimental diet periods was smaller in adolescents compared with the older subjects, which may have impacted the acid-base responses in adolescents.",
+            "However, adolescents' acid-base status may not be as sensitive to Fig. 3 .",
+            "Bicarbonate (HCO 3 \u2212 ) in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled.",
+            "Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *,",
+            "P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD; \u2020, P < 0.05; \u2020 \u2020, P < 0.01; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD; #, P < 0.05; ##, P < 0.01, statistically significant difference between PRE and POST during LD (mixed models with random identification number, least significant difference pairwise comparison).",
+            "Values are means \u00b1 SD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "altered diet composition as is the acid-base status of adults and the elderly, since their renal functional capacity is also higher compared with older subjects. Moreover, adolescents have higher oxidative capacity compared with adults at rest (Ratel et al. 2006) , which could enable a more efficient utilization of H + in tricarboxylic acid cycle. Growing adolescents also have higher needs for protein to ensure the growing and maturation of the tissues and the efficacy to use nitrogen is increased (Giovannini et al. 2000) . Thus, at least the acute potential of proteins to increase the acid load of the body might be lower in adolescents.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "altered diet composition as is the acid-base status of adults and the elderly, since their renal functional capacity is also higher compared with older subjects.",
+            "Moreover, adolescents have higher oxidative capacity compared with adults at rest (Ratel et al. 2006) , which could enable a more efficient utilization of H + in tricarboxylic acid cycle.",
+            "Growing adolescents also have higher needs for protein to ensure the growing and maturation of the tissues and the efficacy to use nitrogen is increased (Giovannini et al. 2000) .",
+            "Thus, at least the acute potential of proteins to increase the acid load of the body might be lower in adolescents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "To the best of our knowledge, the effects of dietary acid load have not been reported during exercise in the elderly. In elderly women, HCO 3 \u2212 , and pH were significantly lower during submaximal cycling after HD compared with LD. In addition, pH was significantly lower at 75% of V O 2max after HD compared with LD in elderly men. Dietary acid load could be an important issue for the health of the elderly also in relation to exercise, as exercise-induced increase in acidosis was smaller after lower dietary acid load. This would diminish the need of aging kidneys to secrete acids. It could also be hypothesized that the more alkaline body prior to exercise would favor greater lipid oxidation (Sahlin and Harris 2008) . That did not get support from our results as respiratory exchange ratio (RER; CO 2 production/VO 2 ) of elderly men was significantly higher at all submaximal workloads after LD compared with HD. However, the higher carbohydrate intake during LD compared with HD has likely affected the RER values. Yet there were no differences in elderly women's cardiorespiratory measures between the diet periods.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "To the best of our knowledge, the effects of dietary acid load have not been reported during exercise in the elderly.",
+            "In elderly women, HCO 3 \u2212 , and pH were significantly lower during submaximal cycling after HD compared with LD.",
+            "In addition, pH was significantly lower at 75% of V O 2max after HD compared with LD in elderly men.",
+            "Dietary acid load could be an important issue for the health of the elderly also in relation to exercise, as exercise-induced increase in acidosis was smaller after lower dietary acid load.",
+            "This would diminish the need of aging kidneys to secrete acids.",
+            "It could also be hypothesized that the more alkaline body prior to exercise would favor greater lipid oxidation (Sahlin and Harris 2008) .",
+            "That did not get support from our results as respiratory exchange ratio (RER; CO 2 production/VO 2 ) of elderly men was significantly higher at all submaximal workloads after LD compared with HD.",
+            "However, the higher carbohydrate intake during LD compared with HD has likely affected the RER values.",
+            "Yet there were no differences in elderly women's cardiorespiratory measures between the diet periods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "In YA women, the time to exhaustion at a workload equivalent to 100% of V O 2max was 19% shorter and their maximal V O 2 , RER, and HR were lower after HD compared with LD. The maximal aerobic capacity of young men was not different between the diets. Interestingly, young women in this study depleted blood HCO 3 \u2212 during the maximal workload to the same level after both Fig. 4 . Base excess (BE) in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled. Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *, P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD. \u2020, P < 0.05; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD; ## , P < 0.01, statistically significant difference between PRE and POST during LD (mixed models with random identification number, least significant difference pairwise comparison). Values are means \u00b1 SD.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "In YA women, the time to exhaustion at a workload equivalent to 100% of V O 2max was 19% shorter and their maximal V O 2 , RER, and HR were lower after HD compared with LD.",
+            "The maximal aerobic capacity of young men was not different between the diets.",
+            "Interestingly, young women in this study depleted blood HCO 3 \u2212 during the maximal workload to the same level after both Fig. 4 .",
+            "Base excess (BE) in adolescents (A), young adults (B), and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled.",
+            "Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). *,",
+            "P < 0.05; **, P < 0.01; ***, P < 0.001, statistically significant difference between LD and HD. \u2020,",
+            "P < 0.05; \u2020 \u2020 \u2020, P < 0.001, statistically significant difference between PRE and POST during HD; ## , P < 0.01, statistically significant difference between PRE and POST during LD (mixed models with random identification number, least significant difference pairwise comparison).",
+            "Values are means \u00b1 SD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "diet periods even though it was significantly higher at submaximal workloads after LD compared with HD. In addition, BE and pH decreased to the same level after both diets. These results are in accordance with the results of Greenhaff et al. (1987) , who reported that pH, HCO 3 \u2212 , and BE were higher at rest but decreased to the same or even lower level while the cycling time to exhaustion at 100% of V O 2max was longer after LD compared with HD. Our results support the idea that consuming an LD diet produces a more alkaline environment within the body and results in a greater blood buffering capacity. This may play an important role in delaying the fatigue during submaximal and maximal exercise intensities particularly in women, who have lower renal functional capacity compared with men. Moreover, young men and women had significantly lower pH, HCO 3 \u2212 , and BE compared with both elderly men and women and boys and girls at 2 highest exercise intensities after adjusting for V O 2max . This and the positive correlations between GFR and acid-base parameters suggest that the renal functional capacity may affect the level of acidity that is possible to achieve during high-intensity exercise in young and elderly adults. The performance or exercise metabolism of adolescents, however, was not different between the diet groups. It is important to recognize that not only ergogenic aids but also a habitual diet may have a constant effect on bicarbonate concentrations of the body. According to this study, women in particular should pay attention to adequate consumption of vegetables and fruits to maximize their performance during high-intensity exercise.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "diet periods even though it was significantly higher at submaximal workloads after LD compared with HD.",
+            "In addition, BE and pH decreased to the same level after both diets.",
+            "These results are in accordance with the results of Greenhaff et al. (1987) , who reported that pH, HCO 3 \u2212 , and BE were higher at rest but decreased to the same or even lower level while the cycling time to exhaustion at 100% of V O 2max was longer after LD compared with HD.",
+            "Our results support the idea that consuming an LD diet produces a more alkaline environment within the body and results in a greater blood buffering capacity.",
+            "This may play an important role in delaying the fatigue during submaximal and maximal exercise intensities particularly in women, who have lower renal functional capacity compared with men.",
+            "Moreover, young men and women had significantly lower pH, HCO 3 \u2212 , and BE compared with both elderly men and women and boys and girls at 2 highest exercise intensities after adjusting for V O 2max .",
+            "This and the positive correlations between GFR and acid-base parameters suggest that the renal functional capacity may affect the level of acidity that is possible to achieve during high-intensity exercise in young and elderly adults.",
+            "The performance or exercise metabolism of adolescents, however, was not different between the diet groups.",
+            "It is important to recognize that not only ergogenic aids but also a habitual diet may have a constant effect on bicarbonate concentrations of the body.",
+            "According to this study, women in particular should pay attention to adequate consumption of vegetables and fruits to maximize their performance during high-intensity exercise."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Young women had higher maximal blood lactate after LD compared with HD. This is in accordance with a hypothesis that increased pre-exercise alkalosis might enhance high-intensity performance by contributing to enhanced glycolytic adenosine triphosphate production (Stephens et al. 2002) . For example, in the study of Hollidge-Horvat et al. (2000) , sodium bicarbonateinduced alkalosis increased muscle glycogen use, lactate accumulation and production, and muscle H + concentration. Similarly, in the study of O\u00f6pik et al. (2003) , subjects had 21% higher maximal blood lactate and completed a 5-km time trial 2.6% faster after a citrate supplementation compared with placebo. Moreover, RER of the young women was at higher level during cycling after LD compared with HD with a significant difference at 35% and 100% of Fig. 5 . Lactate in adolescents (A), young adults (B) and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled. Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). **, P < 0.01, statistically significant difference between LD and HD (mixed models with random identification number, least significant difference pairwise comparison). Values are means \u00b1 SD.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "Young women had higher maximal blood lactate after LD compared with HD.",
+            "This is in accordance with a hypothesis that increased pre-exercise alkalosis might enhance high-intensity performance by contributing to enhanced glycolytic adenosine triphosphate production (Stephens et al. 2002) .",
+            "For example, in the study of Hollidge-Horvat et al. (2000) , sodium bicarbonateinduced alkalosis increased muscle glycogen use, lactate accumulation and production, and muscle H + concentration.",
+            "Similarly, in the study of O\u00f6pik et al. (2003) , subjects had 21% higher maximal blood lactate and completed a 5-km time trial 2.6% faster after a citrate supplementation compared with placebo.",
+            "Moreover, RER of the young women was at higher level during cycling after LD compared with HD with a significant difference at 35% and 100% of Fig. 5 .",
+            "Lactate in adolescents (A), young adults (B) and elderly (C) men and women in the beginning (PRE) and at the end (POST) of the 7-day low dietary acid load (LD) and the 7-day high dietary acid load (HD) after the breakfast (REST) and during exercise where 10 min at 35%, 55%, and 75% of maximal oxygen uptake (V O 2max ) (cycling test (CT) 35, CT55, CT75) were cycled.",
+            "Adolescents and young adults cycled additionally at 100% of V O 2max until exhaustion (CT100). **,",
+            "P < 0.01, statistically significant difference between LD and HD (mixed models with random identification number, least significant difference pairwise comparison).",
+            "Values are means \u00b1 SD."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "V O 2max , indicating that carbohydrate oxidation was increased after low dietary acid load. In contrast, in a study of Caciano et al. (2015) , submaximal and maximal RER were lower after a 7-day low-PRAL diet and there were only trends towards a longer time to exhaustion and greater V O 2max during a graded treadmill exercise test. The blood acid-base parameters were not measured during that study. In our study, the difference in carbohydrate intakes between the diet groups is one of the limitations of this study, and lower carbohydrate intake may have influenced the RER values and exercise capacity during HD. However, we think the difference in the intake of carbohydrates was not large enough to solely explain the difference in time to exhaustion by lower muscle glycogen availability. In the group of young women, the cycling tests performed during the study lasted approximately 33 min. Of that, 20 min were cycled at 35% and 55% of V O 2max , when fat is the most dominant source of energy (Knuiman et al. 2015 ). Subjects were not engaging in high-intensity exercise during the study periods. Moreover, according to the body composition analysis, the weight of body fluids was not reduced over the HD period, which strengthens the postulation that the muscle glycogen stores were not depleted prior the cycling tests during the HD period.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "V O 2max , indicating that carbohydrate oxidation was increased after low dietary acid load.",
+            "In contrast, in a study of Caciano et al. (2015) , submaximal and maximal RER were lower after a 7-day low-PRAL diet and there were only trends towards a longer time to exhaustion and greater V O 2max during a graded treadmill exercise test.",
+            "The blood acid-base parameters were not measured during that study.",
+            "In our study, the difference in carbohydrate intakes between the diet groups is one of the limitations of this study, and lower carbohydrate intake may have influenced the RER values and exercise capacity during HD.",
+            "However, we think the difference in the intake of carbohydrates was not large enough to solely explain the difference in time to exhaustion by lower muscle glycogen availability.",
+            "In the group of young women, the cycling tests performed during the study lasted approximately 33 min.",
+            "Of that, 20 min were cycled at 35% and 55% of V O 2max , when fat is the most dominant source of energy (Knuiman et al. 2015 ).",
+            "Subjects were not engaging in high-intensity exercise during the study periods.",
+            "Moreover, according to the body composition analysis, the weight of body fluids was not reduced over the HD period, which strengthens the postulation that the muscle glycogen stores were not depleted prior the cycling tests during the HD period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "To conclude, a diet deficient in vegetables and fruits and rich in meat and grains leads to a high dietary acid load and may induce a more acidic blood acid-base status; that is, lower pH, lower bicarbonate, and lower base excess. The effects of dietary acid load are larger in the elderly compared with younger persons and in women compared with men, which is likely explained by the differences in GFR. Maintaining better renal function with aging may be associated with higher availability of bases, which also may diminish exercise-induced acidosis and decrease the need of aging kidneys to excrete acids. Decreased alkalinity of the blood may also impair maximal aerobic performance, such as occurred in the young women in this study. We conclude that the diet composition along with renal functional capacity affects acid-base status of the body at rest and in exercise. The significance of the dietary acid load as a part of a healthy diet needs to be studied further.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "To conclude, a diet deficient in vegetables and fruits and rich in meat and grains leads to a high dietary acid load and may induce a more acidic blood acid-base status; that is, lower pH, lower bicarbonate, and lower base excess.",
+            "The effects of dietary acid load are larger in the elderly compared with younger persons and in women compared with men, which is likely explained by the differences in GFR.",
+            "Maintaining better renal function with aging may be associated with higher availability of bases, which also may diminish exercise-induced acidosis and decrease the need of aging kidneys to excrete acids.",
+            "Decreased alkalinity of the blood may also impair maximal aerobic performance, such as occurred in the young women in this study.",
+            "We conclude that the diet composition along with renal functional capacity affects acid-base status of the body at rest and in exercise.",
+            "The significance of the dietary acid load as a part of a healthy diet needs to be studied further."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Hannu Pitk\u00e4nen has a commercial association with Honkatarhat Ltd., Kyr\u00f6ntarhat Ltd., and Mykora Ltd. He accepts full respon-sibility for the implementation of this study. Other authors declare that they have no conflict of interest.",
+        "section": "Conflict of interest statement",
+        "section_number": 41,
+        "sentences": [
+            "Hannu Pitk\u00e4nen has a commercial association with Honkatarhat Ltd., Kyr\u00f6ntarhat Ltd., and Mykora Ltd. He accepts full respon-sibility for the implementation of this study.",
+            "Other authors declare that they have no conflict of interest."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Published by NRC Research PressAppl. Physiol. Nutr. Metab. Downloaded from www.nrcresearchpress.com by University of Alberta on 02/28/20 For personal use only.",
+        "section": "",
+        "section_number": 42,
+        "sentences": [
+            "Published by NRC Research PressAppl.",
+            "Physiol.",
+            "Nutr.",
+            "Metab.",
+            "Downloaded from www.nrcresearchpress.com by University of Alberta on 02/28/20 For personal use only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44067",
+        "text": "Appl. Physiol. Nutr. Metab. Vol. 42, 2017 Published by NRC Research Press Appl. Physiol. Nutr. Metab. Downloaded from www.nrcresearchpress.com by University of Alberta on 02/28/20 For personal use only.",
+        "section": "",
+        "section_number": 43,
+        "sentences": [
+            "Appl.",
+            "Physiol.",
+            "Nutr.",
+            "Metab.",
+            "Vol.",
+            "42, 2017 Published by NRC Research Press Appl.",
+            "Physiol.",
+            "Nutr.",
+            "Metab.",
+            "Downloaded from www.nrcresearchpress.com by University of Alberta on 02/28/20 For personal use only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "doc_id": "39230",
+        "text": "Venous cannulation is the most common procedure in emergency departments. The aim of this study was to compare the effectiveness of vapocoolant spray and EMLA cream in reduction of pain during venous cannulation in 6-12 years old children. Methods: The study was a randomized clinical trial with a crossover design. It took place between June and December 2015 at Ali-Asghar hospital in Tehran, Iran. 40 Thalassemic children who need regular blood transfusions were randomly assigned in two groups. The pain of intravenous cannulation was measured using a visual analogue scale for pain (VAS-P). With the crossover design each patient received vapocoolant spray and EMLA cream in the next two visits. The patients were allocated into two groups (A and B). The patients in Group (A) received Vapocoolant spray in the first visit and EMLA cream in the second visit before intravenous cannulation. The patients in Group (B) group were exposed to the opposite order. Results: The pain after Vapocoolant spray was 3.22 \u00b1 1.18 which was significantly lower than control (7.12 \u00b1 1.36) and higher than EMLA cream (0.77 \u00b1 1.09), p N 0.001. The anxiety before cannulation had a significant effects on the reported pain by children. The ANCOVA showed that despite the effects of anxiety the results did not change significantly. Conclusion: The results indicated that vapocoolant spray was not as effective as EMLA cream, in the event of an emergency and in patients with allergic reactions to lidocaine and procaine ingredients Vapocoolant is an efficacious alternative.",
+        "section": "Abstract",
+        "sentences": [
+            "Venous cannulation is the most common procedure in emergency departments.",
+            "The aim of this study was to compare the effectiveness of vapocoolant spray and EMLA cream in reduction of pain during venous cannulation in 6-12 years old children.",
+            "Methods: The study was a randomized clinical trial with a crossover design.",
+            "It took place between June and December 2015 at Ali-Asghar hospital in Tehran, Iran.",
+            "40 Thalassemic children who need regular blood transfusions were randomly assigned in two groups.",
+            "The pain of intravenous cannulation was measured using a visual analogue scale for pain (VAS-P).",
+            "With the crossover design each patient received vapocoolant spray and EMLA cream in the next two visits.",
+            "The patients were allocated into two groups (A and B).",
+            "The patients in Group (A) received Vapocoolant spray in the first visit and EMLA cream in the second visit before intravenous cannulation.",
+            "The patients in Group (B) group were exposed to the opposite order.",
+            "Results: The pain after Vapocoolant spray was 3.22 \u00b1 1.18 which was significantly lower than control (7.12 \u00b1 1.36) and higher than EMLA cream (0.77 \u00b1 1.09), p N 0.001.",
+            "The anxiety before cannulation had a significant effects on the reported pain by children.",
+            "The ANCOVA showed that despite the effects of anxiety the results did not change significantly.",
+            "Conclusion: The results indicated that vapocoolant spray was not as effective as EMLA cream, in the event of an emergency and in patients with allergic reactions to lidocaine and procaine ingredients Vapocoolant is an efficacious alternative."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Intravenous cannulation is an invasive procedure wherein a catheter is inserted into the lumen of a peripheral blood vein through the patient's skin. It is the most frequently performed and second-most painful procedure used in hospitals [1] . This procedure is frequently used in emergency departments, and almost all patients have a peripheral venous cannula [2] . Children who are admitted to the emergency department often have a venous cannula as well.",
+        "section": "Background",
+        "section_number": 1,
+        "sentences": [
+            "Intravenous cannulation is an invasive procedure wherein a catheter is inserted into the lumen of a peripheral blood vein through the patient's skin.",
+            "It is the most frequently performed and second-most painful procedure used in hospitals [1] .",
+            "This procedure is frequently used in emergency departments, and almost all patients have a peripheral venous cannula [2] .",
+            "Children who are admitted to the emergency department often have a venous cannula as well."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Intravenous cannulation is an extremely painful procedure, which has been rated between high and very high in severity by children [3] . The pain and discomfort also causes anxiety and stress for the children who can, as a result of the experience suffer future complications such as depression and psycho-social problems [4, 5] . In addition, the quality of pain management can impact on the whole hospital admission experience and future cooperation of children who require such treatment regularly. It is thus essential, especially in children with several hospital admissions, to explore the most efficacious form of pain management [6, 7] .",
+        "section": "Background",
+        "section_number": 2,
+        "sentences": [
+            "Intravenous cannulation is an extremely painful procedure, which has been rated between high and very high in severity by children [3] .",
+            "The pain and discomfort also causes anxiety and stress for the children who can, as a result of the experience suffer future complications such as depression and psycho-social problems [4, 5] .",
+            "In addition, the quality of pain management can impact on the whole hospital admission experience and future cooperation of children who require such treatment regularly.",
+            "It is thus essential, especially in children with several hospital admissions, to explore the most efficacious form of pain management [6, 7] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "To reduce pain and anxiety several methods of pain relief have been examined, but not all of them are suitable for real practice. Injection of local anesthesia, that is, buffered lidocaine, before intravenous cannulation was one of the first methods of pain reduction that was explored [8] . Increases in risk of needle stick injuries and the pain of anesthetic injections were the main reasons for seeking new ways to relieve the pain. Topical anesthetics have been reported to increase procedural success rates, likely due to reduced movement leading to improved accuracy [9] . Eutectic mixtures of local anesthetics (EMLA) have also been used as an alternative tool of pain reduction. The results of these studies showed that EMLA is an effective measure of pain reduction during intravenous cannulation [10] .",
+        "section": "Background",
+        "section_number": 3,
+        "sentences": [
+            "To reduce pain and anxiety several methods of pain relief have been examined, but not all of them are suitable for real practice.",
+            "Injection of local anesthesia, that is, buffered lidocaine, before intravenous cannulation was one of the first methods of pain reduction that was explored [8] .",
+            "Increases in risk of needle stick injuries and the pain of anesthetic injections were the main reasons for seeking new ways to relieve the pain.",
+            "Topical anesthetics have been reported to increase procedural success rates, likely due to reduced movement leading to improved accuracy [9] .",
+            "Eutectic mixtures of local anesthetics (EMLA) have also been used as an alternative tool of pain reduction.",
+            "The results of these studies showed that EMLA is an effective measure of pain reduction during intravenous cannulation [10] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "EMLA cream is an oil and water emulsion of lignocaine and procaine.",
+        "section": "Background",
+        "section_number": 4,
+        "sentences": [
+            "EMLA cream is an oil and water emulsion of lignocaine and procaine."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "than its individual components [11] . The effect of EMLA cream on pain reduction of intravenous cannulation has made it a comparative criterion in several studies. Nitrous oxide [12] , other anesthetics, such as Amethocaine [13, 14] and distraction [15] are other methods, which have been examined in relation to EMLA cream. Despite all the benefits, EMLA cream has some disadvantages that have led to a reduction in its usage. More specifically, it can lead to incidents of allergic dermatitis [16] , and additionally, it is costly and needs considerable time to take effect, which detracts from its feasibility as a method of pain reduction [17] , particularly in emergency situations. A practicable method of pain reduction should be low-cost and should take effect rapidly. Most of the tested methods are expensive or very time consuming, requiring specialized training for nursing staff and thus they are not suitable for emergencies.",
+        "section": "Background",
+        "section_number": 5,
+        "sentences": [
+            "than its individual components [11] .",
+            "The effect of EMLA cream on pain reduction of intravenous cannulation has made it a comparative criterion in several studies.",
+            "Nitrous oxide [12] , other anesthetics, such as Amethocaine [13, 14] and distraction [15] are other methods, which have been examined in relation to EMLA cream.",
+            "Despite all the benefits, EMLA cream has some disadvantages that have led to a reduction in its usage.",
+            "More specifically, it can lead to incidents of allergic dermatitis [16] , and additionally, it is costly and needs considerable time to take effect, which detracts from its feasibility as a method of pain reduction [17] , particularly in emergency situations.",
+            "A practicable method of pain reduction should be low-cost and should take effect rapidly.",
+            "Most of the tested methods are expensive or very time consuming, requiring specialized training for nursing staff and thus they are not suitable for emergencies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Vapocoolant sprays are topical anesthetics with a rapid effect. They produce immediate skin anesthesia by rapid evaporation of the volatile liquid (i.e. ethyl chloride, fluoro-hydrocarbon) from the skin surface. Evaporation causes a drop in temperature of skin and results in temporary and swift interruption of pain sensation. Vapocoolants act through desensitization of pain receptors and/or activation of ion channels involved in pain transmission [18] .",
+        "section": "Background",
+        "section_number": 6,
+        "sentences": [
+            "Vapocoolant sprays are topical anesthetics with a rapid effect.",
+            "They produce immediate skin anesthesia by rapid evaporation of the volatile liquid (i.e. ethyl chloride, fluoro-hydrocarbon) from the skin surface.",
+            "Evaporation causes a drop in temperature of skin and results in temporary and swift interruption of pain sensation.",
+            "Vapocoolants act through desensitization of pain receptors and/or activation of ion channels involved in pain transmission [18] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "These sprays thus have advantages in comparison to other methods. They more cost effective and they have a faster onset rather than topical analgesics like EMLA. As they do not require an injection in order to apply they eliminate the pain associated with injections and completely circumvent the possible needle stick-related risks of injective analgesics. Furthermore, they are easily and quickly applied and are thus more advantageous than time-consuming methods like distraction or EMLA application [19, 20] . However, the feasibility and effectiveness of these sprays are quite controversial. Farion, Splinter [21] study showed satisfactory results in reduction of pain and anxiety in intravenous cannulation in children. The results of another study on venipuncture hemodialysis patients also showed the same results [22] . Similarly, Mace [20] found comparable results in adults. However, some studies have demonstrated opposing findings indicating that Vapocoolant spray has failed to relieve the pain of intravenous cannulation in children [23, 24] .",
+        "section": "Background",
+        "section_number": 7,
+        "sentences": [
+            "These sprays thus have advantages in comparison to other methods.",
+            "They more cost effective and they have a faster onset rather than topical analgesics like EMLA.",
+            "As they do not require an injection in order to apply they eliminate the pain associated with injections and completely circumvent the possible needle stick-related risks of injective analgesics.",
+            "Furthermore, they are easily and quickly applied and are thus more advantageous than time-consuming methods like distraction or EMLA application [19, 20] .",
+            "However, the feasibility and effectiveness of these sprays are quite controversial.",
+            "Farion, Splinter [21] study showed satisfactory results in reduction of pain and anxiety in intravenous cannulation in children.",
+            "The results of another study on venipuncture hemodialysis patients also showed the same results [22] .",
+            "Similarly, Mace [20] found comparable results in adults.",
+            "However, some studies have demonstrated opposing findings indicating that Vapocoolant spray has failed to relieve the pain of intravenous cannulation in children [23, 24] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "However most of the trials on the effectiveness of vapocoolant sprays have not utilized a crossover design which allows the comparison of several methods in one group. The crossover design helps to control the effect of factors that affect reported pain. Consequently, the aim of current study was to compare the effect of Vapocoolant spray and EMLA cream in reduction of pain due to intravenous cannulation in children utilizing a crossover design.",
+        "section": "Background",
+        "section_number": 8,
+        "sentences": [
+            "However most of the trials on the effectiveness of vapocoolant sprays have not utilized a crossover design which allows the comparison of several methods in one group.",
+            "The crossover design helps to control the effect of factors that affect reported pain.",
+            "Consequently, the aim of current study was to compare the effect of Vapocoolant spray and EMLA cream in reduction of pain due to intravenous cannulation in children utilizing a crossover design."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "This was a randomized clinical trial with crossover design, to compare the effect of Vapocoolant spray and EMLA cream in reduction of pain of intravenous cannulation in children. The study setting was the blood clinic of the Ali-Asghar Hospital, Tehran, Iran. The study was conducted between June 2015 and December 2015 ( Fig. 1 ).",
+        "section": "Study design and setting",
+        "section_number": 9,
+        "sentences": [
+            "This was a randomized clinical trial with crossover design, to compare the effect of Vapocoolant spray and EMLA cream in reduction of pain of intravenous cannulation in children.",
+            "The study setting was the blood clinic of the Ali-Asghar Hospital, Tehran, Iran.",
+            "The study was conducted between June 2015 and December 2015 ( Fig. 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The minimum sample size was determined using the equation for Children (ages 6-12 years) with thalassemia, who were required to undergo venous cannulation for blood transfusions were enrolled in the study. Study inclusion criteria were as follows: 6-12 years old children with major thalassemia, from both genders, registered in thalassemia center; who were fully conscious during the procedures and who were fluent in Persian in order to be able communicate appropriately about their pain experience. In addition it was required that they were not using analgesics and any anti-anxiety agents during the procedure. Further, exclusion criteria were any acute side effects related to the interventions. In line with ethical procedures, participants were advised of their right to withdraw their participation, unfollowing the study protocol and losing one measurement.",
+        "section": "Study population",
+        "section_number": 10,
+        "sentences": [
+            "The minimum sample size was determined using the equation for Children (ages 6-12 years) with thalassemia, who were required to undergo venous cannulation for blood transfusions were enrolled in the study.",
+            "Study inclusion criteria were as follows: 6-12 years old children with major thalassemia, from both genders, registered in thalassemia center; who were fully conscious during the procedures and who were fluent in Persian in order to be able communicate appropriately about their pain experience.",
+            "In addition it was required that they were not using analgesics and any anti-anxiety agents during the procedure.",
+            "Further, exclusion criteria were any acute side effects related to the interventions.",
+            "In line with ethical procedures, participants were advised of their right to withdraw their participation, unfollowing the study protocol and losing one measurement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "comparing two means, n \u00bc 2\u00f0z \u00f01\u2212\u03b1=2\u00de \u00fez 1\u2212\u03b2 \u00de 2 \u03c3 2 d 2 \u00bc N 2\u00f01:96\u00fe1:",
+        "section": "Study population",
+        "section_number": 11,
+        "sentences": [
+            "comparing two means, n \u00bc 2\u00f0z \u00f01\u2212\u03b1=2\u00de \u00fez 1\u2212\u03b2 \u00de 2 \u03c3 2 d 2 \u00bc N 2\u00f01:96\u00fe1:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The convenience sampling method was used and participants were randomly assigned to one of the two groups, with a blocking design. In this regard the corresponding authors and the statistician were not present in patient enrollment and the first author was not involved in data analysis.",
+        "section": "Study population",
+        "section_number": 12,
+        "sentences": [
+            "The convenience sampling method was used and participants were randomly assigned to one of the two groups, with a blocking design.",
+            "In this regard the corresponding authors and the statistician were not present in patient enrollment and the first author was not involved in data analysis."
+        ],
+        "sentence_labels": [
+            1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "39230",
+        "text": "At the first visit for a blood transfusion, the aim of the study, the study's drugs, and the procedures and how to use the visual analogue scale (VAS) were explained to the children and their legal guardian and informed consent was obtained. The main researcher collected the demographic data. Based on a routine care plan the primary nurse of each patient did the venous cannulation. The first author asked the severity of pain after cannulation with VASP. Participants were randomly allocated in two groups (A and B) Random allocation was done by permutated blocks of four. After two weeks of wash out, in the second visit: in Group A EMLA cream was used and in Group B vapocoolant spray was used before venous cannulation. An EMLA dose of 0.5 mL (~0.5 g) in cream was applied in a thick layer over a prominent vein and occluded for 45 min. The vapocoolant spray was sprayed at a distance of 10 cm for 2 s. Liquid on the skin was allowed to evaporate and the cannulation was performed after disinfection of the skin. In the third phase, after two weeks of wash out, each group received the opposite intervention. The same staff members performed the cannulation for each of the patients in all three phases.",
+        "section": "Data collection and processing",
+        "section_number": 13,
+        "sentences": [
+            "At the first visit for a blood transfusion, the aim of the study, the study's drugs, and the procedures and how to use the visual analogue scale (VAS) were explained to the children and their legal guardian and informed consent was obtained.",
+            "The main researcher collected the demographic data.",
+            "Based on a routine care plan the primary nurse of each patient did the venous cannulation.",
+            "The first author asked the severity of pain after cannulation with VASP.",
+            "Participants were randomly allocated in two groups (A and B) Random allocation was done by permutated blocks of four.",
+            "After two weeks of wash out, in the second visit: in Group A EMLA cream was used and in Group B vapocoolant spray was used before venous cannulation.",
+            "An EMLA dose of 0.5 mL (~0.5 g) in cream was applied in a thick layer over a prominent vein and occluded for 45 min.",
+            "The vapocoolant spray was sprayed at a distance of 10 cm for 2 s. Liquid on the skin was allowed to evaporate and the cannulation was performed after disinfection of the skin.",
+            "In the third phase, after two weeks of wash out, each group received the opposite intervention.",
+            "The same staff members performed the cannulation for each of the patients in all three phases."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The data was entered into SPSS Version 16. The pain reported as mean \u00b1 SD. The Shapiro-Wilk test was used to test for normality (p N 0.05(. The hypotheses were tested by ANOVA and Sheffe post-hoc test. The relationships between participant characteristics with reported pain were tested by t-test and Pearson correlation test. An ANCOVA was used to assess covariates that could possibly confounding findings, such as age, anxiety before cannulation and number of years of being exposed to blood transfusion prior to participation in the study.",
+        "section": "Data collection and processing",
+        "section_number": 14,
+        "sentences": [
+            "The data was entered into SPSS Version 16.",
+            "The pain reported as mean \u00b1 SD.",
+            "The Shapiro-Wilk test was used to test for normality (p N 0.05(.",
+            "The hypotheses were tested by ANOVA and Sheffe post-hoc test.",
+            "The relationships between participant characteristics with reported pain were tested by t-test and Pearson correlation test.",
+            "An ANCOVA was used to assess covariates that could possibly confounding findings, such as age, anxiety before cannulation and number of years of being exposed to blood transfusion prior to participation in the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Pain intensity was the main outcome measure. It was measured by using a horizontal VAS ranging from 0 to 100 mm, with higher scores indicating greater pain intensity. The VAS was used to measure the intensity of pain after each venous cannulation. The visual analogue scales for pain have been shown to be valid and reliable tools in assessing pain in children and adolescents who visit emergency departments [25] . The pre-procedure anxiety was measured by a visual analogue scale for anxiety. The Visual Analogue Scale for Anxiety (VAS-A) showed significant relationships with standard anxiety measures and it is therefore considered to be a reliable indicator of anxiety [26] .",
+        "section": "Outcome measures 2.4.1. Pain intensity",
+        "section_number": 15,
+        "sentences": [
+            "Pain intensity was the main outcome measure.",
+            "It was measured by using a horizontal VAS ranging from 0 to 100 mm, with higher scores indicating greater pain intensity.",
+            "The VAS was used to measure the intensity of pain after each venous cannulation.",
+            "The visual analogue scales for pain have been shown to be valid and reliable tools in assessing pain in children and adolescents who visit emergency departments [25] .",
+            "The pre-procedure anxiety was measured by a visual analogue scale for anxiety.",
+            "The Visual Analogue Scale for Anxiety (VAS-A) showed significant relationships with standard anxiety measures and it is therefore considered to be a reliable indicator of anxiety [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The study protocol was approved by the Ethics Committees of the University of Social Welfare and Rehabilitation Sciences (USWR.REC.1393.233). The trial is registered in the Iranian Registry of Clinical Trials (IRCT2015062222815N2). Before participation in the study, written informed consent was obtained from each child and his or her primary guardian.",
+        "section": "Ethical considerations",
+        "section_number": 16,
+        "sentences": [
+            "The study protocol was approved by the Ethics Committees of the University of Social Welfare and Rehabilitation Sciences (USWR.REC.1393.233).",
+            "The trial is registered in the Iranian Registry of Clinical Trials (IRCT2015062222815N2).",
+            "Before participation in the study, written informed consent was obtained from each child and his or her primary guardian."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The mean ages of study participants were 9.10 years with an SD of 2.10 years. The study sample consisted of 24 (60%) girls and 16 (40%) boys. The mean years of exposure to blood transfusions was 5.54 with an SD 2.43. The mean levels of anxiety before cannulation were 7.27 \u00b1 1.26, 7.12 \u00b1 1.22 and 7.47 \u00b1 1.10 respectively in measurements after application of EMLA, vapocoolant spray and a control trial (without any intervention). The differences between these three measurements were not significant.",
+        "section": "Study subjects",
+        "section_number": 17,
+        "sentences": [
+            "The mean ages of study participants were 9.10 years with an SD of 2.10 years.",
+            "The study sample consisted of 24 (60%) girls and 16 (40%) boys.",
+            "The mean years of exposure to blood transfusions was 5.54 with an SD 2.43.",
+            "The mean levels of anxiety before cannulation were 7.27 \u00b1 1.26, 7.12 \u00b1 1.22 and 7.47 \u00b1 1.10 respectively in measurements after application of EMLA, vapocoolant spray and a control trial (without any intervention).",
+            "The differences between these three measurements were not significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The pain of cannulation without any intervention rated was rated as very high by children, whereas the pain reported after application of EMLA was rated as very low. The pain after using vapocoolant spray was rated as moderate. The pain intensities after using EMLA cream, vapocoolant spray and routine care were 0.77 \u00b1 1.09, 3.22 \u00b1 1.18 and 7.12 \u00b1 1.36 respectively. The intensity of pain reported in Table 1 . There were significant differences between the mean of pain reported in three measurements (f = 275.33, p = 0.00). Post-hoc Scheffe tests showed that after using EMLA cream the pain was significantly lower when compared to using vapocoolant spray and the control measurement of no intervention. Post-hoc Scheffe tests also showed that pain after vapocoolant spray was significantly lower than the control measurement. The mean difference between EMLA and vapocoolant was 2.45 and for EMLA and the control measurement, the difference was 6.35. The mean difference of pain after vapocoolant spray when compared to the control measurement was 3.90.",
+        "section": "Pain intensity",
+        "section_number": 18,
+        "sentences": [
+            "The pain of cannulation without any intervention rated was rated as very high by children, whereas the pain reported after application of EMLA was rated as very low.",
+            "The pain after using vapocoolant spray was rated as moderate.",
+            "The pain intensities after using EMLA cream, vapocoolant spray and routine care were 0.77 \u00b1 1.09, 3.22 \u00b1 1.18 and 7.12 \u00b1 1.36 respectively.",
+            "The intensity of pain reported in Table 1 .",
+            "There were significant differences between the mean of pain reported in three measurements (f = 275.33, p = 0.00).",
+            "Post-hoc Scheffe tests showed that after using EMLA cream the pain was significantly lower when compared to using vapocoolant spray and the control measurement of no intervention.",
+            "Post-hoc Scheffe tests also showed that pain after vapocoolant spray was significantly lower than the control measurement.",
+            "The mean difference between EMLA and vapocoolant was 2.45 and for EMLA and the control measurement, the difference was 6.35.",
+            "The mean difference of pain after vapocoolant spray when compared to the control measurement was 3.90."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The results in Table 2 show that the relationships between reported pain with sex, age and anxiety before procedure were significant respectively in EMLA and control groups. A One-way ANCOVA was conducted to determine a statistically significant difference between vapocoolant spray and control measurement on reported pain controlling for anxiety. There was a significant effect of vapocoolant spray and EMLA cream after controlling for the effect of anxiety, F (2, 116) = 401.24, p = 0.001).",
+        "section": "Pain intensity",
+        "section_number": 19,
+        "sentences": [
+            "The results in Table 2 show that the relationships between reported pain with sex, age and anxiety before procedure were significant respectively in EMLA and control groups.",
+            "A One-way ANCOVA was conducted to determine a statistically significant difference between vapocoolant spray and control measurement on reported pain controlling for anxiety.",
+            "There was a significant effect of vapocoolant spray and EMLA cream after controlling for the effect of anxiety, F (2, 116) = 401.24, p = 0.001)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The pain of venous cannulation was significantly lower after using EMLA cream and vapocoolant spray in comparison to the control measurement. All children reported venous cannulation pain as severe without any intervention. The pain of cannulation after desensitizing with EMLA cream was rated very low by children. Children rated the pain of cannulation after using vapocoolant spray as low and moderate. Based on these results, application of EMLA and vapocoolant spray can considerably reduce the pain of venous cannulation. The results also indicated that the level of anxiety of children before procedure can have an effect on reported pain. However, after justifying the rated pain by ANCOVA the differences did not change significantly between three measurements.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "The pain of venous cannulation was significantly lower after using EMLA cream and vapocoolant spray in comparison to the control measurement.",
+            "All children reported venous cannulation pain as severe without any intervention.",
+            "The pain of cannulation after desensitizing with EMLA cream was rated very low by children.",
+            "Children rated the pain of cannulation after using vapocoolant spray as low and moderate.",
+            "Based on these results, application of EMLA and vapocoolant spray can considerably reduce the pain of venous cannulation.",
+            "The results also indicated that the level of anxiety of children before procedure can have an effect on reported pain.",
+            "However, after justifying the rated pain by ANCOVA the differences did not change significantly between three measurements."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The findings of the present study can be evaluated against several other studies in which the effects of vapocoolant spray in comparison with placebo and control measurements on pain of cannulation were assessed.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "The findings of the present study can be evaluated against several other studies in which the effects of vapocoolant spray in comparison with placebo and control measurements on pain of cannulation were assessed."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "In most of the following described studies the pain of cannulation was reported to be high to very high [27, 28] .",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "In most of the following described studies the pain of cannulation was reported to be high to very high [27, 28] ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "For example, in the study by Farion, Splinter [21] they found a modest but significant difference between using vapocoolant spray and placebo. The mean-rated pain in the placebo group was 56.1 \u00b1 31.9, and it was 36.9 \u00b1 27.5 in the intervention group. Furthermore, the age of children was the same as in the current study. While the sample was recruited from an emergency department, which was different the setting of our study, the reported pain after using vapocoolant spray and placebo, were similar to the current study's results. Fanon, Splinter [20] also reported more successful cannulation at first attempt, which indicates feasibility of use. They concluded that vapocoolant spray is a suitable option for an emergency situation, in which there is no time for traditional intervention, that is, for the use of EMLA.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "For example, in the study by Farion, Splinter [21] they found a modest but significant difference between using vapocoolant spray and placebo.",
+            "The mean-rated pain in the placebo group was 56.1 \u00b1 31.9, and it was 36.9 \u00b1 27.5 in the intervention group.",
+            "Furthermore, the age of children was the same as in the current study.",
+            "While the sample was recruited from an emergency department, which was different the setting of our study, the reported pain after using vapocoolant spray and placebo, were similar to the current study's results.",
+            "Fanon, Splinter [20] also reported more successful cannulation at first attempt, which indicates feasibility of use.",
+            "They concluded that vapocoolant spray is a suitable option for an emergency situation, in which there is no time for traditional intervention, that is, for the use of EMLA."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Hijazi, Taylor [29] in a randomized double-blind placebo control trial on 201 adult patient in an emergency department of a metropolitan teaching hospital also found vapocoolant spray to be an effective, acceptable and safe method of pain reduction for venous cannulation. They found a median with regard to pain ratings of 36 and 12 for control and intervention groups respectively (p b 0.001(. First attempt success rate was not significantly different between two groups. While the rated pain for two groups were lower than the present results, this could be attributed to the age of patients indicating that age is a significant factor in the reporting of procedural pain. The results of a randomized, double-blind, placebo-controlled, crossover trial by Fossum, Love [30] on 38 healthcare providers indicated that median pain verbal numeric rating scale scores were 4 (interquartile range, 2-5) for placebo vs 2 (1-4) for ethyl chloride. Once again while the results were lower in their study in compared to the current study these lower levels of reported pain can possibly be attributed to the age of participants.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "Hijazi, Taylor [29] in a randomized double-blind placebo control trial on 201 adult patient in an emergency department of a metropolitan teaching hospital also found vapocoolant spray to be an effective, acceptable and safe method of pain reduction for venous cannulation.",
+            "They found a median with regard to pain ratings of 36 and 12 for control and intervention groups respectively (p b 0.001(.",
+            "First attempt success rate was not significantly different between two groups.",
+            "While the rated pain for two groups were lower than the present results, this could be attributed to the age of patients indicating that age is a significant factor in the reporting of procedural pain.",
+            "The results of a randomized, double-blind, placebo-controlled, crossover trial by Fossum, Love [30] on 38 healthcare providers indicated that median pain verbal numeric rating scale scores were 4 (interquartile range, 2-5) for placebo vs 2 (1-4) for ethyl chloride.",
+            "Once again while the results were lower in their study in compared to the current study these lower levels of reported pain can possibly be attributed to the age of participants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Mace [20] conducted a prospective randomized double-blind clinical trial. They concluded that using vapocoolant spray caused a significant decrease in the pain of venipuncture in adult patients undergoing blood draws [20] .",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "Mace [20] conducted a prospective randomized double-blind clinical trial.",
+            "They concluded that using vapocoolant spray caused a significant decrease in the pain of venipuncture in adult patients undergoing blood draws [20] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "They further noted that vapocoolants are effective within approximately 15 s, but the anesthesia is brief, and the procedure should therefore be completed within 1 or 2 min [31] .",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "They further noted that vapocoolants are effective within approximately 15 s, but the anesthesia is brief, and the procedure should therefore be completed within 1 or 2 min [31] ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "However, as mentioned some studies have failed to find that vapocoolant is efficacious in pain relief when used for intravenous cannulation. Hogan, Smart [24] systematically reviewed the literature on the topic of the pain-relieving effectiveness of vapocoolants in children and adults. Their results showed that the pain reduction in children receiving vapocoolants vs. placebo or no treatment has a mean difference of \u221210 mm; 95% confidence interval [CI] \u221226 to 6 which was not significant. The pain reduction in adults when vapocoolants were compared with no treatment were \u2212 10 mm (95% CI \u2212 17 to \u2212 4) which was significant but was not significant when compared with placebo \u2212 12 mm (95% CI \u2212 26 to 2), it was not significant. They concluded that Vapocoolants were ineffective in children and adults when compared to a placebo and were effective in adults only when they were compared with no treatment. In addition, the differences that they did observe for vapocoolant versus no treatment was lower than the current study which may be attributable to the fact that this difference was observed on adults and not on children as in our study.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "However, as mentioned some studies have failed to find that vapocoolant is efficacious in pain relief when used for intravenous cannulation.",
+            "Hogan, Smart [24] systematically reviewed the literature on the topic of the pain-relieving effectiveness of vapocoolants in children and adults.",
+            "Their results showed that the pain reduction in children receiving vapocoolants vs. placebo or no treatment has a mean difference of \u221210 mm; 95% confidence interval [CI] \u221226 to 6 which was not significant.",
+            "The pain reduction in adults when vapocoolants were compared with no treatment were \u2212 10 mm (95% CI \u2212 17 to \u2212 4) which was significant but was not significant when compared with placebo \u2212 12 mm (95% CI \u2212 26 to 2), it was not significant.",
+            "They concluded that Vapocoolants were ineffective in children and adults when compared to a placebo and were effective in adults only when they were compared with no treatment.",
+            "In addition, the differences that they did observe for vapocoolant versus no treatment was lower than the current study which may be attributable to the fact that this difference was observed on adults and not on children as in our study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Furthermore, their equivocal findings may be attributable to the fact that they analyzed the results of studies with venipuncture and venous cannulation together. As these two procedures have different level of pains this may have confounded findings. In addition, they used the results of wide range of studies with different types of vapocoolants, whereas the older studies had significant effects were observed when a single type of vapocoolant was used. Finally, there systematic revive consisted of evaluating studies that compared a vast array of different methods in different patients while in present study vapocoolant spray compared with EMLA and no treatment in the same group of children across three conditions.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Furthermore, their equivocal findings may be attributable to the fact that they analyzed the results of studies with venipuncture and venous cannulation together.",
+            "As these two procedures have different level of pains this may have confounded findings.",
+            "In addition, they used the results of wide range of studies with different types of vapocoolants, whereas the older studies had significant effects were observed when a single type of vapocoolant was used.",
+            "Finally, there systematic revive consisted of evaluating studies that compared a vast array of different methods in different patients while in present study vapocoolant spray compared with EMLA and no treatment in the same group of children across three conditions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "Similarly equivocal findings as compared to the present study were found in the results of a randomized clinical trial by Costello, Ramundo [23] which showed that vapocoolant spray failed to significantly reduce the pain of cannulation in comparison with placebo and control measurements. Within this study [23] a mean of 34 mm for pain was reported after using vapocoolant spray, which was the same as our result but their control measurement rated pain as 31 mm, which was lower than our results and also lower than their intervention. These differing findings may also be attributable to the age of the sample, that is, the sample was selected from children between the ages of 9 to 18 years which was higher than the ages represented within the current study. Moreover, these differing results may be caused by an under-rating of pain, which was reported in control measurement.",
+        "section": "Discussion",
+        "section_number": 29,
+        "sentences": [
+            "Similarly equivocal findings as compared to the present study were found in the results of a randomized clinical trial by Costello, Ramundo [23] which showed that vapocoolant spray failed to significantly reduce the pain of cannulation in comparison with placebo and control measurements.",
+            "Within this study [23] a mean of 34 mm for pain was reported after using vapocoolant spray, which was the same as our result but their control measurement rated pain as 31 mm, which was lower than our results and also lower than their intervention.",
+            "These differing findings may also be attributable to the age of the sample, that is, the sample was selected from children between the ages of 9 to 18 years which was higher than the ages represented within the current study.",
+            "Moreover, these differing results may be caused by an under-rating of pain, which was reported in control measurement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "To concludein comparing the present study's findings to that within the literature while there are some inconsistencies, the mean of reported pain after using vapocoolant spray, EMLA cream and placebo/ control in most other studies were very similar to those reported in the present study. Therefore, the result of our study can be used in several settings including emergency departments where the speed of events is very high. The patients, especially children, may need to have an accessible vein urgently and thus time consuming methods like EMLA cream are not applicable in most cases in such settings.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "To concludein comparing the present study's findings to that within the literature while there are some inconsistencies, the mean of reported pain after using vapocoolant spray, EMLA cream and placebo/ control in most other studies were very similar to those reported in the present study.",
+            "Therefore, the result of our study can be used in several settings including emergency departments where the speed of events is very high.",
+            "The patients, especially children, may need to have an accessible vein urgently and thus time consuming methods like EMLA cream are not applicable in most cases in such settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "It is also important to note that the present study represents an advance on previous research in that it subjects the same children to three different conditions before venous cannulation and it also utilised children who were younger in age than some of the children studied in other research. The study is thus more rigorous in its inclusion of three conditions and adds to theory in that it compares these three conditions across children in a younger age group.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "It is also important to note that the present study represents an advance on previous research in that it subjects the same children to three different conditions before venous cannulation and it also utilised children who were younger in age than some of the children studied in other research.",
+            "The study is thus more rigorous in its inclusion of three conditions and adds to theory in that it compares these three conditions across children in a younger age group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The main limitation of current study was the low sample size which may cause lower generalizability of the results. The crossover design was the main reason of this low sample size. We enrolled 89 children to reach the minimum sample size of 40. With this sample size we can claim that vapocoolant spray has significant effect which could reduce the pain over 23.4 mm.",
+        "section": "Limitations",
+        "section_number": 32,
+        "sentences": [
+            "The main limitation of current study was the low sample size which may cause lower generalizability of the results.",
+            "The crossover design was the main reason of this low sample size.",
+            "We enrolled 89 children to reach the minimum sample size of 40.",
+            "With this sample size we can claim that vapocoolant spray has significant effect which could reduce the pain over 23.4 mm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "The second main limitation of this study was lack of blindness. Because of the nature of intervention the blinding was not possible. Using placebo for two intervention was not promising. The placebo for vapocoolant spray can be used for next studies with crossover design without EMLA cream.",
+        "section": "Limitations",
+        "section_number": 33,
+        "sentences": [
+            "The second main limitation of this study was lack of blindness.",
+            "Because of the nature of intervention the blinding was not possible.",
+            "Using placebo for two intervention was not promising.",
+            "The placebo for vapocoolant spray can be used for next studies with crossover design without EMLA cream."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39230",
+        "text": "To conclude, the results of our study indicate that within several settings including emergency departments where the speed of events is very high, the use of vapocoolants is appropriate. In instances where patients, especially children, may need to have an accessible vein urgently, time consuming methods like EMLA cream are less appropriate. Although EMLA reduces pain to a greater extent than vapocoolants or no intervention, the time taken for EMLA to take effect, the means by which it is administered requiring the use of a needle injection (the latter associated with more pain for children and the risk of needle stick injuries); may provide an argument for the use of vapocoolants especially in emergency situations. The present study by examining the same patients across three different conditions, where in all conditions the procedure was intravenous cannulation, contributes to our understanding of which method leads to the greatest pain reduction and in which situations which method would be more or less appropriate. It also extends the generalisability of findings in previous research by including children that are younger than 12 years of age. t = \u22120.64, df = 39, p = 0.52 t = \u22120.98, df = 38, p = 0.33 t = 1.96, df = 38, p = 0.057 Age r = 0.41, p = 0.00 r = 0.05, p = 0.7 r = \u22120.27, p = 0.08 Years of blood transfusion r = 0.28, p = 0.07 r = \u22120.08, p = 0.60 r = \u22120.06, p = 0.68 Anxiety before cannulation r = 0.17, p = 0.27 r = \u22120.03, p = 0.81 r = 0.48, p = 0.001",
+        "section": "Conclusion",
+        "section_number": 34,
+        "sentences": [
+            "To conclude, the results of our study indicate that within several settings including emergency departments where the speed of events is very high, the use of vapocoolants is appropriate.",
+            "In instances where patients, especially children, may need to have an accessible vein urgently, time consuming methods like EMLA cream are less appropriate.",
+            "Although EMLA reduces pain to a greater extent than vapocoolants or no intervention, the time taken for EMLA to take effect, the means by which it is administered requiring the use of a needle injection (the latter associated with more pain for children and the risk of needle stick injuries); may provide an argument for the use of vapocoolants especially in emergency situations.",
+            "The present study by examining the same patients across three different conditions, where in all conditions the procedure was intravenous cannulation, contributes to our understanding of which method leads to the greatest pain reduction and in which situations which method would be more or less appropriate.",
+            "It also extends the generalisability of findings in previous research by including children that are younger than 12 years of age.",
+            "t = \u22120.64, df = 39, p = 0.52 t = \u22120.98, df = 38, p = 0.33 t = 1.96, df = 38, p = 0.057 Age r = 0.41, p = 0.00 r = 0.05, p = 0.7 r = \u22120.27, p = 0.08 Years of blood transfusion r = 0.28, p = 0.07 r = \u22120.08, p = 0.60 r = \u22120.06, p = 0.68 Anxiety before cannulation r = 0.17, p = 0.27 r = \u22120.03, p = 0.81 r = 0.48, p = 0.001"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

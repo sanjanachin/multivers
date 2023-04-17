@@ -1,0 +1,979 @@
+[
+    {
+        "doc_id": "39192",
+        "text": "Children without formal education in addition and subtraction are able to perform multi-step operations over an approximate number of objects. Further, their performance improves when solving approximate (but not exact) addition and subtraction problems that allow for inversion as a shortcut (e.g., a + b \u2212 b = a). The current study examines children's ability to perform multi-step operations, and the potential for an inversion benefit, for the operations of approximate, non-symbolic multiplication and division. Children were trained to compute a multiplication and division scaling factor (*2 or /2, *4 or /4), and were then tested on problems that combined two of these factors in a way that either allowed for an inversion shortcut (e.g., 8*4/4) or did not (e.g., 8*4/2). Children's performance was significantly better than chance for all scaling factors during training, and they successfully computed the outcomes of the multi-step testing problems. They did not exhibit a performance benefit for problems with the a*b/b structure, suggesting that they did not draw upon inversion reasoning as a logical shortcut to help them solve the multi-step test problems.",
+        "section": "Abstract",
+        "sentences": [
+            "Children without formal education in addition and subtraction are able to perform multi-step operations over an approximate number of objects.",
+            "Further, their performance improves when solving approximate (but not exact) addition and subtraction problems that allow for inversion as a shortcut (e.g., a + b \u2212 b = a).",
+            "The current study examines children's ability to perform multi-step operations, and the potential for an inversion benefit, for the operations of approximate, non-symbolic multiplication and division.",
+            "Children were trained to compute a multiplication and division scaling factor (*2 or /2, *4 or /4), and were then tested on problems that combined two of these factors in a way that either allowed for an inversion shortcut (e.g., 8*4/4) or did not (e.g., 8*4/2).",
+            "Children's performance was significantly better than chance for all scaling factors during training, and they successfully computed the outcomes of the multi-step testing problems.",
+            "They did not exhibit a performance benefit for problems with the a*b/b structure, suggesting that they did not draw upon inversion reasoning as a logical shortcut to help them solve the multi-step test problems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "even before the onset of formal schooling (Barth et al., 2006; Barth et al., 2005; Knops, Zitzmann, & McCrink, 2013; McCrink & Wynn, 2004 , 2007 Xenidou-Dervou, Lieshout, & Schoot, 2014) . For example, infants as young as nine months of age look longer to an incorrect outcome of a large-number addition or subtraction problem, such as when the sum of 5 objects and 5 objects is presented as 5 objects (McCrink & Wynn, 2004 . Preschoolers in Barth et al. (2006; Barth et al., 2005) were able to add two arrays of objects and compare the magnitude of this estimated outcome to another amount; the success of this comparison process was predicated on the ratio of the two outcomes. The children in Barth, Beckmann, and Spelke (2008) could also add an auditory set to a visual one with the same fidelity as adding two visual sets, indicating the presence of an approximate magnitude that was held in memory and updated as the operation progressed.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "even before the onset of formal schooling (Barth et al., 2006; Barth et al., 2005; Knops, Zitzmann, & McCrink, 2013; McCrink & Wynn, 2004 , 2007 Xenidou-Dervou, Lieshout, & Schoot, 2014) .",
+            "For example, infants as young as nine months of age look longer to an incorrect outcome of a large-number addition or subtraction problem, such as when the sum of 5 objects and 5 objects is presented as 5 objects (McCrink & Wynn, 2004 .",
+            "Preschoolers in Barth et al. (2006; Barth et al., 2005) were able to add two arrays of objects and compare the magnitude of this estimated outcome to another amount; the success of this comparison process was predicated on the ratio of the two outcomes.",
+            "The children in Barth, Beckmann, and Spelke (2008) could also add an auditory set to a visual one with the same fidelity as adding two visual sets, indicating the presence of an approximate magnitude that was held in memory and updated as the operation progressed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Children can also perform multi-step arithmetic over mentally represented quantities, in which multiple operations are strung together before a final outcome is computed. The storage and updating required for these complex operations may place a substantial load on working memory, and perhaps as a result, corresponding developmental changes are seen in the ability to perform multi-step operations. Infants-whose working memory is immature (Kibbe & Leslie, 2013; Moher & Feigenson, 2013; Rosenberg & Feigenson, 2013 )-can perform one operation over a set but not two (Baillargeon, 1994; Moher, Tuerk, & Feigenson, 2012; Piantadosi, Palmeri, & Aslin, 2015) , and their adding and subtracting is readily interrupted by in-scene variables such as seeing other objects that are tangential to the operation (Cheries, Wynn, & Scholl, 2006; Uller, Carey, Huntley-Fenner, & Klatt, 1999) . At the age of five, without formal training in mathematics, children can perform multi-step mental approximate addition and subtraction successfully (Gilmore & Spelke, 2008) . A recent study (Xenidou-Dervou et al., 2014) experimentally manipulated the level and type of working memory load during non-symbolic addition in young children, and found that tasks that loaded upon the central executive had the greatest negative impact on performance, highlighting its key role in maintaining and updating numerical information.",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "Children can also perform multi-step arithmetic over mentally represented quantities, in which multiple operations are strung together before a final outcome is computed.",
+            "The storage and updating required for these complex operations may place a substantial load on working memory, and perhaps as a result, corresponding developmental changes are seen in the ability to perform multi-step operations.",
+            "Infants-whose working memory is immature (Kibbe & Leslie, 2013; Moher & Feigenson, 2013; Rosenberg & Feigenson, 2013 )-can perform one operation over a set but not two (Baillargeon, 1994; Moher, Tuerk, & Feigenson, 2012; Piantadosi, Palmeri, & Aslin, 2015) , and their adding and subtracting is readily interrupted by in-scene variables such as seeing other objects that are tangential to the operation (Cheries, Wynn, & Scholl, 2006; Uller, Carey, Huntley-Fenner, & Klatt, 1999) .",
+            "At the age of five, without formal training in mathematics, children can perform multi-step mental approximate addition and subtraction successfully (Gilmore & Spelke, 2008) .",
+            "A recent study (Xenidou-Dervou et al., 2014) experimentally manipulated the level and type of working memory load during non-symbolic addition in young children, and found that tasks that loaded upon the central executive had the greatest negative impact on performance, highlighting its key role in maintaining and updating numerical information."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The ability to perform scaling operations such as multiplication and division over non-symbolic representations of large numbers of discrete objects has recently been documented as well (Barth, Baron, Spelke, & Carey, 2009; McCrink & Spelke, 2010 , 2015 . These studies utilize a serial estimate-thenoperate paradigm similar to those in Barth et al. (2006; Barth et al., 2005) and Knops et al. (2013) : Children are presented with one initial array of objects that is scaled up (multiplication) or down (division) in number of items via a \"magical\" event. For example, in a non-symbolic halving paradigm, a child would view an initial array of 20 dots transformed to 10, then 32 dots to 16, then 8 dots to 4. To test whether the child had successfully extracted this relationship from the presented examples, a new array would be presented, and the child would have to estimate the number of objects present (though unseen) following the new array's transformation. In some of these paradigms (e.g., McCrink & Spelke, 2010) the magical event is a joining or breaking of the initial array, in which each object breaks into distinct objects (e.g., one object breaks into 4 objects for a quartering operation); in this way they harness a many-to-one correspondence schema found to be helpful in learning symbolic multiplication and division (Nunes et al., 2009; Nunes et al., 2007; Park & Nunes, 2001) . Children with no formal schooling in multiplication and division are able to double, halve, quadruple, quarter, and even multiply by an uneven factor of 2.5 (Barth et al., 2009; McCrink & Spelke, 2010 , 2015 .",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "The ability to perform scaling operations such as multiplication and division over non-symbolic representations of large numbers of discrete objects has recently been documented as well (Barth, Baron, Spelke, & Carey, 2009; McCrink & Spelke, 2010 , 2015 .",
+            "These studies utilize a serial estimate-thenoperate paradigm similar to those in Barth et al. (2006; Barth et al., 2005) and Knops et al. (2013) : Children are presented with one initial array of objects that is scaled up (multiplication) or down (division) in number of items via a \"magical\" event.",
+            "For example, in a non-symbolic halving paradigm, a child would view an initial array of 20 dots transformed to 10, then 32 dots to 16, then 8 dots to 4.",
+            "To test whether the child had successfully extracted this relationship from the presented examples, a new array would be presented, and the child would have to estimate the number of objects present (though unseen) following the new array's transformation.",
+            "In some of these paradigms (e.g., McCrink & Spelke, 2010) the magical event is a joining or breaking of the initial array, in which each object breaks into distinct objects (e.g., one object breaks into 4 objects for a quartering operation); in this way they harness a many-to-one correspondence schema found to be helpful in learning symbolic multiplication and division (Nunes et al., 2009; Nunes et al., 2007; Park & Nunes, 2001) .",
+            "Children with no formal schooling in multiplication and division are able to double, halve, quadruple, quarter, and even multiply by an uneven factor of 2.5 (Barth et al., 2009; McCrink & Spelke, 2010 , 2015 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "A step beyond operating over non-symbolic magnitudes is the ability to appreciate the logical relationship between these operations (see Prather & Alibali, 2009 , for a review). Indeed, appreciating mathematical logic is a critical first step of formal mathematical success (Nunes et al., 2007) , and several studies have found that an appreciation of arithmetic logic for approximate, non-symbolic amounts emerges before children understand arithmetic logic in a symbolic context (Gilmore & Spelke, 2008; Kibbe & Feigenson, 2015) . One such case is the understanding of the inverse relationship between arithmetic operations. Work on the understanding of the inverse relationship between addition and subtraction in an explicit, symbolic context with small numbers finds some evidence for rudimentary procedural understanding as early as the preschool years (Klein & Bisanz, 2000; Rasmussen, Ho, & Bisanz, 2003; Sherman & Bisanz, 2007; Vilette, 2002) , with conceptual understanding developing well into middle childhood, probably as a result of formal training in arithmetic (Bisanz & LeFevre, 1990; Bryant, Christie, & Rendu, 1999; Gilmore, 2006; Siegler & Stern, 1998) .",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "A step beyond operating over non-symbolic magnitudes is the ability to appreciate the logical relationship between these operations (see Prather & Alibali, 2009 , for a review).",
+            "Indeed, appreciating mathematical logic is a critical first step of formal mathematical success (Nunes et al., 2007) , and several studies have found that an appreciation of arithmetic logic for approximate, non-symbolic amounts emerges before children understand arithmetic logic in a symbolic context (Gilmore & Spelke, 2008; Kibbe & Feigenson, 2015) .",
+            "One such case is the understanding of the inverse relationship between arithmetic operations.",
+            "Work on the understanding of the inverse relationship between addition and subtraction in an explicit, symbolic context with small numbers finds some evidence for rudimentary procedural understanding as early as the preschool years (Klein & Bisanz, 2000; Rasmussen, Ho, & Bisanz, 2003; Sherman & Bisanz, 2007; Vilette, 2002) , with conceptual understanding developing well into middle childhood, probably as a result of formal training in arithmetic (Bisanz & LeFevre, 1990; Bryant, Christie, & Rendu, 1999; Gilmore, 2006; Siegler & Stern, 1998) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Young children are more likely to use the inversion principle to solve problems when they are presented without the use of symbolic numbers. Six-year-olds successfully benefited from inversion when concrete items such as blocks were added to and subtracted from an array, and when no concrete referents (\"invisible men\") were used (Bryant et al., 1999) . Even very young children are sensitive to the logic of inversion during addition and subtraction when invoking nonsymbolic quantity representations (Gilmore & Spelke, 2008) . Gilmore and Spelke (2008) presented preschoolers with a variety of complex, multi-step arithmetic problems, some of which lent themselves to being easily \"solved\" through inversion shortcuts. For example, a sufficiently sophisticated problem-solver can readily compute the answer to a problem such as 8 + 6 \u2212 6 (a + b \u2212 b) without actually updating the initial operand. In contrast, the problem 8 + 4 \u2212 6 (a + b \u2212 c), requires updating. The authors found that children, operating over approximate quantities, exhibited better performance for the subset of problems in which inversion could be employed as a logical strategy.",
+        "section": "",
+        "section_number": 5,
+        "sentences": [
+            "Young children are more likely to use the inversion principle to solve problems when they are presented without the use of symbolic numbers.",
+            "Six-year-olds successfully benefited from inversion when concrete items such as blocks were added to and subtracted from an array, and when no concrete referents (\"invisible men\") were used (Bryant et al., 1999) .",
+            "Even very young children are sensitive to the logic of inversion during addition and subtraction when invoking nonsymbolic quantity representations (Gilmore & Spelke, 2008) .",
+            "Gilmore and Spelke (2008) presented preschoolers with a variety of complex, multi-step arithmetic problems, some of which lent themselves to being easily \"solved\" through inversion shortcuts.",
+            "For example, a sufficiently sophisticated problem-solver can readily compute the answer to a problem such as 8 + 6 \u2212 6 (a + b \u2212 b) without actually updating the initial operand.",
+            "In contrast, the problem 8 + 4 \u2212 6 (a + b \u2212 c), requires updating.",
+            "The authors found that children, operating over approximate quantities, exhibited better performance for the subset of problems in which inversion could be employed as a logical strategy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Work on inversion reasoning during symbolic multiplication and division suggests a disuse of, and lack of trust in, inversion processes until adulthood (Robinson & Dub\u00e9, 2009; Robinson, Ninowski, & Gray, 2006) . Even in adulthood, inversion logic is still used less frequently for multiplication and division than for addition and subtraction problems (Robinson & Ninowski, 2003; Robinson et al., 2006) . In fact, adults and adolescents experience no carry-over benefit from understanding inversion in addition and subtraction as it applies to multiplication and division (Robinson & Ninowski, 2003; Robinson et al., 2006) , indicating that for explicit, symbolic operations, the logic of inversion is not providing a broad conceptual foundation upon which to draw. This disconnect is surprising if one assumes that underlying arithmetic logic that transcends operations (such as inversion, or commutativity) should influence performance for all relevant problems.",
+        "section": "",
+        "section_number": 6,
+        "sentences": [
+            "Work on inversion reasoning during symbolic multiplication and division suggests a disuse of, and lack of trust in, inversion processes until adulthood (Robinson & Dub\u00e9, 2009; Robinson, Ninowski, & Gray, 2006) .",
+            "Even in adulthood, inversion logic is still used less frequently for multiplication and division than for addition and subtraction problems (Robinson & Ninowski, 2003; Robinson et al., 2006) .",
+            "In fact, adults and adolescents experience no carry-over benefit from understanding inversion in addition and subtraction as it applies to multiplication and division (Robinson & Ninowski, 2003; Robinson et al., 2006) , indicating that for explicit, symbolic operations, the logic of inversion is not providing a broad conceptual foundation upon which to draw.",
+            "This disconnect is surprising if one assumes that underlying arithmetic logic that transcends operations (such as inversion, or commutativity) should influence performance for all relevant problems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The current set of experiments examines the level of competence, and logical reasoning, that children exhibit when performing multi-step non-symbolic scaling over estimated quantities. We systematically manipulate the number of transformations required during the scaling problem and, subsequently, the load on working memory (one-step problems vs. two-step problems), as well as the availability of the inversion principle as a means to solve complex two-step problems (non-inversion problem sets vs. inversion-based problem sets). Children were trained separately in multiplication and division (one-step problems) and were then required to combine these processes in two-step problems. Half of the children were trained on inverse scaling operations (e.g., they learned about quadrupling, and then quartering), and the other half were not (e.g., they learned about doubling and then quartering). The design includes problems that would be more difficult if children were using approximate representations, instead of calculating exact amounts (e.g., discriminating 8 from 4 vs. 28 from 24, problems of an equal difficulty level for exact calculation but very different difficulty levels for approximate calculation due to the difference in ratio of the correct outcome to a comparison value).",
+        "section": "",
+        "section_number": 7,
+        "sentences": [
+            "The current set of experiments examines the level of competence, and logical reasoning, that children exhibit when performing multi-step non-symbolic scaling over estimated quantities.",
+            "We systematically manipulate the number of transformations required during the scaling problem and, subsequently, the load on working memory (one-step problems vs. two-step problems), as well as the availability of the inversion principle as a means to solve complex two-step problems (non-inversion problem sets vs. inversion-based problem sets).",
+            "Children were trained separately in multiplication and division (one-step problems) and were then required to combine these processes in two-step problems.",
+            "Half of the children were trained on inverse scaling operations (e.g., they learned about quadrupling, and then quartering), and the other half were not (e.g., they learned about doubling and then quartering).",
+            "The design includes problems that would be more difficult if children were using approximate representations, instead of calculating exact amounts (e.g., discriminating 8 from 4 vs. 28 from 24, problems of an equal difficulty level for exact calculation but very different difficulty levels for approximate calculation due to the difference in ratio of the correct outcome to a comparison value)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "This paradigm allows us to achieve two main goals. First, we can determine whether children perform chained, serial, multi-step computations using the non-symbolic scaling ability previously demonstrated by Barth et al. (2009) and McCrink and Spelke (2010, 2015) . We can determine the robustness of this untrained and computationally complex phenomenon in light of this population's still-developing working memory capacity. If children are able to hold these two operations simultaneously in mind, performance on multi-step testing trials should be above chance. If, on the other hand, the updating process of holding in memory and manipulating interim outcomes is too challenging, performance for the testing trials should be significantly worse than single-operation trial performance, and might not even rise above chance levels. A second goal is to address whether the previously documented lack of symbolic inversion reasoning is due to interference from explicit, symbolic, or rote processes rather than a more fundamental lack of access to inversion logic. If children can use inversion reasoning during addition and subtraction problems in the non-symbolic domain, perhaps this useful tool will be available for nonsymbolic scaling as well. To do this, we implement here a design that allows us to compare performance for multi-step problems that are conducive to inversion reasoning to problems that are not. If children are able to apply an untrained, spontaneous logic of inversion to multiplicative reasoning, over approximate quantities, the children who view inversion problems (e.g., quadrupling then quartering) should perform better during testing than children who view multi-step problems in which inversion is not logically appropriate (e.g., quadrupling then halving). If, on the other hand, the documented disconnect between addition/subtraction inversion logic and multiplication/division logic is a true conceptual block that transcends numerical format, children's performance should be similar on inversion and non-inversion problems.",
+        "section": "",
+        "section_number": 8,
+        "sentences": [
+            "This paradigm allows us to achieve two main goals.",
+            "First, we can determine whether children perform chained, serial, multi-step computations using the non-symbolic scaling ability previously demonstrated by Barth et al. (2009) and McCrink and Spelke (2010, 2015) .",
+            "We can determine the robustness of this untrained and computationally complex phenomenon in light of this population's still-developing working memory capacity.",
+            "If children are able to hold these two operations simultaneously in mind, performance on multi-step testing trials should be above chance.",
+            "If, on the other hand, the updating process of holding in memory and manipulating interim outcomes is too challenging, performance for the testing trials should be significantly worse than single-operation trial performance, and might not even rise above chance levels.",
+            "A second goal is to address whether the previously documented lack of symbolic inversion reasoning is due to interference from explicit, symbolic, or rote processes rather than a more fundamental lack of access to inversion logic.",
+            "If children can use inversion reasoning during addition and subtraction problems in the non-symbolic domain, perhaps this useful tool will be available for nonsymbolic scaling as well.",
+            "To do this, we implement here a design that allows us to compare performance for multi-step problems that are conducive to inversion reasoning to problems that are not.",
+            "If children are able to apply an untrained, spontaneous logic of inversion to multiplicative reasoning, over approximate quantities, the children who view inversion problems (e.g., quadrupling then quartering) should perform better during testing than children who view multi-step problems in which inversion is not logically appropriate (e.g., quadrupling then halving).",
+            "If, on the other hand, the documented disconnect between addition/subtraction inversion logic and multiplication/division logic is a true conceptual block that transcends numerical format, children's performance should be similar on inversion and non-inversion problems."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Sixty-six 7-and 8-year-old children (33 females, 33 males; average age 7 years 2 months) were recruited via a large mailing database of New York City, Hartford CT, and surrounding suburbs and through partnerships with local New York City schools. The children had low (N = 10), middle (N = 41), and high (N = 15) socioeconomic status (SES), as assessed by proxy measures of school lunch participation rates and maternal education levels when noted by the parent. 1 Participants were screened for formal education in the concepts of multiplicative/divisive inversion relationships; none had prior formal schooling in inversion. The final sample included 16 females and 16 males in the inversion conditions (M age = 7 years, 3 months) and 16 females and 16 males in the noninversion conditions (M age = 7 years, 2 months). Two additional participants were excluded from the final sample due to lack of concentration (1 subject) and experimenter error (1 subject).",
+        "section": "Participants",
+        "section_number": 9,
+        "sentences": [
+            "Sixty-six 7-and 8-year-old children (33 females, 33 males; average age 7 years 2 months) were recruited via a large mailing database of New York City, Hartford CT, and surrounding suburbs and through partnerships with local New York City schools.",
+            "The children had low (N = 10), middle (N = 41), and high (N = 15) socioeconomic status (SES), as assessed by proxy measures of school lunch participation rates and maternal education levels when noted by the parent.",
+            "1 Participants were screened for formal education in the concepts of multiplicative/divisive inversion relationships; none had prior formal schooling in inversion.",
+            "The final sample included 16 females and 16 males in the inversion conditions (M age = 7 years, 3 months) and 16 females and 16 males in the noninversion conditions (M age = 7 years, 2 months).",
+            "Two additional participants were excluded from the final sample due to lack of concentration (1 subject) and experimenter error (1 subject)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The experiment consisted of three main sections: multiplication training, division training, and multi-step testing (which combined multiplication and division). Children were randomly assigned to either an inversion condition or a non-inversion condition. In the inversion condition, the child was shown movies depicting multiplication and division factors that were the inverse of each other (doubling/halving; quadrupling/quartering; see Figure 1 ). In the noninversion condition, the child was trained on non-inverse factors (doubling/quartering; quadrupling/ halving). There were 48 trials total, separated into 12 training trials for each operation (multiplication, division), and 24 test trials, all based on the paradigm used in Barth et al. (2009) . Each trial consisted of an initial array on the left side of the screen, which was occluded and transformed by a particular factor (training: *2, *4, /2, /4), or factors (testing: *2 then /2, *4 then /4, *4 then /2, *2 then /4), via a \"magic wand\", after which a comparison array appeared on the right side of the screen. The child was then asked to indicate which set of objects was more numerous (with the transformed array still occluded and never directly observed).",
+        "section": "Design and procedure",
+        "section_number": 10,
+        "sentences": [
+            "The experiment consisted of three main sections: multiplication training, division training, and multi-step testing (which combined multiplication and division).",
+            "Children were randomly assigned to either an inversion condition or a non-inversion condition.",
+            "In the inversion condition, the child was shown movies depicting multiplication and division factors that were the inverse of each other (doubling/halving; quadrupling/quartering; see Figure 1 ).",
+            "In the noninversion condition, the child was trained on non-inverse factors (doubling/quartering; quadrupling/ halving).",
+            "There were 48 trials total, separated into 12 training trials for each operation (multiplication, division), and 24 test trials, all based on the paradigm used in Barth et al. (2009) .",
+            "Each trial consisted of an initial array on the left side of the screen, which was occluded and transformed by a particular factor (training: *2, *4, /2, /4), or factors (testing: *2 then /2, *4 then /4, *4 then /2, *2 then /4), via a \"magic wand\", after which a comparison array appeared on the right side of the screen.",
+            "The child was then asked to indicate which set of objects was more numerous (with the transformed array still occluded and never directly observed)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The comparison arrays differed from the outcome by a distance factor of 2.0 or 1.5, to examine modulation of performance as a function of ratio (larger array:smaller array), a signature of approximate computation. For example, an initial array of 8 might be occluded and doubled via the transforming wand, and then a comparison array of 32 (the outcome of the doubling transformation, with a ratio of 2.0 comparison array:correct array) might appear on the other side of the screen. The correct answer in this case would be the comparison array. A different trial during multiplication training might show an array of 8, doubled, and then a comparison array of 12 (the outcome /1.5, a ratio of 1.5 correct array:comparison array). The correct answer in this case was the transformed outcome array. On 50% of the trials the comparison array was more numerous, and on the other 50% the transformed array was more numerous. A total of 50% of the trials had a ratio of 2.0 (more distant ratios), 50% a ratio of 1.5 (closer ratios) of the transformed, computed outcome:comparison array; because the discriminability of two numbers represented approximately depends on their ratio (e.g., Barth et al., 2003; Cordes et al., 2002) , we should observe better performance in larger ratio than in smaller ratio trials. There were no procedural differences between conditions; the only change was the factor depicted during training for multiplication and division. Multiplication was always introduced first, followed by division.",
+        "section": "Design and procedure",
+        "section_number": 11,
+        "sentences": [
+            "The comparison arrays differed from the outcome by a distance factor of 2.0 or 1.5, to examine modulation of performance as a function of ratio (larger array:smaller array), a signature of approximate computation.",
+            "For example, an initial array of 8 might be occluded and doubled via the transforming wand, and then a comparison array of 32 (the outcome of the doubling transformation, with a ratio of 2.0 comparison array:correct array) might appear on the other side of the screen.",
+            "The correct answer in this case would be the comparison array.",
+            "A different trial during multiplication training might show an array of 8, doubled, and then a comparison array of 12 (the outcome /1.5, a ratio of 1.5 correct array:comparison array).",
+            "The correct answer in this case was the transformed outcome array.",
+            "On 50% of the trials the comparison array was more numerous, and on the other 50% the transformed array was more numerous.",
+            "A total of 50% of the trials had a ratio of 2.0 (more distant ratios), 50% a ratio of 1.5 (closer ratios) of the transformed, computed outcome:comparison array; because the discriminability of two numbers represented approximately depends on their ratio (e.g., Barth et al., 2003; Cordes et al., 2002) , we should observe better performance in larger ratio than in smaller ratio trials.",
+            "There were no procedural differences between conditions; the only change was the factor depicted during training for multiplication and division.",
+            "Multiplication was always introduced first, followed by division."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Children whose school population qualified for free or reduced lunch at 75% or above rates were coded as low SES, 6-74% as middle SES, <5%",
+        "section": "1",
+        "section_number": 12,
+        "sentences": [
+            "Children whose school population qualified for free or reduced lunch at 75% or above rates were coded as low SES, 6-74% as middle SES, <5%"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "as high SES (creating 3 larger bins from the 8-category measure often used in education research, e.g., Lubienski & Lubienski, 2006 , and gathered on large-scale government questionnaires and used by the National Center for Education Statistics). Children whose maternal education levels consisted of high-school graduate or below were coded as low SES, some college as middle SES, and college graduate or beyond as high SES (creating 3 bins from a 4-category measure commonly used by public health and education researchers who access large databases such as the California Maternal and Infant Health Assessment, MIHA (see Heck, Braveman, Cubbin, Chavez, & Kiely, 2006); the lowest two bins were collapsed due to infrequency in our sample).",
+        "section": "1",
+        "section_number": 13,
+        "sentences": [
+            "as high SES (creating 3 larger bins from the 8-category measure often used in education research, e.g., Lubienski & Lubienski, 2006 , and gathered on large-scale government questionnaires and used by the National Center for Education Statistics).",
+            "Children whose maternal education levels consisted of high-school graduate or below were coded as low SES, some college as middle SES, and college graduate or beyond as high SES (creating 3 bins from a 4-category measure commonly used by public health and education researchers who access large databases such as the California Maternal and Infant Health Assessment, MIHA (see Heck, Braveman, Cubbin, Chavez, & Kiely, 2006); the lowest two bins were collapsed due to infrequency in our sample)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Multiplicative factor introduction. The child and experimenter were seated together in a quiet testing room at a large table to watch the presentation videos on a Macintosh MacBook Pro laptop computer (17 \u2032\u2032 display screen). The videos were animated using Keynote, with values and shape sizes obtained using the Numerus program (McCrink, 2015). The child first viewed a video consisting of a single blue rectangle, which grew and shrank multiple times before becoming stationary. The rectangle remained on the screen as an animated wand appeared from off-screen left and waved back and forth over the rectangle while making a \"magical\" twinkling noise. After several seconds of waving, the wand made a \"crack\" noise, and the rectangle broke into two (or four, in the *4 condition) pieces of identical size. These newly formed rectangles then shrank and grew as their own individual entities, to instantiate the idea of multiple unique rectangles. The experimenter exclaimed to the child: \"Look! The wand made more! It's our magic multiplying wand. There used to be one rectangle, and now there are two(four). It doesn't matter if the rectangles are big or small; the wand takes one rectangle and makes it two(four)!\" The child then saw a follow-up video, which was identical to the previous video except that the rectangle was occluded by a large rectangle during the waving of the wand. The experimenter paused the movie after the wand waved, and asked the child how many rectangles she or he thought were behind the screen. When the child had correctly answered this question, training trials began. (See Table 1 for the exact values used during the testing and training sessions.)",
+        "section": "1",
+        "section_number": 14,
+        "sentences": [
+            "Multiplicative factor introduction.",
+            "The child and experimenter were seated together in a quiet testing room at a large table to watch the presentation videos on a Macintosh MacBook Pro laptop computer (17 \u2032\u2032 display screen).",
+            "The videos were animated using Keynote, with values and shape sizes obtained using the Numerus program (McCrink, 2015).",
+            "The child first viewed a video consisting of a single blue rectangle, which grew and shrank multiple times before becoming stationary.",
+            "The rectangle remained on the screen as an animated wand appeared from off-screen left and waved back and forth over the rectangle while making a \"magical\" twinkling noise.",
+            "After several seconds of waving, the wand made a \"crack\" noise, and the rectangle broke into two (or four, in the *4 condition) pieces of identical size.",
+            "These newly formed rectangles then shrank and grew as their own individual entities, to instantiate the idea of multiple unique rectangles.",
+            "The experimenter exclaimed to the child: \"Look!",
+            "The wand made more!",
+            "It's our magic multiplying wand.",
+            "There used to be one rectangle, and now there are two(four).",
+            "It doesn't matter if the rectangles are big or small; the wand takes one rectangle and makes it two(four)!\"",
+            "The child then saw a follow-up video, which was identical to the previous video except that the rectangle was occluded by a large rectangle during the waving of the wand.",
+            "The experimenter paused the movie after the wand waved, and asked the child how many rectangles she or he thought were behind the screen.",
+            "When the child had correctly answered this question, training trials began. (",
+            "See Table 1 for the exact values used during the testing and training sessions.)"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Multiplication training block. The training block consisted of 12 video presentations in randomized order.",
+        "section": "1",
+        "section_number": 15,
+        "sentences": [
+            "Multiplication training block.",
+            "The training block consisted of 12 video presentations in randomized order."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "In each video, the child saw an array of blue rectangles of varying sizes on the left side of the screen. In the first training video, the experimenter pointed to the blue array and said: \"Now there are this many rectangles. There are too many to count, so we're just going to use our imagination and our concentration; it's not a counting game, it's an imagination game and we just have to think really hard.\" After 3 s, an occluder came up from off screen and occluded the initial blue array. Three seconds was sufficiently short Figure 1 . Schematic of training and testing procedure for the inversion condition times 2, divided by 2. The children were given a series of training trials for both multiplication and division problems, in which the answer was revealed after they judged whether the transformed (blue) or comparison (pink) array was more numerous. They then viewed a multi-step problem in which both operations were performed over the occluded initial array.",
+        "section": "1",
+        "section_number": 16,
+        "sentences": [
+            "In each video, the child saw an array of blue rectangles of varying sizes on the left side of the screen.",
+            "In the first training video, the experimenter pointed to the blue array and said: \"Now there are this many rectangles.",
+            "There are too many to count, so we're just going to use our imagination and our concentration; it's not a counting game, it's an imagination game and we just have to think really hard.\"",
+            "After 3 s, an occluder came up from off screen and occluded the initial blue array.",
+            "Three seconds was sufficiently short Figure 1 .",
+            "Schematic of training and testing procedure for the inversion condition times 2, divided by 2.",
+            "The children were given a series of training trials for both multiplication and division problems, in which the answer was revealed after they judged whether the transformed (blue) or comparison (pink) array was more numerous.",
+            "They then viewed a multi-step problem in which both operations were performed over the occluded initial array."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "to stop children from explicitly enumerating the large sets depicted on screen; any attempts to verbalize exact numbers were disrupted, and the child was discouraged from counting. The multiplying wand came out from off-screen left and waved over the occluded array for two seconds, accompanied again by magical \"twinkling\" noises, and the experimenter said, \"Look! Our magic multiplying wand!\" After 2 s, a comparison array of pink rectangles appeared on the right side of the screen. These arrays contained rectangles of identical size (0.5 cm \u00d7 0.5 cm each) and were equated in density (\u223c5 objects per 10 cm 2 ) throughout all training trials. The comparison array values had a numerical range of 5 to 96 (see Table 1 ), with corresponding spatial extent value ranges of area = \u223c1.25 to \u223c24 cm 2 , perimeter = \u223c10 to \u223c192 cm, convex hull = 7 to 46 cm. The child was then asked to indicate the set with more rectangles, either verbally (\"pink\", \"blue\") or by pointing to the right or left side of the screen. To control for experimenter bias, the experimenter phrased this question neutrally (\"Where do you think there are more?\" \"Which side of the screen do you think has more?\"). Additionally, the experimenter Note: Detailed here are the values used for the multiplication and division training trials, as well as the values for problems used during the multistep testing movies, separated by experiment (Experiment 1: ratios of 2.0 and 1.5; Experiment 2: ratios of 1.5 and 1.25) and condition (inversion, non-inversion).",
+        "section": "1",
+        "section_number": 17,
+        "sentences": [
+            "to stop children from explicitly enumerating the large sets depicted on screen; any attempts to verbalize exact numbers were disrupted, and the child was discouraged from counting.",
+            "The multiplying wand came out from off-screen left and waved over the occluded array for two seconds, accompanied again by magical \"twinkling\" noises, and the experimenter said, \"Look!",
+            "Our magic multiplying wand!\"",
+            "After 2 s, a comparison array of pink rectangles appeared on the right side of the screen.",
+            "These arrays contained rectangles of identical size (0.5 cm \u00d7 0.5 cm each) and were equated in density (\u223c5 objects per 10 cm 2 ) throughout all training trials.",
+            "The comparison array values had a numerical range of 5 to 96 (see Table 1 ), with corresponding spatial extent value ranges of area = \u223c1.25 to \u223c24 cm 2 , perimeter = \u223c10 to \u223c192 cm, convex hull = 7 to 46 cm.",
+            "The child was then asked to indicate the set with more rectangles, either verbally (\"pink\", \"blue\") or by pointing to the right or left side of the screen.",
+            "To control for experimenter bias, the experimenter phrased this question neutrally (\"Where do you think there are more?\" \"",
+            "Which side of the screen do you think has more?\").",
+            "Additionally, the experimenter Note: Detailed here are the values used for the multiplication and division training trials, as well as the values for problems used during the multistep testing movies, separated by experiment (Experiment 1: ratios of 2.0 and 1.5; Experiment 2: ratios of 1.5 and 1.25) and condition (inversion, non-inversion)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "looked at the child, rather than the screen, until the child provided an answer. The experimenter recorded the child's response, resumed playing of the video to show the occluder drop to reveal the transformed array (e.g., the outcome after scaling up by a factor of two/four, as transformed by the multiplying wand), and provided feedback to the child as to whether his or her response was correct or incorrect. Outcome arrays were similar in area and density to the initial array and were formed by splitting each initially presented rectangle into two/four rectangles, with a 25% variability parameter around this average amount. In this way, the child received visual evidence that a major change between the initial array and revealed outcome array was number, rather than summed area, though the convex hull and perimeter also increased as the number of objects increased. (We aimed to emphasize numerical magnitude, not spatial quantity, as the target of the operation, in order to maximize similarity to previous inversion work that looked at addition and subtraction logic over amounts that were saliently numerical; e.g., Gilmore & Spelke, 2008 .) The outcome arrays ranged from a numerical value of 8 to 56 objects, area = 9 to 13 cm 2 , perimeter = 57 to 176 cm, and convex hull = 41 to 45 cm. Overall, 12 training trial movies were shown, after which the division section of the experiment began.",
+        "section": "1",
+        "section_number": 18,
+        "sentences": [
+            "looked at the child, rather than the screen, until the child provided an answer.",
+            "The experimenter recorded the child's response, resumed playing of the video to show the occluder drop to reveal the transformed array (e.g., the outcome after scaling up by a factor of two/four, as transformed by the multiplying wand), and provided feedback to the child as to whether his or her response was correct or incorrect.",
+            "Outcome arrays were similar in area and density to the initial array and were formed by splitting each initially presented rectangle into two/four rectangles, with a 25% variability parameter around this average amount.",
+            "In this way, the child received visual evidence that a major change between the initial array and revealed outcome array was number, rather than summed area, though the convex hull and perimeter also increased as the number of objects increased. (",
+            "We aimed to emphasize numerical magnitude, not spatial quantity, as the target of the operation, in order to maximize similarity to previous inversion work that looked at addition and subtraction logic over amounts that were saliently numerical; e.g., Gilmore & Spelke, 2008 .)",
+            "The outcome arrays ranged from a numerical value of 8 to 56 objects, area = 9 to 13 cm 2 , perimeter = 57 to 176 cm, and convex hull = 41 to 45 cm.",
+            "Overall, 12 training trial movies were shown, after which the division section of the experiment began."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Division factor introduction. This section of the experiment introduced the division concept to the child. The division videos were identical to the multiplication videos, except that (a) the wand was different in colour and shape, and was referred to by the experimenter as the \"magic dividing wand\", and (b) the initial training video presented two rectangles growing and shrinking, and finally coalescing into one rectangle following the waving of the dividing wand. Although adults balk at the use of the term \"dividing\" to describe a joining of objects, the children readily accepted this term, probably because (a) it was used minimally, and (b) we were careful to highlight the fact that the dividing was happening over number, not area, saying the phrase \"The wand made LESS. . . . There used to be more, but now there are less\", even as the overall area stayed exactly the same. The procedure here was identical to that for the multiplicative introduction videos; the child first watched a video in which the entire division process proceeded unobscured, followed by a second video in which the rectangles were occluded, and the child was asked how many she or he believed were behind the screen. Once the child correctly predicted the remaining number of rectangles, the experiment moved on to the division training videos.",
+        "section": "1",
+        "section_number": 19,
+        "sentences": [
+            "Division factor introduction.",
+            "This section of the experiment introduced the division concept to the child.",
+            "The division videos were identical to the multiplication videos, except that (a) the wand was different in colour and shape, and was referred to by the experimenter as the \"magic dividing wand\", and (b) the initial training video presented two rectangles growing and shrinking, and finally coalescing into one rectangle following the waving of the dividing wand.",
+            "Although adults balk at the use of the term \"dividing\" to describe a joining of objects, the children readily accepted this term, probably because (a) it was used minimally, and (b) we were careful to highlight the fact that the dividing was happening over number, not area, saying the phrase \"The wand made LESS. . . .",
+            "There used to be more, but now there are less\", even as the overall area stayed exactly the same.",
+            "The procedure here was identical to that for the multiplicative introduction videos; the child first watched a video in which the entire division process proceeded unobscured, followed by a second video in which the rectangles were occluded, and the child was asked how many she or he believed were behind the screen.",
+            "Once the child correctly predicted the remaining number of rectangles, the experiment moved on to the division training videos."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Division training block. This training block consisted of 12 training videos. These videos were identical to those shown in the multiplication training block, except that the wand being shown was the green division wand, and the original blue arrays were scaled down, not up, in number. These videos were also randomized prior to presentation. Following the appearance of the pink comparison array, the experimenter still asked the child to indicate which side of the screen had more rectangles. The pink comparison arrays consisted of 0.5 \u00d7 0.5-cm squares with a density of \u223c5 objects per 10 cm 2 . The comparison array values had a numerical range of 3 to 48 (see Table 1 ), with corresponding spatial extent value ranges of area = \u223c.75 to \u223c12 cm 2 , perimeter = \u223c6 to \u223c96 cm, convex hull = 9 to 37 cm. The outcome arrays, constructed by taking the initial arrays and joining two (for /2) or four (for /4) ranged from a numerical value of 4 to 28 objects, area = 5 to 17 cm 2 , perimeter = 36 to 130 cm, and convex hull = 40 to 46 cm. Following completion of all 12 training videos, the child and experimenter got up to take a quick break and stretch. The experiment then moved on to the testing block.",
+        "section": "1",
+        "section_number": 20,
+        "sentences": [
+            "Division training block.",
+            "This training block consisted of 12 training videos.",
+            "These videos were identical to those shown in the multiplication training block, except that the wand being shown was the green division wand, and the original blue arrays were scaled down, not up, in number.",
+            "These videos were also randomized prior to presentation.",
+            "Following the appearance of the pink comparison array, the experimenter still asked the child to indicate which side of the screen had more rectangles.",
+            "The pink comparison arrays consisted of 0.5 \u00d7 0.5-cm squares with a density of \u223c5 objects per 10 cm 2 .",
+            "The comparison array values had a numerical range of 3 to 48 (see Table 1 ), with corresponding spatial extent value ranges of area = \u223c.75 to \u223c12 cm 2 , perimeter = \u223c6 to \u223c96 cm, convex hull = 9 to 37 cm.",
+            "The outcome arrays, constructed by taking the initial arrays and joining two (for /2) or four (for /4) ranged from a numerical value of 4 to 28 objects, area = 5 to 17 cm 2 , perimeter = 36 to 130 cm, and convex hull = 40 to 46 cm.",
+            "Following completion of all 12 training videos, the child and experimenter got up to take a quick break and stretch.",
+            "The experiment then moved on to the testing block."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Multi-step testing block. The testing block consisted of 24 videos. In these videos, an array of blue rectangles, similar to those seen in the training blocks, were presented and were then occluded after 3 seconds. Following occlusion, the child saw the multiplication wand wave over the occluded array and disappear off-screen left (a 2-s event), followed one second later by the division wand, which waved over the array and disappeared off-screen left (a 2-s event). Following the appearance of both the multiplication and division wands, an array of pink rectangles appeared 3 s later on the right side of the screen. In a change from the training trials, after the child indicated which side of the screen she or he believed to have more shapes, the occluder did not drop to reveal the correct transformed amount beneath the screen. After the child answered, they were not told whether or not they answered correctly; instead, the experimenter provided uniformly positive feedback (\"Good job! You're doing great! Let's try another\") and moved on to the next video. Furthermore, the comparison arrays did not look like those shown in the training blocks; rather, they were similar in terms of area, contour length, and convex hull, with the goal that the child would be attentive to numerical magnitude over these variables. That is, each set of comparison arrays within each multi-step testing problem (e. g., 8, 14, 18, 22, 28, or 40 *2/2 or *4/4) had similar area, perimeter, and convex hull (e.g., identical with some random variability programmed in), though the measurements across each problem differed. Density is challenging to hold steady across a range of small and large values, given placement constraints on large items, and if one holds convex hull steady across arrays, density will vary with the number of objects. Thus, more numerous sets within a range of comparison array values tended to have greater density. If the child were responding on the basis of area, contour length, or convex hull instead of the numerosity of the comparison area during the training blocks (recall that these variables scaled up or down alongside the number of objects in the comparison array for training), they would perform only at chance during test trials, because in these test trial comparison arrays, that type of information does not vary within a given scaling problem. For example, in the test videos of 14 * 2/2 = 7 versus 14, 14 * 2/2 = 9 versus 14, 14 * 2/2 = 21 versus 14, and 14 * 2/2 = 28 versus 14, the values for 7, 9, 21, and 28 objects were all area = 55 to 60 cm 2 , contour length = 54 to 56 cm 2 , convex hull = \u223c44 to 47 cm, and the density for the 7-object array was approximately one quarter that of the 28-object array. Density did vary with number (more numerous arrays were denser), though this would be unlikely to be brought over as a strategy from the training trials, because in those training trials density was equated across all comparison arrays and thus could not be used to help solve the greater/fewer task at hand. Thus, the overall area and contour length of the comparison arrays were all equidistant from the (imagined, never-revealed) outcome arrays on these spatial extent variables. Again, take the example of the test trials 14 * 2/2 = 7 versus 14, 14 * 2/2 = 9 versus 14, 14 * 2/2 = 21 versus 14, and 14 * 2/2 = 28 versus 14. The comparison arrays had an area = 55 to 60 cm 2 , contour length = 54 to 56 cm, and convex hull = \u223c44 to 47 cm, and the density for the 7-object array was \u223c1 object per 10 cm 2 and for the 28-object array \u223c3.5 object per 10 cm 2 . The (potentially imagined, based on what they saw at training) outcome array has an area = 9 cm 2 , perimeter = 82 cm, convex hull = 45 cm, and a density of \u223c2.25 objects per 10 cm 2 . Though the children never saw the outcome arrays during the testing blocks, control of this factor discouraged the potential strategy of comparing the area or contour length of the imagined original outcome array to the presented comparison array. In this way, children were encouraged to attend to numerical values, rather than perceptual variables that vary along with number. The initial values used in the testing section were different from those in the training blocks, in order to avoid any performance boosts from rote memorization of the training trials (see Table 1 for the specific values used).",
+        "section": "1",
+        "section_number": 21,
+        "sentences": [
+            "Multi-step testing block.",
+            "The testing block consisted of 24 videos.",
+            "In these videos, an array of blue rectangles, similar to those seen in the training blocks, were presented and were then occluded after 3 seconds.",
+            "Following occlusion, the child saw the multiplication wand wave over the occluded array and disappear off-screen left (a 2-s event), followed one second later by the division wand, which waved over the array and disappeared off-screen left (a 2-s event).",
+            "Following the appearance of both the multiplication and division wands, an array of pink rectangles appeared 3 s later on the right side of the screen.",
+            "In a change from the training trials, after the child indicated which side of the screen she or he believed to have more shapes, the occluder did not drop to reveal the correct transformed amount beneath the screen.",
+            "After the child answered, they were not told whether or not they answered correctly; instead, the experimenter provided uniformly positive feedback (\"Good job!",
+            "You're doing great!",
+            "Let's try another\") and moved on to the next video.",
+            "Furthermore, the comparison arrays did not look like those shown in the training blocks; rather, they were similar in terms of area, contour length, and convex hull, with the goal that the child would be attentive to numerical magnitude over these variables.",
+            "That is, each set of comparison arrays within each multi-step testing problem (e. g., 8, 14, 18, 22, 28, or 40 *2/2 or *4/4) had similar area, perimeter, and convex hull (e.g., identical with some random variability programmed in), though the measurements across each problem differed.",
+            "Density is challenging to hold steady across a range of small and large values, given placement constraints on large items, and if one holds convex hull steady across arrays, density will vary with the number of objects.",
+            "Thus, more numerous sets within a range of comparison array values tended to have greater density.",
+            "If the child were responding on the basis of area, contour length, or convex hull instead of the numerosity of the comparison area during the training blocks (recall that these variables scaled up or down alongside the number of objects in the comparison array for training), they would perform only at chance during test trials, because in these test trial comparison arrays, that type of information does not vary within a given scaling problem.",
+            "For example, in the test videos of 14 * 2/2 = 7 versus 14, 14 * 2/2 = 9 versus 14, 14 * 2/2 = 21 versus 14, and 14 * 2/2 = 28 versus 14, the values for 7, 9, 21, and 28 objects were all area = 55 to 60 cm 2 , contour length = 54 to 56 cm 2 , convex hull = \u223c44 to 47 cm, and the density for the 7-object array was approximately one quarter that of the 28-object array.",
+            "Density did vary with number (more numerous arrays were denser), though this would be unlikely to be brought over as a strategy from the training trials, because in those training trials density was equated across all comparison arrays and thus could not be used to help solve the greater/fewer task at hand.",
+            "Thus, the overall area and contour length of the comparison arrays were all equidistant from the (imagined, never-revealed) outcome arrays on these spatial extent variables.",
+            "Again, take the example of the test trials 14 * 2/2 = 7 versus 14, 14 * 2/2 = 9 versus 14, 14 * 2/2 = 21 versus 14, and 14 * 2/2 = 28 versus 14.",
+            "The comparison arrays had an area = 55 to 60 cm 2 , contour length = 54 to 56 cm, and convex hull = \u223c44 to 47 cm, and the density for the 7-object array was \u223c1 object per 10 cm 2 and for the 28-object array \u223c3.5 object per 10 cm 2 .",
+            "The (potentially imagined, based on what they saw at training) outcome array has an area = 9 cm 2 , perimeter = 82 cm, convex hull = 45 cm, and a density of \u223c2.25 objects per 10 cm 2 .",
+            "Though the children never saw the outcome arrays during the testing blocks, control of this factor discouraged the potential strategy of comparing the area or contour length of the imagined original outcome array to the presented comparison array.",
+            "In this way, children were encouraged to attend to numerical values, rather than perceptual variables that vary along with number.",
+            "The initial values used in the testing section were different from those in the training blocks, in order to avoid any performance boosts from rote memorization of the training trials (see Table 1 for the specific values used)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The average percentage correct for each participant was calculated and binned according to experimental session (multiplication training, division training, multi-step testing) and ratio of correct outcome array: comparison array (2.0, 1.5). Results are shown in Table 2 . These scores were entered into a repeated measures analysis of variance (ANOVA) with withinsubject factors of session (multiplication, division, multi-step testing) and ratio of correct array:comparison array (2.0, 1.5), and between-subjects factor of gender (male, female) and inversion condition (inversion, non-inversion). There was no significant main effect of, or interactions with, gender; this variable is not further included in the analyses. There was a significant main effect of session, F(2, 124) = 7.74, p = .001, h 2 p = .11; multiplication (81%, SEM = 1.8) was significantly higher than division (74%, SEM = 1.7, p = .02) and multi-step testing (73%, SEM = 1.6, p < .01), which were comparable to each other (p = 1.0; see Figure 2 ). (These and all reported follow-up paired comparisons were Bonferroni-corrected for multiple comparisons.) There was also a significant main effect of ratio, F(1, 62) = 46.61, p < .001, h 2 p = .43, with performance on ratio 2.0 trials better than that on 1.5 trials (81%, SEM = 1.3, vs. 71%, SEM = 1.5), p < .001; difference between these means, 95% confidence interval, CI [7, 13] . Using one-sample tests, we compared performance at each of the two ratio categories for each experimental session to chance performance (50%); all were significantly higher than would be expected by chance (multiplication 2.0: 86%, SEM = 2.2; multiplication 1.5: 77%, SEM = 2.4; division 2.0: 80%, SEM = 2.0; division 1.5: 69%, SEM = 2.4; test 2.0: 79%, SEM = 1.9; test 1.5: 68%, SEM = 1.8, all ps < .001). There was no main effect of or interaction with the inversion condition; children who received a testing session in which this process was available performed similarly to those who did not have this process available (74%, SEM = 1.7, vs. 73%, SEM = 1.7), F(1, 62) = 0.84, p = .36. To assess the strength of the evidence in favour of the null hypothesis, we also computed the Bayes factor (scaled JZS Bayes factor; Rouder, Speckman, Sun, Morey, & Iverson, 2009) . This analysis suggested that the evidence was more than three times more likely to have occurred under the null hypothesis (B 01 = 3.71, using the default setting of the expected scale parameter for the effect size, .707, which is consistent with effect sizes observed in previous research, see Gilmore & Spelke, 2008) .",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "The average percentage correct for each participant was calculated and binned according to experimental session (multiplication training, division training, multi-step testing) and ratio of correct outcome array: comparison array (2.0, 1.5).",
+            "Results are shown in Table 2 .",
+            "These scores were entered into a repeated measures analysis of variance (ANOVA) with withinsubject factors of session (multiplication, division, multi-step testing) and ratio of correct array:comparison array (2.0, 1.5), and between-subjects factor of gender (male, female) and inversion condition (inversion, non-inversion).",
+            "There was no significant main effect of, or interactions with, gender; this variable is not further included in the analyses.",
+            "There was a significant main effect of session, F(2, 124) = 7.74, p = .001, h 2 p = .11; multiplication (81%, SEM = 1.8) was significantly higher than division (74%, SEM = 1.7, p = .02) and multi-step testing (73%, SEM = 1.6, p < .01), which were comparable to each other (p = 1.0; see Figure 2 ). (",
+            "These and all reported follow-up paired comparisons were Bonferroni-corrected for multiple comparisons.)",
+            "There was also a significant main effect of ratio, F(1, 62) = 46.61, p < .001, h 2 p = .43, with performance on ratio 2.0 trials better than that on 1.5 trials (81%, SEM = 1.3, vs. 71%, SEM = 1.5), p < .001; difference between these means, 95% confidence interval, CI [7, 13] .",
+            "Using one-sample tests, we compared performance at each of the two ratio categories for each experimental session to chance performance (50%); all were significantly higher than would be expected by chance (multiplication 2.0: 86%, SEM = 2.2; multiplication 1.5: 77%, SEM = 2.4; division 2.0: 80%, SEM = 2.0; division 1.5: 69%, SEM = 2.4; test 2.0: 79%, SEM = 1.9; test 1.5: 68%, SEM = 1.8, all ps < .001).",
+            "There was no main effect of or interaction with the inversion condition; children who received a testing session in which this process was available performed similarly to those who did not have this process available (74%, SEM = 1.7, vs. 73%, SEM = 1.7), F(1, 62) = 0.84, p = .36.",
+            "To assess the strength of the evidence in favour of the null hypothesis, we also computed the Bayes factor (scaled JZS Bayes factor; Rouder, Speckman, Sun, Morey, & Iverson, 2009) .",
+            "This analysis suggested that the evidence was more than three times more likely to have occurred under the null hypothesis (B 01 = 3.71, using the default setting of the expected scale parameter for the effect size, .707, which is consistent with effect sizes observed in previous research, see Gilmore & Spelke, 2008) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "A possible alternative strategy to solving problems in this type of paradigm is to observe whether the comparison array is especially high or low and to use this knowledge to decide whether the comparison array or transformed array is likely to be more numerous (e. g., see Barth et al., 2009; Barth et al., 2008; McCrink & Spelke, 2010) . For example, a child who sees a comparison array of 4 objects appear could make an educated guess, based on the previous range of values shown, that 4 objects is a relatively low number, and they should choose the transformed array; this strategy involves no actual multiplicative operations. To test for this possibility, we calculated performance for problems whose comparison arrays fell at the extreme end of values (the 3 highest, and lowest, values) and compared performance on these trials against performance on trials in which the comparison arrays were mid-range (the 6 middle values). The mid-range and extreme-range categories each contained equal numbers of more and less difficult ratio trials. For each experimental session, paired t-tests show that extreme trial performance was better than mid-range trial performance [Multiplication: 88% (SD = 17) vs. 74% (SD = 20); division: 83% (SD = 16) vs. 66% (SD = 20); multi-step testing: 85% (SD = 14) vs. 61% (SD = 16); all ps < .001], indicating that children were likely to be attentive to the distribution of possible outcomes and to use this information to guide their answers. However, this strategy could not explain children's successful performance entirely: For each experimental session, performance for both the mid-range and the extreme-range trials was better than that predicted by chance (all ps < .001). To address the possibility that it is only on these challenging mid-range trials that children might reach for inversion-based reasoning, we entered the mid-range test trials percentage correct into a one-way ANOVA with inversion condition as a between-subjects variable. There was no effect of inversion condition, F(1, 62) = 0.54, p = .47.",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "A possible alternative strategy to solving problems in this type of paradigm is to observe whether the comparison array is especially high or low and to use this knowledge to decide whether the comparison array or transformed array is likely to be more numerous (e. g., see Barth et al., 2009; Barth et al., 2008; McCrink & Spelke, 2010) .",
+            "For example, a child who sees a comparison array of 4 objects appear could make an educated guess, based on the previous range of values shown, that 4 objects is a relatively low number, and they should choose the transformed array; this strategy involves no actual multiplicative operations.",
+            "To test for this possibility, we calculated performance for problems whose comparison arrays fell at the extreme end of values (the 3 highest, and lowest, values) and compared performance on these trials against performance on trials in which the comparison arrays were mid-range (the 6 middle values).",
+            "The mid-range and extreme-range categories each contained equal numbers of more and less difficult ratio trials.",
+            "For each experimental session, paired t-tests show that extreme trial performance was better than mid-range trial performance [Multiplication: 88% (SD = 17) vs. 74% (SD = 20); division: 83% (SD = 16) vs. 66% (SD = 20); multi-step testing: 85% (SD = 14) vs. 61% (SD = 16); all ps < .001], indicating that children were likely to be attentive to the distribution of possible outcomes and to use this information to guide their answers.",
+            "However, this strategy could not explain children's successful performance entirely: For each experimental session, performance for both the mid-range and the extreme-range trials was better than that predicted by chance (all ps < .001).",
+            "To address the possibility that it is only on these challenging mid-range trials that children might reach for inversion-based reasoning, we entered the mid-range test trials percentage correct into a one-way ANOVA with inversion condition as a between-subjects variable.",
+            "There was no effect of inversion condition, F(1, 62) = 0.54, p = .47."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The children in this experiment were able to non-symbolically multiply and divide estimated numbers of objects. They were also able to combine these two different types of scaling to estimate the answer to a multi-step non-symbolic arithmetic problem. These Figure 2 . Children's performance at training (multiplication and division) and testing (both operations) for the inversion and non-inversion conditions in Experiment 1. The overall percentage correct is plotted for each condition (inversion, non-inversion), session (multiplication training, division training, multi-step testing), and ratio of larger array to smaller array at comparison (ratio: 2.0, 1.5). Error bars indicate \u00b11 SEM, and asterisks indicate p < .05 when comparing performance against chance level (the dotted line).",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "The children in this experiment were able to non-symbolically multiply and divide estimated numbers of objects.",
+            "They were also able to combine these two different types of scaling to estimate the answer to a multi-step non-symbolic arithmetic problem.",
+            "These Figure 2 .",
+            "Children's performance at training (multiplication and division) and testing (both operations) for the inversion and non-inversion conditions in Experiment 1.",
+            "The overall percentage correct is plotted for each condition (inversion, non-inversion), session (multiplication training, division training, multi-step testing), and ratio of larger array to smaller array at comparison (ratio: 2.0, 1.5).",
+            "Error bars indicate \u00b11 SEM, and asterisks indicate p < .05 when comparing performance against chance level (the dotted line)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "computations are probably supported by a system that represents approximate discrete quantities; the scenarios presented emphasized number as the relevant to-be-scaled variable (with the spatial variables of area, contour length, density, and convex hull equated at critical junctures during numerical comparison), and performance varied as a function of the ratio of the correct outcome to the comparison array. Children's performance when stringing together two scaling operations was comparable to that of the more difficult one-step operation (division), indicating a capacity to serially update interim outcomes without introducing a significant amount of noise into the quantity representation.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "computations are probably supported by a system that represents approximate discrete quantities; the scenarios presented emphasized number as the relevant to-be-scaled variable (with the spatial variables of area, contour length, density, and convex hull equated at critical junctures during numerical comparison), and performance varied as a function of the ratio of the correct outcome to the comparison array.",
+            "Children's performance when stringing together two scaling operations was comparable to that of the more difficult one-step operation (division), indicating a capacity to serially update interim outcomes without introducing a significant amount of noise into the quantity representation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "In the multiplicative reasoning paradigm of this study, children did not show evidence of inversionbased reasoning such as that seen in non-symbolic addition and subtraction problems (e.g., Gilmore & Spelke, 2008) . Children who sequentially witnessed a doubling and then a halving operation performed like children who saw a doubling and a quartering operation: They did not exhibit a \"bonus\" for invertible operations. One potential-albeit unlikely-reason for this pattern could be that children were not challenged by these problems; they were above chance consistently even on the hardest ratios, and even when alternative strategies were not available. Perhaps children reach for strategies such as inversion when they feel challenged and feel that their usual computations may fail (Siegler, 1987; Shrager & Siegler, 1998) . To test this hypothesis, we lowered the ratio values from Experiment 1 from 2.0 and 1.5 to 1.5 and 1.25, in order to reduce the discriminability of the transformed array and the comparison array. If problem difficulty prompts children to make a logical strategy choice, and inversion reasoning for scaling is in their mental toolbox, then this increase in task difficulty should make inversion reasoning more likely.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "In the multiplicative reasoning paradigm of this study, children did not show evidence of inversionbased reasoning such as that seen in non-symbolic addition and subtraction problems (e.g., Gilmore & Spelke, 2008) .",
+            "Children who sequentially witnessed a doubling and then a halving operation performed like children who saw a doubling and a quartering operation: They did not exhibit a \"bonus\" for invertible operations.",
+            "One potential-albeit unlikely-reason for this pattern could be that children were not challenged by these problems; they were above chance consistently even on the hardest ratios, and even when alternative strategies were not available.",
+            "Perhaps children reach for strategies such as inversion when they feel challenged and feel that their usual computations may fail (Siegler, 1987; Shrager & Siegler, 1998) .",
+            "To test this hypothesis, we lowered the ratio values from Experiment 1 from 2.0 and 1.5 to 1.5 and 1.25, in order to reduce the discriminability of the transformed array and the comparison array.",
+            "If problem difficulty prompts children to make a logical strategy choice, and inversion reasoning for scaling is in their mental toolbox, then this increase in task difficulty should make inversion reasoning more likely."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Sixty-five 7-and 8-year-old children (37 females, 28 males; average age 7 years 6 months) were recruited via a large mailing database of New York City, Hartford CT, and surrounding suburbs and through partnerships with local New York City schools. The children had low (N = 39) or middle (N = 30) SES, as assessed by school lunch participation rates and maternal education levels when noted by the parent. 2 Participants were screened for formal education in the concepts of multiplicative/divisive inversion relationships; none were excluded due to prior formal schooling in inversion. One additional participant was excluded from the final sample due to lack of concentration and inability to finish the task. The final sample included 18 females and 14 males in the inversion conditions (M age = 7 years, 9 months) and 19 females and 13 males in the non-inversion conditions (M age = 7 years, 6 months).",
+        "section": "Participants",
+        "section_number": 27,
+        "sentences": [
+            "Sixty-five 7-and 8-year-old children (37 females, 28 males; average age 7 years 6 months) were recruited via a large mailing database of New York City, Hartford CT, and surrounding suburbs and through partnerships with local New York City schools.",
+            "The children had low (N = 39) or middle (N = 30) SES, as assessed by school lunch participation rates and maternal education levels when noted by the parent.",
+            "2 Participants were screened for formal education in the concepts of multiplicative/divisive inversion relationships; none were excluded due to prior formal schooling in inversion.",
+            "One additional participant was excluded from the final sample due to lack of concentration and inability to finish the task.",
+            "The final sample included 18 females and 14 males in the inversion conditions (M age = 7 years, 9 months) and 19 females and 13 males in the non-inversion conditions (M age = 7 years, 6 months)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "All materials and design details were identical to those in Experiment 1, with the sole difference of the values chosen as the comparison arrays (see Table 1 ). The comparison arrays were now structured to have ratios of 1.5 and 1.25 (see Table 1 for the range of values used), the latter discrimination ratio causing difficulty even for some adults (Halberda, Ly, Wilmer, Naiman, & Germine, 2012) . The construction of the stimuli followed the same constraints as those in Experiment 1, with comparison arrays for the training sessions possessing equal density and item size (but convex hull, area, and contour length that varied alongside number of objects), and comparison arrays at test possessing equal area, contour length, and convex hull (but density and item size that varied with number of objects). In this way, if children had been attentive to those factors at one phase of the experiment they would be a neutral, uninformative, source of scaling information during the subsequent testing phase.",
+        "section": "Design and procedure",
+        "section_number": 28,
+        "sentences": [
+            "All materials and design details were identical to those in Experiment 1, with the sole difference of the values chosen as the comparison arrays (see Table 1 ).",
+            "The comparison arrays were now structured to have ratios of 1.5 and 1.25 (see Table 1 for the range of values used), the latter discrimination ratio causing difficulty even for some adults (Halberda, Ly, Wilmer, Naiman, & Germine, 2012) .",
+            "The construction of the stimuli followed the same constraints as those in Experiment 1, with comparison arrays for the training sessions possessing equal density and item size (but convex hull, area, and contour length that varied alongside number of objects), and comparison arrays at test possessing equal area, contour length, and convex hull (but density and item size that varied with number of objects).",
+            "In this way, if children had been attentive to those factors at one phase of the experiment they would be a neutral, uninformative, source of scaling information during the subsequent testing phase."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "As before, subjects' performance was calculated and binned according to experimental session and ratio of outcome:comparison array. Results are shown in Table 2 . These scores were entered into a repeated measures ANOVA with experimental session (multiplication, division, multi-step testing) and ratio (1.5, 2 Because the children in Experiment 2 were drawn from a slightly less diverse population, with a lower mean SES, we ran preliminary analyses to determine whether there was an overall impact or significant interactions with SES as a dependent variable in the model, but there was not; children in low-(66%), middle-(68%), and high-SES (78%) groupings performed comparably, F(2, 108) = 2.01, p = .14, with no interaction with SES and experiment with the critical variable of inversion condition, F(1, 108) = 2.6, p = .11.",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "As before, subjects' performance was calculated and binned according to experimental session and ratio of outcome:comparison array.",
+            "Results are shown in Table 2 .",
+            "These scores were entered into a repeated measures ANOVA with experimental session (multiplication, division, multi-step testing) and ratio (1.5, 2 Because the children in Experiment 2 were drawn from a slightly less diverse population, with a lower mean SES, we ran preliminary analyses to determine whether there was an overall impact or significant interactions with SES as a dependent variable in the model, but there was not; children in low-(66%), middle-(68%), and high-SES (78%) groupings performed comparably, F(2, 108) = 2.01, p = .14, with no interaction with SES and experiment with the critical variable of inversion condition, F(1, 108) = 2.6, p = .11."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "1.25) as within-subject factors, and gender (male, female) and inversion condition as between-subjects factors. There was a significant main effect of session, F(2, 120) = 3.18, p = .045, h 2 p = .05; multiplication performance (73%, SEM = 3.2) was marginally higher than division performance (61% , SEM = 3.6, p = .05; difference between the means, 95% CI [\u22120.6, 24]); and multi-step test performance was intermediate (68%, SEM = 3.1, both ps = .61; see Figure 3 ). There was a significant main effect of ratio of correct outcome:comparison array, F(1, 60) = 8.96, p = .004, h 2 p = .13; the children exhibited higher performance in ratio 1.5 (73%, SEM = 2.5) than in ratio 1.25 (62%, SEM = 2.8, p < .01, 95% CI [4, 19] ). There was a significant main effect of gender, F(1, 60) = 7.51, p = .01, h 2 p = .11; males (72%, SEM = 2.9) performed better than females (62%, SEM = 2.5, p < .01; difference between the means, 95% CI [3, 18] ). Using one-sample tests, we compared performance at each ratio for each experimental session to chance performance (50%); all sessions, with the exception of the division 1.25 (51%, SEM = 4.1, p = .88), were significantly higher than would be expected by chance (multiplication 1.5: 77%, SEM = 3.8; multiplication 1.25: 66%, SEM = 4.8; division 1.5: 71%, SEM = 4.6; division 1.25: 51%, SEM = 5.2; test 1.5: 68%, SEM = 4.6; test 1.25: 65%, SEM = 4.5; all ps < .01). There was no significant main effect of inversion condition, F(1, 60) = 0.36, p = .55; children in inversion conditions had a score of 71% correct (SEM = 2.7), non-inversion conditions 65% correct (SEM = 2.7). Analysis using Bayes factors suggests that the observed data were more than three times more likely to have occurred under a model assuming the null hypothesis is correct (B 01 = 3.43, assuming a scale parameter of .707). There was a three-way interaction between inversion condition, session, and gender, F(2, 120) = 3.28, p = .04, h 2 p = .05. However, this is simply a reflection of baseline between-groups variation in the division training session for girls in the inversion condition relative to the non-inversion condition. Girls who were subsequently placed into the inversion condition (49%, SEM = 6.8) performed more poorly during division training than girls who were placed into non-inversion conditions (70%, SEM = 6.8, p = .04).",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "1.25) as within-subject factors, and gender (male, female) and inversion condition as between-subjects factors.",
+            "There was a significant main effect of session, F(2, 120) = 3.18, p = .045, h 2 p = .05; multiplication performance (73%, SEM = 3.2) was marginally higher than division performance (61% , SEM = 3.6, p = .05; difference between the means, 95% CI [\u22120.6, 24]); and multi-step test performance was intermediate (68%, SEM = 3.1, both ps = .61; see Figure 3 ).",
+            "There was a significant main effect of ratio of correct outcome:comparison array, F(1, 60) = 8.96, p = .004, h 2 p = .13; the children exhibited higher performance in ratio 1.5 (73%, SEM = 2.5) than in ratio 1.25 (62%, SEM = 2.8, p < .01, 95% CI [4, 19] ).",
+            "There was a significant main effect of gender, F(1, 60) = 7.51, p = .01, h 2 p = .11; males (72%, SEM = 2.9) performed better than females (62%, SEM = 2.5, p < .01; difference between the means, 95% CI [3, 18] ).",
+            "Using one-sample tests, we compared performance at each ratio for each experimental session to chance performance (50%); all sessions, with the exception of the division 1.25 (51%, SEM = 4.1, p = .88), were significantly higher than would be expected by chance (multiplication 1.5: 77%, SEM = 3.8; multiplication 1.25: 66%, SEM = 4.8; division 1.5: 71%, SEM = 4.6; division 1.25: 51%, SEM = 5.2; test 1.5: 68%, SEM = 4.6; test 1.25: 65%, SEM = 4.5; all ps < .01).",
+            "There was no significant main effect of inversion condition, F(1, 60) = 0.36, p = .55; children in inversion conditions had a score of 71% correct (SEM = 2.7), non-inversion conditions 65% correct (SEM = 2.7).",
+            "Analysis using Bayes factors suggests that the observed data were more than three times more likely to have occurred under a model assuming the null hypothesis is correct (B 01 = 3.43, assuming a scale parameter of .707).",
+            "There was a three-way interaction between inversion condition, session, and gender, F(2, 120) = 3.28, p = .04, h 2 p = .05.",
+            "However, this is simply a reflection of baseline between-groups variation in the division training session for girls in the inversion condition relative to the non-inversion condition.",
+            "Girls who were subsequently placed into the inversion condition (49%, SEM = 6.8) performed more poorly during division training than girls who were placed into non-inversion conditions (70%, SEM = 6.8, p = .04)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "To test for the alternative strategy of using the extreme ends of the range of comparison array values, we calculated performance for problems whose comparison arrays fell at the extreme end of values (the 3 highest, and lowest, values). We then compared this performance via paired t-tests to performance on trials in which the comparison arrays Note: Presented here are the percentages correct exhibited by the children for the multiplication/division training trials and multi-step testing movies, as a function of experiment, ratio at comparison, session, and scaling factor.",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "To test for the alternative strategy of using the extreme ends of the range of comparison array values, we calculated performance for problems whose comparison arrays fell at the extreme end of values (the 3 highest, and lowest, values).",
+            "We then compared this performance via paired t-tests to performance on trials in which the comparison arrays Note: Presented here are the percentages correct exhibited by the children for the multiplication/division training trials and multi-step testing movies, as a function of experiment, ratio at comparison, session, and scaling factor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "were mid-range, and therefore not subject to this alternative strategy (the 6 middle values). The midrange and extreme-range categories each contained equal numbers of more and less difficult ratio trials. For the multiplication and testing experimental sessions the end-range performance was higher than mid-range performance [multiplication: 79% (SD = 31) vs. 64% (SD = 39), p = .02; division: 65% (SD = 39) vs. 59% (SD = 40), p = .39; multi-step testing: 80% (SD = 27) vs. 59% (SD = 38), p < .01], indicating that children were probably attentive to the distribution of possible outcomes and used this information to guide their answers. To test whether this strategy could explain performance entirely, we used onesample tests to compare both the mid-and endrange problem performance for each experimental session to that of chance; middle-and end-range trials for multiplication (64% and 79%), and endrange trials for division (65%) and multi-step testing (80%), were significantly higher than 50% (all ps < .01). The mid-range trials for division (59%) and multi-step testing (59%) were marginally higher than chance (ps = .09, .06, respectively). To address the possibility that it is only on these challenging midrange trials that children might reach for inversionbased reasoning, we entered the mid-range test trials percentage correct into a one-way ANOVA with inversion condition as a between-subjects variable. There was no effect of inversion condition, F(1, 62) = 2.56, p = .12.",
+        "section": "Results",
+        "section_number": 32,
+        "sentences": [
+            "were mid-range, and therefore not subject to this alternative strategy (the 6 middle values).",
+            "The midrange and extreme-range categories each contained equal numbers of more and less difficult ratio trials.",
+            "For the multiplication and testing experimental sessions the end-range performance was higher than mid-range performance [multiplication: 79% (SD = 31) vs. 64% (SD = 39), p = .02; division: 65% (SD = 39) vs. 59% (SD = 40), p = .39; multi-step testing: 80% (SD = 27) vs. 59% (SD = 38), p < .01], indicating that children were probably attentive to the distribution of possible outcomes and used this information to guide their answers.",
+            "To test whether this strategy could explain performance entirely, we used onesample tests to compare both the mid-and endrange problem performance for each experimental session to that of chance; middle-and end-range trials for multiplication (64% and 79%), and endrange trials for division (65%) and multi-step testing (80%), were significantly higher than 50% (all ps < .01).",
+            "The mid-range trials for division (59%) and multi-step testing (59%) were marginally higher than chance (ps = .09, .06, respectively).",
+            "To address the possibility that it is only on these challenging midrange trials that children might reach for inversionbased reasoning, we entered the mid-range test trials percentage correct into a one-way ANOVA with inversion condition as a between-subjects variable.",
+            "There was no effect of inversion condition, F(1, 62) = 2.56, p = .12."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The children in this experiment were clearly impacted by the increased difficulty of our ratio manipulation. When the ratio of the computed outcome and comparison array was too low, they had a difficult time distinguishing the transformed array from the comparison array and performed at chance levels during the most difficult division trials. This performance benefit for multiplication over division was also found in Experiment 1. However, one should use caution before concluding that scaling down the number of objects in a set is harder than scaling up. First, the division training was always given after the multiplication training in this design, which could readily lead to interference between the two processes. Second, a similar scaling paradigm used by McCrink and Spelke (2010, 2015) found no differences in overall performance as a function of operation type (multiplication/division) when the two processes were presented in isolation across children. The children in the current experiment also exhibited signs of using an extraneous, non-arithmetic range-based strategy when faced with these challenging division and multi-operation testing trials. This supports the idea that children may reach for alternative strategies to support their arithmetic reasoning in challenging situations (Siegler, 1987; Shrager & Siegler, 1998) , even during non-symbolic maths tasks. Despite this increased difficulty, they still exhibited no sign of utilizing a logical understanding of the inverse nature of the problem. Children who viewed an array that was quadrupled in number, and then immediately halved, were just as good at computing the outcome as those who saw a sequential doubling and then halving series.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "The children in this experiment were clearly impacted by the increased difficulty of our ratio manipulation.",
+            "When the ratio of the computed outcome and comparison array was too low, they had a difficult time distinguishing the transformed array from the comparison array and performed at chance levels during the most difficult division trials.",
+            "This performance benefit for multiplication over division was also found in Experiment 1.",
+            "However, one should use caution before concluding that scaling down the number of objects in a set is harder than scaling up.",
+            "First, the division training was always given after the multiplication training in this design, which could readily lead to interference between the two processes.",
+            "Second, a similar scaling paradigm used by McCrink and Spelke (2010, 2015) found no differences in overall performance as a function of operation type (multiplication/division) when the two processes were presented in isolation across children.",
+            "The children in the current experiment also exhibited signs of using an extraneous, non-arithmetic range-based strategy when faced with these challenging division and multi-operation testing trials.",
+            "This supports the idea that children may reach for alternative strategies to support their arithmetic reasoning in challenging situations (Siegler, 1987; Shrager & Siegler, 1998) , even during non-symbolic maths tasks.",
+            "Despite this increased difficulty, they still exhibited no sign of utilizing a logical understanding of the inverse nature of the problem.",
+            "Children who viewed an array that was quadrupled in number, and then immediately halved, were just as good at computing the outcome as those who saw a sequential doubling and then halving series."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The experiments reported here illustrate that children in the early years of formal schooling are strikingly good at performing multiple serial non-symbolic multiplication and division problems. They can readily quadruple, quarter, halve, and double the number of objects in a set, and they do so in a variety of scaling combinations. Their performance varied with the ratio of the computed outcome and a comparison array, indicating that this scaling is done in an approximate manner. In both experiments, multiplication transformations were more readily computed than division transformations, and multi-step problems were performed with precision similar to that of single-step multiplication problems. Despite being able to flexibly scale non-symbolic quantities by several multiplicative and divisive factors, children apparently failed to appreciate the conceptual relationship between these two operations and were unable to use the logic of inversion to improve their performance. The finding that performance on two-step problems-in which both multiplication and division transformations were presented-was similar to performance on single-operation problems was unexpected. Multi-step problems require two updates to the quantity representation while it is being transformed, increasing the number of arrays to be represented during problem solving. To our knowledge, there is only a small body of work on the development of combinatorial operations. The majority of these studies are with infants (Baillargeon, 1994; Moher et al., 2012; Piantadosi et al., 2015) and find a lack of prowess in making more than one transformation to a represented object or set of objects. By early childhood this ability appears to be in place: Piantadosi and Aslin (in press) have found that by 4 years of age, children can combine two transformations over an object, and Gilmore and Spelke (2008) established that 5-year-olds were above chance at computing the outcomes to blended addition and subtraction problems. However, operational combinations may come at a cost to children; comparing the datasets of Gilmore and Spelke (2008) to those of Barth et al. (2006) , obtained with similarly aged children and using similarly difficult ratios of outcomes to comparison arrays, suggests a decline in performance from single operations (69%) to multi-step operations (59%).",
+        "section": "General discussion",
+        "section_number": 34,
+        "sentences": [
+            "The experiments reported here illustrate that children in the early years of formal schooling are strikingly good at performing multiple serial non-symbolic multiplication and division problems.",
+            "They can readily quadruple, quarter, halve, and double the number of objects in a set, and they do so in a variety of scaling combinations.",
+            "Their performance varied with the ratio of the computed outcome and a comparison array, indicating that this scaling is done in an approximate manner.",
+            "In both experiments, multiplication transformations were more readily computed than division transformations, and multi-step problems were performed with precision similar to that of single-step multiplication problems.",
+            "Despite being able to flexibly scale non-symbolic quantities by several multiplicative and divisive factors, children apparently failed to appreciate the conceptual relationship between these two operations and were unable to use the logic of inversion to improve their performance.",
+            "The finding that performance on two-step problems-in which both multiplication and division transformations were presented-was similar to performance on single-operation problems was unexpected.",
+            "Multi-step problems require two updates to the quantity representation while it is being transformed, increasing the number of arrays to be represented during problem solving.",
+            "To our knowledge, there is only a small body of work on the development of combinatorial operations.",
+            "The majority of these studies are with infants (Baillargeon, 1994; Moher et al., 2012; Piantadosi et al., 2015) and find a lack of prowess in making more than one transformation to a represented object or set of objects.",
+            "By early childhood this ability appears to be in place: Piantadosi and Aslin (in press) have found that by 4 years of age, children can combine two transformations over an object, and Gilmore and Spelke (2008) established that 5-year-olds were above chance at computing the outcomes to blended addition and subtraction problems.",
+            "However, operational combinations may come at a cost to children; comparing the datasets of Gilmore and Spelke (2008) to those of Barth et al. (2006) , obtained with similarly aged children and using similarly difficult ratios of outcomes to comparison arrays, suggests a decline in performance from single operations (69%) to multi-step operations (59%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "In contrast, children in the current task performed similarly on multi-transformation trials, compared to division trials in which only one transformation was demanded. It is possible that the serial nature of the paradigm used in these experiments assisted in lightening the memory load for the children. The children only ever needed to hold one single amount in mind at any one time, up until the comparison array appeared. If we had required them to hold each of these amounts in memory simultaneously, then the difference between the conditions would probably be greater (Feigenson & Yamaguchi, 2009; Moher & Feigenson, 2013) . A challenge to this explanation is that the previous work that suggests costly updating during arithmetic (Barth et al., 2006; Gilmore & Spelke, 2008) was also presented serially in a paradigm similar to that of the current experiments. Perhaps the ability to carry out multiple updates here is a result of our slightly older participant pool (7 years of age, compared to 5). Children in the present study also had more practice with single transformations during training than was available in previous work; this may have emphasized that numerical information about the initial array could be discarded in favour of the transformed amount. Future work is needed to determine whether, and how, multiple scaling transformations impact the performance of younger children with less mature updating capacities. For example, a valuable follow-up would be to administer a separate working memory task, such as the Automated Working Memory Assessment (AWMA; Alloway, 2007) . In this way one could examine how the performance difference between single and multiple transformations varies with WM capacity and use an individual differences approach to inform the way we teach alternative or supplemental mathematical strategies to children.",
+        "section": "General discussion",
+        "section_number": 35,
+        "sentences": [
+            "In contrast, children in the current task performed similarly on multi-transformation trials, compared to division trials in which only one transformation was demanded.",
+            "It is possible that the serial nature of the paradigm used in these experiments assisted in lightening the memory load for the children.",
+            "The children only ever needed to hold one single amount in mind at any one time, up until the comparison array appeared.",
+            "If we had required them to hold each of these amounts in memory simultaneously, then the difference between the conditions would probably be greater (Feigenson & Yamaguchi, 2009; Moher & Feigenson, 2013) .",
+            "A challenge to this explanation is that the previous work that suggests costly updating during arithmetic (Barth et al., 2006; Gilmore & Spelke, 2008) was also presented serially in a paradigm similar to that of the current experiments.",
+            "Perhaps the ability to carry out multiple updates here is a result of our slightly older participant pool (7 years of age, compared to 5).",
+            "Children in the present study also had more practice with single transformations during training than was available in previous work; this may have emphasized that numerical information about the initial array could be discarded in favour of the transformed amount.",
+            "Future work is needed to determine whether, and how, multiple scaling transformations impact the performance of younger children with less mature updating capacities.",
+            "For example, a valuable follow-up would be to administer a separate working memory task, such as the Automated Working Memory Assessment (AWMA; Alloway, 2007) .",
+            "In this way one could examine how the performance difference between single and multiple transformations varies with WM capacity and use an individual differences approach to inform the way we teach alternative or supplemental mathematical strategies to children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "The children in this sample did not appear to use inversion reasoning to guide their computations. They experienced no benefit for problems in which they could have used a conceptual understanding of inversion to avoid carrying out mental computations, and instead simply to hold the initial array in mind and compare it to another at test. Bayes factor analyses conducted in each experiment showed evidence for this null effect. Pooling across all 128 children in Experiments 1 and 2 yields a Bayes factor suggesting that our data are more than four times more likely under the null hypothesis (B 01 = 4.38). Thus it appears from this study that there is a conceptual block between addition/subtraction reasoning and multiplication/division reasoning that transcends the format of the numerical representation (symbolic, or non-symbolic). It is possible that children explicitly appreciated the logic of inversion, but still chose to use interim calculations, believing them to be more \"trustworthy\" (as with the adolescent population in Robinson & Dub\u00e9, 2009) . However, we believe this to be improbable. First, children are notoriously poor at providing explicit answers to problems they can intuitively solve even in infancy (such as where and when an object will move according to gravity; Keen, 2003) . Second, both Kibbe and Feigenson (2015) and Gilmore and Spelke (2008) found that arithmetic logic in the non-symbolic, untrained domain precedes the same logic in the symbolic, formally trained domain, making the reverse pattern unlikely here.",
+        "section": "General discussion",
+        "section_number": 36,
+        "sentences": [
+            "The children in this sample did not appear to use inversion reasoning to guide their computations.",
+            "They experienced no benefit for problems in which they could have used a conceptual understanding of inversion to avoid carrying out mental computations, and instead simply to hold the initial array in mind and compare it to another at test.",
+            "Bayes factor analyses conducted in each experiment showed evidence for this null effect.",
+            "Pooling across all 128 children in Experiments 1 and 2 yields a Bayes factor suggesting that our data are more than four times more likely under the null hypothesis (B 01 = 4.38).",
+            "Thus it appears from this study that there is a conceptual block between addition/subtraction reasoning and multiplication/division reasoning that transcends the format of the numerical representation (symbolic, or non-symbolic).",
+            "It is possible that children explicitly appreciated the logic of inversion, but still chose to use interim calculations, believing them to be more \"trustworthy\" (as with the adolescent population in Robinson & Dub\u00e9, 2009) .",
+            "However, we believe this to be improbable.",
+            "First, children are notoriously poor at providing explicit answers to problems they can intuitively solve even in infancy (such as where and when an object will move according to gravity; Keen, 2003) .",
+            "Second, both Kibbe and Feigenson (2015) and Gilmore and Spelke (2008) found that arithmetic logic in the non-symbolic, untrained domain precedes the same logic in the symbolic, formally trained domain, making the reverse pattern unlikely here."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Another possible explanation for the lack of inversion benefit is the extensive training that children received on each initial operation. To appreciate inversion in this paradigm, the children needed to essentially ignore the transformations during multi-step testing. During the several dozen training trials on the single-step operations (a necessary aspect of our design, to instantiate the transformation factor of the wands), they may have grown accustomed to discarding information about the initial array, making them less apt to access this information during testing trials. However, one could imagine the reverse would also be true; seeing dozens of trials of transformations that are exactly the physical (breaking, joining) and mathematical (*2, /2) inverse of each other should substantially increase their willingness to conceive of the operations as inverse to each other.",
+        "section": "General discussion",
+        "section_number": 37,
+        "sentences": [
+            "Another possible explanation for the lack of inversion benefit is the extensive training that children received on each initial operation.",
+            "To appreciate inversion in this paradigm, the children needed to essentially ignore the transformations during multi-step testing.",
+            "During the several dozen training trials on the single-step operations (a necessary aspect of our design, to instantiate the transformation factor of the wands), they may have grown accustomed to discarding information about the initial array, making them less apt to access this information during testing trials.",
+            "However, one could imagine the reverse would also be true; seeing dozens of trials of transformations that are exactly the physical (breaking, joining) and mathematical (*2, /2) inverse of each other should substantially increase their willingness to conceive of the operations as inverse to each other."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "Thus, the findings reported here echo what is consistently found in the literature on symbolic inversion: a distinct lack of transfer between addition and subtraction inversion logic and multiplication and division logic (Robinson & Dub\u00e9, 2009; Robinson & Ninowski, 2003; Robinson et al., 2006) . These children were older than the children in Gilmore and Spelke (2008) , who exhibited inversion reasoning in the realm of approximate addition and subtraction, yet they failed to exhibit it here in a logically identical paradigm. The design here was between subjects, and therefore the children who were placed into the inversion conditions could know immediately from the training sessions that the scaling factors for multiplication and division were the inverse of each other. With this knowledge in hand, there is logically no need to perform any scaling process or updating of the initial array. Further, the children studied in these experiments were no strangers to the use of shortcuts to solve problems, especially challenging ones; their usage of non-scaling, range-based strategies increased when the required discrimination required were more difficult.",
+        "section": "General discussion",
+        "section_number": 38,
+        "sentences": [
+            "Thus, the findings reported here echo what is consistently found in the literature on symbolic inversion: a distinct lack of transfer between addition and subtraction inversion logic and multiplication and division logic (Robinson & Dub\u00e9, 2009; Robinson & Ninowski, 2003; Robinson et al., 2006) .",
+            "These children were older than the children in Gilmore and Spelke (2008) , who exhibited inversion reasoning in the realm of approximate addition and subtraction, yet they failed to exhibit it here in a logically identical paradigm.",
+            "The design here was between subjects, and therefore the children who were placed into the inversion conditions could know immediately from the training sessions that the scaling factors for multiplication and division were the inverse of each other.",
+            "With this knowledge in hand, there is logically no need to perform any scaling process or updating of the initial array.",
+            "Further, the children studied in these experiments were no strangers to the use of shortcuts to solve problems, especially challenging ones; their usage of non-scaling, range-based strategies increased when the required discrimination required were more difficult."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "An unresolved question, then, is why children cannot recognize and/or employ inversion logic for non-symbolic scaling. A potential explanation is that the conceptual logic is there, as it is with adding and subtracting, but it is masked by a lack of confidence in the domain of scaling. Children are, generally, presented with the viewpoint that multiplication and division are more challenging than addition and subtraction. For example, multiplication facts and division facts are more likely to be taught in a memorized, rote way than addition and subtraction facts (e.g., the prevalence of \"times tables\"), and addition/subtraction concepts are introduced several years before multiplication/division concepts in the course of early schooling (kindergarten vs. third grade). We believe that this may have the unintended effect of leading children and even adults (Robinson & Ninowski, 2003) to be less likely to reach for arithmetic intuition when multiplying or dividing than when adding and subtracting, even when it is applicable. They would rather be \"safe than sorry\". This explanation leads to the counterintuitive hypothesis that preschool children, or any other unschooled population, might be more likely than older children to reach for inversion-based strategies when multiplying and dividing. After all, they have not been exposed to these contrasting ideas of arithmetic difficulty and formal solving strategies for scaling and adding/subtracting and do appear to appreciate the principles of inversion for other types of non-symbolic arithmetic.",
+        "section": "General discussion",
+        "section_number": 39,
+        "sentences": [
+            "An unresolved question, then, is why children cannot recognize and/or employ inversion logic for non-symbolic scaling.",
+            "A potential explanation is that the conceptual logic is there, as it is with adding and subtracting, but it is masked by a lack of confidence in the domain of scaling.",
+            "Children are, generally, presented with the viewpoint that multiplication and division are more challenging than addition and subtraction.",
+            "For example, multiplication facts and division facts are more likely to be taught in a memorized, rote way than addition and subtraction facts (e.g., the prevalence of \"times tables\"), and addition/subtraction concepts are introduced several years before multiplication/division concepts in the course of early schooling (kindergarten vs. third grade).",
+            "We believe that this may have the unintended effect of leading children and even adults (Robinson & Ninowski, 2003) to be less likely to reach for arithmetic intuition when multiplying or dividing than when adding and subtracting, even when it is applicable.",
+            "They would rather be \"safe than sorry\".",
+            "This explanation leads to the counterintuitive hypothesis that preschool children, or any other unschooled population, might be more likely than older children to reach for inversion-based strategies when multiplying and dividing.",
+            "After all, they have not been exposed to these contrasting ideas of arithmetic difficulty and formal solving strategies for scaling and adding/subtracting and do appear to appreciate the principles of inversion for other types of non-symbolic arithmetic."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39192",
+        "text": "In sum, these results converge with those of Barth et al. (2009) and McCrink and Spelke (2010) , who found that young children were able to non-symbolically multiply and divide and to do so with a variety of scaling factors. They support the robustness of this phenomenon: Children with little to no formal experience with multiplication and division were able to serially compute multiple scaling transformations. These results also suggest that the divide between different types of inversion understanding found in the symbolic literature is a deep one, which extends to non-symbolic reasoning as well. This information is essential knowledge, given the contradictory findings that non-symbolic mathematical skills are sometimes linked to formal mathematical skills (Gilmore, Attridge, De Smedt, & Inglis, 2014; Halberda, Mazzocco, & Feigenson, 2008; Mazzocco, Feigenson, & Halberda, 2011; Park & Brannon, 2013; Piazza et al., 2010) and sometimes not (Bonny & Lourenco, 2013; De Smedt & Gilmore, 2011; Holloway & Ansari, 2009; Libertus, Feigenson, & Halberda, 2013; Sasanguie, De Smedt, Defever, & Reynvoet, 2012; Sz\u0171cs, Devine, Soltesz, Nobes, & Gabriel, 2014) as well as the proposition that these skills form a foundation for some early symbolic mathematical skills (as in Gilmore, McCarthy, & Spelke, 2007) . By delineating the boundaries of children's arithmetic intuitions, and taking into account their strengths and weaknesses, we may be able to design effective ways to improve their conceptual understanding at critical points in development.",
+        "section": "General discussion",
+        "section_number": 40,
+        "sentences": [
+            "In sum, these results converge with those of Barth et al. (2009) and McCrink and Spelke (2010) , who found that young children were able to non-symbolically multiply and divide and to do so with a variety of scaling factors.",
+            "They support the robustness of this phenomenon: Children with little to no formal experience with multiplication and division were able to serially compute multiple scaling transformations.",
+            "These results also suggest that the divide between different types of inversion understanding found in the symbolic literature is a deep one, which extends to non-symbolic reasoning as well.",
+            "This information is essential knowledge, given the contradictory findings that non-symbolic mathematical skills are sometimes linked to formal mathematical skills (Gilmore, Attridge, De Smedt, & Inglis, 2014; Halberda, Mazzocco, & Feigenson, 2008; Mazzocco, Feigenson, & Halberda, 2011; Park & Brannon, 2013; Piazza et al., 2010) and sometimes not (Bonny & Lourenco, 2013; De Smedt & Gilmore, 2011; Holloway & Ansari, 2009; Libertus, Feigenson, & Halberda, 2013; Sasanguie, De Smedt, Defever, & Reynvoet, 2012; Sz\u0171cs, Devine, Soltesz, Nobes, & Gabriel, 2014) as well as the proposition that these skills form a foundation for some early symbolic mathematical skills (as in Gilmore, McCarthy, & Spelke, 2007) .",
+            "By delineating the boundaries of children's arithmetic intuitions, and taking into account their strengths and weaknesses, we may be able to design effective ways to improve their conceptual understanding at critical points in development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

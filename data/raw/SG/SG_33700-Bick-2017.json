@@ -1,0 +1,1016 @@
+[
+    {
+        "doc_id": "33700",
+        "text": "Children exposed to extreme early-life neglect such as in institutional rearing are at heightened risk for developing depression and anxiety disorders, and internalizing problems more broadly. These outcomes are believed to be due to alterations in the development of neural circuitry that supports emotion regulation. The specific neurodevelopmental changes that contribute to these difficulties are largely unknown. This study examined whether microstructural alterations in white matter pathways predicted long-term risk for internalizing problems in institutionally reared children. Data from 69 children were drawn from the Bucharest Early Intervention Project, a randomized clinical trial of foster care for institutionally reared children. White matter was assessed using diffusion tensor imaging (DTI) when children were between 8 and 10 years of age. Internalizing symptoms were assessed at the time of the MRI scan, and once children reached 12-14 years of age. Results indicated that neglect-associated alterations in the external capsule and corpus callosum partially explained links between institutional rearing status and internalizing symptoms in middle childhood and early adolescence. Findings shed light on neural mechanisms contributing to increased risk for emotional difficulties among children reared in adverse conditions and have implications for prevention and intervention. This article is part of a Special Issue entitled: Early Adversity.",
+        "section": "Abstract",
+        "sentences": [
+            "Children exposed to extreme early-life neglect such as in institutional rearing are at heightened risk for developing depression and anxiety disorders, and internalizing problems more broadly.",
+            "These outcomes are believed to be due to alterations in the development of neural circuitry that supports emotion regulation.",
+            "The specific neurodevelopmental changes that contribute to these difficulties are largely unknown.",
+            "This study examined whether microstructural alterations in white matter pathways predicted long-term risk for internalizing problems in institutionally reared children.",
+            "Data from 69 children were drawn from the Bucharest Early Intervention Project, a randomized clinical trial of foster care for institutionally reared children.",
+            "White matter was assessed using diffusion tensor imaging (DTI) when children were between 8 and 10 years of age.",
+            "Internalizing symptoms were assessed at the time of the MRI scan, and once children reached 12-14 years of age.",
+            "Results indicated that neglect-associated alterations in the external capsule and corpus callosum partially explained links between institutional rearing status and internalizing symptoms in middle childhood and early adolescence.",
+            "Findings shed light on neural mechanisms contributing to increased risk for emotional difficulties among children reared in adverse conditions and have implications for prevention and intervention.",
+            "This article is part of a Special Issue entitled: Early Adversity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Institutional rearing is a common practice for abandoned children, with an estimated eight million children currently living in institutions around the world (Committee on the Rights of the Child, United Nation's Children 's Fund, 2004; UNICEF, 2010) . It is well established that institutional rearing increases risk for a number of psychiatric problems. Disorders associated with poor emotion regulation and elevated internalizing symptoms, such as anxiety and depression, are highly prevalent (Smyke et al., 2007; Ghera et al., 2009; Bos et al., 2011) . Growing evidence suggests that early experienced-based alterations in brain development may contribute to increased emotional dysregulation in severely neglected children (Simsek et al., 2008; Zeanah et al., 2009; Wiik et al., 2011) . However, the specific neurodevelopmental alterations that contribute to these symptoms have yet to be elucidated.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Institutional rearing is a common practice for abandoned children, with an estimated eight million children currently living in institutions around the world (Committee on the Rights of the Child, United Nation's Children 's Fund, 2004; UNICEF, 2010) .",
+            "It is well established that institutional rearing increases risk for a number of psychiatric problems.",
+            "Disorders associated with poor emotion regulation and elevated internalizing symptoms, such as anxiety and depression, are highly prevalent (Smyke et al., 2007; Ghera et al., 2009; Bos et al., 2011) .",
+            "Growing evidence suggests that early experienced-based alterations in brain development may contribute to increased emotional dysregulation in severely neglected children (Simsek et al., 2008; Zeanah et al., 2009; Wiik et al., 2011) .",
+            "However, the specific neurodevelopmental alterations that contribute to these symptoms have yet to be elucidated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Due to high child to caregiver ratios, limited caregiver responsiveness, and an absence of typical emotional and cognitive stimulation, institutionally reared children are deprived of basic early experiences that drive typical brain development. These adverse experiences occur at a critical point in brain development and interfere with normative neurodevelopmental maturation in key circuitry. Findings from animal work demonstrate that early adverse rearing conditions are associated with alterations in synaptogenesis, neuronal differentiation, and synaptic pruning, especially in circuitry involved in stress regulation, reward response and motivation (as reviewed in Cirulli et al., 2003; Pryce et al., 2005; Stevens et al., 2009; Lutz and Turecki, 2014) .",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Due to high child to caregiver ratios, limited caregiver responsiveness, and an absence of typical emotional and cognitive stimulation, institutionally reared children are deprived of basic early experiences that drive typical brain development.",
+            "These adverse experiences occur at a critical point in brain development and interfere with normative neurodevelopmental maturation in key circuitry.",
+            "Findings from animal work demonstrate that early adverse rearing conditions are associated with alterations in synaptogenesis, neuronal differentiation, and synaptic pruning, especially in circuitry involved in stress regulation, reward response and motivation (as reviewed in Cirulli et al., 2003; Pryce et al., 2005; Stevens et al., 2009; Lutz and Turecki, 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Consistent with animal models, findings from human neuroimaging studies show long-term alterations in neural pathways that support higher level emotional functioning in children reared in adverse contexts. For example, children exposed to severe early-life neglect show alterations in limbic (Chugani et al., 2001; Mehta et al., 2009a; Tottenham et al., 2010 Tottenham et al., , 2011 Gee et al., 2013; Hanson et al., 2014) and fronto-striatal (Behen et al., 2009; Mehta et al., 2009b) circuitry. These neurodevelopmental alterations have been discussed as potential mechanisms underlying risk for increased anxiety, poorer emotion regulation, and reduced sensitivity to reward stimuli, which may contribute to risk for depression and anxiety disorders.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Consistent with animal models, findings from human neuroimaging studies show long-term alterations in neural pathways that support higher level emotional functioning in children reared in adverse contexts.",
+            "For example, children exposed to severe early-life neglect show alterations in limbic (Chugani et al., 2001; Mehta et al., 2009a; Tottenham et al., 2010 Tottenham et al., , 2011 Gee et al., 2013; Hanson et al., 2014) and fronto-striatal (Behen et al., 2009; Mehta et al., 2009b) circuitry.",
+            "These neurodevelopmental alterations have been discussed as potential mechanisms underlying risk for increased anxiety, poorer emotion regulation, and reduced sensitivity to reward stimuli, which may contribute to risk for depression and anxiety disorders."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Beyond these functional and structural changes in key cortical and subcortical neural regions, developmental differences in myelination patterns and neural http://dx.doi.org/10.1016/j.neuroscience.2015.09.026 0306-4522/\u00d3 2015 IBRO. Published by Elsevier Ltd. All rights reserved. connectivity in pathways that support emotion regulation may also contribute to risk for emotional difficulties in institutionally reared children. Specific neglect-associated alterations in white matter fiber tracts have recently been investigated using diffusion tensor imaging (DTI). DTI provides estimates of microstructural changes in white matter pathways throughout the brain, allowing for a more nuanced understanding of white matter differences, when compared with traditional volumetric methods.",
+        "section": "INTRODUCTION",
+        "section_number": 4,
+        "sentences": [
+            "Beyond these functional and structural changes in key cortical and subcortical neural regions, developmental differences in myelination patterns and neural http://dx.doi.org/10.1016/j.neuroscience.2015.09.026 0306-4522/\u00d3 2015 IBRO.",
+            "Published by Elsevier Ltd. All rights reserved.",
+            "connectivity in pathways that support emotion regulation may also contribute to risk for emotional difficulties in institutionally reared children.",
+            "Specific neglect-associated alterations in white matter fiber tracts have recently been investigated using diffusion tensor imaging (DTI).",
+            "DTI provides estimates of microstructural changes in white matter pathways throughout the brain, allowing for a more nuanced understanding of white matter differences, when compared with traditional volumetric methods."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "In a number of studies, internationally adopted children with histories of institutional rearing show reductions in integrity of fiber tracts involved in emotional processing and regulation, including lower fractional anisotropy (FA) and higher mean diffusivity (MD) in limbic and para-limbic (Eluvathingal et al., 2006; Govindan et al., 2010; Kumar et al., 2010; Hanson et al., 2013) and fronto-striatal (Behen et al., 2009; Kumar et al., 2014) circuitry, relative to non-neglected children. White matter microstructural changes have recently been investigated in the bucharest early intervention Project (BEIP), the first-ever randomized clinical trial of an early intervention for institutionally reared children. As part of the BEIP, children around two years of age were randomly assigned to receive ''care as usual\" in an institutional center or be removed from the institution and placed in high quality foster care (for more details on the study, see Zeanah et al., 2003; Nelson et al., 2014) .",
+        "section": "INTRODUCTION",
+        "section_number": 5,
+        "sentences": [
+            "In a number of studies, internationally adopted children with histories of institutional rearing show reductions in integrity of fiber tracts involved in emotional processing and regulation, including lower fractional anisotropy (FA) and higher mean diffusivity (MD) in limbic and para-limbic (Eluvathingal et al., 2006; Govindan et al., 2010; Kumar et al., 2010; Hanson et al., 2013) and fronto-striatal (Behen et al., 2009; Kumar et al., 2014) circuitry, relative to non-neglected children.",
+            "White matter microstructural changes have recently been investigated in the bucharest early intervention Project (BEIP), the first-ever randomized clinical trial of an early intervention for institutionally reared children.",
+            "As part of the BEIP, children around two years of age were randomly assigned to receive ''care as usual\" in an institutional center or be removed from the institution and placed in high quality foster care (for more details on the study, see Zeanah et al., 2003; Nelson et al., 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "White matter microstructure was assessed at a follow up MRI scan when children in the BEIP reached 8-10 years of age. Irrespective of foster care status, all children with histories of institutional rearing showed lower FA, and higher MD and radial diffusivity (RD) of the body of the corpus callosum relative to family reared children. However, children who were removed from the institution and placed into foster care showed normalization of white matter tracts involved in limbic circuitry (higher axial diffusivity (AD) of the right fornix cres, lower MD and RD of the right cingulum of the cingulate gyrus), and fronto-striatal circuitry (higher FA and lower MD and RD of the left external capsule, higher FA of the right external capsule, lower AD of the right anterior corona radiata, lower MD and AD of the left superior corona radiata; Bick et al., 2015) . These findings point to the long-term impact of early-life neglect on white matter development, and also suggest the potential for early intervention to support remediation in critical white matter pathways.",
+        "section": "INTRODUCTION",
+        "section_number": 6,
+        "sentences": [
+            "White matter microstructure was assessed at a follow up MRI scan when children in the BEIP reached 8-10 years of age.",
+            "Irrespective of foster care status, all children with histories of institutional rearing showed lower FA, and higher MD and radial diffusivity (RD) of the body of the corpus callosum relative to family reared children.",
+            "However, children who were removed from the institution and placed into foster care showed normalization of white matter tracts involved in limbic circuitry (higher axial diffusivity (AD) of the right fornix cres, lower MD and RD of the right cingulum of the cingulate gyrus), and fronto-striatal circuitry (higher FA and lower MD and RD of the left external capsule, higher FA of the right external capsule, lower AD of the right anterior corona radiata, lower MD and AD of the left superior corona radiata; Bick et al., 2015) .",
+            "These findings point to the long-term impact of early-life neglect on white matter development, and also suggest the potential for early intervention to support remediation in critical white matter pathways."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Despite substantial progress in understanding alterations in white matter microstructure associated with institutional rearing, there is significantly less known in terms of how disruptions in white matter microstructure may increase risk for psychiatric symptoms in neglected children. White matter tracts involved in circuitry that supports emotion and stress regulation may be particularly implicated in risk for internalizing symptoms. Candidate tracts may include those involved in fronto-limbic, limbic, and para-limbic connectivity, such as the cingulum (which contains fibers running from limbic regions such as the amygdala and parahippocampal gyrus to the frontal lobe), the uncinate fasciculus (which contains white matter fibers that connect limbic and paralimbic regions to the orbitofrontal cortex), and the fornix (which connects the hippocampus to the mammillary body, Dejerine, 1895; Klingler and Gloor, 1960; Crosby et al., 1962; Nieuwenhuys et al., 2008) . Given implications in top down control of emotion regulation, reward sensitivity, and motivation (Pessiglione et al., 2006) , alterations in frontostriatal pathways may also increase risk for internalizing symptoms, particularly depression. Candidate tracts include anterior portions of the corona radiata, the anterior internal capsule, and the external capsule (Catani and Thiebaut de Schotten, 2012) .",
+        "section": "INTRODUCTION",
+        "section_number": 7,
+        "sentences": [
+            "Despite substantial progress in understanding alterations in white matter microstructure associated with institutional rearing, there is significantly less known in terms of how disruptions in white matter microstructure may increase risk for psychiatric symptoms in neglected children.",
+            "White matter tracts involved in circuitry that supports emotion and stress regulation may be particularly implicated in risk for internalizing symptoms.",
+            "Candidate tracts may include those involved in fronto-limbic, limbic, and para-limbic connectivity, such as the cingulum (which contains fibers running from limbic regions such as the amygdala and parahippocampal gyrus to the frontal lobe), the uncinate fasciculus (which contains white matter fibers that connect limbic and paralimbic regions to the orbitofrontal cortex), and the fornix (which connects the hippocampus to the mammillary body, Dejerine, 1895; Klingler and Gloor, 1960; Crosby et al., 1962; Nieuwenhuys et al., 2008) .",
+            "Given implications in top down control of emotion regulation, reward sensitivity, and motivation (Pessiglione et al., 2006) , alterations in frontostriatal pathways may also increase risk for internalizing symptoms, particularly depression.",
+            "Candidate tracts include anterior portions of the corona radiata, the anterior internal capsule, and the external capsule (Catani and Thiebaut de Schotten, 2012) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Corpus callosum reductions have been implicated in a number of internalizing disorders in children, including pediatric depression (Aghajani et al., 2013; Macmaster et al., 2013; Bessette et al., 2014) , trauma-related disorders involving anxiety (i.e. intrusive thoughts, avoidance, and hyperarousal; De Bellis et al., 1999) and anxiety symptoms (Jackowski et al., 2008 ) in children exposed to earlylife stress. The corpus callosum is the largest white matter tract in the brain and facilitates inter-hemispheric communication necessary for higher level emotional and cognitive abilities (Kitterle, 1995; Giedd et al., 1996) . Structural alterations in this region have also been consistently observed in individuals exposed to early adverse rearing conditions, including conditions involving childhood maltreatment (De Bellis et al., 1999 Bellis et al., , 2002 De Bellis and Keshavan, 2003; Teicher et al., 2004; Jackowski et al., 2008; Paul et al., 2008; Huang et al., 2012) and institutional rearing (Mehta et al., 2009a) . The genu and rostral portions of the corpus callosum contain projections to the ventral, lateral, and orbital regions of the prefrontal cortex and the mid-body contains projections to the anterior cingulate cortex (Georgy et al., 1993; Catani and Thiebaut de Schotten, 2012) . Therefore, both of these subregions are considered to support processing and regulation of emotions. For this reason, alterations in the body and genu of the corpus callosum may be particularly implicated in risk for depression and anxiety symptoms.",
+        "section": "INTRODUCTION",
+        "section_number": 8,
+        "sentences": [
+            "Corpus callosum reductions have been implicated in a number of internalizing disorders in children, including pediatric depression (Aghajani et al., 2013; Macmaster et al., 2013; Bessette et al., 2014) , trauma-related disorders involving anxiety (i.e. intrusive thoughts, avoidance, and hyperarousal; De Bellis et al., 1999) and anxiety symptoms (Jackowski et al., 2008 ) in children exposed to earlylife stress.",
+            "The corpus callosum is the largest white matter tract in the brain and facilitates inter-hemispheric communication necessary for higher level emotional and cognitive abilities (Kitterle, 1995; Giedd et al., 1996) .",
+            "Structural alterations in this region have also been consistently observed in individuals exposed to early adverse rearing conditions, including conditions involving childhood maltreatment (De Bellis et al., 1999 Bellis et al., , 2002 De Bellis and Keshavan, 2003; Teicher et al., 2004; Jackowski et al., 2008; Paul et al., 2008; Huang et al., 2012) and institutional rearing (Mehta et al., 2009a) .",
+            "The genu and rostral portions of the corpus callosum contain projections to the ventral, lateral, and orbital regions of the prefrontal cortex and the mid-body contains projections to the anterior cingulate cortex (Georgy et al., 1993; Catani and Thiebaut de Schotten, 2012) .",
+            "Therefore, both of these subregions are considered to support processing and regulation of emotions.",
+            "For this reason, alterations in the body and genu of the corpus callosum may be particularly implicated in risk for depression and anxiety symptoms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "A primary goal of this study was to examine whether neglect-induced alterations in selected limbic and frontostriatal white matter tracts and the corpus callosum would be associated with concurrent and prospective risk for internalizing among institutionally reared children in the BEIP. We specifically hypothesized that white matter microstructural alterations in tracts involved the limbic, fronto-striatal, and corpus callosum pathways would mediate associations between early-life deprivation and risk for internalizing symptoms emergent in late childhood and pre-adolescence. We secondarily hypothesized that early intervention-based improvements in microstructural alterations would indirectly explain reduced risk for internalizing problems concurrently and prospectively.",
+        "section": "INTRODUCTION",
+        "section_number": 9,
+        "sentences": [
+            "A primary goal of this study was to examine whether neglect-induced alterations in selected limbic and frontostriatal white matter tracts and the corpus callosum would be associated with concurrent and prospective risk for internalizing among institutionally reared children in the BEIP.",
+            "We specifically hypothesized that white matter microstructural alterations in tracts involved the limbic, fronto-striatal, and corpus callosum pathways would mediate associations between early-life deprivation and risk for internalizing symptoms emergent in late childhood and pre-adolescence.",
+            "We secondarily hypothesized that early intervention-based improvements in microstructural alterations would indirectly explain reduced risk for internalizing problems concurrently and prospectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Procedure BEIP is a randomized clinical trial of foster care as an intervention for early institutionalization. At around two years of age, 136 children who had spent more than half of their lives in institutions in Bucharest were recruited and assessed. Half of this cohort was then randomly selected to be removed from the institutional rearing environment to be placed into foster care (the ''foster care group\", FCG). The other half received care as usual in the institutional setting (the ''care as usual group,\" CAUG). A third group of age-and gender-matched children reared in their biological families in Bucharest (the ''never institutionalized group,\" NIG) were used as a comparison group (Zeanah et al., 2003; Nelson et al., 2014) . Institutional Review Boards from the University of Maryland, Boston Children's Hospital, and Tulane University approved all procedures, as did an institutional review board established in Romania. Consent was obtained and signed for by each child's legal guardian as per Romanian law. Assent for each procedure was obtained from each of the children. Additional safeguards, protections, and considerations related to conducting research with this specific sample of children have been discussed previously (Wassenaar, 2006; Zeanah et al., 2006; Millum and Emanuel, 2007; Nelson et al., 2007) .",
+        "section": "EXPERIMENTAL PROCEDURES",
+        "section_number": 10,
+        "sentences": [
+            "Procedure BEIP is a randomized clinical trial of foster care as an intervention for early institutionalization.",
+            "At around two years of age, 136 children who had spent more than half of their lives in institutions in Bucharest were recruited and assessed.",
+            "Half of this cohort was then randomly selected to be removed from the institutional rearing environment to be placed into foster care (the ''foster care group\", FCG).",
+            "The other half received care as usual in the institutional setting (the ''care as usual group,\" CAUG).",
+            "A third group of age-and gender-matched children reared in their biological families in Bucharest (the ''never institutionalized group,\" NIG) were used as a comparison group (Zeanah et al., 2003; Nelson et al., 2014) .",
+            "Institutional Review Boards from the University of Maryland, Boston Children's Hospital, and Tulane University approved all procedures, as did an institutional review board established in Romania.",
+            "Consent was obtained and signed for by each child's legal guardian as per Romanian law.",
+            "Assent for each procedure was obtained from each of the children.",
+            "Additional safeguards, protections, and considerations related to conducting research with this specific sample of children have been discussed previously (Wassenaar, 2006; Zeanah et al., 2006; Millum and Emanuel, 2007; Nelson et al., 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "DTI data from 69 participants (ages 8-10 years) in the BEIP were available and selected for the tract based spatial statistics (TBSS) analysis in order to investigate potential white matter abnormalities related to institutional rearing during early development. Participants included children randomized out of the institution who were placed into foster care (FCG; n = 23), children randomly assigned to remain in institutional care (CAUG; n = 26), and children who had never been in institutional care (NIG; n = 20).",
+        "section": "Participants",
+        "section_number": 11,
+        "sentences": [
+            "DTI data from 69 participants (ages 8-10 years) in the BEIP were available and selected for the tract based spatial statistics (TBSS) analysis in order to investigate potential white matter abnormalities related to institutional rearing during early development.",
+            "Participants included children randomized out of the institution who were placed into foster care (FCG; n = 23), children randomly assigned to remain in institutional care (CAUG; n = 26), and children who had never been in institutional care (NIG; n = 20)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "There were no statistically significant differences in children's ages or gender across groups at the MRI assessment. Children who provided complete MRI data in this study did not significantly differ in their age, gender, or level of internalizing problems from children who did not provide MRI data. This was tested in the total sample and for each subgroup. See Table 1 for demographic characteristics of this sample. (For additional demographic details on the total sample and subsample, see Zeanah et al., 2003; Bick et al., 2015) .",
+        "section": "Participants",
+        "section_number": 12,
+        "sentences": [
+            "There were no statistically significant differences in children's ages or gender across groups at the MRI assessment.",
+            "Children who provided complete MRI data in this study did not significantly differ in their age, gender, or level of internalizing problems from children who did not provide MRI data.",
+            "This was tested in the total sample and for each subgroup.",
+            "See Table 1 for demographic characteristics of this sample. (",
+            "For additional demographic details on the total sample and subsample, see Zeanah et al., 2003; Bick et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "DTI scans were performed on a Siemens 1.5T scanner using a single-shot echo planar imaging (EPI) sequence with twice-refocused spin echoes. The scanning parameters for DTI acquisitions were: TR/TE (repetition time/echo time) = 8600/100 ms, slice thickness = 2.3 mm with no gap and a total of 55 slices for a whole brain coverage, data matrix = 208 \u00c2 208, FOV (field of view) = 240 mm \u00c2 240 mm. Diffusion weighted images were acquired along 30 non-collinear and non-coplanar directions with b = 1000 s/mm 2 along with two b = 0 s/ mm 2 images.",
+        "section": "DTI scan protocol",
+        "section_number": 13,
+        "sentences": [
+            "DTI scans were performed on a Siemens 1.5T scanner using a single-shot echo planar imaging (EPI) sequence with twice-refocused spin echoes.",
+            "The scanning parameters for DTI acquisitions were: TR/TE (repetition time/echo time) = 8600/100 ms, slice thickness = 2.3 mm with no gap and a total of 55 slices for a whole brain coverage, data matrix = 208 \u00c2 208, FOV (field of view) = 240 mm \u00c2 240 mm.",
+            "Diffusion weighted images were acquired along 30 non-collinear and non-coplanar directions with b = 1000 s/mm 2 along with two b = 0 s/ mm 2 images."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Tensor and tensor-derived parametric maps for FA, MD, AD, and RD, were first estimated using the DTIFIT tool in FSL package (FMRIB Analysis Group, Oxford, UK). FA maps were then fed into the TBSS tool (Smith et al., 2006) to generate a white matter skeleton. Briefly, the TBSS algorithm aligned each individual's FA map to a common, high resolution FA template. This generated a mean FA map of all subjects in a study. The center of this new FA map represented the center of white matter tracts common to all subjects. A skeletonized FA map of each subject was then generated. This was done by first locating the subject's highest FA voxel that was perpendicular to the corresponding point on the mean skeleton (which was performed for a set of previously defined perpendicular directions for specific tracts) and assigning a value to this FA voxel.",
+        "section": "DTI image pre-processing",
+        "section_number": 14,
+        "sentences": [
+            "Tensor and tensor-derived parametric maps for FA, MD, AD, and RD, were first estimated using the DTIFIT tool in FSL package (FMRIB Analysis Group, Oxford, UK).",
+            "FA maps were then fed into the TBSS tool (Smith et al., 2006) to generate a white matter skeleton.",
+            "Briefly, the TBSS algorithm aligned each individual's FA map to a common, high resolution FA template.",
+            "This generated a mean FA map of all subjects in a study.",
+            "The center of this new FA map represented the center of white matter tracts common to all subjects.",
+            "A skeletonized FA map of each subject was then generated.",
+            "This was done by first locating the subject's highest FA voxel that was perpendicular to the corresponding point on the mean skeleton (which was performed for a set of previously defined perpendicular directions for specific tracts) and assigning a value to this FA voxel."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Considering the ages of participants in the BEIP (between 8 and 10 years at the time of the scan), a study-specific FA template in the standard space, instead of the FMRIB_FA_58 adult brain template, was created in a two-step approach (Douaud et al., 2011) for the TBSS analysis in this study. More specifically, all individual native FA maps were nonlinearly registered to the FMRIB_FA_58_1 mm template in the first step. The registered FA maps were then averaged to generate a mean FA map as a study-specific FA template. In the second step, each individual's native FA map was nonlinearly registered to this study-specific FA template to achieve a more accurate registration for the TBSS analysis. All of these steps were then repeated to extract MD, AD, and RD values.",
+        "section": "DTI image pre-processing",
+        "section_number": 15,
+        "sentences": [
+            "Considering the ages of participants in the BEIP (between 8 and 10 years at the time of the scan), a study-specific FA template in the standard space, instead of the FMRIB_FA_58 adult brain template, was created in a two-step approach (Douaud et al., 2011) for the TBSS analysis in this study.",
+            "More specifically, all individual native FA maps were nonlinearly registered to the FMRIB_FA_58_1 mm template in the first step.",
+            "The registered FA maps were then averaged to generate a mean FA map as a study-specific FA template.",
+            "In the second step, each individual's native FA map was nonlinearly registered to this study-specific FA template to achieve a more accurate registration for the TBSS analysis.",
+            "All of these steps were then repeated to extract MD, AD, and RD values."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The DTI atlas from the Laboratory of Brain Anatomical MRI at John Hopkins University included in the FSL package, the ICBM-DTI-81 White Matter Atlas (referred as the WM Atlas henceforth), was chosen as a template to facilitate identification of major WM structures. The WM Atlas includes 50 major WM structures with bilateral parts of the same structure labeled separately. Forty-eight of these tracts were identified for analyses in the current study (see Table 4 for complete list of tracts). The nomenclature and names for these 48 WM structures follow those used by Mori and van Zijl (1995) .",
+        "section": "Spatial classifications of DTI changes using DTI atlases",
+        "section_number": 16,
+        "sentences": [
+            "The DTI atlas from the Laboratory of Brain Anatomical MRI at John Hopkins University included in the FSL package, the ICBM-DTI-81 White Matter Atlas (referred as the WM Atlas henceforth), was chosen as a template to facilitate identification of major WM structures.",
+            "The WM Atlas includes 50 major WM structures with bilateral parts of the same structure labeled separately.",
+            "Forty-eight of these tracts were identified for analyses in the current study (see Table 4 for complete list of tracts).",
+            "The nomenclature and names for these 48 WM structures follow those used by Mori and van Zijl (1995) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "An individual mean DTI index for each tract was extracted per subject using the FSL package. Mean DTI values represented the average FA, MD, RD, or AD value across all voxels corresponding to each pre-defined white matter structure as defined by the JHU atlas. FA reflects the degree of restriction in the direction of water molecule diffusion and is elevated in tightly bundled, organized white matter tracts (Basser, 1995; Beaulieu, 2002; Sen and Basser, 2005) . While FA variability is highly sensitive to microstructural changes in white matter, FA is less sensitive to the type of change. For example lower FA could indicate white matter that is more diffusely organized, lower axonal density, or reductions in myelination. Measurements of MD are considered more useful for understanding the source of microstructural variability, as it can be decomposed into two eigenvalues (RD and AD) that reflect different properties of white matter microstructure (Schmithorst and Yuan, 2010) . RD represents the amount of diffusivity that occurs perpendicular to length of axons and is negatively associated with myelination levels. AD represents the amount of diffusivity that occurs in parallel to the length of axons, and increases with maturational changes in development, potentially reflecting increased organization and projection of axons. In this investigation, FA and MD values were examined for primary analyses. If significant associations between MD values and internalizing symptoms and institutional rearing were observed, on a post hoc basis, we explored whether these associations were due to variability in AD or RD values. Consistent with prior work (Howell et al., 2013) , we expected that RD values, but not AD values, would account for the associations between MD values, institutional rearing, and internalizing symptoms, as a reflection of potential maturational delays in early experience-driven myelination rates in institutionally reared children.",
+        "section": "DTI parameters included in analyses",
+        "section_number": 17,
+        "sentences": [
+            "An individual mean DTI index for each tract was extracted per subject using the FSL package.",
+            "Mean DTI values represented the average FA, MD, RD, or AD value across all voxels corresponding to each pre-defined white matter structure as defined by the JHU atlas.",
+            "FA reflects the degree of restriction in the direction of water molecule diffusion and is elevated in tightly bundled, organized white matter tracts (Basser, 1995; Beaulieu, 2002; Sen and Basser, 2005) .",
+            "While FA variability is highly sensitive to microstructural changes in white matter, FA is less sensitive to the type of change.",
+            "For example lower FA could indicate white matter that is more diffusely organized, lower axonal density, or reductions in myelination.",
+            "Measurements of MD are considered more useful for understanding the source of microstructural variability, as it can be decomposed into two eigenvalues (RD and AD) that reflect different properties of white matter microstructure (Schmithorst and Yuan, 2010) .",
+            "RD represents the amount of diffusivity that occurs perpendicular to length of axons and is negatively associated with myelination levels.",
+            "AD represents the amount of diffusivity that occurs in parallel to the length of axons, and increases with maturational changes in development, potentially reflecting increased organization and projection of axons.",
+            "In this investigation, FA and MD values were examined for primary analyses.",
+            "If significant associations between MD values and internalizing symptoms and institutional rearing were observed, on a post hoc basis, we explored whether these associations were due to variability in AD or RD values.",
+            "Consistent with prior work (Howell et al., 2013) , we expected that RD values, but not AD values, would account for the associations between MD values, institutional rearing, and internalizing symptoms, as a reflection of potential maturational delays in early experience-driven myelination rates in institutionally reared children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "DTI values for specific white matter tracts of interest were examined in association with variables of interest for this study. Tracts included the body and genu of the corpus callosum, limbic circuitry tracts (uncinate fasciculus, fornix, cingulum of the cingulate, cingulum of the hippocampus), and fronto-striatal tracts (anterior internal capsule, external capsule, anterior corona radiata).",
+        "section": "Tracts of interest",
+        "section_number": 18,
+        "sentences": [
+            "DTI values for specific white matter tracts of interest were examined in association with variables of interest for this study.",
+            "Tracts included the body and genu of the corpus callosum, limbic circuitry tracts (uncinate fasciculus, fornix, cingulum of the cingulate, cingulum of the hippocampus), and fronto-striatal tracts (anterior internal capsule, external capsule, anterior corona radiata)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The MacArthur health behavior questionnaire (HBQ; Essex et al., 2002) was used to assess internalizing symptoms in this study. The HBQ is a well-validated assessment of emotional and behavioral functioning of children ranging from 4 to 18 years. The HBQ assesses multiple domains of child functioning, including mental health, physical health, social functioning, and school functioning, and has been previously used to assess emotional and behavioral adjustment in institutionally reared children (Wiik et al., 2011) . For this study, the primary teacher completed the HBQ when children were between 8 and 10 years of age (M = 8.5 years, SD = .4 years) henceforth referred to as ''the 8-year assessment\". The HBQ was re-administered to teachers at a follow up assessment, when children were between 12 and 14 years of age (M = 12.68 years, SD = .5 years), henceforth referred to as ''the 12-year assessment\".",
+        "section": "Assessment of internalizing symptoms",
+        "section_number": 19,
+        "sentences": [
+            "The MacArthur health behavior questionnaire (HBQ; Essex et al., 2002) was used to assess internalizing symptoms in this study.",
+            "The HBQ is a well-validated assessment of emotional and behavioral functioning of children ranging from 4 to 18 years.",
+            "The HBQ assesses multiple domains of child functioning, including mental health, physical health, social functioning, and school functioning, and has been previously used to assess emotional and behavioral adjustment in institutionally reared children (Wiik et al., 2011) .",
+            "For this study, the primary teacher completed the HBQ when children were between 8 and 10 years of age (M = 8.5 years, SD = .4 years) henceforth referred to as ''the 8-year assessment\".",
+            "The HBQ was re-administered to teachers at a follow up assessment, when children were between 12 and 14 years of age (M = 12.68 years, SD = .5 years), henceforth referred to as ''the 12-year assessment\"."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "On the HBQ, mental health symptoms are categorized into composite internalizing or externalizing symptoms. Total internalizing problems can be subdivided into the ''depression\" and ''overanxious\" subscales. The depression subscale contains seven items that assess behavioral and social withdrawal, feelings of low self worth, and sadness. The overanxious subscale contains 12 items that assess physical and emotional symptoms of anxiety. Both of these subscales were used in analyses in this study. Adequate internal consistency for teacher-reported internalizing symptoms has been previously established (with chronbach alphas of .77 for the depression subscale and .76 for the anxiety subscale). Test-retest reliability for teacher-reported internalizing symptoms has also been shown to be adequate (r = .88 for internalizing symptoms; reliability scores for separate subscales were not reported; Armstrong et al., 2003) .",
+        "section": "Assessment of internalizing symptoms",
+        "section_number": 20,
+        "sentences": [
+            "On the HBQ, mental health symptoms are categorized into composite internalizing or externalizing symptoms.",
+            "Total internalizing problems can be subdivided into the ''depression\" and ''overanxious\" subscales.",
+            "The depression subscale contains seven items that assess behavioral and social withdrawal, feelings of low self worth, and sadness.",
+            "The overanxious subscale contains 12 items that assess physical and emotional symptoms of anxiety.",
+            "Both of these subscales were used in analyses in this study.",
+            "Adequate internal consistency for teacher-reported internalizing symptoms has been previously established (with chronbach alphas of .77 for the depression subscale and .76 for the anxiety subscale).",
+            "Test-retest reliability for teacher-reported internalizing symptoms has also been shown to be adequate (r = .88 for internalizing symptoms; reliability scores for separate subscales were not reported; Armstrong et al., 2003) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "At the 12-year assessment, adolescents using the Morris and Udry (1980) scale. Scores on the two pictorial items were averaged and then rounded to indicate which stage (1 through 5) of puberty the participant reported on this inventory.",
+        "section": "Pubertal status",
+        "section_number": 21,
+        "sentences": [
+            "At the 12-year assessment, adolescents using the Morris and Udry (1980) scale.",
+            "Scores on the two pictorial items were averaged and then rounded to indicate which stage (1 through 5) of puberty the participant reported on this inventory."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "A primary goal of this study was to examine whether institutional rearing histories were indirectly linked to risk for internalizing symptoms via specific white matter microstructural variability during middle childhood. To address this question, we first examined group differences in teacher-reported anxiety and depression symptoms at the 8-year and 12-year assessments using a series of one-way analyses of variances (ANOVAs). We also assessed group differences in the change in depression and anxiety symptoms from the 8-year to the 12-year assessment using repeated measures ANOVAs. Given prior evidence showing that institutionally reared girls placed into foster care homes were more likely to show remediation in internalizing symptoms than boys at 54 months of age (Zeanah et al., 2009) , we included gender as a potential moderator in all models. Birth weight was also included as a covariate in all models to serve as a proxy for prenatal risk.",
+        "section": "Data analytic plan",
+        "section_number": 22,
+        "sentences": [
+            "A primary goal of this study was to examine whether institutional rearing histories were indirectly linked to risk for internalizing symptoms via specific white matter microstructural variability during middle childhood.",
+            "To address this question, we first examined group differences in teacher-reported anxiety and depression symptoms at the 8-year and 12-year assessments using a series of one-way analyses of variances (ANOVAs).",
+            "We also assessed group differences in the change in depression and anxiety symptoms from the 8-year to the 12-year assessment using repeated measures ANOVAs.",
+            "Given prior evidence showing that institutionally reared girls placed into foster care homes were more likely to show remediation in internalizing symptoms than boys at 54 months of age (Zeanah et al., 2009) , we included gender as a potential moderator in all models.",
+            "Birth weight was also included as a covariate in all models to serve as a proxy for prenatal risk."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Next, we examined whether variability in white matter microstructure in candidate tracts at 8 years of age would predict variation in depression and anxiety symptoms assessed at 8 years and 12 years. Mediational models were then conducted, following conventional approaches, if three criteria were met: first that institutional rearing was significantly associated with the dependent variable of interest (internalizing symptoms), second, that institutional rearing was significantly associated with the mediator of interest (white matter microstructure of a priori hypothesized tracts), and third, that the selected mediator was significantly associated with the dependent variable of interest (internalizing symptoms) in the full sample. Consistent with current recommendations for testing mediation, we used a bootstrap procedure (1000 replications) to generate an empirical sampling distribution of effects, which provided bias-corrected confidence intervals for the direct, indirect, and total effects. Indirect effects were considered significant when confidence intervals for the indirect effect did not include zero, following established guidelines (Shrout and Bolger, 2002; MacKinnon et al., 2004 MacKinnon et al., , 2007 Preacher and Hayes, 2008) . Birth weight, a proxy for prenatal risk, was entered as a covariate in each meditational model. A conditional effect of gender on the association between institutional rearing and internalizing symptoms was included in each mediation model.",
+        "section": "Data analytic plan",
+        "section_number": 23,
+        "sentences": [
+            "Next, we examined whether variability in white matter microstructure in candidate tracts at 8 years of age would predict variation in depression and anxiety symptoms assessed at 8 years and 12 years.",
+            "Mediational models were then conducted, following conventional approaches, if three criteria were met: first that institutional rearing was significantly associated with the dependent variable of interest (internalizing symptoms), second, that institutional rearing was significantly associated with the mediator of interest (white matter microstructure of a priori hypothesized tracts), and third, that the selected mediator was significantly associated with the dependent variable of interest (internalizing symptoms) in the full sample.",
+            "Consistent with current recommendations for testing mediation, we used a bootstrap procedure (1000 replications) to generate an empirical sampling distribution of effects, which provided bias-corrected confidence intervals for the direct, indirect, and total effects.",
+            "Indirect effects were considered significant when confidence intervals for the indirect effect did not include zero, following established guidelines (Shrout and Bolger, 2002; MacKinnon et al., 2004 MacKinnon et al., , 2007 Preacher and Hayes, 2008) .",
+            "Birth weight, a proxy for prenatal risk, was entered as a covariate in each meditational model.",
+            "A conditional effect of gender on the association between institutional rearing and internalizing symptoms was included in each mediation model."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "We first applied these mediational models to the full sample, to test our hypothesis that variation in white matter microstructure would mediate links between institutional rearing histories and internalizing symptoms in later childhood. Our follow-up analyses included only the children in the CAUG and FCG, in order to test our secondary hypotheses that intervention-based improvements in white matter microstructure would indirectly link early intervention status with internalizing symptoms in later childhood.",
+        "section": "Data analytic plan",
+        "section_number": 24,
+        "sentences": [
+            "We first applied these mediational models to the full sample, to test our hypothesis that variation in white matter microstructure would mediate links between institutional rearing histories and internalizing symptoms in later childhood.",
+            "Our follow-up analyses included only the children in the CAUG and FCG, in order to test our secondary hypotheses that intervention-based improvements in white matter microstructure would indirectly link early intervention status with internalizing symptoms in later childhood."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Data were first inspected for outliers. One outlying value for teacher-reported depression scores at the 8-year assessment was identified and winsorized. HBQ reports of depression and anxiety scores were significantly positively skewed at both the 8-and 12-year assessment. Due to the presence of zero values, a square root transform was applied in order to normalize distributions, and subsequent analyses included these transformed values.",
+        "section": "Preliminary analyses",
+        "section_number": 25,
+        "sentences": [
+            "Data were first inspected for outliers.",
+            "One outlying value for teacher-reported depression scores at the 8-year assessment was identified and winsorized.",
+            "HBQ reports of depression and anxiety scores were significantly positively skewed at both the 8-and 12-year assessment.",
+            "Due to the presence of zero values, a square root transform was applied in order to normalize distributions, and subsequent analyses included these transformed values."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "8-Year assessment. At the 8-year assessment, teacher-reported internalizing problems varied as a function of early rearing status for both depression symptoms, F (2,188) = 13.03, p < .001, and anxiety symptoms, F (2,188) = 3.09, p = .048. Post hoc comparisons revealed that children in the CAUG and FCG had higher depression and anxiety symptoms relative to the NIG. Children in the CAUG and FCG did not significantly differ from each other in their anxiety or depression symptoms, suggesting no significant effect of the intervention at this time point. The main effect of Gender and the Gender X Group interaction was not significant in predicting internalizing problems at the 8-year assessment. See Table 2 for descriptive data on depression and anxiety symptoms at the 8-year assessment.",
+        "section": "Institutional rearing and internalizing symptoms",
+        "section_number": 26,
+        "sentences": [
+            "8-Year assessment.",
+            "At the 8-year assessment, teacher-reported internalizing problems varied as a function of early rearing status for both depression symptoms, F (2,188) = 13.03, p < .001, and anxiety symptoms, F (2,188) = 3.09, p = .048.",
+            "Post hoc comparisons revealed that children in the CAUG and FCG had higher depression and anxiety symptoms relative to the NIG.",
+            "Children in the CAUG and FCG did not significantly differ from each other in their anxiety or depression symptoms, suggesting no significant effect of the intervention at this time point.",
+            "The main effect of Gender and the Gender X Group interaction was not significant in predicting internalizing problems at the 8-year assessment.",
+            "See Table 2 for descriptive data on depression and anxiety symptoms at the 8-year assessment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "12-Year assessment. Preliminary explorations revealed that pubertal status was not significantly associated with depression or anxiety symptoms at the 12-year assessment (p > .05).",
+        "section": "Institutional rearing and internalizing symptoms",
+        "section_number": 27,
+        "sentences": [
+            "12-Year assessment.",
+            "Preliminary explorations revealed that pubertal status was not significantly associated with depression or anxiety symptoms at the 12-year assessment (p > .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "ANOVA results revealed a main effect of Group on depression symptoms, F (2,107) = 11.84, p < .001, which was qualified by a significant Group X Gender interaction, F (2,107) = 3.95, p = .022. Post hoc tests revealed that boys in the CAUG and FCG showed significantly higher levels of depression symptoms when compared with the NIG; boys in the CAUG and FCG did not significantly differ from each other, indicating no intervention effect. In contrast, girls in the CAUG showed significantly higher levels of depression symptoms when compared with both the FCG the NIG. Depression symptoms of girls in the FCG were significantly higher than the NIG. Therefore, there was a significant intervention effect in reducing depression symptoms for girls in the FCG; however, girls' depression symptoms in the FCG continued to be higher than girls' depression symptoms in the NIG at the 12-year assessment. See Table 2 for descriptive data on depression and anxiety symptoms at the 12-year assessment.",
+        "section": "Institutional rearing and internalizing symptoms",
+        "section_number": 28,
+        "sentences": [
+            "ANOVA results revealed a main effect of Group on depression symptoms, F (2,107) = 11.84, p < .001, which was qualified by a significant Group X Gender interaction, F (2,107) = 3.95, p = .022.",
+            "Post hoc tests revealed that boys in the CAUG and FCG showed significantly higher levels of depression symptoms when compared with the NIG; boys in the CAUG and FCG did not significantly differ from each other, indicating no intervention effect.",
+            "In contrast, girls in the CAUG showed significantly higher levels of depression symptoms when compared with both the FCG the NIG.",
+            "Depression symptoms of girls in the FCG were significantly higher than the NIG.",
+            "Therefore, there was a significant intervention effect in reducing depression symptoms for girls in the FCG; however, girls' depression symptoms in the FCG continued to be higher than girls' depression symptoms in the NIG at the 12-year assessment.",
+            "See Table 2 for descriptive data on depression and anxiety symptoms at the 12-year assessment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "For anxiety symptoms at the 12-year assessment, there was a main effect of group, F (2,107) = 3.19, p = .045, which was also qualified by a significant Gender X Group interaction, F (2,107) = 6.60, p = .002. Post hoc tests showed boys' anxiety symptoms in the CAUG, FCG, or NIG did not significantly differ from each other. However, for girls, the CAUG showed significantly higher anxiety symptoms when compared with the FCG and NIG. Anxiety symptoms of girls in the FCG did not significantly differ from the NIG, suggesting a full remediation of symptoms for girls in the intervention.",
+        "section": "Institutional rearing and internalizing symptoms",
+        "section_number": 29,
+        "sentences": [
+            "For anxiety symptoms at the 12-year assessment, there was a main effect of group, F (2,107) = 3.19, p = .045, which was also qualified by a significant Gender X Group interaction, F (2,107) = 6.60, p = .002.",
+            "Post hoc tests showed boys' anxiety symptoms in the CAUG, FCG, or NIG did not significantly differ from each other.",
+            "However, for girls, the CAUG showed significantly higher anxiety symptoms when compared with the FCG and NIG.",
+            "Anxiety symptoms of girls in the FCG did not significantly differ from the NIG, suggesting a full remediation of symptoms for girls in the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Change over time. Pubertal status was not significantly associated with the degree to which depression or anxiety symptoms changed over time (p values >.05). Change in depression and anxiety symptoms from the 8-to 12-year assessment was also examined. Results revealed a non-significant Group X Time X Gender interaction for depression symptoms, F (2,95) = 2.65, p = .076, and significant Group X Time X Gender interaction for anxiety symptoms, F (2,95) = 5.76, p = .004. For both anxiety and depression symptoms, follow up tests revealed that only girls in the FCG showed a significant decrease in symptoms over time (see Figs. 1 and 3 ). There was no difference in the degree to which boys' depression or anxiety symptoms changed across groups (see Figs. 2 and 4 ).",
+        "section": "Institutional rearing and internalizing symptoms",
+        "section_number": 30,
+        "sentences": [
+            "Change over time.",
+            "Pubertal status was not significantly associated with the degree to which depression or anxiety symptoms changed over time (p values >.05).",
+            "Change in depression and anxiety symptoms from the 8-to 12-year assessment was also examined.",
+            "Results revealed a non-significant Group X Time X Gender interaction for depression symptoms, F (2,95) = 2.65, p = .076, and significant Group X Time X Gender interaction for anxiety symptoms, F (2,95) = 5.76, p = .004.",
+            "For both anxiety and depression symptoms, follow up tests revealed that only girls in the FCG showed a significant decrease in symptoms over time (see Figs. 1 and 3 ).",
+            "There was no difference in the degree to which boys' depression or anxiety symptoms changed across groups (see Figs. 2 and 4 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Linear regression models were applied to the full sample to examine whether variability in teacher reports of depression and anxiety symptoms at 8 and 12 years of age, and change in these symptoms over time, was associated with FA and MD values of white matter tracts of interest in limbic and fronto-striatal circuitry. FA and MD values for separate tracts were moderately to highly correlated with each other. Therefore, to avoid issues related to multi-collinearity, separate linear regression models were run for each DTI tract parameter.",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 31,
+        "sentences": [
+            "Linear regression models were applied to the full sample to examine whether variability in teacher reports of depression and anxiety symptoms at 8 and 12 years of age, and change in these symptoms over time, was associated with FA and MD values of white matter tracts of interest in limbic and fronto-striatal circuitry.",
+            "FA and MD values for separate tracts were moderately to highly correlated with each other.",
+            "Therefore, to avoid issues related to multi-collinearity, separate linear regression models were run for each DTI tract parameter."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "White matter microstructure and depression symptoms. For the tracts involved in fronto-striatal circuitry, results from linear regression analyses revealed that the left and right external capsule was significantly associated with teacher-reported depression symptoms at 8 years of age (left: FA: b = \u00c0.282, p = .024; MD: b = .353, p = .004; right: MD: b = .264, p = .035) and 12 years of age (left: MD: b = .307, p = .028). Post hoc tests revealed that significant associations between MD values of the external capsule and depression symptoms was driven by individual variation in RD (8 year: left: b = .339, p = .006; right: b = .268, p = .032; 12 year: left: b = .235, p = .097) values, but not AD (8 year: b = .010, p = .935; right: b = .046, p = .720; 12 year: left b = .132, p = .355) values (see Table 3 ). In terms of limbic circuitry, microstructure of the uncinate fasciculus was significantly associated with depression symptoms at 8 years of age (left: FA: b = \u00c0.322, p = .009; MD: b = .387, p = .002; right: MD: b = .303, p = .015). Significant MD associations were driven by RD (left: b = .400, p = .001; right: b = .328, p = .008) values, but not AD (left: b = .001, p = .996; right: b = .040, p = .751) values.",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 32,
+        "sentences": [
+            "White matter microstructure and depression symptoms.",
+            "For the tracts involved in fronto-striatal circuitry, results from linear regression analyses revealed that the left and right external capsule was significantly associated with teacher-reported depression symptoms at 8 years of age (left: FA: b = \u00c0.282, p = .024; MD: b = .353, p = .004; right: MD: b = .264, p = .035) and 12 years of age (left: MD: b = .307, p = .028).",
+            "Post hoc tests revealed that significant associations between MD values of the external capsule and depression symptoms was driven by individual variation in RD (8 year: left: b = .339, p = .006; right: b = .268, p = .032; 12 year: left: b = .235, p = .097) values, but not AD (8 year: b = .010, p = .935; right: b = .046, p = .720; 12 year: left b = .132, p = .355) values (see Table 3 ).",
+            "In terms of limbic circuitry, microstructure of the uncinate fasciculus was significantly associated with depression symptoms at 8 years of age (left: FA: b = \u00c0.322, p = .009; MD: b = .387, p = .002; right: MD: b = .303, p = .015).",
+            "Significant MD associations were driven by RD (left: b = .400, p = .001; right: b = .328, p = .008) values, but not AD (left: b = .001, p = .996; right: b = .040, p = .751) values."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "For tracts of the corpus callosum, the body (but not the genu) of the corpus callosum was significantly associated with teacher-reported depression symptoms assessed at 12 years of age (FA: b = \u00c0.342, p = .014; MD: b = .281, p = .046). Post hoc tests revealed that significant associations between MD values of white matter tracts and depression symptoms was driven by individual variation in RD (b = .346, p = .013) values, but not AD (b = \u00c0.005, p = .970) values (see Table 3 ).",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 33,
+        "sentences": [
+            "For tracts of the corpus callosum, the body (but not the genu) of the corpus callosum was significantly associated with teacher-reported depression symptoms assessed at 12 years of age (FA: b = \u00c0.342, p = .014; MD: b = .281, p = .046).",
+            "Post hoc tests revealed that significant associations between MD values of white matter tracts and depression symptoms was driven by individual variation in RD (b = .346, p = .013) values, but not AD (b = \u00c0.005, p = .970) values (see Table 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "For all associations, lower integrity (lower FA or higher MD) of each tract was associated with higher depression symptoms.",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 34,
+        "sentences": [
+            "For all associations, lower integrity (lower FA or higher MD) of each tract was associated with higher depression symptoms."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "White matter microstructure and anxiety symptoms. Microstructure of fronto-striatal or limbic tracts was not significantly associated with anxiety symptoms at 8 or 12 years of age. For the corpus callosum, the body (but not the genu) of the corpus callosum was significantly associated with anxiety symptoms at 12 years of age (FA: b = \u00c0.338, p = .015; MD: b = .276, p = .05). Post hoc tests revealed that this association was driven by individual variation in RD values (b = .341, p = .014), but not AD values (b = \u00c0.008, p = .954) values (see Table 3 ). For all associations, lower integrity (lower FA or higher MD) of the corpus callosum was associated with higher anxiety symptoms (see Table 3 ). Change in depression and anxiety symptoms over time and internalizing symptoms. The body of the corpus callosum was also associated with the degree to which depression symptoms (FA: b = \u00c0.343, p = .017; MD: b = .346, p = .016) and anxiety symptoms (MD: b = .329, p = .022) declined from 8 to 12 years of age, with lower MD of the body of the corpus callosum at 8 years of age associated with greater declines in anxiety and depression symptoms. Post hoc tests revealed that these associations were driven by individual variation in RD values (depression change: b = .354, p = .014; anxiety change: b = .278, p = .055), but not AD values (depression change: b = .087, p = .555; anxiety change: b = .192, p = .191) values (see Table 3 ). Microstructure of tracts involved in fronto-striatal or limbic circuitry was not significantly associated with change in depression or anxiety symptoms over time.",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 35,
+        "sentences": [
+            "White matter microstructure and anxiety symptoms.",
+            "Microstructure of fronto-striatal or limbic tracts was not significantly associated with anxiety symptoms at 8 or 12 years of age.",
+            "For the corpus callosum, the body (but not the genu) of the corpus callosum was significantly associated with anxiety symptoms at 12 years of age (FA: b = \u00c0.338, p = .015; MD: b = .276, p = .05).",
+            "Post hoc tests revealed that this association was driven by individual variation in RD values (b = .341, p = .014), but not AD values (b = \u00c0.008, p = .954) values (see Table 3 ).",
+            "For all associations, lower integrity (lower FA or higher MD) of the corpus callosum was associated with higher anxiety symptoms (see Table 3 ).",
+            "Change in depression and anxiety symptoms over time and internalizing symptoms.",
+            "The body of the corpus callosum was also associated with the degree to which depression symptoms (FA: b = \u00c0.343, p = .017; MD: b = .346, p = .016) and anxiety symptoms (MD: b = .329, p = .022) declined from 8 to 12 years of age, with lower MD of the body of the corpus callosum at 8 years of age associated with greater declines in anxiety and depression symptoms.",
+            "Post hoc tests revealed that these associations were driven by individual variation in RD values (depression change: b = .354, p = .014; anxiety change: b = .278, p = .055), but not AD values (depression change: b = .087, p = .555; anxiety change: b = .192, p = .191) values (see Table 3 ).",
+            "Microstructure of tracts involved in fronto-striatal or limbic circuitry was not significantly associated with change in depression or anxiety symptoms over time."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Gender did not moderate associations between microstructure of limbic and fronto-striatal or corpus callosum tracts and depression or anxiety symptoms.",
+        "section": "White matter microstructure and internalizing symptoms",
+        "section_number": 36,
+        "sentences": [
+            "Gender did not moderate associations between microstructure of limbic and fronto-striatal or corpus callosum tracts and depression or anxiety symptoms."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Mediational models were performed for white matter tracts that were shown to be (a) significantly associated with internalizing symptoms, and (b) significantly associated with early rearing status, see Table 4 , or as previously published in Bick et al. (2015) . White matter tracts that met both of these criteria for analyses in this study included the left and right external capsule and the body of the corpus callosum.",
+        "section": "Mediational models",
+        "section_number": 37,
+        "sentences": [
+            "Mediational models were performed for white matter tracts that were shown to be (a) significantly associated with internalizing symptoms, and (b) significantly associated with early rearing status, see Table 4 , or as previously published in Bick et al. (2015) .",
+            "White matter tracts that met both of these criteria for analyses in this study included the left and right external capsule and the body of the corpus callosum."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The first set of models tested whether integrity of the external capsule indirectly linked associations between early rearing status (CAUG, FCG, NIG) and teacherreported depression symptoms at 8 and 12 years of age. Results from the first set of models indicated a significant indirect effect of institutional rearing on depression symptoms through MD of the left external capsule at the 8-year assessment (95% CI: \u00c0.09 to \u00c0.002), but not the 12-year assessment (95% CI: \u00c0.05 to .012), see Fig. 5 . For this model, there was a lack of temporal precedence between the mediator and the outcome, as both data points were assessed at the 8-year assessment. Therefore, we also tested the reciprocal model, with depression symptoms serving as the indirect variable and white matter serving as the outcome. However, this model was not significant (95% CI: \u00c0.006 to .001). To further rule out the possibility that internalizing symptoms may be driving later white matter microstructure, we also examined whether internalizing symptoms assessed at 54 months of age mediated institutional rearing and white matter microstructure at 8 years of age; however, no significant associations emerged (all p values >.05), therefore, meditational models were not tested.",
+        "section": "Mediational models",
+        "section_number": 38,
+        "sentences": [
+            "The first set of models tested whether integrity of the external capsule indirectly linked associations between early rearing status (CAUG, FCG, NIG) and teacherreported depression symptoms at 8 and 12 years of age.",
+            "Results from the first set of models indicated a significant indirect effect of institutional rearing on depression symptoms through MD of the left external capsule at the 8-year assessment (95% CI: \u00c0.09 to \u00c0.002), but not the 12-year assessment (95% CI: \u00c0.05 to .012), see Fig. 5 .",
+            "For this model, there was a lack of temporal precedence between the mediator and the outcome, as both data points were assessed at the 8-year assessment.",
+            "Therefore, we also tested the reciprocal model, with depression symptoms serving as the indirect variable and white matter serving as the outcome.",
+            "However, this model was not significant (95% CI: \u00c0.006 to .001).",
+            "To further rule out the possibility that internalizing symptoms may be driving later white matter microstructure, we also examined whether internalizing symptoms assessed at 54 months of age mediated institutional rearing and white matter microstructure at 8 years of age; however, no significant associations emerged (all p values >.05), therefore, meditational models were not tested."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The second set of meditational models tested whether integrity of the body of the corpus callosum significantly mediated associations between early rearing status (CAUG, FCG, NIG) and teacher-reported depression and anxiety symptoms. FA of the body of the corpus callosum emerged as a significant indirect effect linking institutional rearing with anxiety symptoms at 12 years of age (95% CI: \u00c0.117 to \u00c0.003). FA and MD of the body of the corpus callosum significantly mediated associations between institutional rearing and change in depression symptoms (FA: 95% CI: \u00c0.416 to \u00c0.017; MD: 95% CI: \u00c0.298 to \u00c0.001), and change in anxiety symptoms (MD: 95% CI: \u00c0.278 to \u00c0.005), from the 8 to 12 years (see Fig. 6 ). These findings suggest that the degree to which children's depression and anxiety symptoms persisted over time was partially accounted for by neglect-associated white matter integrity of the body of the corpus callosum at 8 years of age.",
+        "section": "Mediational models",
+        "section_number": 39,
+        "sentences": [
+            "The second set of meditational models tested whether integrity of the body of the corpus callosum significantly mediated associations between early rearing status (CAUG, FCG, NIG) and teacher-reported depression and anxiety symptoms.",
+            "FA of the body of the corpus callosum emerged as a significant indirect effect linking institutional rearing with anxiety symptoms at 12 years of age (95% CI: \u00c0.117 to \u00c0.003).",
+            "FA and MD of the body of the corpus callosum significantly mediated associations between institutional rearing and change in depression symptoms (FA: 95% CI: \u00c0.416 to \u00c0.017; MD: 95% CI: \u00c0.298 to \u00c0.001), and change in anxiety symptoms (MD: 95% CI: \u00c0.278 to \u00c0.005), from the 8 to 12 years (see Fig. 6 ).",
+            "These findings suggest that the degree to which children's depression and anxiety symptoms persisted over time was partially accounted for by neglect-associated white matter integrity of the body of the corpus callosum at 8 years of age."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Follow up models tested whether intervention-based improvements in white matter microstructure mediated associations between early intervention status (CAUG, FCG) and internalizing symptoms. Indirect pathways were not significant for any of these meditational models.",
+        "section": "Mediational models",
+        "section_number": 40,
+        "sentences": [
+            "Follow up models tested whether intervention-based improvements in white matter microstructure mediated associations between early intervention status (CAUG, FCG) and internalizing symptoms.",
+            "Indirect pathways were not significant for any of these meditational models."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "This study investigated whether white matter microstructural differences in children with and without histories of institutional rearing explained risk for internalizing symptoms in middle childhood and preadolescence. Findings from this study extend prior work by showing functional consequences of previously identified alterations in white matter microstructure in children exposed to early-life neglect in the BEIP (Bick et al., 2015) . Three main findings emerged from this investigation. First, institutionally reared children showed elevated depression and anxiety symptoms at 8 years of age relative to non-neglected children, regardless of early intervention status. However, at 12 years of age, there was evidence for remediation in internalizing symptoms for girls, but not boys, who received early intervention via placement into foster care. Second, elevations in depression and anxiety symptoms at the 8-and 12-year assessments were associated with lower integrity of select white matter fiber tracts. Third, integrity of the external capsule and body of the corpus callosum significantly indirectly linked early rearing status and internalizing symptoms assessed concurrently and prospectively. Together, these findings contribute to the understanding of how severe early-life neglect may interfere with normative brain development and increase the likelihood that children develop internalizing problems in the long term.",
+        "section": "DISCUSSION",
+        "section_number": 41,
+        "sentences": [
+            "This study investigated whether white matter microstructural differences in children with and without histories of institutional rearing explained risk for internalizing symptoms in middle childhood and preadolescence.",
+            "Findings from this study extend prior work by showing functional consequences of previously identified alterations in white matter microstructure in children exposed to early-life neglect in the BEIP (Bick et al., 2015) .",
+            "Three main findings emerged from this investigation.",
+            "First, institutionally reared children showed elevated depression and anxiety symptoms at 8 years of age relative to non-neglected children, regardless of early intervention status.",
+            "However, at 12 years of age, there was evidence for remediation in internalizing symptoms for girls, but not boys, who received early intervention via placement into foster care.",
+            "Second, elevations in depression and anxiety symptoms at the 8-and 12-year assessments were associated with lower integrity of select white matter fiber tracts.",
+            "Third, integrity of the external capsule and body of the corpus callosum significantly indirectly linked early rearing status and internalizing symptoms assessed concurrently and prospectively.",
+            "Together, these findings contribute to the understanding of how severe early-life neglect may interfere with normative brain development and increase the likelihood that children develop internalizing problems in the long term."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The group differences in internalizing symptoms reported here are consistent with our prior findings reported in the BEIP, which showed intervention-based improvements in internalizing symptoms among girls only in early childhood (Zeanah et al., 2009) . They also align with our recently reported results showing group differences in internalizing symptoms at 12 years of age, assessed with a standardized diagnostic interview (Humphreys et al., 2015) . Internalizing symptoms in this study were assessed with teacher report at both time points. While the reliance on teacher reports of youth internalizing symptoms has limitations (Kolko and Kazdin, 1993; Youngstrom et al., 2000) , the use of these scores provided us with an opportunity to assess change in internalizing symptoms over time. Accordingly, findings in this study extend our previous reports by showing intervention effects for the degree to which internalizing symptoms change from middle childhood to pre-adolescence.",
+        "section": "DISCUSSION",
+        "section_number": 42,
+        "sentences": [
+            "The group differences in internalizing symptoms reported here are consistent with our prior findings reported in the BEIP, which showed intervention-based improvements in internalizing symptoms among girls only in early childhood (Zeanah et al., 2009) .",
+            "They also align with our recently reported results showing group differences in internalizing symptoms at 12 years of age, assessed with a standardized diagnostic interview (Humphreys et al., 2015) .",
+            "Internalizing symptoms in this study were assessed with teacher report at both time points.",
+            "While the reliance on teacher reports of youth internalizing symptoms has limitations (Kolko and Kazdin, 1993; Youngstrom et al., 2000) , the use of these scores provided us with an opportunity to assess change in internalizing symptoms over time.",
+            "Accordingly, findings in this study extend our previous reports by showing intervention effects for the degree to which internalizing symptoms change from middle childhood to pre-adolescence."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "As we reported previously (Bick et al., 2015) , institutionally reared children in this cohort showed significant differences in white matter integrity of tracts implicated in emotion processing and control (i.e. fiber tracts in fronto-striatal circuitry, limbic circuitry, and the corpus callosum) when compared with non-institutionalized children, with some evidence for normalization in white matter development for children placed in foster care during early childhood. In this follow-up study, we found that the integrity the body of the corpus callosum and the external capsule was associated with internalizing symptoms at 8 and 12 years of age. For both tracts, higher tract integrity predicted lower internalizing symptoms, with the external capsule more predictive of concurrently assessed symptoms, and the body of the corpus callosum more predictive of change in symptoms over time. Further, associations between MD of white matter tracts and internalizing symptoms were generally driven by RD values (considered more indicative of myelination levels) but not AD values (considered more indicative of axonal projection). This suggests that delays or abnormalities in myelination of critical white matter tracts may contribute to psychiatric risk. These associations are consistent with recent work suggesting that depression symptoms and related affective disorders may be driven by alterations in neural connectivity in critical pathways that subserve emotion processing and regulation (Liao et al., 2013) . Among these, poor connectivity between frontal and striatal regions have been associated with reductions in ''top down\" cognitive control over emotion and stress responses, altered responsiveness to rewarding input, and reduced motivation, which are characteristic of depression and anxiety disorders (Price and Drevets, 2010) . The external capsule, a white matter tract involved in fronto-striatal circuitry, contains a bundle of cholinergic white matter fibers that connects the forebrain to the cerebral cortex; neurons involved in this circuitry have been shown to be responsive to novel and motivationally relevant events (Selden et al., 1998) . Therefore, reduced integrity of the external capsule, as observed in institutionally reared children, may be associated with reduced motivation and behavioral withdrawal, and contribute to higher scores of depression. Our findings are consistent with additional studies showing associations between lower integrity of the external capsule and higher depression symptoms in youth and adult samples (Guo et al., 2012; Bessette et al., 2014; Xiao et al., 2015) .",
+        "section": "DISCUSSION",
+        "section_number": 43,
+        "sentences": [
+            "As we reported previously (Bick et al., 2015) , institutionally reared children in this cohort showed significant differences in white matter integrity of tracts implicated in emotion processing and control (i.e. fiber tracts in fronto-striatal circuitry, limbic circuitry, and the corpus callosum) when compared with non-institutionalized children, with some evidence for normalization in white matter development for children placed in foster care during early childhood.",
+            "In this follow-up study, we found that the integrity the body of the corpus callosum and the external capsule was associated with internalizing symptoms at 8 and 12 years of age.",
+            "For both tracts, higher tract integrity predicted lower internalizing symptoms, with the external capsule more predictive of concurrently assessed symptoms, and the body of the corpus callosum more predictive of change in symptoms over time.",
+            "Further, associations between MD of white matter tracts and internalizing symptoms were generally driven by RD values (considered more indicative of myelination levels) but not AD values (considered more indicative of axonal projection).",
+            "This suggests that delays or abnormalities in myelination of critical white matter tracts may contribute to psychiatric risk.",
+            "These associations are consistent with recent work suggesting that depression symptoms and related affective disorders may be driven by alterations in neural connectivity in critical pathways that subserve emotion processing and regulation (Liao et al., 2013) .",
+            "Among these, poor connectivity between frontal and striatal regions have been associated with reductions in ''top down\" cognitive control over emotion and stress responses, altered responsiveness to rewarding input, and reduced motivation, which are characteristic of depression and anxiety disorders (Price and Drevets, 2010) .",
+            "The external capsule, a white matter tract involved in fronto-striatal circuitry, contains a bundle of cholinergic white matter fibers that connects the forebrain to the cerebral cortex; neurons involved in this circuitry have been shown to be responsive to novel and motivationally relevant events (Selden et al., 1998) .",
+            "Therefore, reduced integrity of the external capsule, as observed in institutionally reared children, may be associated with reduced motivation and behavioral withdrawal, and contribute to higher scores of depression.",
+            "Our findings are consistent with additional studies showing associations between lower integrity of the external capsule and higher depression symptoms in youth and adult samples (Guo et al., 2012; Bessette et al., 2014; Xiao et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "The corpus callosum is involved in information transfer between hemispheres, and supports higher level cognitive and emotional functioning via connections to frontal brain regions. Meta-analytic evidence indicates that alterations in the corpus callosum are associated with depression symptoms, potentially due to functional impairment of information transfer between frontal regions across hemispheres (Liao et al., 2013) . In this study, we demonstrated links between reduced integrity of the body of the corpus callosum and depression and anxiety symptoms that were less likely to remit over time. The body of the corpus callosum contains projections to medial frontal regions of the brain, highly implicated in top-down emotion control (Catani and Thiebaut de Schotten, 2012; Georgy et al., 1993) . This suggests that early-life neglect may interfere with development of specific callosal pathways critical for emotional control. Interestingly, lower integrity of this tract was not associated with internalizing symptoms assessed concurrently. Instead, it predicted the degree to which children's symptoms persisted from middle childhood to pre-adolescence. Lower corpus callosum integrity at the 8-year assessment may signal a lag in normative white matter proliferation in institutionally reared children, which may lead to more stable or persistent depression and anxiety symptoms throughout development. Findings from this study are consistent with animal studies showing reduced corpus callosum volumes and associated increases in anxiety symptoms in non-human primates exposed to early-life deprivation (Sanchez et al., 1998; Jackowski et al., 2011) .",
+        "section": "DISCUSSION",
+        "section_number": 44,
+        "sentences": [
+            "The corpus callosum is involved in information transfer between hemispheres, and supports higher level cognitive and emotional functioning via connections to frontal brain regions.",
+            "Meta-analytic evidence indicates that alterations in the corpus callosum are associated with depression symptoms, potentially due to functional impairment of information transfer between frontal regions across hemispheres (Liao et al., 2013) .",
+            "In this study, we demonstrated links between reduced integrity of the body of the corpus callosum and depression and anxiety symptoms that were less likely to remit over time.",
+            "The body of the corpus callosum contains projections to medial frontal regions of the brain, highly implicated in top-down emotion control (Catani and Thiebaut de Schotten, 2012; Georgy et al., 1993) .",
+            "This suggests that early-life neglect may interfere with development of specific callosal pathways critical for emotional control.",
+            "Interestingly, lower integrity of this tract was not associated with internalizing symptoms assessed concurrently.",
+            "Instead, it predicted the degree to which children's symptoms persisted from middle childhood to pre-adolescence.",
+            "Lower corpus callosum integrity at the 8-year assessment may signal a lag in normative white matter proliferation in institutionally reared children, which may lead to more stable or persistent depression and anxiety symptoms throughout development.",
+            "Findings from this study are consistent with animal studies showing reduced corpus callosum volumes and associated increases in anxiety symptoms in non-human primates exposed to early-life deprivation (Sanchez et al., 1998; Jackowski et al., 2011) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Our results should be considered in light of several study limitations. First, white matter integrity was assessed many years following after the start of the intervention.",
+        "section": "DISCUSSION",
+        "section_number": 45,
+        "sentences": [
+            "Our results should be considered in light of several study limitations.",
+            "First, white matter integrity was assessed many years following after the start of the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Therefore, the timing of these neurodevelopmental changes across groups is unclear. Second, a number of neural alterations can contribute to variability in white matter integrity across groups. Here we demonstrated on a quantitative basis that variation in an experience-driven neurodevelopmental process, myelination of axons, might be the source of white matter differences among children in this study. However, additional processes involving neuronal and synaptic pruning may also contribute to these long-term microstructural alterations. Third, neglect associated disruptions in pathways identified in this study may give rise to a number of compromises in both cognitive and emotional functioning. Therefore, the specificity of these alterations in predicting internalizing symptoms versus other forms of maladjustment should be examined in future work. Fourth, it is possible that additional factors beyond the early rearing environment explain group differences in white matter development and associated depression symptoms and anxiety symptoms. For example, prenatal risk factors may contribute to disparities across groups. However, these data were not available for this cohort. Fifth, given the small sample size in each subgroup, some of our meditational models may have been underpowered to detect significant associations, especially those that contained only the CAUG and FCG. Related to this issue, effect sizes of findings reported in this study were small to moderate and there was no correction for multiple comparisons. Therefore, replication with a larger sample will be a critical direction for future work.",
+        "section": "DISCUSSION",
+        "section_number": 46,
+        "sentences": [
+            "Therefore, the timing of these neurodevelopmental changes across groups is unclear.",
+            "Second, a number of neural alterations can contribute to variability in white matter integrity across groups.",
+            "Here we demonstrated on a quantitative basis that variation in an experience-driven neurodevelopmental process, myelination of axons, might be the source of white matter differences among children in this study.",
+            "However, additional processes involving neuronal and synaptic pruning may also contribute to these long-term microstructural alterations.",
+            "Third, neglect associated disruptions in pathways identified in this study may give rise to a number of compromises in both cognitive and emotional functioning.",
+            "Therefore, the specificity of these alterations in predicting internalizing symptoms versus other forms of maladjustment should be examined in future work.",
+            "Fourth, it is possible that additional factors beyond the early rearing environment explain group differences in white matter development and associated depression symptoms and anxiety symptoms.",
+            "For example, prenatal risk factors may contribute to disparities across groups.",
+            "However, these data were not available for this cohort.",
+            "Fifth, given the small sample size in each subgroup, some of our meditational models may have been underpowered to detect significant associations, especially those that contained only the CAUG and FCG.",
+            "Related to this issue, effect sizes of findings reported in this study were small to moderate and there was no correction for multiple comparisons.",
+            "Therefore, replication with a larger sample will be a critical direction for future work."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "Despite these limitations, findings here have important implications for public health. Individuals exposed to extreme early adverse environments often experience more chronic internalizing disorders that are often less responsive to treatment (Nanni et al., 2012) . Findings here suggest a neurodevelopmental mechanism that contributes to this unfavorable course of illness. More generally, they provide additional evidence that early environmental factors shape the developing brain, and affect the course of emotional adjustment throughout development. In conclusion, this study demonstrates that severe early-life neglect may interfere with white matter development in critical brain regions, which may serve to increase risk for emotional difficulties in the long term. These results shed light on the specific neurobiological pathways that may contribute to increased risk for internalizing symptoms, and have critical implications for prevention and treatment.",
+        "section": "DISCUSSION",
+        "section_number": 47,
+        "sentences": [
+            "Despite these limitations, findings here have important implications for public health.",
+            "Individuals exposed to extreme early adverse environments often experience more chronic internalizing disorders that are often less responsive to treatment (Nanni et al., 2012) .",
+            "Findings here suggest a neurodevelopmental mechanism that contributes to this unfavorable course of illness.",
+            "More generally, they provide additional evidence that early environmental factors shape the developing brain, and affect the course of emotional adjustment throughout development.",
+            "In conclusion, this study demonstrates that severe early-life neglect may interfere with white matter development in critical brain regions, which may serve to increase risk for emotional difficulties in the long term.",
+            "These results shed light on the specific neurobiological pathways that may contribute to increased risk for internalizing symptoms, and have critical implications for prevention and treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "33700",
+        "text": "J.Bick et al. / Neuroscience 342 (2017) 140-153",
+        "section": "",
+        "section_number": 48,
+        "sentences": [
+            "J.Bick et al. / Neuroscience 342 (2017) 140-153"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

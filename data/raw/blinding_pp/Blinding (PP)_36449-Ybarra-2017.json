@@ -1,0 +1,816 @@
+[
+    {
+        "doc_id": "36449",
+        "text": "BACKGROUND: Guy2Guy (G2G) is the first comprehensive HIV prevention program developed for sexual minority males as young as 14 years old and is delivered nationally via text messaging. Here, we report the results of the pilot randomized control trial. METHODS: G2G was tested against an attention-matched \"healthy lifestyle\" control (eg, selfesteem). Both programs lasted 5 weeks and delivered 5 to 10 text messages daily. A 1-week booster was delivered 6 weeks subsequently. Participants were cisgender males ages 14 to 18 years old who were gay, bisexual, and/or queer and had an unlimited text messaging plan. Youth were recruited across the United States via Facebook and enrolled by telephone from October 2014 to April 2015. Ninety-day postintervention outcomes were condomless sex acts (CSA) and abstinence and, secondarily, HIV testing. We also examined these outcomes at intervention end and stratified them by sexual experience. RESULTS: At 90 days postintervention, there were no significant differences in CSAs or abstinence noted. Among participants who were sexually active at baseline, intervention participants were significantly more likely to report getting an HIV test (adjusted odds ratio = 3.42, P = .001). They were also less likely than control youth to be abstinent (adjusted odds ratio = 0.48, P = .05). CSAs were significantly lower for those in the intervention versus control at intervention end (incident rate ratio = 0.39, P = .04), although significance was lost once age was added to the analysis (incident rate ratio = 0.58, P = .26). CONCLUSIONS: G2G appears promising in increasing adolescent HIV testing rates. Sex-positive intervention messages appear to have increased the participants' comfort with having sex (ie, less abstinence) while not increasing their potential for HIV transmission (ie, more CSAs). Additional content or features may be needed to invigorate condom use.",
+        "section": "Abstract",
+        "sentences": [
+            "BACKGROUND: Guy2Guy (G2G) is the first comprehensive HIV prevention program developed for sexual minority males as young as 14 years old and is delivered nationally via text messaging.",
+            "Here, we report the results of the pilot randomized control trial.",
+            "METHODS: G2G was tested against an attention-matched \"healthy lifestyle\" control (eg, selfesteem).",
+            "Both programs lasted 5 weeks and delivered 5 to 10 text messages daily.",
+            "A 1-week booster was delivered 6 weeks subsequently.",
+            "Participants were cisgender males ages 14 to 18 years old who were gay, bisexual, and/or queer and had an unlimited text messaging plan.",
+            "Youth were recruited across the United States via Facebook and enrolled by telephone from October 2014 to April 2015.",
+            "Ninety-day postintervention outcomes were condomless sex acts (CSA) and abstinence and, secondarily, HIV testing.",
+            "We also examined these outcomes at intervention end and stratified them by sexual experience.",
+            "RESULTS: At 90 days postintervention, there were no significant differences in CSAs or abstinence noted.",
+            "Among participants who were sexually active at baseline, intervention participants were significantly more likely to report getting an HIV test (adjusted odds ratio = 3.42, P = .001).",
+            "They were also less likely than control youth to be abstinent (adjusted odds ratio = 0.48, P = .05).",
+            "CSAs were significantly lower for those in the intervention versus control at intervention end (incident rate ratio = 0.39, P = .04), although significance was lost once age was added to the analysis (incident rate ratio = 0.58, P = .26).",
+            "CONCLUSIONS: G2G appears promising in increasing adolescent HIV testing rates.",
+            "Sex-positive intervention messages appear to have increased the participants' comfort with having sex (ie, less abstinence) while not increasing their potential for HIV transmission (ie, more CSAs).",
+            "Additional content or features may be needed to invigorate condom use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Dr Ybarra served as coprincipal investigator for this study, took primary responsibility for overseeing the study design, led the intervention content development and protocols, led the first draft of the manuscript, and conducted the statistical analyses; Ms Prescott led the writing of the control group content, contributed to the design of the online recruitment strategy, supervised data collection, drafted the manuscript, and reviewed and revised the manuscript; Dr Phillips designed the survey instruments, assisted with data collection, conducted preliminary analyses, helped draft the manuscript, and reviewed and revised the manuscript; Drs Bull and Parsons conceptualized the study design, developed the intervention and data collection protocols, drafted the manuscript and interpreted the analyses, and reviewed and revised the manuscript; Dr Mustanski served as coprincipal investigator for this study, took primary responsibility for WhaT's KnoWn on This subjecT: The burden of HIV infection falls disproportionately on adolescent gay and bisexual men. Nonetheless, there is a concerning paucity of culturally relevant, validated HIV prevention programs available.",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Dr Ybarra served as coprincipal investigator for this study, took primary responsibility for overseeing the study design, led the intervention content development and protocols, led the first draft of the manuscript, and conducted the statistical analyses; Ms Prescott led the writing of the control group content, contributed to the design of the online recruitment strategy, supervised data collection, drafted the manuscript, and reviewed and revised the manuscript; Dr Phillips designed the survey instruments, assisted with data collection, conducted preliminary analyses, helped draft the manuscript, and reviewed and revised the manuscript; Drs Bull and Parsons conceptualized the study design, developed the intervention and data collection protocols, drafted the manuscript and interpreted the analyses, and reviewed and revised the manuscript; Dr Mustanski served as coprincipal investigator for this study, took primary responsibility for WhaT's KnoWn on This subjecT: The burden of HIV infection falls disproportionately on adolescent gay and bisexual men.",
+            "Nonetheless, there is a concerning paucity of culturally relevant, validated HIV prevention programs available."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "We report pilot randomized controlled trial findings for Guy2Guy, the first national, mobile health HIV prevention program for sexual minority youth as young as 14 years of age, including those who are sexually inexperienced. Although preliminary, our findings show promise for similar efforts in the future.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 2,
+        "sentences": [
+            "We report pilot randomized controlled trial findings for Guy2Guy, the first national, mobile health HIV prevention program for sexual minority youth as young as 14 years of age, including those who are sexually inexperienced.",
+            "Although preliminary, our findings show promise for similar efforts in the future."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "HIV infection among young people occurs disproportionately through male-to-male sexual contact in the United States, 1 yet few validated prevention programs exist for adolescent gay and bisexual men (AGBM). 2 -4 Scientifically sound programs ready for rapid, costeffective scaling up are urgently needed.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 3,
+        "sentences": [
+            "HIV infection among young people occurs disproportionately through male-to-male sexual contact in the United States, 1 yet few validated prevention programs exist for adolescent gay and bisexual men (AGBM).",
+            "2 -4 Scientifically sound programs ready for rapid, costeffective scaling up are urgently needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "In developing an intervention, determining population-specific needs and corresponding solutions to be integrated into the program is critical. Text messaging has been widely adopted and provides an opportunity to go where youth \"are\": nearly all (91%) youth who own cell phones use text messaging. 5 Use of text messaging is similar by race and ethnicity (white youth send 67 texts daily, African American youth send 63, and Hispanic youth send 66) and income (youth from households with incomes of \u2264$30 000 per year send 53 texts daily), suggesting that programming can be delivered without perpetuating the digital divide. Thus, text messaging may be a compelling intervention delivery mechanism for youth.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 4,
+        "sentences": [
+            "In developing an intervention, determining population-specific needs and corresponding solutions to be integrated into the program is critical.",
+            "Text messaging has been widely adopted and provides an opportunity to go where youth \"are\": nearly all (91%) youth who own cell phones use text messaging.",
+            "5 Use of text messaging is similar by race and ethnicity (white youth send 67 texts daily, African American youth send 63, and Hispanic youth send 66) and income (youth from households with incomes of \u2264$30 000 per year send 53 texts daily), suggesting that programming can be delivered without perpetuating the digital divide.",
+            "Thus, text messaging may be a compelling intervention delivery mechanism for youth."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Targeting the \"right\" population is also important. Condom use at first sex is a crucial factor influencing current condom use, 6 -10 yet few HIV prevention programs include sexually inexperienced youth. To maximize opportunities to improve lifelong HIV preventive behavior, HIV interventions need to include adolescents before their sexual debut.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 5,
+        "sentences": [
+            "Targeting the \"right\" population is also important.",
+            "Condom use at first sex is a crucial factor influencing current condom use, 6 -10 yet few HIV prevention programs include sexually inexperienced youth.",
+            "To maximize opportunities to improve lifelong HIV preventive behavior, HIV interventions need to include adolescents before their sexual debut."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Intervention content must go beyond issues surrounding the use of condoms as well. Few sexually active AGBM meet the Centers for Disease Control and Prevention's recommendation of at least annual HIV testing. 11 -13 Accordingly, HIVpositive AGBM are more likely than older men who have sex with men to be unaware of their status. 13 Several cohort studies have shown that HIVpositive persons have a decrease in risk behaviors after becoming aware of their HIV status. 14 -17 Therefore, HIV prevention programs for AGBM need to include a focus on HIV testing for those who are having sex.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 6,
+        "sentences": [
+            "Intervention content must go beyond issues surrounding the use of condoms as well.",
+            "Few sexually active AGBM meet the Centers for Disease Control and Prevention's recommendation of at least annual HIV testing.",
+            "11 -13 Accordingly, HIVpositive AGBM are more likely than older men who have sex with men to be unaware of their status.",
+            "13 Several cohort studies have shown that HIVpositive persons have a decrease in risk behaviors after becoming aware of their HIV status.",
+            "14 -17 Therefore, HIV prevention programs for AGBM need to include a focus on HIV testing for those who are having sex."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Guy2Guy (G2G) is a text messagingbased HIV prevention program designed to address the unique experiences of AGBM across the United States. Formative development activities are reported elsewhere. 18, 19 Here, we report the behavioral outcomes from the pilot randomized controlled trial (RCT): condom use and abstinence and, secondarily, HIV testing. As the first text messaging-based HIV prevention program developed and pilot tested nationally in a diverse sample of AGBM as young as 14 years old, the findings have the potential to build knowledge about feasible and acceptable strategies to reach and engage this important population in HIV prevention programming.",
+        "section": "WhaT This sTudy adds:",
+        "section_number": 7,
+        "sentences": [
+            "Guy2Guy (G2G) is a text messagingbased HIV prevention program designed to address the unique experiences of AGBM across the United States.",
+            "Formative development activities are reported elsewhere.",
+            "18, 19 Here, we report the behavioral outcomes from the pilot randomized controlled trial (RCT): condom use and abstinence and, secondarily, HIV testing.",
+            "As the first text messaging-based HIV prevention program developed and pilot tested nationally in a diverse sample of AGBM as young as 14 years old, the findings have the potential to build knowledge about feasible and acceptable strategies to reach and engage this important population in HIV prevention programming."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "This 2-arm RCT was conducted in the United States. Chesapeake and Northwestern University institutional review boards approved the protocol and granted a waiver of parental permission.",
+        "section": "MeThods",
+        "section_number": 8,
+        "sentences": [
+            "This 2-arm RCT was conducted in the United States.",
+            "Chesapeake and Northwestern University institutional review boards approved the protocol and granted a waiver of parental permission."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Participants were recruited nationally (Table 1) , and the eligibility criteria included the following: being 14 to 18 years old; being a cisgender male; identifying as gay, bisexual, and/or queer; being an English-speaker; and being a US resident. Eligible participants were the sole owners of a cell phone with unlimited text messaging who intended to keep their current number for 6 months and had at least 6 months of text messaging experience. The technologyrelated criteria helped ensure the intervention was tested among youth similar to those most likely to use the intervention if it were publicly available. Exclusion criteria included knowing another person enrolled in the program and participating in a previous study activity (eg, focus groups).",
+        "section": "Participants",
+        "section_number": 9,
+        "sentences": [
+            "Participants were recruited nationally (Table 1) , and the eligibility criteria included the following: being 14 to 18 years old; being a cisgender male; identifying as gay, bisexual, and/or queer; being an English-speaker; and being a US resident.",
+            "Eligible participants were the sole owners of a cell phone with unlimited text messaging who intended to keep their current number for 6 months and had at least 6 months of text messaging experience.",
+            "The technologyrelated criteria helped ensure the intervention was tested among youth similar to those most likely to use the intervention if it were publicly available.",
+            "Exclusion criteria included knowing another person enrolled in the program and participating in a previous study activity (eg, focus groups)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Participants were recruited through online advertisements on Facebook between June 20 and October 31, 2014. 19, 20 The ads targeted users of male gender who were between 14 and 18 years old and had same-sex attraction (\"interested in males\" or \"interested in males and females\"). The advertisement linked interested youth to the online screener form. Completed screeners were emailed to the project coordinator. Project staff then contacted the eligible candidates and scheduled a phone appointment to confirm eligibility, to complete a self-safety assessment, 19 and to obtain informed consent. Participants were then emailed a survey link to the baseline survey. After survey completion, youth were randomly assigned and began receiving text messages.",
+        "section": "Procedures",
+        "section_number": 10,
+        "sentences": [
+            "Participants were recruited through online advertisements on Facebook between June 20 and October 31, 2014.",
+            "19, 20 The ads targeted users of male gender who were between 14 and 18 years old and had same-sex attraction (\"interested in males\" or \"interested in males and females\").",
+            "The advertisement linked interested youth to the online screener form.",
+            "Completed screeners were emailed to the project coordinator.",
+            "Project staff then contacted the eligible candidates and scheduled a phone appointment to confirm eligibility, to complete a self-safety assessment, 19 and to obtain informed consent.",
+            "Participants were then emailed a survey link to the baseline survey.",
+            "After survey completion, youth were randomly assigned and began receiving text messages."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "A diverse sample was ensured by identifying recruitment targets across key demographic characteristics: race (65% white, 15% African American, 20% some other race), ethnicity (20% Hispanic), rural versus urban (20% rural), sexual experience (50% sexually inexperienced), and identity (50% gay). Youth were enrolled sequentially for each \"bin\" (eg, white, non-Hispanic, rural, sexually experienced bisexual male) until it was full.",
+        "section": "Procedures",
+        "section_number": 11,
+        "sentences": [
+            "A diverse sample was ensured by identifying recruitment targets across key demographic characteristics: race (65% white, 15% African American, 20% some other race), ethnicity (20% Hispanic), rural versus urban (20% rural), sexual experience (50% sexually inexperienced), and identity (50% gay).",
+            "Youth were enrolled sequentially for each \"bin\" (eg, white, non-Hispanic, rural, sexually experienced bisexual male) until it was full."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Participants were randomly assigned 1:1 to the intervention (n = 150) or control (n = 152) arms by using a computer program designed to minimize the likelihood of an imbalance between the study arms with respect to sexual experience and sexual identity. 21 Participants, but not researchers, were blind to arm allocation.",
+        "section": "Randomization",
+        "section_number": 12,
+        "sentences": [
+            "Participants were randomly assigned 1:1 to the intervention (n = 150) or control (n = 152) arms by using a computer program designed to minimize the likelihood of an imbalance between the study arms with respect to sexual experience and sexual identity.",
+            "21 Participants, but not researchers, were blind to arm allocation."
+        ],
+        "sentence_labels": [
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "36449",
+        "text": "With no published interventions for AGBM as young as 14 years of age, we based power analyses on findings from an HIV prevention program for sexual-minority men 18 to 24 years old. 22 Assuming a retention rate of 80% of 184 youth, a minimum sample size of 147 was estimated with power of 0.80 to detect small effects of the intervention on the condom use outcome for all youth, regardless of sexual activity. Available resources allowed for the enrollment of a larger sample (N = 302).",
+        "section": "Power",
+        "section_number": 13,
+        "sentences": [
+            "With no published interventions for AGBM as young as 14 years of age, we based power analyses on findings from an HIV prevention program for sexual-minority men 18 to 24 years old.",
+            "22 Assuming a retention rate of 80% of 184 youth, a minimum sample size of 147 was estimated with power of 0.80 to detect small effects of the intervention on the condom use outcome for all youth, regardless of sexual activity.",
+            "Available resources allowed for the enrollment of a larger sample (N = 302)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Participants were not incentivized to complete the baseline survey. They received $15 to complete the intervention end survey and $20 to complete the 90-day postintervention survey. To invigorate response, we offered an additional $10 to those completing the 90-day postintervention end survey within 48 hours of receiving the survey. Incentives were issued as Amazon.com gift cards by email.",
+        "section": "Incentive",
+        "section_number": 14,
+        "sentences": [
+            "Participants were not incentivized to complete the baseline survey.",
+            "They received $15 to complete the intervention end survey and $20 to complete the 90-day postintervention survey.",
+            "To invigorate response, we offered an additional $10 to those completing the 90-day postintervention end survey within 48 hours of receiving the survey.",
+            "Incentives were issued as Amazon.com gift cards by email."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "The main intervention content, delivered over 5 weeks, was based on the Information-Motivation-Behavior Model of HIV preventive behavior. 23, 24 Content included HIV information (eg, what it is, how to prevent it), motivation (eg, reasons why AGBM choose condoms), and behavioral skills (eg, correct condom use) ( Table 1) . Additional topics covered the importance of HIV testing, healthy and unhealthy relationships, coming out, and bullying. Although the same concepts were discussed for sexually experienced and inexperienced youth, the content was tailored by experience (eg, \"When you're in a healthy relationship and start having sex\u2026\" versus \"When you have sex\u2026\"). The booster, delivered 6 weeks postintervention, reinforced this content (Fig 1) .",
+        "section": "description of the intervention and control Group content",
+        "section_number": 15,
+        "sentences": [
+            "The main intervention content, delivered over 5 weeks, was based on the Information-Motivation-Behavior Model of HIV preventive behavior.",
+            "23, 24 Content included HIV information (eg, what it is, how to prevent it), motivation (eg, reasons why AGBM choose condoms), and behavioral skills (eg, correct condom use) ( Table 1) .",
+            "Additional topics covered the importance of HIV testing, healthy and unhealthy relationships, coming out, and bullying.",
+            "Although the same concepts were discussed for sexually experienced and inexperienced youth, the content was tailored by experience (eg, \"When you're in a healthy relationship and start having sex\u2026\" versus \"When you have sex\u2026\").",
+            "The booster, delivered 6 weeks postintervention, reinforced this content (Fig 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "The intervention integrated 2 gamelike features: At the end of each program week, intervention participants had the opportunity to \"level up\" by answering a question about the week's content. Intervention participants could earn \"badges, \" meant to help engagement in HIV preventive behavior in a concrete, stepwise fashion. Both sexually experienced and inexperienced intervention youth were encouraged to first ",
+        "section": "description of the intervention and control Group content",
+        "section_number": 16,
+        "sentences": [
+            "The intervention integrated 2 gamelike features: At the end of each program week, intervention participants had the opportunity to \"level up\" by answering a question about the week's content.",
+            "Intervention participants could earn \"badges, \" meant to help engagement in HIV preventive behavior in a concrete, stepwise fashion.",
+            "Both sexually experienced and inexperienced intervention youth were encouraged to first"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Time line of the G2G RCT implementation.",
+        "section": "FiGuRe 1",
+        "section_number": 17,
+        "sentences": [
+            "Time line of the G2G RCT implementation."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from buy condoms (Badge 1) and carry condoms with them (Badge 2). Youth who were sexually experienced at baseline were then encouraged to use condoms if they were currently having sex (Badge 3). They also were encouraged to get tested for HIV (Badge 4). Participants were given up to three chances to earn a badge. At the outset, participants were not notified of the total number of badges or the activities that would earn badges. However, as the program progressed, they received text messages asking whether they had achieved a particular badge activity.",
+        "section": "FiGuRe 1",
+        "section_number": 18,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from buy condoms (Badge 1) and carry condoms with them (Badge 2).",
+            "Youth who were sexually experienced at baseline were then encouraged to use condoms if they were currently having sex (Badge 3).",
+            "They also were encouraged to get tested for HIV (Badge 4).",
+            "Participants were given up to three chances to earn a badge.",
+            "At the outset, participants were not notified of the total number of badges or the activities that would earn badges.",
+            "However, as the program progressed, they received text messages asking whether they had achieved a particular badge activity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Additionally, G2Genie was an on-demand feature that provided scripted \"answers\" to common questions that intervention youth could query (eg, how to break up with a boyfriend).",
+        "section": "FiGuRe 1",
+        "section_number": 19,
+        "sentences": [
+            "Additionally, G2Genie was an on-demand feature that provided scripted \"answers\" to common questions that intervention youth could query (eg, how to break up with a boyfriend)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Intervention participants were also paired to a text buddy. 25, 26 The goal was for paired intervention participants to practice program skills and provide mutual social support. Text buddies were matched on sexual experience, time zone (ie, within 1 zone), and distance (at least 500 miles apart to prevent meeting each other), when possible. 19 Participants agreed to a code of conduct that specified acceptable and unacceptable behavior. Buddy messages were routed through the study server to protect participants' confidentiality. 19 The research staff monitored conversations for safety.",
+        "section": "FiGuRe 1",
+        "section_number": 20,
+        "sentences": [
+            "Intervention participants were also paired to a text buddy.",
+            "25, 26 The goal was for paired intervention participants to practice program skills and provide mutual social support.",
+            "Text buddies were matched on sexual experience, time zone (ie, within 1 zone), and distance (at least 500 miles apart to prevent meeting each other), when possible.",
+            "19 Participants agreed to a code of conduct that specified acceptable and unacceptable behavior.",
+            "Buddy messages were routed through the study server to protect participants' confidentiality.",
+            "19 The research staff monitored conversations for safety."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "The control group participants received a text messaging program matched on the number of days in the intervention content. Messages focused on general health topics (eg, self-esteem, Table 1 ). Because program interactivity can increase one's engagement and enhance the learning effect, 27 level-up questions, badges, Text Buddy, and G2Genie were not available to the control group.",
+        "section": "FiGuRe 1",
+        "section_number": 21,
+        "sentences": [
+            "The control group participants received a text messaging program matched on the number of days in the intervention content.",
+            "Messages focused on general health topics (eg, self-esteem, Table 1 ).",
+            "Because program interactivity can increase one's engagement and enhance the learning effect, 27 level-up questions, badges, Text Buddy, and G2Genie were not available to the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Over 5 weeks, intervention participants in the inexperienced group received an average of 8.5 messages daily and in the experienced group received an average of 9.6 messages daily. The control participants received 7.0 daily messages on average. These differences reflect additional features for intervention participants and tailored content by sexual experience within the intervention arm.",
+        "section": "FiGuRe 1",
+        "section_number": 22,
+        "sentences": [
+            "Over 5 weeks, intervention participants in the inexperienced group received an average of 8.5 messages daily and in the experienced group received an average of 9.6 messages daily.",
+            "The control participants received 7.0 daily messages on average.",
+            "These differences reflect additional features for intervention participants and tailored content by sexual experience within the intervention arm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Participants in both arms completed a comprehensive baseline and 90-day assessment online. At the end of the 5-week main intervention, outcome measures were collected via a brief text messaging-based assessment.",
+        "section": "data collection",
+        "section_number": 23,
+        "sentences": [
+            "Participants in both arms completed a comprehensive baseline and 90-day assessment online.",
+            "At the end of the 5-week main intervention, outcome measures were collected via a brief text messaging-based assessment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "To maximize response, youth who had not completed the online assessment at 90-day follow-up received an abbreviated text messaging-based survey that queried only the outcome measures. They could subsequently complete the full online survey if they chose, but for those who completed both, answers to the abbreviated survey were included in analysis because they were provided by the participants first.",
+        "section": "data collection",
+        "section_number": 24,
+        "sentences": [
+            "To maximize response, youth who had not completed the online assessment at 90-day follow-up received an abbreviated text messaging-based survey that queried only the outcome measures.",
+            "They could subsequently complete the full online survey if they chose, but for those who completed both, answers to the abbreviated survey were included in analysis because they were provided by the participants first."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Note the follow-up period is approximate and depends on when participants completed the assessment (eg, the same day the invitation was sent, a week later, etc) and how quickly intervention youth responded to bidirectional messages (eg, level-up, badge messages).",
+        "section": "data collection",
+        "section_number": 25,
+        "sentences": [
+            "Note the follow-up period is approximate and depends on when participants completed the assessment (eg, the same day the invitation was sent, a week later, etc) and how quickly intervention youth responded to bidirectional messages (eg, level-up, badge messages)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Our primary outcome measures were the number of condomless sex acts (CSAs) and abstinence at 90-days postintervention.",
+        "section": "outcomes",
+        "section_number": 26,
+        "sentences": [
+            "Our primary outcome measures were the number of condomless sex acts (CSAs) and abstinence at 90-days postintervention."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Secondary outcome measures included HIV testing among sexually experienced youth, the number of CSAs, and whether youth had been abstinent in the 90 days since the intervention end, which were stratified by baseline sexual experience. We examined relative difference in CSAs and abstinence at intervention end for all youth and stratified them by baseline sexual experience.",
+        "section": "outcomes",
+        "section_number": 27,
+        "sentences": [
+            "Secondary outcome measures included HIV testing among sexually experienced youth, the number of CSAs, and whether youth had been abstinent in the 90 days since the intervention end, which were stratified by baseline sexual experience.",
+            "We examined relative difference in CSAs and abstinence at intervention end for all youth and stratified them by baseline sexual experience."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "At baseline and 90-day follow-up, participants were asked 4 questions about the number of partners they had for each sex act (eg, \"With how many people have you ever had anal sex in which someone's penis went into your anus [butt] when you wanted it to [you weren't forced]?\"). Those reporting at least 1 sex partner were asked the number of times they had vaginal, insertive anal, and receptive anal sex with each of their 3 most recent partners. 28 They then were asked the number of times they \"did NOT use a condom\" with this person. CSAs were calculated as the sum of times they did not use a condom across partners and types of sex. Abstinence was indicated if they reported no sex partners.",
+        "section": "outcomes",
+        "section_number": 28,
+        "sentences": [
+            "At baseline and 90-day follow-up, participants were asked 4 questions about the number of partners they had for each sex act (eg, \"With how many people have you ever had anal sex in which someone's penis went into your anus [butt] when you wanted it to [you weren't forced]?\").",
+            "Those reporting at least 1 sex partner were asked the number of times they had vaginal, insertive anal, and receptive anal sex with each of their 3 most recent partners.",
+            "28 They then were asked the number of times they \"did NOT use a condom\" with this person.",
+            "CSAs were calculated as the sum of times they did not use a condom across partners and types of sex.",
+            "Abstinence was indicated if they reported no sex partners."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "At postintervention, because of the brevity of the text messagingbased survey, participants were asked about the total number of sex acts since the beginning of the intervention instead of the number of sex acts per partner (eg, \"Since you started G2G, how many times have you had anal sex in which someone's penis went into your anus [butt] when you wanted it to [you weren't forced]?\"). Those who reported having sex at least once were asked the number of times they did not use a condom. Again, CSAs were calculated as the number of times the youth did not use a condom; abstinence was indicated for youth who reported no sex acts during the observation period. (Note: A count, rather than a percent [ie, the number of CSAs divided by the number of sex acts], was used because each unprotected CSA carries an equal risk of HIV transmission.)",
+        "section": "outcomes",
+        "section_number": 29,
+        "sentences": [
+            "At postintervention, because of the brevity of the text messagingbased survey, participants were asked about the total number of sex acts since the beginning of the intervention instead of the number of sex acts per partner (eg, \"Since you started G2G, how many times have you had anal sex in which someone's penis went into your anus [butt] when you wanted it to [you weren't forced]?\").",
+            "Those who reported having sex at least once were asked the number of times they did not use a condom.",
+            "Again, CSAs were calculated as the number of times the youth did not use a condom; abstinence was indicated for youth who reported no sex acts during the observation period. (",
+            "Note: A count, rather than a percent [ie, the number of CSAs divided by the number of sex acts], was used because each unprotected CSA carries an equal risk of HIV transmission.)"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Youth self-reported whether they were tested for HIV at these intervals: ever, at baseline, at the start of G2G, at intervention end, and since the end of the program at 90-day follow-up.",
+        "section": "outcomes",
+        "section_number": 30,
+        "sentences": [
+            "Youth self-reported whether they were tested for HIV at these intervals: ever, at baseline, at the start of G2G, at intervention end, and since the end of the program at 90-day follow-up."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Analyses were intent-to-treat and complete case (ie, those who responded to the outcome assessment were included in analyses). Baseline measures were imputed by using single imputation 29 and compared to a study arm by using \u03c7 2 or t tests as appropriate to test the randomization efficiency. Statistically significant characteristics were included in multivariate models.",
+        "section": "statistical analyses",
+        "section_number": 31,
+        "sentences": [
+            "Analyses were intent-to-treat and complete case (ie, those who responded to the outcome assessment were included in analyses).",
+            "Baseline measures were imputed by using single imputation 29 and compared to a study arm by using \u03c7 2 or t tests as appropriate to test the randomization efficiency.",
+            "Statistically significant characteristics were included in multivariate models."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Because of skew, negative binomial regression was used to estimate the incident rate ratio (IRR) of the count of CSAs for the intervention versus control groups. To examine the effect of outliers, models were estimated for the total sum and also for a sum restricted at 10 (ie, a range of 0-10+). Logistic regression assessed the relative odds of abstinence and HIV testing for the 2 experimental arms. Given the pilot nature of the study, findings of strong magnitude (odds ratio [OR] \u2265 3.0) were noted irrespective of statistical significance.",
+        "section": "statistical analyses",
+        "section_number": 32,
+        "sentences": [
+            "Because of skew, negative binomial regression was used to estimate the incident rate ratio (IRR) of the count of CSAs for the intervention versus control groups.",
+            "To examine the effect of outliers, models were estimated for the total sum and also for a sum restricted at 10 (ie, a range of 0-10+).",
+            "Logistic regression assessed the relative odds of abstinence and HIV testing for the 2 experimental arms.",
+            "Given the pilot nature of the study, findings of strong magnitude (odds ratio [OR] \u2265 3.0) were noted irrespective of statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Consolidated Standards of Reporting Trials flow). Five intervention participants actively withdrew from the program. No control participants withdrew and no harms were reported. Follow-up rates were similar for intervention and control groups at intervention end (94% vs 97%, respectively; P = .15) and the 90-day assessment (91% vs 96%, respectively; P = .09).",
+        "section": "Postintervention assessments were gathered between July and December 2014, and 90-day postintervention assessments were gathered between October 2014 and April 2015 (See Fig 2 for",
+        "section_number": 33,
+        "sentences": [
+            "Consolidated Standards of Reporting Trials flow).",
+            "Five intervention participants actively withdrew from the program.",
+            "No control participants withdrew and no harms were reported.",
+            "Follow-up rates were similar for intervention and control groups at intervention end (94% vs 97%, respectively; P = .15) and the 90-day assessment (91% vs 96%, respectively; P = .09)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Youth who did not respond to the 90-day assessment (n = 19) were similar to those who did (n = 283) on all baseline measures assessed (data not shown). Among those completing the 90-day assessment, characteristics were statistically similar across the 2 groups except for age (P = .01) ( Table 2) , which was entered into all multivariate models (Table 3) .",
+        "section": "Postintervention assessments were gathered between July and December 2014, and 90-day postintervention assessments were gathered between October 2014 and April 2015 (See Fig 2 for",
+        "section_number": 34,
+        "sentences": [
+            "Youth who did not respond to the 90-day assessment (n = 19) were similar to those who did (n = 283) on all baseline measures assessed (data not shown).",
+            "Among those completing the 90-day assessment, characteristics were statistically similar across the 2 groups except for age (P = .01) ( Table 2) , which was entered into all multivariate models (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Thirty percent of participants (n = 84; 26% of control participants, 34% of intervention participants) had never had vaginal or anal sex before baseline or through the follow-up period (data not shown). Twenty percent (n = 56; 23% control, 17% intervention) had never had sex before baseline and reported sex during follow-up. Nine percent (n = 25; 10% control, 8% intervention) had ever had sex at baseline but did not report sex during follow-up. Fortytwo percent (n = 118; 42% control, 42% intervention) had ever had sex before baseline and also during follow-up. at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "Postintervention assessments were gathered between July and December 2014, and 90-day postintervention assessments were gathered between October 2014 and April 2015 (See Fig 2 for",
+        "section_number": 35,
+        "sentences": [
+            "Thirty percent of participants (n = 84; 26% of control participants, 34% of intervention participants) had never had vaginal or anal sex before baseline or through the follow-up period (data not shown).",
+            "Twenty percent (n = 56; 23% control, 17% intervention) had never had sex before baseline and reported sex during follow-up.",
+            "Nine percent (n = 25; 10% control, 8% intervention) had ever had sex at baseline but did not report sex during follow-up.",
+            "Fortytwo percent (n = 118; 42% control, 42% intervention) had ever had sex before baseline and also during follow-up.",
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "At 90-days postintervention, no significant differences in CSAs or abstinence were noted (Table 3) . Results were relatively similar whether the total number of CSAs were assessed (P = .96) or if they were censored at 10 CSAs (P = .24).",
+        "section": "Primary outcomes",
+        "section_number": 36,
+        "sentences": [
+            "At 90-days postintervention, no significant differences in CSAs or abstinence were noted (Table 3) .",
+            "Results were relatively similar whether the total number of CSAs were assessed (P = .96) or if they were censored at 10 CSAs (P = .24)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Among youth who were sexually experienced at baseline, twice as many intervention participants (55%) as control participants (28%) reported getting an HIV test at 90 days postintervention (adjusted odds ratio [aOR] = 3.42, P < .001). Similar results were noted at intervention end (aOR = 3.39, P < .001) ( Table 3 ). Intervention participants who had ever had sex at baseline were significantly less likely to be abstinent at 90-day assessment compared with their sexually experienced control counterparts (aOR = 0.48, P = .05).",
+        "section": "secondary outcome Measures",
+        "section_number": 37,
+        "sentences": [
+            "Among youth who were sexually experienced at baseline, twice as many intervention participants (55%) as control participants (28%) reported getting an HIV test at 90 days postintervention (adjusted odds ratio [aOR] = 3.42, P < .001).",
+            "Similar results were noted at intervention end (aOR = 3.39, P < .001) ( Table 3 ).",
+            "Intervention participants who had ever had sex at baseline were significantly less likely to be abstinent at 90-day assessment compared with their sexually experienced control counterparts (aOR = 0.48, P = .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "Holding baseline CSAs constant, the number of CSAs was 61% lower for the intervention than the control group (IRR = 0.39, P = .04) at intervention end. This effect was no longer statistically significant when age was added to the model (Table 3) . Age differed by arm when treated categorically (Table 2) , but age was equivalent by arm when assessed by using a dichotomous definition to reflect recruitment bins (ie, 14-15 years of age versus 16-18 years of age). Together, these data suggest that the outcome was vulnerable to the operationalization of age in analyses but not in an interpretable way: when the outcome was examined within each age group (eg, 17 year olds), patterns were not apparent.",
+        "section": "secondary outcome Measures",
+        "section_number": 38,
+        "sentences": [
+            "Holding baseline CSAs constant, the number of CSAs was 61% lower for the intervention than the control group (IRR = 0.39, P = .04) at intervention end.",
+            "This effect was no longer statistically significant when age was added to the model (Table 3) .",
+            "Age differed by arm when treated categorically (Table 2) , but age was equivalent by arm when assessed by using a dichotomous definition to reflect recruitment bins (ie, 14-15 years of age versus 16-18 years of age).",
+            "Together, these data suggest that the outcome was vulnerable to the operationalization of age in analyses but not in an interpretable way: when the outcome was examined within each age group (eg, 17 year olds), patterns were not apparent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "No other secondary outcomes at intervention end or 90-day follow-up were statistically significantly different, although findings suggested that abstinence may have been higher at intervention end among baseline-abstinent intervention youth than control youth (Table 3) . This does not appear to persist over time. \"Do not want to answer\" responses are imputed (except for outcome variables: HIV testing, condomless sex, sexual experience). M, mean. a Randomization balanced on these 2 factors. b Higher score is worse functioning; all others, a higher score is positive. c Among sexually active youth at baseline (n = 140).",
+        "section": "secondary outcome Measures",
+        "section_number": 39,
+        "sentences": [
+            "No other secondary outcomes at intervention end or 90-day follow-up were statistically significantly different, although findings suggested that abstinence may have been higher at intervention end among baseline-abstinent intervention youth than control youth (Table 3) .",
+            "This does not appear to persist over time. \"",
+            "Do not want to answer\" responses are imputed (except for outcome variables: HIV testing, condomless sex, sexual experience).",
+            "M, mean.",
+            "a Randomization balanced on these 2 factors.",
+            "b Higher score is worse functioning; all others, a higher score is positive.",
+            "c Among sexually active youth at baseline (n = 140)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "The number of CSAs did not change from baseline to 90-day follow-up for either intervention (P = .95) or control (P = .33) participants. Additional limitations bear noting. To be truly attention-matched, the control group would have also needed to receive a version of the interactive components (eg, level-up, badges). This type of design would, in the future, allow us to disentangle the impact that the content itself, over and above the interactive components, has on behavior change. Moreover, data may not generalize beyond AGBM using Facebook. Also, longer-term outcomes with a larger sample size would provide a better sense of program impact over time, especially for CSAs, which appeared to be significantly different between the 2 groups until age was introduced into the model. Additionally, future programs may consider opportunities to validate self-reported HIV testing (eg, offering coupons for testing, photo verification of the test results). Finally, behavioral outcomes specifically and survey data more generally are self-reported and may be vulnerable to social desirability bias. The blinding of the groups ideally distributed this bias equally across both groups, although this cannot be confirmed. Although there has been limited research on the validity of sexual behavior selfreporting among teens, reliability was promoted in the current study by using time-anchored responses, a short period of recall, and responses anchored to specific partners. 34, 35 concLusions G2G is a standardized, standalone, text messaging-based intervention with demonstrated success in improving HIV testing for a group that is both underserved and at high risk for HIV acquisition. Unlike face-to-face interventions that have more limitations on numbers of participants and staffing, 36 -38 technology-based interventions such as G2G can be delivered to larger numbers of youth in diverse geographic settings. Similar intervention programs focused on invigorating AMSM HIV testing rates are encouraged to consider sending motivational messages via text messaging, combined with links to clinic locator sites and to a brief video demystifying the HIV testing experience. Further research is needed to examine how to intensify content for increased condom use.",
+        "section": "secondary outcome Measures",
+        "section_number": 40,
+        "sentences": [
+            "The number of CSAs did not change from baseline to 90-day follow-up for either intervention (P = .95) or control (P = .33) participants.",
+            "Additional limitations bear noting.",
+            "To be truly attention-matched, the control group would have also needed to receive a version of the interactive components (eg, level-up, badges).",
+            "This type of design would, in the future, allow us to disentangle the impact that the content itself, over and above the interactive components, has on behavior change.",
+            "Moreover, data may not generalize beyond AGBM using Facebook.",
+            "Also, longer-term outcomes with a larger sample size would provide a better sense of program impact over time, especially for CSAs, which appeared to be significantly different between the 2 groups until age was introduced into the model.",
+            "Additionally, future programs may consider opportunities to validate self-reported HIV testing (eg, offering coupons for testing, photo verification of the test results).",
+            "Finally, behavioral outcomes specifically and survey data more generally are self-reported and may be vulnerable to social desirability bias.",
+            "The blinding of the groups ideally distributed this bias equally across both groups, although this cannot be confirmed.",
+            "Although there has been limited research on the validity of sexual behavior selfreporting among teens, reliability was promoted in the current study by using time-anchored responses, a short period of recall, and responses anchored to specific partners.",
+            "34, 35 concLusions G2G is a standardized, standalone, text messaging-based intervention with demonstrated success in improving HIV testing for a group that is both underserved and at high risk for HIV acquisition.",
+            "Unlike face-to-face interventions that have more limitations on numbers of participants and staffing, 36 -38 technology-based interventions such as G2G can be delivered to larger numbers of youth in diverse geographic settings.",
+            "Similar intervention programs focused on invigorating AMSM HIV testing rates are encouraged to consider sending motivational messages via text messaging, combined with links to clinic locator sites and to a brief video demystifying the HIV testing experience.",
+            "Further research is needed to examine how to intensify content for increased condom use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "acKnoWLedGMenTs",
+        "section": "secondary outcome Measures",
+        "section_number": 41,
+        "sentences": [
+            "acKnoWLedGMenTs"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 42,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 43,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "36449",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 44,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

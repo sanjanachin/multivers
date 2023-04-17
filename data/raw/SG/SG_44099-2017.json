@@ -1,0 +1,614 @@
+[
+    {
+        "doc_id": "44099",
+        "text": "Objective: Risk taking, such as heavy alcohol use, is commonplace among adolescents. Nevertheless, prolonged alcohol use at this age can lead to severe health problems. The goal of this study was to develop and evaluate a serious game training (''The Fling''), aimed at increasing behavioral control in adolescents and thereby helping them to improve control over their alcohol use. The game training was compared to a game placebo and a nongame training version in a randomized controlled trial. Materials and Methods: A sample of 185 adolescents (mean age 14.9 years) in secondary education participated in the study. They performed four sessions of training, as well as a set of questionnaires and cognitive assessment tasks before and after the training. The basis for the training was the stop-signal paradigm, aimed at increasing behavioral control. Results: The game variants were shown to motivate adolescents beyond the level of the nongame version. Behavioral control improved significantly over time, but this effect was also present in the game placebo, suggesting that the game activities alone may have had a beneficial effect on our measures of behavioral control. As baseline drinking levels were low, no significant training effects on drinking behavior were found. Conclusions: Although the current results are not yet conclusive as to whether ''The Fling'' is effective as a cognitive training, they do warrant further research in this direction. This study also shows that serious games may be uniquely suitable to bridge the gap between an evidence-based training paradigm and an attractive, motivating training environment.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: Risk taking, such as heavy alcohol use, is commonplace among adolescents.",
+            "Nevertheless, prolonged alcohol use at this age can lead to severe health problems.",
+            "The goal of this study was to develop and evaluate a serious game training (''The Fling''), aimed at increasing behavioral control in adolescents and thereby helping them to improve control over their alcohol use.",
+            "The game training was compared to a game placebo and a nongame training version in a randomized controlled trial.",
+            "Materials and Methods: A sample of 185 adolescents (mean age 14.9 years) in secondary education participated in the study.",
+            "They performed four sessions of training, as well as a set of questionnaires and cognitive assessment tasks before and after the training.",
+            "The basis for the training was the stop-signal paradigm, aimed at increasing behavioral control.",
+            "Results: The game variants were shown to motivate adolescents beyond the level of the nongame version.",
+            "Behavioral control improved significantly over time, but this effect was also present in the game placebo, suggesting that the game activities alone may have had a beneficial effect on our measures of behavioral control.",
+            "As baseline drinking levels were low, no significant training effects on drinking behavior were found.",
+            "Conclusions: Although the current results are not yet conclusive as to whether ''The Fling'' is effective as a cognitive training, they do warrant further research in this direction.",
+            "This study also shows that serious games may be uniquely suitable to bridge the gap between an evidence-based training paradigm and an attractive, motivating training environment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "A dolescents often experiment with risky behaviors, such as the use of alcohol. Some, however, experience trouble withstanding the accompanying feelings of temptation and craving, 1 which can turn the relatively innocent experimental behavior into more uncontrolled, problematic behavior. Research has indeed shown that when behavioral control mechanisms are relatively weak (e.g., a poorer ability to plan behavior, inhibit inappropriate responses, or consider alternative response options), the chances of developing a problematic drinking style increase. [2] [3] [4] [5] Uncontrolled, heavy alcohol use at this age can cause immediate health problems as well as academic underperformance, and is an important predictor of addictive behaviors later in life. 6 The good news is that cognitive control processes can successfully be strengthened through the use of cognitive training programs. 7, 8 By applying these programs to an adolescent population, it may be possible to help adolescents to withhold from developing an unhealthy drinking pattern by giving them more control over their alcohol use. However, one problem is that, like many other interventions aimed at reducing adolescents' alcohol use, these training paradigms tend to focus primarily on changing the outcome behavior and not so much on motivating participants to complete the training. Indeed, it has previously been shown that some cognitive training paradigms can be experienced as long and boring. 9 Given that risk groups (i.e., adolescents with behavioral control problems) that could benefit the most from such interventions often have difficulties with concentration and attention, 2 yielding less beneficial training result for the group that needs it the most. Therefore, the continued development of training paradigms that match the motivational needs and skill levels of the target group is of vital importance. One technique that can be used for this purpose is the integration of serious gaming techniques into the training paradigms. Serious games can provide a dynamic environment, tailored to the adolescent's individual level of development, as well as increase participants' motivation to train 10 by using motivating elements such as competition and an arousing game background. 11 Recently, a number of serious games have been developed with exactly this idea in mind: inducing behavioral change through cognitive training, enhanced with motivational elements. [12] [13] [14] In line with these studies, this article presents an evaluation of a serious game (''The Fling''), which was first described in Ref. 14 ''The Fling'' builds on evidence-based training principles 7, [15] [16] [17] aimed at enhancing behavioral control by strengthening both delay of gratification, or the capacity to withstand immediate rewards in favor of bigger long-term rewards, and response inhibition, which means the ability to suppress or delay automatic responses or impulses that might be inappropriate or irrelevant in a certain context.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "A dolescents often experiment with risky behaviors, such as the use of alcohol.",
+            "Some, however, experience trouble withstanding the accompanying feelings of temptation and craving, 1 which can turn the relatively innocent experimental behavior into more uncontrolled, problematic behavior.",
+            "Research has indeed shown that when behavioral control mechanisms are relatively weak (e.g., a poorer ability to plan behavior, inhibit inappropriate responses, or consider alternative response options), the chances of developing a problematic drinking style increase. [",
+            "2] [3] [4] [5] Uncontrolled, heavy alcohol use at this age can cause immediate health problems as well as academic underperformance, and is an important predictor of addictive behaviors later in life.",
+            "6 The good news is that cognitive control processes can successfully be strengthened through the use of cognitive training programs.",
+            "7, 8 By applying these programs to an adolescent population, it may be possible to help adolescents to withhold from developing an unhealthy drinking pattern by giving them more control over their alcohol use.",
+            "However, one problem is that, like many other interventions aimed at reducing adolescents' alcohol use, these training paradigms tend to focus primarily on changing the outcome behavior and not so much on motivating participants to complete the training.",
+            "Indeed, it has previously been shown that some cognitive training paradigms can be experienced as long and boring.",
+            "9 Given that risk groups (i.e., adolescents with behavioral control problems) that could benefit the most from such interventions often have difficulties with concentration and attention, 2 yielding less beneficial training result for the group that needs it the most.",
+            "Therefore, the continued development of training paradigms that match the motivational needs and skill levels of the target group is of vital importance.",
+            "One technique that can be used for this purpose is the integration of serious gaming techniques into the training paradigms.",
+            "Serious games can provide a dynamic environment, tailored to the adolescent's individual level of development, as well as increase participants' motivation to train 10 by using motivating elements such as competition and an arousing game background.",
+            "11 Recently, a number of serious games have been developed with exactly this idea in mind: inducing behavioral change through cognitive training, enhanced with motivational elements. [",
+            "12] [13] [14] In line with these studies, this article presents an evaluation of a serious game (''The Fling''), which was first described in Ref.",
+            "14 ''The Fling'' builds on evidence-based training principles 7, [15] [16] [17] aimed at enhancing behavioral control by strengthening both delay of gratification, or the capacity to withstand immediate rewards in favor of bigger long-term rewards, and response inhibition, which means the ability to suppress or delay automatic responses or impulses that might be inappropriate or irrelevant in a certain context."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The effectiveness of ''The Fling'' was ascertained in a randomized controlled trial among regularly developing adolescents in a secondary vocational education setting, comparing three experimental groups: ''The Fling'' with active training elements (the game training condition using both gocues and stop-cues); ''The Fling'' without training elements as a control measure for the training aspect (the game placebo condition using only go-cues), and a nongame control training to evaluate the added value of the game elements (the nongame training condition). Participants in the game and nongame training conditions were expected to show an increase in behavioral control, and in effect a reduction in alcohol drinking, over time, whereas participants in the game placebo condition do not. The game placebo and the game training were expected to be more fun to do than the nongame training.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The effectiveness of ''The Fling'' was ascertained in a randomized controlled trial among regularly developing adolescents in a secondary vocational education setting, comparing three experimental groups: ''The Fling'' with active training elements (the game training condition using both gocues and stop-cues); ''The Fling'' without training elements as a control measure for the training aspect (the game placebo condition using only go-cues), and a nongame control training to evaluate the added value of the game elements (the nongame training condition).",
+            "Participants in the game and nongame training conditions were expected to show an increase in behavioral control, and in effect a reduction in alcohol drinking, over time, whereas participants in the game placebo condition do not.",
+            "The game placebo and the game training were expected to be more fun to do than the nongame training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "There are two similar paradigms that are most frequently used for training behavioral control: the go/no-go (GNG) and the stop-signal task (SST) paradigm. 18 Both can be used to train response inhibition by consistently pairing certain stimuli with a go-response and others with a no-go or stopping response. Dovis et al. 19 successfully improved controlled response inhibition in children with attention deficit hyperactivity disorder through a gamified inhibition training based on the SST paradigm. Dovis et al. 19 also suggest that for the purpose of training controlled response inhibition, the GNG may be less appropriate compared to the SST. The way the GNG task is designed makes it to interact with other processes, such as selective attention, and has a relatively low load on inhibition. 20 Verbruggen et al. 21 also showed that a controlled response inhibition training at the motor level with the SST paradigm can translate specifically to a decrease in risky behavior (assessed with a monetary gambling task). The SST paradigm may thus show better transfer of cognitive control improvements to other cognitive domains, 21, 22 whereas the GNG paradigm appears to be more suitable to train domain-specific behavioral control. 7 Therefore, the training task used as a basis for ''The Fling'' was based on the SST paradigm.",
+        "section": "Study design: selection of the training paradigm",
+        "section_number": 3,
+        "sentences": [
+            "There are two similar paradigms that are most frequently used for training behavioral control: the go/no-go (GNG) and the stop-signal task (SST) paradigm.",
+            "18 Both can be used to train response inhibition by consistently pairing certain stimuli with a go-response and others with a no-go or stopping response.",
+            "Dovis et al. 19 successfully improved controlled response inhibition in children with attention deficit hyperactivity disorder through a gamified inhibition training based on the SST paradigm.",
+            "Dovis et al. 19 also suggest that for the purpose of training controlled response inhibition, the GNG may be less appropriate compared to the SST.",
+            "The way the GNG task is designed makes it to interact with other processes, such as selective attention, and has a relatively low load on inhibition.",
+            "20 Verbruggen et al. 21 also showed that a controlled response inhibition training at the motor level with the SST paradigm can translate specifically to a decrease in risky behavior (assessed with a monetary gambling task).",
+            "The SST paradigm may thus show better transfer of cognitive control improvements to other cognitive domains, 21, 22 whereas the GNG paradigm appears to be more suitable to train domain-specific behavioral control.",
+            "7 Therefore, the training task used as a basis for ''The Fling'' was based on the SST paradigm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The target population for ''The Fling'' consisted of typically developing adolescents and adolescents with learning or attentional problems, between 15 and 17 years of both sexes. As such, the game elements used were aimed specifically at adolescents in that age group. ''The Fling'' was set in a three-dimensional (3D) world (built in Unity 3D) and included a lighthearted ''boy-meets girl'' love story in between a set of five training levels that depict scenes from the story line. During each training level a song was played, presenting a musical rhythmic pattern that coincided with the presentation of the go-and stop-cues. Besides fitting the atmosphere of the game, the music was also intended to make the tendency to respond to the cues more potent. The cues showed up along a ribbon in a neutral color (gray), turning either green (signaling a go-cue) or green followed by red (signaling a stop-cue) at 1000 milliseconds in front of the camera position (Fig. 1) .",
+        "section": "Study design: game elements used",
+        "section_number": 4,
+        "sentences": [
+            "The target population for ''The Fling'' consisted of typically developing adolescents and adolescents with learning or attentional problems, between 15 and 17 years of both sexes.",
+            "As such, the game elements used were aimed specifically at adolescents in that age group. ''",
+            "The Fling'' was set in a three-dimensional (3D) world (built in Unity 3D) and included a lighthearted ''boy-meets girl'' love story in between a set of five training levels that depict scenes from the story line.",
+            "During each training level a song was played, presenting a musical rhythmic pattern that coincided with the presentation of the go-and stop-cues.",
+            "Besides fitting the atmosphere of the game, the music was also intended to make the tendency to respond to the cues more potent.",
+            "The cues showed up along a ribbon in a neutral color (gray), turning either green (signaling a go-cue) or green followed by red (signaling a stop-cue) at 1000 milliseconds in front of the camera position (Fig. 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The game also included multiple lanes on the ribbon, corresponding to different response keys in higher levels, as well as blue bonus go-cues, which required a continued keypress, using a PC or laptop keyboard as input device. To motivate the player to also respond quickly, but not too fast, the number of points awarded for each correct go-response increased, the closer the cue moved to the camera position. If the response was correct, this is signaled by an increase of points. When an incorrect response was given (either the wrong or no key on a go-cue, or any key on a stop-cue), the screen briefly gave a little shake (emulating the force feedback feature found in many console games). Further details about the game can be found in the protocol paper for this study. 14 ",
+        "section": "Study design: game elements used",
+        "section_number": 5,
+        "sentences": [
+            "The game also included multiple lanes on the ribbon, corresponding to different response keys in higher levels, as well as blue bonus go-cues, which required a continued keypress, using a PC or laptop keyboard as input device.",
+            "To motivate the player to also respond quickly, but not too fast, the number of points awarded for each correct go-response increased, the closer the cue moved to the camera position.",
+            "If the response was correct, this is signaled by an increase of points.",
+            "When an incorrect response was given (either the wrong or no key on a go-cue, or any key on a stop-cue), the screen briefly gave a little shake (emulating the force feedback feature found in many console games).",
+            "Further details about the game can be found in the protocol paper for this study.",
+            "14"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The training was divided over four 10-to 15-minute sessions spread over 4 weeks. Immediately before the first training session, a 20-minute baseline assessment was conducted. Likewise, following the last training, another 20minute assessment took place. All training sessions were completed at schools, under the guidance of trained research assistants. A brief 1-minute follow-up assessment was done 4-6 weeks after the last training session. Passive informed consent was obtained from the adolescents' parents through letters sent by the schools 2 weeks before the first assessment. The adolescents were informed about the goal of the study (evaluating a new computer training aimed at helping to control your behavior), and that participation in the study was entirely voluntary and that no information would be shared with their school. Participants could earn a 10 Euro gift voucher on completion of the entire training and followup assessment.",
+        "section": "Study design: procedure",
+        "section_number": 6,
+        "sentences": [
+            "The training was divided over four 10-to 15-minute sessions spread over 4 weeks.",
+            "Immediately before the first training session, a 20-minute baseline assessment was conducted.",
+            "Likewise, following the last training, another 20minute assessment took place.",
+            "All training sessions were completed at schools, under the guidance of trained research assistants.",
+            "A brief 1-minute follow-up assessment was done 4-6 weeks after the last training session.",
+            "Passive informed consent was obtained from the adolescents' parents through letters sent by the schools 2 weeks before the first assessment.",
+            "The adolescents were informed about the goal of the study (evaluating a new computer training aimed at helping to control your behavior), and that participation in the study was entirely voluntary and that no information would be shared with their school.",
+            "Participants could earn a 10 Euro gift voucher on completion of the entire training and followup assessment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "A sample of 185 adolescents in vocational tracks of secondary education (79 boys), aged 13-17 years (mean 14.9; standard deviation = 0.8), participated in the study. They were randomly divided over the three conditions: gametraining: 70 (31 boys); game placebo training: 60 (37 boys); and nongame training (3): 55 (10 boys). The Ethics Review Board of Utrecht University approved the study, protocol number FETC16-064, and the study was registered at The Netherlands National Trial Register (no. NTR5967).",
+        "section": "Sample",
+        "section_number": 7,
+        "sentences": [
+            "A sample of 185 adolescents in vocational tracks of secondary education (79 boys), aged 13-17 years (mean 14.9; standard deviation = 0.8), participated in the study.",
+            "They were randomly divided over the three conditions: gametraining: 70 (31 boys); game placebo training: 60 (37 boys); and nongame training (3): 55 (10 boys).",
+            "The Ethics Review Board of Utrecht University approved the study, protocol number FETC16-064, and the study was registered at The Netherlands National Trial Register (no. NTR5967)."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "44099",
+        "text": "At baseline, demographic information (e.g., age, sex, level of education) was assessed, as well as month and year prevalence of alcohol use, 23 and frequency of smoking behavior and cannabis use. 24, 25 The level of alcohol use was assessed covering the 4-week periods before, during, and after the training, with categories 11-19 recoded as 15, 20-39 as 30, and 40+ as 40. As a measure of behavioral control, the 13-item Brief Self-Report Scale (BSCS) 26 was conducted both before and after the training. After training, we evaluated the (game or nongame) training with a number of questions specifically developed for this project, including an appreciation scale for the training ranging from 1 to 10.",
+        "section": "Materials",
+        "section_number": 8,
+        "sentences": [
+            "At baseline, demographic information (e.g., age, sex, level of education) was assessed, as well as month and year prevalence of alcohol use, 23 and frequency of smoking behavior and cannabis use.",
+            "24, 25 The level of alcohol use was assessed covering the 4-week periods before, during, and after the training, with categories 11-19 recoded as 15, 20-39 as 30, and 40+ as 40.",
+            "As a measure of behavioral control, the 13-item Brief Self-Report Scale (BSCS) 26 was conducted both before and after the training.",
+            "After training, we evaluated the (game or nongame) training with a number of questions specifically developed for this project, including an appreciation scale for the training ranging from 1 to 10."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "To ascertain the effect of the training on behavioral control, two measures were used. First, a recently developed Range task 27 was used to measure behavioral control before and after training. The Range task is based on the regular SST, 28 but here participants are not only instructed to respond as quickly and accurately as possible to the direction (left or right) of a green arrow, while withholding their response when the green arrow turns red (a stop signal), but they are also instructed to respond within a time frame of 400 through 600 milliseconds after the onset of the stimulus. As with the regular SST, a stop-signal reaction time (SSRT) is calculated, indicating the adolescent's ability to inhibit certain responses.",
+        "section": "Materials",
+        "section_number": 9,
+        "sentences": [
+            "To ascertain the effect of the training on behavioral control, two measures were used.",
+            "First, a recently developed Range task 27 was used to measure behavioral control before and after training.",
+            "The Range task is based on the regular SST, 28 but here participants are not only instructed to respond as quickly and accurately as possible to the direction (left or right) of a green arrow, while withholding their response when the green arrow turns red (a stop signal), but they are also instructed to respond within a time frame of 400 through 600 milliseconds after the onset of the stimulus.",
+            "As with the regular SST, a stop-signal reaction time (SSRT) is calculated, indicating the adolescent's ability to inhibit certain responses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "As delay of gratification also relates to working memory 29 and is an important aspect of behavioral control, 3 a computerized version of the Self-Ordered Pointing Task (SOPT) 30 was also used to assess working memory capacity (WMC). The SOPT presents participants with a grid of pictures with the instruction to click on each picture only once. After each click, the pictures are shuffled and presented again, until the number of responses matches the number of pictures presented in the grid. The task starts with a practice block of four pictures, followed by four test blocks with increasing numbers of pictures. The total number of unique pictures selected was used as a measure of WMC. 31 In the training, participants were presented with a minimum of 200-300 trials per level, depending on the duration of the song, with 75% go trials and 25% stop trials. In contrast, while being visually and procedurally similar to the game training condition, the game placebo condition only featured go trials, essentially making the game placebo version somewhat easier and, most importantly, not focused on behavioral control training. Finally, the nongame training featured a stop-signal training more closely matched to the original paradigm, without music or game elements. The amount of training was matched in terms of training time, rather than number of trials, but was roughly equal between conditions. Figure 2 shows a trial in the nongame version of the training.",
+        "section": "Materials",
+        "section_number": 10,
+        "sentences": [
+            "As delay of gratification also relates to working memory 29 and is an important aspect of behavioral control, 3 a computerized version of the Self-Ordered Pointing Task (SOPT) 30 was also used to assess working memory capacity (WMC).",
+            "The SOPT presents participants with a grid of pictures with the instruction to click on each picture only once.",
+            "After each click, the pictures are shuffled and presented again, until the number of responses matches the number of pictures presented in the grid.",
+            "The task starts with a practice block of four pictures, followed by four test blocks with increasing numbers of pictures.",
+            "The total number of unique pictures selected was used as a measure of WMC.",
+            "31 In the training, participants were presented with a minimum of 200-300 trials per level, depending on the duration of the song, with 75% go trials and 25% stop trials.",
+            "In contrast, while being visually and procedurally similar to the game training condition, the game placebo condition only featured go trials, essentially making the game placebo version somewhat easier and, most importantly, not focused on behavioral control training.",
+            "Finally, the nongame training featured a stop-signal training more closely matched to the original paradigm, without music or game elements.",
+            "The amount of training was matched in terms of training time, rather than number of trials, but was roughly equal between conditions.",
+            "Figure 2 shows a trial in the nongame version of the training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The primary outcome measures of this study were analyzed as follows: Motivation was compared after the training was completed, between the three experimental conditions (game training, game placebo training, and nongame training). Cognition and drinking behavior were compared between these conditions and over time: before and after the training.",
+        "section": "Analyses",
+        "section_number": 11,
+        "sentences": [
+            "The primary outcome measures of this study were analyzed as follows: Motivation was compared after the training was completed, between the three experimental conditions (game training, game placebo training, and nongame training).",
+            "Cognition and drinking behavior were compared between these conditions and over time: before and after the training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Twelve adolescents dropped out of the training after completing the pretraining assessment for various personal reasons (three in the game training condition, seven in the game placebo condition, and two in the nongame training condition). These participants were therefore excluded from all further analyses. Next, measures of behavioral control were screened for univariate outliers based on being removed more than three standard deviations from the sample mean. Based on these criteria, four outliers were removed from the SOPT analyses over time, and nine from the analyses on the SOPT change scores.",
+        "section": "Results",
+        "section_number": 12,
+        "sentences": [
+            "Twelve adolescents dropped out of the training after completing the pretraining assessment for various personal reasons (three in the game training condition, seven in the game placebo condition, and two in the nongame training condition).",
+            "These participants were therefore excluded from all further analyses.",
+            "Next, measures of behavioral control were screened for univariate outliers based on being removed more than three standard deviations from the sample mean.",
+            "Based on these criteria, four outliers were removed from the SOPT analyses over time, and nine from the analyses on the SOPT change scores."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "After the post-training assessment, participants were asked to rate the training task. Table 1 shows the average grades, on a scale from 1-10. There was a significant difference in the appreciation of the training variants, F(2,170) = 23.920, P < 0.001, g p 2 = 0.220, with both game variants of the training being rated significantly higher than the nongame training, t(170) = 6.912, P < 0.001, r = 0.468.",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "After the post-training assessment, participants were asked to rate the training task.",
+            "Table 1 shows the average grades, on a scale from 1-10.",
+            "There was a significant difference in the appreciation of the training variants, F(2,170) = 23.920, P < 0.001, g p 2 = 0.220, with both game variants of the training being rated significantly higher than the nongame training, t(170) = 6.912, P < 0.001, r = 0.468."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Behavioral control significantly improved over time (as indicated by a lower SSRT), F(1,116) = 66.765, P < 0.001, g p 2 = 0.365, but contrary to our expectations, this occurred in all conditions, and the interaction between time and condition was not significant, F(2,116) = 0.134, P = 0.875. We did observe a small but significant difference between the conditions themselves, F(2,116) = 3.604, P = 0.030, g p 2 = 0.059, but this was driven by a small head start for the game placebo condition at baseline (Table 1 and Fig. 3 ).",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Behavioral control significantly improved over time (as indicated by a lower SSRT), F(1,116) = 66.765, P < 0.001, g p 2 = 0.365, but contrary to our expectations, this occurred in all conditions, and the interaction between time and condition was not significant, F(2,116) = 0.134, P = 0.875.",
+            "We did observe a small but significant difference between the conditions themselves, F(2,116) = 3.604, P = 0.030, g p 2 = 0.059, but this was driven by a small head start for the game placebo condition at baseline (Table 1 and Fig. 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "It should be noted that the SSRT was calculated making relatively mild exclusions based on deviation from the percentage of incorrect stop trials from 50%: we only excluded participants with a percentage of correctly inhibited stop trials lower than 25% or greater than 75%, and/or a percentage of incorrect responses on go trials greater than 30%. This resulted in the exclusion of 28% of our sample. When stricter exclusion criteria were used, for example, using only those in the 40%-60% range, this resulted in the exclusion of over 80% of the sample. Importantly, a recent study suggested that the differences between strict or mild or no exclusions based on SSRT calculation, specifically, may be minimal. 33 As we applied these same criteria to all conditions, the effects on the between-group comparisons should therefore also be minimal. The effects found did not change when the median was used for calculating the SSRT instead of the mean. Table 1 shows group means with (standard deviation).",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "It should be noted that the SSRT was calculated making relatively mild exclusions based on deviation from the percentage of incorrect stop trials from 50%: we only excluded participants with a percentage of correctly inhibited stop trials lower than 25% or greater than 75%, and/or a percentage of incorrect responses on go trials greater than 30%.",
+            "This resulted in the exclusion of 28% of our sample.",
+            "When stricter exclusion criteria were used, for example, using only those in the 40%-60% range, this resulted in the exclusion of over 80% of the sample.",
+            "Importantly, a recent study suggested that the differences between strict or mild or no exclusions based on SSRT calculation, specifically, may be minimal.",
+            "33 As we applied these same criteria to all conditions, the effects on the between-group comparisons should therefore also be minimal.",
+            "The effects found did not change when the median was used for calculating the SSRT instead of the mean.",
+            "Table 1 shows group means with (standard deviation)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "RANGE, range inhibition assessment task; SOPT, self-ordered pointing task; SSRT, stop-signal reaction time.",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "RANGE, range inhibition assessment task; SOPT, self-ordered pointing task; SSRT, stop-signal reaction time."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Stop-signal reaction time distribution. Center lines show medians; box limits indicate the 25th and 75th percentiles as determined by R software; whiskers extend 1.5 times the IQR from the 25th and 75th percentiles, outliers are represented by dots; width of the boxes is proportional to the square root of the sample size. The notch in the box indicates the 95% confidence interval for the median (using median -1.58 \u2022 IQR/On). 32 IQR, interquartile range.",
+        "section": "FIG. 3.",
+        "section_number": 17,
+        "sentences": [
+            "Stop-signal reaction time distribution.",
+            "Center lines show medians; box limits indicate the 25th and 75th percentiles as determined by R software; whiskers extend 1.5 times the IQR from the 25th and 75th percentiles, outliers are represented by dots; width of the boxes is proportional to the square root of the sample size.",
+            "The notch in the box indicates the 95% confidence interval for the median (using median -1.58 \u2022 IQR/On).",
+            "32 IQR, interquartile range."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The total number of unique pictures selected on the SOPT, as a measure of WMC, increased significantly over time, F(1,165) = 9.060, P = 0.003, g p 2 = 0.052. Although the effect of condition did not reach significance, F(2,165) = 0.233, P = 0.793, the interaction term was significant, F(2,165) = 4.672, P = 0.011, g p 2 = 0.054. As the distribution of the SOPT data significantly deviated from normality at both time points, we also analyzed the change scores over time using a regular analysis of variance (ANOVA). This analysis showed a significant difference between the conditions, F(2,160) = 4.911, P = 0.009, g p 2 = 0.058. Planned contrasts revealed that, contrary to what was expected, it were not the active training conditions (compared to the game placebo condition), t(164) = 1.166, P = 0.245, but rather the game conditions (compared to the nongame training condition), t(164) = 3.193, P = 0.002, that were going up ( Table 1) .",
+        "section": "FIG. 3.",
+        "section_number": 18,
+        "sentences": [
+            "The total number of unique pictures selected on the SOPT, as a measure of WMC, increased significantly over time, F(1,165) = 9.060, P = 0.003, g p 2 = 0.052.",
+            "Although the effect of condition did not reach significance, F(2,165) = 0.233, P = 0.793, the interaction term was significant, F(2,165) = 4.672, P = 0.011, g p 2 = 0.054.",
+            "As the distribution of the SOPT data significantly deviated from normality at both time points, we also analyzed the change scores over time using a regular analysis of variance (ANOVA).",
+            "This analysis showed a significant difference between the conditions, F(2,160) = 4.911, P = 0.009, g p 2 = 0.058.",
+            "Planned contrasts revealed that, contrary to what was expected, it were not the active training conditions (compared to the game placebo condition), t(164) = 1.166, P = 0.245, but rather the game conditions (compared to the nongame training condition), t(164) = 3.193, P = 0.002, that were going up ( Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "To ascertain the effects of the training on drinking behavior, we compared the levels of drinking during the 4week periods before and after the training (Table 1 ). There we no effects on drinking behavior over time, F(1,157) = 1.524, P = 0.219, but there was a significant difference between the conditions, F(2,157) = 5.663, P = 0.004, with the game placebo condition scoring higher at baseline. The interaction term also did not reach significance, F(2,157) = 0.658, P = 0.519 (Table 1 ). As these data were non-normally distributed, we also used a nonparametric Kruskal-Wallis ANOVA on the change scores over time, which also revealed no significant effects, H(2) = 1.029, P = 0.598.",
+        "section": "FIG. 3.",
+        "section_number": 19,
+        "sentences": [
+            "To ascertain the effects of the training on drinking behavior, we compared the levels of drinking during the 4week periods before and after the training (Table 1 ).",
+            "There we no effects on drinking behavior over time, F(1,157) = 1.524, P = 0.219, but there was a significant difference between the conditions, F(2,157) = 5.663, P = 0.004, with the game placebo condition scoring higher at baseline.",
+            "The interaction term also did not reach significance, F(2,157) = 0.658, P = 0.519 (Table 1 ).",
+            "As these data were non-normally distributed, we also used a nonparametric Kruskal-Wallis ANOVA on the change scores over time, which also revealed no significant effects, H(2) = 1.029, P = 0.598."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "In this study we evaluated a new cognitive training game called ''The Fling.'' ''The Fling'' aims to train adolescents in a playful and motivating environment and increase their levels of behavioral control. As expected, the game was awarded a significantly higher grade than its nongame counterpart, indicating that the motivational game elements included in ''The Fling'' had their desired effect. Behavioral control increased significantly between pre-and posttest, in all three conditions, including the placebo training. The interpretation of this effect could be that the changes are due to a placebo effect affecting all conditions, but we believe that it is more likely that the game placebo condition was still effective at influencing participants' inhibitory capacity: apparently, rhythmically responding to sequences of go-cues within a motivating game environment was already sufficient to affect the SSRT, as measured with the Range task.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "In this study we evaluated a new cognitive training game called ''The Fling.'' ''",
+            "The Fling'' aims to train adolescents in a playful and motivating environment and increase their levels of behavioral control.",
+            "As expected, the game was awarded a significantly higher grade than its nongame counterpart, indicating that the motivational game elements included in ''The Fling'' had their desired effect.",
+            "Behavioral control increased significantly between pre-and posttest, in all three conditions, including the placebo training.",
+            "The interpretation of this effect could be that the changes are due to a placebo effect affecting all conditions, but we believe that it is more likely that the game placebo condition was still effective at influencing participants' inhibitory capacity: apparently, rhythmically responding to sequences of go-cues within a motivating game environment was already sufficient to affect the SSRT, as measured with the Range task."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "As the Range task is also quite sensitive to improved timing accuracy, 27 this could explain why we found an improvement in the game placebo condition. However, this remains speculative, so further examination of the effect of the game placebo condition on cognitive functioning will be necessary. Alternatively, future research could opt for an additional waiting list control condition, or adapt the current placebo configuration further to prevent inadvertent training effects, for example, by disengaging the musical rhythm from the go-cue presentation pattern.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "As the Range task is also quite sensitive to improved timing accuracy, 27 this could explain why we found an improvement in the game placebo condition.",
+            "However, this remains speculative, so further examination of the effect of the game placebo condition on cognitive functioning will be necessary.",
+            "Alternatively, future research could opt for an additional waiting list control condition, or adapt the current placebo configuration further to prevent inadvertent training effects, for example, by disengaging the musical rhythm from the go-cue presentation pattern."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Furthermore, we looked at WMC as an additional measure of cognitive control. WMC increased after the training, but it were the game conditions that improved compared to the nongame training condition, rather than the active training conditions, compared to the game placebo condition, as was expected. Our interpretation of this effect is that the motivating game environment may have been stimulating enough on its own to increase WMC, whereas the relatively unengaging nongame training did not. This could be due to the complexity of the game, where participants had to retain several different rules of the game in their mind while performing certain actions. The fact that we did not find this effect in the nongame training, as we expected, might thus indicate that the game aspects impacted WMC more than the training.",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "Furthermore, we looked at WMC as an additional measure of cognitive control.",
+            "WMC increased after the training, but it were the game conditions that improved compared to the nongame training condition, rather than the active training conditions, compared to the game placebo condition, as was expected.",
+            "Our interpretation of this effect is that the motivating game environment may have been stimulating enough on its own to increase WMC, whereas the relatively unengaging nongame training did not.",
+            "This could be due to the complexity of the game, where participants had to retain several different rules of the game in their mind while performing certain actions.",
+            "The fact that we did not find this effect in the nongame training, as we expected, might thus indicate that the game aspects impacted WMC more than the training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Finally, no significant effects of the training were found on the adolescents' drinking frequency. Despite the fact that the majority of our sample indicated having drunk alcohol before, roughly half indicated not to have done so during the 4 weeks before the training, which was the basis of our measure of change. To tackle this problem, follow-up research could be set up using a group of adolescents preselected for light to heavy alcohol use.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Finally, no significant effects of the training were found on the adolescents' drinking frequency.",
+            "Despite the fact that the majority of our sample indicated having drunk alcohol before, roughly half indicated not to have done so during the 4 weeks before the training, which was the basis of our measure of change.",
+            "To tackle this problem, follow-up research could be set up using a group of adolescents preselected for light to heavy alcohol use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "First, although our training consisted of over 2000 trials, the total training duration (1 month) and intensity (four sessions) may not have been sufficient to yield significant cognitive and behavioral effects. However, a recent metaanalysis 34 concluded that there was no direct evidence available that longer inhibition training sessions are more beneficial. Moreover, longer training times may also negatively affect participants' motivation, despite the use of game elements. 12 A more direct comparison between different levels of training intensity is needed to find the optimal training conditions. Second, the observed training effects could be due to a familiarization with the game rules, rather than to an improvement in the cognitive functions. However, the training effects were observed on two other cognitive measures (i.e., the Range task and SOPT), which use different sets of rules than the game and nongame training versions. Also, familiarity with the training rules would not explain the difference between the conditions found on the SOPT.",
+        "section": "Limitations",
+        "section_number": 24,
+        "sentences": [
+            "First, although our training consisted of over 2000 trials, the total training duration (1 month) and intensity (four sessions) may not have been sufficient to yield significant cognitive and behavioral effects.",
+            "However, a recent metaanalysis 34 concluded that there was no direct evidence available that longer inhibition training sessions are more beneficial.",
+            "Moreover, longer training times may also negatively affect participants' motivation, despite the use of game elements.",
+            "12 A more direct comparison between different levels of training intensity is needed to find the optimal training conditions.",
+            "Second, the observed training effects could be due to a familiarization with the game rules, rather than to an improvement in the cognitive functions.",
+            "However, the training effects were observed on two other cognitive measures (i.e., the Range task and SOPT), which use different sets of rules than the game and nongame training versions.",
+            "Also, familiarity with the training rules would not explain the difference between the conditions found on the SOPT."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Third, we observed that several participants did not seem to fully understand the written and verbal instructions, despite our best efforts to keep them simple. Also, some of the game elements did not seem as effective as we had expected. For example, the story line did not seem to draw much attention (many participants skipped the cut-scenes), and the training appeared to be harder than we had imagined as well: during playtesting, some of the players who had played games such as ''Guitar Hero'' before found the game too easy. For this reason we opted to build in levels with multiple response buttons, among other features. 14 However, during the experiment, almost no perfect level scores were obtained and the bonus cues appeared rather confusing to some participants. It would therefore be advisable to any serious game development project to conduct rigorous playtesting among a broad group of potential participants. Nevertheless, it may remain a challenge to design a serious game that is both easy and accessible enough for nongamers as well as challenging enough for experienced gamers.",
+        "section": "Limitations",
+        "section_number": 25,
+        "sentences": [
+            "Third, we observed that several participants did not seem to fully understand the written and verbal instructions, despite our best efforts to keep them simple.",
+            "Also, some of the game elements did not seem as effective as we had expected.",
+            "For example, the story line did not seem to draw much attention (many participants skipped the cut-scenes), and the training appeared to be harder than we had imagined as well: during playtesting, some of the players who had played games such as ''Guitar Hero'' before found the game too easy.",
+            "For this reason we opted to build in levels with multiple response buttons, among other features.",
+            "14 However, during the experiment, almost no perfect level scores were obtained and the bonus cues appeared rather confusing to some participants.",
+            "It would therefore be advisable to any serious game development project to conduct rigorous playtesting among a broad group of potential participants.",
+            "Nevertheless, it may remain a challenge to design a serious game that is both easy and accessible enough for nongamers as well as challenging enough for experienced gamers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "The current study emphasizes the importance of presenting interventions in a form that adolescents can relate to, without losing scientific integrity. 12 The current results",
+        "section": "Conclusions",
+        "section_number": 26,
+        "sentences": [
+            "The current study emphasizes the importance of presenting interventions in a form that adolescents can relate to, without losing scientific integrity.",
+            "12 The current results"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "show that a game such as ''The Fling'' works as a motivational tool while increasing behavioral control skills. Considering some limitations in the game design and differentiating between the conditions, one should be careful to relate strong conclusions to these outcomes; however, they provide a first step for the development of effective serious games that bridge the gap between an evidencebased training paradigm and an attractive, motivating training environment.",
+        "section": "TRAINING BEHAVIORAL CONTROL USING A SERIOUS GAME",
+        "section_number": 27,
+        "sentences": [
+            "show that a game such as ''The Fling'' works as a motivational tool while increasing behavioral control skills.",
+            "Considering some limitations in the game design and differentiating between the conditions, one should be careful to relate strong conclusions to these outcomes; however, they provide a first step for the development of effective serious games that bridge the gap between an evidencebased training paradigm and an attractive, motivating training environment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44099",
+        "text": "Downloaded by Univ.alberta Lib/ T2047230 from www.liebertpub.com at 03/02/20. For personal use only.",
+        "section": "",
+        "section_number": 28,
+        "sentences": [
+            "Downloaded by Univ.alberta Lib/ T2047230 from www.liebertpub.com at 03/02/20.",
+            "For personal use only."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

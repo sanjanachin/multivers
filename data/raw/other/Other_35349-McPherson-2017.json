@@ -1,0 +1,597 @@
+[
+    {
+        "doc_id": "35349",
+        "text": "Background Adolescents with intellectual disability have high levels of unrecognized disease and inadequate health screening/promotion which might be addressed by improving health advocacy skills. Methods A parallel-group cluster randomized controlled trial was conducted to investigate whether a health intervention package, consisting of classroom-based health education, a hand-held health record and a health check, increased carer-reported health advocacy in adolescents with intellectual disabilities. Results Carers of 388 adolescents responded. Adolescents allocated to receive the health intervention package were significantly more likely to go to the doctor on their own, ask questions and explain their health problems to the doctor without help. Carers reported their adolescent had benefited, gaining increased knowledge and responsibility for their own health. They themselves reported an increase in knowledge and better ability to support the young person. Conclusions An educational initiative based on the Ask Health Diary led to improved healthcare autonomy for adolescents with intellectual disabilities.",
+        "section": "Abstract",
+        "sentences": [
+            "Background Adolescents with intellectual disability have high levels of unrecognized disease and inadequate health screening/promotion which might be addressed by improving health advocacy skills.",
+            "Methods A parallel-group cluster randomized controlled trial was conducted to investigate whether a health intervention package, consisting of classroom-based health education, a hand-held health record and a health check, increased carer-reported health advocacy in adolescents with intellectual disabilities.",
+            "Results Carers of 388 adolescents responded.",
+            "Adolescents allocated to receive the health intervention package were significantly more likely to go to the doctor on their own, ask questions and explain their health problems to the doctor without help.",
+            "Carers reported their adolescent had benefited, gaining increased knowledge and responsibility for their own health.",
+            "They themselves reported an increase in knowledge and better ability to support the young person.",
+            "Conclusions An educational initiative based on the Ask Health Diary led to improved healthcare autonomy for adolescents with intellectual disabilities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "People with an intellectual disability have poorer health than their non-disabled peers (Ouellette-Kuntz 2005; Krahn et al. 2006; Emerson et al. 2012; Morin et al. 2012) . In particular, they have been found to experience lower levels of health screening than others in the community (Lennox et al. 2000; McConkey et al. 2002; Sullivan et al. 2003; Verger et al. 2005; Reynolds et al. 2008) . Studies on barriers to health care by researchers in this field have provided evidence that the communication difficulties experienced by this group make medical assessment and management problematic (Lennox et al. 1997; Ziviani et al. 2004; Wullink et al. 2009a; Ali et al. 2013; Mastebroek et al. 2014; Perry et al. 2014) . Improved health advocacy may be one way to diminish this barrier and ultimately improve the health of people with an intellectual disability. The central tenet of advocacy in health care is that service users should be enabled to speak up on their own behalf and empowered to take a lead in the decision-making process (Harrison & Davis 2009) . However, a review on autonomy in relation to health among people with intellectual disability found, in spite of decades of promoting inclusion, self-determination and independence, autonomy in relation to health care has rarely been investigated in the literature (Wullink et al. 2009b) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "People with an intellectual disability have poorer health than their non-disabled peers (Ouellette-Kuntz 2005; Krahn et al. 2006; Emerson et al. 2012; Morin et al. 2012) .",
+            "In particular, they have been found to experience lower levels of health screening than others in the community (Lennox et al. 2000; McConkey et al. 2002; Sullivan et al. 2003; Verger et al. 2005; Reynolds et al. 2008) .",
+            "Studies on barriers to health care by researchers in this field have provided evidence that the communication difficulties experienced by this group make medical assessment and management problematic (Lennox et al. 1997; Ziviani et al. 2004; Wullink et al. 2009a; Ali et al. 2013; Mastebroek et al. 2014; Perry et al. 2014) .",
+            "Improved health advocacy may be one way to diminish this barrier and ultimately improve the health of people with an intellectual disability.",
+            "The central tenet of advocacy in health care is that service users should be enabled to speak up on their own behalf and empowered to take a lead in the decision-making process (Harrison & Davis 2009) .",
+            "However, a review on autonomy in relation to health among people with intellectual disability found, in spite of decades of promoting inclusion, self-determination and independence, autonomy in relation to health care has rarely been investigated in the literature (Wullink et al. 2009b) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Students with disabilities can acquire and apply selfdetermination skills (Malian & Nevin 2002) . Since the US Office of Special Education Programs first funded a series of model-demonstration projects (Ward & Kohler 1996) , promoting self-determination has become an important outcome in special education. A metaanalysis of 51 studies to identify the effectiveness of self-determination interventions for young people with disabilities found only one that concerned health-related matters (Algozzine et al. 2001) . A more recent metasynthesis of the Algozzine review and six other narrative and systematic reviews on self-determination for students with disabilities published since 2000 suggested the emphasis has been on teaching global determination and academic achievement (Cobb et al. 2009) . There has been no mention of improving autonomy in relation to health.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Students with disabilities can acquire and apply selfdetermination skills (Malian & Nevin 2002) .",
+            "Since the US Office of Special Education Programs first funded a series of model-demonstration projects (Ward & Kohler 1996) , promoting self-determination has become an important outcome in special education.",
+            "A metaanalysis of 51 studies to identify the effectiveness of self-determination interventions for young people with disabilities found only one that concerned health-related matters (Algozzine et al. 2001) .",
+            "A more recent metasynthesis of the Algozzine review and six other narrative and systematic reviews on self-determination for students with disabilities published since 2000 suggested the emphasis has been on teaching global determination and academic achievement (Cobb et al. 2009) .",
+            "There has been no mention of improving autonomy in relation to health."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "The proactive use of annual health checks to develop and implement health action plans for the future and adapting care as needs change is seen to be a low-cost measure to address the issue of access to healthcare services for people with an intellectual disability (Gordon et al. 2012; Heslop et al. 2013) . The Comprehensive Health Assessment Program (CHAP) (Lennox et al. 2007) seeks to improve communication through the systematic recording of a health history prior to the health check consultation and a subsequent agreed health action plan. Hand-held health records have also been shown to lead to more discussion about health problems, increased health knowledge and awareness of personal health issues, although they have not been shown to lead to any improved short-term healthcare activity (Nguyen et al. 2014) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The proactive use of annual health checks to develop and implement health action plans for the future and adapting care as needs change is seen to be a low-cost measure to address the issue of access to healthcare services for people with an intellectual disability (Gordon et al. 2012; Heslop et al. 2013) .",
+            "The Comprehensive Health Assessment Program (CHAP) (Lennox et al. 2007) seeks to improve communication through the systematic recording of a health history prior to the health check consultation and a subsequent agreed health action plan.",
+            "Hand-held health records have also been shown to lead to more discussion about health problems, increased health knowledge and awareness of personal health issues, although they have not been shown to lead to any improved short-term healthcare activity (Nguyen et al. 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "In a pilot study, a hand-held health record, the Ask Health Diary, adapted from the adult version (Lennox et al. 2004) was used to introduce students to the concept of self-advocacy in relation to their health needs. This research suggested that there is merit in including the diary in a health-based school curriculum for adolescents who have an intellectual disability (Carrington & Lennox 2008) . Students and teachers reported that the Ask Health Diary was relevant and practical to assist in promoting healthy and independent living for adolescents with intellectual disability.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "In a pilot study, a hand-held health record, the Ask Health Diary, adapted from the adult version (Lennox et al. 2004) was used to introduce students to the concept of self-advocacy in relation to their health needs.",
+            "This research suggested that there is merit in including the diary in a health-based school curriculum for adolescents who have an intellectual disability (Carrington & Lennox 2008) .",
+            "Students and teachers reported that the Ask Health Diary was relevant and practical to assist in promoting healthy and independent living for adolescents with intellectual disability."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Subsequently, a large randomized controlled trial (RCT) was conducted to determine whether a schoolbased intervention using the Ask Health Diary and the CHAP, compared with usual care, led to an increased number of health-promotion and disease-prevention activities (Lennox et al. 2012) . The aim of this study was to determine whether the school-based education/health intervention package, compared with usual care, increased the self-advocacy of adolescents with intellectual disability with regard to their health. Secondarily, we investigated whether any benefits of the intervention differ by level of disability, and parents/ carers perceptions of what the adolescent had gained from the intervention.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Subsequently, a large randomized controlled trial (RCT) was conducted to determine whether a schoolbased intervention using the Ask Health Diary and the CHAP, compared with usual care, led to an increased number of health-promotion and disease-prevention activities (Lennox et al. 2012) .",
+            "The aim of this study was to determine whether the school-based education/health intervention package, compared with usual care, increased the self-advocacy of adolescents with intellectual disability with regard to their health.",
+            "Secondarily, we investigated whether any benefits of the intervention differ by level of disability, and parents/ carers perceptions of what the adolescent had gained from the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "The study is a parallel-group cluster randomized controlled trial testing the perceived gains and effect on health advocacy of a health intervention package, consisting of an educational programme based on the Ask Health Diary and a CHAP health check. The study was conducted among adolescents with intellectual disability in Queensland, Australia, between February 2007 and June 2010. Ethics approval was granted by both the University of Queensland Behavioural and Social Sciences Ethical Review Committee (Clearance No: 2004000081) and the Queensland Government Department of Education and the Arts (File No: 550/ 27/424). Full methodological details of the Ask Study have been described previously (Lennox et al. 2012) . Although most adolescents were in the care of at least one parent, this was not always the case, so the term 'carer' will be used throughout the remainder of this article.",
+        "section": "Methods",
+        "section_number": 6,
+        "sentences": [
+            "The study is a parallel-group cluster randomized controlled trial testing the perceived gains and effect on health advocacy of a health intervention package, consisting of an educational programme based on the Ask Health Diary and a CHAP health check.",
+            "The study was conducted among adolescents with intellectual disability in Queensland, Australia, between February 2007 and June 2010.",
+            "Ethics approval was granted by both the University of Queensland Behavioural and Social Sciences Ethical Review Committee (Clearance No: 2004000081) and the Queensland Government Department of Education and the Arts (File No: 550/ 27/424).",
+            "Full methodological details of the Ask Study have been described previously (Lennox et al. 2012) .",
+            "Although most adolescents were in the care of at least one parent, this was not always the case, so the term 'carer' will be used throughout the remainder of this article."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Adolescents were eligible to participate in the study if they had been assessed by Education Queensland to have an intellectual disability, were aged 10-18 years as at 1 January 2006 and were registered at a Special Education School (SES) or a Special Education Unit (SEU) located in South East Queensland. In Queensland, children who have an intellectual disability may receive their education in a segregated special school for children who have a disability (SES) or in a special education unit or class that is on the campus of a mainstream primary or secondary school (SEU). Students who attend a SES have significant intellectual disabilities and/or multiple disabilities and usually require specialist teaching and therapy services that support an individualized education programme. Students who attend a SEU in a primary or secondary school may have a range of disabilities and usually access the mainstream curriculum and receive specialist teaching and therapy services within the unit. curriculum throughout the first two terms of the year in the intervention group schools. Teachers who consented to participate in the project and were allocated to the intervention group were provided with the Ask Project Curriculum Strategy Booklet which included teaching ideas, strategies and resources to assist teachers in their planning. The Ask Health Diary consisted of four major sections (i) All About Me in which personal details could be entered (ii) Health Advocacy Tips which also contained diary pages for tracking of potentially problematic areas such as menstruation, bowel, bladder and other relevant issues. (iii) For the Doctor which provided information about often unrecognized conditions and other practical tips for doctors and clinic staff. (iv) Medical Records which allowed for the recording of diagnoses, operations, medications, medical consultations, etc. At the end of Term 2, the diaries were to be sent home and teachers were asked to recommend to carers that the Ask Health Diary be used for subsequent ongoing contact with their general practitioner (GP) and other health service providers. When schools advised research staff that they had completed the educational component, CHAP booklets were sent to the carers, who were to asked to complete the history gathering section of the CHAP and make an appointment to see the GP during Term 3. Participants were followed up to ensure they had received their CHAP booklets and diaries.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "Adolescents were eligible to participate in the study if they had been assessed by Education Queensland to have an intellectual disability, were aged 10-18 years as at 1 January 2006 and were registered at a Special Education School (SES) or a Special Education Unit (SEU) located in South East Queensland.",
+            "In Queensland, children who have an intellectual disability may receive their education in a segregated special school for children who have a disability (SES) or in a special education unit or class that is on the campus of a mainstream primary or secondary school (SEU).",
+            "Students who attend a SES have significant intellectual disabilities and/or multiple disabilities and usually require specialist teaching and therapy services that support an individualized education programme.",
+            "Students who attend a SEU in a primary or secondary school may have a range of disabilities and usually access the mainstream curriculum and receive specialist teaching and therapy services within the unit.",
+            "curriculum throughout the first two terms of the year in the intervention group schools.",
+            "Teachers who consented to participate in the project and were allocated to the intervention group were provided with the Ask Project Curriculum Strategy Booklet which included teaching ideas, strategies and resources to assist teachers in their planning.",
+            "The Ask Health Diary consisted of four major sections (i) All About Me in which personal details could be entered (ii) Health Advocacy Tips which also contained diary pages for tracking of potentially problematic areas such as menstruation, bowel, bladder and other relevant issues. (",
+            "iii) For the Doctor which provided information about often unrecognized conditions and other practical tips for doctors and clinic staff. (",
+            "iv) Medical Records which allowed for the recording of diagnoses, operations, medications, medical consultations, etc.",
+            "At the end of Term 2, the diaries were to be sent home and teachers were asked to recommend to carers that the Ask Health Diary be used for subsequent ongoing contact with their general practitioner (GP) and other health service providers.",
+            "When schools advised research staff that they had completed the educational component, CHAP booklets were sent to the carers, who were to asked to complete the history gathering section of the CHAP and make an appointment to see the GP during Term 3.",
+            "Participants were followed up to ensure they had received their CHAP booklets and diaries."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Health advocacy skills were measured by questionnaire survey prior to commencement of the intervention and at least 12 months after intervention. Carers were required to respond on a four-point scale (strongly disagree, disagree, agree, strongly agree) to statements regarding both their and their adolescent's behaviour around going to visit the doctor, for example 'Before a doctor's visit, the young person thinks about why they are going to the doctor'. A 'Don't know' option was also provided. Questionnaires also asked about household demographic and social characteristics and for specific information on the adolescent, including the aetiology of their intellectual disability, their abilities and an assessment of their health. For the follow-up survey, carers of intervention group participants were asked about their, and their adolescent's, use of the diary and the CHAP. To determine perceived gains from the project, carers were presented with a number of options (including an 'other (please specify)' category) and asked to tick all applicable.",
+        "section": "Outcomes",
+        "section_number": 8,
+        "sentences": [
+            "Health advocacy skills were measured by questionnaire survey prior to commencement of the intervention and at least 12 months after intervention.",
+            "Carers were required to respond on a four-point scale (strongly disagree, disagree, agree, strongly agree) to statements regarding both their and their adolescent's behaviour around going to visit the doctor, for example 'Before a doctor's visit, the young person thinks about why they are going to the doctor'.",
+            "A 'Don't know' option was also provided.",
+            "Questionnaires also asked about household demographic and social characteristics and for specific information on the adolescent, including the aetiology of their intellectual disability, their abilities and an assessment of their health.",
+            "For the follow-up survey, carers of intervention group participants were asked about their, and their adolescent's, use of the diary and the CHAP.",
+            "To determine perceived gains from the project, carers were presented with a number of options (including an 'other (please specify)' category) and asked to tick all applicable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Demographic, social and clinical characteristics of participants at baseline were extracted from the carercompleted baseline questionnaire. Socio-economic status was measured at the postcode level using the Australian Bureau of Statistics Socio-Economic Index for Areas, a Measure of Relative Disadvantage (2008).",
+        "section": "Outcomes",
+        "section_number": 9,
+        "sentences": [
+            "Demographic, social and clinical characteristics of participants at baseline were extracted from the carercompleted baseline questionnaire.",
+            "Socio-economic status was measured at the postcode level using the Australian Bureau of Statistics Socio-Economic Index for Areas, a Measure of Relative Disadvantage (2008)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Schools were stratified by type (SES/SEU) and location (metropolitan/regional), then ranked within strata according to the expected number of participating adolescents and formed into pairs. A list of computergenerated random numbers was used by an independent statistician to allocate members of each pair to either intervention or usual care. After allocation, schools were contacted by the study coordinator who notified schools that were to teach the programme and sent our sufficient Ask Health Diaries and accompanying curriculum guides for the students and the teachers involved. Due to the nature of the intervention teachers, adolescents and their carers could not be masked to the teaching received. When data were extracted from questionnaires at study completion, data extractors were masked to whether or not the adolescent had received the health intervention package.",
+        "section": "Randomization and masking",
+        "section_number": 10,
+        "sentences": [
+            "Schools were stratified by type (SES/SEU) and location (metropolitan/regional), then ranked within strata according to the expected number of participating adolescents and formed into pairs.",
+            "A list of computergenerated random numbers was used by an independent statistician to allocate members of each pair to either intervention or usual care.",
+            "After allocation, schools were contacted by the study coordinator who notified schools that were to teach the programme and sent our sufficient Ask Health Diaries and accompanying curriculum guides for the students and the teachers involved.",
+            "Due to the nature of the intervention teachers, adolescents and their carers could not be masked to the teaching received.",
+            "When data were extracted from questionnaires at study completion, data extractors were masked to whether or not the adolescent had received the health intervention package."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Summary statistics are presented as either mean (standard deviation) or median (interquartile range) for continuous variables and as frequency (percentage) for categorical variables. The association between treatment group and outcome was investigated using ordinal logistic regression, with results presented as proportional odds ratios (POR) and 95% confidence intervals (CI). All analyses were conducted on an intention-to-treat basis, with participants analysed in the groups they were allocated to, regardless of the level of education/health intervention they actually received. Analyses were conducted on the complete sample, then after stratification by school (SES/SEU). Analyses were conducted with Stata software v12.0 (StataCorp, College Station, TX, USA).",
+        "section": "Analysis",
+        "section_number": 11,
+        "sentences": [
+            "Summary statistics are presented as either mean (standard deviation) or median (interquartile range) for continuous variables and as frequency (percentage) for categorical variables.",
+            "The association between treatment group and outcome was investigated using ordinal logistic regression, with results presented as proportional odds ratios (POR) and 95% confidence intervals (CI).",
+            "All analyses were conducted on an intention-to-treat basis, with participants analysed in the groups they were allocated to, regardless of the level of education/health intervention they actually received.",
+            "Analyses were conducted on the complete sample, then after stratification by school (SES/SEU).",
+            "Analyses were conducted with Stata software v12.0 (StataCorp, College Station, TX, USA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Of the 727 participants who consented to the study, the carers of 247 control participants and 345 intervention participants completed the baseline survey. During the intervention, before the mailing of the carer exit survey, 83 intervention and 23 control participants had been lost from the study (Figure 1 ). As a consequence, the followup rate for the intervention group was 60.0% compared with 72.9% for the control group. The difference in withdrawal rate between the two groups is likely to be due to intervention participants being contacted with regard to taking their adolescent for a health check, while there was little or no contact with the usual care group. Many participants indicated reluctance to take their child for the health check, but some were still happy to complete the exit survey.",
+        "section": "Results",
+        "section_number": 12,
+        "sentences": [
+            "Of the 727 participants who consented to the study, the carers of 247 control participants and 345 intervention participants completed the baseline survey.",
+            "During the intervention, before the mailing of the carer exit survey, 83 intervention and 23 control participants had been lost from the study (Figure 1 ).",
+            "As a consequence, the followup rate for the intervention group was 60.0% compared with 72.9% for the control group.",
+            "The difference in withdrawal rate between the two groups is likely to be due to intervention participants being contacted with regard to taking their adolescent for a health check, while there was little or no contact with the usual care group.",
+            "Many participants indicated reluctance to take their child for the health check, but some were still happy to complete the exit survey."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Demographic, social and clinical characteristics of the survey respondents and the adolescents they were caring for are summarized in Table 1 . The age of carers was similar between the usual care and intervention groups (mean (SD) = 44.8 (7.0) versus 44.7 (7.0) years), as were the proportion of female carers (86.1 versus 85.5%). The adolescents in both groups had predominantly mild-tomoderate levels of disability with 85.8% of the intervention group and 87.0% of the usual care group reported by their carers to be completely independent and 76.4 and 76.7%, respectively, were said to be mainly/entirely verbal communicators.",
+        "section": "Results",
+        "section_number": 13,
+        "sentences": [
+            "Demographic, social and clinical characteristics of the survey respondents and the adolescents they were caring for are summarized in Table 1 .",
+            "The age of carers was similar between the usual care and intervention groups (mean (SD) = 44.8 (7.0) versus 44.7 (7.0) years), as were the proportion of female carers (86.1 versus 85.5%).",
+            "The adolescents in both groups had predominantly mild-tomoderate levels of disability with 85.8% of the intervention group and 87.0% of the usual care group reported by their carers to be completely independent and 76.4 and 76.7%, respectively, were said to be mainly/entirely verbal communicators."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Larger increases in health advocacy were observed in adolescents allocated to receive the health intervention package instead of usual care (Table 2) . After adjusting for baseline questionnaire responses, carers of group participants who participated in the combined intervention reported that the young person was significantly more likely to go into the doctor without them (POR: 1.5; 95% CI 1.0-2.3, P = 0.04), to explain their health problems to the doctor without their help (1.4; 1.0-2.2, 0.07) and to ask questions of the doctor (1.5; 1.0-2.2, 0.05). They were no more likely to think about why they were going to the doctor or write anything down before going to the doctor than they had been prior to the intervention.",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "Larger increases in health advocacy were observed in adolescents allocated to receive the health intervention package instead of usual care (Table 2) .",
+            "After adjusting for baseline questionnaire responses, carers of group participants who participated in the combined intervention reported that the young person was significantly more likely to go into the doctor without them (POR: 1.5; 95% CI 1.0-2.3, P = 0.04), to explain their health problems to the doctor without their help (1.4; 1.0-2.2, 0.07) and to ask questions of the doctor (1.5; 1.0-2.2, 0.05).",
+            "They were no more likely to think about why they were going to the doctor or write anything down before going to the doctor than they had been prior to the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "The carers in the intervention group were more likely to keep a record of the young person's health problems to take to the doctor (1.5; 1.0-2.2, 0.04) and significantly less likely to have to explain the young person's health problems at the doctor (0.6; 0.4-0.9, 0.02), assist the young person to speak to the doctor (0.7; 0.4-1.0, 0.05) or think about why the young person is going to the doctor (0.6; 0.4-1.0, 0.04) (Table 3) .",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "The carers in the intervention group were more likely to keep a record of the young person's health problems to take to the doctor (1.5; 1.0-2.2, 0.04) and significantly less likely to have to explain the young person's health problems at the doctor (0.6; 0.4-0.9, 0.02), assist the young person to speak to the doctor (0.7; 0.4-1.0, 0.05) or think about why the young person is going to the doctor (0.6; 0.4-1.0, 0.04) (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "When asked whether the doctor speaks directly to the young person or whether the doctor takes time to listen, there was no significant difference between the groups at follow-up.",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "When asked whether the doctor speaks directly to the young person or whether the doctor takes time to listen, there was no significant difference between the groups at follow-up."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "When data were analysed by school type, adolescents from SESs were more likely to go into a doctor's office without their carer (2.7; 1.5-5.1, 0.002) and ask questions if they did not understand the doctor (1.7; 1.0-3.1, 0.0.5) (Table S1) , where as carers of SEU students reported no significant changes in the behaviour of their adolescents (Table S2 ). Carers of SES students reported they were less likely to explain the young person's health problems to the doctor (0.6; 0.3-1.0, 0.04) and less likely to assist the young person in speaking to the doctor (0.6; 0.4-1.0, 0.07) ( Table S3 ). The carers of adolescents from SEUs reported they were more likely to keep a record of the young person's problems to take to the doctor (1.9; 1.1-3.5, 0.03) (Table S4) .",
+        "section": "Results",
+        "section_number": 17,
+        "sentences": [
+            "When data were analysed by school type, adolescents from SESs were more likely to go into a doctor's office without their carer (2.7; 1.5-5.1, 0.002) and ask questions if they did not understand the doctor (1.7; 1.0-3.1, 0.0.5) (Table S1) , where as carers of SEU students reported no significant changes in the behaviour of their adolescents (Table S2 ).",
+            "Carers of SES students reported they were less likely to explain the young person's health problems to the doctor (0.6; 0.3-1.0, 0.04) and less likely to assist the young person in speaking to the doctor (0.6; 0.4-1.0, 0.07) ( Table S3 ).",
+            "The carers of adolescents from SEUs reported they were more likely to keep a record of the young person's problems to take to the doctor (1.9; 1.1-3.5, 0.03) (Table S4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "When the 207 carers who returned the follow-up survey had been questioned regarding use of the diary, 124 (63.9%) of carers responding to this question reported that they had used the diary and 66 (55%) of those said they had taken it to the doctor. A total of 167 (86.5%) said that they still had the diary, whether they had used it or not, with 118 (73.8%) of those reporting they may use it in the future: 100 (84.7%) for keeping medical records and 70 (59.3%) for taking to the doctor. Of those who had used the diary, the number who still had it increased to 119 (96.0%) with 96 (83.5%) expecting to use it in the future: 82 (85.4%) using it to keep medical records and 60 (62.5%) for taking to the doctor. The main gain reported by carers as a result of having used the Diary was an improved method of keeping medical records (54.8%), but they also reported improved knowledge about the health of their young person (33.9%), and improved ability to support the young person (29.8%) ( Table 4 ). The carers of the students in the SESs were more likely than SEU carers to report that using the diary had improved their relationship with the young person's teacher (P = 0.01). When asked about the perceived gains for young person, they suggested ownership of the diary (32.3%) knowledge about their own health (33.1%) and more responsibility for their own health (29.8%) (Table 4 ). There were no significant differences between SESs and SEUs.",
+        "section": "Results",
+        "section_number": 18,
+        "sentences": [
+            "When the 207 carers who returned the follow-up survey had been questioned regarding use of the diary, 124 (63.9%) of carers responding to this question reported that they had used the diary and 66 (55%) of those said they had taken it to the doctor.",
+            "A total of 167 (86.5%) said that they still had the diary, whether they had used it or not, with 118 (73.8%) of those reporting they may use it in the future: 100 (84.7%) for keeping medical records and 70 (59.3%) for taking to the doctor.",
+            "Of those who had used the diary, the number who still had it increased to 119 (96.0%) with 96 (83.5%) expecting to use it in the future: 82 (85.4%) using it to keep medical records and 60 (62.5%) for taking to the doctor.",
+            "The main gain reported by carers as a result of having used the Diary was an improved method of keeping medical records (54.8%), but they also reported improved knowledge about the health of their young person (33.9%), and improved ability to support the young person (29.8%) ( Table 4 ).",
+            "The carers of the students in the SESs were more likely than SEU carers to report that using the diary had improved their relationship with the young person's teacher (P = 0.01).",
+            "When asked about the perceived gains for young person, they suggested ownership of the diary (32.3%) knowledge about their own health (33.1%) and more responsibility for their own health (29.8%) (Table 4 ).",
+            "There were no significant differences between SESs and SEUs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "At follow-up, 123 (61.5%) of carers reported that they had taken the young person for the CHAP themselves, nine (4.5%) had gone with another adult, and six (3.0%) had gone on their own. Carers who accompanied their child for the CHAP felt they and the adolescent had gained from the experience, with the carers of the SEU adolescents reporting significantly greater gains for their adolescent than the SES carers (P = 0.001). Carers of the combined SES and SEU groups felt that they themselves gained knowledge (47.2%), improved means of keeping medical records (42.3%) and ability to better support the young person (33.3%) ( Table 5 ). They thought the main gains for the young person were knowledge (35.8%) and improved ability to speak up for themselves at the doctor/doctors (30.1%) (Table 5) , with SEU carers reporting a significantly greater gain for their adolescent than SES carers in knowledge about their own health (P = 0.001), improved ability to speak up for themselves (P = 0.01) and increased confidence (P = 0.02) when going to the doctor. They also reported more frequently that the CHAP had resulted in a greater awareness of previously undiagnosed conditions than their SES counterparts (P = 0.03).",
+        "section": "Results",
+        "section_number": 19,
+        "sentences": [
+            "At follow-up, 123 (61.5%) of carers reported that they had taken the young person for the CHAP themselves, nine (4.5%) had gone with another adult, and six (3.0%) had gone on their own.",
+            "Carers who accompanied their child for the CHAP felt they and the adolescent had gained from the experience, with the carers of the SEU adolescents reporting significantly greater gains for their adolescent than the SES carers (P = 0.001).",
+            "Carers of the combined SES and SEU groups felt that they themselves gained knowledge (47.2%), improved means of keeping medical records (42.3%) and ability to better support the young person (33.3%) ( Table 5 ).",
+            "They thought the main gains for the young person were knowledge (35.8%) and improved ability to speak up for themselves at the doctor/doctors (30.1%) (Table 5) , with SEU carers reporting a significantly greater gain for their adolescent than SES carers in knowledge about their own health (P = 0.001), improved ability to speak up for themselves (P = 0.01) and increased confidence (P = 0.02) when going to the doctor.",
+            "They also reported more frequently that the CHAP had resulted in a greater awareness of previously undiagnosed conditions than their SES counterparts (P = 0.03)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "The health intervention package assessed was successful in terms of increasing adolescent confidence in going to the doctor and in speaking up for themselves at the doctor without carer assistance. Carers of adolescents with an intellectual disability reported that their young person was significantly more likely to go into the doctor without them, more likely to explain their health problems to the doctor without their help and more likely to ask questions if they did not understand the doctor after participating in this school-based intervention which involved an educational component, health diary and a health check. Carers thought their young person had benefited, as they had gained increased knowledge and responsibility for their own health, but they did not think they thought any more about why they were going to the doctor or wrote, or asked anyone else to write, anything down about how they were feeling before the appointment. They themselves reported an increase in knowledge and a better ability to support the young person. Ownership of the diary was important for the young person with the carers reporting an improved means of keeping medical records for themselves, but like the adolescents, they were no more likely to document their young person's feelings prior to going to the doctor. Carers reported these benefits when followed up more than 18 months after their young person had participated in the programme at school. Due to the fact that some teachers had not taught the programme until much later than requested and some families when contacted had not received their diaries, the actual time post-intervention varies for participants, but all families would have had the diary for at least 12 months.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "The health intervention package assessed was successful in terms of increasing adolescent confidence in going to the doctor and in speaking up for themselves at the doctor without carer assistance.",
+            "Carers of adolescents with an intellectual disability reported that their young person was significantly more likely to go into the doctor without them, more likely to explain their health problems to the doctor without their help and more likely to ask questions if they did not understand the doctor after participating in this school-based intervention which involved an educational component, health diary and a health check.",
+            "Carers thought their young person had benefited, as they had gained increased knowledge and responsibility for their own health, but they did not think they thought any more about why they were going to the doctor or wrote, or asked anyone else to write, anything down about how they were feeling before the appointment.",
+            "They themselves reported an increase in knowledge and a better ability to support the young person.",
+            "Ownership of the diary was important for the young person with the carers reporting an improved means of keeping medical records for themselves, but like the adolescents, they were no more likely to document their young person's feelings prior to going to the doctor.",
+            "Carers reported these benefits when followed up more than 18 months after their young person had participated in the programme at school.",
+            "Due to the fact that some teachers had not taught the programme until much later than requested and some families when contacted had not received their diaries, the actual time post-intervention varies for participants, but all families would have had the diary for at least 12 months."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Self-determination has been defined by Wehmeyer (2005) as 'volitional actions that enable one to act as the primary causal agent in one's life and to maintain or improve one's quality of life'. The belief that students with severe cognitive disabilities will not or cannot become self-determined was the most frequently ",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "Self-determination has been defined by Wehmeyer (2005) as 'volitional actions that enable one to act as the primary causal agent in one's life and to maintain or improve one's quality of life'.",
+            "The belief that students with severe cognitive disabilities will not or cannot become self-determined was the most frequently"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "1 (1, 2) 2 (1, 2) 2 (1, 2) 2 (1, 2) 1.3 (0.8, 1.9); 0.27",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "1 (1, 2) 2 (1, 2) 2 (1, 2) 2 (1, 2) 1.3 (0.8, 1.9); 0.27"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "Before a doctor's visit, the young person thinks about why they are going to the doctor 3 (2, 3) 3 (2, 3) 3 (2, 3) 3 (2, 3) 0.8 (0.5, 1.3); 0.37 Table 3 Questions about the adult. Summary statistics presented are median (25th, 75th percentile). Proportional odds ratios (POR) are calculated using ordered logistic regression and are adjusted for pre-intervention scores. Intention-to-treat analysis. POR < 1 indicates carers of adolescents allocated to receive usual care were more likely to agree with the statement. POR > 1 indicates carers of adolescents allocated to receive the health intervention care were more likely to agree (Wehmeyer et al. 2000) . Teachers of the Ask Program when interviewed did indicate that they thought there were limited benefits of using the Ask Health Diary to teach self-determination skills to students with more severe disabilities (Carrington et al. 2014) , but these results show an increase in self-determined behaviours for students with more severe disabilities whose carers reported were more likely to go into the doctor's office on their own and ask questions if they did not understand than the more able SEU adolescents.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "Before a doctor's visit, the young person thinks about why they are going to the doctor 3 (2, 3) 3 (2, 3) 3 (2, 3) 3 (2, 3) 0.8 (0.5, 1.3); 0.37 Table 3 Questions about the adult.",
+            "Summary statistics presented are median (25th, 75th percentile).",
+            "Proportional odds ratios (POR) are calculated using ordered logistic regression and are adjusted for pre-intervention scores.",
+            "Intention-to-treat analysis.",
+            "POR < 1 indicates carers of adolescents allocated to receive usual care were more likely to agree with the statement.",
+            "POR > 1 indicates carers of adolescents allocated to receive the health intervention care were more likely to agree (Wehmeyer et al. 2000) .",
+            "Teachers of the Ask Program when interviewed did indicate that they thought there were limited benefits of using the Ask Health Diary to teach self-determination skills to students with more severe disabilities (Carrington et al. 2014) , but these results show an increase in self-determined behaviours for students with more severe disabilities whose carers reported were more likely to go into the doctor's office on their own and ask questions if they did not understand than the more able SEU adolescents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "A strength of this study is that it is a school-based intervention that involves the carers of the adolescents. Interventions to promote health advocacy have only rarely been reported in the literature (Cobb et al. 2009; Wullink et al. 2009b) , and this study describes one that is acceptable to teachers and families (Carrington et al. 2014) . In particular, teachers who taught this programme suggested the diary provides a sound curriculum framework for teachers, adolescents and carers to work together to promote self-determination and better outcomes for young people who have an intellectual disability (Carrington et al. 2014) . A recent review on carer-led interviews showed that targeting carers can lead to healthier lifestyles in their children (Hithersay et al. 2014) . Involving carers in the process was valuable as it is little use for students to learn such competences at school if they cannot be used on a regular basis to enhance personal control in a variety of environments (Abery et al. 1995) .",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "A strength of this study is that it is a school-based intervention that involves the carers of the adolescents.",
+            "Interventions to promote health advocacy have only rarely been reported in the literature (Cobb et al. 2009; Wullink et al. 2009b) , and this study describes one that is acceptable to teachers and families (Carrington et al. 2014) .",
+            "In particular, teachers who taught this programme suggested the diary provides a sound curriculum framework for teachers, adolescents and carers to work together to promote self-determination and better outcomes for young people who have an intellectual disability (Carrington et al. 2014) .",
+            "A recent review on carer-led interviews showed that targeting carers can lead to healthier lifestyles in their children (Hithersay et al. 2014) .",
+            "Involving carers in the process was valuable as it is little use for students to learn such competences at school if they cannot be used on a regular basis to enhance personal control in a variety of environments (Abery et al. 1995) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "A limitation of this study is that it is not possible to determine which intervention component is responsible for the increase in health advocacy. Health checks have been shown to consistently lead to substantial increases in health-promotion and disease-prevention activity when compared to usual care (Lennox et al. 2011) , but the authors have found no evidence in the literature that they result in any increase in autonomy for people with intellectual disability with regard to their health. The carers in this study reported that they thought the young person who had gone with them for the CHAP gained knowledge, increased confidence, improved ability to speak up for themselves at the doctor/doctors and more responsibility for their own health. As knowledge and communication are considered to be major components of self-advocacy (Test et al. 2005) , this would indicate the health check also had a role to play. The carers of the SEU students thought that the gains for their adolescents from having the health check were significantly greater than the SES carers did for their adolescents, including a greater awareness of previously undiagnosed conditions than their SES counterparts. Because young people attending SESs are more likely to have chronic conditions that require ongoing care and are more likely to be regularly seen by medical practitioners, it may be that undiagnosed conditions are less likely. Self-determination has been shown to be a predictor of successful transition to adult life (Malian & Nevin 2002) . Adolescence is a time when many young people are losing support from paediatric services. Many young people with special healthcare needs appear to make the transition to adult care successfully, but some experience serious gaps in outcomes (Bloom et al. 2012) . Bailey et al. (2003) suggest the promotion of autonomy via a well-planned transition programme will increase the likelihood that young adults with disabilities and/or their carers will be empowered to successfully negotiate the current mainstream healthcare system and will enhance the well-being of young adults with disabilities. Heller et al. (2011) recommends that since entering adult health care requires patients to self-advocate, set health goals and make decisions about treatment, transitionage youth with disabilities should be the target of health-related interventions to promote selfdetermination.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "A limitation of this study is that it is not possible to determine which intervention component is responsible for the increase in health advocacy.",
+            "Health checks have been shown to consistently lead to substantial increases in health-promotion and disease-prevention activity when compared to usual care (Lennox et al. 2011) , but the authors have found no evidence in the literature that they result in any increase in autonomy for people with intellectual disability with regard to their health.",
+            "The carers in this study reported that they thought the young person who had gone with them for the CHAP gained knowledge, increased confidence, improved ability to speak up for themselves at the doctor/doctors and more responsibility for their own health.",
+            "As knowledge and communication are considered to be major components of self-advocacy (Test et al. 2005) , this would indicate the health check also had a role to play.",
+            "The carers of the SEU students thought that the gains for their adolescents from having the health check were significantly greater than the SES carers did for their adolescents, including a greater awareness of previously undiagnosed conditions than their SES counterparts.",
+            "Because young people attending SESs are more likely to have chronic conditions that require ongoing care and are more likely to be regularly seen by medical practitioners, it may be that undiagnosed conditions are less likely.",
+            "Self-determination has been shown to be a predictor of successful transition to adult life (Malian & Nevin 2002) .",
+            "Adolescence is a time when many young people are losing support from paediatric services.",
+            "Many young people with special healthcare needs appear to make the transition to adult care successfully, but some experience serious gaps in outcomes (Bloom et al. 2012) .",
+            "Bailey et al. (2003) suggest the promotion of autonomy via a well-planned transition programme will increase the likelihood that young adults with disabilities and/or their carers will be empowered to successfully negotiate the current mainstream healthcare system and will enhance the well-being of young adults with disabilities.",
+            "Heller et al. (2011) recommends that since entering adult health care requires patients to self-advocate, set health goals and make decisions about treatment, transitionage youth with disabilities should be the target of health-related interventions to promote selfdetermination."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "These results suggest schools with students from the whole spectrum of intellectual disabilities should be encouraged to include this programme in their curriculum. Further research is required to determine which component of the intervention is responsible for the greatest gains, the health check or the diary. It should also be investigated whether the intervention delivered in the context of an educational curriculum is more effective than whether families had been sent a diary and asked to take their child for a health check directly. Further research might show that the educational component should be tailored differently for the more and less able students to further enhance those improvements in self-advocacy that the intervention delivered.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "These results suggest schools with students from the whole spectrum of intellectual disabilities should be encouraged to include this programme in their curriculum.",
+            "Further research is required to determine which component of the intervention is responsible for the greatest gains, the health check or the diary.",
+            "It should also be investigated whether the intervention delivered in the context of an educational curriculum is more effective than whether families had been sent a diary and asked to take their child for a health check directly.",
+            "Further research might show that the educational component should be tailored differently for the more and less able students to further enhance those improvements in self-advocacy that the intervention delivered."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "\u00a9 2016 JohnWiley & Sons Ltd, 30,[360][361][362][363][364][365][366][367][368][369][370]",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "\u00a9 2016 JohnWiley & Sons Ltd, 30,[360][361][362][363][364][365][366][367][368][369][370]"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 363",
+        "section": "",
+        "section_number": 28,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 363"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 365",
+        "section": "",
+        "section_number": 29,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 365"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "(3, 4) 4 (3, 4) 4 (3, 4) 3 (3, 4) 0.6 (0.4, 0.9); 0.02 \u00a9 2016 JohnWiley & Sons Ltd, 30,[360][361][362][363][364][365][366][367][368][369][370]",
+        "section": "",
+        "section_number": 30,
+        "sentences": [
+            "(3, 4) 4 (3, 4) 4 (3, 4) 3 (3, 4) 0.6 (0.4, 0.9); 0.02 \u00a9 2016 JohnWiley & Sons Ltd, 30,[360][361][362][363][364][365][366][367][368][369][370]"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 367",
+        "section": "",
+        "section_number": 31,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 367"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "35349",
+        "text": "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 369",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "\u00a9 2016 John Wiley & Sons Ltd, 30, 360-370 Journal of Applied Research in Intellectual Disabilities 369"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

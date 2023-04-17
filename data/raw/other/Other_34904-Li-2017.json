@@ -1,0 +1,409 @@
+[
+    {
+        "doc_id": "34904",
+        "text": "Background: Quality of life in survivors of pediatric acute lymphocytic leukemia (ALL) can be compromised by chronic diseases including increased risk of second cancers, cardiovascular disease, and diabetes. Overweight or obesity further increases these risks. Steroids are a component of chemotherapy for ALL, and weight gain is a common side effect. To impact behaviors associated with weight gain, we conducted a randomized nutrition counseling intervention in ALL patients on treatment. Procedure: ALL patients on a steroid-based treatment regimen at the MD Anderson Children's Cancer Hospital were recruited and randomized into control or intervention groups. The control group received standard care and nutrition education materials. The intervention group received monthly one-on-one nutrition counseling sessions, consisting of a baseline and 12 follow-up visits. Anthropometrics, dietary intake (3-day 24-hr dietary recalls) and oxidative stress measures were collected at baseline, 6 months, and postintervention. Dietary recall data were analyzed using the Nutrition Data System for Research. Results: Twenty-two patients (median age 11.5 years), all in the maintenance phase of treatment, were recruited. The intervention group (n = 12) reported significantly lower calorie intake from baseline to 12-month follow-up and significant changes in glutamic acid and selenium intake (P < 0.05). Waist circumference was significantly associated with calorie, vitamin E, glutamic acid, and selenium intake. Conclusions: A year-long dietary intervention was effective at reducing caloric intake in pediatric ALL patients receiving steroid-based chemotherapy, indicating that this is a modality that can be built upon for obesity prevention and management.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Quality of life in survivors of pediatric acute lymphocytic leukemia (ALL) can be compromised by chronic diseases including increased risk of second cancers, cardiovascular disease, and diabetes.",
+            "Overweight or obesity further increases these risks.",
+            "Steroids are a component of chemotherapy for ALL, and weight gain is a common side effect.",
+            "To impact behaviors associated with weight gain, we conducted a randomized nutrition counseling intervention in ALL patients on treatment.",
+            "Procedure: ALL patients on a steroid-based treatment regimen at the MD Anderson Children's Cancer Hospital were recruited and randomized into control or intervention groups.",
+            "The control group received standard care and nutrition education materials.",
+            "The intervention group received monthly one-on-one nutrition counseling sessions, consisting of a baseline and 12 follow-up visits.",
+            "Anthropometrics, dietary intake (3-day 24-hr dietary recalls) and oxidative stress measures were collected at baseline, 6 months, and postintervention.",
+            "Dietary recall data were analyzed using the Nutrition Data System for Research.",
+            "Results: Twenty-two patients (median age 11.5 years), all in the maintenance phase of treatment, were recruited.",
+            "The intervention group (n = 12) reported significantly lower calorie intake from baseline to 12-month follow-up and significant changes in glutamic acid and selenium intake (P < 0.05).",
+            "Waist circumference was significantly associated with calorie, vitamin E, glutamic acid, and selenium intake.",
+            "Conclusions: A year-long dietary intervention was effective at reducing caloric intake in pediatric ALL patients receiving steroid-based chemotherapy, indicating that this is a modality that can be built upon for obesity prevention and management."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Acute lymphocytic leukemia (ALL) is the most common pediatric cancer, accounting for 26% of all cancer diagnoses among patients under 14 years old. 1 The 5-year survival rate for children with ALL has improved to over 80% in the last 30 years. However, increased Abbreviations: ALC, absolute lymphocyte count; ALL, acute lymphocytic leukemia; BMI, body mass index; CCS, childhood cancer survivorDCF; HE, hydroethidium; GSH, glutathione; NCC, Nutrition Coordinating Center; PA, physical activity; ROS, reactive oxygen species survivorship has revealed serious treatment related comorbidities. 2 Survivors encounter major health problems including risk of second malignancies, cardiovascular disease, diabetes, and decreased bone mineral density. 3, 4 Several of these conditions are worsened by obesity and overweight. ALL patients have increased risk for unhealthy weight gain throughout treatment and into adulthood. 5 Obesity at diagnosis contributes to poorer survival outcomes in children with ALL. 6, 7 Initiating weight management strategies during ALL treatment may benefit patients and reduce incidence of obesity in survivorship, thereby improving quality of life.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "Acute lymphocytic leukemia (ALL) is the most common pediatric cancer, accounting for 26% of all cancer diagnoses among patients under 14 years old.",
+            "1 The 5-year survival rate for children with ALL has improved to over 80% in the last 30 years.",
+            "However, increased Abbreviations: ALC, absolute lymphocyte count; ALL, acute lymphocytic leukemia; BMI, body mass index; CCS, childhood cancer survivorDCF; HE, hydroethidium; GSH, glutathione; NCC, Nutrition Coordinating Center; PA, physical activity; ROS, reactive oxygen species survivorship has revealed serious treatment related comorbidities.",
+            "2 Survivors encounter major health problems including risk of second malignancies, cardiovascular disease, diabetes, and decreased bone mineral density.",
+            "3, 4 Several of these conditions are worsened by obesity and overweight.",
+            "ALL patients have increased risk for unhealthy weight gain throughout treatment and into adulthood.",
+            "5 Obesity at diagnosis contributes to poorer survival outcomes in children with ALL.",
+            "6, 7 Initiating weight management strategies during ALL treatment may benefit patients and reduce incidence of obesity in survivorship, thereby improving quality of life."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Dietary intake is one of the few modifiable behaviors that can prevent or delay onset of chronic diseases associated with obesity.",
+        "section": "INTRODUCTION",
+        "section_number": 2,
+        "sentences": [
+            "Dietary intake is one of the few modifiable behaviors that can prevent or delay onset of chronic diseases associated with obesity."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Childhood cancer survivors (CCSs) have been shown to exhibit poor diet quality, including excessive calorie and inadequate micronutrient intake. 8, 9 Standard chemotherapy for ALL includes glucocorticoids, such as prednisone or dexamethasone, [10] [11] [12] which are known to increase appetite and cravings for foods high in carbohydrate and salt. Pediatric ALL patients routinely receive corticosteroids during the maintenance phase of chemotherapy. Weight gain during this window of treatment is difficult to shed, and eating habits learned during treatment frequently continue into survivorship. 5 Therefore, reinforcement of healthy diet principles during treatment has the potential to reduce weight gain in survivors. 5 A molecular explanation for how diet alterations can change cellular biochemistry and affect cell signaling or metabolism is largely understudied. Diets high in fat and sugar have been linked to oxidative stress, 13 and increased adipocytes are found to increase proinflammatory cytokines and raise levels of reactive oxygen species (ROS). Consumption of fruits and vegetables, which contain dietary antioxidants should reduce ROS levels. Assessment of ROS levels may be a systemic biomarker for diet and can be evaluated directly in the peripheral blood of patients.",
+        "section": "INTRODUCTION",
+        "section_number": 3,
+        "sentences": [
+            "Childhood cancer survivors (CCSs) have been shown to exhibit poor diet quality, including excessive calorie and inadequate micronutrient intake.",
+            "8, 9 Standard chemotherapy for ALL includes glucocorticoids, such as prednisone or dexamethasone, [10] [11] [12] which are known to increase appetite and cravings for foods high in carbohydrate and salt.",
+            "Pediatric ALL patients routinely receive corticosteroids during the maintenance phase of chemotherapy.",
+            "Weight gain during this window of treatment is difficult to shed, and eating habits learned during treatment frequently continue into survivorship.",
+            "5 Therefore, reinforcement of healthy diet principles during treatment has the potential to reduce weight gain in survivors.",
+            "5 A molecular explanation for how diet alterations can change cellular biochemistry and affect cell signaling or metabolism is largely understudied.",
+            "Diets high in fat and sugar have been linked to oxidative stress, 13 and increased adipocytes are found to increase proinflammatory cytokines and raise levels of reactive oxygen species (ROS).",
+            "Consumption of fruits and vegetables, which contain dietary antioxidants should reduce ROS levels.",
+            "Assessment of ROS levels may be a systemic biomarker for diet and can be evaluated directly in the peripheral blood of patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "The purpose of this study was to assess the efficacy of a yearlong nutrition counseling intervention in pediatric ALL patients being treated with prednisone and/or dexamethasone. Influence on dietary intake, waist circumference, and oxidative stress was measured in 22 control and intervention participants. We show a significant reduction in caloric intake in the intervention group, highlighting the potential for future energy balance programs in this population.",
+        "section": "INTRODUCTION",
+        "section_number": 4,
+        "sentences": [
+            "The purpose of this study was to assess the efficacy of a yearlong nutrition counseling intervention in pediatric ALL patients being treated with prednisone and/or dexamethasone.",
+            "Influence on dietary intake, waist circumference, and oxidative stress was measured in 22 control and intervention participants.",
+            "We show a significant reduction in caloric intake in the intervention group, highlighting the potential for future energy balance programs in this population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Children aged 7-18 years being treated for ALL at the Children's Cancer Hospital at the University of Texas MD Anderson Cancer Center were invited to participate. This study was approved (Protocol #2010-0654) by the Institutional Review Board at the University of Texas MD Anderson Cancer Center, which follows the principles outlined by the Declaration of Helsinki and parents provided written informed consent and children provided assent prior to participation. Exclusionary criteria included receiving nutrition or weight management counseling elsewhere, pediatric patients who were already receiving steroids that were not part of treatment, or a history of psychological disorders as indicated in the medical record (e.g., eating disorders, depression).",
+        "section": "| Study design and population",
+        "section_number": 5,
+        "sentences": [
+            "Children aged 7-18 years being treated for ALL at the Children's Cancer Hospital at the University of Texas MD Anderson Cancer Center were invited to participate.",
+            "This study was approved (Protocol #2010-0654) by the Institutional Review Board at the University of Texas MD Anderson Cancer Center, which follows the principles outlined by the Declaration of Helsinki and parents provided written informed consent and children provided assent prior to participation.",
+            "Exclusionary criteria included receiving nutrition or weight management counseling elsewhere, pediatric patients who were already receiving steroids that were not part of treatment, or a history of psychological disorders as indicated in the medical record (e.g., eating disorders, depression)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Potential participants were referred from hospital physicians, nurses, or other collaborators. After eligibility screening and informed consent/assent, participants were randomized 1:1 into intervention versus control groups stratified by gender (male vs. female) and age range (7-12 vs 13-18 years ",
+        "section": "| Study design and population",
+        "section_number": 6,
+        "sentences": [
+            "Potential participants were referred from hospital physicians, nurses, or other collaborators.",
+            "After eligibility screening and informed consent/assent, participants were randomized 1:1 into intervention versus control groups stratified by gender (male vs. female) and age range (7-12 vs 13-18 years"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Clinical and time. Please note that these models were run after a logarithmic transformation of the data to ensure that the data were normally distributed or close to normally distributed. All computations were carried out in SAS 9.3 (SAS Institute Inc., Cary, North Carolina).",
+        "section": "Statistical analysis",
+        "section_number": 7,
+        "sentences": [
+            "Clinical and time.",
+            "Please note that these models were run after a logarithmic transformation of the data to ensure that the data were normally distributed or close to normally distributed.",
+            "All computations were carried out in SAS 9.3 (SAS Institute Inc., Cary, North Carolina)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "A total of 22 participants were consented and enrolled for this study. Ten participants were randomly assigned to the control group and 12 to the intervention group. There were no significant demographic differences between the control and intervention groups (Table 1) .",
+        "section": "Study design and characteristics of study participants",
+        "section_number": 8,
+        "sentences": [
+            "A total of 22 participants were consented and enrolled for this study.",
+            "Ten participants were randomly assigned to the control group and 12 to the intervention group.",
+            "There were no significant demographic differences between the control and intervention groups (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Dietary intake was evaluated in control and intervention group participants using 3-day, 24 ",
+        "section": "Changes in dietary intake",
+        "section_number": 9,
+        "sentences": [
+            "Dietary intake was evaluated in control and intervention group participants using 3-day, 24"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Height, weight, BMI percentile, and waist circumference data were collected in control and intervention group participants at baseline, 6 months, and 12 months. No significant decreases in any of these measures were noted in either group.",
+        "section": "Anthropometric changes in control versus intervention group",
+        "section_number": 10,
+        "sentences": [
+            "Height, weight, BMI percentile, and waist circumference data were collected in control and intervention group participants at baseline, 6 months, and 12 months.",
+            "No significant decreases in any of these measures were noted in either group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Oxidative stress measures are outlined in Table 3 . ",
+        "section": "Oxidative stress assessment in peripheral blood mononuclear cells from patients in study",
+        "section_number": 11,
+        "sentences": [
+            "Oxidative stress measures are outlined in Table 3 ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Anthropometric measures (specifically waist circumference and BMI), dietary intake, and oxidative stress measures were evaluated for associations. Each of the outcomes, including waist circumference, BMI, superoxide, hydrogen peroxide, and glutathione were modeled using repeated measures analysis separately with calories, vitamin A, vitamin B3, vitamin C, vitamin E, glutamic acid, and selenium, along with treatment group, time, and interaction of treatment group and time.",
+        "section": "Analysis of associations between variables of interest",
+        "section_number": 12,
+        "sentences": [
+            "Anthropometric measures (specifically waist circumference and BMI), dietary intake, and oxidative stress measures were evaluated for associations.",
+            "Each of the outcomes, including waist circumference, BMI, superoxide, hydrogen peroxide, and glutathione were modeled using repeated measures analysis separately with calories, vitamin A, vitamin B3, vitamin C, vitamin E, glutamic acid, and selenium, along with treatment group, time, and interaction of treatment group and time."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Some associations between dietary intake and anthropometric measures were significant (Table 4) . Waist circumference was shown to be significantly associated with total caloric (P = 0.0357) and glutamic acid (P = 0.0494) intake. For both waist circumference and BMI, a treatment group effect was apparent (P < 0.05), indicating that, regardless of time, the average waist circumference and BMI are significantly different between the two groups (higher in the intervention group and lower in the control group, not shown in the table). Furthermore, BMI was found to have a significant time effect (P < 0.05), suggesting a significant change from baseline to follow-ups (decrease) regardless of treatment groups. However, the change of waist circumference and BMI over time was not significantly different between the two groups.",
+        "section": "Analysis of associations between variables of interest",
+        "section_number": 13,
+        "sentences": [
+            "Some associations between dietary intake and anthropometric measures were significant (Table 4) .",
+            "Waist circumference was shown to be significantly associated with total caloric (P = 0.0357) and glutamic acid (P = 0.0494) intake.",
+            "For both waist circumference and BMI, a treatment group effect was apparent (P < 0.05), indicating that, regardless of time, the average waist circumference and BMI are significantly different between the two groups (higher in the intervention group and lower in the control group, not shown in the table).",
+            "Furthermore, BMI was found to have a significant time effect (P < 0.05), suggesting a significant change from baseline to follow-ups (decrease) regardless of treatment groups.",
+            "However, the change of waist circumference and BMI over time was not significantly different between the two groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "No significant associations with dietary measures and oxidative stress were found.",
+        "section": "Analysis of associations between variables of interest",
+        "section_number": 14,
+        "sentences": [
+            "No significant associations with dietary measures and oxidative stress were found."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "The primary aim of this study was to assess the initial efficacy of routine nutritional counseling on increasing healthy dietary behaviors, minimizing excess weight gain, and preventing future prevalence of overweight and obesity among pediatric ALL patients. We were able to successfully deliver a nutrition counseling intervention over the course of 12 months, which resulted in fewer calories consumed in the intervention group. Personalized routine nutritional counseling in the clinical setting offers a feasible venue for weight management.",
+        "section": "DISCUSSION",
+        "section_number": 15,
+        "sentences": [
+            "The primary aim of this study was to assess the initial efficacy of routine nutritional counseling on increasing healthy dietary behaviors, minimizing excess weight gain, and preventing future prevalence of overweight and obesity among pediatric ALL patients.",
+            "We were able to successfully deliver a nutrition counseling intervention over the course of 12 months, which resulted in fewer calories consumed in the intervention group.",
+            "Personalized routine nutritional counseling in the clinical setting offers a feasible venue for weight management."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Although it has been documented that the diet quality of CCSs does not meet USDA guidelines, 8, 9 there are few studies examining nutrition interventions in this population. Interventions in this population were conducted at various time points during treatment; it is unclear if timing of interventions has an impact on study results. Huang et al. 16 recruited 38 childhood ALL survivors in a clinical trial evaluating a tailored weight management intervention delivered through Web, phone, and text messages. The study had mixed results with reduced weight gain and improved PA compared with the control group, but only for participants aged 14 years and older. In another study, 13 children with standard risk ALL were randomized to a home-based exercise and nutrition program or a standard care control group during maintenance therapy. 17 Results were mixed, showing improvements in general and cardiovascular fitness, but not fruit and vegetable intake.",
+        "section": "DISCUSSION",
+        "section_number": 16,
+        "sentences": [
+            "Although it has been documented that the diet quality of CCSs does not meet USDA guidelines, 8, 9 there are few studies examining nutrition interventions in this population.",
+            "Interventions in this population were conducted at various time points during treatment; it is unclear if timing of interventions has an impact on study results.",
+            "Huang et al. 16 recruited 38 childhood ALL survivors in a clinical trial evaluating a tailored weight management intervention delivered through Web, phone, and text messages.",
+            "The study had mixed results with reduced weight gain and improved PA compared with the control group, but only for participants aged 14 years and older.",
+            "In another study, 13 children with standard risk ALL were randomized to a home-based exercise and nutrition program or a standard care control group during maintenance therapy.",
+            "17 Results were mixed, showing improvements in general and cardiovascular fitness, but not fruit and vegetable intake."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Because nutrition counseling was a standard of care, the authors suggest that their nutrition intervention had no effect. In our study, nutritional counseling is the standard of care during maintenance therapy as well; however, our intervention group received more intensive nutrition counseling and showed a significant reduction in calories from baseline to follow-up.",
+        "section": "DISCUSSION",
+        "section_number": 17,
+        "sentences": [
+            "Because nutrition counseling was a standard of care, the authors suggest that their nutrition intervention had no effect.",
+            "In our study, nutritional counseling is the standard of care during maintenance therapy as well; however, our intervention group received more intensive nutrition counseling and showed a significant reduction in calories from baseline to follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "Our study did not result in significant changes to BMI or waist circumference, perhaps due to an inadequate emphasis on exercise. 22, 23 , functional mobility 23 , improvement in fatigue, 24, 25 quality of life, 24 and overall fitness 18 . Rakhshani et al. 26 This study used highly personalized dietary counseling sessions.",
+        "section": "DISCUSSION",
+        "section_number": 18,
+        "sentences": [
+            "Our study did not result in significant changes to BMI or waist circumference, perhaps due to an inadequate emphasis on exercise.",
+            "22, 23 , functional mobility 23 , improvement in fatigue, 24, 25 quality of life, 24 and overall fitness 18 .",
+            "Rakhshani et al. 26 This study used highly personalized dietary counseling sessions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "The sessions often included parents and may have resulted in unmeasured benefits to families including increased nutrition and healthy cooking knowledge. Our study was also unique in the measurement of biomarkers for oxidative stress in addition to anthropometric and dietary measures. One of the limitations of this study was the relatively small sample size, which limits the strength of our conclusions.",
+        "section": "DISCUSSION",
+        "section_number": 19,
+        "sentences": [
+            "The sessions often included parents and may have resulted in unmeasured benefits to families including increased nutrition and healthy cooking knowledge.",
+            "Our study was also unique in the measurement of biomarkers for oxidative stress in addition to anthropometric and dietary measures.",
+            "One of the limitations of this study was the relatively small sample size, which limits the strength of our conclusions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34904",
+        "text": "The sample was stratified by age and gender but not by BMI or waist circumference. Thus, the baseline BMI and waist circumference was higher in the intervention group. Cost benefit was not assessed in this study and is an important endpoint to consider for future, larger trials.",
+        "section": "DISCUSSION",
+        "section_number": 20,
+        "sentences": [
+            "The sample was stratified by age and gender but not by BMI or waist circumference.",
+            "Thus, the baseline BMI and waist circumference was higher in the intervention group.",
+            "Cost benefit was not assessed in this study and is an important endpoint to consider for future, larger trials."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 2
+    },
+    {
+        "doc_id": "34904",
+        "text": "Our results provide insight into the potential use of measurement of oxidative stress in peripheral blood mononuclear cells as biomarkers for altered energy balance. While there was no difference in either superoxide or glutathione levels in control group versus intervention group participants, an increase in intracellular hydrogen peroxide was seen in the intervention group. It is not clear whether this increase reflects increased oxidative stress, or could be a byproduct of increased detoxification of intracellular superoxides. Again, the sample size of the current study limits the ability to draw strong conclusions from this biomarker data but supports future incorporation of these measurements into intervention studies. Another avenue for future research is to examine more specific, directive diets in designing an energy balance intervention for pediatric cancer patients and survivors. We report a 25% reduction in caloric intake, ",
+        "section": "DISCUSSION",
+        "section_number": 21,
+        "sentences": [
+            "Our results provide insight into the potential use of measurement of oxidative stress in peripheral blood mononuclear cells as biomarkers for altered energy balance.",
+            "While there was no difference in either superoxide or glutathione levels in control group versus intervention group participants, an increase in intracellular hydrogen peroxide was seen in the intervention group.",
+            "It is not clear whether this increase reflects increased oxidative stress, or could be a byproduct of increased detoxification of intracellular superoxides.",
+            "Again, the sample size of the current study limits the ability to draw strong conclusions from this biomarker data but supports future incorporation of these measurements into intervention studies.",
+            "Another avenue for future research is to examine more specific, directive diets in designing an energy balance intervention for pediatric cancer patients and survivors.",
+            "We report a 25% reduction in caloric intake,"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

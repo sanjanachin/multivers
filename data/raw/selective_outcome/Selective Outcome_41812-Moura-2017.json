@@ -1,0 +1,581 @@
+[
+    {
+        "doc_id": "41812",
+        "text": "Introduction: Motor impairment in children with spastic hemiparetic cerebral palsy (CP) is generally more prominent in the affected upper limb, leading to limitations in hand function stemming from deficiencies in motor coordination and selective motor control as well as muscle weakness, slower execution of movements and deficient integration of sensory-motor information. Objective: Determine the effect of a single session of anodal transcranial direct current stimulation (tDCS) combined with functional training on the spatiotemporal variables of upper arm movements in children with spastic hemiparesis. Method: A randomized, sham-controlled trial with a blinded evaluator was conducted involving 20 children with CP between 6 and 12 years of age. The spatiotemporal variables of the upper limbs were analyzed by comparing the results of Evaluation 1 (before stimulation) and Evaluation 2 (immediately after stimulation). The protocol consisted of a 20-minute session of functional training of the paretic upper limb combined with tDCS administered over the primary motor cortex of the hemisphere contralateral to the motor impairment at an intensity of 1 mA. The participants were randomly allocated to two groups: experimental group (anodal tDCS) and control group (sham tDCS). Results: Statistically significant (p < 0.05) reductions in total movement duration and returning movement duration were found in both the paretic and non-paretic limbs in the group submitted to active tDCS. No significant differences were found in the control group for any of the variables analyzed. Conclusion: A single session of anodal tDCS over the primary motor cortex of the hemisphere ipsilateral to the brain lesion led to momentary motor improvements in both upper limbs of the children with spastic hemiparetic CP analyzed in the present study.",
+        "section": "Abstract",
+        "sentences": [
+            "Introduction: Motor impairment in children with spastic hemiparetic cerebral palsy (CP) is generally more prominent in the affected upper limb, leading to limitations in hand function stemming from deficiencies in motor coordination and selective motor control as well as muscle weakness, slower execution of movements and deficient integration of sensory-motor information.",
+            "Objective: Determine the effect of a single session of anodal transcranial direct current stimulation (tDCS) combined with functional training on the spatiotemporal variables of upper arm movements in children with spastic hemiparesis.",
+            "Method: A randomized, sham-controlled trial with a blinded evaluator was conducted involving 20 children with CP between 6 and 12 years of age.",
+            "The spatiotemporal variables of the upper limbs were analyzed by comparing the results of Evaluation 1 (before stimulation) and Evaluation 2 (immediately after stimulation).",
+            "The protocol consisted of a 20-minute session of functional training of the paretic upper limb combined with tDCS administered over the primary motor cortex of the hemisphere contralateral to the motor impairment at an intensity of 1 mA. The participants were randomly allocated to two groups: experimental group (anodal tDCS) and control group (sham tDCS).",
+            "Results: Statistically significant (p < 0.05) reductions in total movement duration and returning movement duration were found in both the paretic and non-paretic limbs in the group submitted to active tDCS.",
+            "No significant differences were found in the control group for any of the variables analyzed.",
+            "Conclusion: A single session of anodal tDCS over the primary motor cortex of the hemisphere ipsilateral to the brain lesion led to momentary motor improvements in both upper limbs of the children with spastic hemiparetic CP analyzed in the present study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Spastic, hemiparetic, cerebral palsy (CP) is caused by a unilateral lesion in the pyramidal system, with consequent motor impairment in the half of the body contralateral to the hemisphere with the brain lesion. 1 Motor impairment is generally more prominent in the upper limb than in the lower limb. 2 Children with this type of CP have limitations in hand function stemming from deficiencies in motor coordination and selective motor control as well as muscle weakness, slower execution of movements and deficient integration of sensorymotor information. 3, 4 Thus, children with spastic hemiparesis experience difficulties in activities that involve reaching, grasping and handling objects, 5, 6 leading to limitations with regard to independence and participation in daily activities.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Spastic, hemiparetic, cerebral palsy (CP) is caused by a unilateral lesion in the pyramidal system, with consequent motor impairment in the half of the body contralateral to the hemisphere with the brain lesion.",
+            "1 Motor impairment is generally more prominent in the upper limb than in the lower limb.",
+            "2 Children with this type of CP have limitations in hand function stemming from deficiencies in motor coordination and selective motor control as well as muscle weakness, slower execution of movements and deficient integration of sensorymotor information.",
+            "3, 4 Thus, children with spastic hemiparesis experience difficulties in activities that involve reaching, grasping and handling objects, 5, 6 leading to limitations with regard to independence and participation in daily activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The aim of physical rehabilitation for children with CP is to promote the stimulation and training of motor functions. 7 Through muscle training (flexibility, strength and tone) and neuromotor training (coordination, parameterization and selective motor control), physiotherapeutic methods can achieve promising results with regard to hand function in children with hemiparesis. However, the effects of motor therapies are only perceived in the medium and long terms, often requiring intensive training sessions of the function one wishes to improve. 8 Recent studies have demonstrated that the combined use of noninvasive brain stimulation and motor therapies can optimize functional motor gains in children with CP. [9] [10] [11] [12] [13] Anodal transcranial direct current stimulation (tDCS) of the primary motor cortex enhances cortical excitability in the underlying region of the brain, thereby contributing to motor gains and the learning process. [14] [15] [16] [17] [18] Moreover, this method has proven to be safe for the pediatric population. 10, 19 A single session of tDCS over the motor area has been shown to result in changes in gait velocity in children with CP, which demonstrates the potential of this method even when administered only a single time. 10, 12 However, few studies have analyzed the effects of a single session of anodal tDCS over the primary motor cortex on the spatiotemporal variables of upper limb movements in children with spastic hemiparesis.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The aim of physical rehabilitation for children with CP is to promote the stimulation and training of motor functions.",
+            "7 Through muscle training (flexibility, strength and tone) and neuromotor training (coordination, parameterization and selective motor control), physiotherapeutic methods can achieve promising results with regard to hand function in children with hemiparesis.",
+            "However, the effects of motor therapies are only perceived in the medium and long terms, often requiring intensive training sessions of the function one wishes to improve.",
+            "8 Recent studies have demonstrated that the combined use of noninvasive brain stimulation and motor therapies can optimize functional motor gains in children with CP. [",
+            "9] [10] [11] [12] [13] Anodal transcranial direct current stimulation (tDCS) of the primary motor cortex enhances cortical excitability in the underlying region of the brain, thereby contributing to motor gains and the learning process. [",
+            "14] [15] [16] [17] [18] Moreover, this method has proven to be safe for the pediatric population.",
+            "10, 19 A single session of tDCS over the motor area has been shown to result in changes in gait velocity in children with CP, which demonstrates the potential of this method even when administered only a single time.",
+            "10, 12 However, few studies have analyzed the effects of a single session of anodal tDCS over the primary motor cortex on the spatiotemporal variables of upper limb movements in children with spastic hemiparesis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The aim of the present study was to determine the effect of a single session of anodal tDCS over the primary motor cortex, specifically the area of the brain responsible for voluntary motor control of the upper limb, combined with functional reach training on the spatiotemporal variables of the upper limbs in children with spastic hemiparesis classified on levels I and II of the Manual Ability Classification System (MACS). 20 Thus, the hypothesis tested herein is that anodal tDCS combined with motor training is capable of momentarily providing improvements in spatiotemporal variables of upper limb movements in children with CP in comparison to sham stimulation.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The aim of the present study was to determine the effect of a single session of anodal tDCS over the primary motor cortex, specifically the area of the brain responsible for voluntary motor control of the upper limb, combined with functional reach training on the spatiotemporal variables of the upper limbs in children with spastic hemiparesis classified on levels I and II of the Manual Ability Classification System (MACS).",
+            "20 Thus, the hypothesis tested herein is that anodal tDCS combined with motor training is capable of momentarily providing improvements in spatiotemporal variables of upper limb movements in children with CP in comparison to sham stimulation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The present randomized sham-controlled study was approved by the Human Research Ethics Committee of University Nove de Julho, Brazil (IRB number: 525935/2014) and was conducted in accordance with the ethical standards laid down in the Declaration of Helsinki. Written informed consent was obtained from the parents or legal guardians. This study is registered with the Brazilian Registry of Clinical Trials (RBR-6V4Y3K).",
+        "section": "Methods",
+        "section_number": 4,
+        "sentences": [
+            "The present randomized sham-controlled study was approved by the Human Research Ethics Committee of University Nove de Julho, Brazil (IRB number: 525935/2014) and was conducted in accordance with the ethical standards laid down in the Declaration of Helsinki.",
+            "Written informed consent was obtained from the parents or legal guardians.",
+            "This study is registered with the Brazilian Registry of Clinical Trials (RBR-6V4Y3K)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Individuals with hemiparetic CP were recruited from the physical therapy clinics of the university and selected based on the eligibility criteria. The inclusion criteria were a diagnosis of spastic hemiparetic CP, functional classification on level I or II of the MACS, age 6-12 years and adequate understanding and cooperation during the proposed activities. The exclusion criteria were having undergone surgical procedures or neurolytic block in the 12 months prior to the onset of the training sessions, orthopedic deformity of the upper limb with an indication for surgery, epilepsy, metal implant in the skull or the use of hearing aids and having undergone craniectomy.",
+        "section": "Participants",
+        "section_number": 5,
+        "sentences": [
+            "Individuals with hemiparetic CP were recruited from the physical therapy clinics of the university and selected based on the eligibility criteria.",
+            "The inclusion criteria were a diagnosis of spastic hemiparetic CP, functional classification on level I or II of the MACS, age 6-12 years and adequate understanding and cooperation during the proposed activities.",
+            "The exclusion criteria were having undergone surgical procedures or neurolytic block in the 12 months prior to the onset of the training sessions, orthopedic deformity of the upper limb with an indication for surgery, epilepsy, metal implant in the skull or the use of hearing aids and having undergone craniectomy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "A total of 24 children were recruited. Following the application of the eligibility criteria, 20 children were selected for the study. The participants were randomly allocated to the experimental group (motor training + active tDCS) and control group (motor training + sham tDCS) based on the order of inclusion to the study. Numbered opaque envelopes were employed to ensure the concealment of the allocation. Each envelop contained a card stipulating to which group the child would be allocated.",
+        "section": "Participants",
+        "section_number": 6,
+        "sentences": [
+            "A total of 24 children were recruited.",
+            "Following the application of the eligibility criteria, 20 children were selected for the study.",
+            "The participants were randomly allocated to the experimental group (motor training + active tDCS) and control group (motor training + sham tDCS) based on the order of inclusion to the study.",
+            "Numbered opaque envelopes were employed to ensure the concealment of the allocation.",
+            "Each envelop contained a card stipulating to which group the child would be allocated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The procedures were performed on a single day. The evaluation process was conducted by two physiotherapists with experience in the procedures and blinded to the allocation of the participants to the different groups. Two evaluations were performed: (1) pretreatment and (2) posttreatment (immediately following a single intervention session) ( Figure 1 ).",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "The procedures were performed on a single day.",
+            "The evaluation process was conducted by two physiotherapists with experience in the procedures and blinded to the allocation of the participants to the different groups.",
+            "Two evaluations were performed: (1) pretreatment and (2) posttreatment (immediately following a single intervention session) ( Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Transcranial direct-current stimulation tDCS was administered using a DC-STIMULATOR (NEUROCOM) with two sponge (nonmetallic) electrodes measuring 25cm 2 (5 \u00d7 5 cm) 11, 15, 21 moistened in saline solution. The anodal electrode was positioned over C3/C4 (International 10-20 System), corresponding to the primary motor cortex of the hemisphere contralateral to the motor impairment. The cathode was positioned over the supraorbital region contralateral to the anode. A current of 1 mA 13, 14, 21 was administered for 20 minutes during the session. The device has a knob that allows the operator to control the intensity. Stimulation was gradually increased during the first 10 seconds until reaching 1 mA and gradually diminished during the last 10 seconds of the session. For sham stimulation, the electrodes were placed in the same positions and the stimulator was switched on for 30 seconds to give the participants the initial sensation, but no stimulation was administered during the rest of the session. This is a valid control procedure in studies involving tDCS.",
+        "section": "Interventions",
+        "section_number": 8,
+        "sentences": [
+            "Transcranial direct-current stimulation tDCS was administered using a DC-STIMULATOR (NEUROCOM) with two sponge (nonmetallic) electrodes measuring 25cm 2 (5 \u00d7 5 cm) 11, 15, 21 moistened in saline solution.",
+            "The anodal electrode was positioned over C3/C4 (International 10-20 System), corresponding to the primary motor cortex of the hemisphere contralateral to the motor impairment.",
+            "The cathode was positioned over the supraorbital region contralateral to the anode.",
+            "A current of 1 mA 13, 14, 21 was administered for 20 minutes during the session.",
+            "The device has a knob that allows the operator to control the intensity.",
+            "Stimulation was gradually increased during the first 10 seconds until reaching 1 mA and gradually diminished during the last 10 seconds of the session.",
+            "For sham stimulation, the electrodes were placed in the same positions and the stimulator was switched on for 30 seconds to give the participants the initial sensation, but no stimulation was administered during the rest of the session.",
+            "This is a valid control procedure in studies involving tDCS."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Motor training of the paretic upper limb Motor training involved a reaching task with the induced constraint of the non-paretic limb following the protocol described by Hoare et al. 22 The non-paretic upper limb was constrained with the use of a comfortable neoprene glove that did not allow palm grip to ensure the intensive use of the paretic upper limb during the 20-minute session. A table with an adjustable height was positioned in front of the participant, who remained seated in a chair. The participant was positioned to allow free movement of the paretic upper limb for reaching, grasping and visually tracking the movements. Prior to the session, a variety of educational toys and objects carefully selected for use on the task were placed in the therapy room. 23 The three motor strategies trained were grasping objects, moving objects and manual range of activities.",
+        "section": "Interventions",
+        "section_number": 9,
+        "sentences": [
+            "Motor training of the paretic upper limb Motor training involved a reaching task with the induced constraint of the non-paretic limb following the protocol described by Hoare et al. 22 The non-paretic upper limb was constrained with the use of a comfortable neoprene glove that did not allow palm grip to ensure the intensive use of the paretic upper limb during the 20-minute session.",
+            "A table with an adjustable height was positioned in front of the participant, who remained seated in a chair.",
+            "The participant was positioned to allow free movement of the paretic upper limb for reaching, grasping and visually tracking the movements.",
+            "Prior to the session, a variety of educational toys and objects carefully selected for use on the task were placed in the therapy room.",
+            "23 The three motor strategies trained were grasping objects, moving objects and manual range of activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The reaching task was employed to represent daily functional activities, as described in previous studies addressing upper limb movement. [24] [25] [26] [27] [28] [29] [30] A table was placed in front of the participant, who remained seated comfortably on an adjustable chair. The starting position on the table surface was indicated by a small white strip attached to the table. Neither the trunk nor the head was constrained. The task began with the patient's hand on the table surface and the elbow flexed at approximately 90\u00b0, the forearm slightly pronated and the wrist in a neutral position. The reaching task involved leaning forward and extending the elbow to touch a stationary target positioned on the table at a predefined distance and then returning the hand to the starting position. This distance was measured using the affected arm and was 80% of the arm length from the acromion process to the third fingertip. 2 The table was positioned to achieve this distance and ensure the standardization of the reaching task. The subjects were asked to move the arm to reach the target and then move the hand back to the starting position mark. The movement was repeated six times for each trial at a self-determined speed. The task was completed separately by both the affected and unaffected arm. Three trials were acquired for each arm, with a 30-second rest between trials to minimize the fatigue effect.",
+        "section": "Motion analysis",
+        "section_number": 10,
+        "sentences": [
+            "The reaching task was employed to represent daily functional activities, as described in previous studies addressing upper limb movement. [",
+            "24] [25] [26] [27] [28] [29] [30] A table was placed in front of the participant, who remained seated comfortably on an adjustable chair.",
+            "The starting position on the table surface was indicated by a small white strip attached to the table.",
+            "Neither the trunk nor the head was constrained.",
+            "The task began with the patient's hand on the table surface and the elbow flexed at approximately 90\u00b0, the forearm slightly pronated and the wrist in a neutral position.",
+            "The reaching task involved leaning forward and extending the elbow to touch a stationary target positioned on the table at a predefined distance and then returning the hand to the starting position.",
+            "This distance was measured using the affected arm and was 80% of the arm length from the acromion process to the third fingertip.",
+            "2 The table was positioned to achieve this distance and ensure the standardization of the reaching task.",
+            "The subjects were asked to move the arm to reach the target and then move the hand back to the starting position mark.",
+            "The movement was repeated six times for each trial at a self-determined speed.",
+            "The task was completed separately by both the affected and unaffected arm.",
+            "Three trials were acquired for each arm, with a 30-second rest between trials to minimize the fatigue effect."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Upper arm movement kinematics were evaluated using the SMART-D 140 \u00ae system (BTS, Milan, Italy) for the analysis of the spatiotemporal variables. This system involves eight cameras sensitive to infrared light with a sampling frequency of 100 Hz and a synchronized video system. A total of 18 passive markers measuring 15 mm in diameter were placed at special landmarks directly on the subject's skin to identify the position of the head, trunk and upper limb (arm, forearm and hand). 2, 29, 30 The position and orientation of the upper limb were reconstructed using the following markers bilaterally: acromion, lateral epicondyle of humerus, styloid processes of ulna and radius, head of second metacarpal bone and nail of index finger. The head position was reconstructed using four markers and the trunk position was estimated using the markers on the right and left acromion, the spinous process of C7 and the forward midline of the trunk. An additional marker was placed on the target for the reaching movement. The 3D coordinates of the markers were filtered using a lowpass second-order zero-phase Butterworth filter (cutoff frequency = 10 Hz) and both the trajectory and velocity of the fingernail marker were computed. The biomechanical model, data filtering and computation of the variables were implemented using SMART software program (BTS, Milan, Italy).",
+        "section": "Motion analysis",
+        "section_number": 11,
+        "sentences": [
+            "Upper arm movement kinematics were evaluated using the SMART-D 140 \u00ae system (BTS, Milan, Italy) for the analysis of the spatiotemporal variables.",
+            "This system involves eight cameras sensitive to infrared light with a sampling frequency of 100 Hz and a synchronized video system.",
+            "A total of 18 passive markers measuring 15 mm in diameter were placed at special landmarks directly on the subject's skin to identify the position of the head, trunk and upper limb (arm, forearm and hand).",
+            "2, 29, 30 The position and orientation of the upper limb were reconstructed using the following markers bilaterally: acromion, lateral epicondyle of humerus, styloid processes of ulna and radius, head of second metacarpal bone and nail of index finger.",
+            "The head position was reconstructed using four markers and the trunk position was estimated using the markers on the right and left acromion, the spinous process of C7 and the forward midline of the trunk.",
+            "An additional marker was placed on the target for the reaching movement.",
+            "The 3D coordinates of the markers were filtered using a lowpass second-order zero-phase Butterworth filter (cutoff frequency = 10 Hz) and both the trajectory and velocity of the fingernail marker were computed.",
+            "The biomechanical model, data filtering and computation of the variables were implemented using SMART software program (BTS, Milan, Italy)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Each movement was segmented into three sequential phases based on the literature 2 : going phase (movement toward the target), adjusting phase (movement dedicated to precisely locating the target) and returning phase (movement toward the initial position) ( Figure 2 ).",
+        "section": "Motion analysis",
+        "section_number": 12,
+        "sentences": [
+            "Each movement was segmented into three sequential phases based on the literature 2 : going phase (movement toward the target), adjusting phase (movement dedicated to precisely locating the target) and returning phase (movement toward the initial position) ( Figure 2 )."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The following variables were analyzed for the evaluation of changes after the intervention.",
+        "section": "Motion analysis",
+        "section_number": 13,
+        "sentences": [
+            "The following variables were analyzed for the evaluation of changes after the intervention."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Total Movement Duration (Total MD index)calculated as the total time required for completing each task. The duration of the three phases was also computed (going MD: duration of going phase; adjusting MD: duration of adjusting phase; and returning MD: duration of returning phase);",
+        "section": "Motion analysis",
+        "section_number": 14,
+        "sentences": [
+            "Total Movement Duration (Total MD index)calculated as the total time required for completing each task.",
+            "The duration of the three phases was also computed (going MD: duration of going phase; adjusting MD: duration of adjusting phase; and returning MD: duration of returning phase);"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Mean movement velocity in the going phasemean velocity of the marker positioned on the index finger;",
+        "section": "Motion analysis",
+        "section_number": 15,
+        "sentences": [
+            "Mean movement velocity in the going phasemean velocity of the marker positioned on the index finger;"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Adjusting sway indexlength of the path described by the fingernail in the adjusting phase, which is a measure of the adjustments made to reach the final position and represents the degree of precision; Index of Curvature (IC)ratio of the length of the fingernail path to the linear distance between the initial and the final pointing position; representative of movement smoothness during the going phase;",
+        "section": "Motion analysis",
+        "section_number": 16,
+        "sentences": [
+            "Adjusting sway indexlength of the path described by the fingernail in the adjusting phase, which is a measure of the adjustments made to reach the final position and represents the degree of precision; Index of Curvature (IC)ratio of the length of the fingernail path to the linear distance between the initial and the final pointing position; representative of movement smoothness during the going phase;"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Average Jerk (AJ)mean value of the acceleration derivative (jerk) according to the following equation:",
+        "section": "Motion analysis",
+        "section_number": 17,
+        "sentences": [
+            "Average Jerk (AJ)mean value of the acceleration derivative (jerk) according to the following equation:"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "AJ \u00bc 1 T \u00f0 T 0 d 3 x dt 3 2 \u00fe d 3 y dt 3 2 \u00fe d 3 z dt 3 2 \" # 1=2 dt",
+        "section": "Motion analysis",
+        "section_number": 18,
+        "sentences": [
+            "AJ \u00bc 1 T \u00f0 T 0 d 3 x dt 3 2 \u00fe d 3 y dt 3 2 \u00fe d 3 z dt 3 2 \" # 1=2 dt"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "in which x (t), y (t) and z (t) are the x, y and z coordinates of the fingernail and T is the movement duration. It has been shown that the AJ index decreases with the increase in the smoothness of movement. This index is often used as a measure of the quality of selective motor control. 27, 30 While all marker trajectories were acquired during the study, the analysis focused only on the parameters obtained by the markers placed on the finger and the target. The other markers were acquired, but not included in the present analysis and are not discussed in this paper.",
+        "section": "Motion analysis",
+        "section_number": 19,
+        "sentences": [
+            "in which x (t), y (t) and z (t) are the x, y and z coordinates of the fingernail and T is the movement duration.",
+            "It has been shown that the AJ index decreases with the increase in the smoothness of movement.",
+            "This index is often used as a measure of the quality of selective motor control.",
+            "27, 30 While all marker trajectories were acquired during the study, the analysis focused only on the parameters obtained by the markers placed on the finger and the target.",
+            "The other markers were acquired, but not included in the present analysis and are not discussed in this paper."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "All previously defined parameters were computed for each subject. Median values and interquartile ranges relating to all indices were calculated for both groups as well as the affected and unaffected sides. The Mann-Whitney U test was used to compare the results of the experimental and control groups at the pre-intervention evaluation as well as the affected and unaffected sides of the experimental and control groups during the pre-intervention and post-intervention evaluations. The Wilcoxon test was used to compare the results of the pre-intervention and post-intervention separately for the affected and unaffected sides to detect changes within groups. The effect size was calculated from the difference between pre-intervention and post-intervention evaluations for all outcome measures, expressed as the mean (95% confidence interval) and compared using the Wilcoxon test (experimental vs. control group). Statistical significance was set to 5% (p < 0.05). The data were tabulated and processed using the Statistical Package for Social Sciences (SPSS, v. 19.0).",
+        "section": "Statistical analysis",
+        "section_number": 20,
+        "sentences": [
+            "All previously defined parameters were computed for each subject.",
+            "Median values and interquartile ranges relating to all indices were calculated for both groups as well as the affected and unaffected sides.",
+            "The Mann-Whitney U test was used to compare the results of the experimental and control groups at the pre-intervention evaluation as well as the affected and unaffected sides of the experimental and control groups during the pre-intervention and post-intervention evaluations.",
+            "The Wilcoxon test was used to compare the results of the pre-intervention and post-intervention separately for the affected and unaffected sides to detect changes within groups.",
+            "The effect size was calculated from the difference between pre-intervention and post-intervention evaluations for all outcome measures, expressed as the mean (95% confidence interval) and compared using the Wilcoxon test (experimental vs. control group).",
+            "Statistical significance was set to 5% (p < 0.05).",
+            "The data were tabulated and processed using the Statistical Package for Social Sciences (SPSS, v. 19.0)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Twenty children with CP were randomly allocated to the experimental group (active tDCS administered over the primary motor cortex) or control group (sham tDCS). No significant differences were found between groups during the pre-intervention evaluations (p > 0.05 for all analyses). Moreover, both groups had the same starting conditions regarding the paretic and non-paretic upper limbs. Table 1 displays the characteristics and functional classification of the children studied. All children tolerated stimulation with no complaints and no adverse effects were observed. Tables 2 and 3 display the results obtained regarding the spatiotemporal variables of the kinematics of the upper limbs. In the experimental group, the comparison between pre-intervention and post-intervention evaluations demonstrated significant reductions in total MD and returning MD for both the paretic and non-paretic limbs. The remaining variables remained unchanged after treatment in this group. No significant differences were found in the control group for any of the variables analyzed on either the paretic or non-paretic side.",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "Twenty children with CP were randomly allocated to the experimental group (active tDCS administered over the primary motor cortex) or control group (sham tDCS).",
+            "No significant differences were found between groups during the pre-intervention evaluations (p > 0.05 for all analyses).",
+            "Moreover, both groups had the same starting conditions regarding the paretic and non-paretic upper limbs.",
+            "Table 1 displays the characteristics and functional classification of the children studied.",
+            "All children tolerated stimulation with no complaints and no adverse effects were observed.",
+            "Tables 2 and 3 display the results obtained regarding the spatiotemporal variables of the kinematics of the upper limbs.",
+            "In the experimental group, the comparison between pre-intervention and post-intervention evaluations demonstrated significant reductions in total MD and returning MD for both the paretic and non-paretic limbs.",
+            "The remaining variables remained unchanged after treatment in this group.",
+            "No significant differences were found in the control group for any of the variables analyzed on either the paretic or non-paretic side."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The effect size of the intervention in each group was calculated as the difference between the pre-intervention and post-intervention evaluations for both the affected and unaffected sides. The analyses revealed a significant difference only in the duration of the total movement in the experimental group when compared to the control group (p < 0.001) ( Table 4) .",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "The effect size of the intervention in each group was calculated as the difference between the pre-intervention and post-intervention evaluations for both the affected and unaffected sides.",
+            "The analyses revealed a significant difference only in the duration of the total movement in the experimental group when compared to the control group (p < 0.001) ( Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Comparisons were made of the paretic and non-paretic limbs in both the experimental and control groups during the pre-intervention and post-intervention evaluations. In the experimental group, significant differences were found during the pre-intervention evaluation with regard to the going phase (p = 0.04), adjusting phase (p = 0.02), total movement duration (p = 0.007), index of curvature (p = 0.01) and number of movement units (p = 0.01), with no significant differences between the affected and unaffected sides for the other variables. During the post-intervention evaluation, significant differences remained with regard to the going phase (p = 0.03), adjusting phase (p = 0.02), total movement duration (p = 0.01) and index of curvature (p = 0.01), with no significant differences for the other variables analyzed. In the control group, significant differences between the paretic and non-paretic sides were found with regard to the going phase (p = 0.03), adjusting phase (p = 0.02), total movement duration (p = 0.01), number of movement units (p = 0.01), end point error (p = 0.02) and adjusting sway index (p = 0.02). During the post-intervention evaluation, significant differences were found for the adjusting phase (p = 0.01), total movement duration (p = 0.01), index of curvature (p = 0.02), number of movement units (p = 0.03), end point error (p = 0.02) and adjusting sway index (p = 0.005), with no differences between the paretic and non-paretic sides regarding the other variables.",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "Comparisons were made of the paretic and non-paretic limbs in both the experimental and control groups during the pre-intervention and post-intervention evaluations.",
+            "In the experimental group, significant differences were found during the pre-intervention evaluation with regard to the going phase (p = 0.04), adjusting phase (p = 0.02), total movement duration (p = 0.007), index of curvature (p = 0.01) and number of movement units (p = 0.01), with no significant differences between the affected and unaffected sides for the other variables.",
+            "During the post-intervention evaluation, significant differences remained with regard to the going phase (p = 0.03), adjusting phase (p = 0.02), total movement duration (p = 0.01) and index of curvature (p = 0.01), with no significant differences for the other variables analyzed.",
+            "In the control group, significant differences between the paretic and non-paretic sides were found with regard to the going phase (p = 0.03), adjusting phase (p = 0.02), total movement duration (p = 0.01), number of movement units (p = 0.01), end point error (p = 0.02) and adjusting sway index (p = 0.02).",
+            "During the post-intervention evaluation, significant differences were found for the adjusting phase (p = 0.01), total movement duration (p = 0.01), index of curvature (p = 0.02), number of movement units (p = 0.03), end point error (p = 0.02) and adjusting sway index (p = 0.005), with no differences between the paretic and non-paretic sides regarding the other variables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The results of the present study demonstrate significant reductions in total movement duration and returning movement duration in the group of children with spastic hemiparesis submitted to active tDCS for 20 minutes during upper limb motor training. In contrast, no differences were found in the group submitted to sham tDCS during the same type of motor training. The findings suggest that anodal tDCS over the primary motor cortex (C3 and C4) in the hemisphere ipsilateral to the brain lesion led to momentary motor improvements in both upper limbs in the children with spastic hemiparesis who participated in this study.",
+        "section": "Discussion",
+        "section_number": 24,
+        "sentences": [
+            "The results of the present study demonstrate significant reductions in total movement duration and returning movement duration in the group of children with spastic hemiparesis submitted to active tDCS for 20 minutes during upper limb motor training.",
+            "In contrast, no differences were found in the group submitted to sham tDCS during the same type of motor training.",
+            "The findings suggest that anodal tDCS over the primary motor cortex (C3 and C4) in the hemisphere ipsilateral to the brain lesion led to momentary motor improvements in both upper limbs in the children with spastic hemiparesis who participated in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "The reduction in total execution time of a movement generally requires individuals to improve their motor skills through a better performance of the neuromuscular components and better organization of the movement. In CP, deficient active movements are directly related to the brain lesion and its location. Neurophysiologic studies have demonstrated that individuals with CP exhibit a gamut of changes in brain activity in both areas surrounding the lesion as well as subjacent and associated brain regions. 31, 32 The reduction in motor cortex excitability is related to the impairment of voluntary motor control. 33, 34, 35 The neurophysiologic basis for the use of anodal tDCS in cases of neuromotor disorders regards the capacity of the direct current to reach superficial areas of the primary motor cortex, thereby facilitating cortical excitability through a reduction in the action potential firing threshold. 36, 37 As a neuromodulating technique, it is plausible that the activation of motor areas with the enhancement of the action potential is dependent on the motor demand stemming from the execution of movements. Thus, the results of the present study demonstrate that anodal tDCS combined with a motor demand resulting from upper limb training facilitates cortical excitability.",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "The reduction in total execution time of a movement generally requires individuals to improve their motor skills through a better performance of the neuromuscular components and better organization of the movement.",
+            "In CP, deficient active movements are directly related to the brain lesion and its location.",
+            "Neurophysiologic studies have demonstrated that individuals with CP exhibit a gamut of changes in brain activity in both areas surrounding the lesion as well as subjacent and associated brain regions.",
+            "31, 32 The reduction in motor cortex excitability is related to the impairment of voluntary motor control.",
+            "33, 34, 35 The neurophysiologic basis for the use of anodal tDCS in cases of neuromotor disorders regards the capacity of the direct current to reach superficial areas of the primary motor cortex, thereby facilitating cortical excitability through a reduction in the action potential firing threshold.",
+            "36, 37 As a neuromodulating technique, it is plausible that the activation of motor areas with the enhancement of the action potential is dependent on the motor demand stemming from the execution of movements.",
+            "Thus, the results of the present study demonstrate that anodal tDCS combined with a motor demand resulting from upper limb training facilitates cortical excitability."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Analyzing the results, it should be stressed that, although a statistically significant change only occurred with regard to a single variable, since the returning phase is a variable that composes total movement duration, the finding is relevant, as it demonstrates the use of a relatively new physiotherapeutic resource that has been employed on the pediatric population in only a few studies. Although this investigation involved a single intervention session, the results are promising with regard to the planning of future studies on the effects of more prolonged treatment. Since the combination of anodal tDCS and upper limb motor training was capable of causing a momentary change in the temporal variables of the movement of both the paretic and non-paretic upper limbs of the children in the experimental group, a lasting optimization of motor control would likely occur with interventions spanning a longer period of time. Previous studies addressing the use of anodal tDCS over the motor cortex of children with CP during gait training with a frequency of five weekly intervention sessions over a 2-week period have demonstrated that this noninvasive brain stimulation technique enhances motor improvements and leads to the maintenance of gains one month after the end of the intervention. 11, 21 The present findings can serve as the basis for the development of a similar intervention protocol (10 sessions over a 2-week period) for the improvement of upper limb function in children with spastic, hemiparetic CP.",
+        "section": "Discussion",
+        "section_number": 26,
+        "sentences": [
+            "Analyzing the results, it should be stressed that, although a statistically significant change only occurred with regard to a single variable, since the returning phase is a variable that composes total movement duration, the finding is relevant, as it demonstrates the use of a relatively new physiotherapeutic resource that has been employed on the pediatric population in only a few studies.",
+            "Although this investigation involved a single intervention session, the results are promising with regard to the planning of future studies on the effects of more prolonged treatment.",
+            "Since the combination of anodal tDCS and upper limb motor training was capable of causing a momentary change in the temporal variables of the movement of both the paretic and non-paretic upper limbs of the children in the experimental group, a lasting optimization of motor control would likely occur with interventions spanning a longer period of time.",
+            "Previous studies addressing the use of anodal tDCS over the motor cortex of children with CP during gait training with a frequency of five weekly intervention sessions over a 2-week period have demonstrated that this noninvasive brain stimulation technique enhances motor improvements and leads to the maintenance of gains one month after the end of the intervention.",
+            "11, 21 The present findings can serve as the basis for the development of a similar intervention protocol (10 sessions over a 2-week period) for the improvement of upper limb function in children with spastic, hemiparetic CP."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "In previous studies, the use of tDCS in individuals with hemiparesis stemming from a stroke contributed to improving motor function of the paretic limb. 38, 39 In the present investigation, the administration of anodal tDCS over the primary motor cortex ipsilateral to the brain lesion was evaluated. However, no consensus is found on studies conducted with stroke survivors regarding the ideal electrode montage to obtain motor improvements in the paretic upper limb. The literature offers contradictory data regarding the administration of anodal stimulation ipsilateral to the brain lesion, cathodal stimulation contralateral to the lesion and the combined use of anodal stimulation ipsilateral and cathodal stimulation contralateral to the lesion. The variety of electrode montages in individuals with hemiparesis is explained by the fact that the researchers employed tDCS as a means to diminish the imbalance in bilateral brain activity in an attempt to minimize maladaptive neuroplastic changes secondary to a unilateral lesion. A limitation of the present study is related to the analysis of the effects of a single electrode montage. It is therefore not possible to state whether the reduction in total movement duration would be different with the use of cathodal stimulation contralateral to the lesion or the combination of anodal stimulation ipsilateral and cathodal stimulation contralateral to the lesion. Moreover, future studies should involve a greater number of neurophysiologic and motor variables to investigate the motor changes caused by stimulation that resulted in the reduction of the total duration of the movement investigated to enable the understanding of the effects of tDCS on paretic and non-paretic upper limb function in a more specific, detailed fashion.",
+        "section": "Discussion",
+        "section_number": 27,
+        "sentences": [
+            "In previous studies, the use of tDCS in individuals with hemiparesis stemming from a stroke contributed to improving motor function of the paretic limb.",
+            "38, 39 In the present investigation, the administration of anodal tDCS over the primary motor cortex ipsilateral to the brain lesion was evaluated.",
+            "However, no consensus is found on studies conducted with stroke survivors regarding the ideal electrode montage to obtain motor improvements in the paretic upper limb.",
+            "The literature offers contradictory data regarding the administration of anodal stimulation ipsilateral to the brain lesion, cathodal stimulation contralateral to the lesion and the combined use of anodal stimulation ipsilateral and cathodal stimulation contralateral to the lesion.",
+            "The variety of electrode montages in individuals with hemiparesis is explained by the fact that the researchers employed tDCS as a means to diminish the imbalance in bilateral brain activity in an attempt to minimize maladaptive neuroplastic changes secondary to a unilateral lesion.",
+            "A limitation of the present study is related to the analysis of the effects of a single electrode montage.",
+            "It is therefore not possible to state whether the reduction in total movement duration would be different with the use of cathodal stimulation contralateral to the lesion or the combination of anodal stimulation ipsilateral and cathodal stimulation contralateral to the lesion.",
+            "Moreover, future studies should involve a greater number of neurophysiologic and motor variables to investigate the motor changes caused by stimulation that resulted in the reduction of the total duration of the movement investigated to enable the understanding of the effects of tDCS on paretic and non-paretic upper limb function in a more specific, detailed fashion."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "Investigations regarding the effectiveness of noninvasive brain stimulation techniques in children with CP are still in the initial phases and many issues need to be analyzed before any conclusion can be reached on the potential of this intervention in clinical practice. However, the few studies that have addressed the use of tDCS in this pediatric population agree that the technique is safe and offers minimal adverse effects. Indeed, no adverse effects were observed during the procedures of the present study, which therefore contributes to findings described in the literature. Questions remain regarding the ideal current for use on children, but 0.7-1.0 mA seems to be safe for this purpose. 19, 40 Despite the preliminary nature of the present findings with regard to the possibility of using tDCS in children with CP, the results are promising. The main limitations of this study were the small number of participants, the lack of an adequate sample size calculation and the fact that only one post-intervention evaluation was performed. As the post-intervention evaluation was performed immediately following stimulation, it is not possible to determine whether the reductions in total movement duration and returning movement duration would be maintained for a longer period of time. However, the findings demonstrate that tDCS resulted in motor changes, whereas sham tDCS did not. The variables analyzed also do not allow the determination of the reason for the improvement in both the paretic and non-paretic upper limbs. However, future studies that involve neurophysiologic evaluations could explain this finding.",
+        "section": "Discussion",
+        "section_number": 28,
+        "sentences": [
+            "Investigations regarding the effectiveness of noninvasive brain stimulation techniques in children with CP are still in the initial phases and many issues need to be analyzed before any conclusion can be reached on the potential of this intervention in clinical practice.",
+            "However, the few studies that have addressed the use of tDCS in this pediatric population agree that the technique is safe and offers minimal adverse effects.",
+            "Indeed, no adverse effects were observed during the procedures of the present study, which therefore contributes to findings described in the literature.",
+            "Questions remain regarding the ideal current for use on children, but 0.7-1.0 mA seems to be safe for this purpose.",
+            "19, 40 Despite the preliminary nature of the present findings with regard to the possibility of using tDCS in children with CP, the results are promising.",
+            "The main limitations of this study were the small number of participants, the lack of an adequate sample size calculation and the fact that only one post-intervention evaluation was performed.",
+            "As the post-intervention evaluation was performed immediately following stimulation, it is not possible to determine whether the reductions in total movement duration and returning movement duration would be maintained for a longer period of time.",
+            "However, the findings demonstrate that tDCS resulted in motor changes, whereas sham tDCS did not.",
+            "The variables analyzed also do not allow the determination of the reason for the improvement in both the paretic and non-paretic upper limbs.",
+            "However, future studies that involve neurophysiologic evaluations could explain this finding."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "41812",
+        "text": "A single 20-minute session of anodal tDCS over the primary motor cortex ipsilateral to the brain lesion combined with upper limb motor training led to a reduction in total reaching movement duration and returning movement duration in children with spastic, hemiparetic CP classified on levels I and II of the MACS. The improvement in these variables occurred in both the paretic and non-paretic upper limbs in the group that received active tDCS, whereas no significant changes were found in the group that received sham tDCS regarding any of the variables analyzed.",
+        "section": "Conclusion",
+        "section_number": 29,
+        "sentences": [
+            "A single 20-minute session of anodal tDCS over the primary motor cortex ipsilateral to the brain lesion combined with upper limb motor training led to a reduction in total reaching movement duration and returning movement duration in children with spastic, hemiparetic CP classified on levels I and II of the MACS.",
+            "The improvement in these variables occurred in both the paretic and non-paretic upper limbs in the group that received active tDCS, whereas no significant changes were found in the group that received sham tDCS regarding any of the variables analyzed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    }
+]

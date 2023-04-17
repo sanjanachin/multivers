@@ -1,0 +1,965 @@
+[
+    {
+        "doc_id": "39758",
+        "text": "Background Maternal obesity associates with complications during pregnancy and childbirth. Our aim was to investigate if exercise during pregnancy in overweight/obese women could influence birth weight or other neonatal and maternal outcomes at delivery. Material and methods This is a secondary analysis of a randomised controlled trial of exercise training in pregnancy for women with body mass index (BMI) ! 28 kg/m 2. Ninety-one women (31.3 \u00b1 4.3 years, BMI 34.5 \u00b1 4.2 kg/m 2) were allocated 1:1 to supervised exercise during pregnancy or to standard care. The exercise group was offered three weekly training sessions consisting of 35 minutes of moderate intensity walking/running followed by 25 minutes of strength training. Data from 74 women (exercise 38, control 36) were analysed at delivery. Results Birth weight was 3719 \u00b1 695 g in the exercise group and 3912 \u00b1 413 g in the control group (CI-460.96, 74.89, p = 0.16). Birth weight > 4000 g was 35% in the exercise group and 52% in the control group (p = 0.16). Mean gestational age at delivery was 39.1 weeks in the exercise group and 39.5 weeks in the control group (CI-1.33, 0.43, p = 0.31). No significant betweengroup differences were found in neonatal body size, skinfold thickness, placental weight ratio, or Apgar score. The prevalence of caesarean section was 24% in the exercise group and 17% in the control group (CI 0.20, 2.05, p = 0.57). Mean length of hospital stay was 4.8 days in the exercise group and 4.5 days in the control group (CI-0.45, 1.00, p = 0.45).",
+        "section": "Abstract",
+        "sentences": [
+            "Background Maternal obesity associates with complications during pregnancy and childbirth.",
+            "Our aim was to investigate if exercise during pregnancy in overweight/obese women could influence birth weight or other neonatal and maternal outcomes at delivery.",
+            "Material and methods This is a secondary analysis of a randomised controlled trial of exercise training in pregnancy for women with body mass index (BMI) !",
+            "28 kg/m 2.",
+            "Ninety-one women (31.3 \u00b1 4.3 years, BMI 34.5 \u00b1 4.2 kg/m 2) were allocated 1:1 to supervised exercise during pregnancy or to standard care.",
+            "The exercise group was offered three weekly training sessions consisting of 35 minutes of moderate intensity walking/running followed by 25 minutes of strength training.",
+            "Data from 74 women (exercise 38, control 36) were analysed at delivery.",
+            "Results Birth weight was 3719 \u00b1 695 g in the exercise group and 3912 \u00b1 413 g in the control group (CI-460.96, 74.89, p = 0.16).",
+            "Birth weight > 4000 g was 35% in the exercise group and 52% in the control group (p = 0.16).",
+            "Mean gestational age at delivery was 39.1 weeks in the exercise group and 39.5 weeks in the control group (CI-1.33, 0.43, p = 0.31).",
+            "No significant betweengroup differences were found in neonatal body size, skinfold thickness, placental weight ratio, or Apgar score.",
+            "The prevalence of caesarean section was 24% in the exercise group and 17% in the control group (CI 0.20, 2.05, p = 0.57).",
+            "Mean length of hospital stay was 4.8 days in the exercise group and 4.5 days in the control group (CI-0.45, 1.00, p = 0.45)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The prevalence of maternal overweight and obesity is increasing [1] and has important consequences for the health of mother and child at delivery [2] . The World Health Organization (WHO) classifies overweight as body mass index (BMI) ! 25 kg/m 2 , and obesity as BMI ! 30 kg/ m 2 [3] . Overweight and obesity in pregnancy is associated with adverse neonatal outcomes as high birth weight [4] , preterm birth, perinatal death, congenital anomalies, birth trauma related to macrosomia, and transfer to neonatal intensive care unit (NICU) [5, 6] . Adverse outcomes for the mother at delivery include need for caesarean section and prolonged hospital stay [5, [7] [8] [9] . Furthermore, overweight and obese pregnant women are at increased risk for reduced insulin sensitivity and subsequently high levels of circulating glucose in the foetus [10] [11] [12] [13] . This can lead to foetal overgrowth and macrosomia (birth weight ! 4000 g) and is associated with adverse obstetrical outcomes [14] childhood obesity, and cardiometabolic diseases later in life [10-13, 15, 16] . Longterm consequences of these adverse outcomes have led to an increased attention towards maternal obesity as a contributing factor to the developmental origins of health and disease [11, 17] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "The prevalence of maternal overweight and obesity is increasing [1] and has important consequences for the health of mother and child at delivery [2] .",
+            "The World Health Organization (WHO) classifies overweight as body mass index (BMI) !",
+            "25 kg/m 2 , and obesity as BMI !",
+            "30 kg/ m 2 [3] .",
+            "Overweight and obesity in pregnancy is associated with adverse neonatal outcomes as high birth weight [4] , preterm birth, perinatal death, congenital anomalies, birth trauma related to macrosomia, and transfer to neonatal intensive care unit (NICU) [5, 6] .",
+            "Adverse outcomes for the mother at delivery include need for caesarean section and prolonged hospital stay [5, [7] [8] [9] .",
+            "Furthermore, overweight and obese pregnant women are at increased risk for reduced insulin sensitivity and subsequently high levels of circulating glucose in the foetus [10] [11] [12] [13] .",
+            "This can lead to foetal overgrowth and macrosomia (birth weight !",
+            "4000 g) and is associated with adverse obstetrical outcomes [14] childhood obesity, and cardiometabolic diseases later in life [10-13, 15, 16] .",
+            "Longterm consequences of these adverse outcomes have led to an increased attention towards maternal obesity as a contributing factor to the developmental origins of health and disease [11, 17] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Previous studies have reported positive effects of lifestyle interventions combining diet and exercise on some delivery-related outcomes in normal weight women, including reduced risks of preeclampsia, shoulder dystocia and preterm birth [18] . However, the effect of lifestyle interventions in pregnancy on birth weight, gestational age, rates of caesarean section, and transfer to NICU are still unclear [18] [19] [20] [21] . Wiebe et al. [22] found in a meta-analysis that supervised prenatal exercise reduced neonatal birth weight and caesarean delivery among women with BMI 24.9. Previous studies have reported limited effect of lifestyle interventions on maternal or neonatal outcomes at delivery in overweight and obese women [19, [23] [24] [25] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Previous studies have reported positive effects of lifestyle interventions combining diet and exercise on some delivery-related outcomes in normal weight women, including reduced risks of preeclampsia, shoulder dystocia and preterm birth [18] .",
+            "However, the effect of lifestyle interventions in pregnancy on birth weight, gestational age, rates of caesarean section, and transfer to NICU are still unclear [18] [19] [20] [21] .",
+            "Wiebe et al. [22] found in a meta-analysis that supervised prenatal exercise reduced neonatal birth weight and caesarean delivery among women with BMI 24.9.",
+            "Previous studies have reported limited effect of lifestyle interventions on maternal or neonatal outcomes at delivery in overweight and obese women [19, [23] [24] [25] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We have previously published data from a randomised controlled trial of exercise training in pregnancy for women with BMI ! 28 kg/m 2 , addressing effects of regular exercise on gestational weight gain and several secondary outcomes in late pregnancy [26] . In the present paper we report secondary analyses of maternal and neonatal outcomes at delivery. We aimed to investigate the effect of regular exercise during pregnancy on birth weight, and hypothesised that the birth weight in the exercise group would be lower compared to the control group. In addition, we investigated possible effects of exercise training on neonatal outcomes such as body composition, Apgar score, placental weight ratio, preterm birth and admission to neonatal intensive care unit, and maternal outcomes such as mode of delivery, perineal tears and length of hospital stay.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "We have previously published data from a randomised controlled trial of exercise training in pregnancy for women with BMI !",
+            "28 kg/m 2 , addressing effects of regular exercise on gestational weight gain and several secondary outcomes in late pregnancy [26] .",
+            "In the present paper we report secondary analyses of maternal and neonatal outcomes at delivery.",
+            "We aimed to investigate the effect of regular exercise during pregnancy on birth weight, and hypothesised that the birth weight in the exercise group would be lower compared to the control group.",
+            "In addition, we investigated possible effects of exercise training on neonatal outcomes such as body composition, Apgar score, placental weight ratio, preterm birth and admission to neonatal intensive care unit, and maternal outcomes such as mode of delivery, perineal tears and length of hospital stay."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The Exercise Training in Pregnancy (ETIP) trial was a single centre, parallel group randomised controlled trial. The trial included women with pre-pregnancy BMI ! 28 kg/m 2 . The trial was Graduate Training in Physiotherapy (To author SM, grant number: 7-370-00/08A). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+        "section": "Trial design",
+        "section_number": 4,
+        "sentences": [
+            "The Exercise Training in Pregnancy (ETIP) trial was a single centre, parallel group randomised controlled trial.",
+            "The trial included women with pre-pregnancy BMI !",
+            "28 kg/m 2 .",
+            "The trial was Graduate Training in Physiotherapy (To author SM, grant number: 7-370-00/08A).",
+            "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "carried out at The Norwegian University of Science and Technology, NTNU, and St. Olavs Hospital, University Hospital in Trondheim, Norway, with participant recruitment from September 2010 to March 2015. The trial was approved by the Regional Committee for Medical and Health Research Ethics (REK midt 2010/1522), and registered in ClinicalTrials.gov (NCT01243554). The protocol and the results from primary outcomes in the trial have been published previously [26, 27] .",
+        "section": "Trial design",
+        "section_number": 5,
+        "sentences": [
+            "carried out at The Norwegian University of Science and Technology, NTNU, and St. Olavs Hospital, University Hospital in Trondheim, Norway, with participant recruitment from September 2010 to March 2015.",
+            "The trial was approved by the Regional Committee for Medical and Health Research Ethics (REK midt 2010/1522), and registered in ClinicalTrials.gov (NCT01243554).",
+            "The protocol and the results from primary outcomes in the trial have been published previously [26, 27] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We made changes to the study protocol after commencement of the trial [26] . In November 2012 the criterion for maximum inclusion time gestational week 16 was changed to gestational week 18, and in March 2013 the inclusion criterion pre-pregnancy BMI ! 30 kg/m 2 was changed to BMI ! 28 kg/m 2 . The changes were done to accommodate slow recruitment in the trial, and the revised study protocol was approved by the Regional Committee for Medical and Health Research Ethics.",
+        "section": "Trial design",
+        "section_number": 6,
+        "sentences": [
+            "We made changes to the study protocol after commencement of the trial [26] .",
+            "In November 2012 the criterion for maximum inclusion time gestational week 16 was changed to gestational week 18, and in March 2013 the inclusion criterion pre-pregnancy BMI !",
+            "30 kg/m 2 was changed to BMI !",
+            "28 kg/m 2 .",
+            "The changes were done to accommodate slow recruitment in the trial, and the revised study protocol was approved by the Regional Committee for Medical and Health Research Ethics."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Inclusion criteria were pre-pregnancy BMI ! 28 kg/m 2 , age ! 18 years, carrying a singleton viable foetus at 11-14 gestational weeks. Also, the women had to be able to visit St. Olavs Hospital for assessments and exercise sessions. Data on pre-pregnancy BMI was based on selfreported weight and height. Exclusion criteria were diseases affecting participation [28] , high risk for preterm delivery [28] , and regularly exercise training (twice or more weekly) in the period before inclusion. The procedures were in accordance to ethical standards of research and the Helsinki Declaration. Women were recruited through Google advertisements and by notices enclosed with invitations for routine ultrasound scans at St. Olavs Hospital. At the time of recruitment and before randomisation and participation, the women received written information and signed an informed consent.",
+        "section": "Participants",
+        "section_number": 7,
+        "sentences": [
+            "Inclusion criteria were pre-pregnancy BMI !",
+            "28 kg/m 2 , age !",
+            "18 years, carrying a singleton viable foetus at 11-14 gestational weeks.",
+            "Also, the women had to be able to visit St. Olavs Hospital for assessments and exercise sessions.",
+            "Data on pre-pregnancy BMI was based on selfreported weight and height.",
+            "Exclusion criteria were diseases affecting participation [28] , high risk for preterm delivery [28] , and regularly exercise training (twice or more weekly) in the period before inclusion.",
+            "The procedures were in accordance to ethical standards of research and the Helsinki Declaration.",
+            "Women were recruited through Google advertisements and by notices enclosed with invitations for routine ultrasound scans at St. Olavs Hospital.",
+            "At the time of recruitment and before randomisation and participation, the women received written information and signed an informed consent."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "All participants received standard maternity care, and women in the control group were not discouraged from physical activity. Women in the exercise group were offered supervised exercise sessions at St. Olavs Hospital three times weekly from early pregnancy until delivery. The exercise program was in accordance with the recommendations from the American College of Obstetricians and Gynaecologists [29] . The exercise sessions were supervised by a physical therapist and lasted for 60 min, and consisted of 35 min of walking/jogging on a treadmill for (endurance training), and 25 min of resistance training for large muscle groups and the pelvic floor muscles [26, 27] . The intensity of the endurance training was moderate, set to~80% of maximal capacity (corresponding to Borg scale 12-15) [30] . The resistance training was with use of own body weight and consisted of squats, diagonal lifts on all fours, push-ups, oblique abdominal crunches and the \"plank exercise\". Each exercise was performed as three sets of ten repetitions separated by a 1-min rest between sets; the \"plank exercise\" was performed in 30 sec. The pelvic floor exercises consisted of three sets of ten repetitions of pulling the pelvic floor up and holding the contraction for 6-8 s. The exercise program and load were individually adjusted when needed.",
+        "section": "Intervention",
+        "section_number": 8,
+        "sentences": [
+            "All participants received standard maternity care, and women in the control group were not discouraged from physical activity.",
+            "Women in the exercise group were offered supervised exercise sessions at St. Olavs Hospital three times weekly from early pregnancy until delivery.",
+            "The exercise program was in accordance with the recommendations from the American College of Obstetricians and Gynaecologists [29] .",
+            "The exercise sessions were supervised by a physical therapist and lasted for 60 min, and consisted of 35 min of walking/jogging on a treadmill for (endurance training), and 25 min of resistance training for large muscle groups and the pelvic floor muscles [26, 27] .",
+            "The intensity of the endurance training was moderate, set to~80% of maximal capacity (corresponding to Borg scale 12-15) [30] .",
+            "The resistance training was with use of own body weight and consisted of squats, diagonal lifts on all fours, push-ups, oblique abdominal crunches and the \"plank exercise\".",
+            "Each exercise was performed as three sets of ten repetitions separated by a 1-min rest between sets; the \"plank exercise\" was performed in 30 sec. The pelvic floor exercises consisted of three sets of ten repetitions of pulling the pelvic floor up and holding the contraction for 6-8 s. The exercise program and load were individually adjusted when needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "In addition to the supervised program women were asked to do a 50 minutes home exercise program twice weekly and to do pelvic floor muscle exercises every day. Adherence to the exercise program was registered in a training diary. The participants in the exercise group received a weight gain curve of recommended weight gain during pregnancy according to the 2009 Institute of Medicine recommendations [31] . The intervention group received no dietary advice, but both groups received a standard brochure at inclusion with information about healthy living during pregnancy.",
+        "section": "Intervention",
+        "section_number": 9,
+        "sentences": [
+            "In addition to the supervised program women were asked to do a 50 minutes home exercise program twice weekly and to do pelvic floor muscle exercises every day.",
+            "Adherence to the exercise program was registered in a training diary.",
+            "The participants in the exercise group received a weight gain curve of recommended weight gain during pregnancy according to the 2009 Institute of Medicine recommendations [31] .",
+            "The intervention group received no dietary advice, but both groups received a standard brochure at inclusion with information about healthy living during pregnancy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Baseline assessments were undertaken in gestational week 12-18 (early pregnancy). Neonatal and maternal outcomes in the current article were assessed at delivery and during the maternity stay at the hospital.",
+        "section": "Outcomes",
+        "section_number": 10,
+        "sentences": [
+            "Baseline assessments were undertaken in gestational week 12-18 (early pregnancy).",
+            "Neonatal and maternal outcomes in the current article were assessed at delivery and during the maternity stay at the hospital."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Birth weight was the principal outcome in this secondary analysis. Other neonatal outcomes were birth weight > 4000 g, head circumference, length, body surface area (BSA), skinfold thickness, abdominal and upper arm circumference, gestational age, Apgar score at 1 and 5 minutes, placental weight and placental weight ratio (PWR), and transfer to Neonatal Intensive Care Unit (NICU). Maternal outcomes were mode of delivery, preterm birth, preeclampsia, perineal tears, and duration of hospital stay.",
+        "section": "Outcomes",
+        "section_number": 11,
+        "sentences": [
+            "Birth weight was the principal outcome in this secondary analysis.",
+            "Other neonatal outcomes were birth weight > 4000 g, head circumference, length, body surface area (BSA), skinfold thickness, abdominal and upper arm circumference, gestational age, Apgar score at 1 and 5 minutes, placental weight and placental weight ratio (PWR), and transfer to Neonatal Intensive Care Unit (NICU).",
+            "Maternal outcomes were mode of delivery, preterm birth, preeclampsia, perineal tears, and duration of hospital stay."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Birth weight was measured at delivery by a Seca baby weight (Medema, Norway) by the birth attendants. We measured skinfold thickness by a Harpenden Skinfold Calliper (Holtain, Ltd, UK), on the right side of the body at the following sites; subscapularis; at the bottom of the angelus inferior scapula, triceps; at the middle between the olecranon and the humeral head. We used a measuring tape to measure abdominal and upper arm circumference. The abdomen was measured at the level of umbilicus and the upper arm at the middle between olecranon and humeral head. Skinfold thickness and circumference measurement were undertaken by the first author (KKG).",
+        "section": "Outcomes",
+        "section_number": 12,
+        "sentences": [
+            "Birth weight was measured at delivery by a Seca baby weight (Medema, Norway) by the birth attendants.",
+            "We measured skinfold thickness by a Harpenden Skinfold Calliper (Holtain, Ltd, UK), on the right side of the body at the following sites; subscapularis; at the bottom of the angelus inferior scapula, triceps; at the middle between the olecranon and the humeral head.",
+            "We used a measuring tape to measure abdominal and upper arm circumference.",
+            "The abdomen was measured at the level of umbilicus and the upper arm at the middle between olecranon and humeral head.",
+            "Skinfold thickness and circumference measurement were undertaken by the first author (KKG)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Mode of delivery, perineal tears, hospital stay, new-born length, head circumference, gestational age, Apgar score, placenta weight, and transfer to NICU were recorded in the hospital records. We calculated BMI of the newborn as weight in kilograms divided by the square of height in meters, and Body Surface Area (BSA, in m 2 ) by the Mosteller Formula as (height (cm) x weight (kg) /3600) 1/2 [32] . We calculated the ratio of birth weight and placental weight (placental weight ratio, PWR) as placenta weight divided by birth weight. We defined preterm birth as delivery before gestational week 37.",
+        "section": "Outcomes",
+        "section_number": 13,
+        "sentences": [
+            "Mode of delivery, perineal tears, hospital stay, new-born length, head circumference, gestational age, Apgar score, placenta weight, and transfer to NICU were recorded in the hospital records.",
+            "We calculated BMI of the newborn as weight in kilograms divided by the square of height in meters, and Body Surface Area (BSA, in m 2 ) by the Mosteller Formula as (height (cm) x weight (kg) /3600) 1/2 [32] .",
+            "We calculated the ratio of birth weight and placental weight (placental weight ratio, PWR) as placenta weight divided by birth weight.",
+            "We defined preterm birth as delivery before gestational week 37."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We calculated the sample size in the ETIP trial based on the primary outcome; gestational weight gain from baseline to delivery [26] . We assumed a 6 kg mean difference between groups as clinical relevant [33, 34] . A two-sided independent sample t-test with a 5% level of significance, a standard deviation of 10, and a power of 0.9 gave a target study population of 59 in each group. We estimated the dropout to be 15% and aimed to include 150 women. We did not do an a priori sample size calculation for the outcomes reported in this paper, but we did a post-hoc power calculation on birth weight. Based on previous trials [35, 36] , we considered a mean difference in birth weight 250 g clinically relevant, based on previous studies. With standard deviation of 430 g, alpha 0.05 and beta 0.2, we would have needed 94 participants in the trial to demonstrate a difference in birth weight between groups.",
+        "section": "Sample size",
+        "section_number": 14,
+        "sentences": [
+            "We calculated the sample size in the ETIP trial based on the primary outcome; gestational weight gain from baseline to delivery [26] .",
+            "We assumed a 6 kg mean difference between groups as clinical relevant [33, 34] .",
+            "A two-sided independent sample t-test with a 5% level of significance, a standard deviation of 10, and a power of 0.9 gave a target study population of 59 in each group.",
+            "We estimated the dropout to be 15% and aimed to include 150 women.",
+            "We did not do an a priori sample size calculation for the outcomes reported in this paper, but we did a post-hoc power calculation on birth weight.",
+            "Based on previous trials [35, 36] , we considered a mean difference in birth weight 250 g clinically relevant, based on previous studies.",
+            "With standard deviation of 430 g, alpha 0.05 and beta 0.2, we would have needed 94 participants in the trial to demonstrate a difference in birth weight between groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Trial participants were randomised 1:1 to exercise or control groups after baseline assessments. We used a computer random number generator developed and administrated at the Unit for Applied Clinical Research at NTNU to generate the random allocation sequence, as previously detailed [26] .",
+        "section": "Randomisation and allocation",
+        "section_number": 15,
+        "sentences": [
+            "Trial participants were randomised 1:1 to exercise or control groups after baseline assessments.",
+            "We used a computer random number generator developed and administrated at the Unit for Applied Clinical Research at NTNU to generate the random allocation sequence, as previously detailed [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Birth attendants were blinded for group allocation. Measurements of skinfold thickness, abdominal circumference, and intervention administration were done non-blinded by the investigators. The first author (KKG) was not blinded for group allocation as she supervised the exercise training. The statistician was blinded for group allocation.",
+        "section": "Blinding",
+        "section_number": 16,
+        "sentences": [
+            "Birth attendants were blinded for group allocation.",
+            "Measurements of skinfold thickness, abdominal circumference, and intervention administration were done non-blinded by the investigators.",
+            "The first author (KKG) was not blinded for group allocation as she supervised the exercise training.",
+            "The statistician was blinded for group allocation."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "39758",
+        "text": "The principal analyses were based on the intention to treat principle and all available data were used at all time points. Continuous data were tested for normality, and we used independent samples t-tests to assess the effect of the intervention. We used the Fisher's Exact Test or Pearson Chi Square Test to analyse effects of the intervention on dichotomous outcomes, with the exercise group as the reference group. Due to the randomisation model, we assumed no systematic differences between groups at baseline, however differences between groups at baseline were tested [26] .",
+        "section": "Statistical methods",
+        "section_number": 17,
+        "sentences": [
+            "The principal analyses were based on the intention to treat principle and all available data were used at all time points.",
+            "Continuous data were tested for normality, and we used independent samples t-tests to assess the effect of the intervention.",
+            "We used the Fisher's Exact Test or Pearson Chi Square Test to analyse effects of the intervention on dichotomous outcomes, with the exercise group as the reference group.",
+            "Due to the randomisation model, we assumed no systematic differences between groups at baseline, however differences between groups at baseline were tested [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We performed supplementary analyses where we adjusted for gestational age and parity. We also analysed the association between BMI at early pregnancy and the variables birth weight and risk for caesarean delivery.",
+        "section": "Statistical methods",
+        "section_number": 18,
+        "sentences": [
+            "We performed supplementary analyses where we adjusted for gestational age and parity.",
+            "We also analysed the association between BMI at early pregnancy and the variables birth weight and risk for caesarean delivery."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "In addition to the primary analyses, we performed per protocol analyses where we compared women in the exercise group adhering to the exercise protocol with the control group [27] . Exercise per protocol was defined as one of the following: 1) attending ! 42 organized exercise sessions, 2) attending ! 28 exercise sessions + performing ! 28 home exercise sessions, or 3) performing ! 60 home exercise sessions. To count as a home session, the exercise had to be ! 50 minutes of either aerobic and/or strength training.",
+        "section": "Statistical methods",
+        "section_number": 19,
+        "sentences": [
+            "In addition to the primary analyses, we performed per protocol analyses where we compared women in the exercise group adhering to the exercise protocol with the control group [27] .",
+            "Exercise per protocol was defined as one of the following: 1) attending !",
+            "42 organized exercise sessions, 2) attending !",
+            "28 exercise sessions + performing !",
+            "28 home exercise sessions, or 3) performing !",
+            "60 home exercise sessions.",
+            "To count as a home session, the exercise had to be !",
+            "50 minutes of either aerobic and/or strength training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "For the statistical analyses, we used IBM SPSS Statistics 23 for outcomes at delivery. Baseline demographic characteristics were analysed by Stata version 13.1. Supplementary analysis including adjustments and associations were analysed by R version 2.13.1. In comparison between groups we report mean values with 95% confidence intervals, for the continuous variables and odds ratios with 95% confidence intervals for dichotomous variables. We considered p-values < 0.05 as significant.",
+        "section": "Statistical methods",
+        "section_number": 20,
+        "sentences": [
+            "For the statistical analyses, we used IBM SPSS Statistics 23 for outcomes at delivery.",
+            "Baseline demographic characteristics were analysed by Stata version 13.1.",
+            "Supplementary analysis including adjustments and associations were analysed by R version 2.13.1.",
+            "In comparison between groups we report mean values with 95% confidence intervals, for the continuous variables and odds ratios with 95% confidence intervals for dichotomous variables.",
+            "We considered p-values < 0.05 as significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "shows the participant flow in the ETIP trial. Complete baseline data has been previously published [26] . No differences between groups at baseline were found, except from significant lower fasting glucose in the exercise group, 4.6 mmol/l vs 5.0 mmol/l, p = 0.02 [26] . Mean prepregnancy (self-reported) BMI was 33.9 \u00b1 3.8 kg/m 2 in the exercise group, and 35.1 \u00b1 4.6 kg/ m 2 in the control group. Mean gestational weight gain was 10.5 kg in the exercise group, and 9.2 kg in the control group (p = 0.35). Fifty-eight percent of the women in the exercise group, and 44% of the women in the control group, gained more weight than recommended by the IOM guidelines.",
+        "section": "Fig 1",
+        "section_number": 21,
+        "sentences": [
+            "shows the participant flow in the ETIP trial.",
+            "Complete baseline data has been previously published [26] .",
+            "No differences between groups at baseline were found, except from significant lower fasting glucose in the exercise group, 4.6 mmol/l vs 5.0 mmol/l, p = 0.02 [26] .",
+            "Mean prepregnancy (self-reported) BMI was 33.9 \u00b1 3.8 kg/m 2 in the exercise group, and 35.1 \u00b1 4.6 kg/ m 2 in the control group.",
+            "Mean gestational weight gain was 10.5 kg in the exercise group, and 9.2 kg in the control group (p = 0.35).",
+            "Fifty-eight percent of the women in the exercise group, and 44% of the women in the control group, gained more weight than recommended by the IOM guidelines."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Seventy-four women (exercise 38, control 36) were included in the analyses at delivery. Two women in the exercise group (BMI 29.7 and 28.3 kg/m 2 ), and three women in the control group (BMI 29.4, 28.8 and 29.7 kg/m 2 ), were classified as overweight at baseline. All other women had a pre-pregnancy BMI ! 30 kg/m 2 , and were classified as obese. Fifty percent of women in the exercise group and 38% in the control group were nulliparous (p = 0.18 Women in the intervention group performed 31.7 \u00b1 15.3 (range 0-53) supervised sessions at the hospital and 19.2 \u00b1 16.5 (range 0-72) exercise sessions at home.",
+        "section": "Fig 1",
+        "section_number": 22,
+        "sentences": [
+            "Seventy-four women (exercise 38, control 36) were included in the analyses at delivery.",
+            "Two women in the exercise group (BMI 29.7 and 28.3 kg/m 2 ), and three women in the control group (BMI 29.4, 28.8 and 29.7 kg/m 2 ), were classified as overweight at baseline.",
+            "All other women had a pre-pregnancy BMI !",
+            "30 kg/m 2 , and were classified as obese.",
+            "Fifty percent of women in the exercise group and 38% in the control group were nulliparous (p = 0.18 Women in the intervention group performed 31.7 \u00b1 15.3 (range 0-53) supervised sessions at the hospital and 19.2 \u00b1 16.5 (range 0-72) exercise sessions at home."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We found no significant differences in birth weight or other neonatal outcomes at delivery between the exercise group and the control group (Table 1 ).",
+        "section": "Neonatal outcomes",
+        "section_number": 23,
+        "sentences": [
+            "We found no significant differences in birth weight or other neonatal outcomes at delivery between the exercise group and the control group (Table 1 )."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "There were two cases of preterm birth (pregnancy weeks 29 and 34) in the exercise group (Table 1) , which represented two cases of neonatal birth weight < 2500 g. These women had their last exercise sessions 9 and 14 days prior to the preterm births. One woman in the exercise group chose to terminate the pregnancy at week 19+5 due to severe foetal malformations diagnosed at a routine second trimester ultrasound scan. Three neonates in each group needed admission to the NICU after birth. In the exercise group, two neonates were admitted due to prematurity and one due to meconium aspiration. In the control group one neonate was transferred to NICU due to hypoglycaemia and infection, one due to asphyxia caused by shoulder dystocia, complicated by a humerus fracture, and one due to persistent pulmonary hypertension. Two women, one in each group, delivered their babies at other hospitals than St. Olavs Hospital, and we therefore have missing data on their outcomes.",
+        "section": "Neonatal outcomes",
+        "section_number": 24,
+        "sentences": [
+            "There were two cases of preterm birth (pregnancy weeks 29 and 34) in the exercise group (Table 1) , which represented two cases of neonatal birth weight < 2500 g. These women had their last exercise sessions 9 and 14 days prior to the preterm births.",
+            "One woman in the exercise group chose to terminate the pregnancy at week 19+5 due to severe foetal malformations diagnosed at a routine second trimester ultrasound scan.",
+            "Three neonates in each group needed admission to the NICU after birth.",
+            "In the exercise group, two neonates were admitted due to prematurity and one due to meconium aspiration.",
+            "In the control group one neonate was transferred to NICU due to hypoglycaemia and infection, one due to asphyxia caused by shoulder dystocia, complicated by a humerus fracture, and one due to persistent pulmonary hypertension.",
+            "Two women, one in each group, delivered their babies at other hospitals than St. Olavs Hospital, and we therefore have missing data on their outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "No significant differences between groups were seen in length of hospital stay, mode of delivery, or perineal tears. Approximately 2/3 of the women in both groups had a normal delivery (Table 2) . No women in the exercise group and two women in the control group had preeclampsia (p = 0.24).",
+        "section": "Maternal outcomes",
+        "section_number": 25,
+        "sentences": [
+            "No significant differences between groups were seen in length of hospital stay, mode of delivery, or perineal tears.",
+            "Approximately 2/3 of the women in both groups had a normal delivery (Table 2) .",
+            "No women in the exercise group and two women in the control group had preeclampsia (p = 0.24)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We did secondary analyses controlling for parity and gestational age and found no statistically significant difference between groups. We also analysed possible associations between BMI at Table 1 . Neonatal outcomes at delivery for the exercise-and the control group. Continuous data is presented as mean and standard deviation (SD) with comparison between groups as mean difference with 95% confidence interval (CI) and p-value. Dichotomous data is presented as number (n) and percent (%) and comparison between groups as odds ratio (OR), with 95% CI and p-value. early pregnancy with birth weight and risk for caesarean delivery and found no statistically significant associations.",
+        "section": "Additional analyses",
+        "section_number": 26,
+        "sentences": [
+            "We did secondary analyses controlling for parity and gestational age and found no statistically significant difference between groups.",
+            "We also analysed possible associations between BMI at Table 1 .",
+            "Neonatal outcomes at delivery for the exercise-and the control group.",
+            "Continuous data is presented as mean and standard deviation (SD) with comparison between groups as mean difference with 95% confidence interval (CI) and p-value.",
+            "Dichotomous data is presented as number (n) and percent (%) and comparison between groups as odds ratio (OR), with 95% CI and p-value.",
+            "early pregnancy with birth weight and risk for caesarean delivery and found no statistically significant associations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "In secondary per protocol analyses we compared the control group to the women in the exercise group who adhered to the exercise protocol (n = 19, 50%). No significant differences in birth weight between exercise (3742 g \u00b1 652) and control groups (3912 g \u00b1 413), p = 0.24 were observed (S1 Table) . There were no significant differences between groups in any other maternal and neonatal outcomes in the per protocol analysis (S1 and S2 Tables).",
+        "section": "Neonatal outcomes",
+        "section_number": 27,
+        "sentences": [
+            "In secondary per protocol analyses we compared the control group to the women in the exercise group who adhered to the exercise protocol (n = 19, 50%).",
+            "No significant differences in birth weight between exercise (3742 g \u00b1 652) and control groups (3912 g \u00b1 413), p = 0.24 were observed (S1 Table) .",
+            "There were no significant differences between groups in any other maternal and neonatal outcomes in the per protocol analysis (S1 and S2 Tables)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We found no effect of regular supervised exercise training during pregnancy on birth weight, body composition, or size of the neonate. Furthermore, we observed no between-group differences in any other maternal or neonatal outcomes at delivery.",
+        "section": "Main findings",
+        "section_number": 28,
+        "sentences": [
+            "We found no effect of regular supervised exercise training during pregnancy on birth weight, body composition, or size of the neonate.",
+            "Furthermore, we observed no between-group differences in any other maternal or neonatal outcomes at delivery."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We found no difference between groups in neonatal birth weight, body surface area or body composition. This is in line with several other studies [18, 21, 37, 38] and confirmed by two recent systematic reviews [23, 24] . However, Barakat and colleagues [39] found a 2.5 times higher risk of macrosomia in women allocated to a control group compared to women who adhered to ! 80% to a supervised exercise program of three weekly sessions during pregnancy. In line with this, Hopkins et al. [36] observed significantly lower birth weight among babies born to women who exercised during pregnancy. Both these studies included women of all BMI categories. We observed a tendency of higher prevalence of children with birth weight > 4000 g in the control group, but the difference was not statistically significant. This finding is supported by a meta-analysis of 5278 newborns born to women in all BMI categories, in which a lower prevalence of macrosomia, despite no difference in birth weight, was observed in women who followed a lifestyle intervention program in pregnancy [40] . Of note, about 50% of the children born to women in the control group had birth weight > 4000 g. Babies with birth weight ! 4000 g are at increased risk for birth complications, childhood obesity, adult obesity, and future metabolic syndrome, compared to babies with birth weight 2500-4000 g [41] . Table 2 . Maternal outcomes at delivery for the exercise-and the control group. Continuous data is presented as mean and standard deviation (SD), with comparison between groups are as mean difference with 95% confidence interval (CI) and p-value. Dichotomous data is presented as number (n) and percent (%), with comparison between groups as odds ratio (OR), with 95% CI and p-value. Comparing the intervention protocol in the ETIP trial to exercise interventions in other randomised trials shows that many studies, as the ETIP trial, base their protocol on the American College of Obstetricians and Gynaecologists [29] recommendations for physical activity during pregnancy. Data from overweight and obese women in comparable RCTs of Barakat et al. [42] and Nascimento et al. [43] , showed no effect on neonatal birth weight. Exercise interventions showing most effect on neonatal birth weight are characterized by including all weight classes [21, 42, 44, 45] , and by including the participants early in pregnancy (gestational week 6-13) [42, 45] , or by high frequency of exercise sessions (five times per week) [44] . Most RCTs on exercise training in pregnancy make use a combination of endurance training at light to moderate intensity, and resistance training, with duration of the sessions of 45-60 minutes two-three times per week until gestational week 36-38. The amount, intensity and duration of exercise in the ETIP trial are in line with several other randomised controlled trials on exercise in pregnancy, however, the mean inclusion time (gestational week) was higher (16.4) in the ETIP trial, and thus decreases the number of weeks of exercise during the pregnancy.",
+        "section": "Neonatal outcomes",
+        "section_number": 29,
+        "sentences": [
+            "We found no difference between groups in neonatal birth weight, body surface area or body composition.",
+            "This is in line with several other studies [18, 21, 37, 38] and confirmed by two recent systematic reviews [23, 24] .",
+            "However, Barakat and colleagues [39] found a 2.5 times higher risk of macrosomia in women allocated to a control group compared to women who adhered to !",
+            "80% to a supervised exercise program of three weekly sessions during pregnancy.",
+            "In line with this, Hopkins et al. [36] observed significantly lower birth weight among babies born to women who exercised during pregnancy.",
+            "Both these studies included women of all BMI categories.",
+            "We observed a tendency of higher prevalence of children with birth weight > 4000 g in the control group, but the difference was not statistically significant.",
+            "This finding is supported by a meta-analysis of 5278 newborns born to women in all BMI categories, in which a lower prevalence of macrosomia, despite no difference in birth weight, was observed in women who followed a lifestyle intervention program in pregnancy [40] .",
+            "Of note, about 50% of the children born to women in the control group had birth weight > 4000 g. Babies with birth weight !",
+            "4000 g are at increased risk for birth complications, childhood obesity, adult obesity, and future metabolic syndrome, compared to babies with birth weight 2500-4000 g [41] .",
+            "Table 2 .",
+            "Maternal outcomes at delivery for the exercise-and the control group.",
+            "Continuous data is presented as mean and standard deviation (SD), with comparison between groups are as mean difference with 95% confidence interval (CI) and p-value.",
+            "Dichotomous data is presented as number (n) and percent (%), with comparison between groups as odds ratio (OR), with 95% CI and p-value.",
+            "Comparing the intervention protocol in the ETIP trial to exercise interventions in other randomised trials shows that many studies, as the ETIP trial, base their protocol on the American College of Obstetricians and Gynaecologists [29] recommendations for physical activity during pregnancy.",
+            "Data from overweight and obese women in comparable RCTs of Barakat et al. [42] and Nascimento et al. [43] , showed no effect on neonatal birth weight.",
+            "Exercise interventions showing most effect on neonatal birth weight are characterized by including all weight classes [21, 42, 44, 45] , and by including the participants early in pregnancy (gestational week 6-13) [42, 45] , or by high frequency of exercise sessions (five times per week) [44] .",
+            "Most RCTs on exercise training in pregnancy make use a combination of endurance training at light to moderate intensity, and resistance training, with duration of the sessions of 45-60 minutes two-three times per week until gestational week 36-38.",
+            "The amount, intensity and duration of exercise in the ETIP trial are in line with several other randomised controlled trials on exercise in pregnancy, however, the mean inclusion time (gestational week) was higher (16.4) in the ETIP trial, and thus decreases the number of weeks of exercise during the pregnancy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We observed a borderline statistically significant difference in PWR between groups (p = 0.08), with means in both groups within the normal range of PWR [46] . We prefer not to speculate too much around a non-significant result, but placental weight is a measure that can reflect several aspects of foetal growth. Furthermore, both low and high PWR can predict adverse neonatal outcomes at delivery [47] , and high PWR has been found to associate with increased risk of obesity and cardiovascular disease later in life [48] [49] [50] .",
+        "section": "Maternal Outcomes",
+        "section_number": 30,
+        "sentences": [
+            "We observed a borderline statistically significant difference in PWR between groups (p = 0.08), with means in both groups within the normal range of PWR [46] .",
+            "We prefer not to speculate too much around a non-significant result, but placental weight is a measure that can reflect several aspects of foetal growth.",
+            "Furthermore, both low and high PWR can predict adverse neonatal outcomes at delivery [47] , and high PWR has been found to associate with increased risk of obesity and cardiovascular disease later in life [48] [49] [50] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We found no differences between groups in neonatal outcomes at delivery. This is in line with several other studies reporting no effects of exercise-or lifestyle (combining diet and exercise) interventions during pregnancy on Apgar score or head circumference [21, 37, 51] . Haakstad & B\u00f8 [21] observed higher mean Apgar scores at 1 minute, but not at 5 minutes, among newborns born to women allocated to training in a randomised controlled trial of 105 women. This was observed in a per protocol analysis and not in the intention-to treat analysis, and Apgar score at 5 minutes is considered a better sign of newborn wellbeing than Apgar score at 1 minute [52, 53] .",
+        "section": "Maternal Outcomes",
+        "section_number": 31,
+        "sentences": [
+            "We found no differences between groups in neonatal outcomes at delivery.",
+            "This is in line with several other studies reporting no effects of exercise-or lifestyle (combining diet and exercise) interventions during pregnancy on Apgar score or head circumference [21, 37, 51] .",
+            "Haakstad & B\u00f8 [21] observed higher mean Apgar scores at 1 minute, but not at 5 minutes, among newborns born to women allocated to training in a randomised controlled trial of 105 women.",
+            "This was observed in a per protocol analysis and not in the intention-to treat analysis, and Apgar score at 5 minutes is considered a better sign of newborn wellbeing than Apgar score at 1 minute [52, 53] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Most women had a normal vaginal delivery, and we observed no significant effect of exercise training on mode of delivery. A meta-analysis of 10 trials with a total of 3160 women found more normal deliveries among healthy regularly exercising pregnant women in all BMI categories [19] . However, a meta-analysis and systematic review of 6 RCTs (n = 2762) of combined diet and exercise intervention during pregnancy among overweight and obese women found no effect on mode of delivery [23] .",
+        "section": "Maternal outcomes",
+        "section_number": 32,
+        "sentences": [
+            "Most women had a normal vaginal delivery, and we observed no significant effect of exercise training on mode of delivery.",
+            "A meta-analysis of 10 trials with a total of 3160 women found more normal deliveries among healthy regularly exercising pregnant women in all BMI categories [19] .",
+            "However, a meta-analysis and systematic review of 6 RCTs (n = 2762) of combined diet and exercise intervention during pregnancy among overweight and obese women found no effect on mode of delivery [23] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The exercise intervention in our trial included supervised training sessions. Supervised training sessions are important for compliance and effect of the intervention [54] . We used exercise as the only intervention, thereby enabling us to assess the isolated effects of exercise training on the reported outcomes. We included previously sedentary women with a BMI of 28 or more in the trial, hence our study population can be considered homogeneous. All data regarding delivery information was collected from patients' records at St. Olavs Hospital, and the records were assessed by personnel blinded for allocation. We also regard the additional measurements of skinfold thickness, body surface area and abdominal circumference as strengths to our study.",
+        "section": "Strengths",
+        "section_number": 33,
+        "sentences": [
+            "The exercise intervention in our trial included supervised training sessions.",
+            "Supervised training sessions are important for compliance and effect of the intervention [54] .",
+            "We used exercise as the only intervention, thereby enabling us to assess the isolated effects of exercise training on the reported outcomes.",
+            "We included previously sedentary women with a BMI of 28 or more in the trial, hence our study population can be considered homogeneous.",
+            "All data regarding delivery information was collected from patients' records at St. Olavs Hospital, and the records were assessed by personnel blinded for allocation.",
+            "We also regard the additional measurements of skinfold thickness, body surface area and abdominal circumference as strengths to our study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The main limitation of our trial is the small number of participants and hence the risk for statistical type 2 error. We planned to include 150 women in the ETIP trial [27] , however ended up with 91 randomised women after a prolonged inclusion time. Furthermore, since only 50% of the women adhered to the training protocol, potential effects of the intervention may be undetected. However, the adherence to protocol was similar to other comparable trials on effects of lifestyle changes in pregnancy. When interpreting the per protocol analysis, care must be taken due to the risk of selection bias as compliance with the exercise program could be associated with other prognostic factors.",
+        "section": "Limitations",
+        "section_number": 34,
+        "sentences": [
+            "The main limitation of our trial is the small number of participants and hence the risk for statistical type 2 error.",
+            "We planned to include 150 women in the ETIP trial [27] , however ended up with 91 randomised women after a prolonged inclusion time.",
+            "Furthermore, since only 50% of the women adhered to the training protocol, potential effects of the intervention may be undetected.",
+            "However, the adherence to protocol was similar to other comparable trials on effects of lifestyle changes in pregnancy.",
+            "When interpreting the per protocol analysis, care must be taken due to the risk of selection bias as compliance with the exercise program could be associated with other prognostic factors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "To accommodate slow recruitment to the trial, we prolonged the time limit for inclusion in the trial with two weeks (until pregnancy week 18). This reduced the time for training adaptations to occur, and may have reduced the chance for detecting effects of the intervention. In addition, we changed pre-pregnancy BMI limit from ! 30.0 to ! 28.0 kg/m 2 , and thereby including five overweight women in the analysis at delivery. This change to the protocol may have affected the homogeneity of the trial population, reduced the mean BMI in both groups, and thereby somewhat reduced the risk for adverse events. We argue, however, that including five women with a BMI between 28.0 and 30.0 kg/m 2 will not be of major importance for the interpretation of our results.",
+        "section": "Limitations",
+        "section_number": 35,
+        "sentences": [
+            "To accommodate slow recruitment to the trial, we prolonged the time limit for inclusion in the trial with two weeks (until pregnancy week 18).",
+            "This reduced the time for training adaptations to occur, and may have reduced the chance for detecting effects of the intervention.",
+            "In addition, we changed pre-pregnancy BMI limit from !",
+            "30.0 to !",
+            "28.0 kg/m 2 , and thereby including five overweight women in the analysis at delivery.",
+            "This change to the protocol may have affected the homogeneity of the trial population, reduced the mean BMI in both groups, and thereby somewhat reduced the risk for adverse events.",
+            "We argue, however, that including five women with a BMI between 28.0 and 30.0 kg/m 2 will not be of major importance for the interpretation of our results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Further, the control group attended quite comprehensive health assessments during the pregnancy, and therefore may have increased their awareness of healthy living during the pregnancy.",
+        "section": "Limitations",
+        "section_number": 36,
+        "sentences": [
+            "Further, the control group attended quite comprehensive health assessments during the pregnancy, and therefore may have increased their awareness of healthy living during the pregnancy."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We acknowledge that not providing any information regarding the participants' diet during the pregnancy is a limitation. Maternal nutrition may be a confounding factor due to its effect on both neonatal and maternal outcomes. We can assume that the women in the exercise group would be extra motivated for eating healthy as part of a more healthy lifestyle. On the other side, they could also compensate for the energy expended through exercise by eating more [55] .",
+        "section": "Limitations",
+        "section_number": 37,
+        "sentences": [
+            "We acknowledge that not providing any information regarding the participants' diet during the pregnancy is a limitation.",
+            "Maternal nutrition may be a confounding factor due to its effect on both neonatal and maternal outcomes.",
+            "We can assume that the women in the exercise group would be extra motivated for eating healthy as part of a more healthy lifestyle.",
+            "On the other side, they could also compensate for the energy expended through exercise by eating more [55] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Measurement of neonatal skinfold thickness was non-blinded and may have introduced bias to the data on the effect of exercise on body composition. Interpretation must be done with caution.",
+        "section": "Limitations",
+        "section_number": 38,
+        "sentences": [
+            "Measurement of neonatal skinfold thickness was non-blinded and may have introduced bias to the data on the effect of exercise on body composition.",
+            "Interpretation must be done with caution."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The ETIP trial had few exclusion criteria, and offered training sessions at different times of the day, indicating that a large proportion of pregnant women could volunteer for participation. We included about 10% of eligible women with BMI ! 28 in the area of St. Olavs Hospital, which is a similar inclusion rate as a previous RCT (TRIP trial) on exercise in pregnancy conducted in the same area a few years earlier [56] . These women were found to be representative for the population of pregnant women, and it is likely that this responds to the ETIP trial too. However, it is possible that the women recruited to the ETIP trial were extra aware of the possible benefits of lifestyle changes on maternal and neonatal health, and therefore more motivated to exercise during pregnancy compared to women who did not volunteer for this trial.",
+        "section": "Generalisability",
+        "section_number": 39,
+        "sentences": [
+            "The ETIP trial had few exclusion criteria, and offered training sessions at different times of the day, indicating that a large proportion of pregnant women could volunteer for participation.",
+            "We included about 10% of eligible women with BMI !",
+            "28 in the area of St. Olavs Hospital, which is a similar inclusion rate as a previous RCT (TRIP trial) on exercise in pregnancy conducted in the same area a few years earlier [56] .",
+            "These women were found to be representative for the population of pregnant women, and it is likely that this responds to the ETIP trial too.",
+            "However, it is possible that the women recruited to the ETIP trial were extra aware of the possible benefits of lifestyle changes on maternal and neonatal health, and therefore more motivated to exercise during pregnancy compared to women who did not volunteer for this trial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Comparison between the results from the current trial and data from large cohort studies [57] [58] [59] on women with pre-pregnancy obesity shows that the number of adverse outcomes in our control group was low and indicates that we had a quite healthy study population in the ETIP trial.",
+        "section": "Generalisability",
+        "section_number": 40,
+        "sentences": [
+            "Comparison between the results from the current trial and data from large cohort studies [57] [58] [59] on women with pre-pregnancy obesity shows that the number of adverse outcomes in our control group was low and indicates that we had a quite healthy study population in the ETIP trial."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "The number of obese pregnant women is increasing. Thus, we urgently need to establish strategies to prevent associated risk factors. The intervention used in the ETIP trial was based on recommendations for physical activity during pregnancy and involved an exercise program that can easily be performed individually or in groups, at home or supervised, without any equipment.",
+        "section": "Clinical relevance",
+        "section_number": 41,
+        "sentences": [
+            "The number of obese pregnant women is increasing.",
+            "Thus, we urgently need to establish strategies to prevent associated risk factors.",
+            "The intervention used in the ETIP trial was based on recommendations for physical activity during pregnancy and involved an exercise program that can easily be performed individually or in groups, at home or supervised, without any equipment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "There were no adverse events in our trial related to the exercise intervention. Some previous studies have reported high risk of preterm delivery associated with exercise during pregnancy [60] , but a recent meta-analysis did not find any association between aerobic exercise for 35-90 minutes 3-4 times per week and increased risk of preterm birth [61] . In the current trial two women in the exercise group had a preterm delivery, and we found no indication of this being related to participating in the exercise program. The majority of the women in this trial had a normal delivery, and the rate of caesarean delivery was relatively low.",
+        "section": "Clinical relevance",
+        "section_number": 42,
+        "sentences": [
+            "There were no adverse events in our trial related to the exercise intervention.",
+            "Some previous studies have reported high risk of preterm delivery associated with exercise during pregnancy [60] , but a recent meta-analysis did not find any association between aerobic exercise for 35-90 minutes 3-4 times per week and increased risk of preterm birth [61] .",
+            "In the current trial two women in the exercise group had a preterm delivery, and we found no indication of this being related to participating in the exercise program.",
+            "The majority of the women in this trial had a normal delivery, and the rate of caesarean delivery was relatively low."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "We found no effect of offering regularly supervised exercise training during pregnancy on birth weight or body size of neonates born to women with a pre-pregnancy body mass index of 28 kg/m 2 or more. The intervention program had no impact on other neonatal and maternal outcomes at delivery. Our trial was limited by small sample size and low adherence to the exercise protocol. We need larger, well-designed RCTs to further investigate the effect of exercise training on neonatal and maternal outcomes in this population.",
+        "section": "Conclusions",
+        "section_number": 43,
+        "sentences": [
+            "We found no effect of offering regularly supervised exercise training during pregnancy on birth weight or body size of neonates born to women with a pre-pregnancy body mass index of 28 kg/m 2 or more.",
+            "The intervention program had no impact on other neonatal and maternal outcomes at delivery.",
+            "Our trial was limited by small sample size and low adherence to the exercise protocol.",
+            "We need larger, well-designed RCTs to further investigate the effect of exercise training on neonatal and maternal outcomes in this population."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "Supporting information S1 Table. Supplementary Table 1 . Neonatal outcomes at delivery for the per-protocol exercise group and the control group. Continuous data is presented as mean and standard deviation (SD) with comparison between groups as mean difference with 95% confidence interval (CI) and p-value. Dichotomous data is presented as number (n) and percent (%) and comparison between groups as odds ratio (OR), with 95% confidence interval (CI) and p-value. (DOCX) S2 Table. Supplementary Table 2 . Maternal outcomes at delivery for the per-protocol exercise group and the control group. Continuous data is presented as mean and standard deviation (SD), with comparison between groups are as mean difference with 95% confidence interval (CI) and p-value. Dichotomous data is presented as number (n) and percent (%), with comparison between groups as odds ratio (OR), with 95% confidence interval (CI) and p-value. (DOCX) S3 Table. Supplementary Table 3 . Baseline characteristics of all women included in the ETIP study. (DOCX)",
+        "section": "Conclusions",
+        "section_number": 44,
+        "sentences": [
+            "Supporting information S1 Table.",
+            "Supplementary Table 1 .",
+            "Neonatal outcomes at delivery for the per-protocol exercise group and the control group.",
+            "Continuous data is presented as mean and standard deviation (SD) with comparison between groups as mean difference with 95% confidence interval (CI) and p-value.",
+            "Dichotomous data is presented as number (n) and percent (%) and comparison between groups as odds ratio (OR), with 95% confidence interval (CI) and p-value. (",
+            "DOCX) S2 Table.",
+            "Supplementary Table 2 .",
+            "Maternal outcomes at delivery for the per-protocol exercise group and the control group.",
+            "Continuous data is presented as mean and standard deviation (SD), with comparison between groups are as mean difference with 95% confidence interval (CI) and p-value.",
+            "Dichotomous data is presented as number (n) and percent (%), with comparison between groups as odds ratio (OR), with 95% confidence interval (CI) and p-value. (",
+            "DOCX) S3 Table.",
+            "Supplementary Table 3 .",
+            "Baseline characteristics of all women included in the ETIP study. (",
+            "DOCX)"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "39758",
+        "text": "PLOS ONE | https://doi.org/10.1371/journal.pone.0173937 March 21, 2017",
+        "section": "",
+        "section_number": 45,
+        "sentences": [
+            "PLOS ONE | https://doi.org/10.1371/journal.pone.0173937 March 21, 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

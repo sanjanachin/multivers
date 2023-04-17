@@ -1,0 +1,882 @@
+[
+    {
+        "doc_id": "34560",
+        "text": "Background: Depression often starts in adolescence making it an ideal time to intervene. We developed a universal cognitive behavioural therapy-based programme (MEMO CBT) to be delivered via multimedia mobile phone messages for teens. Methods: We conducted a prospective multicentre, randomised, placebo-controlled superiority trial in 15 high schools in Auckland, New Zealand, comparing MEMO CBT with a control programme [MEMO control] matched for intensity and type of message but with alternative content not targeting depression. The primary outcome was the change in score on the Children's Depression Rating Scale-Revised from baseline to 12 months. Secondary outcomes included the change in scores in the self-reported Reynold's Adolescent Depression Rating Scale-Second Edition, the Moods and Feelings Questionnaire, suicidal ideation using selected items from the Youth Risk Behaviour Survey, the Pediatric Quality of Life questionnaire, 12-month period prevalence of the diagnosis of depressive disorder using the Kiddie-Schedule for Affective Disorders and Schizophrenia, and students' ratings of their satisfaction with the programme. Results: Eight hundred and fifty-five students (13-17 years old, mean 14.3 years) were randomly assigned to MEMO CBT (426) or to MEMO Control (429). Participants (68% female) had a mean CDRS-R at baseline of 21.5 (SD: 5). Overall 394 (93%) from the intervention group and 392 (91%) from the control group were followed up at 12 months. At the end of the intervention (approximately 9 weeks) the mean CDRS-R scores were 20.8 in the intervention group versus 20.4 in the control group, and at 12 months they were 22.4 versus 22.4 (p value for difference in change from baseline = 0.3). There was no obvious association between the amount of the intervention viewed by participants and outcomes. Conclusions: There was no evidence of benefit from the mobile phone CBT intervention compared with a control programme. Universal depression prevention remains a challenge.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Depression often starts in adolescence making it an ideal time to intervene.",
+            "We developed a universal cognitive behavioural therapy-based programme (MEMO CBT) to be delivered via multimedia mobile phone messages for teens.",
+            "Methods: We conducted a prospective multicentre, randomised, placebo-controlled superiority trial in 15 high schools in Auckland, New Zealand, comparing MEMO CBT with a control programme [MEMO control] matched for intensity and type of message but with alternative content not targeting depression.",
+            "The primary outcome was the change in score on the Children's Depression Rating Scale-Revised from baseline to 12 months.",
+            "Secondary outcomes included the change in scores in the self-reported Reynold's Adolescent Depression Rating Scale-Second Edition, the Moods and Feelings Questionnaire, suicidal ideation using selected items from the Youth Risk Behaviour Survey, the Pediatric Quality of Life questionnaire, 12-month period prevalence of the diagnosis of depressive disorder using the Kiddie-Schedule for Affective Disorders and Schizophrenia, and students' ratings of their satisfaction with the programme.",
+            "Results: Eight hundred and fifty-five students (13-17 years old, mean 14.3 years) were randomly assigned to MEMO CBT (426) or to MEMO Control (429).",
+            "Participants (68% female) had a mean CDRS-R at baseline of 21.5 (SD: 5).",
+            "Overall 394 (93%) from the intervention group and 392 (91%) from the control group were followed up at 12 months.",
+            "At the end of the intervention (approximately 9 weeks) the mean CDRS-R scores were 20.8 in the intervention group versus 20.4 in the control group, and at 12 months they were 22.4 versus 22.4 (p value for difference in change from baseline = 0.3).",
+            "There was no obvious association between the amount of the intervention viewed by participants and outcomes.",
+            "Conclusions: There was no evidence of benefit from the mobile phone CBT intervention compared with a control programme.",
+            "Universal depression prevention remains a challenge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Mobile phone-based programmes have been shown to be an effective support for healthy behaviour change (Free et al., 2013) , particularly for smoking cessation (Whittaker, McRobbie, Bullen, Rodgers, & Gu, 2016) . Using mobile phones in mental health is a field that is rapidly growing. 'Mobile devices are not only helping to bridge the digital divide for socioeconomic groups who cannot afford to own computers, but, within the next 10 years, they will help to bridge the health divide for underserved and hard-to-reach populations' (Proudfoot, 2013) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Mobile phone-based programmes have been shown to be an effective support for healthy behaviour change (Free et al., 2013) , particularly for smoking cessation (Whittaker, McRobbie, Bullen, Rodgers, & Gu, 2016) .",
+            "Using mobile phones in mental health is a field that is rapidly growing. '",
+            "Mobile devices are not only helping to bridge the digital divide for socioeconomic groups who cannot afford to own computers, but, within the next 10 years, they will help to bridge the health divide for underserved and hard-to-reach populations' (Proudfoot, 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "This paper describes a randomised, placebo-controlled trial of a multimedia mobile phone programme designed to prevent the onset of depression. Depression often starts in adolescence, making it the ideal time to try to prevent its onset. Teaching adolescents cognitive skills and techniques to manage the way they think in order to manage their mood (from Cognitive Behavioural Therapy, CBT) may be useful for all regardless of risk. Therefore, we developed a universal prevention programme (i.e. not targeted at 'at risk' teens but available to all), which also ensures no stigmatisation or consequences of labelling people as high risk.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "This paper describes a randomised, placebo-controlled trial of a multimedia mobile phone programme designed to prevent the onset of depression.",
+            "Depression often starts in adolescence, making it the ideal time to try to prevent its onset.",
+            "Teaching adolescents cognitive skills and techniques to manage the way they think in order to manage their mood (from Cognitive Behavioural Therapy, CBT) may be useful for all regardless of risk.",
+            "Therefore, we developed a universal prevention programme (i.e. not targeted at 'at risk' teens but available to all), which also ensures no stigmatisation or consequences of labelling people as high risk."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "A review of mobile mental health studies identified six programmes with early published research (Harrison et al., 2011) . These include a programme to track mood, coping strategies and lifestyle factors in adolescents (Reid et al., 2009) , a mobile and web behavioural activation programme to monitor mood, link mood with activities and send feedback to enhance mood (Both, Hoogendoorn, Klein, & Treur, 2009) , a touch screen mood map and physiological sensors (heart rate) linked to positive psychologybased feedback to promote emotional self-awareness and reduce stress (Morris et al., 2010) , an SMS intervention to monitor symptoms and provide feedback to patients with bulimia nervosa (Bauer, Hagel, Okon, Meermann, & Kordy, 2006; Robinson et al., 2006; Shapiro et al., 2010) , and a self-monitoring and CBT-based self-management programme for a variety of conditions (Harrison et al., 2011) . These were predominantly small pilot and feasibility studies. A more recent review showed increased use of text messaging for a variety of conditions including substance abuse, schizophrenia and affective disorders (Berrouiguet, Baca-Garc \u0131a, Brandt, Walter, & Courtet, 2016) . The messages were used to deliver reminders, provide information, send supportive messages and provide a means for self-monitoring. The potential for the delivery of mental health care using mobile phone technology is considerable but research to support the belief that this is an effective way of delivering mental healthcare is yet to be developed (Donker et al., 2013) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "A review of mobile mental health studies identified six programmes with early published research (Harrison et al., 2011) .",
+            "These include a programme to track mood, coping strategies and lifestyle factors in adolescents (Reid et al., 2009) , a mobile and web behavioural activation programme to monitor mood, link mood with activities and send feedback to enhance mood (Both, Hoogendoorn, Klein, & Treur, 2009) , a touch screen mood map and physiological sensors (heart rate) linked to positive psychologybased feedback to promote emotional self-awareness and reduce stress (Morris et al., 2010) , an SMS intervention to monitor symptoms and provide feedback to patients with bulimia nervosa (Bauer, Hagel, Okon, Meermann, & Kordy, 2006; Robinson et al., 2006; Shapiro et al., 2010) , and a self-monitoring and CBT-based self-management programme for a variety of conditions (Harrison et al., 2011) .",
+            "These were predominantly small pilot and feasibility studies.",
+            "A more recent review showed increased use of text messaging for a variety of conditions including substance abuse, schizophrenia and affective disorders (Berrouiguet, Baca-Garc \u0131a, Brandt, Walter, & Courtet, 2016) .",
+            "The messages were used to deliver reminders, provide information, send supportive messages and provide a means for self-monitoring.",
+            "The potential for the delivery of mental health care using mobile phone technology is considerable but research to support the belief that this is an effective way of delivering mental healthcare is yet to be developed (Donker et al., 2013) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "The use of mobile phones to deliver programmes to adolescents is obvious due to their widespread use among this age group. In many populations mobile phones are the main means of communication between adolescents, and their phone is constantly with them. Mobile phones allow some degree of respect for an adolescent's choice to participate or not, and a common desire for confidentiality and anonymityfactors that have been expressed as important for teens in health programmes (Whittaker, 2011) . Video capability on mobile phones provide a method to address another common teen request that such programmes involve peers who have been in their current situation. However, there is danger that enthusiasm for the medium outweighs the evidence. In a recent systematic review, 3,000 mental health apps were identified, of which only two had been tested for clinical efficacy and a further three had been tested but were not available to the public (Donker et al., 2013) . There are challenges in conducting research in this rapidly moving field but it is important to ensure that interventions are developed with a clear underlying theoretical framework and robust measures of outcomes (Mohr et al., 2015) .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "The use of mobile phones to deliver programmes to adolescents is obvious due to their widespread use among this age group.",
+            "In many populations mobile phones are the main means of communication between adolescents, and their phone is constantly with them.",
+            "Mobile phones allow some degree of respect for an adolescent's choice to participate or not, and a common desire for confidentiality and anonymityfactors that have been expressed as important for teens in health programmes (Whittaker, 2011) .",
+            "Video capability on mobile phones provide a method to address another common teen request that such programmes involve peers who have been in their current situation.",
+            "However, there is danger that enthusiasm for the medium outweighs the evidence.",
+            "In a recent systematic review, 3,000 mental health apps were identified, of which only two had been tested for clinical efficacy and a further three had been tested but were not available to the public (Donker et al., 2013) .",
+            "There are challenges in conducting research in this rapidly moving field but it is important to ensure that interventions are developed with a clear underlying theoretical framework and robust measures of outcomes (Mohr et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "The primary aim of this trial was to determine whether adolescents receiving a multimedia mobile phone depression prevention intervention would have fewer depressive symptoms at 12-month follow-up compared with adolescents on a control programme. Our primary hypothesis was that participants who had received the cognitive behaviour therapy-based programme (MEMO-CBT) would have fewer depressive symptoms compared with those receiving an attention control programme (MEMOcontrol). Our secondary hypotheses were that MEMO-CBT would result in an improved quality of life, fewer symptoms on self-rated depression scales, and fewer diagnoses of depression at 12 months compared with MEMO-control.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "The primary aim of this trial was to determine whether adolescents receiving a multimedia mobile phone depression prevention intervention would have fewer depressive symptoms at 12-month follow-up compared with adolescents on a control programme.",
+            "Our primary hypothesis was that participants who had received the cognitive behaviour therapy-based programme (MEMO-CBT) would have fewer depressive symptoms compared with those receiving an attention control programme (MEMOcontrol).",
+            "Our secondary hypotheses were that MEMO-CBT would result in an improved quality of life, fewer symptoms on self-rated depression scales, and fewer diagnoses of depression at 12 months compared with MEMO-control."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "We conducted a prospective double-blind, placebo-controlled, randomised trial in 15 secondary schools across the Auckland region of New Zealand to compare MEMO-CBT with MEMOcontrol. Trial registration: Australian New Zealand Clinical Trials ACTRN12609000405213.",
+        "section": "Trial design",
+        "section_number": 6,
+        "sentences": [
+            "We conducted a prospective double-blind, placebo-controlled, randomised trial in 15 secondary schools across the Auckland region of New Zealand to compare MEMO-CBT with MEMOcontrol.",
+            "Trial registration: Australian New Zealand Clinical Trials ACTRN12609000405213."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Outcome data were collected at baseline, postintervention (9 weeks) and at follow-up 12 months after the start of the intervention. Satisfaction with the intervention or control programme was rated postintervention and at follow-up. The only change to methods after the trial started was a change in sample size (described below). Participants were enrolled in the trial according to the inclusion and exclusion criteria in Table 1 .",
+        "section": "Trial design",
+        "section_number": 7,
+        "sentences": [
+            "Outcome data were collected at baseline, postintervention (9 weeks) and at follow-up 12 months after the start of the intervention.",
+            "Satisfaction with the intervention or control programme was rated postintervention and at follow-up.",
+            "The only change to methods after the trial started was a change in sample size (described below).",
+            "Participants were enrolled in the trial according to the inclusion and exclusion criteria in Table 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Principals of participating schools provided written informed consent for the research team to approach their students and agreed an approach that would be suitable for their schools. Before the research team approached students, participant information was provided to all parents of potential participants, which included details on how to opt their child out of the study if desired. One school required written parental consent for participants. Researchers worked closely with the guidance counselling team at each school to refine the study processes to be followed. A risk protocol outlining the procedure for the referral and management of students identified as being at high risk of depressive disorder and/or suicidal ideation was agreed before the commencement of the study. As the research question was about the prevention of the onset of depression, students identified as having a current depressive disorder or clinically significant symptoms before randomisation were excluded from the study and referred to their school guidance counsellor for management according to their standard protocols. Local adolescent mental health services were also made aware of the study and agreed to provide extra backup for the schools if needed.",
+        "section": "Procedure",
+        "section_number": 8,
+        "sentences": [
+            "Principals of participating schools provided written informed consent for the research team to approach their students and agreed an approach that would be suitable for their schools.",
+            "Before the research team approached students, participant information was provided to all parents of potential participants, which included details on how to opt their child out of the study if desired.",
+            "One school required written parental consent for participants.",
+            "Researchers worked closely with the guidance counselling team at each school to refine the study processes to be followed.",
+            "A risk protocol outlining the procedure for the referral and management of students identified as being at high risk of depressive disorder and/or suicidal ideation was agreed before the commencement of the study.",
+            "As the research question was about the prevention of the onset of depression, students identified as having a current depressive disorder or clinically significant symptoms before randomisation were excluded from the study and referred to their school guidance counsellor for management according to their standard protocols.",
+            "Local adolescent mental health services were also made aware of the study and agreed to provide extra backup for the schools if needed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Once this process was complete, the research team introduced the study to students as a mobile phone programme that was about 'living in a positive space'. All students were invited to participate. Those students who were interested were asked to join a small group discussion led by a research assistant to provide more details. All participants were given (Reynolds, 2000) . The baseline RADS-2 data were entered at the study centre within 24 hr and students identified as having current depressive symptoms (score of 76 or higher on the self-completed RADS-2 and/or a high score on four out of the six critical items) and/or at risk of self-harm (question 14 on RADS-2) were immediately referred for assessment and management by the school guidance counsellors. These students were excluded from the study unless the more detailed clinical assessment showed that depression or risk of self-harm was not of clinical concern. Eligible students were then invited to individual interviews with trained research assistants. Interviews lasted approximately 30 min and were conducted during school time in school offices/rooms. The research assistants administered the Child Depression Rating Scale-Revised (CDRS-R; Poznanski & Mokros, 1996) and questions from the Youth Risk Behaviour Survey (YRBS) (Brener et al., 2002) on self-harm. Participants also completed the Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire (PQ-LES-Q; Endicott, Nee, Yang, & Wohlberg, 2006) and the Moods and Feelings Questionnaire (MFQ; Kent, Vostanis, & Feehan, 1997) . If any additional students reported clinically significant symptoms of depression (CDRS-R T score >65) or high suicide risk (CDRS-R question 13 score of 5 or above, or any positive answer to relevant YRBS items) at the interview, the young person was referred to a school counsellor immediately. All other participants were eligible to participate and were randomised. The interview process was repeated postintervention (approximately 9 weeks after baseline) and again at 12-month follow-up. Any students identified at high risk of a depressive disorder or suicide ideation/behaviour during the study (after randomisation) were referred to the school guidance counsellor for additional support and intervention but were not excluded from the study. School guidance counsellors at participating schools were shown the programme and were presented with the findings at the conclusion of the study.",
+        "section": "Procedure",
+        "section_number": 9,
+        "sentences": [
+            "Once this process was complete, the research team introduced the study to students as a mobile phone programme that was about 'living in a positive space'.",
+            "All students were invited to participate.",
+            "Those students who were interested were asked to join a small group discussion led by a research assistant to provide more details.",
+            "All participants were given (Reynolds, 2000) .",
+            "The baseline RADS-2 data were entered at the study centre within 24 hr and students identified as having current depressive symptoms (score of 76 or higher on the self-completed RADS-2 and/or a high score on four out of the six critical items) and/or at risk of self-harm (question 14 on RADS-2) were immediately referred for assessment and management by the school guidance counsellors.",
+            "These students were excluded from the study unless the more detailed clinical assessment showed that depression or risk of self-harm was not of clinical concern.",
+            "Eligible students were then invited to individual interviews with trained research assistants.",
+            "Interviews lasted approximately 30 min and were conducted during school time in school offices/rooms.",
+            "The research assistants administered the Child Depression Rating Scale-Revised (CDRS-R; Poznanski & Mokros, 1996) and questions from the Youth Risk Behaviour Survey (YRBS) (Brener et al., 2002) on self-harm.",
+            "Participants also completed the Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire (PQ-LES-Q; Endicott, Nee, Yang, & Wohlberg, 2006) and the Moods and Feelings Questionnaire (MFQ; Kent, Vostanis, & Feehan, 1997) .",
+            "If any additional students reported clinically significant symptoms of depression (CDRS-R T score >65) or high suicide risk (CDRS-R question 13 score of 5 or above, or any positive answer to relevant YRBS items) at the interview, the young person was referred to a school counsellor immediately.",
+            "All other participants were eligible to participate and were randomised.",
+            "The interview process was repeated postintervention (approximately 9 weeks after baseline) and again at 12-month follow-up.",
+            "Any students identified at high risk of a depressive disorder or suicide ideation/behaviour during the study (after randomisation) were referred to the school guidance counsellor for additional support and intervention but were not excluded from the study.",
+            "School guidance counsellors at participating schools were shown the programme and were presented with the findings at the conclusion of the study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Recruitment began in June 2009 and follow-up was completed in April 2011.",
+        "section": "Procedure",
+        "section_number": 10,
+        "sentences": [
+            "Recruitment began in June 2009 and follow-up was completed in April 2011."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Before randomisation all consented students received the same 9-day 'run-in' programme of daily video and text messages. The intention was to confirm they could receive the programme, mitigate any technical issues, and to allow drop-out of nonparticipating students prior to randomisation. A secondary purpose was to allow for early sharing of messages by students with the intention that, once they realised they were all getting the same messages, they would stop sharing messages and this would reduce the likelihood of contamination between randomised groups.",
+        "section": "Interventions",
+        "section_number": 11,
+        "sentences": [
+            "Before randomisation all consented students received the same 9-day 'run-in' programme of daily video and text messages.",
+            "The intention was to confirm they could receive the programme, mitigate any technical issues, and to allow drop-out of nonparticipating students prior to randomisation.",
+            "A secondary purpose was to allow for early sharing of messages by students with the intention that, once they realised they were all getting the same messages, they would stop sharing messages and this would reduce the likelihood of contamination between randomised groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "The content of the MEMO CBT programme was based on 15 key messages derived from cognitive behavioural therapy (CBT; Whittaker et al., 2012) . The programme was delivered solely over the mobile phone directly to each student in a mix of text messages, video diary messages from six teen actors talking about their lives, video messages from celebrities, and 'mobisodes' of a cartoon about four teens and their dog. Videos were delivered as text messages with a URL (Internet 'address') embedded in it. The contents were specifically designed to appeal to M\u00e3ori and Pasifika adolescents. Participants needed to highlight or click on the URL for the short (<30 s) video to play automatically. Videos were filmed professionally and then reduced to a small file size in order to ensure the clips could be downloaded and played regardless of location or network coverage. This process required Internet access, but due to the support of the mobile network operator (Vodafone NZ Ltd) this was free of charge to all study participants. Most standard mobile phones were capable of receiving the programme. More details on how the intervention was developed have been published (Whittaker et al., 2012) .",
+        "section": "Interventions",
+        "section_number": 12,
+        "sentences": [
+            "The content of the MEMO CBT programme was based on 15 key messages derived from cognitive behavioural therapy (CBT; Whittaker et al., 2012) .",
+            "The programme was delivered solely over the mobile phone directly to each student in a mix of text messages, video diary messages from six teen actors talking about their lives, video messages from celebrities, and 'mobisodes' of a cartoon about four teens and their dog.",
+            "Videos were delivered as text messages with a URL (Internet 'address') embedded in it.",
+            "The contents were specifically designed to appeal to M\u00e3ori and Pasifika adolescents.",
+            "Participants needed to highlight or click on the URL for the short (<30 s) video to play automatically.",
+            "Videos were filmed professionally and then reduced to a small file size in order to ensure the clips could be downloaded and played regardless of location or network coverage.",
+            "This process required Internet access, but due to the support of the mobile network operator (Vodafone NZ Ltd) this was free of charge to all study participants.",
+            "Most standard mobile phones were capable of receiving the programme.",
+            "More details on how the intervention was developed have been published (Whittaker et al., 2012) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "The control programme (MEMO control) consisted of exactly the same number and type of messages, in an attempt to control for the potential placebo effect. We used the same actors and characters in an attempt to reduce contamination between the groups (on the assumption that participants would be less likely to share messages if they thought that everyone was receiving the same programme). The content of MEMO control was about healthy eating, environmental sustainability and cyber safety.",
+        "section": "Interventions",
+        "section_number": 13,
+        "sentences": [
+            "The control programme (MEMO control) consisted of exactly the same number and type of messages, in an attempt to control for the potential placebo effect.",
+            "We used the same actors and characters in an attempt to reduce contamination between the groups (on the assumption that participants would be less likely to share messages if they thought that everyone was receiving the same programme).",
+            "The content of MEMO control was about healthy eating, environmental sustainability and cyber safety."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Both programmes were delivered in two messages each day, outside of school hours, for 9 weeks. After this time, participants could access a summary of the information from their allocated programme via a mobile website. This also contained information on where to go for help. Participants received monthly notifications of new content on the website.",
+        "section": "Interventions",
+        "section_number": 14,
+        "sentences": [
+            "Both programmes were delivered in two messages each day, outside of school hours, for 9 weeks.",
+            "After this time, participants could access a summary of the information from their allocated programme via a mobile website.",
+            "This also contained information on where to go for help.",
+            "Participants received monthly notifications of new content on the website."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "We considered the issue of contamination between groups carefully when planning the study. As students volunteered to take part, we did not have whole classes participating, but we did think it likely that groups of friends might all volunteer together. To mitigate against the risk of contamination via shared messages we sent identical messages for the first 2 weeks when we assumed the chances of sharing messages would be the highest. We ensured that the messages could not be forwarded and we delivered the messages outside school hours. We also asked participants how often they shared messages at follow-up.",
+        "section": "Interventions",
+        "section_number": 15,
+        "sentences": [
+            "We considered the issue of contamination between groups carefully when planning the study.",
+            "As students volunteered to take part, we did not have whole classes participating, but we did think it likely that groups of friends might all volunteer together.",
+            "To mitigate against the risk of contamination via shared messages we sent identical messages for the first 2 weeks when we assumed the chances of sharing messages would be the highest.",
+            "We ensured that the messages could not be forwarded and we delivered the messages outside school hours.",
+            "We also asked participants how often they shared messages at follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Primary outcome measure. The Child Depression Rating Scale-Revised is an observer-rated scale frequently used with adolescents in clinical research (Poznanski & Mokros, 1996) . It is relatively brief and easy to use, and has been shown to demonstrate good internal reliability, test-retest reliability, and concurrent validity with other measures (Myers & Winters, 2002) . Sensitivity to change has been demonstrated (Brooks & Kutcher, 2001 Brener et al., 2002) were used to assess suicidal ideation, plans and behaviour in the preceding 3 months and during the study period 5. The screening section and module on affective disorders from the Kiddie-Schedule for Affective Disorders and Schizophrenia (K-SADS; Kaufman et al., 1997) was used to assess current and 1 year prevalence rates of depressive disorders (according to DSM-IV criteria) at the 12-month follow-up 6. Post-intervention, participants completed a questionnaire developed for this study to assess satisfaction and perceived effects of the allocated intervention. The results from these questionnaires are published elsewhere (Whittaker et al., 2012) Our research assistants were trained in the administration of these measures, in particular the CDRS-R, YRBS and the K-SADS. Inter-rater reliability was checked, and their performance throughout the study was monitored and discussed in regular supervision meetings. An adolescent psychiatrist or clinical psychologist was constantly available (via a roster) to discuss any issues with research assistants or schools.",
+        "section": "Outcome measures",
+        "section_number": 16,
+        "sentences": [
+            "Primary outcome measure.",
+            "The Child Depression Rating Scale-Revised is an observer-rated scale frequently used with adolescents in clinical research (Poznanski & Mokros, 1996) .",
+            "It is relatively brief and easy to use, and has been shown to demonstrate good internal reliability, test-retest reliability, and concurrent validity with other measures (Myers & Winters, 2002) .",
+            "Sensitivity to change has been demonstrated (Brooks & Kutcher, 2001 Brener et al., 2002) were used to assess suicidal ideation, plans and behaviour in the preceding 3 months and during the study period 5.",
+            "The screening section and module on affective disorders from the Kiddie-Schedule for Affective Disorders and Schizophrenia (K-SADS; Kaufman et al., 1997) was used to assess current and 1 year prevalence rates of depressive disorders (according to DSM-IV criteria) at the 12-month follow-up 6.",
+            "Post-intervention, participants completed a questionnaire developed for this study to assess satisfaction and perceived effects of the allocated intervention.",
+            "The results from these questionnaires are published elsewhere (Whittaker et al., 2012) Our research assistants were trained in the administration of these measures, in particular the CDRS-R, YRBS and the K-SADS.",
+            "Inter-rater reliability was checked, and their performance throughout the study was monitored and discussed in regular supervision meetings.",
+            "An adolescent psychiatrist or clinical psychologist was constantly available (via a roster) to discuss any issues with research assistants or schools."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Serious adverse events (SAEs) were identified by questionnaire administered to the participants at the postintervention and final follow-up interviews. School guidance counsellors were also advised to alert the study team to any adverse events occurring between interviews regarding study participants or wider school events that may have affected study participants.",
+        "section": "Adverse events",
+        "section_number": 17,
+        "sentences": [
+            "Serious adverse events (SAEs) were identified by questionnaire administered to the participants at the postintervention and final follow-up interviews.",
+            "School guidance counsellors were also advised to alert the study team to any adverse events occurring between interviews regarding study participants or wider school events that may have affected study participants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Initial sample size calculations were based on results from a previous depression prevention programme in New Zealand (RAP-Kiwi; Merry, McDowellL, Wild, Bir, & Cunliffe, 2004) . We estimated that approximately 1,200 participants would be required to detect a three-point difference in the child depression rating scale-revised (SD = 16) at 12 months with 90% power at p = .05. During the study we recalculated the sample size using the baseline score standard deviation (SD) of our actual participants (using the whole sample). The recalculation showed that a sample of 790 would be sufficient. This included our expected exclusions and drop-outs. Our recruitment drive had taken us over this target but we felt it would be inappropriate to withdraw participation to those who had been offered it.",
+        "section": "Sample size",
+        "section_number": 18,
+        "sentences": [
+            "Initial sample size calculations were based on results from a previous depression prevention programme in New Zealand (RAP-Kiwi; Merry, McDowellL, Wild, Bir, & Cunliffe, 2004) .",
+            "We estimated that approximately 1,200 participants would be required to detect a three-point difference in the child depression rating scale-revised (SD = 16) at 12 months with 90% power at p = .05.",
+            "During the study we recalculated the sample size using the baseline score standard deviation (SD) of our actual participants (using the whole sample).",
+            "The recalculation showed that a sample of 790 would be sufficient.",
+            "This included our expected exclusions and drop-outs.",
+            "Our recruitment drive had taken us over this target but we felt it would be inappropriate to withdraw participation to those who had been offered it."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "On the completion of the run-in phase and baseline data collection, participants were randomised by computer allocation with a minimisation algorithm stratified by sex, ethnicity (divided into those of M aori or Pacific ethnicity and those not of M aori or Pacific ethnicity), and school. Allocation was concealed from all team members dealing with the participants and involved in data collection.",
+        "section": "Randomisation sequence generation",
+        "section_number": 19,
+        "sentences": [
+            "On the completion of the run-in phase and baseline data collection, participants were randomised by computer allocation with a minimisation algorithm stratified by sex, ethnicity (divided into those of M aori or Pacific ethnicity and those not of M aori or Pacific ethnicity), and school.",
+            "Allocation was concealed from all team members dealing with the participants and involved in data collection."
+        ],
+        "sentence_labels": [
+            -1,
+            1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "34560",
+        "text": "The trial was double-blinded. Research assistants who interviewed participants were masked to group allocation and were instructed not to ask questions that could potentially unblind them. All participants were told that they were participating in a programme about 'living in positive space' and both programmes carried that slogan throughout. We would not expect participants to be aware which messages were evidence-based CBT strategies for depression prevention. Our research group was masked to group identity until analyses were complete.",
+        "section": "Blinding",
+        "section_number": 20,
+        "sentences": [
+            "The trial was double-blinded.",
+            "Research assistants who interviewed participants were masked to group allocation and were instructed not to ask questions that could potentially unblind them.",
+            "All participants were told that they were participating in a programme about 'living in positive space' and both programmes carried that slogan throughout.",
+            "We would not expect participants to be aware which messages were evidence-based CBT strategies for depression prevention.",
+            "Our research group was masked to group identity until analyses were complete."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "All analyses were two-tailed and conducted according to a prespecified Statistical Analysis Plan, using SAS version 9.2 (SAS Institute Inc., Cary, NC). Change from baseline in each of the repeated continuous outcomes (CDRS-R, RADS-2 and MFQ) to postintervention and 12-month follow-up were analysed using mixed models regression with an unstructured covariance structure and adjusted for baseline value of the measure. We summarised continuous variables as means (SD) and categorical variables are presented as n (%). Differences between groups for categorical outcomes were analysed using Chi-squared tests or Fishers Exact test. Analyses for the continuous outcomes were conducted using intention-to-treat (ITT) where the last value carried forward (LOCF) approach was used to replace missing 12-month values. Sensitivity analyses were undertaken for the primary outcome (CDRS-R) only including participants with complete data at 12 months (complete case analysis). Per protocol analyses were conducted excluding participants with missing 12-month data and those that did not adhere to the allocated intervention (did not read/ view at least half of the messages). Change from baseline to 12 months in PQ-LES-Q was analysed using linear regression and adjusted for baseline value of the measure. Time to first depressive episode was analysed using Kaplan-Meier curves, the log-rank test, and Cox proportional hazards regression analysis.",
+        "section": "Statistical methods",
+        "section_number": 21,
+        "sentences": [
+            "All analyses were two-tailed and conducted according to a prespecified Statistical Analysis Plan, using SAS version 9.2 (SAS Institute Inc., Cary, NC).",
+            "Change from baseline in each of the repeated continuous outcomes (CDRS-R, RADS-2 and MFQ) to postintervention and 12-month follow-up were analysed using mixed models regression with an unstructured covariance structure and adjusted for baseline value of the measure.",
+            "We summarised continuous variables as means (SD) and categorical variables are presented as n (%).",
+            "Differences between groups for categorical outcomes were analysed using Chi-squared tests or Fishers Exact test.",
+            "Analyses for the continuous outcomes were conducted using intention-to-treat (ITT) where the last value carried forward (LOCF) approach was used to replace missing 12-month values.",
+            "Sensitivity analyses were undertaken for the primary outcome (CDRS-R) only including participants with complete data at 12 months (complete case analysis).",
+            "Per protocol analyses were conducted excluding participants with missing 12-month data and those that did not adhere to the allocated intervention (did not read/ view at least half of the messages).",
+            "Change from baseline to 12 months in PQ-LES-Q was analysed using linear regression and adjusted for baseline value of the measure.",
+            "Time to first depressive episode was analysed using Kaplan-Meier curves, the log-rank test, and Cox proportional hazards regression analysis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "A total of 1,348 students from 15 schools registered their interest in the study and 855 were randomised (Figures 1 and S1) .",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "A total of 1,348 students from 15 schools registered their interest in the study and 855 were randomised (Figures 1 and S1) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Postintervention follow-up rates were 98% in the intervention group and 97% in the control group (Figure 1) , and 92.5% and 91%, respectively, at 12 months. Table 3 shows the baseline characteristics of both groups. Table 4 shows the mean scores by intervention and control groups, and the change from baseline to postintervention (approximately 9 weeks) and 12-month follow-up.",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "Postintervention follow-up rates were 98% in the intervention group and 97% in the control group (Figure 1) , and 92.5% and 91%, respectively, at 12 months.",
+            "Table 3 shows the baseline characteristics of both groups.",
+            "Table 4 shows the mean scores by intervention and control groups, and the change from baseline to postintervention (approximately 9 weeks) and 12-month follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Although the primary outcome (CDRS-R) mean scores appeared to improve slightly postintervention in both groups (mean increase in 0.61 in the intervention group and 1.07 in the control group) and then worsen slightly in both groups at 12 months (mean reduction from baseline of \u00c01.18 (SD: 6.76) in the intervention group and \u00c00.92 (SD = 6.67) in the control group) these differences were not significant. There were also no significant differences between groups in the mixed model regression adjusted for baseline score (p = .27) with the intervention group change on average 0.33 points (95% CI: \u00c00.93 to 0.26) less than the control group change at 12 month follow-up. Similar results were found when other factors (age, sex, ethnicity and school) were adjusted for, and for the sensitivity analyses including complete cases only and only those who viewed at least half of the messages (per protocol analysis) ( Table 5 ). The differences between groups in change from baseline to follow-up for RADS-2, MFQ and PQ-LES-Q outcomes were not significant (Table 4) . At 12 months, 785 (92%) participants were screened for diagnoses of depression during the study period using the K-SADS. In the intervention group there were 38 (9.6%) participants who had a depressive episode over the previous 12 months, and 40 (10.2%) participants in the control group (RR 0.94, 95% CI: 0.62-1.44, p = .78). There was no significant difference in time to first depressive episode from baseline between the groups (log-rank test p = .76).",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "Although the primary outcome (CDRS-R) mean scores appeared to improve slightly postintervention in both groups (mean increase in 0.61 in the intervention group and 1.07 in the control group) and then worsen slightly in both groups at 12 months (mean reduction from baseline of \u00c01.18 (SD: 6.76) in the intervention group and \u00c00.92 (SD = 6.67) in the control group) these differences were not significant.",
+            "There were also no significant differences between groups in the mixed model regression adjusted for baseline score (p = .27) with the intervention group change on average 0.33 points (95% CI: \u00c00.93 to 0.26) less than the control group change at 12 month follow-up.",
+            "Similar results were found when other factors (age, sex, ethnicity and school) were adjusted for, and for the sensitivity analyses including complete cases only and only those who viewed at least half of the messages (per protocol analysis) ( Table 5 ).",
+            "The differences between groups in change from baseline to follow-up for RADS-2, MFQ and PQ-LES-Q outcomes were not significant (Table 4) .",
+            "At 12 months, 785 (92%) participants were screened for diagnoses of depression during the study period using the K-SADS.",
+            "In the intervention group there were 38 (9.6%) participants who had a depressive episode over the previous 12 months, and 40 (10.2%) participants in the control group (RR 0.94, 95% CI: 0.62-1.44, p = .78).",
+            "There was no significant difference in time to first depressive episode from baseline between the groups (log-rank test p = .76)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "At 12 months, 786 (92%) of participants answered the YRBS questions about suicidality during the study period. Seven participants in each group (1.8%) said they had seriously considered suicide during the past 12 months. There were no significant differences between the groups for any of the YRBS questions at any time points.",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "At 12 months, 786 (92%) of participants answered the YRBS questions about suicidality during the study period.",
+            "Seven participants in each group (1.8%) said they had seriously considered suicide during the past 12 months.",
+            "There were no significant differences between the groups for any of the YRBS questions at any time points."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "During the study, serious adverse events (SAEs) were also reported directly to the research team (by school guidance counsellors). There were 10 such events in the intervention group and 5 in the control group. Eleven of the 15 events were reports that the participant had thoughts of self harm. These were all reviewed by the adolescent psychiatrist (SM) and clinical psychologist (HMcD) who were blind to allocation. These SAEs were not considered to be related to participation in the study (e.g. many were in direct relationship with a stressful event). At 12 months, 84% (n = 321) of intervention group participants said they had found the overall programme to be helpful compared with 82% (n = 315), in the control group (p = .46). More detailed postintervention feedback from participants has been published in an earlier paper (Whittaker et al., 2012) . To give some sense of the likely degree of contamination between groups, participants were asked how many messages they had shared with anyone. In the intervention group 158 (37.9%) participants said they shared the messages with others and 166 (40.0%) participants in the control group said the same (p = .53). The majority of these (70% and 76% respectively) had only shared between 1-9 messages out of a total of 121 messages. It is likely that on average half of the shared messages would have been between participants in the same group, so the extent of contamination is unlikely to have affected the results.",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "During the study, serious adverse events (SAEs) were also reported directly to the research team (by school guidance counsellors).",
+            "There were 10 such events in the intervention group and 5 in the control group.",
+            "Eleven of the 15 events were reports that the participant had thoughts of self harm.",
+            "These were all reviewed by the adolescent psychiatrist (SM) and clinical psychologist (HMcD) who were blind to allocation.",
+            "These SAEs were not considered to be related to participation in the study (e.g. many were in direct relationship with a stressful event).",
+            "At 12 months, 84% (n = 321) of intervention group participants said they had found the overall programme to be helpful compared with 82% (n = 315), in the control group (p = .46).",
+            "More detailed postintervention feedback from participants has been published in an earlier paper (Whittaker et al., 2012) .",
+            "To give some sense of the likely degree of contamination between groups, participants were asked how many messages they had shared with anyone.",
+            "In the intervention group 158 (37.9%) participants said they shared the messages with others and 166 (40.0%) participants in the control group said the same (p = .53).",
+            "The majority of these (70% and 76% respectively) had only shared between 1-9 messages out of a total of 121 messages.",
+            "It is likely that on average half of the shared messages would have been between participants in the same group, so the extent of contamination is unlikely to have affected the results."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "While the majority of participants said they had read/viewed at least half of the messages (75% in intervention and 81% in control, p = .047), data from the messaging gateway showed that participants substantially overestimated the proportion of video clips they had viewed. Only 19% actually saw at least half the messages. There was no relationship between the proportion of messages viewed and the primary outcome.",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "While the majority of participants said they had read/viewed at least half of the messages (75% in intervention and 81% in control, p = .047), data from the messaging gateway showed that participants substantially overestimated the proportion of video clips they had viewed.",
+            "Only 19% actually saw at least half the messages.",
+            "There was no relationship between the proportion of messages viewed and the primary outcome."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "In this large randomised, controlled trial, we were unable to demonstrate an effect of the MEMO-CBT programme over a control programme, both delivered via multimedia mobile phone messages. Both programmes demonstrated small improvements in depression scores immediately after the intervention, followed by a small worsening in depression symptoms at 12 months, with no significant differences in the change between groups. All secondary outcomes showed similar findings.",
+        "section": "Statement of principal findings",
+        "section_number": 28,
+        "sentences": [
+            "In this large randomised, controlled trial, we were unable to demonstrate an effect of the MEMO-CBT programme over a control programme, both delivered via multimedia mobile phone messages.",
+            "Both programmes demonstrated small improvements in depression scores immediately after the intervention, followed by a small worsening in depression symptoms at 12 months, with no significant differences in the change between groups.",
+            "All secondary outcomes showed similar findings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "In this study, we attempted to address a number of methodological and programmatic weaknesses in previous studies. We used a double-blind, placebocontrolled design with a 1 year follow-up. We included assessments by research assistants blinded to allocation, and included symptom measures and measures of diagnosis. We minimised drop-outs. We had previously argued that the likely variability in widespread delivery of face-to-face programmes may have contributed to the heterogeneity in results seen in meta-analyses. Our intervention delivered by mobile phone is scalable and ensures fidelity and overcomes the potential problems of variation in delivery of group-based programmes.",
+        "section": "Strengths and weaknesses of the study",
+        "section_number": 29,
+        "sentences": [
+            "In this study, we attempted to address a number of methodological and programmatic weaknesses in previous studies.",
+            "We used a double-blind, placebocontrolled design with a 1 year follow-up.",
+            "We included assessments by research assistants blinded to allocation, and included symptom measures and measures of diagnosis.",
+            "We minimised drop-outs.",
+            "We had previously argued that the likely variability in widespread delivery of face-to-face programmes may have contributed to the heterogeneity in results seen in meta-analyses.",
+            "Our intervention delivered by mobile phone is scalable and ensures fidelity and overcomes the potential problems of variation in delivery of group-based programmes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "While this was the case, adherence to the programme over time was a problem, as is being increasingly recognised with all self-help interventions (Calear, Christensen, Mackinnon, & Griffiths, 2013) . We went to some trouble to make the intervention and control programmes appealing and engaging, with positive feedback from students about both programmes (Whittaker et al., 2012) . It was disappointing then, to find that few participants had viewed more than half the videos. This was in contrast to the uptake reported by the students (Whittaker et al., 2012) , and it may be that they had read the text message but had not clicked through to the video clip (we were unable to confirm whether text messages had been viewed). Poor adherence is consistent with other experiences of delivering interventions using technology (Christensen, Griffiths, & Farrer, 2009) . This may be particularly the case for those programmes requiring active participation (such as going to websites, inputting data into smartphone apps) than those passively received (such as text messages)this requires further attention in future studies.",
+        "section": "Strengths and weaknesses of the study",
+        "section_number": 30,
+        "sentences": [
+            "While this was the case, adherence to the programme over time was a problem, as is being increasingly recognised with all self-help interventions (Calear, Christensen, Mackinnon, & Griffiths, 2013) .",
+            "We went to some trouble to make the intervention and control programmes appealing and engaging, with positive feedback from students about both programmes (Whittaker et al., 2012) .",
+            "It was disappointing then, to find that few participants had viewed more than half the videos.",
+            "This was in contrast to the uptake reported by the students (Whittaker et al., 2012) , and it may be that they had read the text message but had not clicked through to the video clip (we were unable to confirm whether text messages had been viewed).",
+            "Poor adherence is consistent with other experiences of delivering interventions using technology (Christensen, Griffiths, & Farrer, 2009) .",
+            "This may be particularly the case for those programmes requiring active participation (such as going to websites, inputting data into smartphone apps) than those passively received (such as text messages)this requires further attention in future studies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "In this case, we had particular problems related to the potential cost to our participants. While we had negotiated with a mobile network operator and gateway company to provide young people with free access to the programme, and to rewards such as new ringtones and games, we initially had some technical difficulties providing the free access and the rewards were not appealing enough to provide sufficient incentive for young people.",
+        "section": "Strengths and weaknesses of the study",
+        "section_number": 31,
+        "sentences": [
+            "In this case, we had particular problems related to the potential cost to our participants.",
+            "While we had negotiated with a mobile network operator and gateway company to provide young people with free access to the programme, and to rewards such as new ringtones and games, we initially had some technical difficulties providing the free access and the rewards were not appealing enough to provide sufficient incentive for young people."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "We were disappointed at the lack of efficacy in this trial compared with the efficacy we demonstrated with SPARX )a computer game developed at the same time with a similar development team although targeted at those with elevated scores on depression measures. There are many differences between these studies, including the target populationchildren with elevated depression scores in SPARX, as opposed to this trial in which no children with depression entered the trial and only around 10% developed a depressive episode during the trial. Clearly it is harder to show a treatment effect if most of the target population were well throughout the trial. There were also a number of differences in approach required for the mobile phone. While it is reasonable to suppose that young people will spend half an hour on a computer game, the mobile phone video content was no more than 30 s long. In addition, we had initially intended to deliver 5-8 video clips a day, but in our development phase it became apparent that this would not be feasible or acceptable. Mobile phone access was forbidden in many schools during school hours, and young people reported that they would not want to receive more than two messages a day. This resulted in substantially abbreviated CBT content. We worked hard to ensure that what we did deliver had clear messages and was appealing, with young people reporting that they enjoyed the programme and some evidence that we were successful in teaching CBT skills. In postintervention follow-up the students reported that MEMO-CBT helped them feel more positive and more relaxed, more able to solve problems and better able to deal with negative thoughts in contrast with the MEMO-control students (Whittaker et al., 2012) .",
+        "section": "Strengths and weaknesses of the study",
+        "section_number": 32,
+        "sentences": [
+            "We were disappointed at the lack of efficacy in this trial compared with the efficacy we demonstrated with SPARX )a computer game developed at the same time with a similar development team although targeted at those with elevated scores on depression measures.",
+            "There are many differences between these studies, including the target populationchildren with elevated depression scores in SPARX, as opposed to this trial in which no children with depression entered the trial and only around 10% developed a depressive episode during the trial.",
+            "Clearly it is harder to show a treatment effect if most of the target population were well throughout the trial.",
+            "There were also a number of differences in approach required for the mobile phone.",
+            "While it is reasonable to suppose that young people will spend half an hour on a computer game, the mobile phone video content was no more than 30 s long.",
+            "In addition, we had initially intended to deliver 5-8 video clips a day, but in our development phase it became apparent that this would not be feasible or acceptable.",
+            "Mobile phone access was forbidden in many schools during school hours, and young people reported that they would not want to receive more than two messages a day.",
+            "This resulted in substantially abbreviated CBT content.",
+            "We worked hard to ensure that what we did deliver had clear messages and was appealing, with young people reporting that they enjoyed the programme and some evidence that we were successful in teaching CBT skills.",
+            "In postintervention follow-up the students reported that MEMO-CBT helped them feel more positive and more relaxed, more able to solve problems and better able to deal with negative thoughts in contrast with the MEMO-control students (Whittaker et al., 2012) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "While meta-analyses of depression prevention programmes continue to show a small positive effect on symptom ratings and encouraging results in reduction of diagnoses of depressive disorders (Cuijpers, van Straten, Smit, Mihalopoulos, & Beekman, 2008; , the results of this study are similar to those of two large, well-conducted trials, both of which had negative results (Araya et al., 2013; Stallard et al., 2012) . In the studies by Stallard and Araya, universal interventions were delivered in groups in schools, although Stallard measured the effect in those with elevated symptoms of depression.",
+        "section": "Possible explanations and implications",
+        "section_number": 33,
+        "sentences": [
+            "While meta-analyses of depression prevention programmes continue to show a small positive effect on symptom ratings and encouraging results in reduction of diagnoses of depressive disorders (Cuijpers, van Straten, Smit, Mihalopoulos, & Beekman, 2008; , the results of this study are similar to those of two large, well-conducted trials, both of which had negative results (Araya et al., 2013; Stallard et al., 2012) .",
+            "In the studies by Stallard and Araya, universal interventions were delivered in groups in schools, although Stallard measured the effect in those with elevated symptoms of depression."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "There are several potential explanations for our findings. The obvious explanation is that neither programme had an effect. Another explanation is that the attention control was equally efficacious. Longitudinal studies generally show a steep increase in depressive symptoms through adolescence (Feehan, McGee, & Williams, 1993; Thapar, Collishaw, Pine, & Thapar, 2012) . Given both groups improved initially there is a possibility that both programmes had a small beneficial effect over the natural progression of depression symptoms in the adolescent population. If so, this may have been due to receiving any multimedia mobile phone programme, or could have been a result of three intensive personal interviews with our research assistants over the study period.",
+        "section": "Possible explanations and implications",
+        "section_number": 34,
+        "sentences": [
+            "There are several potential explanations for our findings.",
+            "The obvious explanation is that neither programme had an effect.",
+            "Another explanation is that the attention control was equally efficacious.",
+            "Longitudinal studies generally show a steep increase in depressive symptoms through adolescence (Feehan, McGee, & Williams, 1993; Thapar, Collishaw, Pine, & Thapar, 2012) .",
+            "Given both groups improved initially there is a possibility that both programmes had a small beneficial effect over the natural progression of depression symptoms in the adolescent population.",
+            "If so, this may have been due to receiving any multimedia mobile phone programme, or could have been a result of three intensive personal interviews with our research assistants over the study period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "It should be noted that the depression scores in both arms of the study dropped on all measures, and that the magnitude of effect was similar to the intervention arm of a previous study done by our group (Merry et al., 2004 ). This could be a possible placebo effect that may be related to activities on mobile phones being either a distraction or a means of relaxation for adolescents. Both groups did report that they found the programme to be helpful.",
+        "section": "Possible explanations and implications",
+        "section_number": 35,
+        "sentences": [
+            "It should be noted that the depression scores in both arms of the study dropped on all measures, and that the magnitude of effect was similar to the intervention arm of a previous study done by our group (Merry et al., 2004 ).",
+            "This could be a possible placebo effect that may be related to activities on mobile phones being either a distraction or a means of relaxation for adolescents.",
+            "Both groups did report that they found the programme to be helpful."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "What is clear is that the MEMO CBT multimedia mobile phone programme was no more effective than the MEMO control programme. It is our opinion that the 'dose' of CBT the participants were exposed to during the programme was probably insufficient to produce an effect on the outcomes measured. The amount of CBT exposure was significantly less than that of seeing a counsellor face-to-face, although still more than the majority of these otherwise 'well' teens would be exposed to. It is also clear that this was a very 'well' cohort, and it may have needed a particularly effective intervention to show an effect on the overall mean scores of such a group.",
+        "section": "Possible explanations and implications",
+        "section_number": 36,
+        "sentences": [
+            "What is clear is that the MEMO CBT multimedia mobile phone programme was no more effective than the MEMO control programme.",
+            "It is our opinion that the 'dose' of CBT the participants were exposed to during the programme was probably insufficient to produce an effect on the outcomes measured.",
+            "The amount of CBT exposure was significantly less than that of seeing a counsellor face-to-face, although still more than the majority of these otherwise 'well' teens would be exposed to.",
+            "It is also clear that this was a very 'well' cohort, and it may have needed a particularly effective intervention to show an effect on the overall mean scores of such a group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Universal depression prevention programmes have been challenging, primarily due to issues with fidelity and the resources required to provide programmes on a large scale. Our mobile phone-based programme was an attempt to address these issues and provide the valuable cognitive skills in CBT in a more direct and less resource intensive manner. Our study had layers of complexity and several challenges, including the use of mobile phone technology that was relatively new and untested at the time and several study design choices that in retrospect we would consider differently. For example, ideally we would include a third arm with no active intervention and be less stringent in our exclusion of participants.",
+        "section": "Unanswered questions and future research",
+        "section_number": 37,
+        "sentences": [
+            "Universal depression prevention programmes have been challenging, primarily due to issues with fidelity and the resources required to provide programmes on a large scale.",
+            "Our mobile phone-based programme was an attempt to address these issues and provide the valuable cognitive skills in CBT in a more direct and less resource intensive manner.",
+            "Our study had layers of complexity and several challenges, including the use of mobile phone technology that was relatively new and untested at the time and several study design choices that in retrospect we would consider differently.",
+            "For example, ideally we would include a third arm with no active intervention and be less stringent in our exclusion of participants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Although we were unable to demonstrate benefit with our intervention, a Cochrane systematic review of depression prevention shows that there is still a case to be made for universal prevention interventions . Based on the positive feedback from our participants, and general experience of the usefulness of mobile phones in many other health programmes, we feel it is still worth pursuing the appropriate and effective use of mHealth in mental health. How to increase engagement is a key issue to be addressed in the development of future mobile mental health programmes for adolescents.",
+        "section": "Unanswered questions and future research",
+        "section_number": 38,
+        "sentences": [
+            "Although we were unable to demonstrate benefit with our intervention, a Cochrane systematic review of depression prevention shows that there is still a case to be made for universal prevention interventions .",
+            "Based on the positive feedback from our participants, and general experience of the usefulness of mobile phones in many other health programmes, we feel it is still worth pursuing the appropriate and effective use of mHealth in mental health.",
+            "How to increase engagement is a key issue to be addressed in the development of future mobile mental health programmes for adolescents."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Additional Supporting Information may be found in the online version of this article: Figure S1 . Consort checklist.",
+        "section": "Supporting information",
+        "section_number": 39,
+        "sentences": [
+            "Additional Supporting Information may be found in the online version of this article: Figure S1 .",
+            "Consort checklist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "\u00a9 2017 Association for Child and Adolescent Mental Health.",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "\u00a9 2017 Association for Child and Adolescent Mental Health."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "Robyn Whittaker et al. J Child Psychol Psychiatr 2017; 58(9): 1014-22",
+        "section": "",
+        "section_number": 41,
+        "sentences": [
+            "Robyn Whittaker et al. J Child Psychol Psychiatr 2017; 58(9): 1014-22"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34560",
+        "text": "\u00a9 2017 Association for Child and Adolescent Mental Health. doi:10.1111/jcpp.12753An mHealth intervention to prevent the onset of depression in adolescents",
+        "section": "",
+        "section_number": 42,
+        "sentences": [
+            "\u00a9 2017 Association for Child and Adolescent Mental Health.",
+            "doi:10.1111/jcpp.12753An mHealth intervention to prevent the onset of depression in adolescents"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

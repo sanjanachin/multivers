@@ -1,0 +1,667 @@
+[
+    {
+        "doc_id": "37847",
+        "text": "BACKGROUND AND OBJECTIVES: Evaluations of home visiting models have shown that they can reduce children's health care use in the first year of life. Models that exclusively use nurses as home visitors may cost more and be infeasible given nursing shortages in some locations. The goal of this study was to test whether a universal home visiting model employing a nurse-parent educator team as home visitors reduces health care use in the first year of life. METHODS: This study was a randomized controlled clinical trial of an intensive home visiting program delivered in homes of primary caregivers and their first-born children in Santa Fe, New Mexico. Intention-to-treat and contamination-adjusted intention-to-treat models were estimated, and 244 primary caregivers participated in the survey. RESULTS: In their first year of life, treatment group children were one-third less likely to visit the emergency department (control group mean, M C = 0.42, treatment group mean, M T = 0.28, P = .02) and were also 41% less likely to have visited a primary care provider \u22659 times (M C = 0.49, M T = 0.29, P < .001). We found no differences between the treatment and control groups for hospitalizations or injuries requiring medical attention. The universal program reduced infant health care use for high-risk and lower-risk families. CONCLUSIONS: Children in families randomly assigned to the program had less health care use in their first year, demonstrating that a universal prevention home visiting model delivered by a nurse-parent educator team can reduce infant health care use.",
+        "section": "Abstract",
+        "sentences": [
+            "BACKGROUND AND OBJECTIVES: Evaluations of home visiting models have shown that they can reduce children's health care use in the first year of life.",
+            "Models that exclusively use nurses as home visitors may cost more and be infeasible given nursing shortages in some locations.",
+            "The goal of this study was to test whether a universal home visiting model employing a nurse-parent educator team as home visitors reduces health care use in the first year of life.",
+            "METHODS: This study was a randomized controlled clinical trial of an intensive home visiting program delivered in homes of primary caregivers and their first-born children in Santa Fe, New Mexico.",
+            "Intention-to-treat and contamination-adjusted intention-to-treat models were estimated, and 244 primary caregivers participated in the survey.",
+            "RESULTS: In their first year of life, treatment group children were one-third less likely to visit the emergency department (control group mean, M C = 0.42, treatment group mean, M T = 0.28, P = .02) and were also 41% less likely to have visited a primary care provider \u22659 times (M C = 0.49, M T = 0.29, P < .001).",
+            "We found no differences between the treatment and control groups for hospitalizations or injuries requiring medical attention.",
+            "The universal program reduced infant health care use for high-risk and lower-risk families.",
+            "CONCLUSIONS: Children in families randomly assigned to the program had less health care use in their first year, demonstrating that a universal prevention home visiting model delivered by a nurse-parent educator team can reduce infant health care use."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Home visiting can reduce children's health care use in the fi rst year of life. The evaluated models typically employ nurses as home visitors, which can be expensive and may be infeasible in locations with health care professional shortages.",
+        "section": "WHAT'S KNOWN ON THIS SUBJECT:",
+        "section_number": 1,
+        "sentences": [
+            "Home visiting can reduce children's health care use in the fi rst year of life.",
+            "The evaluated models typically employ nurses as home visitors, which can be expensive and may be infeasible in locations with health care professional shortages."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "This randomized controlled trial evaluated a universal home visiting model that used a nurse-parent educator team as home visitors. Infants assigned to home visiting had fewer emergency department visits and visits to primary care in their fi rst year.",
+        "section": "WHAT THIS STUDY ADDS:",
+        "section_number": 2,
+        "sentences": [
+            "This randomized controlled trial evaluated a universal home visiting model that used a nurse-parent educator team as home visitors.",
+            "Infants assigned to home visiting had fewer emergency department visits and visits to primary care in their fi rst year."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The United States is experiencing the largest expansion of home visiting in its history. The Patient Protection and Affordable Care Act included a total of $1.5 billion in new funding for home visiting, marking the first recurring federal commitment to home visiting. This increase follows a decade of expanded state investment in home visiting. A survey of 21 states found that in the 2013 fiscal year, state appropriations for home visiting grew by nearly 17%, despite a tight government budget environment. 1 Furthermore, as the concept of \"evidence-based programs\" gained traction among government and private funders, groups ranging from the American Academy of Pediatrics 2 to the Coalition for Evidence-Based Policy 3 have endorsed home visiting as an evidence-based health promotion and prevention strategy that can improve outcomes in early childhood and into adulthood. At a time when federal, state, and private support for home visiting is swelling, it is important to understand which home visiting models improve outcomes for children and their families and can be implemented given community workforce availability.",
+        "section": "WHAT THIS STUDY ADDS:",
+        "section_number": 3,
+        "sentences": [
+            "The United States is experiencing the largest expansion of home visiting in its history.",
+            "The Patient Protection and Affordable Care Act included a total of $1.5 billion in new funding for home visiting, marking the first recurring federal commitment to home visiting.",
+            "This increase follows a decade of expanded state investment in home visiting.",
+            "A survey of 21 states found that in the 2013 fiscal year, state appropriations for home visiting grew by nearly 17%, despite a tight government budget environment.",
+            "1 Furthermore, as the concept of \"evidence-based programs\" gained traction among government and private funders, groups ranging from the American Academy of Pediatrics 2 to the Coalition for Evidence-Based Policy 3 have endorsed home visiting as an evidence-based health promotion and prevention strategy that can improve outcomes in early childhood and into adulthood.",
+            "At a time when federal, state, and private support for home visiting is swelling, it is important to understand which home visiting models improve outcomes for children and their families and can be implemented given community workforce availability."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Previous studies have documented that home visiting programs can affect young children's health outcomes in a number of outcome areas, including reducing the use of emergency medical care and other medical contact. Specifically, the federal Home Visiting Evidence of Effectiveness (HomVEE) project reviews evaluations of home visiting models, which typically have structured protocols and materials that facilitate replication. The HomVEE project assesses whether the models meet the evidence criteria required for Affordable Care Act funding 4 and documents that 4 of the 19 evidence-based home visiting models reduced medical contact within the child's first year of life. Studies have found that these home visiting programs reduced the number of hospitalizations, 5, 6 overnight stays in the hospital, 7 emergency department (ED) visits, 8 and visits to the family doctor. 9 Three of these models employ nurses as home visitors-Early Intervention Program for Adolescent Mothers, Durham Connects (currently known as Family Connects), and Nurse Family Partnership. The predominance of nurses as home visitors is supported by research demonstrating that nurse home visitors are more effective than paraprofessionals at delivering the Nurse Family Partnership model. 10 All models target mothers who demonstrate some risk factor, such as being an adolescent or low-income, except Durham Connects, which is offered to the families living in the county when they have a baby born at the hospital. Durham Connects provides an initial home visit 2 to 12 weeks after the birth of a child plus a follow-up phone call 1 month later. Up to 2 additional nurse visits may be provided if needed. The other 2 models are more intensive, providing between 12 and 40 visits in the child's first year of life. This paper reports findings from a randomized clinical trial evaluation of the First Born Program (FBP), a universal home visiting model for first-time parents and their children. The FBP model combines health care workers and lay parent educators as home visitors. This paper tests the hypothesis that the FBP reduces the need for medical contact during a child's first year of life. The goal of this study was to test whether a universal home visiting model employing a nurse-parent educator team as home visitors reduces health care use in the first year of life. This paper adds to the literature on whether home visitors other than nurses can be effective. Given that nursing shortages are expected to grow over the next decade, 11 understanding the effectiveness of home visiting models that require fewer nurses will provide useful guidance to policymakers.",
+        "section": "WHAT THIS STUDY ADDS:",
+        "section_number": 4,
+        "sentences": [
+            "Previous studies have documented that home visiting programs can affect young children's health outcomes in a number of outcome areas, including reducing the use of emergency medical care and other medical contact.",
+            "Specifically, the federal Home Visiting Evidence of Effectiveness (HomVEE) project reviews evaluations of home visiting models, which typically have structured protocols and materials that facilitate replication.",
+            "The HomVEE project assesses whether the models meet the evidence criteria required for Affordable Care Act funding 4 and documents that 4 of the 19 evidence-based home visiting models reduced medical contact within the child's first year of life.",
+            "Studies have found that these home visiting programs reduced the number of hospitalizations, 5, 6 overnight stays in the hospital, 7 emergency department (ED) visits, 8 and visits to the family doctor.",
+            "9 Three of these models employ nurses as home visitors-Early Intervention Program for Adolescent Mothers, Durham Connects (currently known as Family Connects), and Nurse Family Partnership.",
+            "The predominance of nurses as home visitors is supported by research demonstrating that nurse home visitors are more effective than paraprofessionals at delivering the Nurse Family Partnership model.",
+            "10 All models target mothers who demonstrate some risk factor, such as being an adolescent or low-income, except Durham Connects, which is offered to the families living in the county when they have a baby born at the hospital.",
+            "Durham Connects provides an initial home visit 2 to 12 weeks after the birth of a child plus a follow-up phone call 1 month later.",
+            "Up to 2 additional nurse visits may be provided if needed.",
+            "The other 2 models are more intensive, providing between 12 and 40 visits in the child's first year of life.",
+            "This paper reports findings from a randomized clinical trial evaluation of the First Born Program (FBP), a universal home visiting model for first-time parents and their children.",
+            "The FBP model combines health care workers and lay parent educators as home visitors.",
+            "This paper tests the hypothesis that the FBP reduces the need for medical contact during a child's first year of life.",
+            "The goal of this study was to test whether a universal home visiting model employing a nurse-parent educator team as home visitors reduces health care use in the first year of life.",
+            "This paper adds to the literature on whether home visitors other than nurses can be effective.",
+            "Given that nursing shortages are expected to grow over the next decade, 11 understanding the effectiveness of home visiting models that require fewer nurses will provide useful guidance to policymakers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "FBP participants, generally mothers, can enroll during pregnancy up through the child's second month, and the program ends when the child reaches age 3. Services are free and voluntary, and all firsttime families in a community are eligible to participate. As described in more detail elsewhere, 12, 13 the FBP sites work closely with local health care providers, hospitals, and social service agencies to identify and recruit first-time parents, and many clients are also referred by individuals in the community, such as friends and other families. External referral sources fax a completed copy of a FBP referral form to the program site or, alternatively, site staff complete the form for families that contact them directly by phone or in person. The FBP staff contact referred families (both by phone and in person) to confirm their interest in receiving services and their eligibility for the program and to ensure that families know that spaces in the program are being allocated by using a random lottery. Families that meet these conditions are then entered into the randomization process.",
+        "section": "The FPB",
+        "section_number": 5,
+        "sentences": [
+            "FBP participants, generally mothers, can enroll during pregnancy up through the child's second month, and the program ends when the child reaches age 3.",
+            "Services are free and voluntary, and all firsttime families in a community are eligible to participate.",
+            "As described in more detail elsewhere, 12, 13 the FBP sites work closely with local health care providers, hospitals, and social service agencies to identify and recruit first-time parents, and many clients are also referred by individuals in the community, such as friends and other families.",
+            "External referral sources fax a completed copy of a FBP referral form to the program site or, alternatively, site staff complete the form for families that contact them directly by phone or in person.",
+            "The FBP staff contact referred families (both by phone and in person) to confirm their interest in receiving services and their eligibility for the program and to ensure that families know that spaces in the program are being allocated by using a random lottery.",
+            "Families that meet these conditions are then entered into the randomization process."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The FBP home visitor team includes a registered nurse or other licensed health care professional, who provides a postpartum home visit, delivers the medical components of the curriculum, and continues to participate in the home visits when families encounter medical challenges. The second member of the home visitor team is a parent educator who generally has greater than a high school education and some human services experience. ",
+        "section": "The FPB",
+        "section_number": 6,
+        "sentences": [
+            "The FBP home visitor team includes a registered nurse or other licensed health care professional, who provides a postpartum home visit, delivers the medical components of the curriculum, and continues to participate in the home visits when families encounter medical challenges.",
+            "The second member of the home visitor team is a parent educator who generally has greater than a high school education and some human services experience."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "This study was conducted in a single First Born site because the site planned to allocate services by using a lottery. The site received funding from public and private sources to serve about 100 families at a time, but about 600 first-born children were born each year in the county. The organization delivering the FBP decided to use a lottery to select which eligible families would receive services from the FBP. On learning that the site was using a lottery to allocate services, the study team approached the site to suggest a randomized controlled trial that would piggyback on their planned lottery and delivery procedures. This study is not being conducted by the home visiting model developer, the evaluation team is independent of the FBP, and the study site is a real-world implementation of the model in a community setting.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 7,
+        "sentences": [
+            "This study was conducted in a single First Born site because the site planned to allocate services by using a lottery.",
+            "The site received funding from public and private sources to serve about 100 families at a time, but about 600 first-born children were born each year in the county.",
+            "The organization delivering the FBP decided to use a lottery to select which eligible families would receive services from the FBP.",
+            "On learning that the site was using a lottery to allocate services, the study team approached the site to suggest a randomized controlled trial that would piggyback on their planned lottery and delivery procedures.",
+            "This study is not being conducted by the home visiting model developer, the evaluation team is independent of the FBP, and the study site is a real-world implementation of the model in a community setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The FBP site that participated in the study serves families throughout Santa Fe County, New Mexico, which had \u223c146 000 residents in 2013. 14 The majority of FBP families live in the city of Santa Fe, which had almost 70 000 residents during the study period, 14 but some FBP families live in rural parts of the county.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 8,
+        "sentences": [
+            "The FBP site that participated in the study serves families throughout Santa Fe County, New Mexico, which had \u223c146 000 residents in 2013.",
+            "14 The majority of FBP families live in the city of Santa Fe, which had almost 70 000 residents during the study period, 14 but some FBP families live in rural parts of the county."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The site began enrolling families in the FBP in January of 2010.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 9,
+        "sentences": [
+            "The site began enrolling families in the FBP in January of 2010."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The site reached capacity after \u223c7 months, at which time they began allocating spaces by using a lottery operated by the study team. To confirm that our randomization procedures were functioning well, we undertook a \"pilot phase\" of the lottery before including families in the study sample. 15 The start date for eligibility for this study was children born after June 3, 2011. Referrals of families and openings in the FBP were ongoing and unpredictable, so we conducted randomization weekly by using an ongoing \"trickle-flow randomization\" process. 15, 16 This process randomly assigned families an ordered number on the list of families, and then the number of open slots in the program were filled by inviting families according to their randomized order. 15, 16 Full details of the randomization procedures have been reported previously, 13 Before commencing the study, we conducted power calculations using standardized methods outlined by Cohen. 17 We sought to have 80% power to detect effect sizes of 0.40 SDs when conducting a 2-sided t test with an \u03b1 level of 0.05. This required 94 observations in each of the treatment and control groups. We planned to follow study participants an additional 1 or 2 years, and so accounting for attrition, we originally aimed to conduct a 1-year interview with 140 families in each of the treatment and control groups. However, the FBP intervention in this site changed significantly beginning on November 1, 2014, so we only included children who were born before November 1, 2013 in our study, and thus all would be expected to receive similar FBP services in their first year. We interviewed families when children were between the ages of 12 and 15 months, and our final study interview took place in December 2014.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 10,
+        "sentences": [
+            "The site reached capacity after \u223c7 months, at which time they began allocating spaces by using a lottery operated by the study team.",
+            "To confirm that our randomization procedures were functioning well, we undertook a \"pilot phase\" of the lottery before including families in the study sample.",
+            "15 The start date for eligibility for this study was children born after June 3, 2011.",
+            "Referrals of families and openings in the FBP were ongoing and unpredictable, so we conducted randomization weekly by using an ongoing \"trickle-flow randomization\" process.",
+            "15, 16 This process randomly assigned families an ordered number on the list of families, and then the number of open slots in the program were filled by inviting families according to their randomized order.",
+            "15, 16 Full details of the randomization procedures have been reported previously, 13 Before commencing the study, we conducted power calculations using standardized methods outlined by Cohen.",
+            "17 We sought to have 80% power to detect effect sizes of 0.40 SDs when conducting a 2-sided t test with an \u03b1 level of 0.05.",
+            "This required 94 observations in each of the treatment and control groups.",
+            "We planned to follow study participants an additional 1 or 2 years, and so accounting for attrition, we originally aimed to conduct a 1-year interview with 140 families in each of the treatment and control groups.",
+            "However, the FBP intervention in this site changed significantly beginning on November 1, 2014, so we only included children who were born before November 1, 2013 in our study, and thus all would be expected to receive similar FBP services in their first year.",
+            "We interviewed families when children were between the ages of 12 and 15 months, and our final study interview took place in December 2014."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Using data from the New Mexico Department of Health, 18 we estimate that about 1400 first-born children would have been eligible for the FBP during the study eligibility period. Of the families referred to the FBP during this period, 617 families were eligible and accepted the invitation to be entered in the random lottery that determined receipt of FBP services. Before the child's first birthday, families were asked by FBP staff for permission to be contacted by our study team to discuss enrolling in the study. The 399 families who gave consent were contacted by our study team to enroll in the study, and of the 278 who enrolled in the study, 244 subsequently received a 1-year interview (88% of those enrolled, within both treatment and control groups). This study procedure reflected institutional review board concerns about potential coercion to participate in the research study if FBP services were dependent on study participation. Because we only collected data on families via the interview and not at the time of randomization or study enrollment, we were not able to compare the characteristics of the 617 randomized families to the final sample interviewed Families in our sample receiving FBP services got an average of 28 visits by the child's first birthday. This rate of 70% of the FBP's recommended 40 visits is higher than the typical rate of 50% reported in the home visiting literature. 19 About onethird of families received visits prenatally, with the rest commencing the program between the child's birth and when he or she reached 2 months of age.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 11,
+        "sentences": [
+            "Using data from the New Mexico Department of Health, 18 we estimate that about 1400 first-born children would have been eligible for the FBP during the study eligibility period.",
+            "Of the families referred to the FBP during this period, 617 families were eligible and accepted the invitation to be entered in the random lottery that determined receipt of FBP services.",
+            "Before the child's first birthday, families were asked by FBP staff for permission to be contacted by our study team to discuss enrolling in the study.",
+            "The 399 families who gave consent were contacted by our study team to enroll in the study, and of the 278 who enrolled in the study, 244 subsequently received a 1-year interview (88% of those enrolled, within both treatment and control groups).",
+            "This study procedure reflected institutional review board concerns about potential coercion to participate in the research study if FBP services were dependent on study participation.",
+            "Because we only collected data on families via the interview and not at the time of randomization or study enrollment, we were not able to compare the characteristics of the 617 randomized families to the final sample interviewed Families in our sample receiving FBP services got an average of 28 visits by the child's first birthday.",
+            "This rate of 70% of the FBP's recommended 40 visits is higher than the typical rate of 50% reported in the home visiting literature.",
+            "19 About onethird of families received visits prenatally, with the rest commencing the program between the child's birth and when he or she reached 2 months of age."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Families were interviewed by a trained bilingual study team member within 3 months of their child's first birthday. Interviews were conducted in English or Spanish in the family's home, unless the family requested an alternate site, by using a combination of computer-assisted in-person interviewing and computer-assisted audio interviewing. The interview along with informed consent took \u223c1 hour to complete. Eight percent at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from of the interviews were conducted in Spanish.",
+        "section": "Participants and Evaluation Design",
+        "section_number": 12,
+        "sentences": [
+            "Families were interviewed by a trained bilingual study team member within 3 months of their child's first birthday.",
+            "Interviews were conducted in English or Spanish in the family's home, unless the family requested an alternate site, by using a combination of computer-assisted in-person interviewing and computer-assisted audio interviewing.",
+            "The interview along with informed consent took \u223c1 hour to complete.",
+            "Eight percent at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from of the interviews were conducted in Spanish."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The interview asked families to report demographic and family background information along with a range of child health, maternal health, parenting practices, and other outcomes. The outcomes we examine in this paper are specifically addressed in components of the FBP curriculum and reducing these measures of infant health care use are program goals. This paper focuses on health care use through the first birthday, including caregiver's self-report of the following: whether the child went to a hospital ED in the first year; whether the child was admitted to the hospital in the first year; whether the child required medical attention for an injury; and whether the child had a large number of visits to a primary care provider (measured as \u22659 visits). We used \u22659 visits as our indicator of a large number of primary care visits because our sample mean and median number of visits was 8, and because 8 is one more visit than the American Academy of Pediatrics 20 recommends for wellchild visits between the time the child is evaluated as a newborn and at 1 year of age. National estimates from 2012 indicate that infants on average visited a physician's office 7 times in the first year. 21 For our measure, we totaled all doctor visits reported by parents. In results not reported in this article, we obtain the same findings when we use \u226510 visits or \u226511 visits as our measure of a large number of primary care visits.",
+        "section": "Measures",
+        "section_number": 13,
+        "sentences": [
+            "The interview asked families to report demographic and family background information along with a range of child health, maternal health, parenting practices, and other outcomes.",
+            "The outcomes we examine in this paper are specifically addressed in components of the FBP curriculum and reducing these measures of infant health care use are program goals.",
+            "This paper focuses on health care use through the first birthday, including caregiver's self-report of the following: whether the child went to a hospital ED in the first year; whether the child was admitted to the hospital in the first year; whether the child required medical attention for an injury; and whether the child had a large number of visits to a primary care provider (measured as \u22659 visits).",
+            "We used \u22659 visits as our indicator of a large number of primary care visits because our sample mean and median number of visits was 8, and because 8 is one more visit than the American Academy of Pediatrics 20 recommends for wellchild visits between the time the child is evaluated as a newborn and at 1 year of age.",
+            "National estimates from 2012 indicate that infants on average visited a physician's office 7 times in the first year.",
+            "21 For our measure, we totaled all doctor visits reported by parents.",
+            "In results not reported in this article, we obtain the same findings when we use \u226510 visits or \u226511 visits as our measure of a large number of primary care visits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Families in the analysis sample who were assigned to treatment and offered FBP services did not always enroll in the program, and 2 families who were originally assigned to the control group ended up enrolling in FBP. Of the 138 families that were assigned to treatment, 109 (79%) enrolled in the program and received services whereas the remaining 29 (21%) never received FBP services. This is within the range of the refusal rates of 10 to 25% reported for home visiting in the United States. 19 Recent literature on estimating treatment effects in randomized trials has recognized the reality that subjects in randomized trials do not always comply with the assignment and that there might be \"contamination\" of the treatment and control groups. As the degree of contamination grows, the recommended intentionto-treat estimates increasingly underestimate the value of receiving the treatment, because fewer subjects are actually receiving services. 22 To preserve the primary benefit of using random assignment (that the treatment and control groups are equivalent) while accounting for the fact that a substantial number of subjects in our treatment group do not get services, we complement traditional intention-to-treat estimates with contamination-adjusted intentionto-treat (CA-ITT) estimates, which use instrumental variables (IV) to adjust for random assignment noncompliance. 22, 23 To implement the IV strategy to estimate the treatment effect, we estimated a 2-stage model, where the first-stage equation predicts the receipt of FBP treatment as a function of assignment to the treatment group and family characteristics. Whether the family was assigned to the treatment group serves as the instrumental variable because we would expect it to be highly correlated with the receipt of treatment but not correlated with unobserved factors that affect health care use. In the second stage equation, we use the predicted values of the outcome variable (receipt of FBP) from the first stage in a linear probability model for each health care use outcome. In this equation, we also include family characteristics, such as ethnicity or education, which could potentially moderate the effect of the intervention.",
+        "section": "Statistical Analysis",
+        "section_number": 14,
+        "sentences": [
+            "Families in the analysis sample who were assigned to treatment and offered FBP services did not always enroll in the program, and 2 families who were originally assigned to the control group ended up enrolling in FBP.",
+            "Of the 138 families that were assigned to treatment, 109 (79%) enrolled in the program and received services whereas the remaining 29 (21%) never received FBP services.",
+            "This is within the range of the refusal rates of 10 to 25% reported for home visiting in the United States.",
+            "19 Recent literature on estimating treatment effects in randomized trials has recognized the reality that subjects in randomized trials do not always comply with the assignment and that there might be \"contamination\" of the treatment and control groups.",
+            "As the degree of contamination grows, the recommended intentionto-treat estimates increasingly underestimate the value of receiving the treatment, because fewer subjects are actually receiving services.",
+            "22 To preserve the primary benefit of using random assignment (that the treatment and control groups are equivalent) while accounting for the fact that a substantial number of subjects in our treatment group do not get services, we complement traditional intention-to-treat estimates with contamination-adjusted intentionto-treat (CA-ITT) estimates, which use instrumental variables (IV) to adjust for random assignment noncompliance.",
+            "22, 23 To implement the IV strategy to estimate the treatment effect, we estimated a 2-stage model, where the first-stage equation predicts the receipt of FBP treatment as a function of assignment to the treatment group and family characteristics.",
+            "Whether the family was assigned to the treatment group serves as the instrumental variable because we would expect it to be highly correlated with the receipt of treatment but not correlated with unobserved factors that affect health care use.",
+            "In the second stage equation, we use the predicted values of the outcome variable (receipt of FBP) from the first stage in a linear probability model for each health care use outcome.",
+            "In this equation, we also include family characteristics, such as ethnicity or education, which could potentially moderate the effect of the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "We use a linear probability model to estimate the outcome equations in both the intention-to-treat (ITT) and CA-ITT estimates. Although nonlinear models (such as logistic regression) are often appropriate when explanatory variables are continuous, 24 the linear probability model has advantages over nonlinear models when outcomes are binary and the explanatory variable is binary. 25 Because most of our outcomes are binary and the treatment effect for a randomized trial is binary, the linear probability model is a more appropriate approach.",
+        "section": "Statistical Analysis",
+        "section_number": 15,
+        "sentences": [
+            "We use a linear probability model to estimate the outcome equations in both the intention-to-treat (ITT) and CA-ITT estimates.",
+            "Although nonlinear models (such as logistic regression) are often appropriate when explanatory variables are continuous, 24 the linear probability model has advantages over nonlinear models when outcomes are binary and the explanatory variable is binary.",
+            "25 Because most of our outcomes are binary and the treatment effect for a randomized trial is binary, the linear probability model is a more appropriate approach."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The validity of the CA-ITT approach rests on whether the instrument meets 2 criteria. First, the instrument must be highly correlated with receiving FBP treatment. In all our first-stage models, the tests of the instrument are significant at the 1% level, indicating the instrument is a strong predictor of receiving FBP treatment. Table 1 presents the first-stage estimates for the IV model estimating the effect of FBP group assignment compared with non-FBP group assignment on the probability of receiving FBP services. Second, the instrument must not be correlated with unobservable factors that affect measured health-related outcomes. Given that our instrument is randomly assigned, we would not expect it to be correlated with unobservable factors.",
+        "section": "Statistical Analysis",
+        "section_number": 16,
+        "sentences": [
+            "The validity of the CA-ITT approach rests on whether the instrument meets 2 criteria.",
+            "First, the instrument must be highly correlated with receiving FBP treatment.",
+            "In all our first-stage models, the tests of the instrument are significant at the 1% level, indicating the instrument is a strong predictor of receiving FBP treatment.",
+            "Table 1 presents the first-stage estimates for the IV model estimating the effect of FBP group assignment compared with non-FBP group assignment on the probability of receiving FBP services.",
+            "Second, the instrument must not be correlated with unobservable factors that affect measured health-related outcomes.",
+            "Given that our instrument is randomly assigned, we would not expect it to be correlated with unobservable factors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "This study was approved by the authors' organization's institutional review board before study commencement and was reviewed continuously during the course of the research.",
+        "section": "Statistical Analysis",
+        "section_number": 17,
+        "sentences": [
+            "This study was approved by the authors' organization's institutional review board before study commencement and was reviewed continuously during the course of the research."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "We examine the comparability of the families assigned to treatment and control samples by testing for differences in the means for the 2 samples of variables that should not be influenced by the treatment. These include: mother's adverse childhood experiences (ACEs), child's sex, mother foreign born, mother Hispanic, mother's age when the child was born, mother had more than a high school education, mother not married or living with partner at the child's birth, the birth was paid for by Medicaid, and household income. Table 2 shows the numbers and percentages for each of these variables for the treatment and control samples. We found no differences between the 2 samples for any of these variables at a significance level of \u22640.05.",
+        "section": "Pretreatment Group Comparisons",
+        "section_number": 18,
+        "sentences": [
+            "We examine the comparability of the families assigned to treatment and control samples by testing for differences in the means for the 2 samples of variables that should not be influenced by the treatment.",
+            "These include: mother's adverse childhood experiences (ACEs), child's sex, mother foreign born, mother Hispanic, mother's age when the child was born, mother had more than a high school education, mother not married or living with partner at the child's birth, the birth was paid for by Medicaid, and household income.",
+            "Table 2 shows the numbers and percentages for each of these variables for the treatment and control samples.",
+            "We found no differences between the 2 samples for any of these variables at a significance level of \u22640.05."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "In Table 3 , we report the means for each variable for the treatment and control groups, and also the linear probability estimates for ITT models and CA-ITT models.",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 19,
+        "sentences": [
+            "In Table 3 , we report the means for each variable for the treatment and control groups, and also the linear probability estimates for ITT models and CA-ITT models."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Children whose families were randomly assigned to FBP were one-third less likely to visit the ED in the first year of life (M C = 0.42, M T = 0.28, P = .02). The fraction of control group children who had an ED visit in the first year of life was the same as the national estimate of the fraction of children who visited the ED in the first year of life in 2010. 26 FBP children were also 41% less likely to have visited a primary care provider \u22659 times in the year after birth (M C = 0.49, M T = 0.29, P < .001). The estimates also show that FBP children were less likely to sustain injuries requiring medical attention or to be hospitalized in the first year, but these were not statistically significant differences. ",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 20,
+        "sentences": [
+            "Children whose families were randomly assigned to FBP were one-third less likely to visit the ED in the first year of life (M C = 0.42, M T = 0.28, P = .02).",
+            "The fraction of control group children who had an ED visit in the first year of life was the same as the national estimate of the fraction of children who visited the ED in the first year of life in 2010.",
+            "26 FBP children were also 41% less likely to have visited a primary care provider \u22659 times in the year after birth (M C = 0.49, M T = 0.29, P < .001).",
+            "The estimates also show that FBP children were less likely to sustain injuries requiring medical attention or to be hospitalized in the first year, but these were not statistically significant differences."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "W i = \u03b8 + \u03b4Z i + \u03b5 .",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 21,
+        "sentences": [
+            "W i = \u03b8 + \u03b4Z i + \u03b5 ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Then, the predicted values of W i from this fi rst-stage, \u0174 i , are used in the following equation in the second stage:",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 22,
+        "sentences": [
+            "Then, the predicted values of W i from this fi rst-stage, \u0174 i , are used in the following equation in the second stage:"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Y it = \u03b1 + \u03b2 \u0174 i + \u03b3 X i + \u03b5 it [2].",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 23,
+        "sentences": [
+            "Y it = \u03b1 + \u03b2 \u0174 i + \u03b3 X i + \u03b5 it [2]."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The variables in the vector X i represent family characteristics that could potentially moderate the effect of the intervention, such as ethnicity or education. CI, confi dence interval. Data are presented as number (percentage) of study participants unless otherwise indicated. No signifi cant differences were found between the treatment and control groups (P > .05 in all cases). All variables were measured at the time of the survey unless noted. Consistent with what would be predicted by the statistical models, the CA-ITT point estimates in Table 3 are larger than the ITT point estimates. This is because the ITT point estimates effectively include values of 0 as the effect of the program for the 21% of the treatment sample that did not receive FBP services.",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 24,
+        "sentences": [
+            "The variables in the vector X i represent family characteristics that could potentially moderate the effect of the intervention, such as ethnicity or education.",
+            "CI, confi dence interval.",
+            "Data are presented as number (percentage) of study participants unless otherwise indicated.",
+            "No signifi cant differences were found between the treatment and control groups (P > .05 in all cases).",
+            "All variables were measured at the time of the survey unless noted.",
+            "Consistent with what would be predicted by the statistical models, the CA-ITT point estimates in Table 3 are larger than the ITT point estimates.",
+            "This is because the ITT point estimates effectively include values of 0 as the effect of the program for the 21% of the treatment sample that did not receive FBP services."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "We also tested whether there were differential effects by family background characteristics. There is evidence that home visiting is more effective for high-risk families, 27 and a less-researched question is whether a universal program is effective for lower-risk families. To examine whether FBP also affected infant health care use for lower-risk families, we estimated the CA-ITT models separately for 4 groups: the mother had more than a high school education, the mother was married or had a partner, the household annual income was \u2265$45 000, and mothers who were not teenagers at child's birth. We found similar statistically significant results for lower-risk children in our sample ( Table 4) . Children in the lower-risk families were less likely to visit the ED in the first year and were less likely to have \u22659 primary care visits.",
+        "section": "Treatment Effects on Health Care Use",
+        "section_number": 25,
+        "sentences": [
+            "We also tested whether there were differential effects by family background characteristics.",
+            "There is evidence that home visiting is more effective for high-risk families, 27 and a less-researched question is whether a universal program is effective for lower-risk families.",
+            "To examine whether FBP also affected infant health care use for lower-risk families, we estimated the CA-ITT models separately for 4 groups: the mother had more than a high school education, the mother was married or had a partner, the household annual income was \u2265$45 000, and mothers who were not teenagers at child's birth.",
+            "We found similar statistically significant results for lower-risk children in our sample ( Table 4) .",
+            "Children in the lower-risk families were less likely to visit the ED in the first year and were less likely to have \u22659 primary care visits."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "This randomized clinical trial of a home visiting program for first-time parents finds that in the first year of life, children who participated in the FBP program were one-third less likely to have visited the ED and 41% less likely to have \u22659 primary care visits. We did not find effects of participating in the FBP on hospitalizations or injuries requiring medical attention. Although the signs of the estimates for these outcomes were in the expected direction, the estimates were not statistically significant. The incidence of these 2 outcomes was low, 16% for hospitalizations and 9% for injuries requiring medical attention for the control group, reducing the likelihood that we would identify significant effects on these outcomes given our sample size.",
+        "section": "DISCUSSION",
+        "section_number": 26,
+        "sentences": [
+            "This randomized clinical trial of a home visiting program for first-time parents finds that in the first year of life, children who participated in the FBP program were one-third less likely to have visited the ED and 41% less likely to have \u22659 primary care visits.",
+            "We did not find effects of participating in the FBP on hospitalizations or injuries requiring medical attention.",
+            "Although the signs of the estimates for these outcomes were in the expected direction, the estimates were not statistically significant.",
+            "The incidence of these 2 outcomes was low, 16% for hospitalizations and 9% for injuries requiring medical attention for the control group, reducing the likelihood that we would identify significant effects on these outcomes given our sample size."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "Most home visiting models target high-risk families, based on the argument that higher-risk families will benefit more from services. 27 However, evaluations of home visiting models that serve a broad spectrum of families are rare. Durham Connects is the one universal model listed on the HomVEE site, and they find that both high-risk and low-risk families benefit from participating. Our study is the first evaluation of universal year-long home visiting services, and we find that lower-risk families also benefit from the program.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "Most home visiting models target high-risk families, based on the argument that higher-risk families will benefit more from services.",
+            "27 However, evaluations of home visiting models that serve a broad spectrum of families are rare.",
+            "Durham Connects is the one universal model listed on the HomVEE site, and they find that both high-risk and low-risk families benefit from participating.",
+            "Our study is the first evaluation of universal year-long home visiting services, and we find that lower-risk families also benefit from the program."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "This is the only paper of which we are aware in the home visiting literature that has employed CA-ITT methods to estimate the treatment effect of a home visiting program. As expected, when controlling for the fact that some of the families assigned to treatment did not get services and some of the families in the control group ended up getting treated, we estimated larger impacts of the treatment. Given that levels of noncompliance similar to that observed in our study are typical in home visiting programs, using this approach to estimate effects can provide more accurate estimates of the treatment effect of home visiting programs being evaluated in effectiveness evaluations conducted in real-world settings.",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "This is the only paper of which we are aware in the home visiting literature that has employed CA-ITT methods to estimate the treatment effect of a home visiting program.",
+            "As expected, when controlling for the fact that some of the families assigned to treatment did not get services and some of the families in the control group ended up getting treated, we estimated larger impacts of the treatment.",
+            "Given that levels of noncompliance similar to that observed in our study are typical in home visiting programs, using this approach to estimate effects can provide more accurate estimates of the treatment effect of home visiting programs being evaluated in effectiveness evaluations conducted in real-world settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "A potential limitation of this analysis is that our measures of health care use are based on parent reports rather than administrative records. However, the one home visiting evaluation that collected both parent reports and administrative reports of medical care within the first year of life found similar results by using both measures, 7 and studies comparing administrative records to self-reports for medical care use find substantial to moderate concordance for ED visits and hospitalizations. These studies report less concordance for doctor visits. 28 In addition, the parent reports cover the child's entire first year of life, and hence may be subject to some recall bias over the year-long time period. However, we would not expect the recall bias to be different for treatment and control groups. Another limitation is that only collecting data on families via the interview and not at the time of randomization or study enrollment means that we were not able to compare the characteristics of the 617 randomized families to the final sample interviewed. The FBP model has operated for over 15 years in its original site in Silver City, New Mexico, and has been replicated in 15 diverse counties in New Mexico with the support of both public and private funding. However, this FBP evaluation was conducted in 1 location, and results may reflect local community factors, such as access to health care providers other than the single ED in the area. Communities with different contexts may experience different results from the FBP than those reported here.",
+        "section": "DISCUSSION",
+        "section_number": 29,
+        "sentences": [
+            "A potential limitation of this analysis is that our measures of health care use are based on parent reports rather than administrative records.",
+            "However, the one home visiting evaluation that collected both parent reports and administrative reports of medical care within the first year of life found similar results by using both measures, 7 and studies comparing administrative records to self-reports for medical care use find substantial to moderate concordance for ED visits and hospitalizations.",
+            "These studies report less concordance for doctor visits.",
+            "28 In addition, the parent reports cover the child's entire first year of life, and hence may be subject to some recall bias over the year-long time period.",
+            "However, we would not expect the recall bias to be different for treatment and control groups.",
+            "Another limitation is that only collecting data on families via the interview and not at the time of randomization or study enrollment means that we were not able to compare the characteristics of the 617 randomized families to the final sample interviewed.",
+            "The FBP model has operated for over 15 years in its original site in Silver City, New Mexico, and has been replicated in 15 diverse counties in New Mexico with the support of both public and private funding.",
+            "However, this FBP evaluation was conducted in 1 location, and results may reflect local community factors, such as access to health care providers other than the single ED in the area.",
+            "Communities with different contexts may experience different results from the FBP than those reported here."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "The findings from this evaluation are useful as the nation continues its expansion of home visiting and needs to identify models that are effective and feasible to implement. We find evidence that the FBP model reduced medical contact in children's first year of life. These results demonstrate that it is possible to prevent costly health care use by using a staffing model that does not rely exclusively on nurses, which are scarce in some locations and also cost more than parent educator home visitors.",
+        "section": "CONCLUSIONS",
+        "section_number": 30,
+        "sentences": [
+            "The findings from this evaluation are useful as the nation continues its expansion of home visiting and needs to identify models that are effective and feasible to implement.",
+            "We find evidence that the FBP model reduced medical contact in children's first year of life.",
+            "These results demonstrate that it is possible to prevent costly health care use by using a staffing model that does not rely exclusively on nurses, which are scarce in some locations and also cost more than parent educator home visitors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "ACE: adverse childhood experience CA-ITT: contamination-adjusted intention-to-treat ED: emergency department FBP: First Born Program HomVEE: Home Visiting Evidence of Effectiveness ITT: intention-to-treat IV: instrumental variables",
+        "section": "ABBREVIATIONS",
+        "section_number": 31,
+        "sentences": [
+            "ACE: adverse childhood experience CA-ITT: contamination-adjusted intention-to-treat ED: emergency department FBP: First Born Program HomVEE: Home Visiting Evidence of Effectiveness ITT: intention-to-treat IV: instrumental variables"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "37847",
+        "text": "POTENTIAL CONFLICT OF INTEREST:The authors have indicated they have no potential confl icts of interest to disclose.at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from",
+        "section": "",
+        "section_number": 35,
+        "sentences": [
+            "POTENTIAL CONFLICT OF INTEREST:The authors have indicated they have no potential confl icts of interest to disclose.at Univ Of Alberta on February 27, 2020 www.aappublications.org/news Downloaded from"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

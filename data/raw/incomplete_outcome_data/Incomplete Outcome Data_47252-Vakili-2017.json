@@ -1,0 +1,986 @@
+[
+    {
+        "doc_id": "47252",
+        "text": "Background: Neuraxial anesthesia is an acceptable technique in pregnant females for cesarean section and up to 71% of pregnant patients have hemodynamic complications, especially hypotension. Objectives: This study aimed at comparing the effectiveness of phenylephrine versus ephedrine in treatment of maternal hypotension due to spinal anesthesia for elective cesarean section to determine drug efficacy and fewer side effects. Methods: In this randomized double blind clinical study, 124 pregnant females, who were admitted to Ali ibn Abi Talib hospital in Zahedan, Iran, between 2015 and 2016, for elective cesarean section, were selected by the Block randomization sampling method. The samples were divided to 4 groups: Group I received 5 mg ephedrine bolus, Group II was administered 10 mg bolus ephedrine, Group III were delivered phenylephrine bolus of 50 mcg, and Group IV 100 mcg phenylephrine bolus in case of hypotension. Neonatal outcome and maternal side effects, hemodynamics changes, and Apgar score were controlled and recorded. Results: In terms of hemodynamic parameters (systolic blood pressure, diastolic blood pressure, and pulse rate), there was a significant difference between the groups (P < 0.0001). The umbilical arterial pH value and base excess between ephedrine and phenylephrine groups were significantly different (P < 0.0001), and fetal acidosis in the ephedrine group was found. Nausea and vomiting was significant between the 2 groups (P = 0.03), while the incidence of nausea and vomiting in the ephedrine group was higher than the other groups. There was no difference between the 2 groups in the first-and fifth-minute Apgar (P = 1). Conclusions: Control of blood pressure during spinal 50-mcg phenylephrine is recommended.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Neuraxial anesthesia is an acceptable technique in pregnant females for cesarean section and up to 71% of pregnant patients have hemodynamic complications, especially hypotension.",
+            "Objectives: This study aimed at comparing the effectiveness of phenylephrine versus ephedrine in treatment of maternal hypotension due to spinal anesthesia for elective cesarean section to determine drug efficacy and fewer side effects.",
+            "Methods: In this randomized double blind clinical study, 124 pregnant females, who were admitted to Ali ibn Abi Talib hospital in Zahedan, Iran, between 2015 and 2016, for elective cesarean section, were selected by the Block randomization sampling method.",
+            "The samples were divided to 4 groups: Group I received 5 mg ephedrine bolus, Group II was administered 10 mg bolus ephedrine, Group III were delivered phenylephrine bolus of 50 mcg, and Group IV 100 mcg phenylephrine bolus in case of hypotension.",
+            "Neonatal outcome and maternal side effects, hemodynamics changes, and Apgar score were controlled and recorded.",
+            "Results: In terms of hemodynamic parameters (systolic blood pressure, diastolic blood pressure, and pulse rate), there was a significant difference between the groups (P < 0.0001).",
+            "The umbilical arterial pH value and base excess between ephedrine and phenylephrine groups were significantly different (P < 0.0001), and fetal acidosis in the ephedrine group was found.",
+            "Nausea and vomiting was significant between the 2 groups (P = 0.03), while the incidence of nausea and vomiting in the ephedrine group was higher than the other groups.",
+            "There was no difference between the 2 groups in the first-and fifth-minute Apgar (P = 1).",
+            "Conclusions: Control of blood pressure during spinal 50-mcg phenylephrine is recommended."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Neuraxial anesthesia is an efficient technique to reduce labor pain (1) . Seventy-one percent of pregnant females, who are under spinal anesthesia for elective cesarean section experience hypotension with unwanted side effects such as nausea, vomiting, and fetus acidosis.",
+        "section": "Background",
+        "section_number": 1,
+        "sentences": [
+            "Neuraxial anesthesia is an efficient technique to reduce labor pain (1) .",
+            "Seventy-one percent of pregnant females, who are under spinal anesthesia for elective cesarean section experience hypotension with unwanted side effects such as nausea, vomiting, and fetus acidosis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Sympathetic block due to spinal anesthesia decreases venous return to the heart, which leads to impaired cardiovascular function in pregnant females.",
+        "section": "Background",
+        "section_number": 2,
+        "sentences": [
+            "Sympathetic block due to spinal anesthesia decreases venous return to the heart, which leads to impaired cardiovascular function in pregnant females."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "There are different methods for preventing hypotension, including administration of vasopressor and/or IV therapy. The use of vasopressors is the most important method in prevention and treatment of hypotension.",
+        "section": "Background",
+        "section_number": 3,
+        "sentences": [
+            "There are different methods for preventing hypotension, including administration of vasopressor and/or IV therapy.",
+            "The use of vasopressors is the most important method in prevention and treatment of hypotension."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Two effective vasopressor agents to treat hypotension associated with spinal anesthesia are phenylephrine and ephedrine (2, 3) . Ephedrine directly effects \u03b1 and \u03b2 receptors, and indirectly effects norepinephrine release.",
+        "section": "Background",
+        "section_number": 4,
+        "sentences": [
+            "Two effective vasopressor agents to treat hypotension associated with spinal anesthesia are phenylephrine and ephedrine (2, 3) .",
+            "Ephedrine directly effects \u03b1 and \u03b2 receptors, and indirectly effects norepinephrine release."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "As a non-catecholamine sympathomimetic compound, ephedrine increases blood pressure and since it does not reduce uterine blood flow it has been widely used in the treatment of hypotension in pregnant females.",
+        "section": "Background",
+        "section_number": 5,
+        "sentences": [
+            "As a non-catecholamine sympathomimetic compound, ephedrine increases blood pressure and since it does not reduce uterine blood flow it has been widely used in the treatment of hypotension in pregnant females."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Phenylephrine is a selective agonist of \u03b11 receptor. In addition, it has rapid onset of action and also common in the treatment of hypotension due to spinal anesthesia in pregnant females. The negative inotropic effect of this agent causes reflex bradycardia and decreased cardiac output yet it has no adverse effects on the fetus in patients undergoing elective operations (4, 5) . Phenylephrine could be used via infusion or bolus doses.",
+        "section": "Background",
+        "section_number": 6,
+        "sentences": [
+            "Phenylephrine is a selective agonist of \u03b11 receptor.",
+            "In addition, it has rapid onset of action and also common in the treatment of hypotension due to spinal anesthesia in pregnant females.",
+            "The negative inotropic effect of this agent causes reflex bradycardia and decreased cardiac output yet it has no adverse effects on the fetus in patients undergoing elective operations (4, 5) .",
+            "Phenylephrine could be used via infusion or bolus doses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "If phenylephrine is administered in bolus, required doses decrease and blood pressure could be better con-trolled and maintained close to the baseline blood pressure, and bradycardia occurs less frequently (6) (7) (8) .",
+        "section": "Background",
+        "section_number": 7,
+        "sentences": [
+            "If phenylephrine is administered in bolus, required doses decrease and blood pressure could be better con-trolled and maintained close to the baseline blood pressure, and bradycardia occurs less frequently (6) (7) (8) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Due to variable results in different studies on neonates and mothers regarding these 2 vasopressors, the optimal dose of bolus ephedrine and phenylephrine has not yet been determined (9) . This study aimed at investigating the effectiveness of different doses of phenylephrine and ephedrine in the treatment of maternal hypotension during spinal anesthesia for elective cesarean section delivery.",
+        "section": "Objectives",
+        "section_number": 8,
+        "sentences": [
+            "Due to variable results in different studies on neonates and mothers regarding these 2 vasopressors, the optimal dose of bolus ephedrine and phenylephrine has not yet been determined (9) .",
+            "This study aimed at investigating the effectiveness of different doses of phenylephrine and ephedrine in the treatment of maternal hypotension during spinal anesthesia for elective cesarean section delivery."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In a randomized double-blind clinical study, 124 pregnant females with ASA class I, who were candidates for elective cesarean delivery at Ali ibn Abi Talib hospital, Zahedan, during September 2015 to March 2016, were enrolled.",
+        "section": "Setting",
+        "section_number": 9,
+        "sentences": [
+            "In a randomized double-blind clinical study, 124 pregnant females with ASA class I, who were candidates for elective cesarean delivery at Ali ibn Abi Talib hospital, Zahedan, during September 2015 to March 2016, were enrolled."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "The study was conducted after approval from the school of medicine's ethics committee (IR.ZAUMS.REC.1394:",
+        "section": "Ethics",
+        "section_number": 10,
+        "sentences": [
+            "The study was conducted after approval from the school of medicine's ethics committee (IR.ZAUMS.REC.1394:"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "136 and IRCT NO; IRCT2015050622131N1).",
+        "section": "Ethics",
+        "section_number": 11,
+        "sentences": [
+            "136 and IRCT NO; IRCT2015050622131N1)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Inclusion criteria were pregnancy, age of 20 to 35 years, ASA class I undergoing elective caesarean section, singleton pregnancy, gestational age of 40 to 36 weeks, weight of 45 to 90 kg, and height of 145 to 180 cm. The exclusion criteria included a history of high blood pressure (140/90 BP \u2265), history of cardiovascular or cerebrovascular diseases, sensitivity to anesthesia, complications of pregnancy, such as gestational hypertension and high-risk pregnancies (multiple gestations and intrauterine growth retardation), abnormalities of the placenta and umbilical cord, and contraindications for spinal anesthesia (patient refusal for spinal anesthesia, coagulopathies, infection in the area of anesthesia, hemorrhage or hypovolemic shock). Exclusion criteria during the study included unpredictable events, such as abnormal bleeding during surgery and unsuccessful spinal anesthesia. Therefore, before study initiation in accordance with the objectives of the study and inclusion and exclusion criteria, a check-list that included demographic, hemodynamic status, maternal and fetal complications, and Apgar score, time of onset of spinal anesthesia to delivery, time of surgical incision to delivery, and the time of incision to delivery, was prepared.",
+        "section": "Inclusion and Exclusion Criteria",
+        "section_number": 12,
+        "sentences": [
+            "Inclusion criteria were pregnancy, age of 20 to 35 years, ASA class I undergoing elective caesarean section, singleton pregnancy, gestational age of 40 to 36 weeks, weight of 45 to 90 kg, and height of 145 to 180 cm.",
+            "The exclusion criteria included a history of high blood pressure (140/90 BP \u2265), history of cardiovascular or cerebrovascular diseases, sensitivity to anesthesia, complications of pregnancy, such as gestational hypertension and high-risk pregnancies (multiple gestations and intrauterine growth retardation), abnormalities of the placenta and umbilical cord, and contraindications for spinal anesthesia (patient refusal for spinal anesthesia, coagulopathies, infection in the area of anesthesia, hemorrhage or hypovolemic shock).",
+            "Exclusion criteria during the study included unpredictable events, such as abnormal bleeding during surgery and unsuccessful spinal anesthesia.",
+            "Therefore, before study initiation in accordance with the objectives of the study and inclusion and exclusion criteria, a check-list that included demographic, hemodynamic status, maternal and fetal complications, and Apgar score, time of onset of spinal anesthesia to delivery, time of surgical incision to delivery, and the time of incision to delivery, was prepared."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "For the sample allocation block randomization was used for each of the treatment groups. Each patient based on block randomization with 10 blocks contained 3 cards for each group with a total of 12 cards in each block, and was randomly assigned to 1 of the 4 double-blind study groups.",
+        "section": "Sample Size",
+        "section_number": 13,
+        "sentences": [
+            "For the sample allocation block randomization was used for each of the treatment groups.",
+            "Each patient based on block randomization with 10 blocks contained 3 cards for each group with a total of 12 cards in each block, and was randomly assigned to 1 of the 4 double-blind study groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "(1)",
+        "section": "Sample Size",
+        "section_number": 14,
+        "sentences": [
+            "(1)"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "n = Z 1\u2212 \u03b1 2 + Z 1\u2212\u03b2 2 S 2 1 + S 2 1 2 (\u00b51 \u2212 \u00b52) 2 = (1.96 + 1.64) 2 3 2 + 3 2 (58 \u2212 60) 2 = 30",
+        "section": "Sample Size",
+        "section_number": 15,
+        "sentences": [
+            "n = Z 1\u2212 \u03b1 2 + Z 1\u2212\u03b2 2 S 2 1 + S 2 1 2 (\u00b51 \u2212 \u00b52) 2 = (1.96 + 1.64) 2 3 2 + 3 2 (58 \u2212 60) 2 = 30"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Where S 1 = 3 and S 2 = 3 are standard deviations and \u00b5 1 = 58 and \u00b5 2 = 60 are mean of systolic pressure in ephedrine and phenylephrine groups, respectively. Z 1 -a/2 = 1.96 when a = 0.05 and Z 1 -\u00df = 1.64 when \u00df = 0.05 (power, 95%). The value of Sd and \u00b5 were from the study Gunda et al. (10) .",
+        "section": "Sample Size",
+        "section_number": 16,
+        "sentences": [
+            "Where S 1 = 3 and S 2 = 3 are standard deviations and \u00b5 1 = 58 and \u00b5 2 = 60 are mean of systolic pressure in ephedrine and phenylephrine groups, respectively.",
+            "Z 1 -a/2 = 1.96 when a = 0.05 and Z 1 -\u00df = 1.64 when \u00df = 0.05 (power, 95%).",
+            "The value of Sd and \u00b5 were from the study Gunda et al. (10) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Informed consents were obtained from the eligible pregnant females after explaining the method of the trial.",
+        "section": "Methods of the Study",
+        "section_number": 17,
+        "sentences": [
+            "Informed consents were obtained from the eligible pregnant females after explaining the method of the trial."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "The night before surgery, patients were treated with oral 150 mg ranitidine and on the day of surgery before arrival to the operating room height and weight of the every pregnant female was recorded by a weight and height gauge device (RASAI) with scales and upon arrival to the operating room blood pressure and heart rate of all patients were monitored through devices (SIEMENS SC7000).",
+        "section": "Methods of the Study",
+        "section_number": 18,
+        "sentences": [
+            "The night before surgery, patients were treated with oral 150 mg ranitidine and on the day of surgery before arrival to the operating room height and weight of the every pregnant female was recorded by a weight and height gauge device (RASAI) with scales and upon arrival to the operating room blood pressure and heart rate of all patients were monitored through devices (SIEMENS SC7000)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "The patient was placed in the lateral position and intravenous cannulation was performed by a brachial vein venipuncture NO, 16, and patients received 10 cc/kg Ringer's lactate before performing spinal anesthesia. The patient was monitored immediately after positioning in the supine position and O 2 was given by the face mask to help ventilation by Drager Fabius ventilator by consideration of left uterine displacement.",
+        "section": "Methods of the Study",
+        "section_number": 19,
+        "sentences": [
+            "The patient was placed in the lateral position and intravenous cannulation was performed by a brachial vein venipuncture NO, 16, and patients received 10 cc/kg Ringer's lactate before performing spinal anesthesia.",
+            "The patient was monitored immediately after positioning in the supine position and O 2 was given by the face mask to help ventilation by Drager Fabius ventilator by consideration of left uterine displacement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "From the moment of spinal anesthesia, patient's blood pressure was controlled every 3 to 15 minutes and then every 10 minutes, up to 75 minutes.",
+        "section": "Methods of the Study",
+        "section_number": 20,
+        "sentences": [
+            "From the moment of spinal anesthesia, patient's blood pressure was controlled every 3 to 15 minutes and then every 10 minutes, up to 75 minutes."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "After about 5 minutes of confirmation of the level of spinal anesthesia by examining the disappearance of feeling to the cold by alcohol cotton, permission to start the operation was given.",
+        "section": "Methods of the Study",
+        "section_number": 21,
+        "sentences": [
+            "After about 5 minutes of confirmation of the level of spinal anesthesia by examining the disappearance of feeling to the cold by alcohol cotton, permission to start the operation was given."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In case of hypotension (systolic blood pressure for more than 20% of patient's baseline blood pressure), ephedrine 5 mg or 10 mg and phenylephrine 50 mcg or 100 mcg was randomly injected by a nurse, who was blinded to the medication in separate syringes with a particular code for each syringe. An assistant, who did not know the contents of the syringes administered the drugs to the patients if blood pressure droped.",
+        "section": "Intervention and Protocol",
+        "section_number": 22,
+        "sentences": [
+            "In case of hypotension (systolic blood pressure for more than 20% of patient's baseline blood pressure), ephedrine 5 mg or 10 mg and phenylephrine 50 mcg or 100 mcg was randomly injected by a nurse, who was blinded to the medication in separate syringes with a particular code for each syringe.",
+            "An assistant, who did not know the contents of the syringes administered the drugs to the patients if blood pressure droped."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Information was recorded in a check list by a researcher, who did not know the contents of the syringes. In this study, time to onset of the spinal to delivery and incision time to delivery and also uterus incision time to delivery were recorded.",
+        "section": "Intervention and Protocol",
+        "section_number": 23,
+        "sentences": [
+            "Information was recorded in a check list by a researcher, who did not know the contents of the syringes.",
+            "In this study, time to onset of the spinal to delivery and incision time to delivery and also uterus incision time to delivery were recorded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Immediately after delivery, umbilical arterial blood samples were taken with heparinized insulin syringe after bilateral umbilical cord clamping for neonatal blood gas analysis.",
+        "section": "Intervention and Protocol",
+        "section_number": 24,
+        "sentences": [
+            "Immediately after delivery, umbilical arterial blood samples were taken with heparinized insulin syringe after bilateral umbilical cord clamping for neonatal blood gas analysis."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "By the blood gas analyzer, GASTAT-603ie, the pH value and base excess were determined. Apgar score at the first and fifth minute after birth was recorded.",
+        "section": "Intervention and Protocol",
+        "section_number": 25,
+        "sentences": [
+            "By the blood gas analyzer, GASTAT-603ie, the pH value and base excess were determined.",
+            "Apgar score at the first and fifth minute after birth was recorded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Quantitative variables, such as age, weight, height, and gestational age for each group, were reported as means \u00b1 standard deviation. Heart rate (HR), SBP, and DBP within and between groups were statistically evaluated using repeated measure Analysis of Variance (ANOVA) and paired sample t tests for comparison of each group at different times, and One Way ANOVA was used to asses differences among groups at the same time. Complications of nausea and vomiting were evaluated with the Chi-square test. Mann-Whitney and Kruskal-Wallis were used when Kolmogerov Smirnov test showed that the distribution of quantative variables was not normal. The SPSS 19 software (version of SPSS Inc, CH (19)) was used to perform the analyses. P values of < 0.05 were considered as significant differences in this study.",
+        "section": "Statistical Analysis",
+        "section_number": 26,
+        "sentences": [
+            "Quantitative variables, such as age, weight, height, and gestational age for each group, were reported as means \u00b1 standard deviation.",
+            "Heart rate (HR), SBP, and DBP within and between groups were statistically evaluated using repeated measure Analysis of Variance (ANOVA) and paired sample t tests for comparison of each group at different times, and One Way ANOVA was used to asses differences among groups at the same time.",
+            "Complications of nausea and vomiting were evaluated with the Chi-square test.",
+            "Mann-Whitney and Kruskal-Wallis were used when Kolmogerov Smirnov test showed that the distribution of quantative variables was not normal.",
+            "The SPSS 19 software (version of SPSS Inc, CH (19)) was used to perform the analyses.",
+            "P values of < 0.05 were considered as significant differences in this study."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "This study was conducted on 124 pregnant females, who were referred for elective caesarean section.",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "This study was conducted on 124 pregnant females, who were referred for elective caesarean section."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Four pregnant females due to lack of inclusion criteria, 2 with gestational diabetes and 2 with gestational hypertension were excluded and the remaining 120 patients were randomly divided to 4 groups of 30. Patients in the first group received 5 mg ephedrine due to hypotension during spinal anesthesia, while patients received 10 mg of ephedrine in group II and 50 \u00b5g and 100 \u00b5g of phenylephrine in group III and group IV, respectively. Patients underwent follow-up during surgery ( Figure 1 ).",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "Four pregnant females due to lack of inclusion criteria, 2 with gestational diabetes and 2 with gestational hypertension were excluded and the remaining 120 patients were randomly divided to 4 groups of 30.",
+            "Patients in the first group received 5 mg ephedrine due to hypotension during spinal anesthesia, while patients received 10 mg of ephedrine in group II and 50 \u00b5g and 100 \u00b5g of phenylephrine in group III and group IV, respectively.",
+            "Patients underwent follow-up during surgery ( Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "None of the patients needed additional doses of phenylephrine and ephedrine. In terms of demographic data, such as age, weight, height, and gestational age, there were no significant differences between the groups.",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "None of the patients needed additional doses of phenylephrine and ephedrine.",
+            "In terms of demographic data, such as age, weight, height, and gestational age, there were no significant differences between the groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "There was a significant difference between the 4 groups in base excess and pH (P < 0.0001). There was no significant difference between the first minute and fifth minute Apgar score. Time of spinal onset to delivery and incision time to delivery and uterus incision to delivery time were similar between the groups (Table 1) .",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "There was a significant difference between the 4 groups in base excess and pH (P < 0.0001).",
+            "There was no significant difference between the first minute and fifth minute Apgar score.",
+            "Time of spinal onset to delivery and incision time to delivery and uterus incision to delivery time were similar between the groups (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Comparison between groups using t test for umbilical artery pH value and base excess results revealed that there was a significant difference between the 2 groups (P < 0.0001).",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "Comparison between groups using t test for umbilical artery pH value and base excess results revealed that there was a significant difference between the 2 groups (P < 0.0001)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In the ephedrine group mean PH value was 7.27 while it was 7.34 in the phenylephrine group, which showed that umbilical artery pH droped in the ephedrine group and was more than the phenylephrine group.",
+        "section": "Results",
+        "section_number": 32,
+        "sentences": [
+            "In the ephedrine group mean PH value was 7.27 while it was 7.34 in the phenylephrine group, which showed that umbilical artery pH droped in the ephedrine group and was more than the phenylephrine group."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Comparison of the first minute Apgar score and fifth minute showed no significant differences between the two groups.",
+        "section": "Results",
+        "section_number": 33,
+        "sentences": [
+            "Comparison of the first minute Apgar score and fifth minute showed no significant differences between the two groups."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "There were no differences between the 2 groups in the time of spinal anesthesia to delivery, incision time to delivery, and incision time to the delivery between the 2 agents ( Table 2) .",
+        "section": "Results",
+        "section_number": 34,
+        "sentences": [
+            "There were no differences between the 2 groups in the time of spinal anesthesia to delivery, incision time to delivery, and incision time to the delivery between the 2 agents ( Table 2) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Hemodynamic changes between the 4 groups (systolic blood pressure, diastolic blood pressure, and pulse rate) were investigated.",
+        "section": "Results",
+        "section_number": 35,
+        "sentences": [
+            "Hemodynamic changes between the 4 groups (systolic blood pressure, diastolic blood pressure, and pulse rate) were investigated."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "After spinal anesthesia due to hypotension in each group vasopressors were administered and systolic blood pressure had a significant difference between the 2 groups (P < 0.0001). Increased systolic blood pressure was greater at higher doses of both drugs and diastolic blood pressure had a significant difference among the 4 groups (P < 0.0001).",
+        "section": "Results",
+        "section_number": 36,
+        "sentences": [
+            "After spinal anesthesia due to hypotension in each group vasopressors were administered and systolic blood pressure had a significant difference between the 2 groups (P < 0.0001).",
+            "Increased systolic blood pressure was greater at higher doses of both drugs and diastolic blood pressure had a significant difference among the 4 groups (P < 0.0001)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Heart rate had a significant difference between the 4 groups (P < 0.0001) and heart rate in the ephedrine group was higher than the phenylephrine group. Bradycardia (HR < 60) in the phenylephrine group and at a dose of 100 \u00b5g was the greatest. Increased Heart Rate (HR > 100) was found in the ephedrine group, which was higher than the ephedrine group with 10 mg (Figure 2 ). Maternal complications frequency of nausea in the ephedrine group was higher than phenylephrine and it was more with high doses of ephedrine yet no significant correlations were found between low doses of these drugs for nausea, although, there was a significant relationship between phenylephrine and ephedrine groups (P = 0.03).",
+        "section": "Results",
+        "section_number": 37,
+        "sentences": [
+            "Heart rate had a significant difference between the 4 groups (P < 0.0001) and heart rate in the ephedrine group was higher than the phenylephrine group.",
+            "Bradycardia (HR < 60) in the phenylephrine group and at a dose of 100 \u00b5g was the greatest.",
+            "Increased Heart Rate (HR > 100) was found in the ephedrine group, which was higher than the ephedrine group with 10 mg (Figure 2 ).",
+            "Maternal complications frequency of nausea in the ephedrine group was higher than phenylephrine and it was more with high doses of ephedrine yet no significant correlations were found between low doses of these drugs for nausea, although, there was a significant relationship between phenylephrine and ephedrine groups (P = 0.03)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Vomiting was found at doses of 5 and 10 mg of ephedrine. While in phenylephrine, even 50 and 100 mcg was not observed. There was no significant relationship between different doses of ephedrine (P = 0.13), yet in comparison between groups in terms of side effects between ephedrine and phenylephrine, there was a significant relationship regarding vomiting (P < 0.0001).",
+        "section": "Results",
+        "section_number": 38,
+        "sentences": [
+            "Vomiting was found at doses of 5 and 10 mg of ephedrine.",
+            "While in phenylephrine, even 50 and 100 mcg was not observed.",
+            "There was no significant relationship between different doses of ephedrine (P = 0.13), yet in comparison between groups in terms of side effects between ephedrine and phenylephrine, there was a significant relationship regarding vomiting (P < 0.0001)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Thus, maternal effects of nausea and vomiting with ephedrine were more than phenylephrine (Table 3) .",
+        "section": "Results",
+        "section_number": 39,
+        "sentences": [
+            "Thus, maternal effects of nausea and vomiting with ephedrine were more than phenylephrine (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, by comparing the different doses of phenylephrine and ephedrine, it seems that despite controlling the blood pressure in both groups, phenylephrine maternal and fetal complications were lower than ephedrine.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "In this study, by comparing the different doses of phenylephrine and ephedrine, it seems that despite controlling the blood pressure in both groups, phenylephrine maternal and fetal complications were lower than ephedrine."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, by comparing systolic and diastolic blood pressure and heart rate, there was a statistically significant difference between the groups.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "In this study, by comparing systolic and diastolic blood pressure and heart rate, there was a statistically significant difference between the groups."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Although in Alma et al.'s study, bolus doses of ephedrine and phenylephrine were used to control blood pressure, there was no difference between groups (8).",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "Although in Alma et al.'s study, bolus doses of ephedrine and phenylephrine were used to control blood pressure, there was no difference between groups (8)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In other studies (2, 10, 11) there was no difference between the 2 groups in terms of blood pressure control. In these studies, the bolus dose followed by infusion was used to control blood pressure.",
+        "section": "Discussion",
+        "section_number": 43,
+        "sentences": [
+            "In other studies (2, 10, 11) there was no difference between the 2 groups in terms of blood pressure control.",
+            "In these studies, the bolus dose followed by infusion was used to control blood pressure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In the study of Doherty et al. differences did not exist between the 2 groups in blood pressure control between the method of infusion or bolus administration.",
+        "section": "Discussion",
+        "section_number": 44,
+        "sentences": [
+            "In the study of Doherty et al. differences did not exist between the 2 groups in blood pressure control between the method of infusion or bolus administration."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Although in the bolus method, less drugs were re- quired, while blood pressure was maintained at a close range to the baseline blood pressure (6) .",
+        "section": "Discussion",
+        "section_number": 45,
+        "sentences": [
+            "Although in the bolus method, less drugs were re- quired, while blood pressure was maintained at a close range to the baseline blood pressure (6) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, further doses of vasopressor were not required to control blood pressure.",
+        "section": "Discussion",
+        "section_number": 46,
+        "sentences": [
+            "In this study, further doses of vasopressor were not required to control blood pressure."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Also, due to the effects of ephedrine as a non-catecholamine sympathomimetic vasopressor, causing tachycardia, and because of negative inotrope effect of phenylephrine bradycardia and decreased cardiac output occur.",
+        "section": "Discussion",
+        "section_number": 47,
+        "sentences": [
+            "Also, due to the effects of ephedrine as a non-catecholamine sympathomimetic vasopressor, causing tachycardia, and because of negative inotrope effect of phenylephrine bradycardia and decreased cardiac output occur."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "These changes in the present study and most studies Iran Red Crescent Med J. 2017; 19(10):e13978. In the study of Anilkumar et al. the bolus dose of phenylephrine, ephedrine, and mephentermine used to control blood pressure and diastolic blood pressure in ephedrine group was less than the phenylephrine group and systolic blood pressure in the phenylephrine group was higher than the ephedrine group (12) .",
+        "section": "Discussion",
+        "section_number": 48,
+        "sentences": [
+            "These changes in the present study and most studies Iran Red Crescent Med J. 2017; 19(10):e13978.",
+            "In the study of Anilkumar et al. the bolus dose of phenylephrine, ephedrine, and mephentermine used to control blood pressure and diastolic blood pressure in ephedrine group was less than the phenylephrine group and systolic blood pressure in the phenylephrine group was higher than the ephedrine group (12) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, systolic blood pressure in the ephedrine group (10 mg) was higher than the phenylephrine group (100 \u00b5g) and diastolic pressure in the phenylephrine 6 Iran Red Crescent Med J. 2017; 19(10):e13978. group (100 \u00b5g) was higher than the ephedrine group (10 mg).",
+        "section": "Discussion",
+        "section_number": 49,
+        "sentences": [
+            "In this study, systolic blood pressure in the ephedrine group (10 mg) was higher than the phenylephrine group (100 \u00b5g) and diastolic pressure in the phenylephrine 6 Iran Red Crescent Med J. 2017; 19(10):e13978.",
+            "group (100 \u00b5g) was higher than the ephedrine group (10 mg)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Nausea and vomiting were other complications of spinal anesthesia for cesarean section in addition to hypotension because spinal anesthesia-induced hypotension by reducing brain perfusion leads to ischemia brain stem and thereby activates the vomiting center.",
+        "section": "Discussion",
+        "section_number": 50,
+        "sentences": [
+            "Nausea and vomiting were other complications of spinal anesthesia for cesarean section in addition to hypotension because spinal anesthesia-induced hypotension by reducing brain perfusion leads to ischemia brain stem and thereby activates the vomiting center."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Since phenylephrine has rapid onset of action than ephedrine, the incidence of nausea and vomiting is lower by administration of phenylephrine (13) .",
+        "section": "Discussion",
+        "section_number": 51,
+        "sentences": [
+            "Since phenylephrine has rapid onset of action than ephedrine, the incidence of nausea and vomiting is lower by administration of phenylephrine (13) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "The frequency of nausea in the ephedrine group was more than the phenylephrine group. In a number of previous studies (10, (14) (15) (16) (17) (18) (19) , such as the current study, nausea and vomiting in the ephedrine group was more than the phenylephrine group, yet in the study by Magalhas et al. no difference was observed between phenylephrine and ephedrine, regarding nausea and vomiting (20) .",
+        "section": "Discussion",
+        "section_number": 52,
+        "sentences": [
+            "The frequency of nausea in the ephedrine group was more than the phenylephrine group.",
+            "In a number of previous studies (10, (14) (15) (16) (17) (18) (19) , such as the current study, nausea and vomiting in the ephedrine group was more than the phenylephrine group, yet in the study by Magalhas et al. no difference was observed between phenylephrine and ephedrine, regarding nausea and vomiting (20) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In terms of umbilical cord arterial pH and base excess, there was a significant difference between the 4 groups.",
+        "section": "Discussion",
+        "section_number": 53,
+        "sentences": [
+            "In terms of umbilical cord arterial pH and base excess, there was a significant difference between the 4 groups."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Since fetal acidosis is defined with PH < 7.20 (18) , it was not seen in any of the groups, yet the umbilical cord in the ephedrine group (PH = 7.27) was lower than phenylephrine (PH = 7.34).",
+        "section": "Discussion",
+        "section_number": 54,
+        "sentences": [
+            "Since fetal acidosis is defined with PH < 7.20 (18) , it was not seen in any of the groups, yet the umbilical cord in the ephedrine group (PH = 7.27) was lower than phenylephrine (PH = 7.34)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In previous studies (5, 14, (17) (18) (19) (20) (21) (22) (23) as well as the current study, the umbilical cord PH droped in the ephedrine group and was more than the phenylephrine group. However, in previous studies (2, 8, 11, (24) (25) (26) (27) (28) (29) no differences were seen between the 2 groups of phenylephrine and ephedrine in terms of fetal acidosis.",
+        "section": "Discussion",
+        "section_number": 55,
+        "sentences": [
+            "In previous studies (5, 14, (17) (18) (19) (20) (21) (22) (23) as well as the current study, the umbilical cord PH droped in the ephedrine group and was more than the phenylephrine group.",
+            "However, in previous studies (2, 8, 11, (24) (25) (26) (27) (28) (29) no differences were seen between the 2 groups of phenylephrine and ephedrine in terms of fetal acidosis."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Ephedrine could be the cause of fetal acidosis through the effect of \u03b2-adrenergic on the receptors.",
+        "section": "Discussion",
+        "section_number": 56,
+        "sentences": [
+            "Ephedrine could be the cause of fetal acidosis through the effect of \u03b2-adrenergic on the receptors."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Ephedrine easily passes through the placenta and the higher the dose, the more severe acidosis occurs. Phenylephrine has no adverse effects on the fetus, yet according to the definition of \u03b1 receptor and increases in blood pressure, sufficient oxygen is supplied during labor to the placenta (7) .",
+        "section": "Discussion",
+        "section_number": 57,
+        "sentences": [
+            "Ephedrine easily passes through the placenta and the higher the dose, the more severe acidosis occurs.",
+            "Phenylephrine has no adverse effects on the fetus, yet according to the definition of \u03b1 receptor and increases in blood pressure, sufficient oxygen is supplied during labor to the placenta (7) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, the first-and fifth-minute Apgar score had no difference between phenylephrine and ephedrine groups. In the various studies (2, 8, 11, 14, 16-18, 21, 24, 26, 29, 30) , there was also no difference between the 2 groups.",
+        "section": "Discussion",
+        "section_number": 58,
+        "sentences": [
+            "In this study, the first-and fifth-minute Apgar score had no difference between phenylephrine and ephedrine groups.",
+            "In the various studies (2, 8, 11, 14, 16-18, 21, 24, 26, 29, 30) , there was also no difference between the 2 groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "As strengths of this study, different doses of phenylephrine and ephedrine as bolus were used to control blood pressure. In most previous studies, these drugs have been used with infusion pumps. The importance of using the bolus method is that less drugs were required, while blood pressure was maintained at a close range to the baseline blood pressure.",
+        "section": "Discussion",
+        "section_number": 59,
+        "sentences": [
+            "As strengths of this study, different doses of phenylephrine and ephedrine as bolus were used to control blood pressure.",
+            "In most previous studies, these drugs have been used with infusion pumps.",
+            "The importance of using the bolus method is that less drugs were required, while blood pressure was maintained at a close range to the baseline blood pressure."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "This study had certain limitations. If a patient did not develop hypotension after spinal anesthesia, a similar randomization slip was sealed and placed back in the dish. There could be a possibility of bias due to this study, however, observations were objective in nature making this possibility unseemly. However, it is contentious whether the utero placental flow depends on maternal cardiac output or blood pressure, because the uterine arteries are maximally dilated during pregnancy. Another limitation was that in this research only blood pressure and heart rate were measured and cardiac output was not considered. Further work is needed, including comparisons of changes in cardiac output in response to different doses of bolus phenylephrine and ephedrine.",
+        "section": "Discussion",
+        "section_number": 60,
+        "sentences": [
+            "This study had certain limitations.",
+            "If a patient did not develop hypotension after spinal anesthesia, a similar randomization slip was sealed and placed back in the dish.",
+            "There could be a possibility of bias due to this study, however, observations were objective in nature making this possibility unseemly.",
+            "However, it is contentious whether the utero placental flow depends on maternal cardiac output or blood pressure, because the uterine arteries are maximally dilated during pregnancy.",
+            "Another limitation was that in this research only blood pressure and heart rate were measured and cardiac output was not considered.",
+            "Further work is needed, including comparisons of changes in cardiac output in response to different doses of bolus phenylephrine and ephedrine."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "In this study, the effect of 2 vasopressors, phenylephrine and ephedrine, to treat hypotension associated with spinal anesthesia for elective cesarean section in pregnant females at 2 different doses were studied.",
+        "section": "Conclusions",
+        "section_number": 61,
+        "sentences": [
+            "In this study, the effect of 2 vasopressors, phenylephrine and ephedrine, to treat hypotension associated with spinal anesthesia for elective cesarean section in pregnant females at 2 different doses were studied."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "According to the results of the study in terms of the hemodynamic changes, the low-doses of these drugs could control systolic and diastolic blood pressure close to the patient's baseline blood pressure.",
+        "section": "Conclusions",
+        "section_number": 62,
+        "sentences": [
+            "According to the results of the study in terms of the hemodynamic changes, the low-doses of these drugs could control systolic and diastolic blood pressure close to the patient's baseline blood pressure."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Side effects of ephedrine administration, including tachycardia and on the other hand, bradycardia with phenylephrine administeration at a low dose was lower.",
+        "section": "Conclusions",
+        "section_number": 63,
+        "sentences": [
+            "Side effects of ephedrine administration, including tachycardia and on the other hand, bradycardia with phenylephrine administeration at a low dose was lower."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Therefore, it is recommended to use 5 mg of ephedrine and 50 \u00b5g of phenylephrine.",
+        "section": "Conclusions",
+        "section_number": 64,
+        "sentences": [
+            "Therefore, it is recommended to use 5 mg of ephedrine and 50 \u00b5g of phenylephrine."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Fetal complications, including fetal acidosis with ephedrine was more than phenylephrine. According to this study, a suitable drug for spinal anesthesia-induced hypotension is phenylephrine with a dose of 50 \u00b5g.",
+        "section": "Conclusions",
+        "section_number": 65,
+        "sentences": [
+            "Fetal complications, including fetal acidosis with ephedrine was more than phenylephrine.",
+            "According to this study, a suitable drug for spinal anesthesia-induced hypotension is phenylephrine with a dose of 50 \u00b5g."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "47252",
+        "text": "Iran Red Crescent Med J. 2017; 19(10):e13978.",
+        "section": "",
+        "section_number": 66,
+        "sentences": [
+            "Iran Red Crescent Med J. 2017; 19(10):e13978."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

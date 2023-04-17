@@ -1,0 +1,579 @@
+[
+    {
+        "doc_id": "34315",
+        "text": "To investigate across multiple cycles the efficacy and safety of palonosetron in the prevention of chemotherapy-induced nausea and vomiting in pediatric cancer patients receiving highly or moderately emetogenic chemotherapy (HEC/MEC). Patients & methods: Patients were randomly assigned to 10, 20 \u03bcg/kg palonosetron or 3 \u00d7 150 \u03bcg/kg ondansetron for up to four cycles of HEC/MEC. Results: In all on-study chemotherapy cycles, complete response rates were higher in patients in the 20 \u03bcg/kg palonosetron group than the ondansetron group. Treatment-emergent adverse events were comparable between the palonosetron 20 \u03bcg/kg and ondansetron groups. conclusion: Over four cycles of HEC/ MEC, 20 \u03bcg/kg palonosetron was an efficacious and safe treatment for the prevention of chemotherapy-induced nausea and vomiting in pediatric cancer patients.",
+        "section": "Abstract",
+        "sentences": [
+            "To investigate across multiple cycles the efficacy and safety of palonosetron in the prevention of chemotherapy-induced nausea and vomiting in pediatric cancer patients receiving highly or moderately emetogenic chemotherapy (HEC/MEC).",
+            "Patients & methods: Patients were randomly assigned to 10, 20 \u03bcg/kg palonosetron or 3 \u00d7 150 \u03bcg/kg ondansetron for up to four cycles of HEC/MEC.",
+            "Results: In all on-study chemotherapy cycles, complete response rates were higher in patients in the 20 \u03bcg/kg palonosetron group than the ondansetron group.",
+            "Treatment-emergent adverse events were comparable between the palonosetron 20 \u03bcg/kg and ondansetron groups.",
+            "conclusion: Over four cycles of HEC/ MEC, 20 \u03bcg/kg palonosetron was an efficacious and safe treatment for the prevention of chemotherapy-induced nausea and vomiting in pediatric cancer patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Chemotherapy-induced nausea and vomiting (CINV) are common and distressing side effects in cancer patients receiving highly emetogenic chemotherapy (HEC) and moderately emetogenic chemotherapy (MEC) regimens [1, 2] . CINV negatively impacts on patient quality of life [3] , and can lead to medical complications and to noncompliance or premature discontinuation of anticancer therapy [4] . It is recognized that children receiving chemotherapy are more prone to vomiting than adults, and it is estimated that 70% of pediatric cancer patients receiving chemotherapy will develop CINV [2] .",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Chemotherapy-induced nausea and vomiting (CINV) are common and distressing side effects in cancer patients receiving highly emetogenic chemotherapy (HEC) and moderately emetogenic chemotherapy (MEC) regimens [1, 2] .",
+            "CINV negatively impacts on patient quality of life [3] , and can lead to medical complications and to noncompliance or premature discontinuation of anticancer therapy [4] .",
+            "It is recognized that children receiving chemotherapy are more prone to vomiting than adults, and it is estimated that 70% of pediatric cancer patients receiving chemotherapy will develop CINV [2] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Prevention of CINV in adult cancer patients receiving HEC or MEC regimens can be achieved through the use of antiemetic agents, a combination of a 5-hydroxytryptamine-3 (5-HT 3 ) receptor antagonist, a corticosteroid and a neurokinin-1 (NK 1 ) receptor antagonist is recommended [5] [6] [7] . While fewer studies of these agents have been performed in pediatric cancer patients than in adults, at the time of the study design, the combination of a 5-HT 3 receptor antagonist with a corticosteroid was recommended for pediatric patients receiving HEC or MEC chemotherapy regimens [2, 5, 6] . In later guidance from the Pediatric Oncology Group of Ontario (POGO), children scheduled to receive HEC are recommended to receive antiemetic prophylactic therapy of ondansetron or granisetron plus dexamethasone and aprepitant (\u226512 years of age and receiving antineoplastic drugs not known to interact with aprepitant) or ondansetron or granisetron plus dexamethasone (<12 years of For reprint orders, please contact: reprints@futuremedicine.com research article Kov\u00e1cs, Wachtel, Basharova, Spinelli, Nicolas & Kabickova future science group age or receiving aprepitant interacting agents) [8] . For patients scheduled to receive MEC, the recommendation in the POGO guidelines is that patients should receive ondansetron or granisetron plus dexamethasone. Despite prophylactic use of antiemetic agents many patients, especially children, still experience nausea and vomiting [9] .",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "Prevention of CINV in adult cancer patients receiving HEC or MEC regimens can be achieved through the use of antiemetic agents, a combination of a 5-hydroxytryptamine-3 (5-HT 3 ) receptor antagonist, a corticosteroid and a neurokinin-1 (NK 1 ) receptor antagonist is recommended [5] [6] [7] .",
+            "While fewer studies of these agents have been performed in pediatric cancer patients than in adults, at the time of the study design, the combination of a 5-HT 3 receptor antagonist with a corticosteroid was recommended for pediatric patients receiving HEC or MEC chemotherapy regimens [2, 5, 6] .",
+            "In later guidance from the Pediatric Oncology Group of Ontario (POGO), children scheduled to receive HEC are recommended to receive antiemetic prophylactic therapy of ondansetron or granisetron plus dexamethasone and aprepitant (\u226512 years of age and receiving antineoplastic drugs not known to interact with aprepitant) or ondansetron or granisetron plus dexamethasone (<12 years of For reprint orders, please contact: reprints@futuremedicine.com research article Kov\u00e1cs, Wachtel, Basharova, Spinelli, Nicolas & Kabickova future science group age or receiving aprepitant interacting agents) [8] .",
+            "For patients scheduled to receive MEC, the recommendation in the POGO guidelines is that patients should receive ondansetron or granisetron plus dexamethasone.",
+            "Despite prophylactic use of antiemetic agents many patients, especially children, still experience nausea and vomiting [9] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Palonosetron hydrochloride (Aloxi \u00ae ) is a comparatively new 5-HT 3 receptor antagonist with a higher affinity (at least 30-fold higher) for the 5-HT 3 receptor, and a longer plasma elimination half life compared with older class agents (ondansetron, granisetron and dolasetron) [10] . Its unique interaction with the 5-HT 3 receptor at the molecular level, and its effects on the NK 1 signaling pathway may offer an advantage for efficacy over older agents in this class [11] [12] [13] . In a large meta-analysis of 16 randomized studies, in predominantly adult patients, palonosetron was reported to be more effective than other 5-HT 3 antagonists for the prevention of CINV associated with MEC or HEC regimens in studies that did not allow dexamethasone [14] . In two small randomized controlled studies in pediatric cancer patients, intravenous palonosetron (3-10 \u03bcg/kg) was reported to be a well-tolerated and effective antiemetic treatment in patients receiving HEC or MEC regimens [15, 16] .",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "Palonosetron hydrochloride (Aloxi \u00ae ) is a comparatively new 5-HT 3 receptor antagonist with a higher affinity (at least 30-fold higher) for the 5-HT 3 receptor, and a longer plasma elimination half life compared with older class agents (ondansetron, granisetron and dolasetron) [10] .",
+            "Its unique interaction with the 5-HT 3 receptor at the molecular level, and its effects on the NK 1 signaling pathway may offer an advantage for efficacy over older agents in this class [11] [12] [13] .",
+            "In a large meta-analysis of 16 randomized studies, in predominantly adult patients, palonosetron was reported to be more effective than other 5-HT 3 antagonists for the prevention of CINV associated with MEC or HEC regimens in studies that did not allow dexamethasone [14] .",
+            "In two small randomized controlled studies in pediatric cancer patients, intravenous palonosetron (3-10 \u03bcg/kg) was reported to be a well-tolerated and effective antiemetic treatment in patients receiving HEC or MEC regimens [15, 16] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "We have evaluated the efficacy and safety of two palonosetron doses (10 and 20 \u03bcg/kg) compared with ondansetron (3 \u00d7 150 \u03bcg/kg) over four cycles, for the prevention of CINV in 493 pediatric cancer patients scheduled to receive HEC or MEC [17] . The primary end point was complete response (CR) during the acute phase of the first on-study chemotherapy cycle. CRs were reported in 90 (54.2%) of 166 patients treated with 10 \u03bcg/kg, 98 (59.4%) of 165 patients treated with 20 \u03bcg/kg palonosetron and 95 (58.6%) of 162 patients treated with ondansetron. Noninferiority compared with ondansetron was reported (\u03b4 = -15%) for the higher dose of palonosetron (97.5% CI: -11.7-12.4; p = 0.0022). No clinically relevant differences in the safety profile of the treatments were found [18] . These findings led to the approval for the 20 \u03bcg/kg dose of palonosetron by both the US FDA and EMA for the prevention of CINV in pediatric patients aged 1 month to <17 years undergoing treatment with MEC or HEC [19, 20] . Herein, we now report secondary end points and the safety profile of palonosetron compared with ondansetron across four treatment cycles from this pivotal study, with each cycle assessed independently.",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "We have evaluated the efficacy and safety of two palonosetron doses (10 and 20 \u03bcg/kg) compared with ondansetron (3 \u00d7 150 \u03bcg/kg) over four cycles, for the prevention of CINV in 493 pediatric cancer patients scheduled to receive HEC or MEC [17] .",
+            "The primary end point was complete response (CR) during the acute phase of the first on-study chemotherapy cycle.",
+            "CRs were reported in 90 (54.2%) of 166 patients treated with 10 \u03bcg/kg, 98 (59.4%) of 165 patients treated with 20 \u03bcg/kg palonosetron and 95 (58.6%) of 162 patients treated with ondansetron.",
+            "Noninferiority compared with ondansetron was reported (\u03b4 = -15%) for the higher dose of palonosetron (97.5% CI: -11.7-12.4; p = 0.0022).",
+            "No clinically relevant differences in the safety profile of the treatments were found [18] .",
+            "These findings led to the approval for the 20 \u03bcg/kg dose of palonosetron by both the US FDA and EMA for the prevention of CINV in pediatric patients aged 1 month to <17 years undergoing treatment with MEC or HEC [19, 20] .",
+            "Herein, we now report secondary end points and the safety profile of palonosetron compared with ondansetron across four treatment cycles from this pivotal study, with each cycle assessed independently."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "This was a double-blind, double-dummy randomized, multinational Phase III study performed at 71 sites in the USA, Latin America, Europe and Russia. The study design has been detailed previously [17] . Briefly, eligible patients were aged from newborn (full term; \u226537 weeks) to <17 years old, naive or non-naive to chemotherapy, scheduled to undergo MEC or HEC on day 1 for histologically/cytologically confirmed malignant disease. For patients with known hepatic or renal impairment or known history of, or predisposition to cardiac abnormalities, inclusion was permitted if in the opinion of the site investigator, the existence of any such condition should not have jeopardized patient safety. Eastern Cooperative Oncology Group performance status \u22642 was required in patients aged \u226510 years. The main exclusion criteria were for patients: suffering from ongoing vomiting from any organic cause (including patients with history of gastric outlet obstruction or intestinal obstruction due to adhesions or volvulus); with a history of gastric outlet or intestinal obstruction; who suffered vomiting, retching or nausea within the 24 h prior to study drug administration; who had received any drug with a potential antiemetic effect within the 24 h prior to treatment initiation; who had received total body irradiation or radiotherapy of the upper abdomen, cranium, craniospinal regions or pelvis within 1 week of study entry; with baseline prolongation of the QTc interval (>460 ms).",
+        "section": "\u2022 \u2022 study design & patients",
+        "section_number": 5,
+        "sentences": [
+            "This was a double-blind, double-dummy randomized, multinational Phase III study performed at 71 sites in the USA, Latin America, Europe and Russia.",
+            "The study design has been detailed previously [17] .",
+            "Briefly, eligible patients were aged from newborn (full term; \u226537 weeks) to <17 years old, naive or non-naive to chemotherapy, scheduled to undergo MEC or HEC on day 1 for histologically/cytologically confirmed malignant disease.",
+            "For patients with known hepatic or renal impairment or known history of, or predisposition to cardiac abnormalities, inclusion was permitted if in the opinion of the site investigator, the existence of any such condition should not have jeopardized patient safety.",
+            "Eastern Cooperative Oncology Group performance status \u22642 was required in patients aged \u226510 years.",
+            "The main exclusion criteria were for patients: suffering from ongoing vomiting from any organic cause (including patients with history of gastric outlet obstruction or intestinal obstruction due to adhesions or volvulus); with a history of gastric outlet or intestinal obstruction; who suffered vomiting, retching or nausea within the 24 h prior to study drug administration; who had received any drug with a potential antiemetic effect within the 24 h prior to treatment initiation; who had received total body irradiation or radiotherapy of the upper abdomen, cranium, craniospinal regions or pelvis within 1 week of study entry; with baseline prolongation of the QTc interval (>460 ms)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "The study was conducted in accordance with the Declaration of Helsinki (2008) and the International Conference on Harmonization of Technical Requirements of Pharmaceuticals for Human Use E6 guideline. Approval was obtained from the appropriate institutional ethics committees, institutional review boards and regulatory authorities prior to study initiation. Written informed consent was obtained from parent(s)/legal guardian(s) prior to enrollment. For patients of appropriate age and maturity, assent was obtained in compliance with local laws and regulations. The initial informed consent/assent was given for the duration of four on-study chemotherapy cycles.",
+        "section": "\u2022 \u2022 study design & patients",
+        "section_number": 6,
+        "sentences": [
+            "The study was conducted in accordance with the Declaration of Helsinki (2008) and the International Conference on Harmonization of Technical Requirements of Pharmaceuticals for Human Use E6 guideline.",
+            "Approval was obtained from the appropriate institutional ethics committees, institutional review boards and regulatory authorities prior to study initiation.",
+            "Written informed consent was obtained from parent(s)/legal guardian(s) prior to enrollment.",
+            "For patients of appropriate age and maturity, assent was obtained in compliance with local laws and regulations.",
+            "The initial informed consent/assent was given for the duration of four on-study chemotherapy cycles."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "future science group www.futuremedicine.com",
+        "section": "\u2022 \u2022 study design & patients",
+        "section_number": 7,
+        "sentences": [
+            "future science group www.futuremedicine.com"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Patients were randomized to either 10 \u03bcg/kg palonosetron, up to a maximum dose of 0.75 mg, administered 30 \u00b1 5 min before chemotherapy as a 15-minintravenous infusion, or to 20 \u03bcg/kg palonosetron, up to a maximum dose of 1.50 mg, administered identically to the 10 \u03bcg/kg dose, or to 3 \u00d7 150 \u03bcg/kg ondansetron (every 4 h), up to a maximum total dose of 32 mg, administered as a 15-minintravenous infusion 30 \u00b1 5 min before chemotherapy, as well as 4 and 8 h \u00b1 30 min after first administration. Study drug could be administered for up to four cycles of HEC or MEC. In accordance with antiemetic guidelines, patients also received concomitant dexamethasone, if deemed appropriate by the investigator, unless this was contraindicated or if corticosteroids were also included in the chemotherapy cycle. Dosing and administration of dexamethasone were in accordance with local standard clinical practice.",
+        "section": "\u2022 \u2022 Procedures",
+        "section_number": 8,
+        "sentences": [
+            "Patients were randomized to either 10 \u03bcg/kg palonosetron, up to a maximum dose of 0.75 mg, administered 30 \u00b1 5 min before chemotherapy as a 15-minintravenous infusion, or to 20 \u03bcg/kg palonosetron, up to a maximum dose of 1.50 mg, administered identically to the 10 \u03bcg/kg dose, or to 3 \u00d7 150 \u03bcg/kg ondansetron (every 4 h), up to a maximum total dose of 32 mg, administered as a 15-minintravenous infusion 30 \u00b1 5 min before chemotherapy, as well as 4 and 8 h \u00b1 30 min after first administration.",
+            "Study drug could be administered for up to four cycles of HEC or MEC.",
+            "In accordance with antiemetic guidelines, patients also received concomitant dexamethasone, if deemed appropriate by the investigator, unless this was contraindicated or if corticosteroids were also included in the chemotherapy cycle.",
+            "Dosing and administration of dexamethasone were in accordance with local standard clinical practice."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "As part of a protocol specified analysis, selected secondary end points for each phase (acute, delayed and overall) of on-study chemotherapy cycles 2-4 were examined. These included the proportion of patients showing CRs, and the proportion of patients who did not experience vomiting, emetic episodes, nausea (patients aged \u22656 years only), and who avoided antiemetic rescue medication. CR was defined as no vomiting, retching or antiemetic rescue medication. Emetic episodes were defined as one or more continuous vomits (expulsion of stomach contents through the mouth) or retches (an attempt to vomit that is not productive of stomach contents). The acute phase was defined as 0-24 h after the start of chemotherapy on day 1 of each on-study chemotherapy cycle, the delayed and overall phases were defined as >24-120 h and 0-120 h after the start of chemotherapy on day 1 of each on-study chemotherapy cycle. These end points have been previously reported for cycle 1.",
+        "section": "\u2022 \u2022 Outcomes",
+        "section_number": 9,
+        "sentences": [
+            "As part of a protocol specified analysis, selected secondary end points for each phase (acute, delayed and overall) of on-study chemotherapy cycles 2-4 were examined.",
+            "These included the proportion of patients showing CRs, and the proportion of patients who did not experience vomiting, emetic episodes, nausea (patients aged \u22656 years only), and who avoided antiemetic rescue medication.",
+            "CR was defined as no vomiting, retching or antiemetic rescue medication.",
+            "Emetic episodes were defined as one or more continuous vomits (expulsion of stomach contents through the mouth) or retches (an attempt to vomit that is not productive of stomach contents).",
+            "The acute phase was defined as 0-24 h after the start of chemotherapy on day 1 of each on-study chemotherapy cycle, the delayed and overall phases were defined as >24-120 h and 0-120 h after the start of chemotherapy on day 1 of each on-study chemotherapy cycle.",
+            "These end points have been previously reported for cycle 1."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "In the first on-study treatment cycle, a diary was provided to the patient or their caregivers for the assessment of emetic episodes during the acute and delayed phases. In the diary, every episode of retching and vomiting, as well as any rescue drug given, was to be entered [17] . Nausea was assessed by a yes/no question in the electronic case report form. In subsequent on-study chemotherapy cycles (2-4), a diary was not used, for the acute and delayed phases; nausea, vomiting and retching were assessed by yes/no questions in the electronic case report form.",
+        "section": "\u2022 \u2022 Outcomes",
+        "section_number": 10,
+        "sentences": [
+            "In the first on-study treatment cycle, a diary was provided to the patient or their caregivers for the assessment of emetic episodes during the acute and delayed phases.",
+            "In the diary, every episode of retching and vomiting, as well as any rescue drug given, was to be entered [17] .",
+            "Nausea was assessed by a yes/no question in the electronic case report form.",
+            "In subsequent on-study chemotherapy cycles (2-4), a diary was not used, for the acute and delayed phases; nausea, vomiting and retching were assessed by yes/no questions in the electronic case report form."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Secondary efficacy analyses also included summary statistics by age and chemotherapyrelated emetogenicity strata.",
+        "section": "\u2022 \u2022 Outcomes",
+        "section_number": 11,
+        "sentences": [
+            "Secondary efficacy analyses also included summary statistics by age and chemotherapyrelated emetogenicity strata."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Safety during cycles 1-4 was assessed on adverse events, physical examinations, vital signs, laboratory assessments and 12-lead electrocardiograms (recorded in triplicate at screening and between days 7 and 10 of each cycle) as detailed previously [17] . Adverse events were coded using the Medical Dictionary for Regulatory Activities (MedDRA), version 14.0. All treatment-emergent adverse events (TEAEs), whether nonserious, serious or adverse drug reactions, had their severity (mild, moderate or severe), intensity (rated according to the descriptions and grading scales of the Common Terminology Criteria for Adverse Events [CTCAE], version 4.03) and investigator's opinion on their relationship to the study drug, recorded.",
+        "section": "\u2022 \u2022 Outcomes",
+        "section_number": 12,
+        "sentences": [
+            "Safety during cycles 1-4 was assessed on adverse events, physical examinations, vital signs, laboratory assessments and 12-lead electrocardiograms (recorded in triplicate at screening and between days 7 and 10 of each cycle) as detailed previously [17] .",
+            "Adverse events were coded using the Medical Dictionary for Regulatory Activities (MedDRA), version 14.0.",
+            "All treatment-emergent adverse events (TEAEs), whether nonserious, serious or adverse drug reactions, had their severity (mild, moderate or severe), intensity (rated according to the descriptions and grading scales of the Common Terminology Criteria for Adverse Events [CTCAE], version 4.03) and investigator's opinion on their relationship to the study drug, recorded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Statistical analyses for the primary outcome measure have been described previously in detail (supplementary Methods) [17] . The full analysis set (FAS) included all randomized patients receiving the active study drug and HEC or MEC. Following the intent-to-treat principle, efficacy in the FAS across all on-study cycles was analyzed according to treatment assignment at randomization. The safety population comprised all patients who received at least one dose of study drug and had at least one safety assessment. For individual on-study treatment cycles, safety was analyzed according to actual treatment received in each cycle. When considering the overall study period (across all cycles), safety was analyzed according to actual treatment received in cycle 1.",
+        "section": "\u2022 \u2022 statistical analysis",
+        "section_number": 13,
+        "sentences": [
+            "Statistical analyses for the primary outcome measure have been described previously in detail (supplementary Methods) [17] .",
+            "The full analysis set (FAS) included all randomized patients receiving the active study drug and HEC or MEC.",
+            "Following the intent-to-treat principle, efficacy in the FAS across all on-study cycles was analyzed according to treatment assignment at randomization.",
+            "The safety population comprised all patients who received at least one dose of study drug and had at least one safety assessment.",
+            "For individual on-study treatment cycles, safety was analyzed according to actual treatment received in each cycle.",
+            "When considering the overall study period (across all cycles), safety was analyzed according to actual treatment received in cycle 1."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Differences in proportions were analyzed using the Mantel-Haenszel method on the FAS population at a type I error of 5%.",
+        "section": "\u2022 \u2022 statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "Differences in proportions were analyzed using the Mantel-Haenszel method on the FAS population at a type I error of 5%."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "All statistical outputs were produced using SAS \u00ae Software version 9.2 or later (SAS Institute Inc., NC, USA). Formal testing for statistical significance was limited to the analysis of the primary end point [17] .",
+        "section": "\u2022 \u2022 statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "All statistical outputs were produced using SAS \u00ae Software version 9.2 or later (SAS Institute Inc., NC, USA).",
+            "Formal testing for statistical significance was limited to the analysis of the primary end point [17] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "The study is registered with ClinicalTrials. gov, number NCT01442376. (Figure 1) . One patient receiving chemotherapy of low emetogenicity was excluded from the FAS, which comprised 493 patients: 166 in the 10 \u03bcg/kg palonosetron group, 165 in the 20 \u03bcg/kg palonosetron group and 162 in the ondansetron group. The rate of patients not continuing at each subsequent on-study chemotherapy cycle was approximately 50% across the 10 \u03bcg/kg, 20 \u03bcg/kg palonosetron and the ondansetron groups with 19 (11.4%) of 166, 31 (18.8%) of 165 and 19 (11.7%) of 162 patients completing all four on-study chemotherapy cycles, respectively (in accordance with the protocol, patients could continue to participate from cycle 2 up to 4 but this was not mandatory; reasons for noncontinuation were not recorded).",
+        "section": "\u2022 \u2022 statistical analysis",
+        "section_number": 16,
+        "sentences": [
+            "The study is registered with ClinicalTrials.",
+            "gov, number NCT01442376. (",
+            "Figure 1) .",
+            "One patient receiving chemotherapy of low emetogenicity was excluded from the FAS, which comprised 493 patients: 166 in the 10 \u03bcg/kg palonosetron group, 165 in the 20 \u03bcg/kg palonosetron group and 162 in the ondansetron group.",
+            "The rate of patients not continuing at each subsequent on-study chemotherapy cycle was approximately 50% across the 10 \u03bcg/kg, 20 \u03bcg/kg palonosetron and the ondansetron groups with 19 (11.4%) of 166, 31 (18.8%) of 165 and 19 (11.7%) of 162 patients completing all four on-study chemotherapy cycles, respectively (in accordance with the protocol, patients could continue to participate from cycle 2 up to 4 but this was not mandatory; reasons for noncontinuation were not recorded)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Patient baseline characteristics in the FAS were generally comparable between the treatment groups [17] . The proportion of patients undergoing single-day or multiple-day chemotherapy (regardless of emetogenicity) was broadly similar across treatment groups between cycles (supplementary table 1). The majority of patients were male (262 [53.1%] of 493), white (469; 95.1%), and median age was 7.1 years (range: 2.1 months to 16.9 years). Across the palonosetron (10 and 20 \u03bcg/kg) and ondansetron treatment groups, the numbers of patients with primary cancers at baseline were balanced, and most patients received MEC regimens ( As previously reported [17] , in the acute phase of the first on-study chemotherapy cycle, noninferiority versus ondansetron was shown for 20 \u03bcg/kg palonosetron (\u0394CR: 0.36% [97.5% CI: -11.7-12.4]; p = 0.0022). Noninferiority versus ondansetron was not demonstrated for 10 \u03bcg/kg palonosetron in the acute phase (\u0394CR: -4.41% [97.5% CI: -16.4-7.6]).",
+        "section": "\u2022 \u2022 Patients & characteristics",
+        "section_number": 17,
+        "sentences": [
+            "Patient baseline characteristics in the FAS were generally comparable between the treatment groups [17] .",
+            "The proportion of patients undergoing single-day or multiple-day chemotherapy (regardless of emetogenicity) was broadly similar across treatment groups between cycles (supplementary table 1).",
+            "The majority of patients were male (262 [53.1%] of 493), white (469; 95.1%), and median age was 7.1 years (range: 2.1 months to 16.9 years).",
+            "Across the palonosetron (10 and 20 \u03bcg/kg) and ondansetron treatment groups, the numbers of patients with primary cancers at baseline were balanced, and most patients received MEC regimens ( As previously reported [17] , in the acute phase of the first on-study chemotherapy cycle, noninferiority versus ondansetron was shown for 20 \u03bcg/kg palonosetron (\u0394CR: 0.36% [97.5% CI: -11.7-12.4]; p = 0.0022).",
+            "Noninferiority versus ondansetron was not demonstrated for 10 \u03bcg/kg palonosetron in the acute phase (\u0394CR: -4.41% [97.5% CI: -16.4-7.6])."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "34315",
+        "text": "Extending this analysis, we found that in all on-study chemotherapy cycles, and all phases, the CR rates were higher in patients treated in the palonosetron 20 \u03bcg/kg group compared with those treated with ondansetron (table 1 & Figure 2 ). Additionally, Mantel-Haenszel analysis of data from the acute phase of the second on-study chemotherapy cycle (\u0394CR: 5.79% [95% CI: -9.0-20.6%]) was consistent with the demonstration in the acute phase of the first onstudy chemotherapy cycle of the noninferiority of 20 \u03bcg/kg palonosetron compared with ondansetron. Similar Mantel-Haenszel analyses could not be performed for on-study chemotherapy cycles 3 and 4 due to the low number of patients. A post hoc analysis of CR rates in patients who only received scheduled chemotherapy (regardless of the emetogenicity) on day 1 of the first onstudy chemotherapy cycle confirmed higher rates in the palonosetron 20 \u03bcg/kg group compared with those treated with ondansetron in both the acute and delayed phases (supplementary table 2 During all phases of on-study chemotherapy cycles 1-4, the proportion of patients who had no vomiting was higher for patients treated in the 20 \u03bcg/kg palonosetron group compared with those in the ondansetron group; differences being mostly \u226510% higher in the 20 \u03bcg/kg palonosetron than the ondansetron group (table 1) . Similarly, in the 20 \u03bcg/kg palonosetron treatment group the proportion of patients without emetic episodes was higher than in the ondansetron group during all phases of all on-study chemotherapy cycles. The proportion of patients who avoided antiemetic rescue medication was also higher in the 20 \u03bcg/kg palonosetron group compared with the ondansetron group except for during the acute phase of the first and second on-study chemotherapy cycles (table 1) .",
+        "section": "\u2022 \u2022 Patients & characteristics",
+        "section_number": 18,
+        "sentences": [
+            "Extending this analysis, we found that in all on-study chemotherapy cycles, and all phases, the CR rates were higher in patients treated in the palonosetron 20 \u03bcg/kg group compared with those treated with ondansetron (table 1 & Figure 2 ).",
+            "Additionally, Mantel-Haenszel analysis of data from the acute phase of the second on-study chemotherapy cycle (\u0394CR: 5.79% [95% CI: -9.0-20.6%]) was consistent with the demonstration in the acute phase of the first onstudy chemotherapy cycle of the noninferiority of 20 \u03bcg/kg palonosetron compared with ondansetron.",
+            "Similar Mantel-Haenszel analyses could not be performed for on-study chemotherapy cycles 3 and 4 due to the low number of patients.",
+            "A post hoc analysis of CR rates in patients who only received scheduled chemotherapy (regardless of the emetogenicity) on day 1 of the first onstudy chemotherapy cycle confirmed higher rates in the palonosetron 20 \u03bcg/kg group compared with those treated with ondansetron in both the acute and delayed phases (supplementary table 2 During all phases of on-study chemotherapy cycles 1-4, the proportion of patients who had no vomiting was higher for patients treated in the 20 \u03bcg/kg palonosetron group compared with those in the ondansetron group; differences being mostly \u226510% higher in the 20 \u03bcg/kg palonosetron than the ondansetron group (table 1) .",
+            "Similarly, in the 20 \u03bcg/kg palonosetron treatment group the proportion of patients without emetic episodes was higher than in the ondansetron group during all phases of all on-study chemotherapy cycles.",
+            "The proportion of patients who avoided antiemetic rescue medication was also higher in the 20 \u03bcg/kg palonosetron group compared with the ondansetron group except for during the acute phase of the first and second on-study chemotherapy cycles (table 1) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "As prespecified, the incidence of nausea was investigated only in patients aged \u22656 years (table 1) . The proportion of patients who experienced no \u2020 In patients randomly assigned to the study treatment group according to the randomized treatment. \u2021 Includes one patient who received low emetogenic chemotherapy, this patient was excluded from the full analysis set. Palonosetron compared with ondansetron in pediatric cancer patients research article future science group www.futuremedicine.com nausea was higher in the 20 \u03bcg/kg palonosetron compared with the ondansetron group except for during the delayed phase of the fourth on-study chemotherapy cycle.",
+        "section": "\u2022 \u2022 Patients & characteristics",
+        "section_number": 19,
+        "sentences": [
+            "As prespecified, the incidence of nausea was investigated only in patients aged \u22656 years (table 1) .",
+            "The proportion of patients who experienced no \u2020 In patients randomly assigned to the study treatment group according to the randomized treatment. \u2021",
+            "Includes one patient who received low emetogenic chemotherapy, this patient was excluded from the full analysis set.",
+            "Palonosetron compared with ondansetron in pediatric cancer patients research article future science group www.futuremedicine.com nausea was higher in the 20 \u03bcg/kg palonosetron compared with the ondansetron group except for during the delayed phase of the fourth on-study chemotherapy cycle."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "The safety population comprised 494 patients: 167 were treated with 10 \u03bcg/kg palonosetron (including one patient who received low emetogenicity and one randomly assigned to the 20 \u03bcg/kg palonosetron group), 163 patients received 20 \u03bcg/kg palonosetron and 164 were treated with ondansetron (including one patient randomly assigned to 10 \u03bcg/kg palonosetron and one to the 20 \u03bcg/kg palonosetron group). A summary of overall TEAEs (reported through all four on-study chemotherapy cycles) and those occurring at each treatment cycle is shown in Treatment-related cardiac disorders were limited to the first on-study chemotherapy cycle in one patient treated with 10 \u03bcg/kg palonosetron (sinus tachycardia and conduction disorder) and two treated with ondansetron (one with sinus tachycardia and conduction disorder, and one with sinus tachycardia). Treatment-related prolonged electrocardiogram QT was reported in one patient treated with 20 \u03bcg/kg palonosetron (on-study chemotherapy cycles 1 and 2) and two patients with ondansetron (one in both on-study chemotherapy cycles and 2, and the other in cycle 1).",
+        "section": "\u2022 \u2022 safety",
+        "section_number": 20,
+        "sentences": [
+            "The safety population comprised 494 patients: 167 were treated with 10 \u03bcg/kg palonosetron (including one patient who received low emetogenicity and one randomly assigned to the 20 \u03bcg/kg palonosetron group), 163 patients received 20 \u03bcg/kg palonosetron and 164 were treated with ondansetron (including one patient randomly assigned to 10 \u03bcg/kg palonosetron and one to the 20 \u03bcg/kg palonosetron group).",
+            "A summary of overall TEAEs (reported through all four on-study chemotherapy cycles) and those occurring at each treatment cycle is shown in Treatment-related cardiac disorders were limited to the first on-study chemotherapy cycle in one patient treated with 10 \u03bcg/kg palonosetron (sinus tachycardia and conduction disorder) and two treated with ondansetron (one with sinus tachycardia and conduction disorder, and one with sinus tachycardia).",
+            "Treatment-related prolonged electrocardiogram QT was reported in one patient treated with 20 \u03bcg/kg palonosetron (on-study chemotherapy cycles 1 and 2) and two patients with ondansetron (one in both on-study chemotherapy cycles and 2, and the other in cycle 1)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "The number of patients with CTCAE grade \u22653 TEAEs was lower in the 10 \u03bcg/kg palonosetron than ondansetron treatment group across on-study chemotherapy cycles 1-4, with the exception of cycle 3. For the 20 \u03bcg/kg palonosetron group compared with the ondansetron treatment group, this effect was more pronounced, with incidences of grade \u22653 TEAEs more than 10% lower across each of the four on-study chemotherapy cycles (table 2) . Only five TEAEs were considered to be study treatment related. These included three patients receiving 20 \u03bcg/kg palonosetron, one in cycle 1 (grade 3 infusion site pain) and two in cycle 2 (one with grade 3 electrocardiogram QT prolongation and one with grade 4 diarrhea and grade 3 dehydration), and two patients in on-study chemotherapy cycle 2, one receiving 10 \u03bcg/kg palonosetron (grade 3 thrombocytopenia) and one receiving ondansetron (grade 3 hypertension). The distribution of serious adverse events was also similar between the treatment groups, and across the on-study chemotherapy cycles and was considered to be drug related only in one patient receiving 20 \u03bcg/kg palonosetron in on-study chemotherapy cycle 2 (grade 4 diarrhea and grade 3 dehydration). TEAEs leading to study withdrawal were reported in three patients, all were serious adverse events but were not considered to be related to treatment; two in patients treated with 20 \u03bcg/kg palonosetron (on-study chemotherapy cycle 2) and one in a patient receiving ondansetron (onstudy chemotherapy cycle 1). TEAEs with fatal outcome were reported in six patients during the reporting period; three each for patients treated with 20 \u03bcg/kg palonosetron (one each in onstudy chemotherapy cycles 1-3) and ondansetron (two in cycle 1 and one in cycle 2). One additional patient in the ondansetron group died after the reporting period. All these deaths were considered to be unrelated to study drug.",
+        "section": "\u2022 \u2022 safety",
+        "section_number": 21,
+        "sentences": [
+            "The number of patients with CTCAE grade \u22653 TEAEs was lower in the 10 \u03bcg/kg palonosetron than ondansetron treatment group across on-study chemotherapy cycles 1-4, with the exception of cycle 3.",
+            "For the 20 \u03bcg/kg palonosetron group compared with the ondansetron treatment group, this effect was more pronounced, with incidences of grade \u22653 TEAEs more than 10% lower across each of the four on-study chemotherapy cycles (table 2) .",
+            "Only five TEAEs were considered to be study treatment related.",
+            "These included three patients receiving 20 \u03bcg/kg palonosetron, one in cycle 1 (grade 3 infusion site pain) and two in cycle 2 (one with grade 3 electrocardiogram QT prolongation and one with grade 4 diarrhea and grade 3 dehydration), and two patients in on-study chemotherapy cycle 2, one receiving 10 \u03bcg/kg palonosetron (grade 3 thrombocytopenia) and one receiving ondansetron (grade 3 hypertension).",
+            "The distribution of serious adverse events was also similar between the treatment groups, and across the on-study chemotherapy cycles and was considered to be drug related only in one patient receiving 20 \u03bcg/kg palonosetron in on-study chemotherapy cycle 2 (grade 4 diarrhea and grade 3 dehydration).",
+            "TEAEs leading to study withdrawal were reported in three patients, all were serious adverse events but were not considered to be related to treatment; two in patients treated with 20 \u03bcg/kg palonosetron (on-study chemotherapy cycle 2) and one in a patient receiving ondansetron (onstudy chemotherapy cycle 1).",
+            "TEAEs with fatal outcome were reported in six patients during the reporting period; three each for patients treated with 20 \u03bcg/kg palonosetron (one each in onstudy chemotherapy cycles 1-3) and ondansetron (two in cycle 1 and one in cycle 2).",
+            "One additional patient in the ondansetron group died after the reporting period.",
+            "All these deaths were considered to be unrelated to study drug."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "The investigation of 5-HT 3 receptor antagonists in the prevention of CINV in pediatric patients has mainly involved granisetron and ondansetron [21] [22] [23] , and ondansetron is commonly adopted in this setting. We have previously reported noninferiority for single dose 20 \u03bcg/kg palonosetron compared with multiple doses of 150 \u03bcg/kg ondansetron during the acute phase of the first on-study chemotherapy cycle in pediatric patients receiving MEC or HEC [17] .",
+        "section": "Discussion",
+        "section_number": 22,
+        "sentences": [
+            "The investigation of 5-HT 3 receptor antagonists in the prevention of CINV in pediatric patients has mainly involved granisetron and ondansetron [21] [22] [23] , and ondansetron is commonly adopted in this setting.",
+            "We have previously reported noninferiority for single dose 20 \u03bcg/kg palonosetron compared with multiple doses of 150 \u03bcg/kg ondansetron during the acute phase of the first on-study chemotherapy cycle in pediatric patients receiving MEC or HEC [17] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "In the present analysis, the number of patients with CRs was higher in the 20 \u03bcg/kg palonosetron group across all phases and all four onstudy chemotherapy cycles compared with those treated in the ondansetron group. In particular, Mantel-Haenszel analysis of data from the second on-study chemotherapy cycle was consistent with the previously reported formal demonstration of the noninferiority of 20 \u03bcg/kg palonosetron compared with ondansetron in the acute phase of the first on-study chemotherapy cycle. The proportion of patients with no vomiting, no emetic episodes and with no use for antiemetic rescue medication across on-study chemotherapy cycles 1-4 and during all phases was also higher in patients in the 20 \u03bcg/kg compared with the ondansetron group (except for no use for antiemetic rescue medication in the acute phases of on-study cycles 1 and 2). As previously reported for the delayed phase of cycle 1 [17] , the 95% CI calculated for the difference in the proportion of patients experiencing no emetic episodes in the 20 \u03bcg/kg palonosetron and ondansetron groups (\u0394 15.38% [95% CI: 5.1-25.7]) did not include a zero value, indicating that the efficacy of this dose of palonosetron during this phase might be superior to that of ondansetron. Furthermore, in adult cancer patients, older class setron agents when used in recommended doses were not as efficacious as palonosetron in the control of delayed emesis [24] [25] [26] . Controlling delayed emesis remains an unmet clinical need [27] , and palonosetron might, therefore, provide much needed relief to pediatric cancer patients for up to 5 days following multicycle emetic chemotherapy, often following discharge from hospital. Interpretation of the multicycle data, however, should be treated with some caution due to the small number of patients in some of the treatment groups and strata, particularly in later chemotherapy cycles. This was mainly due to the expected high rate of patients not continuing with each subsequent cycle, thus analysis using stratum adjusted Mantel-Haenszel was not possible in on-study chemotherapy cycles 3 and 4. In addition, in general in multicycle studies, the patients responding best to treatments tend to remain in the study for a higher number of cycles; this may be considered as a potential source of bias. The inclusion of patients scheduled to receive multiple day (day 1 and additional days) chemotherapy also complicates the interpretation of outcome in the delayed and overall phases. However, given that many pediatric chemotherapy regimens are multiple day, this was deemed to be necessary at the time of study design to ensure that sufficient patients could be enrolled to allow for the evaluation of efficacy. The chosen model of randomization and double blinding minimizes the impact of this limitation when comparing treatment groups. A further limitation is that the assessment of the efficacy during the delayed phase of cycles 2-4 was based on questions to the patient 120 h after the start of the chemotherapy, so the patient had to remember if she or he had experienced vomiting/retching/nausea over the last 4 days. Because the assessment of vomiting and retching was performed differently in cycles 2-4 compared with cycle 1, the efficacy should be analyzed by cycle comparing the treatment groups. The comparison of treatment between cycle 1 and the other cycles could be subject to recall bias issues. The safety profile across all four chemotherapy cycles was as to be expected for patients receiving MEC and HEC. The most commonly reported TEAEs over four cycles of chemotherapy included MedDRA preferred terms listed under the SOC blood and lymphatic disorders, gastrointestinal disorders and general disorders and administration site conditions. Progression into subsequent on-study chemotherapy cycles did not appear to induce worsening of TEAEs in any SOC. No clinically relevant differences were reported between patients treated with 10 or 20 \u03bcg/kg palonosetron (with no incremental toxicity evident) or ondansetron. However, we note that fewer patients receiving 20 \u03bcg/kg palonosetron had grade \u22653 TEAEs in on-study chemotherapy cycles 1-4 than those in the 10 \u03bcg/kg palonosetron and ondansetron groups. The overall frequency of TEAEs considered to be related to treatment was low in the palonosetron 10 \u03bcg/kg (9 [(5.4%] of 167 patients), 20 \u03bcg/kg (8 [4.9%] of 163 patients) and ondansetron (10 [6.1%] of 164 patients) groups, and all were reported during on-study chemotherapy cycles 1 and 2. Nervous system disorders (headache, dizziness and dyskinesia) were the most commonly reported adverse events related to treatment. Older class 5-HT 3 receptor antagonists are reportedly associated with a risk of inducing adverse cardiac events (electrocardiogram changes and arrhythmias), although studies suggest palonosetron to be less of a risk for these events [10, 28, 29] . In total, treatment-related cardiac disorders were reported in one patient receiving 10 \u03bcg/kg palonosetron and two receiving ondansetron. Treatment-related prolonged electrocardiogram QT was reported in one patient receiving 20 \u03bcg/kg palonosetron and two treated with ondansetron. Discontinuations associated with TEAEs, and TEAEs with a fatal outcome were not considered to be treatment related.",
+        "section": "Discussion",
+        "section_number": 23,
+        "sentences": [
+            "In the present analysis, the number of patients with CRs was higher in the 20 \u03bcg/kg palonosetron group across all phases and all four onstudy chemotherapy cycles compared with those treated in the ondansetron group.",
+            "In particular, Mantel-Haenszel analysis of data from the second on-study chemotherapy cycle was consistent with the previously reported formal demonstration of the noninferiority of 20 \u03bcg/kg palonosetron compared with ondansetron in the acute phase of the first on-study chemotherapy cycle.",
+            "The proportion of patients with no vomiting, no emetic episodes and with no use for antiemetic rescue medication across on-study chemotherapy cycles 1-4 and during all phases was also higher in patients in the 20 \u03bcg/kg compared with the ondansetron group (except for no use for antiemetic rescue medication in the acute phases of on-study cycles 1 and 2).",
+            "As previously reported for the delayed phase of cycle 1 [17] , the 95% CI calculated for the difference in the proportion of patients experiencing no emetic episodes in the 20 \u03bcg/kg palonosetron and ondansetron groups (\u0394 15.38% [95% CI: 5.1-25.7]) did not include a zero value, indicating that the efficacy of this dose of palonosetron during this phase might be superior to that of ondansetron.",
+            "Furthermore, in adult cancer patients, older class setron agents when used in recommended doses were not as efficacious as palonosetron in the control of delayed emesis [24] [25] [26] .",
+            "Controlling delayed emesis remains an unmet clinical need [27] , and palonosetron might, therefore, provide much needed relief to pediatric cancer patients for up to 5 days following multicycle emetic chemotherapy, often following discharge from hospital.",
+            "Interpretation of the multicycle data, however, should be treated with some caution due to the small number of patients in some of the treatment groups and strata, particularly in later chemotherapy cycles.",
+            "This was mainly due to the expected high rate of patients not continuing with each subsequent cycle, thus analysis using stratum adjusted Mantel-Haenszel was not possible in on-study chemotherapy cycles 3 and 4.",
+            "In addition, in general in multicycle studies, the patients responding best to treatments tend to remain in the study for a higher number of cycles; this may be considered as a potential source of bias.",
+            "The inclusion of patients scheduled to receive multiple day (day 1 and additional days) chemotherapy also complicates the interpretation of outcome in the delayed and overall phases.",
+            "However, given that many pediatric chemotherapy regimens are multiple day, this was deemed to be necessary at the time of study design to ensure that sufficient patients could be enrolled to allow for the evaluation of efficacy.",
+            "The chosen model of randomization and double blinding minimizes the impact of this limitation when comparing treatment groups.",
+            "A further limitation is that the assessment of the efficacy during the delayed phase of cycles 2-4 was based on questions to the patient 120 h after the start of the chemotherapy, so the patient had to remember if she or he had experienced vomiting/retching/nausea over the last 4 days.",
+            "Because the assessment of vomiting and retching was performed differently in cycles 2-4 compared with cycle 1, the efficacy should be analyzed by cycle comparing the treatment groups.",
+            "The comparison of treatment between cycle 1 and the other cycles could be subject to recall bias issues.",
+            "The safety profile across all four chemotherapy cycles was as to be expected for patients receiving MEC and HEC.",
+            "The most commonly reported TEAEs over four cycles of chemotherapy included MedDRA preferred terms listed under the SOC blood and lymphatic disorders, gastrointestinal disorders and general disorders and administration site conditions.",
+            "Progression into subsequent on-study chemotherapy cycles did not appear to induce worsening of TEAEs in any SOC.",
+            "No clinically relevant differences were reported between patients treated with 10 or 20 \u03bcg/kg palonosetron (with no incremental toxicity evident) or ondansetron.",
+            "However, we note that fewer patients receiving 20 \u03bcg/kg palonosetron had grade \u22653 TEAEs in on-study chemotherapy cycles 1-4 than those in the 10 \u03bcg/kg palonosetron and ondansetron groups.",
+            "The overall frequency of TEAEs considered to be related to treatment was low in the palonosetron 10 \u03bcg/kg (9 [(5.4%] of 167 patients), 20 \u03bcg/kg (8 [4.9%] of 163 patients) and ondansetron (10 [6.1%] of 164 patients) groups, and all were reported during on-study chemotherapy cycles 1 and 2.",
+            "Nervous system disorders (headache, dizziness and dyskinesia) were the most commonly reported adverse events related to treatment.",
+            "Older class 5-HT 3 receptor antagonists are reportedly associated with a risk of inducing adverse cardiac events (electrocardiogram changes and arrhythmias), although studies suggest palonosetron to be less of a risk for these events [10, 28, 29] .",
+            "In total, treatment-related cardiac disorders were reported in one patient receiving 10 \u03bcg/kg palonosetron and two receiving ondansetron.",
+            "Treatment-related prolonged electrocardiogram QT was reported in one patient receiving 20 \u03bcg/kg palonosetron and two treated with ondansetron.",
+            "Discontinuations associated with TEAEs, and TEAEs with a fatal outcome were not considered to be treatment related."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "This pivotal study demonstrated 20 \u03bcg/kg palonosetron to be noninferior to 3 \u00d7 150 \u03bcg/kg ondansetron in the prevention of CINV during the acute phase of the first on-study chemotherapy cycle in pediatric cancer patients (aged 0 to <17 years) receiving HEC or MEC. The data reported here show that over all four treatment cycles of HEC or MEC, 20 \u03bcg/kg palonosetron appeared to be an efficacious treatment for the prevention of CINV in these patients. The safety profile was consistent with those previously reported for palonosetron and ondansetron and did not indicate a risk to pediatric patients treated in this setting.",
+        "section": "conclusion",
+        "section_number": 24,
+        "sentences": [
+            "This pivotal study demonstrated 20 \u03bcg/kg palonosetron to be noninferior to 3 \u00d7 150 \u03bcg/kg ondansetron in the prevention of CINV during the acute phase of the first on-study chemotherapy cycle in pediatric cancer patients (aged 0 to <17 years) receiving HEC or MEC.",
+            "The data reported here show that over all four treatment cycles of HEC or MEC, 20 \u03bcg/kg palonosetron appeared to be an efficacious treatment for the prevention of CINV in these patients.",
+            "The safety profile was consistent with those previously reported for palonosetron and ondansetron and did not indicate a risk to pediatric patients treated in this setting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "To view the supplementary data that accompany this paper please visit the journal website at: www.futuremedicine. com/doi/full/10.2217/fon-2017-0189",
+        "section": "supplementary data",
+        "section_number": 25,
+        "sentences": [
+            "To view the supplementary data that accompany this paper please visit the journal website at: www.futuremedicine.",
+            "com/doi/full/10.2217/fon-2017-0189"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Regarding the work under consideration, G Kov\u00e1cs declares that the study was supported by Helsinn Healthcare SA. A Wachtel received remuneration from Helsinn Healthcare SA. T Spinelli and P Nicolas are employees of Helsinn Healthcare SA. E Kabickova declares funding for travel from Helsinn Healthcare SA. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. \u2022 Meta-analysis showing that palonosetron is safer and more efficacious than other 5-hydroxytryptamine-3 receptor antagonists.",
+        "section": "Financial & competing interests disclosure",
+        "section_number": 26,
+        "sentences": [
+            "Regarding the work under consideration, G Kov\u00e1cs declares that the study was supported by Helsinn Healthcare SA.",
+            "A Wachtel received remuneration from Helsinn Healthcare SA.",
+            "T Spinelli and P Nicolas are employees of Helsinn Healthcare SA.",
+            "E Kabickova declares funding for travel from Helsinn Healthcare SA.",
+            "The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. \u2022",
+            "Meta-analysis showing that palonosetron is safer and more efficacious than other 5-hydroxytryptamine-3 receptor antagonists."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "34315",
+        "text": "Rojas C, Thomas AG, Alt J et al. Palonosetron triggers 5-HT(3) receptor internalization and",
+        "section": "",
+        "section_number": 27,
+        "sentences": [
+            "Rojas C, Thomas AG, Alt J et al. Palonosetron triggers 5-HT(3) receptor internalization and"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

@@ -1,0 +1,743 @@
+[
+    {
+        "doc_id": "39709",
+        "text": "Aim: To evaluate efficacy and safety of delivery room (DR) sustained lung inflation (SLI) in resuscitation of preterm neonates. Methods: Randomized Controlled Trial including 112 preterm infants randomized to either SLI (n \u00bc 57) using T-piece resuscitator [maximum three inflations with maximum pressure of 30 cmH 2 O for 15 s followed by continuous positive airway pressure (CPAP) of 5-7 cmH 2 O] or conventional bag/mask inflation (CBMI) (n \u00bc 55) using traditional self-inflating bag (maximum pressure of 40 cmH 2 O at a rate of 40-60 per min). Failure was defined as the need for DR or first 72 h intubation. Cord and 2-h post-resuscitation blood samples were collected to measure interleukin (IL)-1b and tumor necrosis factor-a levels before and after intervention. Results: SLI was associated with significantly higher success rate compared to CBMI [75.4 versus 54.5%; p \u00bc 0.017], lower need for DR intubation [5.3% versus 23.6%; (X 2 \u00bc 7.7; p \u00bc 0.005)], higher 5-min-Apgar score (median 8 versus 7; p \u00bc 0.018), shorter duration on nasal-CPAP (p \u00bc 0.017), and non-significantly different air leak (7% versus 11%; p \u00bc 0.3) and bronchopulmonary dysplasia rates among survivors (2% versus 11%; p \u00bc 0.09). Post-resuscitation IL-1b plasma levels increased significantly in CBMI (p \u00bc 0.009) and not in SLI group. Conclusion: Delivery room SLI is more effective than intermittent bag and mask inflation for improving short-term respiratory outcome in preterm infants, without significant adverse effects.",
+        "section": "Abstract",
+        "sentences": [
+            "Aim: To evaluate efficacy and safety of delivery room (DR) sustained lung inflation (SLI) in resuscitation of preterm neonates.",
+            "Methods: Randomized Controlled Trial including 112 preterm infants randomized to either SLI (n \u00bc 57) using T-piece resuscitator [maximum three inflations with maximum pressure of 30 cmH 2 O for 15 s followed by continuous positive airway pressure (CPAP) of 5-7 cmH 2 O] or conventional bag/mask inflation (CBMI) (n \u00bc 55) using traditional self-inflating bag (maximum pressure of 40 cmH 2 O at a rate of 40-60 per min).",
+            "Failure was defined as the need for DR or first 72 h intubation.",
+            "Cord and 2-h post-resuscitation blood samples were collected to measure interleukin (IL)-1b and tumor necrosis factor-a levels before and after intervention.",
+            "Results: SLI was associated with significantly higher success rate compared to CBMI [75.4 versus 54.5%; p \u00bc 0.017], lower need for DR intubation [5.3% versus 23.6%; (X 2 \u00bc 7.7; p \u00bc 0.005)], higher 5-min-Apgar score (median 8 versus 7; p \u00bc 0.018), shorter duration on nasal-CPAP (p \u00bc 0.017), and non-significantly different air leak (7% versus 11%; p \u00bc 0.3) and bronchopulmonary dysplasia rates among survivors (2% versus 11%; p \u00bc 0.09).",
+            "Post-resuscitation IL-1b plasma levels increased significantly in CBMI (p \u00bc 0.009) and not in SLI group.",
+            "Conclusion: Delivery room SLI is more effective than intermittent bag and mask inflation for improving short-term respiratory outcome in preterm infants, without significant adverse effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Administration of positive pressure ventilation (PPV) is the standard recommended intervention during resuscitation of preterm and term newly born infants suffering apnea, gasping, or labored breathing and/or inadequate heart rate (less than 100 beats/min) [1] . Several devices can effectively deliver PPV including flow-inflating bag, self-inflating bag (SIB) and T-piece resuscitator (TPR) [2] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Administration of positive pressure ventilation (PPV) is the standard recommended intervention during resuscitation of preterm and term newly born infants suffering apnea, gasping, or labored breathing and/or inadequate heart rate (less than 100 beats/min) [1] .",
+            "Several devices can effectively deliver PPV including flow-inflating bag, self-inflating bag (SIB) and T-piece resuscitator (TPR) [2] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "The SIB cannot deliver continuous positive airway pressure (CPAP) and may not reliably achieve positive end expiratory pressure (PEEP) even with a PEEP valve [3] . However, TPR can consistently provide target inspiratory and expiratory inflation pressures and longer inspiratory times, in addition to its ease of use [2] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The SIB cannot deliver continuous positive airway pressure (CPAP) and may not reliably achieve positive end expiratory pressure (PEEP) even with a PEEP valve [3] .",
+            "However, TPR can consistently provide target inspiratory and expiratory inflation pressures and longer inspiratory times, in addition to its ease of use [2] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Sustained lung inflation (SLI) is a lung recruitment maneuver that leads to a large increase in tidal volume, helps clearance of lung fluid and allows a more even distribution of air throughout the lungs; this facilitates the establishment of functional residual capacity (FRC) [4] . Several studies reported that SLI reduced the need for intubation and mechanical ventilation (MV) at birth in preterm babies at risk for respiratory distress syndrome (RDS), without statistically evident adverse effects [5, 6] . At the same time, using CPAP immediately after birth in preterm infants, with subsequent selective surfactant administration, is strongly recommended by the American Academy of Pediatrics as an alternative to routine intubation [7] .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Sustained lung inflation (SLI) is a lung recruitment maneuver that leads to a large increase in tidal volume, helps clearance of lung fluid and allows a more even distribution of air throughout the lungs; this facilitates the establishment of functional residual capacity (FRC) [4] .",
+            "Several studies reported that SLI reduced the need for intubation and mechanical ventilation (MV) at birth in preterm babies at risk for respiratory distress syndrome (RDS), without statistically evident adverse effects [5, 6] .",
+            "At the same time, using CPAP immediately after birth in preterm infants, with subsequent selective surfactant administration, is strongly recommended by the American Academy of Pediatrics as an alternative to routine intubation [7] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Thus, a combination of delivery room (DR) SLI and CPAP may be the most effective and least injurious way to recruit the lungs in preterm neonates [8] .",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Thus, a combination of delivery room (DR) SLI and CPAP may be the most effective and least injurious way to recruit the lungs in preterm neonates [8] ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "However, there is still no solid evidence that SLI can improve long-term outcomes or reduce the rate of bronchopulmonary dysplasia (BPD) or death [6] . Moreover, its benefit in reducing the need for MV seems to be ''modest'' or nonsignificant in some studies, unless infants breathed [9, 10] . Therefore, at present, still there is insufficient evidence about the difference between sustained and intermittent lung inflation regarding efficacy, safety and mortality [11] .",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "However, there is still no solid evidence that SLI can improve long-term outcomes or reduce the rate of bronchopulmonary dysplasia (BPD) or death [6] .",
+            "Moreover, its benefit in reducing the need for MV seems to be ''modest'' or nonsignificant in some studies, unless infants breathed [9, 10] .",
+            "Therefore, at present, still there is insufficient evidence about the difference between sustained and intermittent lung inflation regarding efficacy, safety and mortality [11] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "This randomized interventional study aimed at evaluation of efficacy and safety of DR SLI compared to conventional bag/mask inflation (CBMI) in preterm neonates, through evaluating short-and long-term respiratory outcome and expected adverse effects; especially, air leak and intraventricular hemorrhage. A secondary aim was to measure interleukin (IL)-1b and tumor necrosis factor (TNF)-a plasma levels before and 2-h after intervention, as indicators of lung inflammation.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "This randomized interventional study aimed at evaluation of efficacy and safety of DR SLI compared to conventional bag/mask inflation (CBMI) in preterm neonates, through evaluating short-and long-term respiratory outcome and expected adverse effects; especially, air leak and intraventricular hemorrhage.",
+            "A secondary aim was to measure interleukin (IL)-1b and tumor necrosis factor (TNF)-a plasma levels before and 2-h after intervention, as indicators of lung inflammation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "This study was conducted in Maternity hospital, Ain Shams University, Cairo, Egypt, from 1 April 2012 to 31 March 2014. Preterm babies requiring PPV during resuscitation were recruited. The study protocol was approved by the local Ethics Committee for Scientific Research, with ID: FMASU 808/2010 and registered at ClinicalTrials.gov (Identifier: NCT01255826). Informed consents were obtained from parents of eligible neonates after explanation of purpose and plan of work.",
+        "section": "Materials and methods",
+        "section_number": 7,
+        "sentences": [
+            "This study was conducted in Maternity hospital, Ain Shams University, Cairo, Egypt, from 1 April 2012 to 31 March 2014.",
+            "Preterm babies requiring PPV during resuscitation were recruited.",
+            "The study protocol was approved by the local Ethics Committee for Scientific Research, with ID: FMASU 808/2010 and registered at ClinicalTrials.gov (Identifier: NCT01255826).",
+            "Informed consents were obtained from parents of eligible neonates after explanation of purpose and plan of work."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "For randomization, we used sequentially numbered sheets available only for the two investigators assigned to resuscitate eligible babies. Odd numbered sheets were allocated for SLI and even numbered for CBMI procedure. A second puff was given with a pressure of 25 cmH 2 O for 15 s when respiration was still labored and/or heart rate inadequate. It was followed by PEEP of 6 cmH 2 O.",
+        "section": "Materials and methods",
+        "section_number": 8,
+        "sentences": [
+            "For randomization, we used sequentially numbered sheets available only for the two investigators assigned to resuscitate eligible babies.",
+            "Odd numbered sheets were allocated for SLI and even numbered for CBMI procedure.",
+            "A second puff was given with a pressure of 25 cmH 2 O for 15 s when respiration was still labored and/or heart rate inadequate.",
+            "It was followed by PEEP of 6 cmH 2 O."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "A third puff with a pressure of 30 cmH 2 O for 15 s followed by PEEP of 7 cmH 2 O was given, if still needed. About half of studied neonates [32/57 (56%)] were in need for three sustained inflations due to insufficient response, after which PEEP of 7 cmH 2 O was maintained during transfer to the neonatal intensive care unit (NICU).",
+        "section": "Delivery room ventilatory management",
+        "section_number": 9,
+        "sentences": [
+            "A third puff with a pressure of 30 cmH 2 O for 15 s followed by PEEP of 7 cmH 2 O was given, if still needed.",
+            "About half of studied neonates [32/57 (56%)] were in need for three sustained inflations due to insufficient response, after which PEEP of 7 cmH 2 O was maintained during transfer to the neonatal intensive care unit (NICU)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Babies who failed three sustained inflations were intubated inside DR and ventilated using the TPR at a rate of 40-60 breaths/min with peak inspiratory pressure of 25-35 cmH 2 O and PEEP of 7-8 cmH 2 O until transferred to NICU.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 10,
+        "sentences": [
+            "Babies who failed three sustained inflations were intubated inside DR and ventilated using the TPR at a rate of 40-60 breaths/min with peak inspiratory pressure of 25-35 cmH 2 O and PEEP of 7-8 cmH 2 O until transferred to NICU."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "CBMI Group: Intermittent bag/mask inflations were administered at a rate of 40-60 breaths/min with maximum pressure of 40 cmH 2 O for 30 s using a SIB with an oxygen reservoir (Ambu Infant R Resuscitators, Ambu, Ballerup, Denmark). After achieving adequate circulation and breathing, these babies were maintained on CPAP of 5-7cmH 2 O while being transferred to NICU.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 11,
+        "sentences": [
+            "CBMI Group: Intermittent bag/mask inflations were administered at a rate of 40-60 breaths/min with maximum pressure of 40 cmH 2 O for 30 s using a SIB with an oxygen reservoir (Ambu Infant R Resuscitators, Ambu, Ballerup, Denmark).",
+            "After achieving adequate circulation and breathing, these babies were maintained on CPAP of 5-7cmH 2 O while being transferred to NICU."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Babies who did not achieve adequate regular breathing and/or heart rate after 30 s of effective intermittent inflations, with good mask seal, were intubated and ventilated at a rate of 40-60 breaths/min with peak inspiratory pressure of 25-35 cmH 2 O and PEEP of 7-8 cmH 2 O until transferred to NICU.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 12,
+        "sentences": [
+            "Babies who did not achieve adequate regular breathing and/or heart rate after 30 s of effective intermittent inflations, with good mask seal, were intubated and ventilated at a rate of 40-60 breaths/min with peak inspiratory pressure of 25-35 cmH 2 O and PEEP of 7-8 cmH 2 O until transferred to NICU."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "During NICU admission, CPAP was ventilator derived (Babylog 8000 plus\u00d4; Dr\u00e4ger, L\u00fcbeck, Germany) using short bi-nasal prongs. The same model was used for invasive MV and in DR for babies who undergone intubation.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 13,
+        "sentences": [
+            "During NICU admission, CPAP was ventilator derived (Babylog 8000 plus\u00d4; Dr\u00e4ger, L\u00fcbeck, Germany) using short bi-nasal prongs.",
+            "The same model was used for invasive MV and in DR for babies who undergone intubation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Criteria of nCPAP failure, necessitating MV, for both groups were capillary pH57.20, PO 2 550 mmHg with FiO 2 40.50, PCO 2 465 mmHg, worsening work of breathing or frequent episodes of apnea, despite maximum CPAP pressure of 8 cmH 2 O.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 14,
+        "sentences": [
+            "Criteria of nCPAP failure, necessitating MV, for both groups were capillary pH57.20, PO 2 550 mmHg with FiO 2 40.50, PCO 2 465 mmHg, worsening work of breathing or frequent episodes of apnea, despite maximum CPAP pressure of 8 cmH 2 O."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Primary outcome for both groups was either Success; defined as no need for any further ventilatory support, need for exclusive nCPAP, or need for intubation beyond the first 72 h after delivery, or Failure; defined as the need for intubation within the first 72 h of life, including DR intubation.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 15,
+        "sentences": [
+            "Primary outcome for both groups was either Success; defined as no need for any further ventilatory support, need for exclusive nCPAP, or need for intubation beyond the first 72 h after delivery, or Failure; defined as the need for intubation within the first 72 h of life, including DR intubation."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Secondary outcome measures were the occurrence of air leaks or development of BPD, intraventricular hemorrhage (IVH), patent ductus arteriosus (PDA) or necrotizing enterocolitis (NEC). Capillary blood gases were analyzed 2 h after stabilization for all neonates.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 16,
+        "sentences": [
+            "Secondary outcome measures were the occurrence of air leaks or development of BPD, intraventricular hemorrhage (IVH), patent ductus arteriosus (PDA) or necrotizing enterocolitis (NEC).",
+            "Capillary blood gases were analyzed 2 h after stabilization for all neonates."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Cord blood and 2-h post resuscitation venous blood samples were withdrawn from all neonates in EDTA-filled tubes and immediately centrifuged for 10 min at 3000 rpm. Plasma was separated and stored at \u00c020 C until analyzed for IL-1b and TNF-a levels (expressed in pg/ml) before and after intervention, using ELISA kits (Ray Biotech \u00d5 , Inc., Norcross, GA).",
+        "section": "Delivery room ventilatory management",
+        "section_number": 17,
+        "sentences": [
+            "Cord blood and 2-h post resuscitation venous blood samples were withdrawn from all neonates in EDTA-filled tubes and immediately centrifuged for 10 min at 3000 rpm.",
+            "Plasma was separated and stored at \u00c020 C until analyzed for IL-1b and TNF-a levels (expressed in pg/ml) before and after intervention, using ELISA kits (Ray Biotech \u00d5 , Inc., Norcross, GA)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Chest X-ray was done at transfer to NICU for grading of RDS and exclusion of air leaks. Cranial ultrasound and echocardiography examination were done for all patients for detection of IVH and PDA. Abdominal plain X-ray and Doppler ultrasound were done for exclusion of NEC, in suspected cases.",
+        "section": "Delivery room ventilatory management",
+        "section_number": 18,
+        "sentences": [
+            "Chest X-ray was done at transfer to NICU for grading of RDS and exclusion of air leaks.",
+            "Cranial ultrasound and echocardiography examination were done for all patients for detection of IVH and PDA.",
+            "Abdominal plain X-ray and Doppler ultrasound were done for exclusion of NEC, in suspected cases."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "BPD was defined as the need for supplemental oxygen for the first 28 days together with oxygen requirements at 36 completed weeks for babies 532 weeks' gestation or at 56 days for babies !32 weeks' gestation; none in mild BPD,50. 30 ",
+        "section": "Delivery room ventilatory management",
+        "section_number": 19,
+        "sentences": [
+            "BPD was defined as the need for supplemental oxygen for the first 28 days together with oxygen requirements at 36 completed weeks for babies 532 weeks' gestation or at 56 days for babies !",
+            "32 weeks' gestation; none in mild BPD,50.",
+            "30"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Analysis of data was done using SPSS; release 16 (SPSS Inc., SPSS for Windows, Version 16.0; Chicago, IL). Quantitative variables were calculated as mean, standard deviation (SD), median, and inter-quartile range (IQR) and qualitative variables were described as number (n) and percentage. Comparison of the two groups was done using independent t-test (parametric quantitative variables) or chi-square test ( 2 ) (qualitative variables) and paired t-test for parametric quantitative variables measured twice in the same group. Multivariate logistic regression analysis was used to assess the association between intervention and outcome. p values were significant if 50.05 and highly significant if 50.001.",
+        "section": "Statistical methods",
+        "section_number": 20,
+        "sentences": [
+            "Analysis of data was done using SPSS; release 16 (SPSS Inc., SPSS for Windows, Version 16.0; Chicago, IL).",
+            "Quantitative variables were calculated as mean, standard deviation (SD), median, and inter-quartile range (IQR) and qualitative variables were described as number (n) and percentage.",
+            "Comparison of the two groups was done using independent t-test (parametric quantitative variables) or chi-square test ( 2 ) (qualitative variables) and paired t-test for parametric quantitative variables measured twice in the same group.",
+            "Multivariate logistic regression analysis was used to assess the association between intervention and outcome.",
+            "p values were significant if 50.05 and highly significant if 50.001."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Two hundred and two babies were eligible. After enrollment, babies referred to other NICUs were excluded from analysis due to failure of follow-up. At the study end, SLI group comprised 57 babies and CBMI group comprised 55 babies.",
+        "section": "Results",
+        "section_number": 21,
+        "sentences": [
+            "Two hundred and two babies were eligible.",
+            "After enrollment, babies referred to other NICUs were excluded from analysis due to failure of follow-up.",
+            "At the study end, SLI group comprised 57 babies and CBMI group comprised 55 babies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Demographic and clinical characteristics of all patients are shown in Table 1 . Schematic representation of studied neonates, dropout cases, interventions and primary outcome is shown in Figure 1 .",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "Demographic and clinical characteristics of all patients are shown in Table 1 .",
+            "Schematic representation of studied neonates, dropout cases, interventions and primary outcome is shown in Figure 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "The two groups were gestational age and sex-matched. They were non-significantly different as regards birth weight, mode of delivery, grade of RDS and maximum CPAP level needed during admission.",
+        "section": "Results",
+        "section_number": 23,
+        "sentences": [
+            "The two groups were gestational age and sex-matched.",
+            "They were non-significantly different as regards birth weight, mode of delivery, grade of RDS and maximum CPAP level needed during admission."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Antenatal steroids (ANS) use was non-significantly different in the two groups and it did not affect the grade of RDS [30/84 (35.7%) of mild-to-moderate versus 8/28 (28.6%) of severe RDS; p \u00bc 0.646] or the rate of success in both groups (42% versus 33% of success in SLI and CBMI groups, respectively; p \u00bc 0.556).",
+        "section": "Results",
+        "section_number": 24,
+        "sentences": [
+            "Antenatal steroids (ANS) use was non-significantly different in the two groups and it did not affect the grade of RDS [30/84 (35.7%) of mild-to-moderate versus 8/28 (28.6%) of severe RDS; p \u00bc 0.646] or the rate of success in both groups (42% versus 33% of success in SLI and CBMI groups, respectively; p \u00bc 0.556)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Failure rate, in general, was significantly higher in CBMI compared to SLI group (Table 1) . DR intubation, in particular, was needed in 3/57 of SLI group compared to 13/55 of CBMI group [5.3% versus 23.6%, respectively, (X 2 \u00bc 7.7; p \u00bc 0.005)]. MV within the first 72 h after birth; excluding DR intubations, did not differ between the two groups; it was needed in 11/57 SLI and 12/55 CBMI babies (19.3% versus 22%; p \u00bc 0.37).",
+        "section": "Results",
+        "section_number": 25,
+        "sentences": [
+            "Failure rate, in general, was significantly higher in CBMI compared to SLI group (Table 1) .",
+            "DR intubation, in particular, was needed in 3/57 of SLI group compared to 13/55 of CBMI group [5.3% versus 23.6%, respectively, (X 2 \u00bc 7.7; p \u00bc 0.005)].",
+            "MV within the first 72 h after birth; excluding DR intubations, did not differ between the two groups; it was needed in 11/57 SLI and 12/55 CBMI babies (19.3% versus 22%; p \u00bc 0.37)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "However, Logistic regression analysis for predicting the association between DR SLI and MV within the first 72 h after birth, with inclusion of DR intubations, revealed that the maneuver decreased the need for intubation with odds ratio of Figure 1 . Schematic representation of studied neonates, dropout cases, interventions and primary outcome. Considering success as the dependant variable and use of SLI, GA, severity of RDS and ANS as the predictor variables, analysis of variance (ANOVA) showed that success was significantly related to SLI, increasing maturity and less severe RDS (p \u00bc 0.013, 0.000 and 0.000, respectively), but not to ANS use (p \u00bc 0.29 and 0.38 for SLI and CBMI groups, respectively).",
+        "section": "Results",
+        "section_number": 26,
+        "sentences": [
+            "However, Logistic regression analysis for predicting the association between DR SLI and MV within the first 72 h after birth, with inclusion of DR intubations, revealed that the maneuver decreased the need for intubation with odds ratio of Figure 1 .",
+            "Schematic representation of studied neonates, dropout cases, interventions and primary outcome.",
+            "Considering success as the dependant variable and use of SLI, GA, severity of RDS and ANS as the predictor variables, analysis of variance (ANOVA) showed that success was significantly related to SLI, increasing maturity and less severe RDS (p \u00bc 0.013, 0.000 and 0.000, respectively), but not to ANS use (p \u00bc 0.29 and 0.38 for SLI and CBMI groups, respectively)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Within successful cases, though statistically non-significant, more babies of SLI (8/57) than CBMI (3/55) groups were off ventilatory support (14% versus 5.5%; p40.05). Exclusive nasal CPAP was needed in 32/57 SLI versus 27/55 CBMI babies (56% versus 49%, p40.05), respectively. However, duration of exclusive nCPAP was significantly shorter in SLI compared to CBMI group [median 2 (IQR \u00bc 2.75) versus 5 (8) days; p \u00bc 0.017).",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "Within successful cases, though statistically non-significant, more babies of SLI (8/57) than CBMI (3/55) groups were off ventilatory support (14% versus 5.5%; p40.05).",
+            "Exclusive nasal CPAP was needed in 32/57 SLI versus 27/55 CBMI babies (56% versus 49%, p40.05), respectively.",
+            "However, duration of exclusive nCPAP was significantly shorter in SLI compared to CBMI group [median 2 (IQR \u00bc 2.75) versus 5 (8) days; p \u00bc 0.017)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "The 5-min-Apgar score and initial capillary pH were significantly higher in SLI compared to CBMI group [median 8 versus 7; p \u00bc 0.018], [7.34 \u00b1 0.08 versus 7.30 \u00b1 0.09; p \u00bc 0.017 with 95% CI for difference of (\u00c00.0794, -0.0079)], respectively]. As for development of BPD among survivors, it was non-significantly different; despite higher percentage in CBMI than SLI group (11% versus 2%, respectively; p \u00bc 0.09). Air leak developed in 4/57 (7%) of SLI babies and 6/55 (11%) of CBMI babies; a difference that was statistically non-significant (p \u00bc 0.3). The incidence of other complications did not differ between SLI and CBMI groups (IVH 18% versus 22%, NEC 12% versus 14% and PDA 14% versus 20%; p40.05, respectively) with higher incidence in the failure subgroups.",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "The 5-min-Apgar score and initial capillary pH were significantly higher in SLI compared to CBMI group [median 8 versus 7; p \u00bc 0.018], [7.34 \u00b1 0.08 versus 7.30 \u00b1 0.09; p \u00bc 0.017 with 95% CI for difference of (\u00c00.0794, -0.0079)], respectively].",
+            "As for development of BPD among survivors, it was non-significantly different; despite higher percentage in CBMI than SLI group (11% versus 2%, respectively; p \u00bc 0.09).",
+            "Air leak developed in 4/57 (7%) of SLI babies and 6/55 (11%) of CBMI babies; a difference that was statistically non-significant (p \u00bc 0.3).",
+            "The incidence of other complications did not differ between SLI and CBMI groups (IVH 18% versus 22%, NEC 12% versus 14% and PDA 14% versus 20%; p40.05, respectively) with higher incidence in the failure subgroups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Cord plasma levels of IL-1b and TNF-a in the two groups were not significantly different; median (IQR) for IL-1b [ ",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "Cord plasma levels of IL-1b and TNF-a in the two groups were not significantly different; median (IQR) for IL-1b ["
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "SLI was extensively studied during the last decade, both in animals and humans, but the results are conflicting, and there is still no strong evidence concerning efficacy, safety, and short-and long-term outcomes in the preterm infant.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "SLI was extensively studied during the last decade, both in animals and humans, but the results are conflicting, and there is still no strong evidence concerning efficacy, safety, and short-and long-term outcomes in the preterm infant."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "This randomized controlled trial evaluated the effect of DR SLI using TPR, in comparison to intermittent SIB inflations. SLI resulted, independently, in significantly less need for DR intubation, better tolerance to exclusive nasal CPAP and shorter duration of respiratory support during NICU admission, in comparison to intermittent inflation. It was associated with significantly less acidosis and higher 5-min-Apgar score; denoting better response to resuscitation.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "This randomized controlled trial evaluated the effect of DR SLI using TPR, in comparison to intermittent SIB inflations.",
+            "SLI resulted, independently, in significantly less need for DR intubation, better tolerance to exclusive nasal CPAP and shorter duration of respiratory support during NICU admission, in comparison to intermittent inflation.",
+            "It was associated with significantly less acidosis and higher 5-min-Apgar score; denoting better response to resuscitation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "The TPR, besides being easy to use, can provide sustained inflations with target inspiratory and expiratory pressures, while the SIB cannot [12] . We did not use TPR for intermittent inflations in CBMI group in order to compare the promising procedure of SLI to what has been the only method used in our unit for delivering PPV; the SIB. In fact, the difference between the two devices in effectiveness of resuscitation or immediate clinical outcome is controversial. Some reports emphasize the precise and consistent delivery of inflation pressures by TPR in particular and others show nonsignificant difference from the SIB, including a recent review of literature based on data in Medline, EMBASE, and Cochrane databases and ongoing trials [13, 14] .",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "The TPR, besides being easy to use, can provide sustained inflations with target inspiratory and expiratory pressures, while the SIB cannot [12] .",
+            "We did not use TPR for intermittent inflations in CBMI group in order to compare the promising procedure of SLI to what has been the only method used in our unit for delivering PPV; the SIB.",
+            "In fact, the difference between the two devices in effectiveness of resuscitation or immediate clinical outcome is controversial.",
+            "Some reports emphasize the precise and consistent delivery of inflation pressures by TPR in particular and others show nonsignificant difference from the SIB, including a recent review of literature based on data in Medline, EMBASE, and Cochrane databases and ongoing trials [13, 14] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Theoretically, SLI can lead to a large increase in tidal volume and can establish FRC as it overcomes the long-time constant of the fluid filled lung, and it allows a more even distribution of air throughout the lungs [15] . At the same time, early PEEP -even in the very preterm infant -is associated with less O 2 needs at 28 days of life and shorter duration of ventilation [16] . The effect of SLI and PEEP is additive so that combining both improves FRC formation and uniformity of lung aeration [17] .",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "Theoretically, SLI can lead to a large increase in tidal volume and can establish FRC as it overcomes the long-time constant of the fluid filled lung, and it allows a more even distribution of air throughout the lungs [15] .",
+            "At the same time, early PEEP -even in the very preterm infant -is associated with less O 2 needs at 28 days of life and shorter duration of ventilation [16] .",
+            "The effect of SLI and PEEP is additive so that combining both improves FRC formation and uniformity of lung aeration [17] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "This reduction in DR intubation achieved by SLI was shown many years ago in extremely low birth weight babies [18] . Several studies then reported the same in addition to a significant reduction of severity of RDS -due to preservation of surfactant -and rate of subsequent MV within the first 72 h of life, without increased risk of IVH or air leak [5, 6, 8, 19, 20] .",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "This reduction in DR intubation achieved by SLI was shown many years ago in extremely low birth weight babies [18] .",
+            "Several studies then reported the same in addition to a significant reduction of severity of RDS -due to preservation of surfactant -and rate of subsequent MV within the first 72 h of life, without increased risk of IVH or air leak [5, 6, 8, 19, 20] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Even in animal models, a single sustained inflation of 20 or 30 s immediately after birth, followed by 5 cmH 2 O PEEP, improved speed of circulatory recovery and resulted in uniform lung aeration and improved compliance [17, 21] .",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "Even in animal models, a single sustained inflation of 20 or 30 s immediately after birth, followed by 5 cmH 2 O PEEP, improved speed of circulatory recovery and resulted in uniform lung aeration and improved compliance [17, 21] ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "In our study, several factors could have contributed to success including the use of ANS and the enrollment of babies up to 34 weeks' gestation and mild-to-moderate RDS cases. The rate of ANS use in the study was very low. Unfortunately, many mothers who present to our maternity hospital, being a tertiary complimentary center, are of low culture, and do not regularly attend antenatal visits. At presentation, the time before delivery is not often sufficient for administration of a full course of steroids. Importantly, ANS use was non-significantly different in the two groups and ANOVA demonstrated that SLI, higher GA, and less severe RDS were all significant contributing factors to success, but not ANS use. Having the two groups matched for GA and non-significantly different for grade of RDS; that is stabilization of these two significant factors, emphasizes the unique role of SLI in success.",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "In our study, several factors could have contributed to success including the use of ANS and the enrollment of babies up to 34 weeks' gestation and mild-to-moderate RDS cases.",
+            "The rate of ANS use in the study was very low.",
+            "Unfortunately, many mothers who present to our maternity hospital, being a tertiary complimentary center, are of low culture, and do not regularly attend antenatal visits.",
+            "At presentation, the time before delivery is not often sufficient for administration of a full course of steroids.",
+            "Importantly, ANS use was non-significantly different in the two groups and ANOVA demonstrated that SLI, higher GA, and less severe RDS were all significant contributing factors to success, but not ANS use.",
+            "Having the two groups matched for GA and non-significantly different for grade of RDS; that is stabilization of these two significant factors, emphasizes the unique role of SLI in success."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Some studies, however, reported that SLI was not effective in reducing MV requirement compared to intermittent inflation [22] .",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "Some studies, however, reported that SLI was not effective in reducing MV requirement compared to intermittent inflation [22] ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "In our study, MV within the first 72 h of life, beyond DR needs, was non-significantly reduced by SLI. This can be explained by the contribution of co-morbidities; the most important of which is the high prevalence of sepsis. In very few cases, the decision of starting MV came down by the physician on duty against the proposed criteria.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "In our study, MV within the first 72 h of life, beyond DR needs, was non-significantly reduced by SLI.",
+            "This can be explained by the contribution of co-morbidities; the most important of which is the high prevalence of sepsis.",
+            "In very few cases, the decision of starting MV came down by the physician on duty against the proposed criteria."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "We used progressively increasing sustained inflation pressures with subsequent escalation of PEEP, whenever needed. This escalation was provided for better alveolar recruitment; however, the maximum pressure used was 30 cmH 2 O in order to avoid the possible adverse effects as lung injury, air leak, or IVH. The guidelines for neonatal resuscitation issued by the International Liaison Committee on Resuscitation (ILCOR) recommended the use of inflation pressures of 20-25 cmH 2 O in preterm infants and reported that occasionally higher pressures are required [23] .",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "We used progressively increasing sustained inflation pressures with subsequent escalation of PEEP, whenever needed.",
+            "This escalation was provided for better alveolar recruitment; however, the maximum pressure used was 30 cmH 2 O in order to avoid the possible adverse effects as lung injury, air leak, or IVH.",
+            "The guidelines for neonatal resuscitation issued by the International Liaison Committee on Resuscitation (ILCOR) recommended the use of inflation pressures of 20-25 cmH 2 O in preterm infants and reported that occasionally higher pressures are required [23] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "In a study of large tidal volumes in intubated lambs, high peak pressures (30-60 cmH 2 O) caused adverse effects on lung function and morphology [24] . In contrast, the best resultsin terms of gas exchange, lung mechanics, and surfactant distribution -have been shown in piglets, when pressures of 22-29 cmH 2 O were used [25] .",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "In a study of large tidal volumes in intubated lambs, high peak pressures (30-60 cmH 2 O) caused adverse effects on lung function and morphology [24] .",
+            "In contrast, the best resultsin terms of gas exchange, lung mechanics, and surfactant distribution -have been shown in piglets, when pressures of 22-29 cmH 2 O were used [25] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Development of IVH is a well-known adverse effect of PPV, especially with high-pressure settings, DR intubation, or MV during the first 72 h of life [26] . Thus, a sustained inflation of the lung might cause IVH especially in the preterm with fragile capillaries and passively regulated cerebral blood flow. However, in this study, SLI was not associated with higher risk of IVH.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "Development of IVH is a well-known adverse effect of PPV, especially with high-pressure settings, DR intubation, or MV during the first 72 h of life [26] .",
+            "Thus, a sustained inflation of the lung might cause IVH especially in the preterm with fragile capillaries and passively regulated cerebral blood flow.",
+            "However, in this study, SLI was not associated with higher risk of IVH."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Other complications of prematurity, NEC and PDA, were non-significantly different following the use of either methods of lung inflation. This demonstrates the relative safety of SLI on hemodynamic stability of preterm neonates during their critical period of transition.",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "Other complications of prematurity, NEC and PDA, were non-significantly different following the use of either methods of lung inflation.",
+            "This demonstrates the relative safety of SLI on hemodynamic stability of preterm neonates during their critical period of transition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Important to emphasize is that SLI did not reduce the rate of BPD development; addressing that its main beneficial effect is on short-term rather than long-term respiratory outcome. This could be attributed to the multi-factorial nature of BPD. However, some research workers reported significant reduction in the rate of BPD following SLI [8, 19, 20] .",
+        "section": "Discussion",
+        "section_number": 43,
+        "sentences": [
+            "Important to emphasize is that SLI did not reduce the rate of BPD development; addressing that its main beneficial effect is on short-term rather than long-term respiratory outcome.",
+            "This could be attributed to the multi-factorial nature of BPD.",
+            "However, some research workers reported significant reduction in the rate of BPD following SLI [8, 19, 20] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "All of these conflicting results could be explained by differences in degree of prematurity of studied neonates, severity of RDS, antenatal interventions as ANS administration, subsequent management during or immediately after resuscitation as prophylactic surfactant use or treatment of comorbidities, and in sample size.",
+        "section": "Discussion",
+        "section_number": 44,
+        "sentences": [
+            "All of these conflicting results could be explained by differences in degree of prematurity of studied neonates, severity of RDS, antenatal interventions as ANS administration, subsequent management during or immediately after resuscitation as prophylactic surfactant use or treatment of comorbidities, and in sample size."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "It seems that evaluation of SLI benefits and safety will need further assessment. Ongoing studies have been designed, but results of some are not yet reported [27, 28] .",
+        "section": "Discussion",
+        "section_number": 45,
+        "sentences": [
+            "It seems that evaluation of SLI benefits and safety will need further assessment.",
+            "Ongoing studies have been designed, but results of some are not yet reported [27, 28] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Ventilation induced lung injury during the immediate newborn period can occur as rapid as 15 min to 2 h initiating inflammation with elevation of pro-inflammatory and reduction of anti-inflammatory cytokine levels; an imbalance that is significantly associated with development of BPD [29, 30] .",
+        "section": "Discussion",
+        "section_number": 46,
+        "sentences": [
+            "Ventilation induced lung injury during the immediate newborn period can occur as rapid as 15 min to 2 h initiating inflammation with elevation of pro-inflammatory and reduction of anti-inflammatory cytokine levels; an imbalance that is significantly associated with development of BPD [29, 30] ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "Cytokine profile in our study indicates an increased potential to lung injury in CBMI compared to SLI. Similar and different results concerning IL-1b were previously reported [4, 31] .",
+        "section": "Discussion",
+        "section_number": 47,
+        "sentences": [
+            "Cytokine profile in our study indicates an increased potential to lung injury in CBMI compared to SLI.",
+            "Similar and different results concerning IL-1b were previously reported [4, 31] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "In summary, this study shows significant reduction of DR intubation and shorter duration on nCPAP during NICU admission in preterm infants resuscitated by sustained rather than intermittent lung inflations. SLI did not increase the risk of air leak or IVH and did not reduce the risk of BPD, though it may hinder lung inflammation.",
+        "section": "Discussion",
+        "section_number": 48,
+        "sentences": [
+            "In summary, this study shows significant reduction of DR intubation and shorter duration on nCPAP during NICU admission in preterm infants resuscitated by sustained rather than intermittent lung inflations.",
+            "SLI did not increase the risk of air leak or IVH and did not reduce the risk of BPD, though it may hinder lung inflammation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39709",
+        "text": "J Matern Fetal Neonatal Med, 2017; 30(11): 1273-1278",
+        "section": "",
+        "section_number": 49,
+        "sentences": [
+            "J Matern Fetal Neonatal Med, 2017; 30(11): 1273-1278"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

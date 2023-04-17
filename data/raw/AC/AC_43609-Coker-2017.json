@@ -1,0 +1,861 @@
+[
+    {
+        "doc_id": "43609",
+        "text": "Introduction: Bystander-based programs have shown promise to reduce interpersonal violence at colleges, yet limited rigorous evaluations have addressed bystander intervention effectiveness in high schools. This study evaluated the Green Dot bystander intervention to reduce sexual violence and related forms of interpersonal violence in 26 high schools over 5 years. Design: A cluster RCT was conducted. Setting/participants: Kentucky high schools were randomized to intervention or control (wait list) conditions. Intervention: Green Dot\u00c0trained educators conducted schoolwide presentations and recruited student popular opinion leaders to receive bystander training in intervention schools beginning in Year 1. Main outcome measures: The primary outcome was sexual violence perpetration, and related forms of interpersonal violence victimization and perpetration were also measured using anonymous student surveys collected at baseline and annually from 2010 to 2014. Because the school was the unit of analysis, violence measures were aggregated by school and year and schoollevel counts were provided. Results: A total of 89,707 students completed surveys. The primary, as randomized, analyses conducted in 2014-2016 included linear mixed models and generalized estimating equations to examine the condition\u00c0time interaction on violence outcomes. Slopes of school-level totals of sexual violence perpetration (condition\u00c0time, po0.001) and victimization (condition\u00c0time, po0.001) were different over time. During Years 3-4, when Green Dot was fully implemented, the mean number of sexual violent events prevented by the intervention was 120 in Intervention Year 3 and 88 in Year 4. For Year 3, prevalence rate ratios for sexual violence perpetration in the intervention relative to control schools were 0.83 (95% CI\u00bc0.70, 0.99) in Year 3 and 0.79 (95% CI\u00bc0.67, 0.94) in Year 4. Similar patterns were observed for sexual violence victimization, sexual harassment, stalking, and dating violence perpetration and victimization. Conclusions: Implementation of Green Dot in Kentucky high schools significantly decreased not only sexual violence perpetration but also other forms of interpersonal violence perpetration and victimization.",
+        "section": "Abstract",
+        "sentences": [
+            "Introduction: Bystander-based programs have shown promise to reduce interpersonal violence at colleges, yet limited rigorous evaluations have addressed bystander intervention effectiveness in high schools.",
+            "This study evaluated the Green Dot bystander intervention to reduce sexual violence and related forms of interpersonal violence in 26 high schools over 5 years.",
+            "Design: A cluster RCT was conducted.",
+            "Setting/participants: Kentucky high schools were randomized to intervention or control (wait list) conditions.",
+            "Intervention: Green Dot\u00c0trained educators conducted schoolwide presentations and recruited student popular opinion leaders to receive bystander training in intervention schools beginning in Year 1.",
+            "Main outcome measures: The primary outcome was sexual violence perpetration, and related forms of interpersonal violence victimization and perpetration were also measured using anonymous student surveys collected at baseline and annually from 2010 to 2014.",
+            "Because the school was the unit of analysis, violence measures were aggregated by school and year and schoollevel counts were provided.",
+            "Results: A total of 89,707 students completed surveys.",
+            "The primary, as randomized, analyses conducted in 2014-2016 included linear mixed models and generalized estimating equations to examine the condition\u00c0time interaction on violence outcomes.",
+            "Slopes of school-level totals of sexual violence perpetration (condition\u00c0time, po0.001) and victimization (condition\u00c0time, po0.001) were different over time.",
+            "During Years 3-4, when Green Dot was fully implemented, the mean number of sexual violent events prevented by the intervention was 120 in Intervention Year 3 and 88 in Year 4.",
+            "For Year 3, prevalence rate ratios for sexual violence perpetration in the intervention relative to control schools were 0.83 (95% CI\u00bc0.70, 0.99) in Year 3 and 0.79 (95% CI\u00bc0.67, 0.94) in Year 4.",
+            "Similar patterns were observed for sexual violence victimization, sexual harassment, stalking, and dating violence perpetration and victimization.",
+            "Conclusions: Implementation of Green Dot in Kentucky high schools significantly decreased not only sexual violence perpetration but also other forms of interpersonal violence perpetration and victimization."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "A lthough much research on sexual violence has focused on college populations, 1 sexual violence is often first experienced as early as middle or high school. 2, 3 Sexual violence includes attempted or completed nonconsensual sex, unwanted sexual contact, and sexual harassment; dating partners are frequently those responsible. 4 Sexual violence victimization rates range from 6% among male victims to 14% among female victims, and this violence has been associated with significant lifelong consequences, including suicide and substance abuse. 5 Bystander approaches have been recognized as \"promising prevention strategies\" for violence prevention. 6 Bystander training teaches individuals how to recognize situations or behaviors that may become violent and intervene to reduce the likelihood of violence. 7 At the individual level, bystander interventions may reduce violent behaviors by increasing willingness and self-efficacy to challenge violence-supportive norms and behaviors in one's peer group 8 and intervene in risky situations to prevent violence. [9] [10] [11] These individual interventions within peer groups can diffuse the benefits of training through social networks to produce changes in social norms and behavior at the community level. Emerging evidence suggests that bystander approaches to violence prevention may increase bystander intentions, [9] [10] [11] promote positive bystander behaviors, 8 and reduce violence among college students 12, 13 and adolescent male athletes. 14 Bystander intervention programs share a philosophy that all members of the community have a role in preventing violence. By engaging participants not as potential victims or perpetrators, but as potential allies, both defensiveness and victim-blaming attitudes are reduced. 6, 15, 16 Designated driver campaigns are examples of effective bystander-related messaging applied to reduce drunk driving. 17 In this study, school-level frequency of self-reported sexual violence perpetration and victimization was hypothesized to decline over time in high schools receiving a bystander intervention compared with nointervention (control) high schools. 18 Because different types of violence frequently co-occur, 19 intervention effects on sexual harassment, stalking, and dating violence were also measured for both victimization and perpetration. Declines over time in the intervention relative to control condition were hypothesized for all violence forms. An intent-to-treat (ITT) analysis was used.",
+        "section": "INTRODUCTION",
+        "section_number": 1,
+        "sentences": [
+            "A lthough much research on sexual violence has focused on college populations, 1 sexual violence is often first experienced as early as middle or high school.",
+            "2, 3 Sexual violence includes attempted or completed nonconsensual sex, unwanted sexual contact, and sexual harassment; dating partners are frequently those responsible.",
+            "4 Sexual violence victimization rates range from 6% among male victims to 14% among female victims, and this violence has been associated with significant lifelong consequences, including suicide and substance abuse.",
+            "5 Bystander approaches have been recognized as \"promising prevention strategies\" for violence prevention.",
+            "6 Bystander training teaches individuals how to recognize situations or behaviors that may become violent and intervene to reduce the likelihood of violence.",
+            "7 At the individual level, bystander interventions may reduce violent behaviors by increasing willingness and self-efficacy to challenge violence-supportive norms and behaviors in one's peer group 8 and intervene in risky situations to prevent violence. [",
+            "9] [10] [11] These individual interventions within peer groups can diffuse the benefits of training through social networks to produce changes in social norms and behavior at the community level.",
+            "Emerging evidence suggests that bystander approaches to violence prevention may increase bystander intentions, [9] [10] [11] promote positive bystander behaviors, 8 and reduce violence among college students 12, 13 and adolescent male athletes.",
+            "14 Bystander intervention programs share a philosophy that all members of the community have a role in preventing violence.",
+            "By engaging participants not as potential victims or perpetrators, but as potential allies, both defensiveness and victim-blaming attitudes are reduced.",
+            "6, 15, 16 Designated driver campaigns are examples of effective bystander-related messaging applied to reduce drunk driving.",
+            "17 In this study, school-level frequency of self-reported sexual violence perpetration and victimization was hypothesized to decline over time in high schools receiving a bystander intervention compared with nointervention (control) high schools.",
+            "18 Because different types of violence frequently co-occur, 19 intervention effects on sexual harassment, stalking, and dating violence were also measured for both victimization and perpetration.",
+            "Declines over time in the intervention relative to control condition were hypothesized for all violence forms.",
+            "An intent-to-treat (ITT) analysis was used."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The Green Dot violence prevention program (www.livethegreen dot.com) aims to engage potential bystanders to act to reduce sexual violence and related forms of interpersonal violence. 8, 13 This program is theory-based and supported by research drawing from bystander psychology, [20] [21] [22] [23] diffusion of innovation theory, 24, 25 and sexual violence perpetrator characteristics. [26] [27] [28] Male and female students are trained to recognize situations and behaviors that can contribute to violence and determine actions they could safely take to reduce the likelihood or effect of violence. These active bystander behaviors are called \"green dots\" to distinguish them from \"red dots\" or behaviors that may contribute to violence. Although originally developed for college students, for this trial, the developer adapted the program for high school\u00c0aged populations. 18 This adapted curriculum was delivered in two phases by trained rape crisis center educators (hereafter \"educators\"; n=28 educators; all female). Intervention training began Fall 2010 (beginning Year 1 [Y1]), with the majority (450%) of students in intervention schools receiving a 50-minute introductory persuasive speech delivered by educators (Phase 1). This schoolwide presentation oriented students to their potential role as engaged bystanders and explained how to recognize \"red dots\" and \"green dots.\" Green Dot speeches were provided annually to students in the intervention schools. Phase 2 was implemented beginning Spring 2011 (Y2) using the popular opinion leader strategy, 29, 30 which suggests that training 12%\u00c015% of a student body would maximize diffusion of the intervention. Educators worked with high school staff to identify students as leaders. Leadership qualities were operationalized as students others respected, followed, or emulated and not necessarily those with academic, athletic, or social leadership skills. These students were invited to participate in intensive (5-hour) bystander training. If space permitted, this training was also open for other students. Both training phases focused on violence victimization, perpetration, and on prosocial behaviors to recognize situations that may lead to violence and to act directly to distract or to delegate to others tasks to reduce the likelihood of violence (three Ds). Training focused not only on sexual violence risk but on sexual harassment, stalking, and partner violence.",
+        "section": "METHODS",
+        "section_number": 2,
+        "sentences": [
+            "The Green Dot violence prevention program (www.livethegreen dot.com) aims to engage potential bystanders to act to reduce sexual violence and related forms of interpersonal violence.",
+            "8, 13 This program is theory-based and supported by research drawing from bystander psychology, [20] [21] [22] [23] diffusion of innovation theory, 24, 25 and sexual violence perpetrator characteristics. [",
+            "26] [27] [28] Male and female students are trained to recognize situations and behaviors that can contribute to violence and determine actions they could safely take to reduce the likelihood or effect of violence.",
+            "These active bystander behaviors are called \"green dots\" to distinguish them from \"red dots\" or behaviors that may contribute to violence.",
+            "Although originally developed for college students, for this trial, the developer adapted the program for high school\u00c0aged populations.",
+            "18 This adapted curriculum was delivered in two phases by trained rape crisis center educators (hereafter \"educators\"; n=28 educators; all female).",
+            "Intervention training began Fall 2010 (beginning Year 1 [Y1]), with the majority (450%) of students in intervention schools receiving a 50-minute introductory persuasive speech delivered by educators (Phase 1).",
+            "This schoolwide presentation oriented students to their potential role as engaged bystanders and explained how to recognize \"red dots\" and \"green dots.\"",
+            "Green Dot speeches were provided annually to students in the intervention schools.",
+            "Phase 2 was implemented beginning Spring 2011 (Y2) using the popular opinion leader strategy, 29, 30 which suggests that training 12%\u00c015% of a student body would maximize diffusion of the intervention.",
+            "Educators worked with high school staff to identify students as leaders.",
+            "Leadership qualities were operationalized as students others respected, followed, or emulated and not necessarily those with academic, athletic, or social leadership skills.",
+            "These students were invited to participate in intensive (5-hour) bystander training.",
+            "If space permitted, this training was also open for other students.",
+            "Both training phases focused on violence victimization, perpetration, and on prosocial behaviors to recognize situations that may lead to violence and to act directly to distract or to delegate to others tasks to reduce the likelihood of violence (three Ds).",
+            "Training focused not only on sexual violence risk but on sexual harassment, stalking, and partner violence."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Educators attended a 4-day training delivered by the developer. Research staff, including the developer, reviewed educators' audio recordings of training sessions to assess the fidelity of program implementation. Research staff provided individualized feedback to educators throughout the trial. This feedback addressed how well educators connected with the audience and the degree to which their training was consistent with the curriculum.",
+        "section": "METHODS",
+        "section_number": 3,
+        "sentences": [
+            "Educators attended a 4-day training delivered by the developer.",
+            "Research staff, including the developer, reviewed educators' audio recordings of training sessions to assess the fidelity of program implementation.",
+            "Research staff provided individualized feedback to educators throughout the trial.",
+            "This feedback addressed how well educators connected with the audience and the degree to which their training was consistent with the curriculum."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Across the 13 rape crisis centers' regions, 46 demographically similar high schools were recruited and were willing to be randomized. Researchers reviewed the size of these 46 public schools and excluded ten as being too small (o100 per grade). Among the remaining 36 schools, two schools within the 13 regions were selected by the rape crisis centers for simple randomization to each condition in this cluster RCT (n=26). Participating high schools signed Memorandums of Understanding indicating willingness to be randomized, to remain in the trial, and allow data collection for 5 years (Spring 2010-2014). Upon trial completion, schools in both conditions had the option to continue implementation or adopt the intervention at no cost to the school.",
+        "section": "Study Sample",
+        "section_number": 4,
+        "sentences": [
+            "Across the 13 rape crisis centers' regions, 46 demographically similar high schools were recruited and were willing to be randomized.",
+            "Researchers reviewed the size of these 46 public schools and excluded ten as being too small (o100 per grade).",
+            "Among the remaining 36 schools, two schools within the 13 regions were selected by the rape crisis centers for simple randomization to each condition in this cluster RCT (n=26).",
+            "Participating high schools signed Memorandums of Understanding indicating willingness to be randomized, to remain in the trial, and allow data collection for 5 years (Spring 2010-2014).",
+            "Upon trial completion, schools in both conditions had the option to continue implementation or adopt the intervention at no cost to the school."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "High schools randomized to the control condition received no additional prevention programming (usual care). Staff monitored new program implementation in control schools over time and confirmed that no bystander programs were implemented.",
+        "section": "May 2017",
+        "section_number": 5,
+        "sentences": [
+            "High schools randomized to the control condition received no additional prevention programming (usual care).",
+            "Staff monitored new program implementation in control schools over time and confirmed that no bystander programs were implemented."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The sample size for the primary analysis was determined a priori based on number of regional rape crisis centers (n=13) and the design in which two demographically similar public high schools were identified and randomized in each of the 13 service regions. For capacity and feasibility reasons, educators within each region were asked to provide the intervention to only one school per region. For secondary analyses using individual-level data within a single year, power calculations were provided using Stata, version 11 (sampsi), assuming 500 students participating at each school within a year, accounting for clustering of students within schools (intraclass correlation of 0.005), and a two-sided significance level of 0.05. Greater than 80% power was anticipated to test for a 50% reduction in physically forced sex, relative to 5% rate in control condition (Appendices, available online).",
+        "section": "May 2017",
+        "section_number": 6,
+        "sentences": [
+            "The sample size for the primary analysis was determined a priori based on number of regional rape crisis centers (n=13) and the design in which two demographically similar public high schools were identified and randomized in each of the 13 service regions.",
+            "For capacity and feasibility reasons, educators within each region were asked to provide the intervention to only one school per region.",
+            "For secondary analyses using individual-level data within a single year, power calculations were provided using Stata, version 11 (sampsi), assuming 500 students participating at each school within a year, accounting for clustering of students within schools (intraclass correlation of 0.005), and a two-sided significance level of 0.05.",
+            "Greater than 80% power was anticipated to test for a 50% reduction in physically forced sex, relative to 5% rate in control condition (Appendices, available online)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Primary data collection was conducted at schools with all students (Grades 9-12) invited to complete an annual, anonymous survey before intervention implementation (Spring 2010, baseline) and during implementation from 2011 (Y1) through 2014 (Y4) as planned without an early stop. Researchers worked with each high school each year to identify 1 or 2 days between February and April that the majority of students would be present. The study protocol was approved by the University of Kentucky IRB (13-0680-F1V). Letters describing the study were mailed to all parents annually. If parents did not want their child to participate, parents could contact researchers by phone or e-mail with their student's name and school; surveys were not given to these students. At each administration, all students were given the option of refusing to complete the anonymous survey. The 99-item paper and pencil questionnaire was administered by research staff during the school day; students typically took 20-45 minutes to complete the survey. Research staff read elements of assent to all students. Pencils with website and hotline numbers for domestic violence, sexual violence, and depression support agencies were provided to all students. A more detailed student recruitment and data collection methodology is provided elsewhere. 15, 16 ",
+        "section": "May 2017",
+        "section_number": 7,
+        "sentences": [
+            "Primary data collection was conducted at schools with all students (Grades 9-12) invited to complete an annual, anonymous survey before intervention implementation (Spring 2010, baseline) and during implementation from 2011 (Y1) through 2014 (Y4) as planned without an early stop.",
+            "Researchers worked with each high school each year to identify 1 or 2 days between February and April that the majority of students would be present.",
+            "The study protocol was approved by the University of Kentucky IRB (13-0680-F1V).",
+            "Letters describing the study were mailed to all parents annually.",
+            "If parents did not want their child to participate, parents could contact researchers by phone or e-mail with their student's name and school; surveys were not given to these students.",
+            "At each administration, all students were given the option of refusing to complete the anonymous survey.",
+            "The 99-item paper and pencil questionnaire was administered by research staff during the school day; students typically took 20-45 minutes to complete the survey.",
+            "Research staff read elements of assent to all students.",
+            "Pencils with website and hotline numbers for domestic violence, sexual violence, and depression support agencies were provided to all students.",
+            "A more detailed student recruitment and data collection methodology is provided elsewhere.",
+            "15, 16"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The outcomes were self-reported violence perpetration and victimization in the past 12 months; response options were expanded beyond yes/no to include frequencies (response options: zero, one to two, three to five, six to nine, and ten or more times). For analyses, response categories were scored as the minimum value in each response range (zero, one, three, six, and ten) to err toward undercounting versus overcounting incidents. The measures used, their source, psychometric properties, and response options for the outcomes are provided in Appendix Figure 1 (available online).",
+        "section": "Measures",
+        "section_number": 8,
+        "sentences": [
+            "The outcomes were self-reported violence perpetration and victimization in the past 12 months; response options were expanded beyond yes/no to include frequencies (response options: zero, one to two, three to five, six to nine, and ten or more times).",
+            "For analyses, response categories were scored as the minimum value in each response range (zero, one, three, six, and ten) to err toward undercounting versus overcounting incidents.",
+            "The measures used, their source, psychometric properties, and response options for the outcomes are provided in Appendix Figure 1 (available online)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "To measure hypothesized declines over time in school-level reports of violence perpetration and victimization in the intervention relative to control schools, two approaches were used: a school-level count of violence reported over time and a dichotomous measure student-reported violence forms by year.",
+        "section": "Measures",
+        "section_number": 9,
+        "sentences": [
+            "To measure hypothesized declines over time in school-level reports of violence perpetration and victimization in the intervention relative to control schools, two approaches were used: a school-level count of violence reported over time and a dichotomous measure student-reported violence forms by year."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "First, as the primary outcome, school-level sums for the number of violent events provided a frequency of violence per school. A school-level summary was used as the primary outcome because student reports were anonymously collected and did not allow for data linkage over time; aggregated, school-level data (cluster-level summaries) could be linked longitudinally. To make interpretations of estimates easier, school-level sums were selected as the cluster-level summary in lieu of the more traditional cluster-level mean. Resulting estimates by condition, within year, were used as a measure of direct public health relevance: the absolute number of events prevented by the intervention.",
+        "section": "Measures",
+        "section_number": 10,
+        "sentences": [
+            "First, as the primary outcome, school-level sums for the number of violent events provided a frequency of violence per school.",
+            "A school-level summary was used as the primary outcome because student reports were anonymously collected and did not allow for data linkage over time; aggregated, school-level data (cluster-level summaries) could be linked longitudinally.",
+            "To make interpretations of estimates easier, school-level sums were selected as the cluster-level summary in lieu of the more traditional cluster-level mean.",
+            "Resulting estimates by condition, within year, were used as a measure of direct public health relevance: the absolute number of events prevented by the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The second approach to measuring intervention effectiveness used a dichotomous variable of student-reported violence. These dichotomous variables were then used to estimate prevalence rates (%) for all violence forms for both victimization and perpetration in each condition by year.",
+        "section": "Measures",
+        "section_number": 11,
+        "sentences": [
+            "The second approach to measuring intervention effectiveness used a dichotomous variable of student-reported violence.",
+            "These dichotomous variables were then used to estimate prevalence rates (%) for all violence forms for both victimization and perpetration in each condition by year."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Students were also asked about sociodemographic (gender, grade, race/ethnicity, and receiving reduced-price school meals) and violence risk (sexual attraction, current romantic/dating relationship status, seen or heard a parent being physically abused by a partner, and binge drinking in the past month) characteristics.",
+        "section": "Measures",
+        "section_number": 12,
+        "sentences": [
+            "Students were also asked about sociodemographic (gender, grade, race/ethnicity, and receiving reduced-price school meals) and violence risk (sexual attraction, current romantic/dating relationship status, seen or heard a parent being physically abused by a partner, and binge drinking in the past month) characteristics."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "School-level differences in demographic characteristics (mean and SD of percentages) at baseline were evaluated using two-sample ttests to identify imbalances by condition.",
+        "section": "Statistical Analysis",
+        "section_number": 13,
+        "sentences": [
+            "School-level differences in demographic characteristics (mean and SD of percentages) at baseline were evaluated using two-sample ttests to identify imbalances by condition."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Annual school sums of student responses (n\u00bc26) were used as the primary outcome to address the study hypothesis that using violence would be reduced over implementation in intervention relative to control schools. The primary analytic goal for this randomized intervention trial was to provide a longitudinal evaluation of randomized conditions. Repeated school-level measures were analyzed over time, where schools, not students, were the unit of analysis. Owing to significant overdispersion in Poisson models, linear mixed models were chosen to evaluate condi-tion\u00c0time (CxT) interactions and provide mean estimates by condition year. Histograms and quantile plots were used to assess distributional assumptions, and violations to normality were not observed. Therefore, to estimate the longitudinal effect of the intervention over time, which was central to the study hypothesis, linear mixed models included the effects of randomized condition, time (baseline, Y1 2010-Y4 2014), and the CxT interaction on violence outcomes (PROC GLIMMIX with an AR [1] R matrix and bias-corrected empirical SE estimates in SAS, version 9.3, 9.4). 31 Because the outcomes were school-level sums, the number of students responding in each year was also included for covariate adjustment. For these analyses, the mean school-level sum (yearly totals) of violent events were presented by condition (and 95% CI) with absolute differences (intervention\u00c0control [I\u00c0C]; 95% CI) within year, providing an estimate of events potentially prevented. Parallel analyses using each of the three items comprising the primary measures of sexual violence (perpetration and victimization) were also conducted.",
+        "section": "Statistical Analysis",
+        "section_number": 14,
+        "sentences": [
+            "Annual school sums of student responses (n\u00bc26) were used as the primary outcome to address the study hypothesis that using violence would be reduced over implementation in intervention relative to control schools.",
+            "The primary analytic goal for this randomized intervention trial was to provide a longitudinal evaluation of randomized conditions.",
+            "Repeated school-level measures were analyzed over time, where schools, not students, were the unit of analysis.",
+            "Owing to significant overdispersion in Poisson models, linear mixed models were chosen to evaluate condi-tion\u00c0time (CxT) interactions and provide mean estimates by condition year.",
+            "Histograms and quantile plots were used to assess distributional assumptions, and violations to normality were not observed.",
+            "Therefore, to estimate the longitudinal effect of the intervention over time, which was central to the study hypothesis, linear mixed models included the effects of randomized condition, time (baseline, Y1 2010-Y4 2014), and the CxT interaction on violence outcomes (PROC GLIMMIX with an AR [1] R matrix and bias-corrected empirical SE estimates in SAS, version 9.3, 9.4).",
+            "31 Because the outcomes were school-level sums, the number of students responding in each year was also included for covariate adjustment.",
+            "For these analyses, the mean school-level sum (yearly totals) of violent events were presented by condition (and 95% CI) with absolute differences (intervention\u00c0control [I\u00c0C]; 95% CI) within year, providing an estimate of events potentially prevented.",
+            "Parallel analyses using each of the three items comprising the primary measures of sexual violence (perpetration and victimization) were also conducted."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Using the dichotomous reports of violence provided by students within a year, violence prevalence rates at the individual level were used to estimate prevalence rate ratios comparing intervention to control conditions within year using generalized estimating equations (PROC GENMOD, link\u00bclog, dist\u00bcbin, using REPEATED with EXCH matrix in SAS, version 9.3, 9.4). Generalized estimating equations allow for the comparison of prevalence rates while accounting for school-level clustering in a log-binomial regression framework. Analyses and results were provided by year; adjusted prevalence rate ratios with 95% CIs were also presented.",
+        "section": "Statistical Analysis",
+        "section_number": 15,
+        "sentences": [
+            "Using the dichotomous reports of violence provided by students within a year, violence prevalence rates at the individual level were used to estimate prevalence rate ratios comparing intervention to control conditions within year using generalized estimating equations (PROC GENMOD, link\u00bclog, dist\u00bcbin, using REPEATED with EXCH matrix in SAS, version 9.3, 9.4).",
+            "Generalized estimating equations allow for the comparison of prevalence rates while accounting for school-level clustering in a log-binomial regression framework.",
+            "Analyses and results were provided by year; adjusted prevalence rate ratios with 95% CIs were also presented."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "To provide results for gender subgroups, parallel analyses were repeated for female and male students.",
+        "section": "www.ajpmonline.org",
+        "section_number": 16,
+        "sentences": [
+            "To provide results for gender subgroups, parallel analyses were repeated for female and male students."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "All analyses were conducted as ITT. To maintain ITT analyses for the longitudinal analysis, missing school-level data (n\u00bc2) were imputed using single imputation (last observation carried forward), because the school-level sample size (n\u00bc26) was small for multiple imputation and missingness occurred in a monotone pattern (i.e., missingness is due only to school dropout, and once dropout occurred, schools did not return). A significance level of 0.05 (two-sided) was used for all statistical tests. Adjustments for multiple comparisons were not made for exploratory analyses.",
+        "section": "www.ajpmonline.org",
+        "section_number": 17,
+        "sentences": [
+            "All analyses were conducted as ITT.",
+            "To maintain ITT analyses for the longitudinal analysis, missing school-level data (n\u00bc2) were imputed using single imputation (last observation carried forward), because the school-level sample size (n\u00bc26) was small for multiple imputation and missingness occurred in a monotone pattern (i.e., missingness is due only to school dropout, and once dropout occurred, schools did not return).",
+            "A significance level of 0.05 (two-sided) was used for all statistical tests.",
+            "Adjustments for multiple comparisons were not made for exploratory analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Though data collection began in 2010, no data analyses were conducted until after final data collection and cleaning in late 2014. A delay in registering this trial at ClinicalTrials.gov (2013) was due to determining how best to characterize this cluster-based trial. The cooperative agreement specified sexual violence perpetration as the primary outcome indicating intervention effectiveness.",
+        "section": "www.ajpmonline.org",
+        "section_number": 18,
+        "sentences": [
+            "Though data collection began in 2010, no data analyses were conducted until after final data collection and cleaning in late 2014.",
+            "A delay in registering this trial at ClinicalTrials.gov (2013) was due to determining how best to characterize this cluster-based trial.",
+            "The cooperative agreement specified sexual violence perpetration as the primary outcome indicating intervention effectiveness."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "At the school level, two high schools dropped out of the study, one randomized to the control (Y2) and one to the intervention condition (Y4). Within schools, the refusal rates were 0.5% and 13.6% for parents and students, respectively.",
+        "section": "RESULTS",
+        "section_number": 19,
+        "sentences": [
+            "At the school level, two high schools dropped out of the study, one randomized to the control (Y2) and one to the intervention condition (Y4).",
+            "Within schools, the refusal rates were 0.5% and 13.6% for parents and students, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "From baseline to Y4, a total of 106,867 students were present on survey days, and 83.9% completed surveys. 32 This rate was 92.6% at baseline and declined to 76.6% in Y4. Response rates were similar in intervention (84.4%, 47,311/56,029) and control (83.4%, 42,396/50,838) schools ( Figure 1 ). Students who did not provide demographics or violence information were excluded (n\u00bc9,427) from the analytic sample. Potential mischievous responders were also identified 33 (never drinkers reporting symptoms of alcohol abuse, never sexually active responders but pregnant or having children, or those in multiple relationships in the past 12 months yet no relationship in the same time frame for dating violence items) and excluded (n\u00bc6,485) as a conservative approach to limit potential bias introduced by including inaccurate responses. The final analytic sample included 73,795 responses over 5 years, representing 26 schools.",
+        "section": "RESULTS",
+        "section_number": 20,
+        "sentences": [
+            "From baseline to Y4, a total of 106,867 students were present on survey days, and 83.9% completed surveys.",
+            "32 This rate was 92.6% at baseline and declined to 76.6% in Y4.",
+            "Response rates were similar in intervention (84.4%, 47,311/56,029) and control (83.4%, 42,396/50,838) schools ( Figure 1 ).",
+            "Students who did not provide demographics or violence information were excluded (n\u00bc9,427) from the analytic sample.",
+            "Potential mischievous responders were also identified 33 (never drinkers reporting symptoms of alcohol abuse, never sexually active responders but pregnant or having children, or those in multiple relationships in the past 12 months yet no relationship in the same time frame for dating violence items) and excluded (n\u00bc6,485) as a conservative approach to limit potential bias introduced by including inaccurate responses.",
+            "The final analytic sample included 73,795 responses over 5 years, representing 26 schools."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Based on self-reported survey data, almost half of students in intervention schools recalled hearing a Green Dot speech (Phase 1 training: Y1, 58%; Y2, 52%; Y3, 48.5%; Y4, 47%). Phase 2 intensive training was delivered in groups (mean group size, 32 students; range, 17-60) held during school hours, with at least two trainings per academic year per school. A total of 2,599 students received bystander training (Phase 2 intensive training: Y1, 8.3%; Y2, 11.1%; Y3, 12.6%; Y4, 13.2%).",
+        "section": "RESULTS",
+        "section_number": 21,
+        "sentences": [
+            "Based on self-reported survey data, almost half of students in intervention schools recalled hearing a Green Dot speech (Phase 1 training: Y1, 58%; Y2, 52%; Y3, 48.5%; Y4, 47%).",
+            "Phase 2 intensive training was delivered in groups (mean group size, 32 students; range, 17-60) held during school hours, with at least two trainings per academic year per school.",
+            "A total of 2,599 students received bystander training (Phase 2 intensive training: Y1, 8.3%; Y2, 11.1%; Y3, 12.6%; Y4, 13.2%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Similarities in sociodemographic and violence risk characteristics (school-level averages) between conditions suggested that randomization resulted in comparable schools across conditions (Appendix Table 1 , available online). Rates (%) of violence by form and condition at baseline were provided for all students and by sex (Appendix Table 2 , available online) and similarly indicated no differences by condition.",
+        "section": "RESULTS",
+        "section_number": 22,
+        "sentences": [
+            "Similarities in sociodemographic and violence risk characteristics (school-level averages) between conditions suggested that randomization resulted in comparable schools across conditions (Appendix Table 1 , available online).",
+            "Rates (%) of violence by form and condition at baseline were provided for all students and by sex (Appendix Table 2 , available online) and similarly indicated no differences by condition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Greater declines in the number of sexual violence perpetration events (CxT, po0.001) and victimization (CxT, po0.001) were observed from Y1 to Y4 in intervention relative to control schools (Table 1 ). After the intervention was fully implemented (Y3 and Y4), the mean differences in the number of events perpetrated in the intervention versus control schools were \u00c0120 (Y3) and \u00c088 (Y4). An estimated 120 fewer sexual violence events were perpetrated in Y3 for an average intervention school than in an average control school. I\u00c0C differences in sexual violence victimization events were \u00c0167 (Y3) and \u00c062 (Y4).",
+        "section": "RESULTS",
+        "section_number": 23,
+        "sentences": [
+            "Greater declines in the number of sexual violence perpetration events (CxT, po0.001) and victimization (CxT, po0.001) were observed from Y1 to Y4 in intervention relative to control schools (Table 1 ).",
+            "After the intervention was fully implemented (Y3 and Y4), the mean differences in the number of events perpetrated in the intervention versus control schools were \u00c0120 (Y3) and \u00c088 (Y4).",
+            "An estimated 120 fewer sexual violence events were perpetrated in Y3 for an average intervention school than in an average control school.",
+            "I\u00c0C differences in sexual violence victimization events were \u00c0167 (Y3) and \u00c062 (Y4)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The intervention was associated with a significant reduction over time (CxT, po0.01) for each of the three sexual violence perpetration items. In Y3 and Y4, respectively, the intervention was associated with 38 and 24 fewer coerced sex events, 40 and 23 fewer physically forced sex events, and 44 and 43 fewer alcohol drug facilitated sex events perpetrated.",
+        "section": "RESULTS",
+        "section_number": 24,
+        "sentences": [
+            "The intervention was associated with a significant reduction over time (CxT, po0.01) for each of the three sexual violence perpetration items.",
+            "In Y3 and Y4, respectively, the intervention was associated with 38 and 24 fewer coerced sex events, 40 and 23 fewer physically forced sex events, and 44 and 43 fewer alcohol drug facilitated sex events perpetrated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "In all three sexual violence victimization items, a significant CxT interaction was also observed (CxT, po0.01). However, the pattern of significantly fewer events (I\u00c0C) in Y3 for all three items did not hold for Y4. Statistically significant CxT interactions were observed for both perpetration and victimization of sexual harassment, stalking, and psychological and physical dating violence (Table 1) . Further, significantly fewer violent events were perpetrated and experienced in the intervention versus control schools (I\u00c0C) in Y3 for sexual harassment, stalking, and both forms of dating violence. For both Y3 and Y4, significantly fewer physical dating violence events (victimization and perpetration) were observed in the intervention relative to control schools.",
+        "section": "RESULTS",
+        "section_number": 25,
+        "sentences": [
+            "In all three sexual violence victimization items, a significant CxT interaction was also observed (CxT, po0.01).",
+            "However, the pattern of significantly fewer events (I\u00c0C) in Y3 for all three items did not hold for Y4.",
+            "Statistically significant CxT interactions were observed for both perpetration and victimization of sexual harassment, stalking, and psychological and physical dating violence (Table 1) .",
+            "Further, significantly fewer violent events were perpetrated and experienced in the intervention versus control schools (I\u00c0C) in Y3 for sexual harassment, stalking, and both forms of dating violence.",
+            "For both Y3 and Y4, significantly fewer physical dating violence events (victimization and perpetration) were observed in the intervention relative to control schools."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "For the three items measuring the effect of experiencing sexual or dating violence, each resulted in significant CxT interactions with significantly fewer events in the intervention relative to control schools for Y3. On average, there were 39 and 25 fewer reports of students missing school because of violence victimization for Y3 and Y4, respectively. This pattern of fewer events associated with the intervention was also observed for help seeking for and being physically hurt by sexual violence or dating violence. Table 2 and Appendix Table 3 (available online) provide the student-level analyses clustered within schools. Because the student-level data were anonymous, changes in the violence rates (%) over time could not be estimated; yet, prevalence rates and rate ratios were estimated within year. For Y3 and Y4, May 2017 Number present is the number of students in school on the day of the survey administration by year and condition. Each year all students in the schools were surveyed, thus student numbers differ by year. Individual students are not followed over time. The number of students enrolled defined as those administratively enrolled at each school at the beginning of the academic year across all schools by condition was used as the denominator for response rate calculation reported in text. b Refusals include both student and parental refusal of study participation. c Missing includes students agreeing to participant yet completing no demographic items nor violence or intervention training items. d Student responses were identified as potentially \"mischievous\" if there were discrepancies between similar questions (e.g., never drinker reporting binge drinking). e Two schools initially agreed to participate in the trial and dropped out before randomization. Values for the missing school were imputed from prior year. One intervention school dropped out in Year 4 and one control school dropped in Year 1; the school-level means from the last year of data collection were used as the imputed value. No., number. Regarding sexual violence victimization, rates were 12%\u00c013% lower in the intervention versus control schools in Y3 and Y4, respectively. For Y3 alone, sexual violence victimization rates were significantly lower in the intervention relative to control schools for both male and female students and for all three sexual violence items. Similar patterns of lower PRR in the intervention versus control schools were observed for sexual a School-level mean number of events is obtained for each school and year by summing events; these school totals represent the response variable. Mischievous responders were excluded from analyses. b Estimated mean number of events, I\u00c0C estimates, and p-values are based on ITT analysis using linear mixed models, which adjust for school size and baseline violence (p-value for Condition\u00c2Time Interaction effect). c Difference (I\u00c0C) estimates obtained from (LSMEANS) and may not be the exact difference obtained from subtracting column estimates. d Frequency of perpetrated events reported by students: response options for all Years (baseline, Y1-Y4) were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times. e Frequency of experienced events reported by students: response options for sexual violence baseline were 0, 1-2, 3-5, 6\u00fe times and were coded in models as: 0, 1, 3, or 6 times. Response options for Y1-Y4 were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times. f Frequency of experienced events reported by students: response options for all years for stalking, physical, and psychological dating violence were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times. For sexual harassment and the three sexual or dating violence effect measures response options for baseline were 0, 1-2, 3-5, 6\u00fe times and were coded in models as: 0, 1, 3. or 6 times. Response options for Y1-Y4 were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times. g Due to sexual violence or physical dating violence n po0.05, ** po0.01. I\u00c0C, intervention\u00c0control condition (difference in mean school-level violence event counts); ITT, intent to treat; LSMEANS, least squares means; No., number. ",
+        "section": "RESULTS",
+        "section_number": 26,
+        "sentences": [
+            "For the three items measuring the effect of experiencing sexual or dating violence, each resulted in significant CxT interactions with significantly fewer events in the intervention relative to control schools for Y3.",
+            "On average, there were 39 and 25 fewer reports of students missing school because of violence victimization for Y3 and Y4, respectively.",
+            "This pattern of fewer events associated with the intervention was also observed for help seeking for and being physically hurt by sexual violence or dating violence.",
+            "Table 2 and Appendix Table 3 (available online) provide the student-level analyses clustered within schools.",
+            "Because the student-level data were anonymous, changes in the violence rates (%) over time could not be estimated; yet, prevalence rates and rate ratios were estimated within year.",
+            "For Y3 and Y4, May 2017 Number present is the number of students in school on the day of the survey administration by year and condition.",
+            "Each year all students in the schools were surveyed, thus student numbers differ by year.",
+            "Individual students are not followed over time.",
+            "The number of students enrolled defined as those administratively enrolled at each school at the beginning of the academic year across all schools by condition was used as the denominator for response rate calculation reported in text.",
+            "b Refusals include both student and parental refusal of study participation.",
+            "c Missing includes students agreeing to participant yet completing no demographic items nor violence or intervention training items.",
+            "d Student responses were identified as potentially \"mischievous\" if there were discrepancies between similar questions (e.g., never drinker reporting binge drinking).",
+            "e Two schools initially agreed to participate in the trial and dropped out before randomization.",
+            "Values for the missing school were imputed from prior year.",
+            "One intervention school dropped out in Year 4 and one control school dropped in Year 1; the school-level means from the last year of data collection were used as the imputed value.",
+            "No., number.",
+            "Regarding sexual violence victimization, rates were 12%\u00c013% lower in the intervention versus control schools in Y3 and Y4, respectively.",
+            "For Y3 alone, sexual violence victimization rates were significantly lower in the intervention relative to control schools for both male and female students and for all three sexual violence items.",
+            "Similar patterns of lower PRR in the intervention versus control schools were observed for sexual a School-level mean number of events is obtained for each school and year by summing events; these school totals represent the response variable.",
+            "Mischievous responders were excluded from analyses.",
+            "b Estimated mean number of events, I\u00c0C estimates, and p-values are based on ITT analysis using linear mixed models, which adjust for school size and baseline violence (p-value for Condition\u00c2Time Interaction effect).",
+            "c Difference (I\u00c0C) estimates obtained from (LSMEANS) and may not be the exact difference obtained from subtracting column estimates.",
+            "d Frequency of perpetrated events reported by students: response options for all Years (baseline, Y1-Y4) were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times.",
+            "e Frequency of experienced events reported by students: response options for sexual violence baseline were 0, 1-2, 3-5, 6\u00fe times and were coded in models as: 0, 1, 3, or 6 times.",
+            "Response options for Y1-Y4 were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times.",
+            "f Frequency of experienced events reported by students: response options for all years for stalking, physical, and psychological dating violence were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times.",
+            "For sexual harassment and the three sexual or dating violence effect measures response options for baseline were 0, 1-2, 3-5, 6\u00fe times and were coded in models as: 0, 1, 3.",
+            "or 6 times.",
+            "Response options for Y1-Y4 were 0, 1-2, 3-5, 6-9, 10\u00fe times and were coded in models as: 0, 1, 3, 6, or 10 times.",
+            "g Due to sexual violence or physical dating violence n po0.05, ** po0.01.",
+            "I\u00c0C, intervention\u00c0control condition (difference in mean school-level violence event counts); ITT, intent to treat; LSMEANS, least squares means; No., number."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Results from this 5-year RCT indicate that this bystander program to reduce violence, adapted for high school students, was associated with 120 fewer sexually violent events in Y3 and 88 in Y4 when the intervention was fully implemented. Significant CxT interactions indicated intervention effectiveness to reduce sexual violence perpetration, victimization, and other forms of interpersonal violence over time. A time delay between intervention implementation and reductions in violent behavior was anticipated, as the intervention was hypothesized to reduce violence at the school level by first changing individual-level social norms supporting violence and increasing bystander skills and actions among the subset of trained individuals. Changes at the individual level in norms and behaviors require time to ultimately be detected as changes in violence at the school level. From secondary analyses, the intervention was effective in reducing the student-level violence perpetration rates by 17%\u00c021% (po0.01) in Y3 and Y4. This study is the first RCT of a bystander intervention focusing on sexual violence prevention and implemented with both sexes in a high school setting. This intervention is unique in its use of a gender-neutral approach to engage and train bystanders. The popular opinion leader model for recruitment and training may be a particularly efficient method to diffuse prosocial, non-violent norms through students' peer networks and change violence rates. Cost efficiencies of providing an intervention to only 12%\u00c015% of students using this training strategy, yet finding a 17%\u00c021% reduction in sexual violence, as observed here, may be particularly attractive for policymakers and school administrators because prevention programs that effectively address multiple violence forms may be particularly efficient strategies, given schools' multiple educational objectives. 19 The present finding that Green Dot was associated with a significant reduction in high school\u00c0level reports of using alcohol-or drug-facilitated sex was consistent with a recently reported observational study of a similar intervention among college freshmen. 34 Unwanted sex was significantly lower (po0.05) on the campus receiving a bystander program compared with two campuses without a bystander program (adjusted rate ratio, 0.75), with the largest reduction for alcohol-or drug-facilitated sexual violence (adjusted rate ratio, 0.64, po0.001). The intervention campus also had significantly lower rates of sexual harassment, stalking, and psychological dating violence. 35 The only other rigorous evaluation of a bystander prevention strategy among high school students 35 focused on violence perpetration in dating situations (including sexual violence against a partner). The current design and dating violence findings were similar to that reported by Miller et al., 35 who observed a reduction in self-reported physical dating violence perpetration associated with this intervention over time among male athletes. The studies differed in that other forms of interpersonal violence perpetration and victimization were measured and both young women and men were the target of this intervention. Other evidence-based programs [36] [37] [38] [39] set in middle or high schools have relied on different strategies to reduce sexual violence, such as teaching skills for building healthy relationships, changing violence acceptance, or implementing in-school protective orders and hot spot mapping.",
+        "section": "DISCUSSION",
+        "section_number": 27,
+        "sentences": [
+            "Results from this 5-year RCT indicate that this bystander program to reduce violence, adapted for high school students, was associated with 120 fewer sexually violent events in Y3 and 88 in Y4 when the intervention was fully implemented.",
+            "Significant CxT interactions indicated intervention effectiveness to reduce sexual violence perpetration, victimization, and other forms of interpersonal violence over time.",
+            "A time delay between intervention implementation and reductions in violent behavior was anticipated, as the intervention was hypothesized to reduce violence at the school level by first changing individual-level social norms supporting violence and increasing bystander skills and actions among the subset of trained individuals.",
+            "Changes at the individual level in norms and behaviors require time to ultimately be detected as changes in violence at the school level.",
+            "From secondary analyses, the intervention was effective in reducing the student-level violence perpetration rates by 17%\u00c021% (po0.01) in Y3 and Y4.",
+            "This study is the first RCT of a bystander intervention focusing on sexual violence prevention and implemented with both sexes in a high school setting.",
+            "This intervention is unique in its use of a gender-neutral approach to engage and train bystanders.",
+            "The popular opinion leader model for recruitment and training may be a particularly efficient method to diffuse prosocial, non-violent norms through students' peer networks and change violence rates.",
+            "Cost efficiencies of providing an intervention to only 12%\u00c015% of students using this training strategy, yet finding a 17%\u00c021% reduction in sexual violence, as observed here, may be particularly attractive for policymakers and school administrators because prevention programs that effectively address multiple violence forms may be particularly efficient strategies, given schools' multiple educational objectives.",
+            "19 The present finding that Green Dot was associated with a significant reduction in high school\u00c0level reports of using alcohol-or drug-facilitated sex was consistent with a recently reported observational study of a similar intervention among college freshmen.",
+            "34 Unwanted sex was significantly lower (po0.05) on the campus receiving a bystander program compared with two campuses without a bystander program (adjusted rate ratio, 0.75), with the largest reduction for alcohol-or drug-facilitated sexual violence (adjusted rate ratio, 0.64, po0.001).",
+            "The intervention campus also had significantly lower rates of sexual harassment, stalking, and psychological dating violence.",
+            "35 The only other rigorous evaluation of a bystander prevention strategy among high school students 35 focused on violence perpetration in dating situations (including sexual violence against a partner).",
+            "The current design and dating violence findings were similar to that reported by Miller et al., 35 who observed a reduction in self-reported physical dating violence perpetration associated with this intervention over time among male athletes.",
+            "The studies differed in that other forms of interpersonal violence perpetration and victimization were measured and both young women and men were the target of this intervention.",
+            "Other evidence-based programs [36] [37] [38] [39] set in middle or high schools have relied on different strategies to reduce sexual violence, such as teaching skills for building healthy relationships, changing violence acceptance, or implementing in-school protective orders and hot spot mapping."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The identification of Green Dot as an effective intervention for reducing school-level violence advanced the evidence base for bystander programming by demonstrating bystander program impacts on more than one violence form with a stronger effect for perpetration than victimization. Bystander programs were hypothesized to reduce violence rates over time. Data from this 5-year trial also indicated that sufficient time is required to see the ultimate effect of the bystander training on violent behaviors; results from these approaches may not appear with short-term implementation. There are important attributes to Green Dot that may differentiate it from other programs and explain program effectiveness. Educators received extensive intervention training and feedback on their program delivery throughout the implementation, which may have contributed to programmatic success. A unique benefit to using rape crisis center educators is their dual training as advocates and prevention educators. This dual training has the potential to be important for implementation in school settings because most teachers lack the training to provide counseling and advocacy services to students who may self-identify as experiencing violence. Using dually trained educators, at no cost to schools, further reduced any additional burden on schools because teachers were not required to be trained and implement the bystander program curriculum.",
+        "section": "DISCUSSION",
+        "section_number": 28,
+        "sentences": [
+            "The identification of Green Dot as an effective intervention for reducing school-level violence advanced the evidence base for bystander programming by demonstrating bystander program impacts on more than one violence form with a stronger effect for perpetration than victimization.",
+            "Bystander programs were hypothesized to reduce violence rates over time.",
+            "Data from this 5-year trial also indicated that sufficient time is required to see the ultimate effect of the bystander training on violent behaviors; results from these approaches may not appear with short-term implementation.",
+            "There are important attributes to Green Dot that may differentiate it from other programs and explain program effectiveness.",
+            "Educators received extensive intervention training and feedback on their program delivery throughout the implementation, which may have contributed to programmatic success.",
+            "A unique benefit to using rape crisis center educators is their dual training as advocates and prevention educators.",
+            "This dual training has the potential to be important for implementation in school settings because most teachers lack the training to provide counseling and advocacy services to students who may self-identify as experiencing violence.",
+            "Using dually trained educators, at no cost to schools, further reduced any additional burden on schools because teachers were not required to be trained and implement the bystander program curriculum."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Although an experimental study design was used in this trial, there were limitations. Lack of blinding of intervention status may have led to a social desirability bias in violence reporting, such that students in intervention schools may have under-reported violence because they may knew their school had a violence prevention program. The validity of the findings hinged on the accuracy of students' anonymous self-reports. However, even when those identified as mischievous responders were included via sensitivity analyses, no differences in findings were observed, thus indicating no apparent information bias in findings.",
+        "section": "Limitations",
+        "section_number": 29,
+        "sentences": [
+            "Although an experimental study design was used in this trial, there were limitations.",
+            "Lack of blinding of intervention status may have led to a social desirability bias in violence reporting, such that students in intervention schools may have under-reported violence because they may knew their school had a violence prevention program.",
+            "The validity of the findings hinged on the accuracy of students' anonymous self-reports.",
+            "However, even when those identified as mischievous responders were included via sensitivity analyses, no differences in findings were observed, thus indicating no apparent information bias in findings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Several factors may explain why some program effects were not maintained in Y4. Small sample sizes (n=26) by condition may explain the lack of statistical significance over time and for analyses by sex (Table 2) . Maintaining a consistent intervention across 13 schools over 4 years was a challenge. Data were collected to characterize program implementation quality over time and will be the focus of additional research. Finding greater program effective for perpetration versus victimization may be a function of violence perpetrated by non-students who were not exposed to this school-based intervention; victimization measures did not differentiate between perpetration by students and non-students.",
+        "section": "Limitations",
+        "section_number": 30,
+        "sentences": [
+            "Several factors may explain why some program effects were not maintained in Y4.",
+            "Small sample sizes (n=26) by condition may explain the lack of statistical significance over time and for analyses by sex (Table 2) .",
+            "Maintaining a consistent intervention across 13 schools over 4 years was a challenge.",
+            "Data were collected to characterize program implementation quality over time and will be the focus of additional research.",
+            "Finding greater program effective for perpetration versus victimization may be a function of violence perpetrated by non-students who were not exposed to this school-based intervention; victimization measures did not differentiate between perpetration by students and non-students."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Results of this trial may not generalize to other settings if implemented with different educator training or fidelity. However, this ITT analysis provides an estimate of effectiveness that contrasts intervention and control conditions regardless of school-level dosage received by students.",
+        "section": "Limitations",
+        "section_number": 31,
+        "sentences": [
+            "Results of this trial may not generalize to other settings if implemented with different educator training or fidelity.",
+            "However, this ITT analysis provides an estimate of effectiveness that contrasts intervention and control conditions regardless of school-level dosage received by students."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "This study was not able to track individuals over time because anonymous surveys were used. However, the study was designed to measure change not among trained individuals but in violence at the school level, which is consistent with Green Dot model for diffusion of the intervention through trained individuals to changes in violence at the school level. Future research is encouraged to measure bystander effectiveness in changing violence at the trained individual, their social network, the school, and community levels.",
+        "section": "Limitations",
+        "section_number": 32,
+        "sentences": [
+            "This study was not able to track individuals over time because anonymous surveys were used.",
+            "However, the study was designed to measure change not among trained individuals but in violence at the school level, which is consistent with Green Dot model for diffusion of the intervention through trained individuals to changes in violence at the school level.",
+            "Future research is encouraged to measure bystander effectiveness in changing violence at the trained individual, their social network, the school, and community levels."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Implementation of a bystander intervention to reduce violence in Kentucky high schools decreased sexual violence over time with program implementation. Further studies are needed to assess bystander intervention efficacy in other settings. The medical and educational communities frequently serve as first responders to adolescents exposed to violence. These findings are among the first to identify an effective bystander intervention to prevent or reduce sexual and dating violence.",
+        "section": "CONCLUSIONS",
+        "section_number": 33,
+        "sentences": [
+            "Implementation of a bystander intervention to reduce violence in Kentucky high schools decreased sexual violence over time with program implementation.",
+            "Further studies are needed to assess bystander intervention efficacy in other settings.",
+            "The medical and educational communities frequently serve as first responders to adolescents exposed to violence.",
+            "These findings are among the first to identify an effective bystander intervention to prevent or reduce sexual and dating violence."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Research was supported by the Centers for Disease Control and Prevention Cooperative Agreement 5U01CE001675.",
+        "section": "ACKNOWLEDGMENTS",
+        "section_number": 34,
+        "sentences": [
+            "Research was supported by the Centers for Disease Control and Prevention Cooperative Agreement 5U01CE001675."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "ALC and HMB had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. CJB, HMB, and ALC conducted and are responsible for the data analyses. Investigators were responsible for design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, and approval of the manuscript. Patricia G. Cook-Craig, PhD, completed this work while at the College of Social Work, University of Kentucky, Lexington, Kentucky.",
+        "section": "ACKNOWLEDGMENTS",
+        "section_number": 35,
+        "sentences": [
+            "ALC and HMB had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.",
+            "CJB, HMB, and ALC conducted and are responsible for the data analyses.",
+            "Investigators were responsible for design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, and approval of the manuscript.",
+            "Patricia G. Cook-Craig, PhD, completed this work while at the College of Social Work, University of Kentucky, Lexington, Kentucky."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "The Centers for Disease Control and Prevention had a supervisory role in the design and conduct of the study but had no direct role in the collection, management, analysis, or interpretation of the data; the preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publications. The findings and conclusions in this article are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention.",
+        "section": "ACKNOWLEDGMENTS",
+        "section_number": 36,
+        "sentences": [
+            "The Centers for Disease Control and Prevention had a supervisory role in the design and conduct of the study but had no direct role in the collection, management, analysis, or interpretation of the data; the preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publications.",
+            "The findings and conclusions in this article are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Trial Registration: ClinicalTrials.gov Identifier: NCT01878097. https://clinicaltrials.gov/show/NCT01878097.",
+        "section": "ACKNOWLEDGMENTS",
+        "section_number": 37,
+        "sentences": [
+            "Trial Registration: ClinicalTrials.gov Identifier: NCT01878097.",
+            "https://clinicaltrials.gov/show/NCT01878097."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "No financial disclosures were reported by the authors of this paper.",
+        "section": "ACKNOWLEDGMENTS",
+        "section_number": 38,
+        "sentences": [
+            "No financial disclosures were reported by the authors of this paper."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Supplemental materials are available in the online version of this article at http://dx.doi.org/10.1016/j.amepre.2017.01. 020.",
+        "section": "SUPPLEMENTAL MATERIAL",
+        "section_number": 39,
+        "sentences": [
+            "Supplemental materials are available in the online version of this article at http://dx.doi.org/10.1016/j.amepre.2017.01.",
+            "020."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "Coker et al / Am J Prev Med 2017;52(5):566-578",
+        "section": "",
+        "section_number": 40,
+        "sentences": [
+            "Coker et al / Am J Prev Med 2017;52(5):566-578"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "www.ajpmonline.org",
+        "section": "",
+        "section_number": 41,
+        "sentences": [
+            "www.ajpmonline.org"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "43609",
+        "text": "May 2017",
+        "section": "",
+        "section_number": 42,
+        "sentences": [
+            "May 2017"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

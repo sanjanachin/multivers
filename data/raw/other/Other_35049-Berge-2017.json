@@ -1,0 +1,977 @@
+[
+    {
+        "doc_id": "35049",
+        "text": "Objective: To evaluate the effect of five sessions of cognitive behavioural therapy (CBT) for 10-to 16-year-olds with intra-oral injection phobia. Material and methods: This was a randomized delayed intervention controlled trial in 67 patients, fulfilling the DSM-5 criteria for specific phobia. All patients received the same CBT performed by dentists specially trained in CBT. The patients were randomly assigned to either an immediate treatment group (ITG) (34 patients) or a waitlist-control group (WCG) (33 patients). The WCG was put on a waitlist for 5 weeks. After treatment, all patients were combined for post-treatment analyses. Assessments including the psychometric self-report scales Intra-oral injection fear scale (IOIF-s), Children's Fear Survey Schedule-Dental Subscale (CFSS-DS), Injection Phobia Scale for children (IS-c) and Mutilation Questionnaire for children (MQ-c) and a behavioural avoidance test (BAT) followed by a questionnaire on cognitions during the BAT, occurred pre-, post-treatment/waitlist and at a 1-year follow-up. Results: CBT had a significant effect compared to no treatment (WCG). After treatment, the scores on the psychometric self-report scales were significantly reduced and higher levels in the BAT were achieved. The results were maintained at 1-year follow-up. Of the 67 patients, 70.1% received intra-oral injections during CBT treatment, whereas 69.4% of those completing the CBT, in need for further dental treatment, managed to receive the necessary intra-oral injections at their regular dentist. Conclusions: The 10-to 16-year-olds diagnosed with intra-oral injection phobia benefitted positively on CBT performed by specially trained dentists.",
+        "section": "Abstract",
+        "sentences": [
+            "Objective: To evaluate the effect of five sessions of cognitive behavioural therapy (CBT) for 10-to 16-year-olds with intra-oral injection phobia.",
+            "Material and methods: This was a randomized delayed intervention controlled trial in 67 patients, fulfilling the DSM-5 criteria for specific phobia.",
+            "All patients received the same CBT performed by dentists specially trained in CBT.",
+            "The patients were randomly assigned to either an immediate treatment group (ITG) (34 patients) or a waitlist-control group (WCG) (33 patients).",
+            "The WCG was put on a waitlist for 5 weeks.",
+            "After treatment, all patients were combined for post-treatment analyses.",
+            "Assessments including the psychometric self-report scales Intra-oral injection fear scale (IOIF-s), Children's Fear Survey Schedule-Dental Subscale (CFSS-DS), Injection Phobia Scale for children (IS-c) and Mutilation Questionnaire for children (MQ-c) and a behavioural avoidance test (BAT) followed by a questionnaire on cognitions during the BAT, occurred pre-, post-treatment/waitlist and at a 1-year follow-up.",
+            "Results: CBT had a significant effect compared to no treatment (WCG).",
+            "After treatment, the scores on the psychometric self-report scales were significantly reduced and higher levels in the BAT were achieved.",
+            "The results were maintained at 1-year follow-up.",
+            "Of the 67 patients, 70.1% received intra-oral injections during CBT treatment, whereas 69.4% of those completing the CBT, in need for further dental treatment, managed to receive the necessary intra-oral injections at their regular dentist.",
+            "Conclusions: The 10-to 16-year-olds diagnosed with intra-oral injection phobia benefitted positively on CBT performed by specially trained dentists."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Intra-oral injection phobia (I-OIP) is a subtype of the specific phobia blood-injury-injection (BII) phobia and is characterized by excessive and persistent fear of stimuli related to dental injections [1, 2] . BII phobia has a complex and multifactorial aetiology. Elements involved in the development and maintenance of the phobia include classical and vicarious conditioning, modelling and negative information. Furthermore, vulnerability factors thought to be involved include genetic influences, aberrant brain processes, temperament, evolutionary preparedness, cognitive biases, disgust and vaso-vagal responses [2] [3] [4] . The vaso-vagal response associated with BII phobia may consequently lead to fainting or near fainting [1, 5] . Intra-oral injections are one of the most fear-provoking stimuli in dental settings [6] , and avoidance of these feared stimuli is frequent. Hence, individuals suffering from this fear might undergo painful dental experiences or choose to avoid necessary dental treatment [7, 8] with reduced dental health as a consequence [9] . A recent questionnaire study among Norwegian 10-to 16-year-olds revealed that 13.9% suffered from high intra-oral injection fear and that 10.6% would avoid necessary dental treatment if an intra-oral injection was required [10] . Missed dental appointments and referrals of patients for dental treatment under general anaesthesia are other possible consequences of high intra-oral injection fear [11, 12] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Intra-oral injection phobia (I-OIP) is a subtype of the specific phobia blood-injury-injection (BII) phobia and is characterized by excessive and persistent fear of stimuli related to dental injections [1, 2] .",
+            "BII phobia has a complex and multifactorial aetiology.",
+            "Elements involved in the development and maintenance of the phobia include classical and vicarious conditioning, modelling and negative information.",
+            "Furthermore, vulnerability factors thought to be involved include genetic influences, aberrant brain processes, temperament, evolutionary preparedness, cognitive biases, disgust and vaso-vagal responses [2] [3] [4] .",
+            "The vaso-vagal response associated with BII phobia may consequently lead to fainting or near fainting [1, 5] .",
+            "Intra-oral injections are one of the most fear-provoking stimuli in dental settings [6] , and avoidance of these feared stimuli is frequent.",
+            "Hence, individuals suffering from this fear might undergo painful dental experiences or choose to avoid necessary dental treatment [7, 8] with reduced dental health as a consequence [9] .",
+            "A recent questionnaire study among Norwegian 10-to 16-year-olds revealed that 13.9% suffered from high intra-oral injection fear and that 10.6% would avoid necessary dental treatment if an intra-oral injection was required [10] .",
+            "Missed dental appointments and referrals of patients for dental treatment under general anaesthesia are other possible consequences of high intra-oral injection fear [11, 12] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The onset of BII phobia is reported to occur prior to 10 years of age [13, 14] , yielding a salient need for early intervention to enable the child to receive intra-oral injections. Cognitive behavioural therapy (CBT) is an evidence-based and recommended treatment method for treating specific phobia in children and adolescents [4, [15] [16] [17] . However, in a study by \u20ac Ost et al. [18] , children and adolescents with BII phobia exhibited significantly reduced benefits to CBT treatment compared with those with other specific phobia subtypes, such as animal-, natural environment-or situational phobias. In other comparable treatment studies of specific phobias, children and adolescents with BII phobia have been underrepresented or excluded [19, 20] . The exclusion of BII phobia from such treatment studies among young participants has partly been explained by poorer reported treatment responses. To date, there are no randomized controlled studies exploring the effect of CBT among children or adolescents diagnosed with intra-oral injection phobia. However, both 1 and 5 sessions of CBT have been shown to be effective and successful in treating adult patients diagnosed with intra-oral injection phobia [21] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The onset of BII phobia is reported to occur prior to 10 years of age [13, 14] , yielding a salient need for early intervention to enable the child to receive intra-oral injections.",
+            "Cognitive behavioural therapy (CBT) is an evidence-based and recommended treatment method for treating specific phobia in children and adolescents [4, [15] [16] [17] .",
+            "However, in a study by \u20ac Ost et al. [18] , children and adolescents with BII phobia exhibited significantly reduced benefits to CBT treatment compared with those with other specific phobia subtypes, such as animal-, natural environment-or situational phobias.",
+            "In other comparable treatment studies of specific phobias, children and adolescents with BII phobia have been underrepresented or excluded [19, 20] .",
+            "The exclusion of BII phobia from such treatment studies among young participants has partly been explained by poorer reported treatment responses.",
+            "To date, there are no randomized controlled studies exploring the effect of CBT among children or adolescents diagnosed with intra-oral injection phobia.",
+            "However, both 1 and 5 sessions of CBT have been shown to be effective and successful in treating adult patients diagnosed with intra-oral injection phobia [21] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The main aim of this study was to assess the effect of 5 sessions of CBT, performed by specially trained dentists on intra-oral injection phobia in 10-to 16-year-olds. The primary aim was to compare self-reported BII-and dental fears between post-treatment scores for the immediate treated patients and post-waitlist scores for the waitlist-control group. The secondary aims were to assess changes in selfreported BII-and dental fears, and changes in the patients' approach to dental injections measured by BAT, and furthermore to explore the number of patients receiving intra-oral injection during CBT sessions and during the treatment by regular dentists during the 1-year follow-up period.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "The main aim of this study was to assess the effect of 5 sessions of CBT, performed by specially trained dentists on intra-oral injection phobia in 10-to 16-year-olds.",
+            "The primary aim was to compare self-reported BII-and dental fears between post-treatment scores for the immediate treated patients and post-waitlist scores for the waitlist-control group.",
+            "The secondary aims were to assess changes in selfreported BII-and dental fears, and changes in the patients' approach to dental injections measured by BAT, and furthermore to explore the number of patients receiving intra-oral injection during CBT sessions and during the treatment by regular dentists during the 1-year follow-up period."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The study was a randomized delayed intervention controlled trial conducted between 2013 and 2016 at the Centre for Odontophobia, Oral Health Centre of Expertise in Western Norway-Hordaland. The patients were randomly assigned to either an immediate treatment group (ITG/Group I) receiving CBT 1 week after the diagnostic interview or a waitlist-control group (WCG/Group II). After 5 weeks on the waitlist, the patients in the WCG (Group II) were assigned for the same CBT as the patients in the ITG (Group I), and the two groups were pooled for further analyses.",
+        "section": "Study design",
+        "section_number": 4,
+        "sentences": [
+            "The study was a randomized delayed intervention controlled trial conducted between 2013 and 2016 at the Centre for Odontophobia, Oral Health Centre of Expertise in Western Norway-Hordaland.",
+            "The patients were randomly assigned to either an immediate treatment group (ITG/Group I) receiving CBT 1 week after the diagnostic interview or a waitlist-control group (WCG/Group II).",
+            "After 5 weeks on the waitlist, the patients in the WCG (Group II) were assigned for the same CBT as the patients in the ITG (Group I), and the two groups were pooled for further analyses."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Before the patients were included in the study, information about allocation to either ITG (Group I) or the WCG (Group II) was randomly distributed. In total, 68 opaque and sealed envelopes were put in order according to the randomization (generated at www.random.org). After the initial assessments and at the end of the diagnostic interview, the patients opened the envelopes, which randomly allocated them into either the ITG (Group I) or the WCG (Group II).",
+        "section": "Study design",
+        "section_number": 5,
+        "sentences": [
+            "Before the patients were included in the study, information about allocation to either ITG (Group I) or the WCG (Group II) was randomly distributed.",
+            "In total, 68 opaque and sealed envelopes were put in order according to the randomization (generated at www.random.org).",
+            "After the initial assessments and at the end of the diagnostic interview, the patients opened the envelopes, which randomly allocated them into either the ITG (Group I) or the WCG (Group II)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Due to a lack of empirical data, the following power analysis calculation was performed. An active treatment group was compared with a waitlist group, and the effect size (Cohen's d) was set to 0.80. With a significance level of 0.05, a group size of 26 patients was necessary to have a power of 80% [22] . Estimating an attrition of approximately 10% based on previous findings in CBT studies on specific phobias in children, at least 60 patients were needed. Due to this, a final sample size was set to 68, yielding 34 patients in the ITG (Group I) and 34 patients in the WCG (Group II) ( Figure 1 ).",
+        "section": "Study sample",
+        "section_number": 6,
+        "sentences": [
+            "Due to a lack of empirical data, the following power analysis calculation was performed.",
+            "An active treatment group was compared with a waitlist group, and the effect size (Cohen's d) was set to 0.80.",
+            "With a significance level of 0.05, a group size of 26 patients was necessary to have a power of 80% [22] .",
+            "Estimating an attrition of approximately 10% based on previous findings in CBT studies on specific phobias in children, at least 60 patients were needed.",
+            "Due to this, a final sample size was set to 68, yielding 34 patients in the ITG (Group I) and 34 patients in the WCG (Group II) ( Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "All patients were enroled within the time limit for study enrolment (August 2013-June 2015) consecutively from the patient population at the Centre for Odontophobia clinic. The patients were originally referrals from the Public Dental Service (PDS) in the county of Hordaland, Norway. The inclusion criteria were (a) 10-to 16-years-old; (b) a primary diagnosis of I-OIP according to the DSM-5 criteria [1] ; (c) acceptance of comorbidities with other phobias as either secondary diagnoses or co-primary diagnoses with I-OIP; (d) willingness to try exposure treatment; and (e) willingness to participate in the study for a period of 1 year. The exclusion criteria were being affected by disorders, such as primary depression, drug or alcohol abuse, intellectual disabilities or psychotic symptoms.",
+        "section": "Study sample",
+        "section_number": 7,
+        "sentences": [
+            "All patients were enroled within the time limit for study enrolment (August 2013-June 2015) consecutively from the patient population at the Centre for Odontophobia clinic.",
+            "The patients were originally referrals from the Public Dental Service (PDS) in the county of Hordaland, Norway.",
+            "The inclusion criteria were (a) 10-to 16-years-old; (b) a primary diagnosis of I-OIP according to the DSM-5 criteria [1] ; (c) acceptance of comorbidities with other phobias as either secondary diagnoses or co-primary diagnoses with I-OIP; (d) willingness to try exposure treatment; and (e) willingness to participate in the study for a period of 1 year.",
+            "The exclusion criteria were being affected by disorders, such as primary depression, drug or alcohol abuse, intellectual disabilities or psychotic symptoms."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Four psychometric self-report instruments were applied: (1) Intra Oral Injection Fear Scale (IOIF-s), a 12-item validated selfreport instrument assessing fear of intra-oral injections [23] . Each response was scored from 1 to 5 (1 \u00bc not afraid at all, 5 \u00bc very afraid) with a sum score range from 12 to 60. Scores greater than 38 indicated high fear of intra-oral injections [23] .",
+        "section": "Assessments",
+        "section_number": 8,
+        "sentences": [
+            "Four psychometric self-report instruments were applied: (1) Intra Oral Injection Fear Scale (IOIF-s), a 12-item validated selfreport instrument assessing fear of intra-oral injections [23] .",
+            "Each response was scored from 1 to 5 (1 \u00bc not afraid at all, 5 \u00bc very afraid) with a sum score range from 12 to 60.",
+            "Scores greater than 38 indicated high fear of intra-oral injections [23] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "(2) Children's Fear Survey Schedule-Dental Subscale (CFSS-DS), which consisted of 15 items measuring dental fear in children [24, 25] . The five response options were graded from 1 (not afraid at all) to 5 (very afraid), with a sum score ranged from 15 to 75. Scores greater than 38 indicated high dental fear [26] .",
+        "section": "Assessments",
+        "section_number": 9,
+        "sentences": [
+            "(2) Children's Fear Survey Schedule-Dental Subscale (CFSS-DS), which consisted of 15 items measuring dental fear in children [24, 25] .",
+            "The five response options were graded from 1 (not afraid at all) to 5 (very afraid), with a sum score ranged from 15 to 75.",
+            "Scores greater than 38 indicated high dental fear [26] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "(3) Injection Phobia Scale for children (IS-c), an 18-item questionnaire assessing fear of injections. Each response option ranged from 0 to 4 (0 \u00bc not afraid at all, 4 \u00bc very afraid) [27] . The sum score varied from 0 to 72. There is no validated cutoff score for high injection fear; however, a population-based mean of 14.1 (SD 14.8) has been reported [10] . (4) Mutilation Questionnaire for children (MQ-c), a 15-item instrument assessing blood and injury fear [27] . The five response alternatives in each item ranged from 0 to 4 (0 \u00bc not afraid at all, 4 \u00bc very afraid). The sum score varied from 0 to 60. There is no validated cut-off score for high fear, but a population-based mean of 13.8 (SD 11.1) has been reported [10] .",
+        "section": "Assessments",
+        "section_number": 10,
+        "sentences": [
+            "(3) Injection Phobia Scale for children (IS-c), an 18-item questionnaire assessing fear of injections.",
+            "Each response option ranged from 0 to 4 (0 \u00bc not afraid at all, 4 \u00bc very afraid) [27] .",
+            "The sum score varied from 0 to 72.",
+            "There is no validated cutoff score for high injection fear; however, a population-based mean of 14.1 (SD 14.8) has been reported [10] . (",
+            "4) Mutilation Questionnaire for children (MQ-c), a 15-item instrument assessing blood and injury fear [27] .",
+            "The five response alternatives in each item ranged from 0 to 4 (0 \u00bc not afraid at all, 4 \u00bc very afraid).",
+            "The sum score varied from 0 to 60.",
+            "There is no validated cut-off score for high fear, but a population-based mean of 13.8 (SD 11.1) has been reported [10] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "All participants were screened and diagnosed based on a semi-structured diagnostic interview (1-1.5 h), using a modified version of the Anxiety Disorders Interview Schedule-IV (ADIS-IV), according to the DSM-V criteria [1] . Two clinical psychologists (PhD) with proficiency in using the modified version of ADIS-IV were performing the diagnostic interviews. The psychologists were calibrated prior to the study. A behavioural analysis and psychoeducation were conducted as part of the diagnostic interview. The factors that maintain the phobic behaviour are revealed in addition to the patients catastrophic beliefs. Additionally, at post-waitlist for Group II (WCG), at posttreatment for all participants and at 1 year of follow-up, shorter interviews were performed by the psychologist. At all assessments, the patient underwent a behavioural avoidance test (BAT) [19] , which consisted of 13 hierarchical steps with progressively more difficult exposures to an intra-oral injection ( Table 1 ). The BATs were performed by a group of external dentists who were blinded to the assigned group and assessment point. The dentists had in advance been given an education lecture on how to perform the test, and a written manual describing each step. They were also informed about the rationale and importance of such standardization. Prior to the onset of the test, patients were informed that each step would be verbally explained by the dentist and that they could ask any question during the test. They were additionally ensured that whenever they wanted, the test could be discontinued, either verbally or by showing a 'No' card. Immediately after the test, the patients reported 'Cognitions during the BAT' assessing the frequency of 5 negative and 5 positive thoughts on a 5-point Likert scale (0 \u00bc Never, 4 \u00bc Very often). The negative thoughts included 'I can't do this', 'I'm going to fail', 'I'll faint', 'I need to get out of this situation' and 'I can't stand this'. The positive thoughts were 'I have control over the situation', 'It's going wellbetter than I thought it would', 'It's not as unpleasant as I thought', 'I feel calm and safe' and 'I'm satisfied with myself' [28] . The patients were considered unsuccessful in having an intra-oral injection if the test was disrupted before step 10 ('putting a few drops of anaesthesia').",
+        "section": "Assessments",
+        "section_number": 11,
+        "sentences": [
+            "All participants were screened and diagnosed based on a semi-structured diagnostic interview (1-1.5 h), using a modified version of the Anxiety Disorders Interview Schedule-IV (ADIS-IV), according to the DSM-V criteria [1] .",
+            "Two clinical psychologists (PhD) with proficiency in using the modified version of ADIS-IV were performing the diagnostic interviews.",
+            "The psychologists were calibrated prior to the study.",
+            "A behavioural analysis and psychoeducation were conducted as part of the diagnostic interview.",
+            "The factors that maintain the phobic behaviour are revealed in addition to the patients catastrophic beliefs.",
+            "Additionally, at post-waitlist for Group II (WCG), at posttreatment for all participants and at 1 year of follow-up, shorter interviews were performed by the psychologist.",
+            "At all assessments, the patient underwent a behavioural avoidance test (BAT) [19] , which consisted of 13 hierarchical steps with progressively more difficult exposures to an intra-oral injection ( Table 1 ).",
+            "The BATs were performed by a group of external dentists who were blinded to the assigned group and assessment point.",
+            "The dentists had in advance been given an education lecture on how to perform the test, and a written manual describing each step.",
+            "They were also informed about the rationale and importance of such standardization.",
+            "Prior to the onset of the test, patients were informed that each step would be verbally explained by the dentist and that they could ask any question during the test.",
+            "They were additionally ensured that whenever they wanted, the test could be discontinued, either verbally or by showing a 'No' card.",
+            "Immediately after the test, the patients reported 'Cognitions during the BAT' assessing the frequency of 5 negative and 5 positive thoughts on a 5-point Likert scale (0 \u00bc Never, 4 \u00bc Very often).",
+            "The negative thoughts included 'I can't do this', 'I'm going to fail', 'I'll faint', 'I need to get out of this situation' and 'I can't stand this'.",
+            "The positive thoughts were 'I have control over the situation', 'It's going wellbetter than I thought it would', 'It's not as unpleasant as I thought', 'I feel calm and safe' and 'I'm satisfied with myself' [28] .",
+            "The patients were considered unsuccessful in having an intra-oral injection if the test was disrupted before step 10 ('putting a few drops of anaesthesia')."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The patients completed the psychometric self-report instruments in the waiting room, prior to a semi-structured diagnostic interview, conducted by a clinical psychologist. Following the interview, the treatment method and its Table 1 . Steps in the behavioural avoidance test (BAT). Behavioural avoidance test (BAT) 1. Enter the dental room 2. Sit down in the dental chair 3. Lower the back of the chair 4. Lower the lamp towards the patient's face 5. Dentist performs clinical examination of the mouth using the mirror 6. Dentist asks permission to show the patient the different steps to get an intra-oral injection 7. First, application of topical anaesthesia (premolar region) 8. Touching the mucous membrane with the cannula enclosed in the cap 9. Touching the mucosa with the cannula without penetrating 10. Putting a few drops of anaesthesia 11. Putting more anaesthesia (1/2 carpule) 12. Asking the patient if it is OK to put some more anaesthesia another place in the mouth (This is only a hypothetical question and will not be done) 13. Asking the patient if there is any place in the mouth that they could not receive an injection rationale were described, and the patients underwent the BAT after which they promptly completed cognitions during the BAT. Eventually they were randomized and allocated into either the ITG (Group I) or the WCG (Group II) ( Figure 1 ). For the ITG (Group I), the treatment started the following week, endeavouring one session a week for 5 weeks. After 5 weeks on a waitlist, the WCG (Group II) had a new appointment with the psychologist. They were re-examined with respect to possible effect of the structural interview and the subsequent period without treatment (all psychometric self-report instruments were completed, and the BAT was undertaken followed by the cognitions during the BAT). After the reassessment, the patients in the WCG were treated and they were combined with the ITG for the post-treatment and 1-year follow-up assessments. All patients (both groups) were subjected to a short interview, completed the same psychometric self-report instruments and to underwent the BAT, including the subsequent completion of cognitions during the BAT, at post-treatment, and at 1-year follow-up. After the post-treatment assessments, the patients were promptly scheduled for an appointment with their regular dentist at their local PDS clinic. An epicrisis describing the conducted CBT treatment and recommendations for future dental treatment was attached to the patients' digital PDS journal. Information about the success of receiving intra-oral injections, both during CBT treatment at the Centre for Odontophobia and during the 1-year follow-up period at the regular dentist, was obtained from the PDS journal.",
+        "section": "Procedure",
+        "section_number": 12,
+        "sentences": [
+            "The patients completed the psychometric self-report instruments in the waiting room, prior to a semi-structured diagnostic interview, conducted by a clinical psychologist.",
+            "Following the interview, the treatment method and its Table 1 .",
+            "Steps in the behavioural avoidance test (BAT).",
+            "Behavioural avoidance test (BAT) 1.",
+            "Enter the dental room 2.",
+            "Sit down in the dental chair 3.",
+            "Lower the back of the chair 4.",
+            "Lower the lamp towards the patient's face 5.",
+            "Dentist performs clinical examination of the mouth using the mirror 6.",
+            "Dentist asks permission to show the patient the different steps to get an intra-oral injection 7.",
+            "First, application of topical anaesthesia (premolar region) 8.",
+            "Touching the mucous membrane with the cannula enclosed in the cap 9.",
+            "Touching the mucosa with the cannula without penetrating 10.",
+            "Putting a few drops of anaesthesia 11.",
+            "Putting more anaesthesia (1/2 carpule) 12.",
+            "Asking the patient if it is OK to put some more anaesthesia another place in the mouth (This is only a hypothetical question and will not be done) 13.",
+            "Asking the patient if there is any place in the mouth that they could not receive an injection rationale were described, and the patients underwent the BAT after which they promptly completed cognitions during the BAT.",
+            "Eventually they were randomized and allocated into either the ITG (Group I) or the WCG (Group II) ( Figure 1 ).",
+            "For the ITG (Group I), the treatment started the following week, endeavouring one session a week for 5 weeks.",
+            "After 5 weeks on a waitlist, the WCG (Group II) had a new appointment with the psychologist.",
+            "They were re-examined with respect to possible effect of the structural interview and the subsequent period without treatment (all psychometric self-report instruments were completed, and the BAT was undertaken followed by the cognitions during the BAT).",
+            "After the reassessment, the patients in the WCG were treated and they were combined with the ITG for the post-treatment and 1-year follow-up assessments.",
+            "All patients (both groups) were subjected to a short interview, completed the same psychometric self-report instruments and to underwent the BAT, including the subsequent completion of cognitions during the BAT, at post-treatment, and at 1-year follow-up.",
+            "After the post-treatment assessments, the patients were promptly scheduled for an appointment with their regular dentist at their local PDS clinic.",
+            "An epicrisis describing the conducted CBT treatment and recommendations for future dental treatment was attached to the patients' digital PDS journal.",
+            "Information about the success of receiving intra-oral injections, both during CBT treatment at the Centre for Odontophobia and during the 1-year follow-up period at the regular dentist, was obtained from the PDS journal."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Four dentists were performing the treatment, all specially trained and accredited in CBT for I-OIP according to the manual for one-session treatment [17, 19, 21] and modified for 5 sessions. Three of the dentists had been evaluated and approved by Professor \u20ac Ost, based on videotaped treatment sessions. The fourth dentist had equivalently been evaluated and approved according to the same criteria by one of the clinical psychologists, securing standardized CBT training.",
+        "section": "Procedure",
+        "section_number": 13,
+        "sentences": [
+            "Four dentists were performing the treatment, all specially trained and accredited in CBT for I-OIP according to the manual for one-session treatment [17, 19, 21] and modified for 5 sessions.",
+            "Three of the dentists had been evaluated and approved by Professor \u20ac Ost, based on videotaped treatment sessions.",
+            "The fourth dentist had equivalently been evaluated and approved according to the same criteria by one of the clinical psychologists, securing standardized CBT training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "All patients were treated with CBT modified for 5 sessions in children [19, 21] , each with a maximum duration of 1 h, according to the manual by Professor \u20ac",
+        "section": "Intervention (CBT)",
+        "section_number": 14,
+        "sentences": [
+            "All patients were treated with CBT modified for 5 sessions in children [19, 21] , each with a maximum duration of 1 h, according to the manual by Professor \u20ac"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Ost [17] . The most essential components of the CBT were to establish a good relationship, trust and collaboration between patient and therapist, and furthermore gradual and controlled exposure in vivo to a hierarchy of anxiety-provoking steps connected to dental injections ( Table 2 ). The guiding principle for the exposure was the cognitive analysis of the patients' catastrophic cognitions concerning the anxiety-provoking stimulus. The patients were encouraged to approach the phobic object or situation, and remain in contact with it until the anxiety level was reduced. Furthermore behavioural experiments in order to test the catastrophic cognitions and counter-productive convictions were conducted. The patients' catastrophic cognitions and anxiety symptoms were elicited during the exposure, and the dentist helped the patients with cognitive restructuring of the thoughts and feelings. Fear of the anxiety symptoms was addressed. Furthermore, the therapist helped the patients to explore what happened when exposed to the anxiety-provoking situations, and helped them gain more adaptive perspectives and behaviour. Subgoals for each treatment session were pursued.",
+        "section": "Intervention (CBT)",
+        "section_number": 15,
+        "sentences": [
+            "Ost [17] .",
+            "The most essential components of the CBT were to establish a good relationship, trust and collaboration between patient and therapist, and furthermore gradual and controlled exposure in vivo to a hierarchy of anxiety-provoking steps connected to dental injections ( Table 2 ).",
+            "The guiding principle for the exposure was the cognitive analysis of the patients' catastrophic cognitions concerning the anxiety-provoking stimulus.",
+            "The patients were encouraged to approach the phobic object or situation, and remain in contact with it until the anxiety level was reduced.",
+            "Furthermore behavioural experiments in order to test the catastrophic cognitions and counter-productive convictions were conducted.",
+            "The patients' catastrophic cognitions and anxiety symptoms were elicited during the exposure, and the dentist helped the patients with cognitive restructuring of the thoughts and feelings.",
+            "Fear of the anxiety symptoms was addressed.",
+            "Furthermore, the therapist helped the patients to explore what happened when exposed to the anxiety-provoking situations, and helped them gain more adaptive perspectives and behaviour.",
+            "Subgoals for each treatment session were pursued."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The applied tension technique teaches the patient to recognize the first signs of a drop in blood pressure, followed by application of a rapid tension technique to reverse the drop blood pressure drop [29, 30] .",
+        "section": "Intervention (CBT)",
+        "section_number": 16,
+        "sentences": [
+            "The applied tension technique teaches the patient to recognize the first signs of a drop in blood pressure, followed by application of a rapid tension technique to reverse the drop blood pressure drop [29, 30] ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The CBT was adjusted to the maturation and developmental level of each individual patient. Furthermore, the modifications of the CBT for I-OIP included addressing its unique or typical characteristics: the pain sensation, the feeling of disgust and the vaso-vagal response/fainting. More graduated exposure steps could be necessary due to the element of pain. For patients experiencing the feeling of disgust, disgust eliciting exposure tasks were exerted, and in cases with tendency of fainting, applied tension was used [29] .",
+        "section": "Intervention (CBT)",
+        "section_number": 17,
+        "sentences": [
+            "The CBT was adjusted to the maturation and developmental level of each individual patient.",
+            "Furthermore, the modifications of the CBT for I-OIP included addressing its unique or typical characteristics: the pain sensation, the feeling of disgust and the vaso-vagal response/fainting.",
+            "More graduated exposure steps could be necessary due to the element of pain.",
+            "For patients experiencing the feeling of disgust, disgust eliciting exposure tasks were exerted, and in cases with tendency of fainting, applied tension was used [29] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Due to ethical reasons, dental treatment (e.g. drilling, extractions) following intra-oral injections received as part of the CBT was conducted for the patients that were capable within the 5 sessions.",
+        "section": "Intervention (CBT)",
+        "section_number": 18,
+        "sentences": [
+            "Due to ethical reasons, dental treatment (e.g. drilling, extractions) following intra-oral injections received as part of the CBT was conducted for the patients that were capable within the 5 sessions."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The study design and data collection procedure were approved by the Regional Committees for Medical and Health Research Ethics in Norway (2010/63-3). Informed consent from patients and their guardians were collected. The study was registered at clinicaltrials.gov (NCT02083432).",
+        "section": "Ethical approval",
+        "section_number": 19,
+        "sentences": [
+            "The study design and data collection procedure were approved by the Regional Committees for Medical and Health Research Ethics in Norway (2010/63-3).",
+            "Informed consent from patients and their guardians were collected.",
+            "The study was registered at clinicaltrials.gov (NCT02083432)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The data were analyzed using SPSS version 23.0 (IBM, Armonk, NY). In order to test whether ITG (Group I) was better than WCG (Group II), a mixed between-within subjects ANOVA for repeated measures was performed. Group ((ITG/ Group I) and (WCG/Group II)) and time (pre-and post-treatment/waitlist) were factors. Effect size (eta-squared) was calculated for differences in mean sum scores between groups, and the results were based on the following guidelines: 0.01 \u00bc small effect, 0.06 \u00bc medium effect and 0.14 \u00bc large effect [31] . To examine the impact of drop-outs, additional sensitivity analyses were performed following the intention to treat (ITT) principles, using last observation carried forward to post-treatment/post-waitlist.",
+        "section": "Statistical analysis",
+        "section_number": 20,
+        "sentences": [
+            "The data were analyzed using SPSS version 23.0 (IBM, Armonk, NY).",
+            "In order to test whether ITG (Group I) was better than WCG (Group II), a mixed between-within subjects ANOVA for repeated measures was performed.",
+            "Group ((ITG/ Group I) and (WCG/Group II)) and time (pre-and post-treatment/waitlist) were factors.",
+            "Effect size (eta-squared) was calculated for differences in mean sum scores between groups, and the results were based on the following guidelines: 0.01 \u00bc small effect, 0.06 \u00bc medium effect and 0.14 \u00bc large effect [31] .",
+            "To examine the impact of drop-outs, additional sensitivity analyses were performed following the intention to treat (ITT) principles, using last observation carried forward to post-treatment/post-waitlist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "To combine WCG (Group II) with ITG (Group I), two further analyses were made: (1) independent sample t-tests between pre-treatment scores in the ITG (Group I) and WCG (Group II) Table 2 . Ideal exposure hierarchy for each cognitive behaviour therapy session.",
+        "section": "Statistical analysis",
+        "section_number": 21,
+        "sentences": [
+            "To combine WCG (Group II) with ITG (Group I), two further analyses were made: (1) independent sample t-tests between pre-treatment scores in the ITG (Group I) and WCG (Group II) Table 2 .",
+            "Ideal exposure hierarchy for each cognitive behaviour therapy session."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Establishing a good therapeutic relationship. Exposure to the syringe, towards having the needle in the mouth Session 2",
+        "section": "Session 1",
+        "section_number": 22,
+        "sentences": [
+            "Establishing a good therapeutic relationship.",
+            "Exposure to the syringe, towards having the needle in the mouth Session 2"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Repeatedly penetration of the mucosa, at different places in the mouth. Topical anaesthesia may be used Sessions 3 and 4",
+        "section": "Session 1",
+        "section_number": 23,
+        "sentences": [
+            "Repeatedly penetration of the mucosa, at different places in the mouth.",
+            "Topical anaesthesia may be used Sessions 3 and 4"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Injection of anaesthetic liquid different places in the mouth. First a few drops, then the amount is increased Session 5",
+        "section": "Session 1",
+        "section_number": 24,
+        "sentences": [
+            "Injection of anaesthetic liquid different places in the mouth.",
+            "First a few drops, then the amount is increased Session 5"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Further exposure is attempted, and the patients' catastrophic thoughts are reevaluated in connection to exposure and (2) paired sample t-tests on change scores in the WCG (Group II) (degree of change pre-to post-waitlist). If no significant differences were observed, the immediate and the delayed treatment groups were combined for further analyses. Paired sample t-tests were used to analyze time changes (pre-and post-treatment, and at 1-year follow-up). Leven's test for equality of variances was conducted for the ANOVAs and the t-tests. Sum scores on the self-report scales were calculated using the mean of the items multiplied by the number of items.",
+        "section": "Session 1",
+        "section_number": 25,
+        "sentences": [
+            "Further exposure is attempted, and the patients' catastrophic thoughts are reevaluated in connection to exposure and (2) paired sample t-tests on change scores in the WCG (Group II) (degree of change pre-to post-waitlist).",
+            "If no significant differences were observed, the immediate and the delayed treatment groups were combined for further analyses.",
+            "Paired sample t-tests were used to analyze time changes (pre-and post-treatment, and at 1-year follow-up).",
+            "Leven's test for equality of variances was conducted for the ANOVAs and the t-tests.",
+            "Sum scores on the self-report scales were calculated using the mean of the items multiplied by the number of items."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The mean values were calculated if 20% or less of the items had missing information for each individual. The sum score for individuals with missing information on 20% or less was hence imputed, and the missing values were replaced using the mean of the other values. The exception was the 'Cognitions during BAT', where no missing items was required for computing the sum-score.",
+        "section": "Session 1",
+        "section_number": 26,
+        "sentences": [
+            "The mean values were calculated if 20% or less of the items had missing information for each individual.",
+            "The sum score for individuals with missing information on 20% or less was hence imputed, and the missing values were replaced using the mean of the other values.",
+            "The exception was the 'Cognitions during BAT', where no missing items was required for computing the sum-score."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In total, 79 patients within the age range 10-16 years were referred from the PDS due to intra-oral injection fear within the time limit for inclusion, of which 12 were excluded from the study (Figure 1) . A total of 67 patients, 39 girls and 28 boys, were enroled in the study. The mean age was 12.2 years (SD \u00bc 2.0; range 10-16 years). Altogether, 58 patients completed the treatment and the accompanying post assessments (response rate 86.6%), and 54 patients completed the 1-year follow-up assessments (response rate 80.6%). In total, 13 patients were considered drop-outs from the study. Nine patients in the drop-out group failed to complete the treatment, and 4 patients did not show up at the 1-year follow-up assessment. Of the patients that did not complete the treatment, 1 patient was scheduled for further dental treatment under general anaesthesia (conjoint judgement between dentist and patient), and 1 patient was in need of further psychologist treatment. The remaining 11 patients dropped out for unknown reasons. However, two patients in the drop-out group were diagnosed with Attention Deficit Hyperactivity Disorder (ADHD), and one patient was diagnosed with autism spectrum disorder (Asperger syndrome). Additionally, two patients were enroled in psychiatric out-patient clinics due to unknown reasons. Among the remaining sample completing the treatment and follow-up assessments, four were diagnosed with ADHD and two other patients were under consideration by psychologists due to attention, concentration and behavioural problems. Additionally, one patient was diagnosed with autism spectrum disorder (Asperger syndrome) after fulfilling treatment and during the 1-year follow-up.",
+        "section": "Results",
+        "section_number": 27,
+        "sentences": [
+            "In total, 79 patients within the age range 10-16 years were referred from the PDS due to intra-oral injection fear within the time limit for inclusion, of which 12 were excluded from the study (Figure 1) .",
+            "A total of 67 patients, 39 girls and 28 boys, were enroled in the study.",
+            "The mean age was 12.2 years (SD \u00bc 2.0; range 10-16 years).",
+            "Altogether, 58 patients completed the treatment and the accompanying post assessments (response rate 86.6%), and 54 patients completed the 1-year follow-up assessments (response rate 80.6%).",
+            "In total, 13 patients were considered drop-outs from the study.",
+            "Nine patients in the drop-out group failed to complete the treatment, and 4 patients did not show up at the 1-year follow-up assessment.",
+            "Of the patients that did not complete the treatment, 1 patient was scheduled for further dental treatment under general anaesthesia (conjoint judgement between dentist and patient), and 1 patient was in need of further psychologist treatment.",
+            "The remaining 11 patients dropped out for unknown reasons.",
+            "However, two patients in the drop-out group were diagnosed with Attention Deficit Hyperactivity Disorder (ADHD), and one patient was diagnosed with autism spectrum disorder (Asperger syndrome).",
+            "Additionally, two patients were enroled in psychiatric out-patient clinics due to unknown reasons.",
+            "Among the remaining sample completing the treatment and follow-up assessments, four were diagnosed with ADHD and two other patients were under consideration by psychologists due to attention, concentration and behavioural problems.",
+            "Additionally, one patient was diagnosed with autism spectrum disorder (Asperger syndrome) after fulfilling treatment and during the 1-year follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The internal consistency reliability of the psychometric self-report scales pre-treatment yielded Cronbach's alpha values of respectively 0.85 (IOIF-s), 0.85 (CFSS-DS), 0.91 (IS-c) and 0.88 (MQ-c).",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "The internal consistency reliability of the psychometric self-report scales pre-treatment yielded Cronbach's alpha values of respectively 0.85 (IOIF-s), 0.85 (CFSS-DS), 0.91 (IS-c) and 0.88 (MQ-c)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In terms of ITG (Group I) versus WCG (Group II) comparisons, no significant differences were found in any of the outcome parameters (IOIF-s, CFSS-DS, IS-c, MQ-c, BAT, cognitions during the BAT). No significant differences were noted between ITG (Group I) and WCG (Group II) regarding age or sex.",
+        "section": "Pre-treatment differences",
+        "section_number": 29,
+        "sentences": [
+            "In terms of ITG (Group I) versus WCG (Group II) comparisons, no significant differences were found in any of the outcome parameters (IOIF-s, CFSS-DS, IS-c, MQ-c, BAT, cognitions during the BAT).",
+            "No significant differences were noted between ITG (Group I) and WCG (Group II) regarding age or sex."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Significant interaction was revealed between group and time on IOIF-s, CFSS-DS and IS-c ( Table 3) ",
+        "section": "BII-and dental fears",
+        "section_number": 30,
+        "sentences": [
+            "Significant interaction was revealed between group and time on IOIF-s, CFSS-DS and IS-c ( Table 3)"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The BAT revealed significant interaction between group and time (Table 3) . Further, ITT analysis yielded the same interaction effect significance level. ITG (Group I) improved significantly from pre-to post-treatment (t(28) \u00bc \u00c07.88, p < 0.001), G \u00bc group (overall differences between the groups); T \u00bc time (effect of time from pre-to post-treatment/waitlist); I \u00bc interaction effect (differences in change between groups from pre-treatment to post-treatment/waitlist). \u00c3 p 0.01. \u00c3\u00c3 p < 0.0001.",
+        "section": "Behavioural avoidance test",
+        "section_number": 31,
+        "sentences": [
+            "The BAT revealed significant interaction between group and time (Table 3) .",
+            "Further, ITT analysis yielded the same interaction effect significance level.",
+            "ITG (Group I) improved significantly from pre-to post-treatment (t(28) \u00bc \u00c07.88, p < 0.001), G \u00bc group (overall differences between the groups); T \u00bc time (effect of time from pre-to post-treatment/waitlist); I \u00bc interaction effect (differences in change between groups from pre-treatment to post-treatment/waitlist).",
+            "\u00c3 p 0.01.",
+            "\u00c3\u00c3 p < 0.0001."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "whereas no significant difference was found from pre-to post-waitlist in the WCG (Group II). Significant interaction was revealed between group and time on the frequency of negative thoughts ( Table 3 ). The negative thoughts in ITG (Group I) were significantly reduced from pre-to post treatment (t(19) \u00bc 3.2, p < 0.01). No significant interaction effects were detected for positive thoughts (Table 3) . Positive thoughts increased from pre-to post-treatment, but no significant difference was observed. ITT analysis demonstrated that the interaction effect significance level remained unchanged for both positive and negative thoughts. There were no significant changes in positive or negative thoughts in the WCG (Group II).",
+        "section": "Behavioural avoidance test",
+        "section_number": 32,
+        "sentences": [
+            "whereas no significant difference was found from pre-to post-waitlist in the WCG (Group II).",
+            "Significant interaction was revealed between group and time on the frequency of negative thoughts ( Table 3 ).",
+            "The negative thoughts in ITG (Group I) were significantly reduced from pre-to post treatment (t(19) \u00bc 3.2, p < 0.01).",
+            "No significant interaction effects were detected for positive thoughts (Table 3) .",
+            "Positive thoughts increased from pre-to post-treatment, but no significant difference was observed.",
+            "ITT analysis demonstrated that the interaction effect significance level remained unchanged for both positive and negative thoughts.",
+            "There were no significant changes in positive or negative thoughts in the WCG (Group II)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In the group as a whole (both patients who received treatment immediately and those who received the same treatment after a 5-week delay), a significant reduction from preto post-treatment on all four psychometric self-report scales was revealed (Table 4 ). The reduction on IOIF-s, CFSS-DS and IS-c was maintained from post-treatment to the 1-year follow-up. MQ-c had a further significant reduction from posttreatment to the 1-year follow-up (M \u00bc 11.9, SD \u00bc 7.4 versus M \u00bc 9.5, SD \u00bc 7.4, t(50) \u00bc 2.3, p \u00bc 0.02).",
+        "section": "BII-and dental fears",
+        "section_number": 33,
+        "sentences": [
+            "In the group as a whole (both patients who received treatment immediately and those who received the same treatment after a 5-week delay), a significant reduction from preto post-treatment on all four psychometric self-report scales was revealed (Table 4 ).",
+            "The reduction on IOIF-s, CFSS-DS and IS-c was maintained from post-treatment to the 1-year follow-up.",
+            "MQ-c had a further significant reduction from posttreatment to the 1-year follow-up (M \u00bc 11.9, SD \u00bc 7.4 versus M \u00bc 9.5, SD \u00bc 7.4, t(50) \u00bc 2.3, p \u00bc 0.02)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In the pooled sample, significantly increased BAT levels were observed from pre-to post-treatment (M \u00bc 5.31, SD \u00bc 3.25, versus M \u00bc 10.58, SD \u00bc 2.24, t(54) \u00bc \u00c011.53, p < 0.001), and the effect was maintained at the 1-year follow-up.",
+        "section": "Behavioural avoidance test",
+        "section_number": 34,
+        "sentences": [
+            "In the pooled sample, significantly increased BAT levels were observed from pre-to post-treatment (M \u00bc 5.31, SD \u00bc 3.25, versus M \u00bc 10.58, SD \u00bc 2.24, t(54) \u00bc \u00c011.53, p < 0.001), and the effect was maintained at the 1-year follow-up."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Furthermore, from pre-to post-treatment, there was a significant reduction in negative thoughts (M \u00bc 5.1, SD \u00bc 4.2 versus M \u00bc 1.5, SD \u00bc 2.8, t(37) \u00bc 4.1, p < 0.001), but no significant changes in positive thoughts. No significant changes in either positive or negative thoughts from post-treatment to the 1year follow-up were revealed.",
+        "section": "Behavioural avoidance test",
+        "section_number": 35,
+        "sentences": [
+            "Furthermore, from pre-to post-treatment, there was a significant reduction in negative thoughts (M \u00bc 5.1, SD \u00bc 4.2 versus M \u00bc 1.5, SD \u00bc 2.8, t(37) \u00bc 4.1, p < 0.001), but no significant changes in positive thoughts.",
+            "No significant changes in either positive or negative thoughts from post-treatment to the 1year follow-up were revealed."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Forty-seven of the 67 patients who originally enroled in the study (70.1%) managed to receive intra-oral injections during the CBT. Additionally, 10 patients (14.9%) managed to have injected a few drops of anaesthesia in the submucosa, although these injections were not the fully required amount. Of the 58 patients completing the treatment, 49 had further dental treatment needs requiring intra-oral injections and were subsequently scheduled for dental treatment at their regular dentist (PDS) during the follow-up year. Of these patients, 69.4% (34/49) managed to receive required intraoral injections by the regular dentist during the follow-up year according to the dental records.",
+        "section": "Intra-oral injections",
+        "section_number": 36,
+        "sentences": [
+            "Forty-seven of the 67 patients who originally enroled in the study (70.1%) managed to receive intra-oral injections during the CBT.",
+            "Additionally, 10 patients (14.9%) managed to have injected a few drops of anaesthesia in the submucosa, although these injections were not the fully required amount.",
+            "Of the 58 patients completing the treatment, 49 had further dental treatment needs requiring intra-oral injections and were subsequently scheduled for dental treatment at their regular dentist (PDS) during the follow-up year.",
+            "Of these patients, 69.4% (34/49) managed to receive required intraoral injections by the regular dentist during the follow-up year according to the dental records."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "This randomized delayed intervention controlled trial is the first to examine the efficacy of 5-session CBT for the reduction of fear in young patients diagnosed with intra-oral injection phobia. The present important finding was that CBT performed by specially trained dentists was effective and successful. This implies that a hitherto lacking standardized treatment option among young individuals is now available. It is to be believed that it would mean a lot for the patients to know there is a tested treatment for overcoming the disorder, and also for the dentists incharge, to have a treatment method to follow.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "This randomized delayed intervention controlled trial is the first to examine the efficacy of 5-session CBT for the reduction of fear in young patients diagnosed with intra-oral injection phobia.",
+            "The present important finding was that CBT performed by specially trained dentists was effective and successful.",
+            "This implies that a hitherto lacking standardized treatment option among young individuals is now available.",
+            "It is to be believed that it would mean a lot for the patients to know there is a tested treatment for overcoming the disorder, and also for the dentists incharge, to have a treatment method to follow."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In Norway, individuals up to 19 years of age, regardless of socioeconomic background, are under regular free supervision of the PDS, and in 2014, 97.9% made use of the service [32] . The patients in this study were not self-referred, but referred by PDS dentists, and further fulfilled the I-OIP diagnosis, set by a psychologist. Hence there are reasons to believe that the sample is indicative for children with I-OIP in the general population of Hordaland County. The PDS clinics throughout the country are based on national guidelines, so to some extent the results could be interpreted to be representative of I-OIP patients not only in Hordaland, but also for the whole country. This is supported by the fact that Hordaland County is the 3rd most populated out of 19 counties, and constitutes about 10% of the population of the population of Norway [32] . Additionally, 6 out of 7 municipality classes present in Norway are represented in Hordaland.",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "In Norway, individuals up to 19 years of age, regardless of socioeconomic background, are under regular free supervision of the PDS, and in 2014, 97.9% made use of the service [32] .",
+            "The patients in this study were not self-referred, but referred by PDS dentists, and further fulfilled the I-OIP diagnosis, set by a psychologist.",
+            "Hence there are reasons to believe that the sample is indicative for children with I-OIP in the general population of Hordaland County.",
+            "The PDS clinics throughout the country are based on national guidelines, so to some extent the results could be interpreted to be representative of I-OIP patients not only in Hordaland, but also for the whole country.",
+            "This is supported by the fact that Hordaland County is the 3rd most populated out of 19 counties, and constitutes about 10% of the population of the population of Norway [32] .",
+            "Additionally, 6 out of 7 municipality classes present in Norway are represented in Hordaland."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Treatment was found to be better than no treatment in that the patients that were allocated to immediate treatment demonstrated significant improvement on all four psychometric instruments and additionally the BAT, whereas no such improvements were observed in the control group. In particular, a very large effect was observed regarding the scale assessing intra-oral injection fear. The findings were thus supported both subjectively by the self-report scales, and further behaviourally by the ability to receive intra-oral injections.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "Treatment was found to be better than no treatment in that the patients that were allocated to immediate treatment demonstrated significant improvement on all four psychometric instruments and additionally the BAT, whereas no such improvements were observed in the control group.",
+            "In particular, a very large effect was observed regarding the scale assessing intra-oral injection fear.",
+            "The findings were thus supported both subjectively by the self-report scales, and further behaviourally by the ability to receive intra-oral injections."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In the pooled sample (all patients included), the selfreport scales assessing BII-and dental fears yielded similar improvements as the ITG post-treatment, and the results were maintained at the 1-year follow-up. The scores on the intra-oral injection fear scale were reduced from larger than the cut-off (38<), indicating a high/clinical level of fear pretreatment, to a level considerably lower than cut-off (19.5) post-treatment [23] . Furthermore, the BAT increased from a mean level of 5.31 pre-treatment (step 5 corresponds to the dentist examining the mouth using the mirror) to 10.58 posttreatment (step 10 corresponds to putting a few drops of anaesthesia), which was considered as a 'successful injection'. The treatment also largely reduced the frequency of negative thoughts. This finding might be interpreted as the treatment is enhancing the experience of having control when undergoing an intra-oral injection and that catastrophic thoughts were reduced. It is supported by the fact that an unknown dentist, not in the position to beforehand build up trust, one of the key elements of the treatment, is conducting the BATs. The results were also maintained at the 1-year follow-up. The scores on the BAT and the IOIF-s support the reliability of the diagnostic interviews. Although the patients did not undergo a full diagnostic interview post-treatment and at the 1-year follow up, the improvements on both self-reported fear and behaviour may imply that the patients no longer met the criteria for an intra-oral injection phobia diagnosis. Furthermore, the fact that 7 out of 10 patients managed to receive intra-oral injections during treatment further consolidated the effectiveness of CBT. It was also important that almost the same proportion of patients in need for further dental treatment, completing the CBT, managed to receive the necessary intra-oral injections at their local dentist.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "In the pooled sample (all patients included), the selfreport scales assessing BII-and dental fears yielded similar improvements as the ITG post-treatment, and the results were maintained at the 1-year follow-up.",
+            "The scores on the intra-oral injection fear scale were reduced from larger than the cut-off (38<), indicating a high/clinical level of fear pretreatment, to a level considerably lower than cut-off (19.5) post-treatment [23] .",
+            "Furthermore, the BAT increased from a mean level of 5.31 pre-treatment (step 5 corresponds to the dentist examining the mouth using the mirror) to 10.58 posttreatment (step 10 corresponds to putting a few drops of anaesthesia), which was considered as a 'successful injection'.",
+            "The treatment also largely reduced the frequency of negative thoughts.",
+            "This finding might be interpreted as the treatment is enhancing the experience of having control when undergoing an intra-oral injection and that catastrophic thoughts were reduced.",
+            "It is supported by the fact that an unknown dentist, not in the position to beforehand build up trust, one of the key elements of the treatment, is conducting the BATs.",
+            "The results were also maintained at the 1-year follow-up.",
+            "The scores on the BAT and the IOIF-s support the reliability of the diagnostic interviews.",
+            "Although the patients did not undergo a full diagnostic interview post-treatment and at the 1-year follow up, the improvements on both self-reported fear and behaviour may imply that the patients no longer met the criteria for an intra-oral injection phobia diagnosis.",
+            "Furthermore, the fact that 7 out of 10 patients managed to receive intra-oral injections during treatment further consolidated the effectiveness of CBT.",
+            "It was also important that almost the same proportion of patients in need for further dental treatment, completing the CBT, managed to receive the necessary intra-oral injections at their local dentist."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "However, as specific phobias such as intra-oral injection phobia is influenced by many factors e.g vulnerability, psychological preparedness and cognitive maturation [2, 4, 33] , a more individualized number of treatment sessions rather than the limited present 5 sessions of CBT might further improve the results. This possibility should be kept in mind in further studying the effect of treatment among children and adolescents with intra-oral injection phobia. The results are, however, in line with previous studies of similar treatments for other specific phobias reporting 50%-60% of children to be diagnosis-free after treatment [19, 34] . For the public dentist, it is important to keep in mind that dentists specialized in treating fearful patients mostly need several consultations to help the patients overcome their anxiety. Furthermore, postgraduate courses in CBT for dental anxiety have been shown useful [35] , and courses concerning this particular subgroup of patients could be further explored.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "However, as specific phobias such as intra-oral injection phobia is influenced by many factors e.g vulnerability, psychological preparedness and cognitive maturation [2, 4, 33] , a more individualized number of treatment sessions rather than the limited present 5 sessions of CBT might further improve the results.",
+            "This possibility should be kept in mind in further studying the effect of treatment among children and adolescents with intra-oral injection phobia.",
+            "The results are, however, in line with previous studies of similar treatments for other specific phobias reporting 50%-60% of children to be diagnosis-free after treatment [19, 34] .",
+            "For the public dentist, it is important to keep in mind that dentists specialized in treating fearful patients mostly need several consultations to help the patients overcome their anxiety.",
+            "Furthermore, postgraduate courses in CBT for dental anxiety have been shown useful [35] , and courses concerning this particular subgroup of patients could be further explored."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "The time for which treatment was withheld was chosen as it corresponded to the duration of treatment for the patients in the ITG. Among the patients in the ITG, a reduced fear level was hypothesized after 5 weeks of CBT. Hence, any reduction in fear within 5 weeks among the WCG would be valuable information regarding the actual effect of CBT. Additionally, 5 weeks were regarded appropriate as the patients would probably not remember their answers between the first and second assessments. Accordingly the replicate measurement should be independent of the first measurement. Furthermore, the relatively short amount of time between the assessments limits the time in which patients may be influenced by external factors possibly influencing their phobia [36] .",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "The time for which treatment was withheld was chosen as it corresponded to the duration of treatment for the patients in the ITG.",
+            "Among the patients in the ITG, a reduced fear level was hypothesized after 5 weeks of CBT.",
+            "Hence, any reduction in fear within 5 weeks among the WCG would be valuable information regarding the actual effect of CBT.",
+            "Additionally, 5 weeks were regarded appropriate as the patients would probably not remember their answers between the first and second assessments.",
+            "Accordingly the replicate measurement should be independent of the first measurement.",
+            "Furthermore, the relatively short amount of time between the assessments limits the time in which patients may be influenced by external factors possibly influencing their phobia [36] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "Although the present response rate at the 1-year follow-up assessments was considered good, the attrition could have been limited and treatment outcomes could have been improved if the inclusion criteria had been stricter e.g. excluded the diagnoses ADHD and autism spectrum disorders and patients with low motivation. However, within the age range of 10-to 16-year-olds, not all children/adolescence are yet diagnosed despite having a condition, yielding no certainty in excluding patients with the diagnosis. In the literature, there is also reported an association between ADHD and BII phobia [37] . A limitation of the study might be that motivation for treatment, which is known to influence treatment outcome, could have been taken more into account. Several studies have reported that treatment motivation plays an essential role regarding CBT [17] . Nevertheless, as avoidance is one of the main characters of the I-OIP and experiences of pain related to the phobic stimuli is reported to be one of the main aetiological factors in contrast to other phobias [2] , this may logically influence children's motivation to overcome their fear. Additionally, exclusion would have left some children and adolescents suffering from I-OIP with limited treatment options. Furthermore as some dental procedures, such as perception of a painful dental injection, may be experienced as a traumatic event, a trauma-focused treatment approach could have been considered for some patients.",
+        "section": "Methodical issues",
+        "section_number": 43,
+        "sentences": [
+            "Although the present response rate at the 1-year follow-up assessments was considered good, the attrition could have been limited and treatment outcomes could have been improved if the inclusion criteria had been stricter e.g. excluded the diagnoses ADHD and autism spectrum disorders and patients with low motivation.",
+            "However, within the age range of 10-to 16-year-olds, not all children/adolescence are yet diagnosed despite having a condition, yielding no certainty in excluding patients with the diagnosis.",
+            "In the literature, there is also reported an association between ADHD and BII phobia [37] .",
+            "A limitation of the study might be that motivation for treatment, which is known to influence treatment outcome, could have been taken more into account.",
+            "Several studies have reported that treatment motivation plays an essential role regarding CBT [17] .",
+            "Nevertheless, as avoidance is one of the main characters of the I-OIP and experiences of pain related to the phobic stimuli is reported to be one of the main aetiological factors in contrast to other phobias [2] , this may logically influence children's motivation to overcome their fear.",
+            "Additionally, exclusion would have left some children and adolescents suffering from I-OIP with limited treatment options.",
+            "Furthermore as some dental procedures, such as perception of a painful dental injection, may be experienced as a traumatic event, a trauma-focused treatment approach could have been considered for some patients."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "BAT, as used in this study, has previously been used as a measure of behavioural change on I-OIP in adults [21] , but to our knowledge, this information does not correspond to children. However, one of the most important outcome measures of phobia treatment is change of avoidance behaviour [1] . Nevertheless, trust and establishing a good therapeutic alliance are essential elements in the utilization of CBT among patients with I-OIP [17] . The performance of BAT by an external dentist, unfamiliar to the children and adolescents, should be further discussed. Another shortcoming was that the dentists conducting the BATs were not calibrated clinically, although they were given mutual standardized instructions and information, both written and verbally. Furthermore, possible effects of the psychoeducation during the diagnostic interview cannot be excluded. However the fact that the WCG did not change significantly indicates a limited effect of the interview and psychoeducation.",
+        "section": "Methodical issues",
+        "section_number": 44,
+        "sentences": [
+            "BAT, as used in this study, has previously been used as a measure of behavioural change on I-OIP in adults [21] , but to our knowledge, this information does not correspond to children.",
+            "However, one of the most important outcome measures of phobia treatment is change of avoidance behaviour [1] .",
+            "Nevertheless, trust and establishing a good therapeutic alliance are essential elements in the utilization of CBT among patients with I-OIP [17] .",
+            "The performance of BAT by an external dentist, unfamiliar to the children and adolescents, should be further discussed.",
+            "Another shortcoming was that the dentists conducting the BATs were not calibrated clinically, although they were given mutual standardized instructions and information, both written and verbally.",
+            "Furthermore, possible effects of the psychoeducation during the diagnostic interview cannot be excluded.",
+            "However the fact that the WCG did not change significantly indicates a limited effect of the interview and psychoeducation."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35049",
+        "text": "In conclusion, CBT used for children and adolescents diagnosed with I-OIP was effective, and is a reasonable approach for preventing future avoidance of dental treatment. Dentist working with children would benefit from having knowledge about CBT, and CBT should be advocated as a recommended treatment for patients within the age range of 10-to 16year-olds suffering from I-OIP.",
+        "section": "Methodical issues",
+        "section_number": 45,
+        "sentences": [
+            "In conclusion, CBT used for children and adolescents diagnosed with I-OIP was effective, and is a reasonable approach for preventing future avoidance of dental treatment.",
+            "Dentist working with children would benefit from having knowledge about CBT, and CBT should be advocated as a recommended treatment for patients within the age range of 10-to 16year-olds suffering from I-OIP."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

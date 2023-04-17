@@ -1,0 +1,933 @@
+[
+    {
+        "doc_id": "35038",
+        "text": "A randomized control trial involving 806 youth (ages 10-16; 85.4% low-income households) served in U.S. Big Brothers Big Sisters affiliates investigated effects of incorporating activities to promote youth thriving into mentoring relationships over a 15-month period. Outcomes included support for thriving in youths' relationships with adults, youths' personal resources for thriving, and levels of problem behavior. Intent-to-treat analyses revealed no differences in outcomes based on assignment to thriving promotion or standard services. There was substantial variability in youth exposure to thriving promotion activities, primarily in association with premature endings of mentoring relationships. In path analyses, positive engagement with the activities predicted enhanced support for thriving from adults and, via this support, increased personal resources for thriving and reduced problem behavior.",
+        "section": "Abstract",
+        "sentences": [
+            "A randomized control trial involving 806 youth (ages 10-16; 85.4% low-income households) served in U.S. Big Brothers Big Sisters affiliates investigated effects of incorporating activities to promote youth thriving into mentoring relationships over a 15-month period.",
+            "Outcomes included support for thriving in youths' relationships with adults, youths' personal resources for thriving, and levels of problem behavior.",
+            "Intent-to-treat analyses revealed no differences in outcomes based on assignment to thriving promotion or standard services.",
+            "There was substantial variability in youth exposure to thriving promotion activities, primarily in association with premature endings of mentoring relationships.",
+            "In path analyses, positive engagement with the activities predicted enhanced support for thriving from adults and, via this support, increased personal resources for thriving and reduced problem behavior."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Mentoring programs are widely utilized as a form of developmental support for youth, particularly those contending with socioeconomic disadvantage (e.g., family poverty). When subjected to controlled evaluations, such programs demonstrate a potential for helping young people attain positive outcomes in areas such as their social relationships and emotional well-being (DuBois, Portillo, Rhodes, Silverthorn, & Valentine, 2011) and for reducing their risk for negative outcomes such as delinquency (Tolan, Henry, Schoeny, & Bass, 2008) . This evidence is tempered by some important caveats, including the typically modest magnitude of observed benefits for youth (DuBois et al., 2011) , inconsistency of impacts both within and across programs (DuBois, Holloway, Valentine, & Cooper, 2002) , and limited durability of effects following program participation (e.g., Herrera et al., 2007) .",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Mentoring programs are widely utilized as a form of developmental support for youth, particularly those contending with socioeconomic disadvantage (e.g., family poverty).",
+            "When subjected to controlled evaluations, such programs demonstrate a potential for helping young people attain positive outcomes in areas such as their social relationships and emotional well-being (DuBois, Portillo, Rhodes, Silverthorn, & Valentine, 2011) and for reducing their risk for negative outcomes such as delinquency (Tolan, Henry, Schoeny, & Bass, 2008) .",
+            "This evidence is tempered by some important caveats, including the typically modest magnitude of observed benefits for youth (DuBois et al., 2011) , inconsistency of impacts both within and across programs (DuBois, Holloway, Valentine, & Cooper, 2002) , and limited durability of effects following program participation (e.g., Herrera et al., 2007) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The typical mentoring program recruits, screens, and trains adult volunteers; matches each volunteer with a youth referred to the program; and then provides ongoing staff support as the adult and youth spend 1-to-1 time together on a regular basis in community settings over some minimum period of time (e.g., 1 year). Rhodes (2002) posited that mentoring relationships can facilitate gains in a youth's social-emotional, cognitive, and identity development through a variety of mechanisms, including",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "The typical mentoring program recruits, screens, and trains adult volunteers; matches each volunteer with a youth referred to the program; and then provides ongoing staff support as the adult and youth spend 1-to-1 time together on a regular basis in community settings over some minimum period of time (e.g., 1 year).",
+            "Rhodes (2002) posited that mentoring relationships can facilitate gains in a youth's social-emotional, cognitive, and identity development through a variety of mechanisms, including"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "We gratefully acknowledge Big Brothers Big Sisters of America and its affiliate agencies, as well as the Thrive Foundation for Youth. Without the collaboration of these organizations, the support of their leaders, and the myriad contributions of their dedicated staff, this research would not have been possible. We also greatly appreciate the expert assistance of the following research staff: Shannan Chehade, Nicole Debnar, Kelsie Full, Julius Rivera, Nicole Mayer, Joanna Parys, and Naida Silverthorn. Finally, a special thanks is due to the many youth, parents, and volunteer mentors who gave generously of their time as participants in this research. Funding for this research was provided through a grant to the authors from the Office of Juvenile Justice and Delinquency Prevention of the U.S. Department of Justice (2010-53295-IL-JG). Implementation of the mentoring program enhancement under investigation was supported, in part, by a grant to Big Brothers Big Sisters of America from the Thrive Foundation for Youth. David DuBois chairs the Research Advisory Committee of Big Brothers Big Sisters of America (BBBSA) and Thomas Keller is a member of this committee. The content of this article, however, is solely the responsibility of the authors and does not necessarily represent the views or positions of BBBSA. BBBSA, furthermore, did not exercise any control or decision-making influence over the article's contents or conclusions.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "We gratefully acknowledge Big Brothers Big Sisters of America and its affiliate agencies, as well as the Thrive Foundation for Youth.",
+            "Without the collaboration of these organizations, the support of their leaders, and the myriad contributions of their dedicated staff, this research would not have been possible.",
+            "We also greatly appreciate the expert assistance of the following research staff: Shannan Chehade, Nicole Debnar, Kelsie Full, Julius Rivera, Nicole Mayer, Joanna Parys, and Naida Silverthorn.",
+            "Finally, a special thanks is due to the many youth, parents, and volunteer mentors who gave generously of their time as participants in this research.",
+            "Funding for this research was provided through a grant to the authors from the Office of Juvenile Justice and Delinquency Prevention of the U.S. Department of Justice (2010-53295-IL-JG).",
+            "Implementation of the mentoring program enhancement under investigation was supported, in part, by a grant to Big Brothers Big Sisters of America from the Thrive Foundation for Youth.",
+            "David DuBois chairs the Research Advisory Committee of Big Brothers Big Sisters of America (BBBSA) and Thomas Keller is a member of this committee.",
+            "The content of this article, however, is solely the responsibility of the authors and does not necessarily represent the views or positions of BBBSA.",
+            "BBBSA, furthermore, did not exercise any control or decision-making influence over the article's contents or conclusions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Correspondence concerning this article should be addressed to David L. DuBois, Institute for Health Research and Policy (M/C 275), University of Illinois at Chicago, 1747 W. Roosevelt Rd., Chicago, IL 60608. Electronic mail may be sent to dldubois@uic.edu.",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "Correspondence concerning this article should be addressed to David L. DuBois, Institute for Health Research and Policy (M/C 275), University of Illinois at Chicago, 1747 W. Roosevelt Rd.,",
+            "Chicago, IL 60608.",
+            "Electronic mail may be sent to dldubois@uic.edu."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "improved working models of self and others, skill acquisition via modeling and scaffolding, and expanded conceptions of possible future selves. Mentoring's potential to broaden youths' social networks in ways that build social capital also has been emphasized (e.g., Keller, 2007) . Research examining programmatic efforts to foster these types of processes is limited. In meta-analyses, programs that support mentors with assuming a teaching role and those that provide structured activities for mentors and mentees have achieved stronger effects on youth outcomes (DuBois et al., 2002 (DuBois et al., , 2011 . At the same time, in research examining interactions within mentoring relationships, a balance between fun, relationally oriented activities, and goal-oriented, instrumental activities has been associated with more favorable youth outcomes, particularly when the choice of activities is collaborative and youth focused (Keller & Pryce, 2012; Nakkula & Harris, 2010) . Available findings thus suggest that programs may be most effective when they are able to facilitate mentor-mentee activities that are engaging and responsive to the interests of the mentee while also incorporating the types of structure and adult guidance that are necessary to scaffold the youth's growth and development (Karcher & Nakkula, 2010; Keller & Pryce, 2010) . Recent theory and research in developmental science, which builds on the importance of caring relationships with nonparental adults established in earlier research on resilience (Werner, 1995) , has much to offer mentoring programs as they confront this challenge.",
+        "section": "",
+        "section_number": 5,
+        "sentences": [
+            "improved working models of self and others, skill acquisition via modeling and scaffolding, and expanded conceptions of possible future selves.",
+            "Mentoring's potential to broaden youths' social networks in ways that build social capital also has been emphasized (e.g., Keller, 2007) .",
+            "Research examining programmatic efforts to foster these types of processes is limited.",
+            "In meta-analyses, programs that support mentors with assuming a teaching role and those that provide structured activities for mentors and mentees have achieved stronger effects on youth outcomes (DuBois et al., 2002 (DuBois et al., , 2011 .",
+            "At the same time, in research examining interactions within mentoring relationships, a balance between fun, relationally oriented activities, and goal-oriented, instrumental activities has been associated with more favorable youth outcomes, particularly when the choice of activities is collaborative and youth focused (Keller & Pryce, 2012; Nakkula & Harris, 2010) .",
+            "Available findings thus suggest that programs may be most effective when they are able to facilitate mentor-mentee activities that are engaging and responsive to the interests of the mentee while also incorporating the types of structure and adult guidance that are necessary to scaffold the youth's growth and development (Karcher & Nakkula, 2010; Keller & Pryce, 2010) .",
+            "Recent theory and research in developmental science, which builds on the importance of caring relationships with nonparental adults established in earlier research on resilience (Werner, 1995) , has much to offer mentoring programs as they confront this challenge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The growing body of theory and research on youth thriving offers one particularly promising avenue in this regard (Scales, Benson, & Roehlkepartain, 2011) . A concept with origins in the positive youth development paradigm and applied developmental systems models of person-context interaction, thriving has been defined as both a developmental process and an outcome. Benson and Scales (2009) , for example, conceptualized thriving as \"a dynamic and bidirectional interplay over time of a young person intrinsically animated and energized by discovering his/her specialness, and the developmental contexts (people, places) that know, affirm, celebrate, encourage, and guide its expression\" and as encompassing \"both where a young person is currently in their journey to idealized personhood, and whether they are on the kind of path to get there that could rightly be called one of exemplary adaptive development regulations\" (p. 90). Within their framework, collaborative adult-youth relationships are viewed as essential contexts for providing opportunities, supports, boundaries, and expectations to encourage and facilitate youth thriving. Lerner, von Eye, Lerner, Lewin-Bizan, and Bowers (2010) similarly conceptualized supportive adults as ecological developmental assets that in positive and sustained relationship with the strengths of adolescents (e.g., intentional self-regulation) will facilitate their positive development in key areas (i.e., competence, confidence, character, caring, and connection) that, in turn, reduce risk for problem behaviors (e.g., delinquency) (see also Lerner, Napolitano, Boyd, Mueller, & Callina, 2014) .",
+        "section": "",
+        "section_number": 6,
+        "sentences": [
+            "The growing body of theory and research on youth thriving offers one particularly promising avenue in this regard (Scales, Benson, & Roehlkepartain, 2011) .",
+            "A concept with origins in the positive youth development paradigm and applied developmental systems models of person-context interaction, thriving has been defined as both a developmental process and an outcome.",
+            "Benson and Scales (2009) , for example, conceptualized thriving as \"a dynamic and bidirectional interplay over time of a young person intrinsically animated and energized by discovering his/her specialness, and the developmental contexts (people, places) that know, affirm, celebrate, encourage, and guide its expression\" and as encompassing \"both where a young person is currently in their journey to idealized personhood, and whether they are on the kind of path to get there that could rightly be called one of exemplary adaptive development regulations\" (p. 90).",
+            "Within their framework, collaborative adult-youth relationships are viewed as essential contexts for providing opportunities, supports, boundaries, and expectations to encourage and facilitate youth thriving.",
+            "Lerner, von Eye, Lerner, Lewin-Bizan, and Bowers (2010) similarly conceptualized supportive adults as ecological developmental assets that in positive and sustained relationship with the strengths of adolescents (e.g., intentional self-regulation) will facilitate their positive development in key areas (i.e., competence, confidence, character, caring, and connection) that, in turn, reduce risk for problem behaviors (e.g., delinquency) (see also Lerner, Napolitano, Boyd, Mueller, & Callina, 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Drawing upon this developmental science perspective and associated research, the Thrive Foundation for Youth formulated strategies and materials intended to have practical utility for promoting youth thriving. The organizing framework for these resources is a theory of change, referred to as Step-It-Up-2-Thrive, in which a supportive adult, such as a mentor, guides a young person through a roadmap of activities designed to promote thriving (Heck, Subramaniam, & Carlos, 2010) . An overview of the theory of change is shown in Figure 1 .",
+        "section": "",
+        "section_number": 7,
+        "sentences": [
+            "Drawing upon this developmental science perspective and associated research, the Thrive Foundation for Youth formulated strategies and materials intended to have practical utility for promoting youth thriving.",
+            "The organizing framework for these resources is a theory of change, referred to as Step-It-Up-2-Thrive, in which a supportive adult, such as a mentor, guides a young person through a roadmap of activities designed to promote thriving (Heck, Subramaniam, & Carlos, 2010) .",
+            "An overview of the theory of change is shown in Figure 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "In the Step-It-Up-2 Thrive theory of change, the first aim is to help the youth identify a \"spark,\" defined as a talent or interest that excites the youth and motivates focused effort and attention (Benson, 2008) . This concept builds on the importance of engagement in an activity or pursuit that fosters initiative (Larson, 2000) , and it is consistent with the idea that adult-youth relationships can be strengthened through their joint participation in a thematic activity (Karcher & Nakkula, 2010) . The next aim is for the mentor to encourage the development of a \"growth mindset\" (Dweck, 2006) . Research suggests people hold beliefs that individual abilities are either inherent, \"fixed\" qualities, or can be changed. These beliefs affect attributions for success or failure that in turn influence choice of activities, level of effort, and degree of perseverance. For example, with a \"growth\" mindset, one would appreciate new and challenging activities as opportunities to learn and would attribute failure to a lack of effort or preparation, therefore being more likely to persist until achieving success (Dweck, 1999) . The third phase of the model involves a mutual assessment by the adult guide and youth of the youth's personal strengths and areas for growth. This conversation is framed by a set of indicators of positive development and thriving in multiple domains organized according to 6Cs of positive youth development: Competence, Connection, Character, Caring, Confidence, and Contribution (Lerner, Almerigi, Theokas, & Lerner, 2005) . The final phase of the model addresses goal attainment. Based on the assessment with thriving indicators, the adult guide and youth jointly determine one or two areas in which the youth wants to pursue growth with the support of the adult. This effort is guided by a goal management system referred to as GPS for Goal selection, Pursuit of strategies, and Shifting of gears to overcome obstacles. The elements of GPS are based on the Selection, Optimization, and Compensation (SOC) framework for intentional self-regulation of performance and achievement (Lerner, Freund, De Stefanis, & Habermas, 2001) .",
+        "section": "",
+        "section_number": 8,
+        "sentences": [
+            "In the Step-It-Up-2 Thrive theory of change, the first aim is to help the youth identify a \"spark,\" defined as a talent or interest that excites the youth and motivates focused effort and attention (Benson, 2008) .",
+            "This concept builds on the importance of engagement in an activity or pursuit that fosters initiative (Larson, 2000) , and it is consistent with the idea that adult-youth relationships can be strengthened through their joint participation in a thematic activity (Karcher & Nakkula, 2010) .",
+            "The next aim is for the mentor to encourage the development of a \"growth mindset\" (Dweck, 2006) .",
+            "Research suggests people hold beliefs that individual abilities are either inherent, \"fixed\" qualities, or can be changed.",
+            "These beliefs affect attributions for success or failure that in turn influence choice of activities, level of effort, and degree of perseverance.",
+            "For example, with a \"growth\" mindset, one would appreciate new and challenging activities as opportunities to learn and would attribute failure to a lack of effort or preparation, therefore being more likely to persist until achieving success (Dweck, 1999) .",
+            "The third phase of the model involves a mutual assessment by the adult guide and youth of the youth's personal strengths and areas for growth.",
+            "This conversation is framed by a set of indicators of positive development and thriving in multiple domains organized according to 6Cs of positive youth development: Competence, Connection, Character, Caring, Confidence, and Contribution (Lerner, Almerigi, Theokas, & Lerner, 2005) .",
+            "The final phase of the model addresses goal attainment.",
+            "Based on the assessment with thriving indicators, the adult guide and youth jointly determine one or two areas in which the youth wants to pursue growth with the support of the adult.",
+            "This effort is guided by a goal management system referred to as GPS for Goal selection, Pursuit of strategies, and Shifting of gears to overcome obstacles.",
+            "The elements of GPS are based on the Selection, Optimization, and Compensation (SOC) framework for intentional self-regulation of performance and achievement (Lerner, Freund, De Stefanis, & Habermas, 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "With collaboration and support from the Thrive Foundation for Youth, Big Brothers Big Sisters of America (BBBSA) engaged in a design process to adapt the Step-It-Up-2-Thrive resource materials for use within its service delivery model for community-based mentoring. This study reports on a randomized evaluation of the adapted Step-It-Up-2-Thrive activities and resource materials when integrated into the normal program operations of 10 BBBSA affiliates. The findings reported here address the following questions: (a) Do youth randomly assigned to the thriving promotion condition demonstrate improved outcomes relative to those assigned to receive standard mentoring services? Outcomes assessed included support from adults for thriving, personal resources for thriving that are the focus of the Step-It-Up-2-Thrive model, and youth misconduct and delinquent behavior, the latter based on prior research that links personal resources for thriving (e.g., skills for intentional self-regulation) to reduced levels of youth problem behavior (e.g., Gestsdottir, Lewin-Bizan, von Eye, Lerner, & Lerner, 2009) ; (b) to what extent do youth in the thriving promotion condition report positive engagement with Step-It-Up-2-Thrive activities and supports and what factors predict differential levels of engagement?; and (c) do youth with relatively high levels of positive engagement with the Step-It-Up-2-Thrive activities and resources report increased support from adults for thriving, and is such support associated, in The 10 participating BBBSA affiliates served primarily urban areas in nine U.S. states representing multiple regions of the country. Site selection was informed by affiliate performance data and consultation from BBBSA field staff. Priority was given to affiliates assessed as having readiness and capacity to implement the Step-It-Up-2-Thrive enhancement and assist with research activities. Each affiliate received a stipend to help offset costs associated with implementing the Step-It-Up-2-Thrive activities and assisting with research activities.",
+        "section": "",
+        "section_number": 9,
+        "sentences": [
+            "With collaboration and support from the Thrive Foundation for Youth, Big Brothers Big Sisters of America (BBBSA) engaged in a design process to adapt the Step-It-Up-2-Thrive resource materials for use within its service delivery model for community-based mentoring.",
+            "This study reports on a randomized evaluation of the adapted Step-It-Up-2-Thrive activities and resource materials when integrated into the normal program operations of 10 BBBSA affiliates.",
+            "The findings reported here address the following questions: (a) Do youth randomly assigned to the thriving promotion condition demonstrate improved outcomes relative to those assigned to receive standard mentoring services?",
+            "Outcomes assessed included support from adults for thriving, personal resources for thriving that are the focus of the Step-It-Up-2-Thrive model, and youth misconduct and delinquent behavior, the latter based on prior research that links personal resources for thriving (e.g., skills for intentional self-regulation) to reduced levels of youth problem behavior (e.g., Gestsdottir, Lewin-Bizan, von Eye, Lerner, & Lerner, 2009) ; (b) to what extent do youth in the thriving promotion condition report positive engagement with Step-It-Up-2-Thrive activities and supports and what factors predict differential levels of engagement?;",
+            "and (c) do youth with relatively high levels of positive engagement with the Step-It-Up-2-Thrive activities and resources report increased support from adults for thriving, and is such support associated, in The 10 participating BBBSA affiliates served primarily urban areas in nine U.S. states representing multiple regions of the country.",
+            "Site selection was informed by affiliate performance data and consultation from BBBSA field staff.",
+            "Priority was given to affiliates assessed as having readiness and capacity to implement the Step-It-Up-2-Thrive enhancement and assist with research activities.",
+            "Each affiliate received a stipend to help offset costs associated with implementing the Step-It-Up-2-Thrive activities and assisting with research activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "All study procedures were approved by university institutional review boards. Briefly, as adult volunteers completed the screening process to become mentors, they were recruited into the study using an active consent process. Likewise, youth referred to each affiliate's community-based mentoring program were assessed for study eligibility criteria: 10-16 years in age, parent/guardian able to complete the consent process and study surveys in either English or Spanish, no siblings already participating in the affiliate's mentoring program, and elevated risk for delinquency based on any of the following-family low-income status (participation in free or reduced lunch program or family receipt of public assistance), single-parent family, or parent incarcerated. Eligible youth were recruited into the study using an active consent and assent process. When a match was proposed for a youth and volunteer who had both consented into the study, the youth was randomly assigned by the researchers to either the thriving promotion or standard services condition of the study. In the BBBSA program, each mentoring relationship is supported by an assigned staff person, referred to as a Match Support Specialist (MSS). The study was designed to ensure that differences in the MSS assigned to matches in the thriving promotion and standard services conditions did not bias estimates of intervention effects on outcomes. Specifically, MSSs were first sorted by their supervisors into matched pairs according to similarity in work experience and anticipated motivation to support implementation of Step-It-Up-2-Thrive. One MSS from each pair then was randomly assigned by the researchers to provide support only to matches in the thriving promotion condition, with the other MSS providing support only to matches in the standard services condition. The number of study matches supported by each MSS varied but typically was between 5 and 10 (M = 7.12, SD = 4.19).",
+        "section": "",
+        "section_number": 10,
+        "sentences": [
+            "All study procedures were approved by university institutional review boards.",
+            "Briefly, as adult volunteers completed the screening process to become mentors, they were recruited into the study using an active consent process.",
+            "Likewise, youth referred to each affiliate's community-based mentoring program were assessed for study eligibility criteria: 10-16 years in age, parent/guardian able to complete the consent process and study surveys in either English or Spanish, no siblings already participating in the affiliate's mentoring program, and elevated risk for delinquency based on any of the following-family low-income status (participation in free or reduced lunch program or family receipt of public assistance), single-parent family, or parent incarcerated.",
+            "Eligible youth were recruited into the study using an active consent and assent process.",
+            "When a match was proposed for a youth and volunteer who had both consented into the study, the youth was randomly assigned by the researchers to either the thriving promotion or standard services condition of the study.",
+            "In the BBBSA program, each mentoring relationship is supported by an assigned staff person, referred to as a Match Support Specialist (MSS).",
+            "The study was designed to ensure that differences in the MSS assigned to matches in the thriving promotion and standard services conditions did not bias estimates of intervention effects on outcomes.",
+            "Specifically, MSSs were first sorted by their supervisors into matched pairs according to similarity in work experience and anticipated motivation to support implementation of Step-It-Up-2-Thrive.",
+            "One MSS from each pair then was randomly assigned by the researchers to provide support only to matches in the thriving promotion condition, with the other MSS providing support only to matches in the standard services condition.",
+            "The number of study matches supported by each MSS varied but typically was between 5 and 10 (M = 7.12, SD = 4.19)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Measures were administered to participating youth both at study baseline (prior to random assignment; Time 1) and 15 months after the initiation of the youth's match (Time 2). Follow-up data were able to be collected from three-quarters of youth in the total sample (75.2%; N = 606). The response rate at follow-up was nearly identical across the thriving promotion and standard services conditions (75.5% and 74.9%, respectively).",
+        "section": "",
+        "section_number": 11,
+        "sentences": [
+            "Measures were administered to participating youth both at study baseline (prior to random assignment; Time 1) and 15 months after the initiation of the youth's match (Time 2).",
+            "Follow-up data were able to be collected from three-quarters of youth in the total sample (75.2%; N = 606).",
+            "The response rate at follow-up was nearly identical across the thriving promotion and standard services conditions (75.5% and 74.9%, respectively)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Across the sites, 1,700 of 2,634 youth screened met eligibility criteria (64.5%). Primary reasons for exclusion were age (82%) or lack of a designated risk factor (8%). Of those eligible, parent or guardian consent and youth assent were obtained for 1,470 youth (86%). Of a total of 3,091 volunteer mentors invited to participate in the study, 2,075 (67%) consented to participate. Ultimately, 806 of the consented youth were matched with consented mentors and thus constituted the primary sample for the study (M age = 12.19 years; 61.9% female; race or ethnicity: Black or African American-50.5%; Latino or Hispanic-27.9%;",
+        "section": "Participants",
+        "section_number": 12,
+        "sentences": [
+            "Across the sites, 1,700 of 2,634 youth screened met eligibility criteria (64.5%).",
+            "Primary reasons for exclusion were age (82%) or lack of a designated risk factor (8%).",
+            "Of those eligible, parent or guardian consent and youth assent were obtained for 1,470 youth (86%).",
+            "Of a total of 3,091 volunteer mentors invited to participate in the study, 2,075 (67%) consented to participate.",
+            "Ultimately, 806 of the consented youth were matched with consented mentors and thus constituted the primary sample for the study (M age = 12.19 years; 61.9% female; race or ethnicity: Black or African American-50.5%; Latino or Hispanic-27.9%;"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "White-9.7%; other-11.9%; 85.4% low-income household), with 400 assigned to the thriving promotion condition and the remaining 406 assigned to the standard services condition. Youth, and their assigned mentors, in the two conditions were comparable to one another on demographic characteristics and on baseline scores for all measures used in this study (Tables S1 and S2).",
+        "section": "Participants",
+        "section_number": 13,
+        "sentences": [
+            "White-9.7%; other-11.9%; 85.4% low-income household), with 400 assigned to the thriving promotion condition and the remaining 406 assigned to the standard services condition.",
+            "Youth, and their assigned mentors, in the two conditions were comparable to one another on demographic characteristics and on baseline scores for all measures used in this study (Tables S1 and S2)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "In BBBSA's community mentoring program, volunteers are required to make at least a 1-year commitment; however, for a wide range of reasons, mentoring relationships often last less than this amount of time. Slightly more than one in three youths in this study (35.3%; n = 284) had their relationships with their assigned mentors end prior to 1 year, with a substantial proportion (40.5%; n = 115) of these terminations occurring within the first 6 months of the relationship. However, the rate of early termination did not differ notably by study condition (rates of closure prior to 1 year were 36% and 34.6% for standard services and thriving promotion conditions, respectively, and the proportions of these premature closures that occurred during the first 6 months were 38.3% and 42.8%). All youth whose mentoring relationships end in the BBBSA program are considered for potential rematching with a new mentor. By the end of the study, however, only a relatively small number of youth had been matched with second mentors in either the standard services (n = 29) or thriving promotion (n = 20) conditions.",
+        "section": "Duration of Mentoring Relationships",
+        "section_number": 14,
+        "sentences": [
+            "In BBBSA's community mentoring program, volunteers are required to make at least a 1-year commitment; however, for a wide range of reasons, mentoring relationships often last less than this amount of time.",
+            "Slightly more than one in three youths in this study (35.3%; n = 284) had their relationships with their assigned mentors end prior to 1 year, with a substantial proportion (40.5%; n = 115) of these terminations occurring within the first 6 months of the relationship.",
+            "However, the rate of early termination did not differ notably by study condition (rates of closure prior to 1 year were 36% and 34.6% for standard services and thriving promotion conditions, respectively, and the proportions of these premature closures that occurred during the first 6 months were 38.3% and 42.8%).",
+            "All youth whose mentoring relationships end in the BBBSA program are considered for potential rematching with a new mentor.",
+            "By the end of the study, however, only a relatively small number of youth had been matched with second mentors in either the standard services (n = 29) or thriving promotion (n = 20) conditions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "As adapted for use in the BBBS program, Step-It-Up-2-Thrive included initial training for mentors on the Step-It-Up-2-Thrive model; a brief orientation to the model for all parties (mentor, youth, parent) during the match introduction meeting; two staff-facilitated group activities for mentors and youths, one to learn about sparks and growth mindset and another focused on thriving indicators and GPS skills; guided discussions and activities for the mentor and youth focused on different aspects of the thriving model (e.g., sparks identification and exploration); staff briefings of parents on different aspects of the thriving model during support contacts with them; and a 12-month anniversary meeting for all parties (youth, mentor, parent, and MSS) to reflect on the match's engagement with the different activities and resources as well as the youth's progress in each of the targeted areas (e.g., identifying and exploring sparks). Activities were supported by a variety of resource materials (e.g., briefs for mentors on topics such as growth mindset) and were designed to be completed over a 1-year period in a sequence consistent with the Step-It-Up-2-Thrive theory of change. Prior to initiation of the study, program staff involved with implementing any of the activities or with supporting their integration into mentoring relationships (i.e., MSS, their supervisors, staff delivering mentor training and facilitating group activity sessions, and a designated implementation liaison within each affiliate) were provided with training on the Step-It-Up-2-Thrive theory of change as well as procedures for integrating the adapted Step-It-Up-2-Thrive activities and resources into the BBBSA service delivery model. Training was provided by Thrive Foundation and BBBSA staff.",
+        "section": "Intervention",
+        "section_number": 15,
+        "sentences": [
+            "As adapted for use in the BBBS program, Step-It-Up-2-Thrive included initial training for mentors on the Step-It-Up-2-Thrive model; a brief orientation to the model for all parties (mentor, youth, parent) during the match introduction meeting; two staff-facilitated group activities for mentors and youths, one to learn about sparks and growth mindset and another focused on thriving indicators and GPS skills; guided discussions and activities for the mentor and youth focused on different aspects of the thriving model (e.g., sparks identification and exploration); staff briefings of parents on different aspects of the thriving model during support contacts with them; and a 12-month anniversary meeting for all parties (youth, mentor, parent, and MSS) to reflect on the match's engagement with the different activities and resources as well as the youth's progress in each of the targeted areas (e.g., identifying and exploring sparks).",
+            "Activities were supported by a variety of resource materials (e.g., briefs for mentors on topics such as growth mindset) and were designed to be completed over a 1-year period in a sequence consistent with the Step-It-Up-2-Thrive theory of change.",
+            "Prior to initiation of the study, program staff involved with implementing any of the activities or with supporting their integration into mentoring relationships (i.e., MSS, their supervisors, staff delivering mentor training and facilitating group activity sessions, and a designated implementation liaison within each affiliate) were provided with training on the Step-It-Up-2-Thrive theory of change as well as procedures for integrating the adapted Step-It-Up-2-Thrive activities and resources into the BBBSA service delivery model.",
+            "Training was provided by Thrive Foundation and BBBSA staff."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "All of the measures used in the study were completed by youth and were administered both at the study baseline and 15-month follow-up assessments. Baseline assessments were conducted from January 2012 to March 2013. Follow-up assessments were completed as close as possible to 15 months after the date of each youth's match with a mentor.",
+        "section": "Measures",
+        "section_number": 16,
+        "sentences": [
+            "All of the measures used in the study were completed by youth and were administered both at the study baseline and 15-month follow-up assessments.",
+            "Baseline assessments were conducted from January 2012 to March 2013.",
+            "Follow-up assessments were completed as close as possible to 15 months after the date of each youth's match with a mentor."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive Youth in the thriving promotion condition responded to items asking whether they had been exposed to each of six different aspects of the",
+        "section": "Youth Experience With",
+        "section_number": 17,
+        "sentences": [
+            "Step-It-Up-2-Thrive Youth in the thriving promotion condition responded to items asking whether they had been exposed to each of six different aspects of the"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive activities in their mentoring relationships (sparks exploration and development, learning about growth mindset, thriving indicators and risk factors, GPS skills, group Step-It-Up-2-Thrive activities with other matches, and Step-It-Up-2-Thrive activities with mentor only) and, if so, how fun and helpful they found those activities (separate ratings of fun and helpfulness were made on the following 5-point scale: NO!, no, maybe, yes, YES!; as = .94 and .95 for ratings of fun and helpfulness, respectively).",
+        "section": "Youth Experience With",
+        "section_number": 18,
+        "sentences": [
+            "Step-It-Up-2-Thrive activities in their mentoring relationships (sparks exploration and development, learning about growth mindset, thriving indicators and risk factors, GPS skills, group Step-It-Up-2-Thrive activities with other matches, and Step-It-Up-2-Thrive activities with mentor only) and, if so, how fun and helpful they found those activities (separate ratings of fun and helpfulness were made on the following 5-point scale: NO!,",
+            "no, maybe, yes, YES!;",
+            "as = .94 and .95 for ratings of fun and helpfulness, respectively)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "A measure created for this study asked youth to report the extent to which they received support from adults for thriving. Items began with the general prompt \"How often do adults in your life do the following . . .\" with separate subscales assessing adult support to: identify and explore personal interests or talents (three items, e.g., \"Help you find or discover your talents, interests, or hobbies\"; as = .79 and .84, for Time 1 and Time 2, respectively), develop a growth mindset (four items, e.g., \"Encourage YOU to believe you can become smart at anything you want with practice and effort\"; as = .77 and .85), attain the 6Cs of positive development (nine items, e.g., \"Help you understand and manage your feelings\"; as = .87 and .91), and work effectively toward personal goals (four items, e.g., \"Help you make plans to reach your goals\"; as = .81 and .88). Care was taken in all items to avoid terminology from the Step-It-Up-2-Thrive framework itself (e.g., sparks, growth mindset).",
+        "section": "Adult Support for Thriving",
+        "section_number": 19,
+        "sentences": [
+            "A measure created for this study asked youth to report the extent to which they received support from adults for thriving.",
+            "Items began with the general prompt \"How often do adults in your life do the following . . .\"",
+            "with separate subscales assessing adult support to: identify and explore personal interests or talents (three items, e.g., \"Help you find or discover your talents, interests, or hobbies\"; as = .79 and .84, for Time 1 and Time 2, respectively), develop a growth mindset (four items, e.g., \"Encourage YOU to believe you can become smart at anything you want with practice and effort\"; as = .77 and .85), attain the 6Cs of positive development (nine items, e.g., \"Help you understand and manage your feelings\"; as = .87 and .91), and work effectively toward personal goals (four items, e.g., \"Help you make plans to reach your goals\"; as = .81 and .88).",
+            "Care was taken in all items to avoid terminology from the Step-It-Up-2-Thrive framework itself (e.g., sparks, growth mindset)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Measures also assessed separately each of the four domains targeted by the thriving promotion condition. Sparks was assessed using a eight-item scale adapted from Benson and Scales (2009) that asked about the extent to which the youth felt strongly about a talent, interest, or hobby and devoted time and effort to it (as = .79 and .82). Growth mindset was assessed using scales developed by Dweck (1999) focusing on beliefs of \"fixed\" intelligence (three items; as = .77 and .84) and \"fixed\" personality traits (four items; as = .78 and .84), respectively, as recommended for longitudinal research by that author. A modified version of the 17-item Very Short Form of the 5Cs of Positive Youth Development scale (Geldhof et al., 2014) , with the addition of one item to assess the sixth \"C\" of Contribution, was used to assess the youth's status on these indicators of thriving (as = .83 and .85). Finally, skills for goal setting and pursuit were assessed with a modified version of the nine-item SOC Measure of Intentional Self-Regulation (Gestsdottir & Lerner, 2007 ; as = .57 and .71).",
+        "section": "Youth Thriving",
+        "section_number": 20,
+        "sentences": [
+            "Measures also assessed separately each of the four domains targeted by the thriving promotion condition.",
+            "Sparks was assessed using a eight-item scale adapted from Benson and Scales (2009) that asked about the extent to which the youth felt strongly about a talent, interest, or hobby and devoted time and effort to it (as = .79 and .82).",
+            "Growth mindset was assessed using scales developed by Dweck (1999) focusing on beliefs of \"fixed\" intelligence (three items; as = .77 and .84) and \"fixed\" personality traits (four items; as = .78 and .84), respectively, as recommended for longitudinal research by that author.",
+            "A modified version of the 17-item Very Short Form of the 5Cs of Positive Youth Development scale (Geldhof et al., 2014) , with the addition of one item to assess the sixth \"C\" of Contribution, was used to assess the youth's status on these indicators of thriving (as = .83 and .85).",
+            "Finally, skills for goal setting and pursuit were assessed with a modified version of the nine-item SOC Measure of Intentional Self-Regulation (Gestsdottir & Lerner, 2007 ; as = .57 and .71)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Youth problem behaviors were assessed with the five-item child self-report version of the Conduct Problems subscale of the Strengths and Difficulties Questionnaire for ages 11-17 (Goodman, 2001 ; as = .59 and .65) as well as the number of behaviors the youth endorsed having engaged in during the past year on an expanded, 22-item version of the Self-reported Delinquency Scale (Piquero, Macintosh, & Hickman, 2002 ; as = .83). Scores on the measure of delinquent behavior had substantial positive skew at both time points owing to small numbers of youth reporting high levels of delinquent behavior. Scores on the measure, thus, were transformed (via square root) to avoid having extreme values exert undue influence on findings.",
+        "section": "Youth Problem Behavior",
+        "section_number": 21,
+        "sentences": [
+            "Youth problem behaviors were assessed with the five-item child self-report version of the Conduct Problems subscale of the Strengths and Difficulties Questionnaire for ages 11-17 (Goodman, 2001 ; as = .59 and .65) as well as the number of behaviors the youth endorsed having engaged in during the past year on an expanded, 22-item version of the Self-reported Delinquency Scale (Piquero, Macintosh, & Hickman, 2002 ; as = .83).",
+            "Scores on the measure of delinquent behavior had substantial positive skew at both time points owing to small numbers of youth reporting high levels of delinquent behavior.",
+            "Scores on the measure, thus, were transformed (via square root) to avoid having extreme values exert undue influence on findings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Prior to conducting analyses, missing data on study measures were imputed using the multiple imputation procedure module of IBM SPSS software, Version 23 (Armonk, NY). Imputation was used to create five different data sets, with results aggregated across the data sets according to procedures recommended by Rubin (1987) .",
+        "section": "Analysis",
+        "section_number": 22,
+        "sentences": [
+            "Prior to conducting analyses, missing data on study measures were imputed using the multiple imputation procedure module of IBM SPSS software, Version 23 (Armonk, NY).",
+            "Imputation was used to create five different data sets, with results aggregated across the data sets according to procedures recommended by Rubin (1987) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "To address overall effects of the Step-It-Up-2-Thrive activities on youth outcomes, intent-to-treat analyses were conducted (i.e., comparing all youth assigned to standard services condition with all youth assigned to thriving promotion condition, regardless of their level of actual exposure to the",
+        "section": "Analysis",
+        "section_number": 23,
+        "sentences": [
+            "To address overall effects of the Step-It-Up-2-Thrive activities on youth outcomes, intent-to-treat analyses were conducted (i.e., comparing all youth assigned to standard services condition with all youth assigned to thriving promotion condition, regardless of their level of actual exposure to the"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive activities in this condition). Briefly, for each outcome measure, a multiple regression analysis was conducted to examine study condition (thriving promotion vs. standard services) as a predictor of the outcome, controlling for baseline scores on all outcome measures, mentoring agency (using 9 dummy variables to represent the 10 agencies), and youth and mentor background variables (youth gender, family low-income status, single-vs. two-parent household, status as child of an incarcerated parent, level of involvement in organized outof-school activities, youth and mentor age and race or ethnicity, and a measure of the mentor's reported prior experience supporting youth with thriving in each area targeted by the Step-It-Up-2-Thrive activities). A sensitivity analysis estimated effects of the thriving promotion condition without control variables.",
+        "section": "Analysis",
+        "section_number": 24,
+        "sentences": [
+            "Step-It-Up-2-Thrive activities in this condition).",
+            "Briefly, for each outcome measure, a multiple regression analysis was conducted to examine study condition (thriving promotion vs. standard services) as a predictor of the outcome, controlling for baseline scores on all outcome measures, mentoring agency (using 9 dummy variables to represent the 10 agencies), and youth and mentor background variables (youth gender, family low-income status, single-vs.",
+            "two-parent household, status as child of an incarcerated parent, level of involvement in organized outof-school activities, youth and mentor age and race or ethnicity, and a measure of the mentor's reported prior experience supporting youth with thriving in each area targeted by the Step-It-Up-2-Thrive activities).",
+            "A sensitivity analysis estimated effects of the thriving promotion condition without control variables."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Next, responses from youth in the thriving promotion condition regarding their experiences with each of the six core facets of the Step-It-Up-2-Thrive activities were examined. Youth who reported participation in at least three of the six facets with accompanying reports of having found the activities involved enjoyable or helpful were designated as having a relatively high level of positive engagement in the thriving promotion activities. Logistic regression analyses examined affiliate, youth and mentor demographic and background characteristics, duration of the youth's initial mentoring relationship, and baseline scores on outcome measures as potential predictors of relatively high positive engagement in the thriving promotion activities.",
+        "section": "Analysis",
+        "section_number": 25,
+        "sentences": [
+            "Next, responses from youth in the thriving promotion condition regarding their experiences with each of the six core facets of the Step-It-Up-2-Thrive activities were examined.",
+            "Youth who reported participation in at least three of the six facets with accompanying reports of having found the activities involved enjoyable or helpful were designated as having a relatively high level of positive engagement in the thriving promotion activities.",
+            "Logistic regression analyses examined affiliate, youth and mentor demographic and background characteristics, duration of the youth's initial mentoring relationship, and baseline scores on outcome measures as potential predictors of relatively high positive engagement in the thriving promotion activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Finally, structural equation modeling (SEM) was used to evaluate a path model informed by the",
+        "section": "Analysis",
+        "section_number": 26,
+        "sentences": [
+            "Finally, structural equation modeling (SEM) was used to evaluate a path model informed by the"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive theory of change ( Figure 2 ). These analyses examined whether the thriving promotion activities, when incorporated substantially into the mentoring relationship with a favorable response from the youth, were predictive of reports of increased support for thriving from adults. The model further examined whether gains in adult support for thriving were associated with improvements in both intrapersonal resources for thriving (e.g., sparks) and, in turn, reduced problem behaviors. Procedures employed previously in intervention research in developmental psychology (Hill, Brooks-Gunn, & Waldfogel, 2003) were followed to identify the matched comparison group. The first step in this process was to apply the results of the logistic regression analysis described previously to youth in the standard services condition, thereby in effect yielding estimates of the likelihood that each youth would have been a youth to report high positive engagement with the Step-It-Up-2-Thrive activities had he or she been assigned to that study condition. Next, these estimated likelihoods were used to identify a well-matched youth in the standard services condition for each youth in the high engagement subgroup. Matching was carried out using the Case Control Matching module of SPSS, with a match requiring a difference of .1 or less between the estimated likelihood of high engagement for a standard service youth and the corresponding estimate for a youth in the high engagement subgroup. Matching was performed without replacement (i.e., each youth in the standard services condition was eligible to serve as a match for only one youth in the high engagement subgroup). Suitable matches were able to be identified for all 150 youth in the high engagement subgroup, with the youth in the high engagement subgroup and their matched counterparts in the standard services condition comparable to one another on study measures at baseline (ps > .20 for independent groups t-tests; see Table S3 ). The two groups also did not differ on match duration (represented by the three categories described later), v 2 (2) = 1.06, p = .58. A further feature of the SEM modeling analyses involved controlling for baseline scores on all outcome measures, thereby allowing findings to better capture change over time on the outcomes. SEM analyses also were conducted to explore variation in findings when using either lower or higher thresholds for positive engagement with Step-It-Up-2-Thrive activities (i.e., participation in and favorable ratings of 1, 2, 4, 5, or all 6 activities) as well as when allowing positive engagement to require only that the youth had a favorable experience with a particular type of activity (e.g., sparks exploration). For each of these analyses, the process described earlier was used to establish a suitable matched comparison group of youth in the standard services condition. Further details regarding study analyses are included in Supporting Information.",
+        "section": "Analysis",
+        "section_number": 27,
+        "sentences": [
+            "Step-It-Up-2-Thrive theory of change ( Figure 2 ).",
+            "These analyses examined whether the thriving promotion activities, when incorporated substantially into the mentoring relationship with a favorable response from the youth, were predictive of reports of increased support for thriving from adults.",
+            "The model further examined whether gains in adult support for thriving were associated with improvements in both intrapersonal resources for thriving (e.g., sparks) and, in turn, reduced problem behaviors.",
+            "Procedures employed previously in intervention research in developmental psychology (Hill, Brooks-Gunn, & Waldfogel, 2003) were followed to identify the matched comparison group.",
+            "The first step in this process was to apply the results of the logistic regression analysis described previously to youth in the standard services condition, thereby in effect yielding estimates of the likelihood that each youth would have been a youth to report high positive engagement with the Step-It-Up-2-Thrive activities had he or she been assigned to that study condition.",
+            "Next, these estimated likelihoods were used to identify a well-matched youth in the standard services condition for each youth in the high engagement subgroup.",
+            "Matching was carried out using the Case Control Matching module of SPSS, with a match requiring a difference of .1 or less between the estimated likelihood of high engagement for a standard service youth and the corresponding estimate for a youth in the high engagement subgroup.",
+            "Matching was performed without replacement (i.e., each youth in the standard services condition was eligible to serve as a match for only one youth in the high engagement subgroup).",
+            "Suitable matches were able to be identified for all 150 youth in the high engagement subgroup, with the youth in the high engagement subgroup and their matched counterparts in the standard services condition comparable to one another on study measures at baseline (ps > .20 for independent groups t-tests; see Table S3 ).",
+            "The two groups also did not differ on match duration (represented by the three categories described later), v 2 (2) = 1.06, p = .58.",
+            "A further feature of the SEM modeling analyses involved controlling for baseline scores on all outcome measures, thereby allowing findings to better capture change over time on the outcomes.",
+            "SEM analyses also were conducted to explore variation in findings when using either lower or higher thresholds for positive engagement with Step-It-Up-2-Thrive activities (i.e., participation in and favorable ratings of 1, 2, 4, 5, or all 6 activities) as well as when allowing positive engagement to require only that the youth had a favorable experience with a particular type of activity (e.g., sparks exploration).",
+            "For each of these analyses, the process described earlier was used to establish a suitable matched comparison group of youth in the standard services condition.",
+            "Further details regarding study analyses are included in Supporting Information."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The intent-to-treat analyses revealed no evidence of effects of the thriving promotion condition on youth outcomes (all ps > .25), with effect sizes uniformly small in magnitude and inconsistent in direction both with and without control variables (Table 1) .",
+        "section": "Results",
+        "section_number": 28,
+        "sentences": [
+            "The intent-to-treat analyses revealed no evidence of effects of the thriving promotion condition on youth outcomes (all ps > .25), with effect sizes uniformly small in magnitude and inconsistent in direction both with and without control variables (Table 1) ."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Of the youth in the thriving promotion condition who were surveyed at follow-up, the percentages reporting any involvement and, of those, the percentages reporting positive involvement (yes or YES! on rating of fun or helpfulness), respectively, in each of the six areas of the Step-It-Up-2-Thrive activities were as follows: sparks exploration (62.8%, 84.5%); growth mindset (55.9%, 76.3%); thriving and risk assessment (55.9%, 76.9%); GPS skills for goal pursuit (50.5%, 77.9%); group activities (54.0%, 76.6%); and activities with mentor only (58.7%, 79.2%). The percentages of youth who reported favorable engagement in differing numbers of the six areas (i.e., a report of involvement in the relevant activities and an accompanying rating of yes or YES! for either their fun or helpfulness) were as follows: 0 (38.8%); 1 (6.8%); 2 (5.7%); 3 (7.5%); 4 (7.8%); 5 (11.0%); and 6 (22.4%). For subsequent analyses, youth reporting positive engagement in three or more areas were considered to have a relatively high level of positive engagement in the Step-It-Up-2-Thrive activities.",
+        "section": "Results",
+        "section_number": 29,
+        "sentences": [
+            "Of the youth in the thriving promotion condition who were surveyed at follow-up, the percentages reporting any involvement and, of those, the percentages reporting positive involvement (yes or YES!",
+            "on rating of fun or helpfulness), respectively, in each of the six areas of the Step-It-Up-2-Thrive activities were as follows: sparks exploration (62.8%, 84.5%); growth mindset (55.9%, 76.3%); thriving and risk assessment (55.9%, 76.9%); GPS skills for goal pursuit (50.5%, 77.9%); group activities (54.0%, 76.6%); and activities with mentor only (58.7%, 79.2%).",
+            "The percentages of youth who reported favorable engagement in differing numbers of the six areas (i.e., a report of involvement in the relevant activities and an accompanying rating of yes or YES!",
+            "for either their fun or helpfulness) were as follows: 0 (38.8%); 1 (6.8%); 2 (5.7%); 3 (7.5%); 4 (7.8%); 5 (11.0%); and 6 (22.4%).",
+            "For subsequent analyses, youth reporting positive engagement in three or more areas were considered to have a relatively high level of positive engagement in the Step-It-Up-2-Thrive activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Overall, predictors were able to account for slightly over one-third of the variation in whether or not youth in the thriving promotion condition had a relatively high level of positive engagement with the Step-It-Up-2-Thrive activities (Nagelkerke pseudo-R 2 = .344). The strongest predictive factor was the duration of the youth's mentoring relationship (Nagelkerke pseudo-R 2 = .091), with a relationship lasting 6 months or less or one ending after 6 months, but before the 1-year mark, each predicting less likelihood of high positive engagement. However, independent of match length, both BBBS affiliate and baseline scores on certain measures were significant or nearly significant (p < .10) predictors. Of note, higher initial youth reported levels of support from adults with respect to both sparks exploration and the 6Cs of positive youth development predicted greater likelihood of positive engagement. Complete results of these analyses are included in Table S4 .",
+        "section": "Results",
+        "section_number": 30,
+        "sentences": [
+            "Overall, predictors were able to account for slightly over one-third of the variation in whether or not youth in the thriving promotion condition had a relatively high level of positive engagement with the Step-It-Up-2-Thrive activities (Nagelkerke pseudo-R 2 = .344).",
+            "The strongest predictive factor was the duration of the youth's mentoring relationship (Nagelkerke pseudo-R 2 = .091), with a relationship lasting 6 months or less or one ending after 6 months, but before the 1-year mark, each predicting less likelihood of high positive engagement.",
+            "However, independent of match length, both BBBS affiliate and baseline scores on certain measures were significant or nearly significant (p < .10) predictors.",
+            "Of note, higher initial youth reported levels of support from adults with respect to both sparks exploration and the 6Cs of positive youth development predicted greater likelihood of positive engagement.",
+            "Complete results of these analyses are included in Table S4 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "As shown in Figure 2 , in SEM analyses all paths were statistically significant and in expected directions. The positive path from engagement with the Step-It-Up-2-Thrive activities to thriving support from adults indicates that those in the thriving promotion condition with a relatively high level of positive engagement in the activities showed improvement in their reported levels of support for thriving from adults over the 15-month study period relative to those in the standard services condition who were similar to these youth on baseline study measures. It can also be seen that positive engagement with the Step-It-Up-2-Thrive activities was linked, via improved reports of support from adults for thriving, with increased youth reports of intrapersonal resources for thriving and, in turn, Note. N = 806. Regression coefficients are for a binary variable representing study condition with Thriving Promotion = 1 and Standard Services = 0. The standard errors for coefficients are in parentheses. Effect sizes (Cohen's d) were computed by dividing the regression coefficient (which represented the difference between mean scores on the outcome for Thriving Promotion and Standard Services conditions, with or without adjustment for control variables) by the pooled standard deviation for the outcome (Lipsey & Wilson, 2001 ) and are in the direction of more favorable scores for youth in the Thriving Promotion Condition (e.g., more growth mindset, less conduct problems). SOC = Selection, Optimization, and Compensation. a Higher scores on this measure indicate greater fixed beliefs (i.e., lower growth mindset).",
+        "section": "Results",
+        "section_number": 31,
+        "sentences": [
+            "As shown in Figure 2 , in SEM analyses all paths were statistically significant and in expected directions.",
+            "The positive path from engagement with the Step-It-Up-2-Thrive activities to thriving support from adults indicates that those in the thriving promotion condition with a relatively high level of positive engagement in the activities showed improvement in their reported levels of support for thriving from adults over the 15-month study period relative to those in the standard services condition who were similar to these youth on baseline study measures.",
+            "It can also be seen that positive engagement with the Step-It-Up-2-Thrive activities was linked, via improved reports of support from adults for thriving, with increased youth reports of intrapersonal resources for thriving and, in turn, Note.",
+            "N = 806.",
+            "Regression coefficients are for a binary variable representing study condition with Thriving Promotion = 1 and Standard Services = 0.",
+            "The standard errors for coefficients are in parentheses.",
+            "Effect sizes (Cohen's d) were computed by dividing the regression coefficient (which represented the difference between mean scores on the outcome for Thriving Promotion and Standard Services conditions, with or without adjustment for control variables) by the pooled standard deviation for the outcome (Lipsey & Wilson, 2001 ) and are in the direction of more favorable scores for youth in the Thriving Promotion Condition (e.g., more growth mindset, less conduct problems).",
+            "SOC = Selection, Optimization, and Compensation.",
+            "a Higher scores on this measure indicate greater fixed beliefs (i.e., lower growth mindset)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "reduced reports of conduct problems. Indirect model pathways linking positive engagement with",
+        "section": "Results",
+        "section_number": 32,
+        "sentences": [
+            "reduced reports of conduct problems.",
+            "Indirect model pathways linking positive engagement with"
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive to both types of youth outcomes were statistically significant, albeit small in magnitude.",
+        "section": "Results",
+        "section_number": 33,
+        "sentences": [
+            "Step-It-Up-2-Thrive to both types of youth outcomes were statistically significant, albeit small in magnitude."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "In the exploratory SEM analyses that varied the number of required activities for positive engagement, the standardized path estimates from this variable to increased adult support for thriving were as follows: b = .09, ns; b = .10, p < .10; b = .18, p < .01; b = .16, p < .05; and b = .26, p < .01, for 1, 2, 4, 5, or all 6 activities, respectively. Path estimates corresponding to specific activities analyzed separately were as follows: sparks exploration (b = .06, ns); growth mindset (b = .22, p < .01); thriving and risk assessment (b = .10, ns); GPS skills for goal pursuit (b = .18, p < .05); activities with mentor only (b = .16, p < .05); and group activities (b = .15, p < .05).",
+        "section": "Results",
+        "section_number": 34,
+        "sentences": [
+            "In the exploratory SEM analyses that varied the number of required activities for positive engagement, the standardized path estimates from this variable to increased adult support for thriving were as follows: b = .09, ns; b = .10, p < .10; b = .18, p < .01; b = .16, p < .05; and b = .26, p < .01, for 1, 2, 4, 5, or all 6 activities, respectively.",
+            "Path estimates corresponding to specific activities analyzed separately were as follows: sparks exploration (b = .06, ns); growth mindset (b = .22, p < .01); thriving and risk assessment (b = .10, ns); GPS skills for goal pursuit (b = .18, p < .05); activities with mentor only (b = .16, p < .05); and group activities (b = .15, p < .05)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "This study provides insights from a rigorous, multisite evaluation of the integration of thriving promotion activities derived from developmental science into the BBBSA community-based mentoring program. Intent-to-treat analyses yielded no evidence that youth randomly assigned to the thriving promotion condition had incrementally better outcomes relative to youth assigned to receive standard mentoring. The absence of any overall differences between the two groups has many potential explanations, ranging from the implementation and uptake of the intended activities to certain study design parameters noted below.",
+        "section": "Discussion",
+        "section_number": 35,
+        "sentences": [
+            "This study provides insights from a rigorous, multisite evaluation of the integration of thriving promotion activities derived from developmental science into the BBBSA community-based mentoring program.",
+            "Intent-to-treat analyses yielded no evidence that youth randomly assigned to the thriving promotion condition had incrementally better outcomes relative to youth assigned to receive standard mentoring.",
+            "The absence of any overall differences between the two groups has many potential explanations, ranging from the implementation and uptake of the intended activities to certain study design parameters noted below."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "As would be expected, implementation of prevention and promotion programs has an important bearing on overall program effects as well as benefits for individual participants (Durlak & DuPre, 2008) . Likewise, for mentoring programs, monitoring of implementation is associated with greater effects (DuBois et al., 2002) . Overall, only about half of the youth in the thriving promotion condition reported exposure to three or more of the six primary concepts and activities derived from the",
+        "section": "Discussion",
+        "section_number": 36,
+        "sentences": [
+            "As would be expected, implementation of prevention and promotion programs has an important bearing on overall program effects as well as benefits for individual participants (Durlak & DuPre, 2008) .",
+            "Likewise, for mentoring programs, monitoring of implementation is associated with greater effects (DuBois et al., 2002) .",
+            "Overall, only about half of the youth in the thriving promotion condition reported exposure to three or more of the six primary concepts and activities derived from the"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive model that were intended for integration into their mentoring relationships. In two other studies exploring enhancements to the BBBS program, only 56% of mentors participated in additional postmatch training (Courser et al., 2014) and only 24% of mentors participated in three or more of six training sessions (Peaselee & Teye, 2015) . The level of uptake in this study, although not necessarily atypical for research involving this particular program, or community-based interventions more generally (Durlak & DuPre, 2008) , does underscore the difficulty that can be encountered in bringing developmental science to realworld program settings.",
+        "section": "Discussion",
+        "section_number": 37,
+        "sentences": [
+            "Step-It-Up-2-Thrive model that were intended for integration into their mentoring relationships.",
+            "In two other studies exploring enhancements to the BBBS program, only 56% of mentors participated in additional postmatch training (Courser et al., 2014) and only 24% of mentors participated in three or more of six training sessions (Peaselee & Teye, 2015) .",
+            "The level of uptake in this study, although not necessarily atypical for research involving this particular program, or community-based interventions more generally (Durlak & DuPre, 2008) , does underscore the difficulty that can be encountered in bringing developmental science to realworld program settings."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "BBBSA was selected as a collaborating partner for the study given the consistent application of its national service delivery model across affiliates and its demonstrated effectiveness in a randomized trial with an unserved waitlist control group (Grossman & Tierney, 1998) . Care was taken to identify highcapacity, high-performing BBBSA affiliates as sites for the research. Three of these affiliates participated in adapting the Step-It-Up-2-Thrive model for use in mentoring. However, the timeline imposed on a grant-funded project provided only limited opportunity for piloting and refinement of the thriving promotion activities as adapted for use in BBBSA. Nor did it allow for in-depth training of the program staff responsible for implementation of key activities (e.g., mentor training). Efforts to support implementation of Step-It-Up-2-Thrive with fidelity included the following: (a) designation of a liaison within each affiliate to oversee implementation and provide coaching to the staff involved; (b) a full-time intervention specialist with BBBSA who supported the implementation liaisons; (c) a scorecard for monthly tracking of implementation rates for different activities both within and across the participating affiliates; and (d) where feasible, providing alternatives to primary intended delivery formats (e.g., individual training for those mentors who were unable to attend a group training session).",
+        "section": "Discussion",
+        "section_number": 38,
+        "sentences": [
+            "BBBSA was selected as a collaborating partner for the study given the consistent application of its national service delivery model across affiliates and its demonstrated effectiveness in a randomized trial with an unserved waitlist control group (Grossman & Tierney, 1998) .",
+            "Care was taken to identify highcapacity, high-performing BBBSA affiliates as sites for the research.",
+            "Three of these affiliates participated in adapting the Step-It-Up-2-Thrive model for use in mentoring.",
+            "However, the timeline imposed on a grant-funded project provided only limited opportunity for piloting and refinement of the thriving promotion activities as adapted for use in BBBSA.",
+            "Nor did it allow for in-depth training of the program staff responsible for implementation of key activities (e.g., mentor training).",
+            "Efforts to support implementation of Step-It-Up-2-Thrive with fidelity included the following: (a) designation of a liaison within each affiliate to oversee implementation and provide coaching to the staff involved; (b) a full-time intervention specialist with BBBSA who supported the implementation liaisons; (c) a scorecard for monthly tracking of implementation rates for different activities both within and across the participating affiliates; and (d) where feasible, providing alternatives to primary intended delivery formats (e.g., individual training for those mentors who were unable to attend a group training session)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "These efforts notwithstanding, there may be inherent challenges to delivering a multifaceted intervention such as Step-It-Up-2-Thrive in the context of any youth-serving program that relies on volunteers as the main providers of the intended activities or supports. Although affiliate staff were tasked with training and supporting volunteers to use thriving promotion strategies in their interactions with their mentees, this may not always have been sufficient to motivate or prepare mentors to do so effectively. Staff, moreover, lacked authority to compel adherence in the manner that would be typical in a paid employment arrangement.",
+        "section": "Discussion",
+        "section_number": 39,
+        "sentences": [
+            "These efforts notwithstanding, there may be inherent challenges to delivering a multifaceted intervention such as Step-It-Up-2-Thrive in the context of any youth-serving program that relies on volunteers as the main providers of the intended activities or supports.",
+            "Although affiliate staff were tasked with training and supporting volunteers to use thriving promotion strategies in their interactions with their mentees, this may not always have been sufficient to motivate or prepare mentors to do so effectively.",
+            "Staff, moreover, lacked authority to compel adherence in the manner that would be typical in a paid employment arrangement."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The premature ending of a substantial proportion of the mentoring relationships in the study also clearly impeded youth exposure to the thriving promotion activities. Early relationship endings, furthermore, curtailed opportunities for practice and reinforcement of the strategies being introduced and, depending on the circumstances involved, may have diminished a youth's enthusiasm for embracing those strategies. Of additional note is that matches in the thriving promotion condition were slightly more likely than those in the standard services condition to close within the first 6 months (43% vs. 38%). Although this difference was not statistically significant, it could signify that the activities somehow detracted from the early stages of relationship development for at least some matches. Future research could investigate the potential advantages of introducing structured thriving promotion activities after the mentor-mentee relationship has had time to become established.",
+        "section": "Discussion",
+        "section_number": 40,
+        "sentences": [
+            "The premature ending of a substantial proportion of the mentoring relationships in the study also clearly impeded youth exposure to the thriving promotion activities.",
+            "Early relationship endings, furthermore, curtailed opportunities for practice and reinforcement of the strategies being introduced and, depending on the circumstances involved, may have diminished a youth's enthusiasm for embracing those strategies.",
+            "Of additional note is that matches in the thriving promotion condition were slightly more likely than those in the standard services condition to close within the first 6 months (43% vs. 38%).",
+            "Although this difference was not statistically significant, it could signify that the activities somehow detracted from the early stages of relationship development for at least some matches.",
+            "Future research could investigate the potential advantages of introducing structured thriving promotion activities after the mentor-mentee relationship has had time to become established."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Controlling for match length, the analyses revealed significant between-affiliate variability in youth engagement with the thriving promotion activities. Organizational factors are likely responsible for some of this variation given that all affiliates used the same Step-It-Up-2-Thrive materials and the analysis controlled for a variety of youth and mentor characteristics. Informal observations during the course of the study suggest that one distinguishing feature among affiliates may have been the manner in which the thriving promotion activities were viewed by staff. Some affiliates, for example, seemed to present the activities to mentors as something that could enhance their interactions with youth and add value to their volunteer experience; in contrast, others, it appeared, tended to view the activities as an added burden for volunteers.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "Controlling for match length, the analyses revealed significant between-affiliate variability in youth engagement with the thriving promotion activities.",
+            "Organizational factors are likely responsible for some of this variation given that all affiliates used the same Step-It-Up-2-Thrive materials and the analysis controlled for a variety of youth and mentor characteristics.",
+            "Informal observations during the course of the study suggest that one distinguishing feature among affiliates may have been the manner in which the thriving promotion activities were viewed by staff.",
+            "Some affiliates, for example, seemed to present the activities to mentors as something that could enhance their interactions with youth and add value to their volunteer experience; in contrast, others, it appeared, tended to view the activities as an added burden for volunteers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The analysis also showed that relatively high engagement in the Step-It-Up-2-Thrive activities was more common among youth who at the outset reported relatively greater support from adults for thriving. This finding suggests the possibility that challenges to implementation may have hindered the engagement of youth with relatively few preexisting supports for at least two important aspects of thriving (sparks identification and exploration and cultivation of the 6Cs of positive youth development). Youth with less favorable environmental circumstances are among those indicated to benefit most from mentoring (DuBois et al., 2002 (DuBois et al., , 2011 , so any barriers to the engagement of such youth in",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "The analysis also showed that relatively high engagement in the Step-It-Up-2-Thrive activities was more common among youth who at the outset reported relatively greater support from adults for thriving.",
+            "This finding suggests the possibility that challenges to implementation may have hindered the engagement of youth with relatively few preexisting supports for at least two important aspects of thriving (sparks identification and exploration and cultivation of the 6Cs of positive youth development).",
+            "Youth with less favorable environmental circumstances are among those indicated to benefit most from mentoring (DuBois et al., 2002 (DuBois et al., , 2011 , so any barriers to the engagement of such youth in"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Step-It-Up-2-Thrive activities could have had a disproportionate impact on estimated effects.",
+        "section": "Discussion",
+        "section_number": 43,
+        "sentences": [
+            "Step-It-Up-2-Thrive activities could have had a disproportionate impact on estimated effects."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "With respect to study design parameters, the youth in the thriving promotion condition were compared with those who received standard mentoring within the same program, thereby setting a high bar for demonstrating effects of the thriving promotion activities. Another study design feature, the within-affiliate division of staff into thriving promotion or standard services conditions, meant that affiliates could not fully embrace the new activities throughout their program operations. In addition, the random assignment of staff to the thriving promotion condition precluded intentional use of the most capable and experienced staff to deliver the enhancement. Finally, assigning matches to condition within affiliates increased the potential for cross-group contamination as a source of reduced effects of the thriving promotion activities.",
+        "section": "Discussion",
+        "section_number": 44,
+        "sentences": [
+            "With respect to study design parameters, the youth in the thriving promotion condition were compared with those who received standard mentoring within the same program, thereby setting a high bar for demonstrating effects of the thriving promotion activities.",
+            "Another study design feature, the within-affiliate division of staff into thriving promotion or standard services conditions, meant that affiliates could not fully embrace the new activities throughout their program operations.",
+            "In addition, the random assignment of staff to the thriving promotion condition precluded intentional use of the most capable and experienced staff to deliver the enhancement.",
+            "Finally, assigning matches to condition within affiliates increased the potential for cross-group contamination as a source of reduced effects of the thriving promotion activities."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "In contrast to the lack of effects in the intentto-treat analyses, a more encouraging pattern of results emerged when focusing on the subgroup of youth who reported a relatively high level of positive engagement with the targeted Step-It-Up-2-Thrive activities and concepts. The greater improvement that such youth exhibited in their reported levels of support for thriving from adults, compared with their matched counterparts in the standard mentoring group, supports the idea that intentional thriving promotion strategies have potential to be consequential for young persons' development. Consistent with the theoretical importance of relational support from caring, competent adults for helping youth to thrive (Scales et al., 2011) , gains in reported levels of adult support were predictive of youth reporting improved levels of personal resources for thriving. Increased resources for thriving, in turn, were linked to a lessening of negative behaviors in form of conduct problems and delinquency. This aspect of the study's findings supports basic tenets of Lerner et al. (2010) theoretical model in which adult supports can foster thriving in adolescence and, in turn, reduce problem behaviors. The mediational model tested was relatively complex and interpretation should take into account that using data from only two time points means it is not possible to draw strong causal conclusions. However, taken as a whole, the present findings are consistent with the potential to initiate a positive developmental cascade (Masten & Cicchetti, 2010) when an intervention based on developmental science is integrated into an existing youth-serving program.",
+        "section": "Discussion",
+        "section_number": 45,
+        "sentences": [
+            "In contrast to the lack of effects in the intentto-treat analyses, a more encouraging pattern of results emerged when focusing on the subgroup of youth who reported a relatively high level of positive engagement with the targeted Step-It-Up-2-Thrive activities and concepts.",
+            "The greater improvement that such youth exhibited in their reported levels of support for thriving from adults, compared with their matched counterparts in the standard mentoring group, supports the idea that intentional thriving promotion strategies have potential to be consequential for young persons' development.",
+            "Consistent with the theoretical importance of relational support from caring, competent adults for helping youth to thrive (Scales et al., 2011) , gains in reported levels of adult support were predictive of youth reporting improved levels of personal resources for thriving.",
+            "Increased resources for thriving, in turn, were linked to a lessening of negative behaviors in form of conduct problems and delinquency.",
+            "This aspect of the study's findings supports basic tenets of Lerner et al. (2010) theoretical model in which adult supports can foster thriving in adolescence and, in turn, reduce problem behaviors.",
+            "The mediational model tested was relatively complex and interpretation should take into account that using data from only two time points means it is not possible to draw strong causal conclusions.",
+            "However, taken as a whole, the present findings are consistent with the potential to initiate a positive developmental cascade (Masten & Cicchetti, 2010) when an intervention based on developmental science is integrated into an existing youth-serving program."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "The finding in our exploratory analyses that positive engagement in the full complement of intended activities exhibited a substantially stronger association with improved adult supports for thriving (and thus, indirectly, increased thriving and reduced problem behavior) is also noteworthy. This finding aligns with the underlying theory of change in which gains in different facets of thriving are expected to be interdependent. Results of these analyses also suggest that activities focused on two particular aspects of thriving, growth mindset and skills for effectively pursuing goals, may have been particularly beneficial and, as such, offer useful clues as to the potentially most potent ingredients of the Step-It-Up-2-Thrive model within a mentoring context.",
+        "section": "Discussion",
+        "section_number": 46,
+        "sentences": [
+            "The finding in our exploratory analyses that positive engagement in the full complement of intended activities exhibited a substantially stronger association with improved adult supports for thriving (and thus, indirectly, increased thriving and reduced problem behavior) is also noteworthy.",
+            "This finding aligns with the underlying theory of change in which gains in different facets of thriving are expected to be interdependent.",
+            "Results of these analyses also suggest that activities focused on two particular aspects of thriving, growth mindset and skills for effectively pursuing goals, may have been particularly beneficial and, as such, offer useful clues as to the potentially most potent ingredients of the Step-It-Up-2-Thrive model within a mentoring context."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "35038",
+        "text": "Formal youth mentoring programs exist to intentionally replicate the types of naturally occurring supportive adult relationships that developmental research has demonstrated to be so important for healthy youth outcomes (Rhodes, 2002) . Such programs are natural candidates for incorporating specific principles and strategies that developmental science suggests as pivotal mechanisms in these relationships, and much can be learned through this application of science to practice when rigorous research attends to both the process and outcome.",
+        "section": "Discussion",
+        "section_number": 47,
+        "sentences": [
+            "Formal youth mentoring programs exist to intentionally replicate the types of naturally occurring supportive adult relationships that developmental research has demonstrated to be so important for healthy youth outcomes (Rhodes, 2002) .",
+            "Such programs are natural candidates for incorporating specific principles and strategies that developmental science suggests as pivotal mechanisms in these relationships, and much can be learned through this application of science to practice when rigorous research attends to both the process and outcome."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

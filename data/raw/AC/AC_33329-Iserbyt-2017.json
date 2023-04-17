@@ -1,0 +1,565 @@
+[
+    {
+        "doc_id": "33329",
+        "text": "Background: Research investigating the effect of specialised content knowledge (SCK) on teaching and learning Basic Life Support (BLS) is lacking. Purpose: To investigate the effect of a specialised content knowledge workshop on teaching behaviour, lesson context and student learning of BLS. Specialised content knowledge comprises knowledge of content progressions, skill analysis, and how to correct common errors. Methods: A cluster randomized controlled trial. Ten elementary teachers from three schools were assigned to a common content knowledge (n = 4) and specialized content knowledge condition (n = 6). Common content knowledge teachers received a 50-min BLS workshop focused on learning BLS. Next to learning BLS, specialised content knowledge teachers also practised the teaching of BLS focussing on skill progressions, skill analysis and how to correct common errors children would likely make. Teachers then taught one BLS lesson and their behaviour together with lesson context was collected through direct observation. BLS performance of 203 children (mean age: 11.3 years) was individually assessed immediately after the lesson. Results: Students taught by specialised content knowledge teachers spent more time practising BLS (57% vs 30%), were less engaged in cognitive activities (29% vs 55%) and achieved a significantly higher BLS performance (62% vs 57%) compared to students taught by common content knowledge teachers, P < .05. Specialised content knowledge teachers on average gave more feedback (31 vs 19). Discussion and conclusion: This study demonstrates that a 50-min workshop with a focus on specialised content knowledge impacted teachers' in-class behaviour, which in turn significantly improved students' BLS performance.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Research investigating the effect of specialised content knowledge (SCK) on teaching and learning Basic Life Support (BLS) is lacking.",
+            "Purpose: To investigate the effect of a specialised content knowledge workshop on teaching behaviour, lesson context and student learning of BLS.",
+            "Specialised content knowledge comprises knowledge of content progressions, skill analysis, and how to correct common errors.",
+            "Methods: A cluster randomized controlled trial.",
+            "Ten elementary teachers from three schools were assigned to a common content knowledge (n = 4) and specialized content knowledge condition (n = 6).",
+            "Common content knowledge teachers received a 50-min BLS workshop focused on learning BLS.",
+            "Next to learning BLS, specialised content knowledge teachers also practised the teaching of BLS focussing on skill progressions, skill analysis and how to correct common errors children would likely make.",
+            "Teachers then taught one BLS lesson and their behaviour together with lesson context was collected through direct observation.",
+            "BLS performance of 203 children (mean age: 11.3 years) was individually assessed immediately after the lesson.",
+            "Results: Students taught by specialised content knowledge teachers spent more time practising BLS (57% vs 30%), were less engaged in cognitive activities (29% vs 55%) and achieved a significantly higher BLS performance (62% vs 57%) compared to students taught by common content knowledge teachers, P < .05.",
+            "Specialised content knowledge teachers on average gave more feedback (31 vs 19).",
+            "Discussion and conclusion: This study demonstrates that a 50-min workshop with a focus on specialised content knowledge impacted teachers' in-class behaviour, which in turn significantly improved students' BLS performance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Early bystander cardiopulmonary resuscitation (CPR) can double or quadruple survival from cardiac arrest. [1] [2] [3] Because of this important outcome, Basic Life Support (BLS) courses are now widely implemented in companies, hospitals, coaching settings, schools and in lay organizations. To meet the growing demand for BLS education, many researchers have developed and reported upon innovative instructional models and tools to learn BLS and CPR. Examples of such educational innovations are the use of med-\u0b1d A Spanish translated version of the abstract of this article appears as Appendix in the final online version at http://dx.doi.org/10.1016/j.resuscitation.2016.11.023.",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Early bystander cardiopulmonary resuscitation (CPR) can double or quadruple survival from cardiac arrest. [",
+            "1] [2] [3] Because of this important outcome, Basic Life Support (BLS) courses are now widely implemented in companies, hospitals, coaching settings, schools and in lay organizations.",
+            "To meet the growing demand for BLS education, many researchers have developed and reported upon innovative instructional models and tools to learn BLS and CPR.",
+            "Examples of such educational innovations are the use of med-\u0b1d A Spanish translated version of the abstract of this article appears as Appendix in the final online version at http://dx.doi.org/10.1016/j.resuscitation.2016.11.023."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "* Corresponding author.",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "* Corresponding author."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "E-mail address: peter.iserbyt@kuleuven.be (P. Iserbyt).",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "E-mail address: peter.iserbyt@kuleuven.be (P. Iserbyt)."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "ical students for teaching BLS at schools, 4 task cards or iPads as instructional tools within reciprocal peer learning, [5] [6] [7] smartphone BLS training, 8 training lay classroom teachers for delivering BLS, 9 and learning in pairs. 10 Although some instructional models and tools have educational potential, instructors might not implement these effectively following training or professional development.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "ical students for teaching BLS at schools, 4 task cards or iPads as instructional tools within reciprocal peer learning, [5] [6] [7] smartphone BLS training, 8 training lay classroom teachers for delivering BLS, 9 and learning in pairs.",
+            "10 Although some instructional models and tools have educational potential, instructors might not implement these effectively following training or professional development."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Research with teachers has shown that when returning to their school, the content of professional development they received was poorly taught. 11, 12 To our knowledge, experimental research investigating BLS instructors' effectiveness following training is lacking. Educational researchers have discriminated between two types of content knowledge for teaching. 13, 14 Common content knowledge (CK) is knowledge that is needed to effectively perform an activity. In BLS it refers to knowledge of technical criteria for effective BLS performance (e.g., according to the ERC guidelines) and knowledge of the available BLS procedures (e.g., in case of drownhttp://dx.doi.org/10.1016/j.resuscitation.2016.11.023 0300-9572/\u00a9 2016 Elsevier Ireland Ltd. All rights reserved. ing). On the other hand, specialized CK consists of knowing which errors students will likely make and how to correct these, and the knowledge of task progressions to teach BLS. These task progressions refer to the knowledge an instructor needs to sequence the teaching of BLS in order to achieve proficiency with trainees. For example, since they are not able to perform this skill themselves, trainees with a low body weight could be learned to put a victim in the recovery position using help from a bystander before they perform it alone. While both BLS providers and instructors should possess common CK, specialised CK is the exclusive domain of the instructor. It is often assumed that \"in order to teach BLS, one must be able to perform it well (i.e., common CK).\" Although the latter is probably true, it is arguably not sufficient to be an effective instructor. Research in the psychomotor domain has demonstrated that an increase in specialised CK substantially alters teachers' in-class behaviour in terms of task presentation (i.e., verbal behaviour and demonstrations) which significantly improves student learning. 15, 16 In this study we sought to investigate the effect of a specialised CK versus common CK professional development workshop for teachers. It is hypothesized that the BLS workshop focused on specialised CK will lead to improved teacher behaviour compared to a workshop focused on common CK. We also hypothesize that as a function of this improved teacher behaviour, student BLS performance will be higher. Since students are in classes in schools, we used a cluster randomized design.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "Research with teachers has shown that when returning to their school, the content of professional development they received was poorly taught.",
+            "11, 12 To our knowledge, experimental research investigating BLS instructors' effectiveness following training is lacking.",
+            "Educational researchers have discriminated between two types of content knowledge for teaching.",
+            "13, 14 Common content knowledge (CK) is knowledge that is needed to effectively perform an activity.",
+            "In BLS it refers to knowledge of technical criteria for effective BLS performance (e.g., according to the ERC guidelines) and knowledge of the available BLS procedures (e.g., in case of drownhttp://dx.doi.org/10.1016/j.resuscitation.2016.11.023 0300-9572/\u00a9 2016 Elsevier Ireland Ltd. All rights reserved.",
+            "ing).",
+            "On the other hand, specialized CK consists of knowing which errors students will likely make and how to correct these, and the knowledge of task progressions to teach BLS.",
+            "These task progressions refer to the knowledge an instructor needs to sequence the teaching of BLS in order to achieve proficiency with trainees.",
+            "For example, since they are not able to perform this skill themselves, trainees with a low body weight could be learned to put a victim in the recovery position using help from a bystander before they perform it alone.",
+            "While both BLS providers and instructors should possess common CK, specialised CK is the exclusive domain of the instructor.",
+            "It is often assumed that \"in order to teach BLS, one must be able to perform it well (i.e., common CK).\"",
+            "Although the latter is probably true, it is arguably not sufficient to be an effective instructor.",
+            "Research in the psychomotor domain has demonstrated that an increase in specialised CK substantially alters teachers' in-class behaviour in terms of task presentation (i.e., verbal behaviour and demonstrations) which significantly improves student learning.",
+            "15, 16 In this study we sought to investigate the effect of a specialised CK versus common CK professional development workshop for teachers.",
+            "It is hypothesized that the BLS workshop focused on specialised CK will lead to improved teacher behaviour compared to a workshop focused on common CK.",
+            "We also hypothesize that as a function of this improved teacher behaviour, student BLS performance will be higher.",
+            "Since students are in classes in schools, we used a cluster randomized design."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "A cluster randomized controlled trial was set up to investigate the effect of a specialised CK versus common CK professional development workshop for teachers on their behaviour and student learning. Thirty-five primary schools in Flanders, Belgium were contacted to participate in this study. Schools could enroll only if BLS was not part of the curriculum. Six schools volunteered to participate and three were chosen and randomly assigned to a common CK (n = 2) or specialised CK (n = 1) group. Randomization was done by a research assistant using an online randomization tool (http:// www.randomizer.org/form.htm). No authors were involved in the randomization process. The three other schools were not included since their teachers had taken a CPR course earlier that year. In the specialised CK group six teachers (5 female, 1 male) participated and in both common CK schools two teachers (one female, one male) participated. Teachers' average age was 39 (range 24-48) in the specialised CK group and 43 (range 25-61) in the common CK group. They were purposely selected as participants in this study according to following criteria: (1) agreeing to participate; (2) not considering BLS an area of expertise; (3) able to follow a workshop on Monday; and (4) able to teach BLS on Friday. Total student population comprised of 210 children constituting 10 third grade classes. Third grade represents students aged [11] [12] . No children reported to have received BLS or CPR courses prior to the study. Informed consent was received from the children's parents and the teachers. Permission to organize the workshop and lessons were given by the deans of the three schools. The study was approved by the university review board.",
+        "section": "Participants and setting",
+        "section_number": 6,
+        "sentences": [
+            "A cluster randomized controlled trial was set up to investigate the effect of a specialised CK versus common CK professional development workshop for teachers on their behaviour and student learning.",
+            "Thirty-five primary schools in Flanders, Belgium were contacted to participate in this study.",
+            "Schools could enroll only if BLS was not part of the curriculum.",
+            "Six schools volunteered to participate and three were chosen and randomly assigned to a common CK (n = 2) or specialised CK (n = 1) group.",
+            "Randomization was done by a research assistant using an online randomization tool (http:// www.randomizer.org/form.htm).",
+            "No authors were involved in the randomization process.",
+            "The three other schools were not included since their teachers had taken a CPR course earlier that year.",
+            "In the specialised CK group six teachers (5 female, 1 male) participated and in both common CK schools two teachers (one female, one male) participated.",
+            "Teachers' average age was 39 (range 24-48) in the specialised CK group and 43 (range 25-61) in the common CK group.",
+            "They were purposely selected as participants in this study according to following criteria: (1) agreeing to participate; (2) not considering BLS an area of expertise; (3) able to follow a workshop on Monday; and (4) able to teach BLS on Friday.",
+            "Total student population comprised of 210 children constituting 10 third grade classes.",
+            "Third grade represents students aged [11] [12] .",
+            "No children reported to have received BLS or CPR courses prior to the study.",
+            "Informed consent was received from the children's parents and the teachers.",
+            "Permission to organize the workshop and lessons were given by the deans of the three schools.",
+            "The study was approved by the university review board."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "All primary school teachers followed a standardized professional development workshop according to their condition. Both workshops were the same in duration and were delivered by the second author. She was not certified to train people in BLS and CPR.",
+        "section": "Common CK and specialised CK workshop",
+        "section_number": 7,
+        "sentences": [
+            "All primary school teachers followed a standardized professional development workshop according to their condition.",
+            "Both workshops were the same in duration and were delivered by the second author.",
+            "She was not certified to train people in BLS and CPR."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "To train her to deliver the workshops we used a three step procedure that is more rigorous than traditional training and which had close supervision of the fidelity of her training of others. First, she studied the lesson content and instructional approach of the workshop in a syllabus developed for this study by the first author. Second she delivered both workshops to peers under the supervision of the first and fourth author to ensure she faithfully implemented the workshops as taught. Third, following both pilot workshops she received feedback and completed an open ended written test assessing her common CK and specialised CK. Upon successful completion, she could start delivering workshops to teachers.",
+        "section": "Common CK and specialised CK workshop",
+        "section_number": 8,
+        "sentences": [
+            "To train her to deliver the workshops we used a three step procedure that is more rigorous than traditional training and which had close supervision of the fidelity of her training of others.",
+            "First, she studied the lesson content and instructional approach of the workshop in a syllabus developed for this study by the first author.",
+            "Second she delivered both workshops to peers under the supervision of the first and fourth author to ensure she faithfully implemented the workshops as taught.",
+            "Third, following both pilot workshops she received feedback and completed an open ended written test assessing her common CK and specialised CK.",
+            "Upon successful completion, she could start delivering workshops to teachers."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "In this condition, the professional development workshop focused on training teachers to become BLS providers. In a 10-min introduction, the objective of the workshop was stated and the instructional model was explained. Teachers would learn BLS in pairs with one manikin. The instructional tool was an iPad application called StartnHart, developed to learn BLS through reciprocal peer learning. This strategy for teaching BLS has been used in previous research. [5] [6] [7] During 20 min, teachers worked in pairs to maximize each other's learning using one iPad. While one teacher (doer) was performing BLS, the other teacher (helper) was instructing, observing, and providing performance-related feedback to the doer based on the instructions on the iPad. Teachers switched roles upon prompting from the workshop leader every 5 min. Following the 20-min intervention, teachers engaged in a 10-min peer assessment. While one teacher was performing BLS on the manikin (assessee), the other teacher (assessor) assessed the partner's performance using a scoring sheet on the iPad. The score sheet listed all the BLS steps and the assessor marked each item 'correct' or 'incorrect'. After the BLS sequence was performed there was time for feedback from the assessor. Teachers switched roles after 5 min.",
+        "section": "The common CK workshop",
+        "section_number": 9,
+        "sentences": [
+            "In this condition, the professional development workshop focused on training teachers to become BLS providers.",
+            "In a 10-min introduction, the objective of the workshop was stated and the instructional model was explained.",
+            "Teachers would learn BLS in pairs with one manikin.",
+            "The instructional tool was an iPad application called StartnHart, developed to learn BLS through reciprocal peer learning.",
+            "This strategy for teaching BLS has been used in previous research. [",
+            "5] [6] [7] During 20 min, teachers worked in pairs to maximize each other's learning using one iPad.",
+            "While one teacher (doer) was performing BLS, the other teacher (helper) was instructing, observing, and providing performance-related feedback to the doer based on the instructions on the iPad.",
+            "Teachers switched roles upon prompting from the workshop leader every 5 min.",
+            "Following the 20-min intervention, teachers engaged in a 10-min peer assessment.",
+            "While one teacher was performing BLS on the manikin (assessee), the other teacher (assessor) assessed the partner's performance using a scoring sheet on the iPad.",
+            "The score sheet listed all the BLS steps and the assessor marked each item 'correct' or 'incorrect'.",
+            "After the BLS sequence was performed there was time for feedback from the assessor.",
+            "Teachers switched roles after 5 min."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "During the 10-min introduction, teachers in the this group were told the objective of the workshop was to train them to teach BLS effectively to primary school children. Therefore, teachers formed groups of three and rotated roles of teacher, doer, and helper. Similarly to the common CK group, the reciprocal peer learning instructional model was used during which teachers worked in pairs for 20 min with the assessor using the iPad followed by the 10 min peer assessment. Teachers were prompted to switch roles of teacher, doer, and helper every 5 min. In contrast to the common CK group, each dyad was taught BLS by a peer teacher through reciprocal peer learning with an iPad. The workshop leader explained and demonstrated critical features of the instructional model such as clearly defining roles of doer and helper, demonstrating effective behaviours of doers and helpers, and demonstrating effective teacher behaviour during student practice. In addition to the practice of this teacher behaviour along with learning the BLS content, teachers also learned how to recognize common errors their students are likely to make and how to correct these. For example, when you hear a hissing sound while performing rescue breaths, the rescuer is probably not putting his mouth correctly on the victim's mouth. As a teacher, you would then address the helper and ask him to reconsult the instruction of rescue breathings on the iPad and recheck the doer's performance. Teachers were trained to correct two common errors related to rescue breathings and two related to chest compressions.",
+        "section": "The specialised CK workshop",
+        "section_number": 10,
+        "sentences": [
+            "During the 10-min introduction, teachers in the this group were told the objective of the workshop was to train them to teach BLS effectively to primary school children.",
+            "Therefore, teachers formed groups of three and rotated roles of teacher, doer, and helper.",
+            "Similarly to the common CK group, the reciprocal peer learning instructional model was used during which teachers worked in pairs for 20 min with the assessor using the iPad followed by the 10 min peer assessment.",
+            "Teachers were prompted to switch roles of teacher, doer, and helper every 5 min.",
+            "In contrast to the common CK group, each dyad was taught BLS by a peer teacher through reciprocal peer learning with an iPad.",
+            "The workshop leader explained and demonstrated critical features of the instructional model such as clearly defining roles of doer and helper, demonstrating effective behaviours of doers and helpers, and demonstrating effective teacher behaviour during student practice.",
+            "In addition to the practice of this teacher behaviour along with learning the BLS content, teachers also learned how to recognize common errors their students are likely to make and how to correct these.",
+            "For example, when you hear a hissing sound while performing rescue breaths, the rescuer is probably not putting his mouth correctly on the victim's mouth.",
+            "As a teacher, you would then address the helper and ask him to reconsult the instruction of rescue breathings on the iPad and recheck the doer's performance.",
+            "Teachers were trained to correct two common errors related to rescue breathings and two related to chest compressions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Upon completion of the workshop, teachers took a written common CK test. This test asked teachers to list all items of the BLS sequence and its technical criteria. Average workshop duration was 63 min (range 58-65 min).",
+        "section": "The specialised CK workshop",
+        "section_number": 11,
+        "sentences": [
+            "Upon completion of the workshop, teachers took a written common CK test.",
+            "This test asked teachers to list all items of the BLS sequence and its technical criteria.",
+            "Average workshop duration was 63 min (range 58-65 min)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Four days following the workshop, teachers taught BLS to their students in their regular classrooms. Class sizes averaged between 18-25 students and were gender-mixed. Teachers in both conditions had sufficient manikins and iPads at their disposal to ensure children could work in pairs with one iPad and one manikin. BLS lessons had an average duration of 50 min in the common CK condition (range 46-55) and 51 min in the specialised CK condition (range 46-53).",
+        "section": "BLS classes",
+        "section_number": 12,
+        "sentences": [
+            "Four days following the workshop, teachers taught BLS to their students in their regular classrooms.",
+            "Class sizes averaged between 18-25 students and were gender-mixed.",
+            "Teachers in both conditions had sufficient manikins and iPads at their disposal to ensure children could work in pairs with one iPad and one manikin.",
+            "BLS lessons had an average duration of 50 min in the common CK condition (range 46-55) and 51 min in the specialised CK condition (range 46-53)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "The workshop was the independent variable. The dependent variables were teacher behaviour, lesson context and students' BLS performance. All lessons and BLS assessments were videotaped. Teacher behaviour during lessons was collected through direct observation based on video recordings. Teachers' organization of the learning environment together with the total count of demonstrations, instructions, and feedback were collected and assessed for reliability by two trained observers na\u00efve to the study protocol. Lesson context was collected through duration recording, a method where the length of time in which all students are engaged in is categorized into (1) general content (i.e., class time during which students are not intended to be involved in BLS activities); (2) subject matter knowledge content (i.e., class time during which the focus is on knowledge related to BLS such as listening to teacher instructions); and (3) subject matter motor content (i.e., class time during which the focus is on practicing/performing BLS). 17 Student learning was assessed by means of individual BLS performance. All BLS assessments were videotaped and performed on a Laerdal ResusciAnne Manikin (Laerdal Medical, Vilvoorde) connected to a laptop computer. The following CPR variables were retained using the PC SkillReporting Software: ventilation volume, compression depth, compression rate, and compressions with correct hand placement. The following BLS skills were qualitatively assessed by two trained observers: safe approach; check responsiveness by shaking and shouting; shout for help; open airway; look, listen and feel; call 112; and continuing 30:2 sequence. Both CPR and BLS data were entered into a scoring system based on the Cardiff Test (for a full description of the scoring system see Appendix A). 18 Individuals' BLS performance scores ranged between 18 and 73 points. This score was converted into a percentage to improve clarity. The BLS procedure was based on the 2010 European Resuscitation Council (ERC) guidelines. 19 ",
+        "section": "Data collection",
+        "section_number": 13,
+        "sentences": [
+            "The workshop was the independent variable.",
+            "The dependent variables were teacher behaviour, lesson context and students' BLS performance.",
+            "All lessons and BLS assessments were videotaped.",
+            "Teacher behaviour during lessons was collected through direct observation based on video recordings.",
+            "Teachers' organization of the learning environment together with the total count of demonstrations, instructions, and feedback were collected and assessed for reliability by two trained observers na\u00efve to the study protocol.",
+            "Lesson context was collected through duration recording, a method where the length of time in which all students are engaged in is categorized into (1) general content (i.e., class time during which students are not intended to be involved in BLS activities); (2) subject matter knowledge content (i.e., class time during which the focus is on knowledge related to BLS such as listening to teacher instructions); and (3) subject matter motor content (i.e., class time during which the focus is on practicing/performing BLS).",
+            "17 Student learning was assessed by means of individual BLS performance.",
+            "All BLS assessments were videotaped and performed on a Laerdal ResusciAnne Manikin (Laerdal Medical, Vilvoorde) connected to a laptop computer.",
+            "The following CPR variables were retained using the PC SkillReporting Software: ventilation volume, compression depth, compression rate, and compressions with correct hand placement.",
+            "The following BLS skills were qualitatively assessed by two trained observers: safe approach; check responsiveness by shaking and shouting; shout for help; open airway; look, listen and feel; call 112; and continuing 30:2 sequence.",
+            "Both CPR and BLS data were entered into a scoring system based on the Cardiff Test (for a full description of the scoring system see Appendix A).",
+            "18 Individuals' BLS performance scores ranged between 18 and 73 points.",
+            "This score was converted into a percentage to improve clarity.",
+            "The BLS procedure was based on the 2010 European Resuscitation Council (ERC) guidelines.",
+            "19"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "The trial was designed to determine whether teacher behaviour and student learning would be different as the result of a common CK or specialised CK workshop. Statistics were performed using SPSS version 20.0 (SPSS Inc, Chicago, Il). Teacher behaviour was reported by means of total counts of the behaviour per lesson. Lesson context was reported in terms of percentages per lesson. It was calculated that for an individually randomized trial we would need 50 students in each arm of the study to detect a 3% difference in BLS performance with a standard deviation of 5% and a power of 80%. To account for a .03 intracluster correlation (ICC) between classes 79 students would be needed in each group. To anticipate drop out, we aimed at recruiting 100 students in each arm.",
+        "section": "Statistical analysis",
+        "section_number": 14,
+        "sentences": [
+            "The trial was designed to determine whether teacher behaviour and student learning would be different as the result of a common CK or specialised CK workshop.",
+            "Statistics were performed using SPSS version 20.0 (SPSS Inc, Chicago, Il).",
+            "Teacher behaviour was reported by means of total counts of the behaviour per lesson.",
+            "Lesson context was reported in terms of percentages per lesson.",
+            "It was calculated that for an individually randomized trial we would need 50 students in each arm of the study to detect a 3% difference in BLS performance with a standard deviation of 5% and a power of 80%.",
+            "To account for a .03 intracluster correlation (ICC) between classes 79 students would be needed in each group.",
+            "To anticipate drop out, we aimed at recruiting 100 students in each arm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Intracluster correlation (ICC) for schools and classes were .04 and .02 respectively, and therefore analysis of BLS performance was conducted at the student level. BLS scores were normally distributed and Levene's testing showed homogeneity of variances so one-way analysis of variance (ANOVA) was used to detect between group differences and 95% confidence intervals were reported. Partial eta squared (\u00c1 p 2 ) was reported as a measure of effect size.",
+        "section": "Statistical analysis",
+        "section_number": 15,
+        "sentences": [
+            "Intracluster correlation (ICC) for schools and classes were .04 and .02 respectively, and therefore analysis of BLS performance was conducted at the student level.",
+            "BLS scores were normally distributed and Levene's testing showed homogeneity of variances so one-way analysis of variance (ANOVA) was used to detect between group differences and 95% confidence intervals were reported.",
+            "Partial eta squared (\u00c1 p 2 ) was reported as a measure of effect size."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Intrarater reliability for teacher behaviour and lesson context data as measured by Cohen's kappa was .95 and .91 for observer A and B respectively. Interrater reliability averaged between .81 and 1 based on 33% of the total sample as recommended by behavioural research. 20 No significant difference was found between common CK and specialised CK teachers based on their BLS assessment after the workshop, F(1, 9) = 43.12, P = .41. In total, 203 children (98 girls and 105 boys) constituting 10 intact elementary classes were taught BLS and assessed immediately following the lesson. At intervention and assessment, three common CK students and four specialised CK students were absent. Participant flow is displayed in Fig. 1 .",
+        "section": "Results",
+        "section_number": 16,
+        "sentences": [
+            "Intrarater reliability for teacher behaviour and lesson context data as measured by Cohen's kappa was .95 and .91 for observer A and B respectively.",
+            "Interrater reliability averaged between .81 and 1 based on 33% of the total sample as recommended by behavioural research.",
+            "20 No significant difference was found between common CK and specialised CK teachers based on their BLS assessment after the workshop, F(1, 9) = 43.12, P = .41.",
+            "In total, 203 children (98 girls and 105 boys) constituting 10 intact elementary classes were taught BLS and assessed immediately following the lesson.",
+            "At intervention and assessment, three common CK students and four specialised CK students were absent.",
+            "Participant flow is displayed in Fig. 1 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "Data for teacher behaviour is shown in Table 1 . All teachers put students in pairs and used the iPads. One teacher in the common CK group and one in the specialised CK group demonstrated the peer learning model. All specialised CK teachers and one common CK teacher verbally explained peer learning. Three specialised CK teachers implemented the peer assessment. On average, specialised CK teachers provided more instructions (4 vs 2) and feedback (31 vs. 19) than common CK teachers. For demonstrations, the average count was higher in the common CK group (4.5 vs. 0.7). Table 2 shows the duration of teachers' lessons and contexts. Lesson duration ranged between 46 min and 55 min. In the specialised CK group the average time spent on subject matter motor content was 56%, compared to 30% in the common CK group. Average time spent on subject matter knowledge content was lower Table 1 Teachers' (T) organisation of the learning environment and behaviour in the common content knowledge and specialised content knowledge condition. in the specialised CK group (29% vs. 56%). No differences were found for general content, such as cleaning the manikin, getting into dyads, and re-organizing around the teacher.",
+        "section": "Teacher behaviour",
+        "section_number": 17,
+        "sentences": [
+            "Data for teacher behaviour is shown in Table 1 .",
+            "All teachers put students in pairs and used the iPads.",
+            "One teacher in the common CK group and one in the specialised CK group demonstrated the peer learning model.",
+            "All specialised CK teachers and one common CK teacher verbally explained peer learning.",
+            "Three specialised CK teachers implemented the peer assessment.",
+            "On average, specialised CK teachers provided more instructions (4 vs 2) and feedback (31 vs. 19) than common CK teachers.",
+            "For demonstrations, the average count was higher in the common CK group (4.5 vs. 0.7).",
+            "Table 2 shows the duration of teachers' lessons and contexts.",
+            "Lesson duration ranged between 46 min and 55 min.",
+            "In the specialised CK group the average time spent on subject matter motor content was 56%, compared to 30% in the common CK group.",
+            "Average time spent on subject matter knowledge content was lower Table 1 Teachers' (T) organisation of the learning environment and behaviour in the common content knowledge and specialised content knowledge condition.",
+            "in the specialised CK group (29% vs. 56%).",
+            "No differences were found for general content, such as cleaning the manikin, getting into dyads, and re-organizing around the teacher."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "One-way ANOVA demonstrated a significantly higher BLS performance in the specialised CK group compared to the common CK group, F(1, 201) = 3.9, p = .04, \u00c1 p 2 = .02. Children taught by common CK teachers achieved an average BLS performance of 57% (CI 55.3%-58.6%), children taught by specialised CK teachers 62% (CI 60.4%-63.6%).",
+        "section": "Student BLS performance",
+        "section_number": 18,
+        "sentences": [
+            "One-way ANOVA demonstrated a significantly higher BLS performance in the specialised CK group compared to the common CK group, F(1, 201) = 3.9, p = .04, \u00c1 p 2 = .02.",
+            "Children taught by common CK teachers achieved an average BLS performance of 57% (CI 55.3%-58.6%), children taught by specialised CK teachers 62% (CI 60.4%-63.6%)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "It was hypothesized that a BLS workshop focused on specialised CK would lead to different teacher behaviour compared to a common CK workshop. Results showed that specialised CK teachers' verbal behaviour was substantially different compared to that of their counterparts. While common CK teachers placed children in pairs and provided them with iPad's, specialised CK teachers explained students how peer learning works and how they should collaborate. Those teachers practiced the implementation of peer learning during their workshop and as a result were more effective in implementing it to students. Previous research concluded that when teachers (i.e., instructors) participate in professional development acting as 'students' they only get superficial learning of the content and instructional model. 11 Effective profes-sional development requires that teachers engage in the concrete task of teaching. 21 Results showed that half of the specialised CK teachers and none of the common CK teachers implemented peer assessment, which has previously shown to foster skill retention. 22 Common CK teachers also had lower counts of instructions and feedback. This finding is consistent with previous literature demonstrating substantial increases of feedback and instructions in teachers following a specialised CK workshop. 23, 24 In this study, the workshop leader provided common CK teachers with feedback and as a result they did not practice this important skill themselves. Specialised CK teachers on the contrary were trained to analyse their peers' BLS performance and to provide congruent feedback at a high rate during their workshop. Those teachers organized their lessons differently (i.e., provided more time for hands-on practice) and thus created more time for student feedback.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "It was hypothesized that a BLS workshop focused on specialised CK would lead to different teacher behaviour compared to a common CK workshop.",
+            "Results showed that specialised CK teachers' verbal behaviour was substantially different compared to that of their counterparts.",
+            "While common CK teachers placed children in pairs and provided them with iPad's, specialised CK teachers explained students how peer learning works and how they should collaborate.",
+            "Those teachers practiced the implementation of peer learning during their workshop and as a result were more effective in implementing it to students.",
+            "Previous research concluded that when teachers (i.e., instructors) participate in professional development acting as 'students' they only get superficial learning of the content and instructional model.",
+            "11 Effective profes-sional development requires that teachers engage in the concrete task of teaching.",
+            "21 Results showed that half of the specialised CK teachers and none of the common CK teachers implemented peer assessment, which has previously shown to foster skill retention.",
+            "22 Common CK teachers also had lower counts of instructions and feedback.",
+            "This finding is consistent with previous literature demonstrating substantial increases of feedback and instructions in teachers following a specialised CK workshop.",
+            "23, 24 In this study, the workshop leader provided common CK teachers with feedback and as a result they did not practice this important skill themselves.",
+            "Specialised CK teachers on the contrary were trained to analyse their peers' BLS performance and to provide congruent feedback at a high rate during their workshop.",
+            "Those teachers organized their lessons differently (i.e., provided more time for hands-on practice) and thus created more time for student feedback."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "We also hypothesized that as a function of different teacher behaviour following an specialised CK workshop, student BLS performance would be higher. We reported a significant difference in BLS performance for students taught by specialised CK teachers. This finding adds to the growing body of evidence that improved specialised CK in teachers improves student learning. 15, 16, [23] [24] [25] It seems that in order for training and professional development to be effective, (1) BLS instructors need to engage actively in the practice of teaching during their training, and (2) specialised CK should be explicitly taught in terms of task progressions, knowledge of common errors in BLS and how to correct these.",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "We also hypothesized that as a function of different teacher behaviour following an specialised CK workshop, student BLS performance would be higher.",
+            "We reported a significant difference in BLS performance for students taught by specialised CK teachers.",
+            "This finding adds to the growing body of evidence that improved specialised CK in teachers improves student learning.",
+            "15, 16, [23] [24] [25] It seems that in order for training and professional development to be effective, (1) BLS instructors need to engage actively in the practice of teaching during their training, and (2) specialised CK should be explicitly taught in terms of task progressions, knowledge of common errors in BLS and how to correct these."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "A limitation of the study is the recruitment of only ten teachers. Future studies might focus on increasing the sample size and Table 2 Lesson context in percentages and minutes for BLS with teachers (T) in the common content knowledge (n = 4) and specialised content knowledge (n = 6) condition. replication with teachers in other settings and with different age groups. A second limitation is the short duration of the workshop. BLS/AED provider courses by the ERC usually have a duration of 4 h. Nevertheless, workshops in this study with a duration of only 60 min produced substantially different teacher behaviour and a significant effect in student performance. A final limitation is the relatively poor BLS performance of children, 57% in the common CK and 62% in the specialised CK group. However, previous research using the Cardiff protocol reported BLS performances between 57% and 66.5% for adult layman as well as lifeguards. 26, 27 Research with 12-14 year olds reported BLS percentages of 50% following training. 28 The strengths of this study include that it is the first to experimentally analyze teacher behaviour and student learning as the result of a professional development workshop using the common CK versus specialised CK dichotomy in the domain of BLS. An additional strength is the use of operational measures of teacher behaviour (i.e., verbal and visual task presentations).",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "A limitation of the study is the recruitment of only ten teachers.",
+            "Future studies might focus on increasing the sample size and Table 2 Lesson context in percentages and minutes for BLS with teachers (T) in the common content knowledge (n = 4) and specialised content knowledge (n = 6) condition.",
+            "replication with teachers in other settings and with different age groups.",
+            "A second limitation is the short duration of the workshop.",
+            "BLS/AED provider courses by the ERC usually have a duration of 4 h. Nevertheless, workshops in this study with a duration of only 60 min produced substantially different teacher behaviour and a significant effect in student performance.",
+            "A final limitation is the relatively poor BLS performance of children, 57% in the common CK and 62% in the specialised CK group.",
+            "However, previous research using the Cardiff protocol reported BLS performances between 57% and 66.5% for adult layman as well as lifeguards.",
+            "26, 27 Research with 12-14 year olds reported BLS percentages of 50% following training.",
+            "28 The strengths of this study include that it is the first to experimentally analyze teacher behaviour and student learning as the result of a professional development workshop using the common CK versus specialised CK dichotomy in the domain of BLS.",
+            "An additional strength is the use of operational measures of teacher behaviour (i.e., verbal and visual task presentations)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "33329",
+        "text": "This study demonstrated that the content of a professional CK workshop matters. Knowing how to perform BLS is not the same as knowing how to teach BLS. A professional development workshop as short as 60 min was able to affect teachers' behaviour, and in turn children's BLS performance. Instructor training and professional development focusing on specialised CK seems crucial for increasing effectiveness.",
+        "section": "Conclusion",
+        "section_number": 22,
+        "sentences": [
+            "This study demonstrated that the content of a professional CK workshop matters.",
+            "Knowing how to perform BLS is not the same as knowing how to teach BLS.",
+            "A professional development workshop as short as 60 min was able to affect teachers' behaviour, and in turn children's BLS performance.",
+            "Instructor training and professional development focusing on specialised CK seems crucial for increasing effectiveness."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]

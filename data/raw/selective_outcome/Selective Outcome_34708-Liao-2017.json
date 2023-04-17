@@ -1,0 +1,691 @@
+[
+    {
+        "doc_id": "34708",
+        "text": "The aim of this study is to investigate the biomechanics for orthodontic tooth movement (OTM) subjected to concurrent single-tooth vibration (50 Hz) with conventional orthodontic force application, via a clinical study and computational simulation. Thirteen patients were recruited in the clinical study, which involved distal retraction of maxillary canines with 1.5 N (150 g) force for 12 weeks. In a split mouth study, vibration and non-vibration sides were randomly assigned to each subject. Vibration of 50 Hz, of approximately 0.2 N (20 g) of magnitude, was applied on the buccal surface of maxillary canine for the vibration group. A mode-based steady-state dynamic finite element analysis (FEA) was conducted based on an anatomically detailed model, complying with the clinical protocol. Both the amounts of space closure and canine distalization of the vibration group were significantly higher than those of the control group, as measured intra-orally or on models (p < 0.05). Therefore it is indicated that a 50 Hz and 20 g single-tooth vibration can accelerate maxillary canine retraction. The volume-average hydrostatic stress (VHS) in the periodontal ligament (PDL) was computationally calculated to be higher with vibration compared with the control group for maxillary teeth and for both linguo-buccal and mesial-distal directions. An increase in vibratory frequency further amplified the PDL response before reaching a local natural frequency. An amplification of PDL response was also shown to be induced by vibration based on computational simulation. The vibration-enhanced OTM can be described by mild, vigorous and diminishing zones among which the mild zone is considered to be clinically beneficial.",
+        "section": "Abstract",
+        "sentences": [
+            "The aim of this study is to investigate the biomechanics for orthodontic tooth movement (OTM) subjected to concurrent single-tooth vibration (50 Hz) with conventional orthodontic force application, via a clinical study and computational simulation.",
+            "Thirteen patients were recruited in the clinical study, which involved distal retraction of maxillary canines with 1.5 N (150 g) force for 12 weeks.",
+            "In a split mouth study, vibration and non-vibration sides were randomly assigned to each subject.",
+            "Vibration of 50 Hz, of approximately 0.2 N (20 g) of magnitude, was applied on the buccal surface of maxillary canine for the vibration group.",
+            "A mode-based steady-state dynamic finite element analysis (FEA) was conducted based on an anatomically detailed model, complying with the clinical protocol.",
+            "Both the amounts of space closure and canine distalization of the vibration group were significantly higher than those of the control group, as measured intra-orally or on models (p < 0.05).",
+            "Therefore it is indicated that a 50 Hz and 20 g single-tooth vibration can accelerate maxillary canine retraction.",
+            "The volume-average hydrostatic stress (VHS) in the periodontal ligament (PDL) was computationally calculated to be higher with vibration compared with the control group for maxillary teeth and for both linguo-buccal and mesial-distal directions.",
+            "An increase in vibratory frequency further amplified the PDL response before reaching a local natural frequency.",
+            "An amplification of PDL response was also shown to be induced by vibration based on computational simulation.",
+            "The vibration-enhanced OTM can be described by mild, vigorous and diminishing zones among which the mild zone is considered to be clinically beneficial."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Orthodontic tooth movement (OTM) is a result of a mechanically induced biological response to external interference in the physiological equilibrium of the dentofacial complex. A tooth can be moved within the periodontal space by generating a compression side, where the periodontal ligament (PDL) exhibits disorganization and diminution of fiber production seemingly as a result of vascular constriction, and a tension side, where a growth in cell replication of PDL occurs by stretching PDL fiber bundles (Oppenheim, 2007; Sandstedt, 1904) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Orthodontic tooth movement (OTM) is a result of a mechanically induced biological response to external interference in the physiological equilibrium of the dentofacial complex.",
+            "A tooth can be moved within the periodontal space by generating a compression side, where the periodontal ligament (PDL) exhibits disorganization and diminution of fiber production seemingly as a result of vascular constriction, and a tension side, where a growth in cell replication of PDL occurs by stretching PDL fiber bundles (Oppenheim, 2007; Sandstedt, 1904) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Orthodontic force systems in most orthodontic treatments are static in nature. Dynamic loading and the corresponding biologic and mechanical responses are largely unknown despite its strong relevance to bone remodeling. The frequency of dynamic component of the orthodontic force has not been investigated in research until recently. The fundamentals associated with dynamic loading are that the vibratory or cyclic forces are considered to expedite the bone remodeling process at the cellular level at a far greater rate than static forces (Darendeliler et al., 1995 (Darendeliler et al., , 2007 Kopher and Mao, 2003; Nishimura et al., 2008; Rubin et al., 2004 Rubin et al., , 2001 Ward et al., 2004) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Orthodontic force systems in most orthodontic treatments are static in nature.",
+            "Dynamic loading and the corresponding biologic and mechanical responses are largely unknown despite its strong relevance to bone remodeling.",
+            "The frequency of dynamic component of the orthodontic force has not been investigated in research until recently.",
+            "The fundamentals associated with dynamic loading are that the vibratory or cyclic forces are considered to expedite the bone remodeling process at the cellular level at a far greater rate than static forces (Darendeliler et al., 1995 (Darendeliler et al., , 2007 Kopher and Mao, 2003; Nishimura et al., 2008; Rubin et al., 2004 Rubin et al., , 2001 Ward et al., 2004) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "It has been proposed that the regulation of several biological factors, e.g. receptor activator of nuclear factor kappa-B ligand (RANKL) (Yamaguchi and Kasai, 2005) , transforming growth factor-b (TGF-b) (Uematsu et al., 1996) and osteoprotegerin (OPG) (Stivaros and Mandall, 2000) , and some biomechanical indi-cators, e.g. hydrostatic stress (Liao et al., 2016) , orthodontic force magnitude (Yee et al., 2009) , are associated with OTM. It was observed by Nishimura et al. (2008) that the application of vibration significantly enhanced RANKL expression of fibroblasts and osteoclasts in the PDL of rats without excessive damage to periodontal tissues. Pulsed electromagnetic field (PEMF) coupled with magnets and/or conventional mechanical force was also demonstrably believed to generate more prominent OTM in rats compared with the scenario without PEMF (Darendeliler et al., 1995 (Darendeliler et al., , 2007 . The results of several human trials favored the use of vibration in conjunction with orthodontic treatment with faster OTM being recorded while conflicting results were also reported in literature (Bowman, 2014; Kau et al., 2010; Leethanakul et al., 2015; Pavlin et al., 2015; Woodhouse et al., 2015) . A convincing mechanism for this vibration-oriented mechanical modulation remains however undetermined.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "It has been proposed that the regulation of several biological factors, e.g. receptor activator of nuclear factor kappa-B ligand (RANKL) (Yamaguchi and Kasai, 2005) , transforming growth factor-b (TGF-b) (Uematsu et al., 1996) and osteoprotegerin (OPG) (Stivaros and Mandall, 2000) , and some biomechanical indi-cators, e.g. hydrostatic stress (Liao et al., 2016) , orthodontic force magnitude (Yee et al., 2009) , are associated with OTM.",
+            "It was observed by Nishimura et al. (2008) that the application of vibration significantly enhanced RANKL expression of fibroblasts and osteoclasts in the PDL of rats without excessive damage to periodontal tissues.",
+            "Pulsed electromagnetic field (PEMF) coupled with magnets and/or conventional mechanical force was also demonstrably believed to generate more prominent OTM in rats compared with the scenario without PEMF (Darendeliler et al., 1995 (Darendeliler et al., , 2007 .",
+            "The results of several human trials favored the use of vibration in conjunction with orthodontic treatment with faster OTM being recorded while conflicting results were also reported in literature (Bowman, 2014; Kau et al., 2010; Leethanakul et al., 2015; Pavlin et al., 2015; Woodhouse et al., 2015) .",
+            "A convincing mechanism for this vibration-oriented mechanical modulation remains however undetermined."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Compared with experimental studies on the consequence of vibratory loads, there has been a lack of computational dynamic analyses on the biomechanical role of cyclic force on OTM. In contrast, exhaustive finite element analysis (FEA) studies on OTM are available however focused on static loads and the biomechanical responses of the sectioned mandible/maxilla and single or discrete multiple teeth.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Compared with experimental studies on the consequence of vibratory loads, there has been a lack of computational dynamic analyses on the biomechanical role of cyclic force on OTM.",
+            "In contrast, exhaustive finite element analysis (FEA) studies on OTM are available however focused on static loads and the biomechanical responses of the sectioned mandible/maxilla and single or discrete multiple teeth."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The aim of this study is to investigate whether the concurrent use of single-tooth vibration combined with conventional static orthodontic force application would have an influence on tooth movement. The first part of this investigation involved an in vivo human study employing 50 Hz vibration; and the second part involved in silico non-linear dynamic simulation exploring the effects of vibration over a wider range of frequencies through an anatomically detailed FE model. The former enabled to examine the efficacy of vibration and safety of the current regime, while the latter established a basis to further advance the associated orthodontic biomechanical understanding.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "The aim of this study is to investigate whether the concurrent use of single-tooth vibration combined with conventional static orthodontic force application would have an influence on tooth movement.",
+            "The first part of this investigation involved an in vivo human study employing 50 Hz vibration; and the second part involved in silico non-linear dynamic simulation exploring the effects of vibration over a wider range of frequencies through an anatomically detailed FE model.",
+            "The former enabled to examine the efficacy of vibration and safety of the current regime, while the latter established a basis to further advance the associated orthodontic biomechanical understanding."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Thirteen patients, aged between 12.1 and 15.5 years with the mean age of 13.6 years, were recruited for orthodontic purposes. The selection criteria, described previously (Malek et al., 2001) , include (1) no previous dental or orthodontic treatment, (2) no previous trauma, (3) no past or present signs or symptoms of periodontal condition, (4) no past or present signs or symptoms of bruxism, (5) no significant medical history affecting dentition, (6) no anatomical abnormality of craniofacial or dentoalveolar complex, (7) completed apexification and (8) residence in fluoridated regions. The ethics approvals were obtained from The University of Sydney and Ondokuz Mayis University (2010/135 and 11-0016/1119). The orthodontic protocol for force application and measurement of tooth movement rate were described previously ( Fig. 1a) (Yee et al., 2009) . The coil springs were attached to the auxiliary tubes of the maxillary first molar and canine brackets with a 6-mm power arm constructed from 0.016 00 stainless steel (Dentaurum, Ispringen, Germany) to deliver the force close to the centers of resistance (Fig. 1b) .",
+        "section": "Clinical study",
+        "section_number": 6,
+        "sentences": [
+            "Thirteen patients, aged between 12.1 and 15.5 years with the mean age of 13.6 years, were recruited for orthodontic purposes.",
+            "The selection criteria, described previously (Malek et al., 2001) , include (1) no previous dental or orthodontic treatment, (2) no previous trauma, (3) no past or present signs or symptoms of periodontal condition, (4) no past or present signs or symptoms of bruxism, (5) no significant medical history affecting dentition, (6) no anatomical abnormality of craniofacial or dentoalveolar complex, (7) completed apexification and (8) residence in fluoridated regions.",
+            "The ethics approvals were obtained from The University of Sydney and Ondokuz Mayis University (2010/135 and 11-0016/1119).",
+            "The orthodontic protocol for force application and measurement of tooth movement rate were described previously ( Fig. 1a) (Yee et al., 2009) .",
+            "The coil springs were attached to the auxiliary tubes of the maxillary first molar and canine brackets with a 6-mm power arm constructed from 0.016 00 stainless steel (Dentaurum, Ispringen, Germany) to deliver the force close to the centers of resistance (Fig. 1b) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Each subject was randomly assigned a ''vibration\" and ''non-vibration\" side, using a split-mouth study design. All the patients were visited each day to ensure full compliance with vibration application. The vibration was applied on the buccal surface of canine for 10 min/day for 28 days, using an Oral B (USA) Hamming Bird Vibrating Unit and the profile of magnitude of vibratory force against time was measured using a Kistler (Winterthur, Switzerland) 9256C1 dynamometer ( Fig. 1c and d) . The amplitude of the vibrating force was measured to be approximately 0.2 N (20 g). The results were calibrated by the measurement of the loads after the vibration mode was switched off. The measuring time interval was 0.005 s (i.e. the dynamometer records the magnitude of the dynamic load every 0.005 s) which was shorter than its prescribed maximum period (0.00885 s corresponding to 6800 RPM or 113 Hz of the motor). The vibrating frequency of the terminal tip was measured to be 50 Hz (Fig. 1d) .",
+        "section": "Clinical study",
+        "section_number": 7,
+        "sentences": [
+            "Each subject was randomly assigned a ''vibration\" and ''non-vibration\" side, using a split-mouth study design.",
+            "All the patients were visited each day to ensure full compliance with vibration application.",
+            "The vibration was applied on the buccal surface of canine for 10 min/day for 28 days, using an Oral B (USA) Hamming Bird Vibrating Unit and the profile of magnitude of vibratory force against time was measured using a Kistler (Winterthur, Switzerland) 9256C1 dynamometer ( Fig. 1c and d) .",
+            "The amplitude of the vibrating force was measured to be approximately 0.2 N (20 g).",
+            "The results were calibrated by the measurement of the loads after the vibration mode was switched off.",
+            "The measuring time interval was 0.005 s (i.e. the dynamometer records the magnitude of the dynamic load every 0.005 s) which was shorter than its prescribed maximum period (0.00885 s corresponding to 6800 RPM or 113 Hz of the motor).",
+            "The vibrating frequency of the terminal tip was measured to be 50 Hz (Fig. 1d) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Intraoral clinical measurements were made with digital dental calipers (Masel, Bristol, UK), and a baseline maxillary impression (Imprint II, light and heavy, 3M ESPE, St Paul, Minn) was taken before the canine retraction started (time point T0). The clinical measurements to evaluate total space closure and canine retraction were made every 28 days (T0, T1, T2 and T3). The total space closure were mea-sured between the circular spring opening holes on SPEED bracket (Strite Industries Cambridge, Ontario, Canada) clips and the canine retraction were measured between the canine and molar mesio-buccal cusp tips. The total evaluation duration was 12 weeks.",
+        "section": "Clinical study",
+        "section_number": 8,
+        "sentences": [
+            "Intraoral clinical measurements were made with digital dental calipers (Masel, Bristol, UK), and a baseline maxillary impression (Imprint II, light and heavy, 3M ESPE, St Paul, Minn) was taken before the canine retraction started (time point T0).",
+            "The clinical measurements to evaluate total space closure and canine retraction were made every 28 days (T0, T1, T2 and T3).",
+            "The total space closure were mea-sured between the circular spring opening holes on SPEED bracket (Strite Industries Cambridge, Ontario, Canada) clips and the canine retraction were measured between the canine and molar mesio-buccal cusp tips.",
+            "The total evaluation duration was 12 weeks."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "At the end of the evaluation period, another maxillary impression was taken and the specified tooth movements were also assessed from T0 and T4 casts. Stable palatal reference points and the tips of the canines and the first molars were marked with a 0.3 mm lead pencil on both casts (Almeida et al., 1995; Brezniak and Wasserstein, 1993) . The models were then scanned and the measurements were made with CorelDraw X5 (Corel Corporation, Ottawa, Canada). Statistical analysis was performed using SPSS (IBM Corporation, USA). The extent of total space closure and canine distalization on the vibration and non-vibration sides were compared with Wilcoxon signed rank test.",
+        "section": "Clinical study",
+        "section_number": 9,
+        "sentences": [
+            "At the end of the evaluation period, another maxillary impression was taken and the specified tooth movements were also assessed from T0 and T4 casts.",
+            "Stable palatal reference points and the tips of the canines and the first molars were marked with a 0.3 mm lead pencil on both casts (Almeida et al., 1995; Brezniak and Wasserstein, 1993) .",
+            "The models were then scanned and the measurements were made with CorelDraw X5 (Corel Corporation, Ottawa, Canada).",
+            "Statistical analysis was performed using SPSS (IBM Corporation, USA).",
+            "The extent of total space closure and canine distalization on the vibration and non-vibration sides were compared with Wilcoxon signed rank test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The vibration induced force can be approximated as a forced harmonic excitation as the frequency and amplitude remain almost unchanged. This is realized by Abaqus steady-state dynamic analysis. The dynamic model can be defined as the summation of mass-spring-damper sub-systems and hence consists of multiple degrees of freedom, as represented in a matrix form:",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 10,
+        "sentences": [
+            "The vibration induced force can be approximated as a forced harmonic excitation as the frequency and amplitude remain almost unchanged.",
+            "This is realized by Abaqus steady-state dynamic analysis.",
+            "The dynamic model can be defined as the summation of mass-spring-damper sub-systems and hence consists of multiple degrees of freedom, as represented in a matrix form:"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Mf\u20ac xg \u00fe Cf _ xg \u00fe Kfxg \u00bc ff g \u00f0 1\u00de",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 11,
+        "sentences": [
+            "Mf\u20ac xg \u00fe Cf _ xg \u00fe Kfxg \u00bc ff g \u00f0 1\u00de"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "where M, C and K are the mass, damping and stiffness matrices respectively ( Fig. 1e ). fxg and ff g are the displacement and external force vectors, respectively. The vibratory characteristics of a structure can be evaluated by calculating the natural frequencies (NFs) and mode shapes. The responses of a structure subjected to harmonic excitation, an external vibratory force in this instance, can be predicted based on the predetermined eigenvalues and eigenmodes and the solution to the projection of motion equations onto the modes. A Rayleigh damping model was adopted herein to obtain the mode-based damping matrix (Eq. 2) and factor (Eq.",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 12,
+        "sentences": [
+            "where M, C and K are the mass, damping and stiffness matrices respectively ( Fig. 1e ).",
+            "fxg and ff g are the displacement and external force vectors, respectively.",
+            "The vibratory characteristics of a structure can be evaluated by calculating the natural frequencies (NFs) and mode shapes.",
+            "The responses of a structure subjected to harmonic excitation, an external vibratory force in this instance, can be predicted based on the predetermined eigenvalues and eigenmodes and the solution to the projection of motion equations onto the modes.",
+            "A Rayleigh damping model was adopted herein to obtain the mode-based damping matrix (Eq. 2) and factor (Eq."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "(3)), calculated through orthogonality and relations between the modal equations (Caughey and O'Kelly, 1961; Liao et al., 2015) .",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 13,
+        "sentences": [
+            "(3)), calculated through orthogonality and relations between the modal equations (Caughey and O'Kelly, 1961; Liao et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "EQUATION",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 14,
+        "sentences": [
+            "EQUATION"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "where a, b, f i and x i denote mass-proportional, stiffness-proportional Rayleigh coefficients, modal damping factor and undamped circular natural frequency for the ith mode, respectively. In a previous study, the Rayleigh coefficients were determined to be 5.684 \u00c2 10 \u00c03 for a and 4.537 \u00c2 10 \u00c03 for b in the same model, which were used in this study (Liao et al., 2015) .",
+        "section": "Basics of nonlinear forced harmonic excitation",
+        "section_number": 15,
+        "sentences": [
+            "where a, b, f i and x i denote mass-proportional, stiffness-proportional Rayleigh coefficients, modal damping factor and undamped circular natural frequency for the ith mode, respectively.",
+            "In a previous study, the Rayleigh coefficients were determined to be 5.684 \u00c2 10 \u00c03 for a and 4.537 \u00c2 10 \u00c03 for b in the same model, which were used in this study (Liao et al., 2015) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "An anatomically accurate maxilla model was constructed based on computer tomography (CT) images with resolution of 0.2 mm/pixel. ScanIP 4.3 (Simpleware Ltd., Exeter, UK) was utilized to conduct image segmentation. The postprocessing and refinement, especially for PDL modeling, including Gaussian smoothing, noise removal, mesh grid generation and adjustment, were performed using ScanIP and Rhinoceros (Robert McNeel & Associates, Seattle, US). The model is comprised of a full set of maxillary teeth, their adjacent PDLs with thicknesses ranging from 0.2 to 0.4 mm (Chandra et al., 2007) , sectioned alveolar bone and surrounding cortical bone, as presented in Fig. 2 . Abaqus/Standard 6.11 was employed for FEA. The model consisted of 893,154 nodes and 525,664 quadratic tetrahedral elements in accordance with a convergence test. All the parts were considered bonded with their neighboring parts. The brackets, power arm and archwire were modeled based on Dentaurm Discovery brackets (Dentaurm, Ispringen, Germany) ( Fig. 2e) .",
+        "section": "FE modeling",
+        "section_number": 16,
+        "sentences": [
+            "An anatomically accurate maxilla model was constructed based on computer tomography (CT) images with resolution of 0.2 mm/pixel.",
+            "ScanIP 4.3 (Simpleware Ltd., Exeter, UK) was utilized to conduct image segmentation.",
+            "The postprocessing and refinement, especially for PDL modeling, including Gaussian smoothing, noise removal, mesh grid generation and adjustment, were performed using ScanIP and Rhinoceros (Robert McNeel & Associates, Seattle, US).",
+            "The model is comprised of a full set of maxillary teeth, their adjacent PDLs with thicknesses ranging from 0.2 to 0.4 mm (Chandra et al., 2007) , sectioned alveolar bone and surrounding cortical bone, as presented in Fig. 2 .",
+            "Abaqus/Standard 6.11 was employed for FEA.",
+            "The model consisted of 893,154 nodes and 525,664 quadratic tetrahedral elements in accordance with a convergence test.",
+            "All the parts were considered bonded with their neighboring parts.",
+            "The brackets, power arm and archwire were modeled based on Dentaurm Discovery brackets (Dentaurm, Ispringen, Germany) ( Fig. 2e) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "All the materials involved were modeled as isotropic and elastic (Table 1) (Liao et al., 2016) . It is acknowledged that the PDL is a non-linear material and the incorporation of PDL nonlinearity can visibly alter the FEA results (Cattaneo et al., 2009; Toms et al., 2002; Toms and Eberhardt, 2003) . Therefore, the PDL was modeled as a 4th order Ogden hyperelastic material (Eq. (4)) (Ogden, 1972) , in accordance with a least square curve fitting based on the stress-strain curve, developed in the previous studies (Cattaneo et al., 2005; Chen et al., 2014; Poppe et al., 2002; Vollmer et al., 1999) . The relevant parameters in Eq. (4) ki, n, J el are the deviatoric principal stretch, order number, determinant of the elastic deformation gradient, respectively, and l i , a i , and D i are the material constants which were listed in Table 2. It has also been suggested that damping effects and heterogeneity of the dental structure can influence its vibratory characteristics (Liao et al., 2015) . In this case, heterogeneous properties were assigned to the bone as per Hounsfield Unit (HU), based on which the Young's modulus was calculated on an elemental basis (Eq.",
+        "section": "FE modeling",
+        "section_number": 17,
+        "sentences": [
+            "All the materials involved were modeled as isotropic and elastic (Table 1) (Liao et al., 2016) .",
+            "It is acknowledged that the PDL is a non-linear material and the incorporation of PDL nonlinearity can visibly alter the FEA results (Cattaneo et al., 2009; Toms et al., 2002; Toms and Eberhardt, 2003) .",
+            "Therefore, the PDL was modeled as a 4th order Ogden hyperelastic material (Eq. (4)) (Ogden, 1972) , in accordance with a least square curve fitting based on the stress-strain curve, developed in the previous studies (Cattaneo et al., 2005; Chen et al., 2014; Poppe et al., 2002; Vollmer et al., 1999) .",
+            "The relevant parameters in Eq. (4) ki, n, J el are the deviatoric principal stretch, order number, determinant of the elastic deformation gradient, respectively, and l i , a i , and D i are the material constants which were listed in Table 2.",
+            "It has also been suggested that damping effects and heterogeneity of the dental structure can influence its vibratory characteristics (Liao et al., 2015) .",
+            "In this case, heterogeneous properties were assigned to the bone as per Hounsfield Unit (HU), based on which the Young's modulus was calculated on an elemental basis (Eq."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "(5)) (Field et al., 2010) . q min and q max stand for the minimum and maximum bone densities which were assigned as 0.69 g/cm 3 and 1.90 g/cm 3 respectively (Field et al., 2010) . HU max and HU min are the maximum and minimum HUs of the scans.",
+        "section": "FE modeling",
+        "section_number": 18,
+        "sentences": [
+            "(5)) (Field et al., 2010) .",
+            "q min and q max stand for the minimum and maximum bone densities which were assigned as 0.69 g/cm 3 and 1.90 g/cm 3 respectively (Field et al., 2010) .",
+            "HU max and HU min are the maximum and minimum HUs of the scans."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The Young's modulus was determined to range from 884 to 23,460 MPa, which is consistent with the properties found or adopted in other literature (Chen et al., 2014; O'Brien, 1997) .",
+        "section": "FE modeling",
+        "section_number": 19,
+        "sentences": [
+            "The Young's modulus was determined to range from 884 to 23,460 MPa, which is consistent with the properties found or adopted in other literature (Chen et al., 2014; O'Brien, 1997) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "EQUATION",
+        "section": "FE modeling",
+        "section_number": 20,
+        "sentences": [
+            "EQUATION"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The loads consisted of both static and dynamic forces, imitating the orthodontic force and vibration respectively (Fig. 2e) . The orthodontic force was introduced by exerting 150 g forces onto the hooks of 6-mm power arms on the brackets installed on the left maxillary canine and first molar, followed by the application of a harmonic dynamic force in the linguo-buccal (LB) and mesio-distal (MD) directions. The frequency of dynamic force ranged from 10 Hz to 2000 Hz, including the 50 Hz that was used in the present clinical study. The same computational protocol was applied to the maxillary first and second premolars, central and lateral incisors. For the control group, a static force, of the same magnitude of vibration, was applied as a supplement to the static orthodontic force.",
+        "section": "Loading and boundary conditions",
+        "section_number": 21,
+        "sentences": [
+            "The loads consisted of both static and dynamic forces, imitating the orthodontic force and vibration respectively (Fig. 2e) .",
+            "The orthodontic force was introduced by exerting 150 g forces onto the hooks of 6-mm power arms on the brackets installed on the left maxillary canine and first molar, followed by the application of a harmonic dynamic force in the linguo-buccal (LB) and mesio-distal (MD) directions.",
+            "The frequency of dynamic force ranged from 10 Hz to 2000 Hz, including the 50 Hz that was used in the present clinical study.",
+            "The same computational protocol was applied to the maxillary first and second premolars, central and lateral incisors.",
+            "For the control group, a static force, of the same magnitude of vibration, was applied as a supplement to the static orthodontic force."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The volume average hydrostatic stress (VHS), defined by Eqs. (6) and 7, was evaluated. The quantified results provide an insight into the effects of overall vibratory characteristics of the maxillary periodontal structure and ultimately, its response to cyclical excitation and thus the link to OTM. The hydrostatic stress was recognized as a mechanical indicator to PDL activity and OTM, which correlates with fluid or capillary blood pressure, as also employed by several previous studies (Chen et al., 2014; Hohmann et al., 2009 Hohmann et al., , 2007 Nakago-Matsuo et al., 1996) . ",
+        "section": "Loading and boundary conditions",
+        "section_number": 22,
+        "sentences": [
+            "The volume average hydrostatic stress (VHS), defined by Eqs. (6) and 7, was evaluated.",
+            "The quantified results provide an insight into the effects of overall vibratory characteristics of the maxillary periodontal structure and ultimately, its response to cyclical excitation and thus the link to OTM.",
+            "The hydrostatic stress was recognized as a mechanical indicator to PDL activity and OTM, which correlates with fluid or capillary blood pressure, as also employed by several previous studies (Chen et al., 2014; Hohmann et al., 2009 Hohmann et al., , 2007 Nakago-Matsuo et al., 1996) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "r H \u00bc 1 3 r 11 \u00fe r 22 \u00fe r 33 \u00f0 \u00de \u00f0 6\u00de",
+        "section": "Loading and boundary conditions",
+        "section_number": 23,
+        "sentences": [
+            "r H \u00bc 1 3 r 11 \u00fe r 22 \u00fe r 33 \u00f0 \u00de \u00f0 6\u00de"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "EQUATION",
+        "section": "Loading and boundary conditions",
+        "section_number": 24,
+        "sentences": [
+            "EQUATION"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "where r11, r22 and r33 are the principal stresses, r H;ele and V ele are the elemental hydrostatic stress and elemental volume.",
+        "section": "Loading and boundary conditions",
+        "section_number": 25,
+        "sentences": [
+            "where r11, r22 and r33 are the principal stresses, r H;ele and V ele are the elemental hydrostatic stress and elemental volume."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The amount of total space closure was higher with vibration compared to non-vibration, measured from the study models and intra-oral measurements (P=0.022 and P=0.026, respectively; Fig. 3 and Table 3 ). Furthermore, the amount of canine distalization on the vibration side was significantly higher (P = 0.009 as measured from the cusp tips).",
+        "section": "Clinical study",
+        "section_number": 26,
+        "sentences": [
+            "The amount of total space closure was higher with vibration compared to non-vibration, measured from the study models and intra-oral measurements (P=0.022 and P=0.026, respectively; Fig. 3 and Table 3 ).",
+            "Furthermore, the amount of canine distalization on the vibration side was significantly higher (P = 0.009 as measured from the cusp tips)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Harmonic vibration in conjunction with existing orthodontic force was computationally proved to amplify the VHS of the PDL regardless of vibration direction and tooth investigated, compared with the control group. The 50 Hz vibration increased the VHS of canine PDL by 9.2% and 10.8% for the mesio-distally and linguobucally directed vibration, respectively. The influences of the 50 Hz vibration for central incisor, lateral incisor, first premolar and second premolar are also presented schematically (Fig. 4a and b) . It can be observed that the highest amplification induced by the 50 Hz vibration, approximately the same frequency applied in the clinical study, was recorded with lateral incisor vibrated mesio-distally and first premolar vibrated linguobucally. Nonetheless, the general enlargements of tissue responses were statistically similar, ranging from 7.3% to 13.5%.",
+        "section": "Static and dynamic FEA",
+        "section_number": 27,
+        "sentences": [
+            "Harmonic vibration in conjunction with existing orthodontic force was computationally proved to amplify the VHS of the PDL regardless of vibration direction and tooth investigated, compared with the control group.",
+            "The 50 Hz vibration increased the VHS of canine PDL by 9.2% and 10.8% for the mesio-distally and linguobucally directed vibration, respectively.",
+            "The influences of the 50 Hz vibration for central incisor, lateral incisor, first premolar and second premolar are also presented schematically (Fig. 4a and b) .",
+            "It can be observed that the highest amplification induced by the 50 Hz vibration, approximately the same frequency applied in the clinical study, was recorded with lateral incisor vibrated mesio-distally and first premolar vibrated linguobucally.",
+            "Nonetheless, the general enlargements of tissue responses were statistically similar, ranging from 7.3% to 13.5%."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The augmentations of PDL response from the vibration also varied in different directions. No significant difference of VHS for the central incisor and lateral incisor was observed. The first and second premolars and canine, by comparison, saw observable discrepancies when comparing the effects of vibrations in linguo-buccal and mesio-distal directions. Fig. 4a and b showed that higher amplifications of the first and second premolars and canine were found for linguo-buccal vibration.",
+        "section": "Static and dynamic FEA",
+        "section_number": 28,
+        "sentences": [
+            "The augmentations of PDL response from the vibration also varied in different directions.",
+            "No significant difference of VHS for the central incisor and lateral incisor was observed.",
+            "The first and second premolars and canine, by comparison, saw observable discrepancies when comparing the effects of vibrations in linguo-buccal and mesio-distal directions.",
+            "Fig. 4a and b showed that higher amplifications of the first and second premolars and canine were found for linguo-buccal vibration."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The effects of variation in vibratory frequencies are plotted in Fig. 4c-f . Generally comparable trends of tissue response can be seen irrespective of the type of teeth and vibratory direction. The average hydrostatic pressures gradually increased with the exciting frequencies until the medium frequencies (approximately in the range of 200-400 Hz) were reached after which the rates of increase climbed exponentially. The responses peaked and expo- nentially decreased without plateauing with further increase of frequencies up to 2000 Hz. Even higher loading frequencies retarded the decrease and progressively led to a pressure level lower than that of the control group and eventually fully counteracted the existing stress. It can also be recognized that the first premolar and lateral incisor exhibited multiple local resonance frequencies in a short interval while others showed only one response peaks ( Fig. 4e and f) .",
+        "section": "Static and dynamic FEA",
+        "section_number": 29,
+        "sentences": [
+            "The effects of variation in vibratory frequencies are plotted in Fig. 4c-f .",
+            "Generally comparable trends of tissue response can be seen irrespective of the type of teeth and vibratory direction.",
+            "The average hydrostatic pressures gradually increased with the exciting frequencies until the medium frequencies (approximately in the range of 200-400 Hz) were reached after which the rates of increase climbed exponentially.",
+            "The responses peaked and expo- nentially decreased without plateauing with further increase of frequencies up to 2000 Hz.",
+            "Even higher loading frequencies retarded the decrease and progressively led to a pressure level lower than that of the control group and eventually fully counteracted the existing stress.",
+            "It can also be recognized that the first premolar and lateral incisor exhibited multiple local resonance frequencies in a short interval while others showed only one response peaks ( Fig. 4e and f) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "It has been shown that an inordinate magnitude of orthodontic force may lead to several inter-correlated adverse effects, including hyalinization, orthodontic root resorption (ORR), OTM deceleration and PDL necrosis (Maeda et al., 2015; Quinn and Yoshikawa, 1985; Reitan, 1957) . The amplification of stress level induced by vibration needs to be restricted to an acceptable physiological level without undesirable outcomes. It was proposed and verified via experiments and FEA that tissue necrosis may occur if the hydrostatic pressure exceeds certain threshold, e.g. systolic pressure of 16 kPa (120 mmHg) (Hohmann et al., 2007; Liao et al., 2016; Rygh, 1973) . The present in silico study indicates that the frequency applied (50 Hz), either in the mesio-distal or linguo-buccal directions, was significantly lower than the first local resonance frequencies of maxillary teeth calculated to be in the range from 300 Hz to 800 Hz (Fig. 4e and f) . Therefore, it can be expected that the vibratory frequency currently applied, e.g. through 50 Hz single-tooth vibration in this study, 30 Hz AcceleDent device (OrthoAccel Technologies, Inc., US), is biomechanically safe as it is significantly lower than the first natural frequencies.",
+        "section": "Discussion",
+        "section_number": 30,
+        "sentences": [
+            "It has been shown that an inordinate magnitude of orthodontic force may lead to several inter-correlated adverse effects, including hyalinization, orthodontic root resorption (ORR), OTM deceleration and PDL necrosis (Maeda et al., 2015; Quinn and Yoshikawa, 1985; Reitan, 1957) .",
+            "The amplification of stress level induced by vibration needs to be restricted to an acceptable physiological level without undesirable outcomes.",
+            "It was proposed and verified via experiments and FEA that tissue necrosis may occur if the hydrostatic pressure exceeds certain threshold, e.g. systolic pressure of 16 kPa (120 mmHg) (Hohmann et al., 2007; Liao et al., 2016; Rygh, 1973) .",
+            "The present in silico study indicates that the frequency applied (50 Hz), either in the mesio-distal or linguo-buccal directions, was significantly lower than the first local resonance frequencies of maxillary teeth calculated to be in the range from 300 Hz to 800 Hz (Fig. 4e and f) .",
+            "Therefore, it can be expected that the vibratory frequency currently applied, e.g. through 50 Hz single-tooth vibration in this study, 30 Hz AcceleDent device (OrthoAccel Technologies, Inc., US), is biomechanically safe as it is significantly lower than the first natural frequencies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "In the present study, using 50 Hz of vibration for only 10 min/day, it was found in a split mouth model that the amount of space closure and canine distalization was significantly higher on the vibration side. A generic vibratory response of the PDL can be schematically illustrated in Fig. 5 . When the frequency is within the mild zone, there is a gentle amplification of PDL response, e.g. VHS. The response of the PDL at this zone is thought to be benign. As the exciting frequency approaches the first local natural frequency, the response was exponentially aggregated, being categorized as the vigorous zone where a small frequency increase can result in a leap in response level. The diminishing zone follows where the tension-compression nature was transformed and counteracts the existing orthodontic force. However, the vigorous zone and diminishing zone are clinically irrelevant due to the unfeasibility of introducing ultra-high frequency up to thousands of Hz.",
+        "section": "Discussion",
+        "section_number": 31,
+        "sentences": [
+            "In the present study, using 50 Hz of vibration for only 10 min/day, it was found in a split mouth model that the amount of space closure and canine distalization was significantly higher on the vibration side.",
+            "A generic vibratory response of the PDL can be schematically illustrated in Fig. 5 .",
+            "When the frequency is within the mild zone, there is a gentle amplification of PDL response, e.g. VHS.",
+            "The response of the PDL at this zone is thought to be benign.",
+            "As the exciting frequency approaches the first local natural frequency, the response was exponentially aggregated, being categorized as the vigorous zone where a small frequency increase can result in a leap in response level.",
+            "The diminishing zone follows where the tension-compression nature was transformed and counteracts the existing orthodontic force.",
+            "However, the vigorous zone and diminishing zone are clinically irrelevant due to the unfeasibility of introducing ultra-high frequency up to thousands of Hz."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "The results of the current study have shed additional light on the mechanism of vibration-enhanced OTM. It is suggested that mild amplification of the PDL pressure, while being insufficiently high to cause necrosis of the structures, may actuate the relevant cells and biochemical factors such as RANKL, TGF-b and OPG and hence enhances the biological events responsible for OTM. The vibration oriented in line with the OTM direction, i.e. MD direction in this case, did not visibly enhance the PDL response more than the LB group ( Fig. 4a and b ). In the clinical study, vibration was also applied in a different direction to that of OTM. Both computational and clinical studies indicated that random vibration could facilitate OTM. The mild response zone, under a low-medium frequency vibration, is proposed to be favored clinically. No extremely excessive pressure, additional to the pressure induced by static orthodontic force, is generated within this range where relevant cells and factors may however respond and take effect.",
+        "section": "Discussion",
+        "section_number": 32,
+        "sentences": [
+            "The results of the current study have shed additional light on the mechanism of vibration-enhanced OTM.",
+            "It is suggested that mild amplification of the PDL pressure, while being insufficiently high to cause necrosis of the structures, may actuate the relevant cells and biochemical factors such as RANKL, TGF-b and OPG and hence enhances the biological events responsible for OTM.",
+            "The vibration oriented in line with the OTM direction, i.e. MD direction in this case, did not visibly enhance the PDL response more than the LB group ( Fig. 4a and b ).",
+            "In the clinical study, vibration was also applied in a different direction to that of OTM.",
+            "Both computational and clinical studies indicated that random vibration could facilitate OTM.",
+            "The mild response zone, under a low-medium frequency vibration, is proposed to be favored clinically.",
+            "No extremely excessive pressure, additional to the pressure induced by static orthodontic force, is generated within this range where relevant cells and factors may however respond and take effect."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "It is also suggested that the mechanism for OTM acceleration may be more biologically based than mechanically based. The dynamic vibration was only introduced 10 min/day in our study. The application of vibration was not lasting and hence the amplification of the PDL response. In other words, the short duration of vibration application, along with its potential to accelerate OTM, implies that the vibration stimulates OTM-related cells and factors Fig. 4 . The vibration-induced amplification of pressure in maxillary teeth's PDL for (a) mesio-distal and (b) linguo-buccal vibration during tooth distalization. PDL responses versus different vibratory frequencies: (c) low-medium frequencies directed in the mesio-distal direction. (d) low-medium frequencies directed in the lingual-buccal direction. (e) low-high frequencies in the mesio-distal direction. (f) low-high frequencies in the lingual-buccal direction. through this temporarily sustained and dynamic amplification of pressure level within the PDL. It is also speculated that the transformation of forcing nature and the fluctuation of hydrostatic pressure within the PDL may contribute to the activation at a cellular level. Transformation of microcirculatory condition, e.g. increase of blood flow rate within the PDL possibly induced by the vibration (Nakagami et al., 2007; Nishimura et al., 2008) and hence the activity level of bone remodeling, may be another key factor contributing to OTM acceleration. The results of this study echoed several previous studies, including two animal studies by Darendeliler et al. (2007) and Nishimura et al. (2008) , in which it was claimed that vibration enhances OTM, and several clinical studies by Kau et al. (2010) , Bowman (2014) , Leethanakul et al. (2015) and Pavlin et al. (2015) , in which the AcceleDent vibrator (30 Hz, all-teeth vibration) or electric toothbrush were also found to accelerate OTM. Likewise, several in vitro studies have shown that low magnitude high frequency (LMHF) vibration or cyclic tensile loading can promote human PDL stem cells (PDLSCs) or PDL cells (PDLCs) proliferation (Matsuda et al., 1998; Yousefian et al., 1995) or osteogenic differentiation without detriment to the vitality of the PDL cells (Zhang et al., 2012) . However, conflicting results were obtained from the studies by Woodhouse et al. (2015) and Miles et al. (2012) when using AcceleDent devices and Tooth Masseuse vibrator respectively, as they found no evidence supporting the beneficial effects of supplemental vibrational force on OTM. This discrepancy may arise from two reasons. Firstly, all-teeth vibration can be less controllable than single-tooth vibration. The vibration received by the target tooth for the former is likely to be of much lower frequency or amplitude due to unfavorable tooth positioning and morphology, which may lead to insufficient contact between tooth and vibrating medium. Secondly, the energy loss during vibration delivery has been largely ignored in most studies. Energy dissipation is a consequence of many mechanical related factors such as damping and friction. As a consequence the amplitude of force and frequency received by the target dental structure can be considerably lower than the motor vibrating frequency which was sometimes labeled as the tooth vibrating frequency. In this study, the rotor frequency was measured to be 113 Hz using an optical tachometer. This was over 50% higher than what was eventually transmitted to the vibrator terminal or maxillary canine (50 Hz). Therefore, it is suggested that single-tooth vibration and accurate measurement of vibrating frequency should be necessitated to investigate the vibratory effects.",
+        "section": "Discussion",
+        "section_number": 33,
+        "sentences": [
+            "It is also suggested that the mechanism for OTM acceleration may be more biologically based than mechanically based.",
+            "The dynamic vibration was only introduced 10 min/day in our study.",
+            "The application of vibration was not lasting and hence the amplification of the PDL response.",
+            "In other words, the short duration of vibration application, along with its potential to accelerate OTM, implies that the vibration stimulates OTM-related cells and factors Fig. 4 .",
+            "The vibration-induced amplification of pressure in maxillary teeth's PDL for (a) mesio-distal and (b) linguo-buccal vibration during tooth distalization.",
+            "PDL responses versus different vibratory frequencies: (c) low-medium frequencies directed in the mesio-distal direction. (",
+            "d) low-medium frequencies directed in the lingual-buccal direction. (",
+            "e) low-high frequencies in the mesio-distal direction. (",
+            "f) low-high frequencies in the lingual-buccal direction.",
+            "through this temporarily sustained and dynamic amplification of pressure level within the PDL.",
+            "It is also speculated that the transformation of forcing nature and the fluctuation of hydrostatic pressure within the PDL may contribute to the activation at a cellular level.",
+            "Transformation of microcirculatory condition, e.g. increase of blood flow rate within the PDL possibly induced by the vibration (Nakagami et al., 2007; Nishimura et al., 2008) and hence the activity level of bone remodeling, may be another key factor contributing to OTM acceleration.",
+            "The results of this study echoed several previous studies, including two animal studies by Darendeliler et al. (2007) and Nishimura et al. (2008) , in which it was claimed that vibration enhances OTM, and several clinical studies by Kau et al. (2010) , Bowman (2014) , Leethanakul et al. (2015) and Pavlin et al. (2015) , in which the AcceleDent vibrator (30 Hz, all-teeth vibration) or electric toothbrush were also found to accelerate OTM.",
+            "Likewise, several in vitro studies have shown that low magnitude high frequency (LMHF) vibration or cyclic tensile loading can promote human PDL stem cells (PDLSCs) or PDL cells (PDLCs) proliferation (Matsuda et al., 1998; Yousefian et al., 1995) or osteogenic differentiation without detriment to the vitality of the PDL cells (Zhang et al., 2012) .",
+            "However, conflicting results were obtained from the studies by Woodhouse et al. (2015) and Miles et al. (2012) when using AcceleDent devices and Tooth Masseuse vibrator respectively, as they found no evidence supporting the beneficial effects of supplemental vibrational force on OTM.",
+            "This discrepancy may arise from two reasons.",
+            "Firstly, all-teeth vibration can be less controllable than single-tooth vibration.",
+            "The vibration received by the target tooth for the former is likely to be of much lower frequency or amplitude due to unfavorable tooth positioning and morphology, which may lead to insufficient contact between tooth and vibrating medium.",
+            "Secondly, the energy loss during vibration delivery has been largely ignored in most studies.",
+            "Energy dissipation is a consequence of many mechanical related factors such as damping and friction.",
+            "As a consequence the amplitude of force and frequency received by the target dental structure can be considerably lower than the motor vibrating frequency which was sometimes labeled as the tooth vibrating frequency.",
+            "In this study, the rotor frequency was measured to be 113 Hz using an optical tachometer.",
+            "This was over 50% higher than what was eventually transmitted to the vibrator terminal or maxillary canine (50 Hz).",
+            "Therefore, it is suggested that single-tooth vibration and accurate measurement of vibrating frequency should be necessitated to investigate the vibratory effects."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "One limitation of the present study was the potential noncompliance of participants in terms of duration of usage despite the daily checkup by the examiners. In addition, when applying the vibration directly onto the tooth, it was possible to introduce extra force magnitude by hand and biting; and hence the vibratory force magnitude could be higher than 0.2 N (20 g). In addition, although the long-term effect of vibration is not an emphasis of this study and a hyperelastic PDL model can, with the clinical validation, simulate the time-dependent OTM process (Chen et al., 2014) , the exclusion of viscosity of the PDL may still be a limitation of the current study. The intra-oral measurement may slightly overestimate the amount of movement due to the possible distal rotation of the canine (Yee et al., 2009) , which differentiated the measurement from its impression counterpart. However, the trends between two experimental groups were similar. The current FE model also generalizes the dental structure of a large population, which may not include the discrepancies of material properties and morphologies. Future clinical study are suggested to vibrate the tooth of relevance at higher frequency within the mild zone for reasonably higher PDL response with larger sample size if possible.",
+        "section": "Discussion",
+        "section_number": 34,
+        "sentences": [
+            "One limitation of the present study was the potential noncompliance of participants in terms of duration of usage despite the daily checkup by the examiners.",
+            "In addition, when applying the vibration directly onto the tooth, it was possible to introduce extra force magnitude by hand and biting; and hence the vibratory force magnitude could be higher than 0.2 N (20 g).",
+            "In addition, although the long-term effect of vibration is not an emphasis of this study and a hyperelastic PDL model can, with the clinical validation, simulate the time-dependent OTM process (Chen et al., 2014) , the exclusion of viscosity of the PDL may still be a limitation of the current study.",
+            "The intra-oral measurement may slightly overestimate the amount of movement due to the possible distal rotation of the canine (Yee et al., 2009) , which differentiated the measurement from its impression counterpart.",
+            "However, the trends between two experimental groups were similar.",
+            "The current FE model also generalizes the dental structure of a large population, which may not include the discrepancies of material properties and morphologies.",
+            "Future clinical study are suggested to vibrate the tooth of relevance at higher frequency within the mild zone for reasonably higher PDL response with larger sample size if possible."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "Z.Liao et al. / Journal of Biomechanics 60 (2017) 57-64",
+        "section": "",
+        "section_number": 35,
+        "sentences": [
+            "Z.Liao et al. / Journal of Biomechanics 60 (2017) 57-64"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "34708",
+        "text": "* P < 0.05, ** P < 0.01.",
+        "section": "",
+        "section_number": 36,
+        "sentences": [
+            "* P < 0.05, ** P < 0.01."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

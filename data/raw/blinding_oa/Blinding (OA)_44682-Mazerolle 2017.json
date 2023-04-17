@@ -1,0 +1,788 @@
+[
+    {
+        "doc_id": "44682",
+        "text": "Truancy is a major social issue that is linked to a range of poor outcomes across the life course, including poor educational outcomes, drug and alcohol abuse, and antisocial behavior. Interventions that seek to reduce truancy problems range from school-based police officers to programs that reward good attendance to community-based interventions. This study reports primary outcome results of a randomized trial of a collaborative, police-school partnership that sought to reduce truancy and increase students' willingness to attend school. Using school attendance and students' self-report survey data, we find that the police-school partnership intervention shows promise for reducing truancy and improving students' willingness to attend school. We conclude that policeschool partnerships that foster the willingness of young people to attend school should be examined in future evaluation research and be considered in the development of truancy prevention programs.",
+        "section": "Abstract",
+        "sentences": [
+            "Truancy is a major social issue that is linked to a range of poor outcomes across the life course, including poor educational outcomes, drug and alcohol abuse, and antisocial behavior.",
+            "Interventions that seek to reduce truancy problems range from school-based police officers to programs that reward good attendance to community-based interventions.",
+            "This study reports primary outcome results of a randomized trial of a collaborative, police-school partnership that sought to reduce truancy and increase students' willingness to attend school.",
+            "Using school attendance and students' self-report survey data, we find that the police-school partnership intervention shows promise for reducing truancy and improving students' willingness to attend school.",
+            "We conclude that policeschool partnerships that foster the willingness of young people to attend school should be examined in future evaluation research and be considered in the development of truancy prevention programs."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Truancy occurs when a school-aged student regularly and persistently misses school, without reasonable grounds (Dickson and Hutchinson 2010; Kearney 2008a) . It is a global issue: approximately 10-15% of students are classified as chronically absent across a number of cultures (Askeland et al. 2015; Balfanz and Byrnes 2012; Solakoglu and Orak 2016; Thornton et al. 2013; Vaughn et al. 2013) . In Australia, truancy is the second most prevalent category of delinquency (Forrest and Edwards 2015) and in Queensland, on any one school day, approximately 5% of students are absent from school without a legitimate excuse (Queensland Government 2013). Truancy is both predictive and symptomatic of poor educational outcomes (Battin-Pearson et al. 2000; Coelho et al. 2015; Daraganova et al. 2014) , poor psychological well-being (Dembo et al. 2012; Kearney 2008a) , drug and alcohol abuse (Chou et al. 2006; Flaherty et al. 2012; Henry and Huizinga 2007) , and antisocial or criminal behavior (Monahan et al. 2014; Rocque et al. 2016) .",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Truancy occurs when a school-aged student regularly and persistently misses school, without reasonable grounds (Dickson and Hutchinson 2010; Kearney 2008a) .",
+            "It is a global issue: approximately 10-15% of students are classified as chronically absent across a number of cultures (Askeland et al. 2015; Balfanz and Byrnes 2012; Solakoglu and Orak 2016; Thornton et al. 2013; Vaughn et al. 2013) .",
+            "In Australia, truancy is the second most prevalent category of delinquency (Forrest and Edwards 2015) and in Queensland, on any one school day, approximately 5% of students are absent from school without a legitimate excuse (Queensland Government 2013).",
+            "Truancy is both predictive and symptomatic of poor educational outcomes (Battin-Pearson et al. 2000; Coelho et al. 2015; Daraganova et al. 2014) , poor psychological well-being (Dembo et al. 2012; Kearney 2008a) , drug and alcohol abuse (Chou et al. 2006; Flaherty et al. 2012; Henry and Huizinga 2007) , and antisocial or criminal behavior (Monahan et al. 2014; Rocque et al. 2016) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "School-based interventions to reduce truancy problems range from mentoring programs (Converse and Lingugaris-Kraft 2009) to rewards and incentives for good attendance (Ford and Sutphen 1996; Herrick 1992) , to parent training (Flanagan 2006; Hess 1990 ). Community-based interventions include court referral programs (Mueller and Stoddard 2006) , city-wide truancy sweeps (White et al. 2001) , and programs that increase collaboration among schools, law enforcement, mental health providers, and parents (Elizondo et al. 2003) . One particular category of truancy reduction interventions features collaborative police-school partnerships, often involving school-based police officers or school resource officers. These school-based interventions target community-Electronic supplementary material The online version of this article (doi:10.1007/s11121-017-0771-7) contains supplementary material, which is available to authorized users. level factors that can underlie truancy, such as increasing perceptions of safety at school or reducing crime and disorder in and around schools (Bowles et al. 2005; Na and Gottfredson 2013; Petrosino et al. 2012; Raymond 2010) .",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "School-based interventions to reduce truancy problems range from mentoring programs (Converse and Lingugaris-Kraft 2009) to rewards and incentives for good attendance (Ford and Sutphen 1996; Herrick 1992) , to parent training (Flanagan 2006; Hess 1990 ).",
+            "Community-based interventions include court referral programs (Mueller and Stoddard 2006) , city-wide truancy sweeps (White et al. 2001) , and programs that increase collaboration among schools, law enforcement, mental health providers, and parents (Elizondo et al. 2003) .",
+            "One particular category of truancy reduction interventions features collaborative police-school partnerships, often involving school-based police officers or school resource officers.",
+            "These school-based interventions target community-Electronic supplementary material The online version of this article (doi:10.1007/s11121-017-0771-7) contains supplementary material, which is available to authorized users.",
+            "level factors that can underlie truancy, such as increasing perceptions of safety at school or reducing crime and disorder in and around schools (Bowles et al. 2005; Na and Gottfredson 2013; Petrosino et al. 2012; Raymond 2010) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Recent reviews highlight intervention approaches that are promising for reducing truancy (Finn and McDevitt 2005; Klima et al. 2009; Petrosino et al. 2012; Sutphen et al. 2010; Tanner-Smith and Wilson 2013) . The general view is that collaborative programs that target truancy in a multifaceted manner appear to be more effective for increasing school attendance than single-node delivered programs (Kearney 2008b; Teasley 2004 ). Yet, at least two major reviews of truancy interventions (Maynard et al. 2013; Petrosino et al. 2012) conclude that existing truancy intervention evaluations lack the methodological rigor required to make reliable conclusions about intervention effectiveness. Maynard et al. (2013) , for example, argue that there is a Black of available evidence to support the general belief that collaborative and multi-nodal interventions are more effective than simple, noncollaborative interventions^ (p. 17) . Similar conclusions are drawn by Petrosino et al. (2012) in their systematic review of evidence on school-based interventions involving collaborative involvement by police. Following an extensive search, they found no experimental studies and only 11 quasiexperimental studies with a crime or disorder outcome, including truancy or self-reported student behavior. While many of these studies noted Bdramatic^decreases in student misbehavior, the reliability of these results is limited due to the nature of the study research designs Bwhich would not have been rated as rigorous by evidence rating systems in justice \u2026 or education^(p. 92). The authors conclude that their review should serve Bas an incentive^(p. 94) to researchers and funders to collaborate on rigorous evaluations to generate more definitive knowledge.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "Recent reviews highlight intervention approaches that are promising for reducing truancy (Finn and McDevitt 2005; Klima et al. 2009; Petrosino et al. 2012; Sutphen et al. 2010; Tanner-Smith and Wilson 2013) .",
+            "The general view is that collaborative programs that target truancy in a multifaceted manner appear to be more effective for increasing school attendance than single-node delivered programs (Kearney 2008b; Teasley 2004 ).",
+            "Yet, at least two major reviews of truancy interventions (Maynard et al. 2013; Petrosino et al. 2012) conclude that existing truancy intervention evaluations lack the methodological rigor required to make reliable conclusions about intervention effectiveness.",
+            "Maynard et al. (2013) , for example, argue that there is a Black of available evidence to support the general belief that collaborative and multi-nodal interventions are more effective than simple, noncollaborative interventions^ (p. 17) .",
+            "Similar conclusions are drawn by Petrosino et al. (2012) in their systematic review of evidence on school-based interventions involving collaborative involvement by police.",
+            "Following an extensive search, they found no experimental studies and only 11 quasiexperimental studies with a crime or disorder outcome, including truancy or self-reported student behavior.",
+            "While many of these studies noted Bdramatic^decreases in student misbehavior, the reliability of these results is limited due to the nature of the study research designs Bwhich would not have been rated as rigorous by evidence rating systems in justice \u2026 or education^(p.",
+            "92).",
+            "The authors conclude that their review should serve Bas an incentive^(p.",
+            "94) to researchers and funders to collaborate on rigorous evaluations to generate more definitive knowledge."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "In this paper, we report the results of a randomized trial that tested the impact of a collaborative, police-school partnership approach that sought to reduce truancy and facilitate the willingness to attend school in a sample of high-risk truanting youth. We begin by describing the evolution of the Ability School Engagement Program (ASEP) and then present the results, focusing on the student primary truancy measures. 1",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "In this paper, we report the results of a randomized trial that tested the impact of a collaborative, police-school partnership approach that sought to reduce truancy and facilitate the willingness to attend school in a sample of high-risk truanting youth.",
+            "We begin by describing the evolution of the Ability School Engagement Program (ASEP) and then present the results, focusing on the student primary truancy measures.",
+            "1"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "The ASEP was developed out of shared police and school concerns about high levels of truancy in one Australian police district characterized by considerable socioeconomic disadvantage and crime (Mazerolle 2014) . At the time that the program was developed, schools were responsible for implementing the Education (General Provisions) Act 2006 (QLD) that explicitly applied a four-stage escalation process for school nonattendance. When the school identified unexplained or unsatisfactory absences or patterns of absences 2 (Queensland Government 2016), the school principal was required to send a letter to the parent or guardian of the truanting student, explaining parental responsibilities for making sure their truanting child attends school (stage 1). If truancy continued, the principal would initiate a formal meeting with parents (stage 2), escalating to a formal warning of prosecution notice to parents (stage 3) and lastly (stage 4), initiation of prosecution procedures by the Chief Executive of the Department of Education and Training with a penalty of $AU660 for a first offense and $AU1320 for a second or subsequent offense.",
+        "section": "Contextualizing the Ability School Engagement Program",
+        "section_number": 5,
+        "sentences": [
+            "The ASEP was developed out of shared police and school concerns about high levels of truancy in one Australian police district characterized by considerable socioeconomic disadvantage and crime (Mazerolle 2014) .",
+            "At the time that the program was developed, schools were responsible for implementing the Education (General Provisions) Act 2006 (QLD) that explicitly applied a four-stage escalation process for school nonattendance.",
+            "When the school identified unexplained or unsatisfactory absences or patterns of absences 2 (Queensland Government 2016), the school principal was required to send a letter to the parent or guardian of the truanting student, explaining parental responsibilities for making sure their truanting child attends school (stage 1).",
+            "If truancy continued, the principal would initiate a formal meeting with parents (stage 2), escalating to a formal warning of prosecution notice to parents (stage 3) and lastly (stage 4), initiation of prosecution procedures by the Chief Executive of the Department of Education and Training with a penalty of $AU660 for a first offense and $AU1320 for a second or subsequent offense."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Prior to developing the program, police and school representatives from the target police district anecdotally believed that truancy laws were being applied in a haphazard manner and were perceived as being ineffective for reducing truancy. Therefore, third party policing was used to frame the intervention model. This policing approach is characterized by a partnership between police and other non-police entities who possess legal provisions (legal levers) that can be used to address crime and/or disorder problems (Mazerolle 2014; Mazerolle and Ransley 2006) . For the ASEP, this legal provision was the aforementioned Education (General Provisions) Act. Together, police and school leaders in the target district wanted to implement a collaborative, sustainable program that explained the legal escalation framework to the truants and their parents in a way that would raise awareness of the truancy laws, foster perceptions of the legitimacy of the laws, empower participants to willingly re-engage with school, and thereby, increase their school attendance. Recognizing that truancy often co-occurs with a range of risk factors within the individual, family, schools, and community (see Kearney 2008b for a review), the police and school leaders adapted a family group conferencing approach (Connolly and Masson 2014) as the primary vehicle of the intervention, using the conferencing format to (1) identify psychosocial issues contributing to the young person's nonattendance at school, (2) raise awareness of truancy laws, and (3) create an Action Plan to support families' efforts to re-engage the student with school.",
+        "section": "Contextualizing the Ability School Engagement Program",
+        "section_number": 6,
+        "sentences": [
+            "Prior to developing the program, police and school representatives from the target police district anecdotally believed that truancy laws were being applied in a haphazard manner and were perceived as being ineffective for reducing truancy.",
+            "Therefore, third party policing was used to frame the intervention model.",
+            "This policing approach is characterized by a partnership between police and other non-police entities who possess legal provisions (legal levers) that can be used to address crime and/or disorder problems (Mazerolle 2014; Mazerolle and Ransley 2006) .",
+            "For the ASEP, this legal provision was the aforementioned Education (General Provisions) Act.",
+            "Together, police and school leaders in the target district wanted to implement a collaborative, sustainable program that explained the legal escalation framework to the truants and their parents in a way that would raise awareness of the truancy laws, foster perceptions of the legitimacy of the laws, empower participants to willingly re-engage with school, and thereby, increase their school attendance.",
+            "Recognizing that truancy often co-occurs with a range of risk factors within the individual, family, schools, and community (see Kearney 2008b for a review), the police and school leaders adapted a family group conferencing approach (Connolly and Masson 2014) as the primary vehicle of the intervention, using the conferencing format to (1) identify psychosocial issues contributing to the young person's nonattendance at school, (2) raise awareness of truancy laws, and (3) create an Action Plan to support families' efforts to re-engage the student with school."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Substantial evidence exists showing that group conferencing, utilizing restorative processes, can positively impact behavior (e.g., bullying, fighting, truancy, criminal offending) and can be effective in child protection and youth justice contexts (Barnsdale and Walker 2007; Cameron and Thorsborne 1999; Crampton 2007; Frost et al. 2014a, b; McGarrell and Hipple 2007) . While variations exist in specific applications of restorative processes within face-to-face group conferencing models, the format generally involves a facilitated discussion of context, including what happened, the effects of negative behavior or an event, explication of the contributing factors, and then development and agreement of specific actions to improve future outcomes (Cameron and Thorsborne 1999; Sherman et al. 2015; Wachtel 2013) . The group conferencing model also provides a forum for fostering the legitimacy of legal or regulatory consequences of antisocial behavior (Braithwaite 2002; Braithwaite et al. 2009; Tyler et al. 2007) . In the London Crown Court Trials (Sherman et al. 2015) , for example, the police-led conferences used a procedurally fair approach (treating participants with dignity and respect, demonstrating that authority decisions are made neutrally and with trustworthy motives, and allowing participants the opportunity for input) to convey the consequences of the offending behavior, with a view to reduce re-offending and foster perceptions of the legitimacy of the law (see Murphy et al. 2009; Tyler 2006; Tyler et al. 2007) . The ASEP adapted the group conferencing model, creating a forum for parents, the truanting student, police, and school representatives (with invited support people and services as required) to discuss issues contributing to persistent and unauthorized school absences. Using a procedurally fair dialog, the school representative in the conference explicitly explained the four-stage legal escalation framework that would occur with continued truancy. The conference also demonstrated the collaborative partnership approach that the police and schools were taking to support the student in their efforts to achieve future educational or vocational goals and avoid offending or victimization risks associated with truanting.",
+        "section": "Contextualizing the Ability School Engagement Program",
+        "section_number": 7,
+        "sentences": [
+            "Substantial evidence exists showing that group conferencing, utilizing restorative processes, can positively impact behavior (e.g., bullying, fighting, truancy, criminal offending) and can be effective in child protection and youth justice contexts (Barnsdale and Walker 2007; Cameron and Thorsborne 1999; Crampton 2007; Frost et al. 2014a, b; McGarrell and Hipple 2007) .",
+            "While variations exist in specific applications of restorative processes within face-to-face group conferencing models, the format generally involves a facilitated discussion of context, including what happened, the effects of negative behavior or an event, explication of the contributing factors, and then development and agreement of specific actions to improve future outcomes (Cameron and Thorsborne 1999; Sherman et al. 2015; Wachtel 2013) .",
+            "The group conferencing model also provides a forum for fostering the legitimacy of legal or regulatory consequences of antisocial behavior (Braithwaite 2002; Braithwaite et al. 2009; Tyler et al. 2007) .",
+            "In the London Crown Court Trials (Sherman et al. 2015) , for example, the police-led conferences used a procedurally fair approach (treating participants with dignity and respect, demonstrating that authority decisions are made neutrally and with trustworthy motives, and allowing participants the opportunity for input) to convey the consequences of the offending behavior, with a view to reduce re-offending and foster perceptions of the legitimacy of the law (see Murphy et al. 2009; Tyler 2006; Tyler et al. 2007) .",
+            "The ASEP adapted the group conferencing model, creating a forum for parents, the truanting student, police, and school representatives (with invited support people and services as required) to discuss issues contributing to persistent and unauthorized school absences.",
+            "Using a procedurally fair dialog, the school representative in the conference explicitly explained the four-stage legal escalation framework that would occur with continued truancy.",
+            "The conference also demonstrated the collaborative partnership approach that the police and schools were taking to support the student in their efforts to achieve future educational or vocational goals and avoid offending or victimization risks associated with truanting."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "The ASEP is a collaborative police-school partnership approach that adapts a family group conferencing model to emphasize methods of enhancing the legitimacy of the laws while also fostering an opportunity to alleviate barriers to school attendance. Although the overarching ASEP evaluation includes a range of secondary outcomes (Mazerolle 2014 and Supplementary Materials) , this article reports on the primary outcomes for the ASEP trial related to the students' truancy and their own self-reports of this behavior. Specifically, we test whether students who participated in ASEP would (1) show greater decreases in truancy and (2) report greater willingness to attend school or improve school attendance behavior compared to truanting students who underwent the business-as-usual standard approach for managing truancy.",
+        "section": "Hypotheses",
+        "section_number": 8,
+        "sentences": [
+            "The ASEP is a collaborative police-school partnership approach that adapts a family group conferencing model to emphasize methods of enhancing the legitimacy of the laws while also fostering an opportunity to alleviate barriers to school attendance.",
+            "Although the overarching ASEP evaluation includes a range of secondary outcomes (Mazerolle 2014 and Supplementary Materials) , this article reports on the primary outcomes for the ASEP trial related to the students' truancy and their own self-reports of this behavior.",
+            "Specifically, we test whether students who participated in ASEP would (1) show greater decreases in truancy and (2) report greater willingness to attend school or improve school attendance behavior compared to truanting students who underwent the business-as-usual standard approach for managing truancy."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "We tested the program's impact under randomized field trial conditions, allocating 102 truanting young people to either a control or experimental condition (see below) using a 1:1 parallel design. Due to a lack of pre-existing studies to guide a priori power analysis, generalized statistical conventions were used to determine sample size. The trial was powered a priori to be a high-powered experiment (0.80 and above), with a 10% margin of error and a medium effect size. The repeatedmeasures design of the trial (see below) increased the statistical power of the experiment by controlling for withinindividual variation (Howell 2010) . With these assumptions, we calculated the sample size required was 102 cases (i.e., 51 cases per group). Because the trial was powered with a 0.10 alpha, results are also interpreted as statistically significant at p < .10, often considered acceptable in Bproof-of-concept\u00ea",
+        "section": "Method Experimental Design",
+        "section_number": 9,
+        "sentences": [
+            "We tested the program's impact under randomized field trial conditions, allocating 102 truanting young people to either a control or experimental condition (see below) using a 1:1 parallel design.",
+            "Due to a lack of pre-existing studies to guide a priori power analysis, generalized statistical conventions were used to determine sample size.",
+            "The trial was powered a priori to be a high-powered experiment (0.80 and above), with a 10% margin of error and a medium effect size.",
+            "The repeatedmeasures design of the trial (see below) increased the statistical power of the experiment by controlling for withinindividual variation (Howell 2010) .",
+            "With these assumptions, we calculated the sample size required was 102 cases (i.e., 51 cases per group).",
+            "Because the trial was powered with a 0.10 alpha, results are also interpreted as statistically significant at p < .10, often considered acceptable in Bproof-of-concept\u00ea"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "xperimental research that (a) balances the probability of type I and type II errors and (b) focuses on the direction and magnitude of effects to establish initial evidence for treatment efficacy (Cohen 1992 ; see Gewandter et al. 2014 for a recent discussion).",
+        "section": "Method Experimental Design",
+        "section_number": 10,
+        "sentences": [
+            "xperimental research that (a) balances the probability of type I and type II errors and (b) focuses on the direction and magnitude of effects to establish initial evidence for treatment efficacy (Cohen 1992 ; see Gewandter et al. 2014 for a recent discussion)."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Recruitment and Allocation The program involved police from one police district partnering with the 11 schools that fell within the same geographic area as the police district. A program-dedicated police officer working with designated school representatives from each of the 11 target schools recruited students and their parents between October 2011 and May 2013. Recruitment was conducted in a rolling fashion over this period: Eligible and consenting participants were randomly assigned to the experimental or control condition following completion of the baseline survey.",
+        "section": "Participants",
+        "section_number": 11,
+        "sentences": [
+            "Recruitment and Allocation The program involved police from one police district partnering with the 11 schools that fell within the same geographic area as the police district.",
+            "A program-dedicated police officer working with designated school representatives from each of the 11 target schools recruited students and their parents between October 2011 and May 2013.",
+            "Recruitment was conducted in a rolling fashion over this period: Eligible and consenting participants were randomly assigned to the experimental or control condition following completion of the baseline survey."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "The schools were located within highly disadvantaged metropolitan areas in Australia, in the state of Queensland (see Mazerolle 2014) . Consistent with what is known from the truancy literature (Askeland et al. 2015) , to be eligible for inclusion in the program, students needed to be aged 10-16 years with 85% or less attendance in the three previous school terms and have no legitimate explanation for their absences from school (e.g., legitimate medical illness). School staff made initial contact with the parent to gain provisional consent to take part in the trial. Each case needed to include at least one legally responsible parent who could provide consent, was willing to take part in a program conference if assigned, and agreed to complete follow-up surveys. The program police officer then met with the parent and student faceto-face to describe the project in full before gaining informed consent (after a 24-h Bcooling off^period). Prior to the recruitment phase, a statistician external to the project team used a random number generator to allocate the 102 cases to the control or experimental condition. The allocation results were secured in sealed sequentially numbered opaque envelopes, and all members of the program trial team were blind to the allocation results. Participants who provided informed consent were provided with a sealed envelope containing their group allocation, which was opened in the presence of the project staff.",
+        "section": "Participants",
+        "section_number": 12,
+        "sentences": [
+            "The schools were located within highly disadvantaged metropolitan areas in Australia, in the state of Queensland (see Mazerolle 2014) .",
+            "Consistent with what is known from the truancy literature (Askeland et al. 2015) , to be eligible for inclusion in the program, students needed to be aged 10-16 years with 85% or less attendance in the three previous school terms and have no legitimate explanation for their absences from school (e.g., legitimate medical illness).",
+            "School staff made initial contact with the parent to gain provisional consent to take part in the trial.",
+            "Each case needed to include at least one legally responsible parent who could provide consent, was willing to take part in a program conference if assigned, and agreed to complete follow-up surveys.",
+            "The program police officer then met with the parent and student faceto-face to describe the project in full before gaining informed consent (after a 24-h Bcooling off^period).",
+            "Prior to the recruitment phase, a statistician external to the project team used a random number generator to allocate the 102 cases to the control or experimental condition.",
+            "The allocation results were secured in sealed sequentially numbered opaque envelopes, and all members of the program trial team were blind to the allocation results.",
+            "Participants who provided informed consent were provided with a sealed envelope containing their group allocation, which was opened in the presence of the project staff."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "44682",
+        "text": "Sample Description Over the recruitment period, 51 young people were randomly allocated to the experimental condition, and 51 to the control condition. At baseline, the random allocation process led to a high level of equivalence between the experimental and control conditions on demographic factors such as age, gender, school level, family background, and baseline truancy levels (Table 1) . While we note minor differences in the raw percentages of single parents and families where English is a second language, the equivalence tests for these demographic variables did not reach statistical significance.",
+        "section": "Participants",
+        "section_number": 13,
+        "sentences": [
+            "Sample Description Over the recruitment period, 51 young people were randomly allocated to the experimental condition, and 51 to the control condition.",
+            "At baseline, the random allocation process led to a high level of equivalence between the experimental and control conditions on demographic factors such as age, gender, school level, family background, and baseline truancy levels (Table 1) .",
+            "While we note minor differences in the raw percentages of single parents and families where English is a second language, the equivalence tests for these demographic variables did not reach statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Control Condition Within the control condition, the schools continued to implement the truancy laws in their usual way. This typically involved the school principal making ad-hoc decisions to initiate formal meetings with the truant's parent, issue warning letters via mail, and (in rare cases) send letters of impending prosecution to the parents of the truanting student. As it was customary for school officials to provide written leaflets to families when truancy and other behavioral issues arose (and to comply with requests from the Ethics Board review), families in the control condition also received a resource pack, which included an envelope containing preexisting community information leaflets/resource lists.",
+        "section": "Experimental Conditions",
+        "section_number": 14,
+        "sentences": [
+            "Control Condition Within the control condition, the schools continued to implement the truancy laws in their usual way.",
+            "This typically involved the school principal making ad-hoc decisions to initiate formal meetings with the truant's parent, issue warning letters via mail, and (in rare cases) send letters of impending prosecution to the parents of the truanting student.",
+            "As it was customary for school officials to provide written leaflets to families when truancy and other behavioral issues arose (and to comply with requests from the Ethics Board review), families in the control condition also received a resource pack, which included an envelope containing preexisting community information leaflets/resource lists."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Experimental Condition In addition to adhering to the same legislation and education department policies regarding school attendance as the control condition, the experimental treatment involved a program conference (including development of a child-focused Action Plan), a police officer monitoring the Action Plan for 6 months and then a short, exit meeting scheduled for approximately 6 months post the program conference. Four trained conference facilitators with experience in group conferencing for youth justice and child protection cases were co-opted from the Department of Communities to facilitate the program conferences. The conferences followed a standardized structure adapted from traditional group conferencing models used in child protection contexts (Connolly and Masson 2014; Harris 2008 ). The truanting student, their parent(s), school and uniformed police representatives, and relevant support (e.g., family, friends and/ or support service representatives) came together at a mutually School 5 n = 3 n = 4 n = 7 n/a School 6 n = 5 n = 5 n = 10 1.00 School 7 n = 1 n = 0 n = 1 n/a School 8 n = 4 n = 3 n = 7 n/a School 9 n = 6 n = 7 n = 13 .782",
+        "section": "Experimental Conditions",
+        "section_number": 15,
+        "sentences": [
+            "Experimental Condition In addition to adhering to the same legislation and education department policies regarding school attendance as the control condition, the experimental treatment involved a program conference (including development of a child-focused Action Plan), a police officer monitoring the Action Plan for 6 months and then a short, exit meeting scheduled for approximately 6 months post the program conference.",
+            "Four trained conference facilitators with experience in group conferencing for youth justice and child protection cases were co-opted from the Department of Communities to facilitate the program conferences.",
+            "The conferences followed a standardized structure adapted from traditional group conferencing models used in child protection contexts (Connolly and Masson 2014; Harris 2008 ).",
+            "The truanting student, their parent(s), school and uniformed police representatives, and relevant support (e.g., family, friends and/ or support service representatives) came together at a mutually School 5 n = 3 n = 4 n = 7 n/a School 6 n = 5 n = 5 n = 10 1.00 School 7 n = 1 n = 0 n = 1 n/a School 8 n = 4 n = 3 n = 7 n/a School 9 n = 6 n = 7 n = 13 .782"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "School 10 n = 7 n = 4 n = 11 .366 School 11 n = 0 n = 0 n = 0 n/a agreed upon location such as the school or local community center (e.g., library meeting room). The facilitator introduced participants and asked the student to describe what had been happening in relation to school attendance (e.g., Bwhen did you start missing school?^, Bwhat do you do when you are not at school?^). During the structured conference, the facilitator asked participants to talk about how people were affected when the student missed school, including personal consequences such as difficulties maintaining in-school friendships, poor educational outcomes, and future employment difficulties. The uniformed police officer and the school representative actively participated in the conference, talking with the student and their parent in a procedurally fair manner about how truancy negatively affected the student's work (e.g., increased risk of offending, victimization and failure to develop positive social and educational outcomes) and conveying their sincere desire for the student to regularly attend school to improve their life trajectory. The facilitator also invited the school representative to explain the laws pertaining to truancy and the legal consequences of missing school, taking care to describe the regulatory escalation framework and potentially increasingly punitive actions that could be taken if the truancy continued, while emphasizing that their goal was to encourage both the parents and their child to willingly comply with the school attendance laws. Each conference culminated in the facilitator working with conference participants to collaboratively develop a childfocused Action Plan. The Action Plan was used as a tool to structure and support participants adhering to the agreed upon simple actions that aimed to address some of the issues underlying the student's truancy. The goal was for the student, parent, or other participants to adhere consistently to each action item before a final Bexit meeting^scheduled approximately 6 months after the conference. Example items in the Action Plans included development of home routines to support school attendance, provision of school-based tutoring, and referrals to social support agencies to address complex psychosocial issues. The program police officer monitored the Action Plans in an informal, ad hoc manner during this 6month period to encourage compliance with the Action Plan items. This included making phone calls, visiting homes and attending schools during the monitoring period to check-in with the young person, their parent, and the school representative to make sure the Action Plan items were being implemented.",
+        "section": "Experimental Conditions",
+        "section_number": 16,
+        "sentences": [
+            "School 10 n = 7 n = 4 n = 11 .366 School 11 n = 0 n = 0 n = 0 n/a agreed upon location such as the school or local community center (e.g., library meeting room).",
+            "The facilitator introduced participants and asked the student to describe what had been happening in relation to school attendance (e.g., Bwhen did you start missing school?^, Bwhat do you do when you are not at school?^).",
+            "During the structured conference, the facilitator asked participants to talk about how people were affected when the student missed school, including personal consequences such as difficulties maintaining in-school friendships, poor educational outcomes, and future employment difficulties.",
+            "The uniformed police officer and the school representative actively participated in the conference, talking with the student and their parent in a procedurally fair manner about how truancy negatively affected the student's work (e.g., increased risk of offending, victimization and failure to develop positive social and educational outcomes) and conveying their sincere desire for the student to regularly attend school to improve their life trajectory.",
+            "The facilitator also invited the school representative to explain the laws pertaining to truancy and the legal consequences of missing school, taking care to describe the regulatory escalation framework and potentially increasingly punitive actions that could be taken if the truancy continued, while emphasizing that their goal was to encourage both the parents and their child to willingly comply with the school attendance laws.",
+            "Each conference culminated in the facilitator working with conference participants to collaboratively develop a childfocused Action Plan.",
+            "The Action Plan was used as a tool to structure and support participants adhering to the agreed upon simple actions that aimed to address some of the issues underlying the student's truancy.",
+            "The goal was for the student, parent, or other participants to adhere consistently to each action item before a final Bexit meeting^scheduled approximately 6 months after the conference.",
+            "Example items in the Action Plans included development of home routines to support school attendance, provision of school-based tutoring, and referrals to social support agencies to address complex psychosocial issues.",
+            "The program police officer monitored the Action Plans in an informal, ad hoc manner during this 6month period to encourage compliance with the Action Plan items.",
+            "This included making phone calls, visiting homes and attending schools during the monitoring period to check-in with the young person, their parent, and the school representative to make sure the Action Plan items were being implemented."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "School representatives attending conferences varied from guidance counselors to school principals and were selected by school leaders based on availability or suitability to each case. Police representatives were general duties officers selected from local policing districts. All school, police, and social service representatives were provided brief training on their role in the conference. Research staff monitored each case in consultation with schools and police to identify and minimize any potential contamination between conditions. The dedicated ASEP police officer identified one of the pool of officers to attend each conference (regardless of students' school), based on their roster availability. An average of 2.75 family members (including student; SD = 0.98; range 2-7) and an average of 3.04 professionals (excluding facilitator; SD = 0.99; range = 2-6) participated in the conferences. Mean conference length was 95.99 min (SD = 27.04; range = 50-158 min).",
+        "section": "Experimental Conditions",
+        "section_number": 17,
+        "sentences": [
+            "School representatives attending conferences varied from guidance counselors to school principals and were selected by school leaders based on availability or suitability to each case.",
+            "Police representatives were general duties officers selected from local policing districts.",
+            "All school, police, and social service representatives were provided brief training on their role in the conference.",
+            "Research staff monitored each case in consultation with schools and police to identify and minimize any potential contamination between conditions.",
+            "The dedicated ASEP police officer identified one of the pool of officers to attend each conference (regardless of students' school), based on their roster availability.",
+            "An average of 2.75 family members (including student; SD = 0.98; range 2-7) and an average of 3.04 professionals (excluding facilitator; SD = 0.99; range = 2-6) participated in the conferences.",
+            "Mean conference length was 95.99 min (SD = 27.04; range = 50-158 min)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "School Attendance Students' school absences were collected from the education department's database, and a rate of absenteeism was calculated for each student. Absences were calculated as a proportion of school days that were missed (i.e., weekends and holidays were excluded, as were periods of time students were not enrolled in school), with part day absences weighted as 0.25 or 0.5 of a day's absence where appropriate. For high school students, absenteeism was calculated using the proportion of unexplained or unauthorized absences across the three school terms 3 prior to the date of their random assignment. For primary school students, school staff indicated that unexplained absences were not frequently recorded and so, as per their suggestion, primary school students' absences were calculated using the proportion of absences of any type. Baseline data were collated for all student participants in the three school terms prior to the individual students' date of random assignment. Comparison post intervention data were taken for the three school terms following their Btreatment,^that is, for experimental student participants, the three school terms following their program conference and for control student participants, the three school terms following their resource pack being delivered to them. 4",
+        "section": "Outcome Measures",
+        "section_number": 18,
+        "sentences": [
+            "School Attendance Students' school absences were collected from the education department's database, and a rate of absenteeism was calculated for each student.",
+            "Absences were calculated as a proportion of school days that were missed (i.e., weekends and holidays were excluded, as were periods of time students were not enrolled in school), with part day absences weighted as 0.25 or 0.5 of a day's absence where appropriate.",
+            "For high school students, absenteeism was calculated using the proportion of unexplained or unauthorized absences across the three school terms 3 prior to the date of their random assignment.",
+            "For primary school students, school staff indicated that unexplained absences were not frequently recorded and so, as per their suggestion, primary school students' absences were calculated using the proportion of absences of any type.",
+            "Baseline data were collated for all student participants in the three school terms prior to the individual students' date of random assignment.",
+            "Comparison post intervention data were taken for the three school terms following their Btreatment,^that is, for experimental student participants, the three school terms following their program conference and for control student participants, the three school terms following their resource pack being delivered to them.",
+            "4"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Attend School Student perceptions of behavior and willingness to attend school were collected via face-to-face follow-up 3 A school term is approximately 47-50 school days (\u224810 weeks), with minor variation depending on public and school holidays, or earlier completion dates for senior students. Thus, on average, three terms is 143 days. 4 For school data, we chose to use data post conference, rather than directly post randomization, in order to more clearly see the impact of the intervention. This also corresponded roughly to the time period covered up until the T3 survey, with less than 10% of participants' T3 surveys collected outside this range. Because of the preparation required for the conferences and the need to coordinate a time when all conference participants could meet, the conferences occurred significantly longer after randomization than control participants received their pack (Exp: conferences occurred M = 92.471 calendar days post randomization, SD = 54.240; control: resource pack delivered M = 11.216 days post randomization, SD = 11.216; t(52.672) = 10.558, p < .001). However, there was not a significantly different amount of time between intervention delivery (either conference or resource pack) and the average amount of time included in the post intervention follow-up period for absences. Absences for both groups were calculated within the three school terms (approximately 9 months) following their individual intervention date, which differed for each participant. surveys with young people. 5 At both baseline (T1) and 6month follow-up (T3), students were also asked to selfreport their truanting behavior for the 4 weeks prior to the survey with a single item BDuring the last 4 weeks, about how many days have you missed because you skipped or 'wagged'?^This item was adapted from the Australian version of the Communities that Care survey (Bond et al. 2000) and provided seven response options ranging from 0, none to 6, 11 or more days. Students were asked about how their behavior had changed following the intervention (rated on a five-point Likert scale from 1, strongly disagree to 5, strongly agree). Item wording was slightly varied based on the participants' condition, asking BSince the conference/Since being involved in the program, I have tried to go to school more often,^BThe conference/program made me address the reasons why I have been skipping school^, and BI think the program/conference was a useful way to get me to improve my behavior.^These subjective change measures were utilized in order to gauge student perceptions of change and acceptability of the approach in either the control or experimental condition.",
+        "section": "Student Perceptions of Behavior and Willingness to",
+        "section_number": 19,
+        "sentences": [
+            "Attend School Student perceptions of behavior and willingness to attend school were collected via face-to-face follow-up 3 A school term is approximately 47-50 school days (\u224810 weeks), with minor variation depending on public and school holidays, or earlier completion dates for senior students.",
+            "Thus, on average, three terms is 143 days.",
+            "4 For school data, we chose to use data post conference, rather than directly post randomization, in order to more clearly see the impact of the intervention.",
+            "This also corresponded roughly to the time period covered up until the T3 survey, with less than 10% of participants' T3 surveys collected outside this range.",
+            "Because of the preparation required for the conferences and the need to coordinate a time when all conference participants could meet, the conferences occurred significantly longer after randomization than control participants received their pack (Exp: conferences occurred M = 92.471 calendar days post randomization, SD = 54.240; control: resource pack delivered M = 11.216 days post randomization, SD = 11.216; t(52.672) = 10.558, p < .001).",
+            "However, there was not a significantly different amount of time between intervention delivery (either conference or resource pack) and the average amount of time included in the post intervention follow-up period for absences.",
+            "Absences for both groups were calculated within the three school terms (approximately 9 months) following their individual intervention date, which differed for each participant.",
+            "surveys with young people.",
+            "5 At both baseline (T1) and 6month follow-up (T3), students were also asked to selfreport their truanting behavior for the 4 weeks prior to the survey with a single item BDuring the last 4 weeks, about how many days have you missed because you skipped or 'wagged'?^This item was adapted from the Australian version of the Communities that Care survey (Bond et al. 2000) and provided seven response options ranging from 0, none to 6, 11 or more days.",
+            "Students were asked about how their behavior had changed following the intervention (rated on a five-point Likert scale from 1, strongly disagree to 5, strongly agree).",
+            "Item wording was slightly varied based on the participants' condition, asking BSince the conference/Since being involved in the program, I have tried to go to school more often,^BThe conference/program made me address the reasons why I have been skipping school^, and BI think the program/conference was a useful way to get me to improve my behavior.^These subjective change measures were utilized in order to gauge student perceptions of change and acceptability of the approach in either the control or experimental condition."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Survey Timing Time 1 (baseline) surveys were conducted immediately prior to random assignment. The time 2 (T2) surveys were designed to occur approximately 3 months post random assignment for both experimental and control participants, with experimental participants completing the T2 survey at least 3 weeks after the program conference; T3 surveys were designed to be scheduled at approximately 6 months post random assignment for the control group and after the exit meeting (approximately 6 to 9 months post) for the experimental group. Surveys were designed to measure the impact of specific events (e.g., the conference or exit meeting), and therefore, the timing of the survey varied to accommodate the unique circumstances of each case. For example, some conferences took longer to organize and/or timelines shifted due to school holidays or schedule coordination between family and police/school representatives, which in turn impacted on when the survey was administered. Surveys were administered in a convenient location for the families (e.g., their home or administrative room at the student's school) by two trained researchers. On average, student participants completed the T2 survey 5.04 months (SD = 2.49 months; range = 2.73-1 6 . 5 9 m o n t h s ) a n d T 3 s u r v e y 9 . 8 8 m o n t h s (SD = 3.19 months; range = 5.58-18.83 months) after random allocation. Due to significant scheduling challenges, two students completed a combined T2 and T3 survey. Their responses to the specific outcome measures in this study were therefore only included for T2.",
+        "section": "Student Perceptions of Behavior and Willingness to",
+        "section_number": 20,
+        "sentences": [
+            "Survey Timing Time 1 (baseline) surveys were conducted immediately prior to random assignment.",
+            "The time 2 (T2) surveys were designed to occur approximately 3 months post random assignment for both experimental and control participants, with experimental participants completing the T2 survey at least 3 weeks after the program conference; T3 surveys were designed to be scheduled at approximately 6 months post random assignment for the control group and after the exit meeting (approximately 6 to 9 months post) for the experimental group.",
+            "Surveys were designed to measure the impact of specific events (e.g., the conference or exit meeting), and therefore, the timing of the survey varied to accommodate the unique circumstances of each case.",
+            "For example, some conferences took longer to organize and/or timelines shifted due to school holidays or schedule coordination between family and police/school representatives, which in turn impacted on when the survey was administered.",
+            "Surveys were administered in a convenient location for the families (e.g., their home or administrative room at the student's school) by two trained researchers.",
+            "On average, student participants completed the T2 survey 5.04 months (SD = 2.49 months; range = 2.73-1 6 .",
+            "5 9 m o n t h s ) a n d T 3 s u r v e y 9 .",
+            "8 8 m o n t h s (SD = 3.19 months; range = 5.58-18.83 months) after random allocation.",
+            "Due to significant scheduling challenges, two students completed a combined T2 and T3 survey.",
+            "Their responses to the specific outcome measures in this study were therefore only included for T2."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Attrition Figure 1 provides the CONSORT flowchart for the ASEP trial. Between random allocation and T2, two families (one experimental, one control) withdrew their participation in the trial, and one additional control family withdrew participation between T2 and T3. The experimental family withdrew prior to their conference. Two other experimental student participants declined participation in the conference, but continued to participate in subsequent surveys. They were issued a resource pack as per the control condition, but were still considered experimental participants in statistical analyses. One additional family could not be contacted to complete the T2 or T3 survey. In total, 99 students completed the T2 survey and 98 students completed the T3 survey. In addition, school attendance data were unavailable for inclusion in analyses for two of the experimental students because the students moved out of the state school system soon after the intervention.",
+        "section": "Student Perceptions of Behavior and Willingness to",
+        "section_number": 21,
+        "sentences": [
+            "Attrition Figure 1 provides the CONSORT flowchart for the ASEP trial.",
+            "Between random allocation and T2, two families (one experimental, one control) withdrew their participation in the trial, and one additional control family withdrew participation between T2 and T3.",
+            "The experimental family withdrew prior to their conference.",
+            "Two other experimental student participants declined participation in the conference, but continued to participate in subsequent surveys.",
+            "They were issued a resource pack as per the control condition, but were still considered experimental participants in statistical analyses.",
+            "One additional family could not be contacted to complete the T2 or T3 survey.",
+            "In total, 99 students completed the T2 survey and 98 students completed the T3 survey.",
+            "In addition, school attendance data were unavailable for inclusion in analyses for two of the experimental students because the students moved out of the state school system soon after the intervention."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Official Pre-Post Absenteeism We conducted a mixed model factorial ANOVA to examine if there were differential effects, compared to baseline, of the experimental ASEP intervention and the control condition on students' absenteeism. A 2 (time: pre-intervention, post intervention) \u00d7 2 (condition: experimental, control) mixed model ANOVA indicated no significant main effect of condition (F(1, 98) = 0.054, p = .817, \u03b7 p 2 = 0.001). However, there was a significant main effect of time that showed an overall decline in absenteeism from pre-to post-intervention (F(1, 98) = 7.876, p = .006, \u03b7 p 2 = 0.074). This main effect was qualified by a significant interaction between time and condition (F(1, 98) = 3.502, p = .064, \u03b7 p 2 = 0.034). In investigating the interaction (Table 2) , we found experimental student participants' absenteeism decreased significantly from pre-to post-intervention (F(1, 98) = 10.726, p = .001, \u03b7 p 2 = 0.099), but did not significantly decrease for control student participants (F(1, 98) = 0.446, p = .206, \u03b7 p 2 = 0.005).",
+        "section": "Results",
+        "section_number": 22,
+        "sentences": [
+            "Official Pre-Post Absenteeism We conducted a mixed model factorial ANOVA to examine if there were differential effects, compared to baseline, of the experimental ASEP intervention and the control condition on students' absenteeism.",
+            "A 2 (time: pre-intervention, post intervention) \u00d7 2 (condition: experimental, control) mixed model ANOVA indicated no significant main effect of condition (F(1, 98) = 0.054, p = .817, \u03b7 p 2 = 0.001).",
+            "However, there was a significant main effect of time that showed an overall decline in absenteeism from pre-to post-intervention (F(1, 98) = 7.876, p = .006, \u03b7 p 2 = 0.074).",
+            "This main effect was qualified by a significant interaction between time and condition (F(1, 98) = 3.502, p = .064, \u03b7 p 2 = 0.034).",
+            "In investigating the interaction (Table 2) , we found experimental student participants' absenteeism decreased significantly from pre-to post-intervention (F(1, 98) = 10.726, p = .001, \u03b7 p 2 = 0.099), but did not significantly decrease for control student participants (F(1, 98) = 0.446, p = .206, \u03b7 p 2 = 0.005)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "The student self-report data show some alignment with the findings of the official schools data (Table 2) . Using a mixed model factorial ANOVA, we compared T1 and T3 self-reported truancy for the experimental and control students, finding a significant main effect of time (F(1, 90) = 25.766, p < .001, \u03b7 p 2 = 0.223), but no effect of condition or the interaction between time and condition (Fs(1, 90) < 0.948, ps > .333, \u03b7 p 2 s < .010). At T3, both control and experimental students reported significantly 5 Students were also asked to rate the frequency that they missed school for a variety of reasons (both legitimate and illegitimate). These responses are provided in the Supplementary Materials. Students' parents also provided responses regarding perceptions of and reactions to truancy, though these are not the focus of this paper. See the Supplemental Materials for a full list of all measures and the timing of their measurement. In some cases (e.g., participant had moved away, shift worker, personal preferences), participants completed surveys online, over the phone, or on paper returned to researchers postagepaid.",
+        "section": "Self-Reported Truancy and Attendance Behavior",
+        "section_number": 23,
+        "sentences": [
+            "The student self-report data show some alignment with the findings of the official schools data (Table 2) .",
+            "Using a mixed model factorial ANOVA, we compared T1 and T3 self-reported truancy for the experimental and control students, finding a significant main effect of time (F(1, 90) = 25.766, p < .001, \u03b7 p 2 = 0.223), but no effect of condition or the interaction between time and condition (Fs(1, 90) < 0.948, ps > .333, \u03b7 p 2 s < .010).",
+            "At T3, both control and experimental students reported significantly 5 Students were also asked to rate the frequency that they missed school for a variety of reasons (both legitimate and illegitimate).",
+            "These responses are provided in the Supplementary Materials.",
+            "Students' parents also provided responses regarding perceptions of and reactions to truancy, though these are not the focus of this paper.",
+            "See the Supplemental Materials for a full list of all measures and the timing of their measurement.",
+            "In some cases (e.g., participant had moved away, shift worker, personal preferences), participants completed surveys online, over the phone, or on paper returned to researchers postagepaid."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "lower levels of truancy than at T1 (Table 2) . Independent groups t tests were also performed to determine differences between experimental and control participants at each postrandomization time point 6 ( Table 2) . At T2, the experimental participants reported that they had tried to go to school more often relative to the control participants (t(96) = 3.745, p < .001) and that the intervention had made them address the reasons why they were skipping school to a greater extent (t(95) = 1.852, p < .067). However, the control and experimental conditions were not different in how useful they thought the intervention was in helping them to improve their behavior (t(95) = 1.851, p < .241). The statistically significant difference between the experimental and control participants saying that they had tried to go to school more often held at T3 (t(90) = 3.091, p < .003). We again found statistically significant differences between the experimental and control participants in relation to the way the respective interventions made them address the reasons why they were skipping school, favoring the experimental condition (t(90) = 1.673, p < .098). We also found that at T3, the experimental participants were significantly higher than control participants in their ratings that the approach helped them to improve their behavior (t(90) = 1.847, p < .068).",
+        "section": "Self-Reported Truancy and Attendance Behavior",
+        "section_number": 24,
+        "sentences": [
+            "lower levels of truancy than at T1 (Table 2) .",
+            "Independent groups t tests were also performed to determine differences between experimental and control participants at each postrandomization time point 6 ( Table 2) .",
+            "At T2, the experimental participants reported that they had tried to go to school more often relative to the control participants (t(96) = 3.745, p < .001) and that the intervention had made them address the reasons why they were skipping school to a greater extent (t(95) = 1.852, p < .067).",
+            "However, the control and experimental conditions were not different in how useful they thought the intervention was in helping them to improve their behavior (t(95) = 1.851, p < .241).",
+            "The statistically significant difference between the experimental and control participants saying that they had tried to go to school more often held at T3 (t(90) = 3.091, p < .003).",
+            "We again found statistically significant differences between the experimental and control participants in relation to the way the respective interventions made them address the reasons why they were skipping school, favoring the experimental condition (t(90) = 1.673, p < .098).",
+            "We also found that at T3, the experimental participants were significantly higher than control participants in their ratings that the approach helped them to improve their behavior (t(90) = 1.847, p < .068)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "The ASEP trial sought to test, under randomized field trial conditions, whether a collaborative police-school partnership could reduce truancy, increase willingness to attend school, and improve school attendance behaviors in a sample of high-risk truanting young people. The results demonstrate that the program shows promise for the hypothesized direct effects. The experimental intervention reduced official truancy, facilitated students' willingness to attend school, and improved school attendance perceptions and behavior. Despite a significant downward trend over time in self-reported truancy, participants in the experimental group did not differ significantly from the control group. Overall, the results suggest that this police-school partnership could be a potential model for reducing truancy beyond the business-as-usual approach adopted by the study schools. Time 2",
+        "section": "Discussion",
+        "section_number": 25,
+        "sentences": [
+            "The ASEP trial sought to test, under randomized field trial conditions, whether a collaborative police-school partnership could reduce truancy, increase willingness to attend school, and improve school attendance behaviors in a sample of high-risk truanting young people.",
+            "The results demonstrate that the program shows promise for the hypothesized direct effects.",
+            "The experimental intervention reduced official truancy, facilitated students' willingness to attend school, and improved school attendance perceptions and behavior.",
+            "Despite a significant downward trend over time in self-reported truancy, participants in the experimental group did not differ significantly from the control group.",
+            "Overall, the results suggest that this police-school partnership could be a potential model for reducing truancy beyond the business-as-usual approach adopted by the study schools.",
+            "Time 2"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Discontinued project participation (n = 1) Fig. 1 Ability student engagement trial CONSORT flow diagram. RA random assignment. Additional data waves are being collated (T4) or being collected in the field (T5) and will be added to diagram upon completion. Reasons for no contact by school (n = 39): students already involved in intervention(s) to alleviate risk (n = 22), school staff were intimidated by family (n = 3), and trial recruitment completed (n = 14) (dagger). Other reasons for ineligibility include the following: (a) at point of eligibility assessment, school no longer believed truancy was an issue (<15% absences); (b) student had a restricted school schedule; and (c) school identified student as special needs (asterisk) The study is not without limitations. First, the program was tested with a small sample size and proof-of-concept parameters using p < .10 statistical testing. At baseline, some demographic variables (single parents, families where English is a second language) were different for the experimental and control group, even though none of the equivalence tests for any of the demographic variables reached statistical significance. Given our already small sample size, testing for subgroup effects (see Gottfredson et al. 2015) was not possible. However, exploring whether the impact of the intervention could vary for different groups will be important for future larger-scale replications that permit sufficiently powered subgroup analyses. We also recognize that although the results are suggestive of positive outcomes, the effect sizes (Table 2) range from small to medium. Larger-scale replications with smaller alpha thresholds are thus needed to verify program impact. Second, analyses of 1-and 2-year follow-up interviews will be undertaken in the future to determine whether the results are sustained over time. We also plan to examine the mechanisms of change and assess the impact of the ASEP on secondary outcomes (Mazerolle 2014) . This work is in progress and will be disseminated in future publications.",
+        "section": "T1 Survey",
+        "section_number": 26,
+        "sentences": [
+            "Discontinued project participation (n = 1) Fig. 1 Ability student engagement trial CONSORT flow diagram.",
+            "RA random assignment.",
+            "Additional data waves are being collated (T4) or being collected in the field (T5) and will be added to diagram upon completion.",
+            "Reasons for no contact by school (n = 39): students already involved in intervention(s) to alleviate risk (n = 22), school staff were intimidated by family (n = 3), and trial recruitment completed (n = 14) (dagger).",
+            "Other reasons for ineligibility include the following: (a) at point of eligibility assessment, school no longer believed truancy was an issue (<15% absences); (b) student had a restricted school schedule; and (c) school identified student as special needs (asterisk) The study is not without limitations.",
+            "First, the program was tested with a small sample size and proof-of-concept parameters using p < .10 statistical testing.",
+            "At baseline, some demographic variables (single parents, families where English is a second language) were different for the experimental and control group, even though none of the equivalence tests for any of the demographic variables reached statistical significance.",
+            "Given our already small sample size, testing for subgroup effects (see Gottfredson et al. 2015) was not possible.",
+            "However, exploring whether the impact of the intervention could vary for different groups will be important for future larger-scale replications that permit sufficiently powered subgroup analyses.",
+            "We also recognize that although the results are suggestive of positive outcomes, the effect sizes (Table 2) range from small to medium.",
+            "Larger-scale replications with smaller alpha thresholds are thus needed to verify program impact.",
+            "Second, analyses of 1-and 2-year follow-up interviews will be undertaken in the future to determine whether the results are sustained over time.",
+            "We also plan to examine the mechanisms of change and assess the impact of the ASEP on secondary outcomes (Mazerolle 2014) .",
+            "This work is in progress and will be disseminated in future publications."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Third, some of the trial measures have notable limitations. For example, asking participants if their behavior had changed after the intervention may have encouraged expectancy effects, and the self-reported measure of truancy lacks sensitivity by only capturing a 4-week period and limited ability to detect subtle differences in truanting behavior (e.g., part-day absences). Fourth, although the trial used rolling recruitment and a standardized post-intervention period to assess changes in official rates of truancy for both groups, we cannot rule out the possibility that some unaccounted event or confound occurred within the time lapse between random allocation and the conference. If such confounds did indeed occur (e.g., change in teacher), they may have either attenuated or accentuated the intervention's impact on truancy. Finally, the program intervention was narrowly focused. While the Action Plans broadly sought to address key issues contributing to truancy through referring families to appropriate social services, the intervention could not address complex underlying causes of truancy across students, which could have included community, family, peer, or individual stressors. We recognize, therefore, that some students and/or families will require complementary interventions that go well beyond the program to adequately alleviate the psychosocial issues often underlying truancy (Maynard et al. 2013; Sutphen et al. 2010) .",
+        "section": "T1 Survey",
+        "section_number": 27,
+        "sentences": [
+            "Third, some of the trial measures have notable limitations.",
+            "For example, asking participants if their behavior had changed after the intervention may have encouraged expectancy effects, and the self-reported measure of truancy lacks sensitivity by only capturing a 4-week period and limited ability to detect subtle differences in truanting behavior (e.g., part-day absences).",
+            "Fourth, although the trial used rolling recruitment and a standardized post-intervention period to assess changes in official rates of truancy for both groups, we cannot rule out the possibility that some unaccounted event or confound occurred within the time lapse between random allocation and the conference.",
+            "If such confounds did indeed occur (e.g., change in teacher), they may have either attenuated or accentuated the intervention's impact on truancy.",
+            "Finally, the program intervention was narrowly focused.",
+            "While the Action Plans broadly sought to address key issues contributing to truancy through referring families to appropriate social services, the intervention could not address complex underlying causes of truancy across students, which could have included community, family, peer, or individual stressors.",
+            "We recognize, therefore, that some students and/or families will require complementary interventions that go well beyond the program to adequately alleviate the psychosocial issues often underlying truancy (Maynard et al. 2013; Sutphen et al. 2010) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Although we suggest that the ASEP model holds promise for future efforts to address truancy, there are important implementation issues to consider: our findings may not generalize to jurisdictions with legal structures that differ from the study context. For example, the laws in Queensland employ a graduated, pyramid approach to engage with truanting families, offering an opportunity for police and school representatives to communicate the escalating consequences in a fair and procedurally just manner. Laws in other jurisdictions may not offer this type of escalating structure. Similarly, the locale that hosted ASEP is an urban, highly disadvantaged area. It is not clear, therefore, whether the ASEP model is generalizable to rural or regional locales or to communities with less (or more) disadvantage.",
+        "section": "T1 Survey",
+        "section_number": 28,
+        "sentences": [
+            "Although we suggest that the ASEP model holds promise for future efforts to address truancy, there are important implementation issues to consider: our findings may not generalize to jurisdictions with legal structures that differ from the study context.",
+            "For example, the laws in Queensland employ a graduated, pyramid approach to engage with truanting families, offering an opportunity for police and school representatives to communicate the escalating consequences in a fair and procedurally just manner.",
+            "Laws in other jurisdictions may not offer this type of escalating structure.",
+            "Similarly, the locale that hosted ASEP is an urban, highly disadvantaged area.",
+            "It is not clear, therefore, whether the ASEP model is generalizable to rural or regional locales or to communities with less (or more) disadvantage."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Successful implementation of the ASEP trial also required the schools and police to build a partnership and support the re-allocation of time, staff, and other resources. This is no easy feat in a context of resource constraints and often competing priorities, processes, and structures. Even with their shared goal of reducing truancy, building a productive partnership in order to work with at-risk families required planning, frequent and transparent communication, and a willingness to compromise. Our experimental results suggest that a partnership with clear and shared goals can aid in the reduction of social problems. Gittell (2006) similarly finds that partnerships are most effective when the parties engage in frequent communication, enjoy shared goals and knowledge, and demonstrate mutual respect (see also Crawford and L'Hoiry 2015). Our results concur with these findings, yet we suggest that shared truancy reduction goals are best realized within the context of a structured (as opposed to unstructured) partnership, with a clearly defined intervention process. Indeed, the fact that the schools and police in the experimental locale had mutual goals to reduce the problem of truancy, yet did not previously work together in a productive manner, underpinned the need for a new, structured approach to the partnership.",
+        "section": "T1 Survey",
+        "section_number": 29,
+        "sentences": [
+            "Successful implementation of the ASEP trial also required the schools and police to build a partnership and support the re-allocation of time, staff, and other resources.",
+            "This is no easy feat in a context of resource constraints and often competing priorities, processes, and structures.",
+            "Even with their shared goal of reducing truancy, building a productive partnership in order to work with at-risk families required planning, frequent and transparent communication, and a willingness to compromise.",
+            "Our experimental results suggest that a partnership with clear and shared goals can aid in the reduction of social problems.",
+            "Gittell (2006) similarly finds that partnerships are most effective when the parties engage in frequent communication, enjoy shared goals and knowledge, and demonstrate mutual respect (see also Crawford and L'Hoiry 2015).",
+            "Our results concur with these findings, yet we suggest that shared truancy reduction goals are best realized within the context of a structured (as opposed to unstructured) partnership, with a clearly defined intervention process.",
+            "Indeed, the fact that the schools and police in the experimental locale had mutual goals to reduce the problem of truancy, yet did not previously work together in a productive manner, underpinned the need for a new, structured approach to the partnership."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Another ASEP implementation consideration pertains to the structure of the family group conference. With ASEP, the structure of the conference not only helped the schools and police to work together productively but also facilitated the willingness of young people to re-engage with school. From the outset, we used the theory of police legitimacy (Tyler 2006; Tyler et al. 2007) and procedural justice policing (Mazerolle et al. 2013; Murphy et al. 2009) to propose that accurate and procedurally fair communication of the laws (and consequences) would assist program participants to better understand their legal responsibilities, making them willingly comply with the law and thereby reduce truancy. Our results suggest, therefore, that the conference structure using procedurally fair dialog shows promise for stimulating a willingness among young people to comply with the law and increase their school attendance.",
+        "section": "T1 Survey",
+        "section_number": 30,
+        "sentences": [
+            "Another ASEP implementation consideration pertains to the structure of the family group conference.",
+            "With ASEP, the structure of the conference not only helped the schools and police to work together productively but also facilitated the willingness of young people to re-engage with school.",
+            "From the outset, we used the theory of police legitimacy (Tyler 2006; Tyler et al. 2007) and procedural justice policing (Mazerolle et al. 2013; Murphy et al. 2009) to propose that accurate and procedurally fair communication of the laws (and consequences) would assist program participants to better understand their legal responsibilities, making them willingly comply with the law and thereby reduce truancy.",
+            "Our results suggest, therefore, that the conference structure using procedurally fair dialog shows promise for stimulating a willingness among young people to comply with the law and increase their school attendance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "We conclude that ASEP has the potential to be sustainable over a lengthy period of time. The feasibility of the approach in the long-term will depend on the willingness and commitment of schools, police, and other social support agencies to maintain a partnership and allocate resources to address a common problem. However, implementation is not dependent on having a designated school-based police officer or truant officer, and the intervention model is relatively straight forward, time-efficient, and replicable. It involved a short engagement between school and police representatives, who were brought together in a brief conference forum to discuss each student's truancy, communicate with the parents the laws around truancy (and their legal responsibilities), and collaboratively develop an Action Plan to facilitate re-engagement with school. We see from our results that this straightforward, yet collaborative, approach appears to promote increased school attendance and willingness to attend school. The relative simplicity and clear structures of ASEP may therefore assist in establishing a sustainable, effective approach to reduce truancy and potentially change the life course of truanting young people (Attwood and Croll 2015; Hancock et al. 2013; Rocque et al. 2016) .",
+        "section": "T1 Survey",
+        "section_number": 31,
+        "sentences": [
+            "We conclude that ASEP has the potential to be sustainable over a lengthy period of time.",
+            "The feasibility of the approach in the long-term will depend on the willingness and commitment of schools, police, and other social support agencies to maintain a partnership and allocate resources to address a common problem.",
+            "However, implementation is not dependent on having a designated school-based police officer or truant officer, and the intervention model is relatively straight forward, time-efficient, and replicable.",
+            "It involved a short engagement between school and police representatives, who were brought together in a brief conference forum to discuss each student's truancy, communicate with the parents the laws around truancy (and their legal responsibilities), and collaboratively develop an Action Plan to facilitate re-engagement with school.",
+            "We see from our results that this straightforward, yet collaborative, approach appears to promote increased school attendance and willingness to attend school.",
+            "The relative simplicity and clear structures of ASEP may therefore assist in establishing a sustainable, effective approach to reduce truancy and potentially change the life course of truanting young people (Attwood and Croll 2015; Hancock et al. 2013; Rocque et al. 2016) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Students' parents were also surveyed as part of the trial; however, we focus only on the students' results. Please see Supplemental Material for a summary of all outcomes measured for the trial, across all time-points.2 The Queensland Government Policy and Procedure Register gives examples of unexplained or unsatisfactory absences or patterns of absences as a student being absent for three or more consecutive days, where there is a persistent pattern of unexplained absences or where the principal reasonably considers attendance unacceptable.",
+        "section": "",
+        "section_number": 32,
+        "sentences": [
+            "Students' parents were also surveyed as part of the trial; however, we focus only on the students' results.",
+            "Please see Supplemental Material for a summary of all outcomes measured for the trial, across all time-points.2 The Queensland Government Policy and Procedure Register gives examples of unexplained or unsatisfactory absences or patterns of absences as a student being absent for three or more consecutive days, where there is a persistent pattern of unexplained absences or where the principal reasonably considers attendance unacceptable."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "Prev Sci (2017) 18:469-480",
+        "section": "",
+        "section_number": 33,
+        "sentences": [
+            "Prev Sci (2017) 18:469-480"
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "44682",
+        "text": "As these questions asked about how the behavior had changed after the intervention, no baseline measure was available to compare with; hence, t tests rather than ANOVAs were utilized.",
+        "section": "",
+        "section_number": 34,
+        "sentences": [
+            "As these questions asked about how the behavior had changed after the intervention, no baseline measure was available to compare with; hence, t tests rather than ANOVAs were utilized."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]

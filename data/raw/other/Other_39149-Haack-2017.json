@@ -1,0 +1,1031 @@
+[
+    {
+        "doc_id": "39149",
+        "text": "We investigated whether parenting and child behavior improve following psychosocial treatment for Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Presentation (ADHD-I) and whether parenting improvements mediate child outcomes. We analyzed data from a randomized clinical trial investigating the efficacy of a multicomponent psychosocial intervention (Child Life and Attention Skills, CLAS, n = 74) in comparison to Parent-Focused Treatment (PFT, n = 74) and treatment as usual (TAU, n = 51) for youth with ADHD-I (average child age = 8.6 years, range 7-11 years, 58 % boys). Child and parent/family functioning were assessed prior to treatment, immediately following treatment, and at follow-up into the subsequent school year using parent and teacher reports of inattention, organization, social skills, academic competency (teachers only), parenting daily hassles, and positive and negative parenting behaviors (parents only). Both treatment groups improved on negative parenting and home impairment, but only CLAS families also improved on positive parenting as well as academic impairment. Improvements in positive and negative parenting mediated treatment effects on child impairment independent of improvements in child inattention, implicating parenting as an important mechanism of change in psychosocial treatment for ADHD-I. Further, whereas parent-focused training produces improvements in negative parenting and impairment at home for children with ADHD-I, a multicomponent approach (incorporating child skills training and teacher consultation) more consistently produces improvements at school and in positive parenting, which may contribute to improvements in social skills into the next school year.",
+        "section": "Abstract",
+        "sentences": [
+            "We investigated whether parenting and child behavior improve following psychosocial treatment for Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Presentation (ADHD-I) and whether parenting improvements mediate child outcomes.",
+            "We analyzed data from a randomized clinical trial investigating the efficacy of a multicomponent psychosocial intervention (Child Life and Attention Skills, CLAS, n = 74) in comparison to Parent-Focused Treatment (PFT, n = 74) and treatment as usual (TAU, n = 51) for youth with ADHD-I (average child age = 8.6 years, range 7-11 years, 58 % boys).",
+            "Child and parent/family functioning were assessed prior to treatment, immediately following treatment, and at follow-up into the subsequent school year using parent and teacher reports of inattention, organization, social skills, academic competency (teachers only), parenting daily hassles, and positive and negative parenting behaviors (parents only).",
+            "Both treatment groups improved on negative parenting and home impairment, but only CLAS families also improved on positive parenting as well as academic impairment.",
+            "Improvements in positive and negative parenting mediated treatment effects on child impairment independent of improvements in child inattention, implicating parenting as an important mechanism of change in psychosocial treatment for ADHD-I. Further, whereas parent-focused training produces improvements in negative parenting and impairment at home for children with ADHD-I, a multicomponent approach (incorporating child skills training and teacher consultation) more consistently produces improvements at school and in positive parenting, which may contribute to improvements in social skills into the next school year."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Attention-deficit/hyperactivity disorder, predominantly inattentive presentation (ADHD-I), is a common subtype of ADHD, representing approximately 38-57 % of all ADHD cases in the community (Willcutt 2012) . ADHD-I is associated with clinically significant inattention and related functional impairment in academic, social, and home environments (Faraone et al. 2015; Milich et al. 2001; Willcutt et al. 2012) . Children with ADHD-I often present with passive, lethargic attention problems, which may be accompanied by a sluggish cognitive tempo (e.g., getting lost in thought, losing train of thought; Carlson and Mann 2002; Garner et al. 2010; McBurnett et al. 2014; Mueller et al. 2014) . At school and during homework, these children experience difficulties with academic enablers (i.e., engagement and motivation) and with organization; they also have an elevated risk of learning difficulties compared to children without ADHD (Bauermeister et al. 2005; Faraone et al. 2015; Massetti et al. 2008; Milich et al. 2001) . In social interactions, children with ADHD-I frequently are described as shy, withdrawn, deficient in social knowledge, and neglected by peers (Bauermeister et al. 2005; Milich et al. 2001; Solanto et al. 2009) . Research on home-related impairment specific to ADHD-I is limited; however, one existing study suggests that children with ADHD-I display more passive noncompliance (e.g., nonresponse) to parental instructions than children without an ADHD diagnosis (Bauermeister et al. 2005) .",
+        "section": "",
+        "section_number": 1,
+        "sentences": [
+            "Attention-deficit/hyperactivity disorder, predominantly inattentive presentation (ADHD-I), is a common subtype of ADHD, representing approximately 38-57 % of all ADHD cases in the community (Willcutt 2012) .",
+            "ADHD-I is associated with clinically significant inattention and related functional impairment in academic, social, and home environments (Faraone et al. 2015; Milich et al. 2001; Willcutt et al. 2012) .",
+            "Children with ADHD-I often present with passive, lethargic attention problems, which may be accompanied by a sluggish cognitive tempo (e.g., getting lost in thought, losing train of thought; Carlson and Mann 2002; Garner et al. 2010; McBurnett et al. 2014; Mueller et al. 2014) .",
+            "At school and during homework, these children experience difficulties with academic enablers (i.e., engagement and motivation) and with organization; they also have an elevated risk of learning difficulties compared to children without ADHD (Bauermeister et al. 2005; Faraone et al. 2015; Massetti et al. 2008; Milich et al. 2001) .",
+            "In social interactions, children with ADHD-I frequently are described as shy, withdrawn, deficient in social knowledge, and neglected by peers (Bauermeister et al. 2005; Milich et al. 2001; Solanto et al. 2009) .",
+            "Research on home-related impairment specific to ADHD-I is limited; however, one existing study suggests that children with ADHD-I display more passive noncompliance (e.g., nonresponse) to parental instructions than children without an ADHD diagnosis (Bauermeister et al. 2005) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The manifestation of functional impairment related to ADHD-I appears partially distinct from that related to ADHD, hyperactive-impulsive and combined (ADHD-HI/C) Presentations, with some investigations documenting less severe impairment for ADHD-I in the domains of comorbid externalizing disorders, aggression, self-harm/ suicidality,and family stress (e.g., Bauermeister et al. 2005; Hinshaw et al. 2012; Massetti et al. 2008) . However, numerous investigations converge to suggest that ADHD-I is predictive of substantial, persistent impairment in other relevant domains, such as academic underachievement, social relationships, comorbid internalizing disorders, and diminished well-being and quality of life (Coghill et al. 2009; Faraone et al. 2015; Hinshaw et al. 2012; Massetti et al. 2008) . The less behaviorally overt (but nonetheless distressing and maladaptive) impairment pattern related to ADHD-I may help explain why these children often are referred for assessment and treatment later and less-often than children with hyperactivity/ impulsivity (Milich et al. 2001) .",
+        "section": "",
+        "section_number": 2,
+        "sentences": [
+            "The manifestation of functional impairment related to ADHD-I appears partially distinct from that related to ADHD, hyperactive-impulsive and combined (ADHD-HI/C) Presentations, with some investigations documenting less severe impairment for ADHD-I in the domains of comorbid externalizing disorders, aggression, self-harm/ suicidality,and family stress (e.g., Bauermeister et al. 2005; Hinshaw et al. 2012; Massetti et al. 2008) .",
+            "However, numerous investigations converge to suggest that ADHD-I is predictive of substantial, persistent impairment in other relevant domains, such as academic underachievement, social relationships, comorbid internalizing disorders, and diminished well-being and quality of life (Coghill et al. 2009; Faraone et al. 2015; Hinshaw et al. 2012; Massetti et al. 2008) .",
+            "The less behaviorally overt (but nonetheless distressing and maladaptive) impairment pattern related to ADHD-I may help explain why these children often are referred for assessment and treatment later and less-often than children with hyperactivity/ impulsivity (Milich et al. 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Given the various functional impairments that children with ADHD-I exhibit, particularly related to homework completion, social skills, and compliance to parental instructions, it is not surprising that parents of these children report experiencing poorer parent-child relationships, using less effective parenting practices, and experiencing more family stress than parents of children without ADHD (e.g., Bauermeister et al. 2005) . The dynamic and bidirectional relation between parenting and child behavior (Bell 1968; Belsky 1984; Patterson 1982) suggests that less effective parenting may elicit negative child behavior, which in turn elicits the use of less effective parenting. Indeed, a recent study examining cross-sectional associations and pathways between child ADHD symptoms, parenting, and functional impairment in a sample of children with ADHD-I (Haack et al. in press) suggested that both child inattention and parenting behaviors were independently associated with the severity and type of functional child impairment. Results also indicated that both positive and negative parenting were related to social impairment, whereas only negative parenting was linked to academic and home impairment. If positive and negative parenting influence functional impairment above and beyond the influence of child ADHD symptoms per se, it would provide a rationale for targeting both parenting and child symptoms in treatment.",
+        "section": "",
+        "section_number": 3,
+        "sentences": [
+            "Given the various functional impairments that children with ADHD-I exhibit, particularly related to homework completion, social skills, and compliance to parental instructions, it is not surprising that parents of these children report experiencing poorer parent-child relationships, using less effective parenting practices, and experiencing more family stress than parents of children without ADHD (e.g., Bauermeister et al. 2005) .",
+            "The dynamic and bidirectional relation between parenting and child behavior (Bell 1968; Belsky 1984; Patterson 1982) suggests that less effective parenting may elicit negative child behavior, which in turn elicits the use of less effective parenting.",
+            "Indeed, a recent study examining cross-sectional associations and pathways between child ADHD symptoms, parenting, and functional impairment in a sample of children with ADHD-I (Haack et al. in press) suggested that both child inattention and parenting behaviors were independently associated with the severity and type of functional child impairment.",
+            "Results also indicated that both positive and negative parenting were related to social impairment, whereas only negative parenting was linked to academic and home impairment.",
+            "If positive and negative parenting influence functional impairment above and beyond the influence of child ADHD symptoms per se, it would provide a rationale for targeting both parenting and child symptoms in treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Psychosocial Treatments for ADHD and ADHD-I Behavioral parent training is an evidence-based psychosocial treatment directly targeting parenting as the primary mechanism of change, intended to produce sustained improvement in child behavior indirectly via the promotion of effective parenting strategies. Parent training focuses on increasing positive and decreasing negative parenting via instruction and practice in effective caretaking strategies. Specifically, parents are taught to engage in positive attending and monitoring, set clear expectations, and provide consistent positive and negative consequences (Anastopoulos and Farley 2003; Fabiano et al. 2009; Pfiffner and Haack 2014a; Pfiffner and Kaiser 2015) . Randomized clinical trials of parent training support the efficacy of this approach, reporting statistically and often clinically significant improvements in child ADHD symptoms and disruptive behavior, as well as improvements in parenting skills, stress, confidence, and well-being, for treated families compared to waitlist or usual-care controls (e.g., Anastopoulos et al. 1993; Chacko and Wymbs 2009; Evans et al. 2014; Fabiano et al. 2009; Sonuga-Barke et al. 2001) .",
+        "section": "",
+        "section_number": 4,
+        "sentences": [
+            "Psychosocial Treatments for ADHD and ADHD-I Behavioral parent training is an evidence-based psychosocial treatment directly targeting parenting as the primary mechanism of change, intended to produce sustained improvement in child behavior indirectly via the promotion of effective parenting strategies.",
+            "Parent training focuses on increasing positive and decreasing negative parenting via instruction and practice in effective caretaking strategies.",
+            "Specifically, parents are taught to engage in positive attending and monitoring, set clear expectations, and provide consistent positive and negative consequences (Anastopoulos and Farley 2003; Fabiano et al. 2009; Pfiffner and Haack 2014a; Pfiffner and Kaiser 2015) .",
+            "Randomized clinical trials of parent training support the efficacy of this approach, reporting statistically and often clinically significant improvements in child ADHD symptoms and disruptive behavior, as well as improvements in parenting skills, stress, confidence, and well-being, for treated families compared to waitlist or usual-care controls (e.g., Anastopoulos et al. 1993; Chacko and Wymbs 2009; Evans et al. 2014; Fabiano et al. 2009; Sonuga-Barke et al. 2001) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "To expand the influence of psychosocial treatment across settings and domains of impairment, recently developed multi-pronged psychosocial interventions for ADHD have incorporated child skills training and/or classroom management/ consultation alongside parent training (Pfiffner and Haack 2014b) . Randomized controlled trials investigating these multicomponent psychosocial approaches for ADHD reveal broader effects across multiple contexts (e.g., school, home; Evans et al. 2011; Mikami et al. 2010; Pfiffner et al. 2014; Power et al. 2012; Seeley et al. 2009; Webster-Stratton et al. 2011) .",
+        "section": "",
+        "section_number": 5,
+        "sentences": [
+            "To expand the influence of psychosocial treatment across settings and domains of impairment, recently developed multi-pronged psychosocial interventions for ADHD have incorporated child skills training and/or classroom management/ consultation alongside parent training (Pfiffner and Haack 2014b) .",
+            "Randomized controlled trials investigating these multicomponent psychosocial approaches for ADHD reveal broader effects across multiple contexts (e.g., school, home; Evans et al. 2011; Mikami et al. 2010; Pfiffner et al. 2014; Power et al. 2012; Seeley et al. 2009; Webster-Stratton et al. 2011) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The majority of these treatments have been developed for ADHD-C, with unknown efficacy for ADHD-I. The distinct manifestations of symptoms and functional impairment compared to ADHD-HI/C suggests the need for psychosocial treatments specifically designed for children with ADHD-I, based on the logistics and clinical needs in treating this population. Pfiffner and colleagues (2007) developed the Child Life and Attention Skills (CLAS) program to support the specific needs of children with ADHD-I and their families via three treatment components: parent training, child skill training, and classroom consultation. CLAS was created by adapting existing empirically supported behavioral ADHD treatments to focus on increasing competence in domains in which children with ADHD-I typically struggle (e.g., alertness/attention, organization, independence, and social assertion skills) and focusing less on correcting disruptive behaviors (as is necessary in treatments for children with high levels of hyperactivity/impulsivity). Given the chronic nature of academic, social, and home impairments (e.g., poor independent living skills) experienced by this population, a multicomponent treatment design was employed to provide more comprehensive and aroundthe-clock support to participating children and families than traditional parent training.",
+        "section": "",
+        "section_number": 6,
+        "sentences": [
+            "The majority of these treatments have been developed for ADHD-C, with unknown efficacy for ADHD-I. The distinct manifestations of symptoms and functional impairment compared to ADHD-HI/C suggests the need for psychosocial treatments specifically designed for children with ADHD-I, based on the logistics and clinical needs in treating this population.",
+            "Pfiffner and colleagues (2007) developed the Child Life and Attention Skills (CLAS) program to support the specific needs of children with ADHD-I and their families via three treatment components: parent training, child skill training, and classroom consultation.",
+            "CLAS was created by adapting existing empirically supported behavioral ADHD treatments to focus on increasing competence in domains in which children with ADHD-I typically struggle (e.g., alertness/attention, organization, independence, and social assertion skills) and focusing less on correcting disruptive behaviors (as is necessary in treatments for children with high levels of hyperactivity/impulsivity).",
+            "Given the chronic nature of academic, social, and home impairments (e.g., poor independent living skills) experienced by this population, a multicomponent treatment design was employed to provide more comprehensive and aroundthe-clock support to participating children and families than traditional parent training."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "A randomized trial comparing the multicomponent CLAS to single-component Parent Focused Treatment (PFT) and treatment as usual (TAU) in a sample of youth diagnosed with ADHD-I demonstrated superior results for CLAS compared to PFT and TAU on teacher-rated inattention symptoms, organizational skills, social skills, and global functioning; and on parent-rated organizational skills. CLAS was also superior to TAU on parent-rated inattention, social skills and global functioning. PFT showed circumscribed benefit relative to TAU on parentrated inattention symptoms, organizational skills, and global impairment. These findings suggested that integrating parent, teacher, and child treatment components specifically adapted for ADHD-I is superior to parent training alone (and to usual care) for improving a variety of treatment outcomes, especially in the school setting (Pfiffner et al. 2014) .",
+        "section": "",
+        "section_number": 7,
+        "sentences": [
+            "A randomized trial comparing the multicomponent CLAS to single-component Parent Focused Treatment (PFT) and treatment as usual (TAU) in a sample of youth diagnosed with ADHD-I demonstrated superior results for CLAS compared to PFT and TAU on teacher-rated inattention symptoms, organizational skills, social skills, and global functioning; and on parent-rated organizational skills.",
+            "CLAS was also superior to TAU on parent-rated inattention, social skills and global functioning.",
+            "PFT showed circumscribed benefit relative to TAU on parentrated inattention symptoms, organizational skills, and global impairment.",
+            "These findings suggested that integrating parent, teacher, and child treatment components specifically adapted for ADHD-I is superior to parent training alone (and to usual care) for improving a variety of treatment outcomes, especially in the school setting (Pfiffner et al. 2014) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parenting has consistently been documented as an active ingredient or working mechanism in investigations of parent training for child oppositional and/or conduct problems (e.g., Beauchaine et al. 2005; Gardner et al. 2010; see Forehand et al. 2013 for review) . Even so, few treatment outcome studies have investigated specific mechanisms of change in psychosocial treatments for ADHD (Forehand et al. 2014; Hinshaw 2002) , with a few notable exceptions (Chronis-Tuscano et al. 2011; Hinshaw et al. 2000 .",
+        "section": "Proposed Mechanisms of Change in Psychosocial Treatments for ADHD",
+        "section_number": 8,
+        "sentences": [
+            "Parenting has consistently been documented as an active ingredient or working mechanism in investigations of parent training for child oppositional and/or conduct problems (e.g., Beauchaine et al. 2005; Gardner et al. 2010; see Forehand et al. 2013 for review) .",
+            "Even so, few treatment outcome studies have investigated specific mechanisms of change in psychosocial treatments for ADHD (Forehand et al. 2014; Hinshaw 2002) , with a few notable exceptions (Chronis-Tuscano et al. 2011; Hinshaw et al. 2000 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Initial findings support the theoretical notion that parenting is indeed an important mechanism of change in psychosocial treatments for ADHD, but additional research is warranted to delineate the specific role parenting plays in different ADHD presentations (e.g., ADHD-I), different treatment modalities (e.g., multicomponent versus single-component parent training), and the various functional impairments of children with ADHD-I. Given the goal of increasing adaptive skills across environments in multimodal psychosocial treatment for ADHD-I (rather than reducing problem behavior as is emphasized in parent-focused treatment for disruptive behaviors and ADHD-HI/C), there may be nuanced distinctions to uncover regarding the association of particular parenting behaviors and child outcomes. In general, extending clinical trials to investigate how and why treatment effects occur is beneficial for the advancement of research and practice specific to the target population (in this case, ADHD), as well as the advancement of developmental psychopathology theory more broadly (Hinshaw 2002) .",
+        "section": "Proposed Mechanisms of Change in Psychosocial Treatments for ADHD",
+        "section_number": 9,
+        "sentences": [
+            "Initial findings support the theoretical notion that parenting is indeed an important mechanism of change in psychosocial treatments for ADHD, but additional research is warranted to delineate the specific role parenting plays in different ADHD presentations (e.g., ADHD-I), different treatment modalities (e.g., multicomponent versus single-component parent training), and the various functional impairments of children with ADHD-I. Given the goal of increasing adaptive skills across environments in multimodal psychosocial treatment for ADHD-I (rather than reducing problem behavior as is emphasized in parent-focused treatment for disruptive behaviors and ADHD-HI/C), there may be nuanced distinctions to uncover regarding the association of particular parenting behaviors and child outcomes.",
+            "In general, extending clinical trials to investigate how and why treatment effects occur is beneficial for the advancement of research and practice specific to the target population (in this case, ADHD), as well as the advancement of developmental psychopathology theory more broadly (Hinshaw 2002) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Our goal was to investigate potential pathways between psychosocial treatment group assignment, child inattention, positive and negative parenting behaviors, and child functional impairment in the first randomized controlled trial investigating psychosocial treatments for ADHD-I, described above. In particular, we were interested in whether improvements in parenting would mediate the relationship between treatment group assignment and child impairment outcomes originally reported in the main trial outcome analysis (i.e., inattention, organization, social skills, and global improvement rated by parents and teachers; Pfiffner et al. 2014) as well as additional child impairment outcomes reported herein (i.e., parenting daily hassles rated by parents and academic enablers rated by teachers). Such models could contribute to the identification of active mechanisms of change in psychosocial treatment modalities (i.e., multicomponent and single-component parent training) that account for functional improvements in children with ADHD-I.",
+        "section": "Current Study",
+        "section_number": 10,
+        "sentences": [
+            "Our goal was to investigate potential pathways between psychosocial treatment group assignment, child inattention, positive and negative parenting behaviors, and child functional impairment in the first randomized controlled trial investigating psychosocial treatments for ADHD-I, described above.",
+            "In particular, we were interested in whether improvements in parenting would mediate the relationship between treatment group assignment and child impairment outcomes originally reported in the main trial outcome analysis (i.e., inattention, organization, social skills, and global improvement rated by parents and teachers; Pfiffner et al. 2014) as well as additional child impairment outcomes reported herein (i.e., parenting daily hassles rated by parents and academic enablers rated by teachers).",
+            "Such models could contribute to the identification of active mechanisms of change in psychosocial treatment modalities (i.e., multicomponent and single-component parent training) that account for functional improvements in children with ADHD-I."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Our first hypothesis (Hypothesis 1) was that families receiving psychosocial treatment for ADHD-I (either the multicomponent CLAS or the single-component PFT; Pfiffner et al. 2014) would demonstrate statistically significant immediate and sustained improvement in several outcomes not examined in the main trial analysis (Pfiffner et al. 2014) . Specifically, we predicted that families receiving either psychosocial treatment would demonstrate statistically significant immediate and sustained improvement in parenting (i.e., positive and negative parenting behaviors) and child impairment at home (i.e., parenting daily hassles), relative to families assigned to TAU-and that families in CLAS would exhibit greater improvement on academic impairment than TAU 1 (i.e., academic enablers). Our second hypothesis (Hypothesis 2) was that improvements in parenting behavior would mediate significant intervention gains for the following: (1) parent-reported impairment outcomes at post-treatment (i.e., organizational skills, social skills, and daily hassles), (2) teacher-reported impairment outcomes at post-treatment (i.e., academic enablers, organizational skills, and social skills), and 3parent-reported impairment-related outcomes at followup (i.e., organizational skills, social skills, and daily hassles).",
+        "section": "Current Study",
+        "section_number": 11,
+        "sentences": [
+            "Our first hypothesis (Hypothesis 1) was that families receiving psychosocial treatment for ADHD-I (either the multicomponent CLAS or the single-component PFT; Pfiffner et al. 2014) would demonstrate statistically significant immediate and sustained improvement in several outcomes not examined in the main trial analysis (Pfiffner et al. 2014) .",
+            "Specifically, we predicted that families receiving either psychosocial treatment would demonstrate statistically significant immediate and sustained improvement in parenting (i.e., positive and negative parenting behaviors) and child impairment at home (i.e., parenting daily hassles), relative to families assigned to TAU-and that families in CLAS would exhibit greater improvement on academic impairment than TAU 1 (i.e., academic enablers).",
+            "Our second hypothesis (Hypothesis 2) was that improvements in parenting behavior would mediate significant intervention gains for the following: (1) parent-reported impairment outcomes at post-treatment (i.e., organizational skills, social skills, and daily hassles), (2) teacher-reported impairment outcomes at post-treatment (i.e., academic enablers, organizational skills, and social skills), and 3parent-reported impairment-related outcomes at followup (i.e., organizational skills, social skills, and daily hassles)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "One hundred ninety-nine children participated at one of two sites: (University of California, San Francisco =96), and (University of California, Berkeley, n = 103). Most were recruited from schools via mailings to principals, school mental health providers, and learning specialists (65 %). The remainder were recruited via mailings to offices of pediatricians, child psychiatrists, and psychologists (18 %); postings in online parent networks or professional organizations (11 %); or through word-of-mouth (6 %). Inclusion criteria specified a primary DSM-IV diagnosis of ADHD-I (confirmed by the KSADS-PL; see below), Full Scale IQ > 80 (confirmed with the Wechsler Intelligence Scale for Children, version IV [WISC-IV, Wechsler 2003]), living with at least one parent for the past year, child age between 7 and 11 years (and grades 2-5), attending school full time in a regular classroom, ability to participate in our groups on the days scheduled, school proximity within 45 min of study site to allow for the clinician to conduct school meetings, and teacher consent to participate in a school-based treatment. Families of children who were taking non-stimulant psychoactive medication were excluded because of difficulty withholding medication to confirm ADHD-I symptoms, as were cases planning to initiate or change medication treatment (stimulant or otherwise) in the near term. Children with significant developmental disorders (e.g., pervasive developmental disorder) or neurological illnesses were also excluded.",
+        "section": "Participants",
+        "section_number": 12,
+        "sentences": [
+            "One hundred ninety-nine children participated at one of two sites: (University of California, San Francisco =96), and (University of California, Berkeley, n = 103).",
+            "Most were recruited from schools via mailings to principals, school mental health providers, and learning specialists (65 %).",
+            "The remainder were recruited via mailings to offices of pediatricians, child psychiatrists, and psychologists (18 %); postings in online parent networks or professional organizations (11 %); or through word-of-mouth (6 %).",
+            "Inclusion criteria specified a primary DSM-IV diagnosis of ADHD-I (confirmed by the KSADS-PL; see below), Full Scale IQ > 80 (confirmed with the Wechsler Intelligence Scale for Children, version IV [WISC-IV, Wechsler 2003]), living with at least one parent for the past year, child age between 7 and 11 years (and grades 2-5), attending school full time in a regular classroom, ability to participate in our groups on the days scheduled, school proximity within 45 min of study site to allow for the clinician to conduct school meetings, and teacher consent to participate in a school-based treatment.",
+            "Families of children who were taking non-stimulant psychoactive medication were excluded because of difficulty withholding medication to confirm ADHD-I symptoms, as were cases planning to initiate or change medication treatment (stimulant or otherwise) in the near term.",
+            "Children with significant developmental disorders (e.g., pervasive developmental disorder) or neurological illnesses were also excluded."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Mean child age at randomization was 8.6 years (range 7 to 11), with 26 % in 2nd grade, 31 % in 3rd grade, 27 % in 4th grade, and 17 % in 5th grade. Boys comprised 58 % of the sample; 54 % were Caucasian, 17 % Latino, 8 % Asian American, 5 % African American, and 17 % self-identified as mixed race. Total household income was below $50,000 for 14 %, $50,000-100,000 for 27 %, $100,000-150,000 for 28 %, and more than $150,000 for 31 % of families; 13 % of the participants were living in single-parent homes. A majority of primary parents (i.e., those who completed all measures and attended treatment) reported having graduated from college (81.2 %); 180 of the primary parents were biological parents of the identified child (167 biological mothers, 13 biological fathers) and 17 were non-biological parents or caretakers (10 adoptive mothers, 3 adoptive fathers, 2 stepmothers, 1 grandmother, and 3 other caregivers). At randomization, 4.5 % of youth were taking medication (all but one received stimulant medication) to address ADHD-related symptoms. See Table 1 for demographic characteristics by treatment group status.",
+        "section": "Participants",
+        "section_number": 13,
+        "sentences": [
+            "Mean child age at randomization was 8.6 years (range 7 to 11), with 26 % in 2nd grade, 31 % in 3rd grade, 27 % in 4th grade, and 17 % in 5th grade.",
+            "Boys comprised 58 % of the sample; 54 % were Caucasian, 17 % Latino, 8 % Asian American, 5 % African American, and 17 % self-identified as mixed race.",
+            "Total household income was below $50,000 for 14 %, $50,000-100,000 for 27 %, $100,000-150,000 for 28 %, and more than $150,000 for 31 % of families; 13 % of the participants were living in single-parent homes.",
+            "A majority of primary parents (i.e., those who completed all measures and attended treatment) reported having graduated from college (81.2 %); 180 of the primary parents were biological parents of the identified child (167 biological mothers, 13 biological fathers) and 17 were non-biological parents or caretakers (10 adoptive mothers, 3 adoptive fathers, 2 stepmothers, 1 grandmother, and 3 other caregivers).",
+            "At randomization, 4.5 % of youth were taking medication (all but one received stimulant medication) to address ADHD-related symptoms.",
+            "See Table 1 for demographic characteristics by treatment group status."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "A more detailed description of the participant screening and flow is provided by Pfiffner et al. (2014) . Participant screening and diagnosis were completed in three sequential stages: (1) initial screening telephone calls with parents and teachers, (2) completion of the ADHD modules of the Child Symptom Inventory (CSI-4; Gadow and Sprafkin 2002) and Impairment Rating Scale (IRS; Fabiano et al. 2006 ) by parents and teachers, and (3) diagnostic interviews conducted by a licensed clinical psychologist. Diagnostic clinical interviews consisted of questions about children's clinical and developmental histories and modules from the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children (K-SADS-PL; see Kaufman et al. 1997) assessing ADHD, oppositional defiant disorder, conduct disorder, anxiety disorders, major mood disorders, and psychoses. All cases met full DSM-IV criteria for ADHD-I. Six or more inattention symptoms and fewer than six hyperactive-impulsive symptoms on the KSADS were required for study entry (KSADS inattention symptom count mean = 7.7, SD = 1.1; hyperactivityimpulsivity symptom count mean = 1.2, SD = 1.2). Parents also completed a battery of questionnaires, and children were administered the WISC-IV and a battery of tests and questionnaires. Parents were informed of their randomization status after they completed their visits. Parents provided informed written consent and children provided written assent; study procedures were approved by the Committee on Human Research at University of California, San Francisco and University of California, Berkeley. Families were compensated for completion of post-treatment (CLAS and PFT: $50, TAU: $150) and follow-up assessments (CLAS and PFT: $100, TAU: $150). Teachers also were compensated for completing measures at each measurement occasion: baseline: $50, post-treatment: $75, follow-up: $75. CLAS condition teachers also received a total of $100.00 for their participation in the teacher consultation meetings. Treatment was provided at no cost to families.",
+        "section": "Procedures",
+        "section_number": 14,
+        "sentences": [
+            "A more detailed description of the participant screening and flow is provided by Pfiffner et al. (2014) .",
+            "Participant screening and diagnosis were completed in three sequential stages: (1) initial screening telephone calls with parents and teachers, (2) completion of the ADHD modules of the Child Symptom Inventory (CSI-4; Gadow and Sprafkin 2002) and Impairment Rating Scale (IRS; Fabiano et al. 2006 ) by parents and teachers, and (3) diagnostic interviews conducted by a licensed clinical psychologist.",
+            "Diagnostic clinical interviews consisted of questions about children's clinical and developmental histories and modules from the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children (K-SADS-PL; see Kaufman et al. 1997) assessing ADHD, oppositional defiant disorder, conduct disorder, anxiety disorders, major mood disorders, and psychoses.",
+            "All cases met full DSM-IV criteria for ADHD-I. Six or more inattention symptoms and fewer than six hyperactive-impulsive symptoms on the KSADS were required for study entry (KSADS inattention symptom count mean = 7.7, SD = 1.1; hyperactivityimpulsivity symptom count mean = 1.2, SD = 1.2).",
+            "Parents also completed a battery of questionnaires, and children were administered the WISC-IV and a battery of tests and questionnaires.",
+            "Parents were informed of their randomization status after they completed their visits.",
+            "Parents provided informed written consent and children provided written assent; study procedures were approved by the Committee on Human Research at University of California, San Francisco and University of California, Berkeley.",
+            "Families were compensated for completion of post-treatment (CLAS and PFT: $50, TAU: $150) and follow-up assessments (CLAS and PFT: $100, TAU: $150).",
+            "Teachers also were compensated for completing measures at each measurement occasion: baseline: $50, post-treatment: $75, follow-up: $75.",
+            "CLAS condition teachers also received a total of $100.00 for their participation in the teacher consultation meetings.",
+            "Treatment was provided at no cost to families."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Across 4 years (2009-2012), six cohorts of children participated, with a mean number of 33 children in each cohort (range: 24-43). Children were randomized within site to the Child Life and Attention Skills Treatment (CLAS; 36 at site 1 and 38 at site 2; 74 total), Parent Focused Treatment (PFT; 36 at site 1 and 38 at site 2; 74 total), or treatment as usual (TAU; 24 at site 1 and 27 at site 2; 51 total). Within each cohort, treatment occurred over a 10-to 13-week period. Immediately following treatment, laboratory visits were scheduled with families and rating scales were sent to teachers. Five to seven months post-treatment (i.e., in October to November of the subsequent school year), children and their parents participated in a follow-up laboratory visit.",
+        "section": "Design",
+        "section_number": 15,
+        "sentences": [
+            "Across 4 years (2009-2012), six cohorts of children participated, with a mean number of 33 children in each cohort (range: 24-43).",
+            "Children were randomized within site to the Child Life and Attention Skills Treatment (CLAS; 36 at site 1 and 38 at site 2; 74 total), Parent Focused Treatment (PFT; 36 at site 1 and 38 at site 2; 74 total), or treatment as usual (TAU; 24 at site 1 and 27 at site 2; 51 total).",
+            "Within each cohort, treatment occurred over a 10-to 13-week period.",
+            "Immediately following treatment, laboratory visits were scheduled with families and rating scales were sent to teachers.",
+            "Five to seven months post-treatment (i.e., in October to November of the subsequent school year), children and their parents participated in a follow-up laboratory visit."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Child Life and Attention Skills Treatment (CLAS; Pfiffner et al. 2014) CLAS included three manualized coordinated components, the development and rationale for which have been provided previously by Pfiffner et al. (2014) : (a) ten 90-min parent group meetings, along with up to six 30-min family meetings (parent, child, and therapist); (b) ten 90-min child group meetings; and (c) teacher consultation, which included one 30-min orientation meeting involving the teacher and therapist and up to five subsequent 30-min meetings with the parent, child, teacher, and therapist and booster sessions (see below). Parent and child groups contained between five and eight families and were held in clinic offices. Individual meetings with families occurred in clinic offices, on the telephone, or in a private location on school grounds. Teacher consultation occurred at school sites, or occasionally over the telephone.",
+        "section": "Treatment Conditions",
+        "section_number": 16,
+        "sentences": [
+            "Child Life and Attention Skills Treatment (CLAS; Pfiffner et al. 2014) CLAS included three manualized coordinated components, the development and rationale for which have been provided previously by Pfiffner et al. (2014) : (a) ten 90-min parent group meetings, along with up to six 30-min family meetings (parent, child, and therapist); (b) ten 90-min child group meetings; and (c) teacher consultation, which included one 30-min orientation meeting involving the teacher and therapist and up to five subsequent 30-min meetings with the parent, child, teacher, and therapist and booster sessions (see below).",
+            "Parent and child groups contained between five and eight families and were held in clinic offices.",
+            "Individual meetings with families occurred in clinic offices, on the telephone, or in a private location on school grounds.",
+            "Teacher consultation occurred at school sites, or occasionally over the telephone."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parenting Component The curriculum for the PFT component was adapted from existing parent training programs (Barkley 1987; Forehand and McMahon 1981) . Parent groups began with an overview of ADHD-I and the social learning model, followed by a set of strategies for managing ADHD-I and associated impairments. Strategies covered included attending, using rewards and positive consequences such as praise, establishing daily routines, using effective directions and commands, using prudent negative consequences, avoiding power struggles, parent stress management, and organizing/structuring the home and the child's broader environment to promote adaptive functioning and independence. To address executive functioning deficits (e.g., planning, working memory, multitasking, prioritizing), we taught parents to closely scaffold their child through use of routines across the day (e.g., morning, homework time, evening) and other cue-based reminders (e.g., lists of tasks to be completed), organizational strategies, and feedback and contingencies to reinforce successful implementation of day-to-day activities and tasks. All of the families developed a Home Challenge (token economy) with specific home target behaviors and rewards individualized for each family. Each parent group included a review and troubleshooting of homework assigned at the previous session and presentation of new content. Individual family meetings, which occurred approximately every two weeks, allowed therapists to further tailor content in order to meet the needs of individual children and to give personalized feedback on changes in parenting skills. Methods for shaping behavior and reducing the intensity of behavioral programs while maintaining behavioral gains were also reviewed. CLAS participants were also taught skills for interacting effectively with teachers as well as how best to develop, evaluate, and reinforce the classroom intervention (see below). In addition, modules covered in the child groups (see below) were reviewed, and parents were taught methods to promote and reinforce their children's use of skills taught during the child sessions. Childcare was provided for siblings during the groups.",
+        "section": "Treatment Conditions",
+        "section_number": 17,
+        "sentences": [
+            "Parenting Component The curriculum for the PFT component was adapted from existing parent training programs (Barkley 1987; Forehand and McMahon 1981) .",
+            "Parent groups began with an overview of ADHD-I and the social learning model, followed by a set of strategies for managing ADHD-I and associated impairments.",
+            "Strategies covered included attending, using rewards and positive consequences such as praise, establishing daily routines, using effective directions and commands, using prudent negative consequences, avoiding power struggles, parent stress management, and organizing/structuring the home and the child's broader environment to promote adaptive functioning and independence.",
+            "To address executive functioning deficits (e.g., planning, working memory, multitasking, prioritizing), we taught parents to closely scaffold their child through use of routines across the day (e.g., morning, homework time, evening) and other cue-based reminders (e.g., lists of tasks to be completed), organizational strategies, and feedback and contingencies to reinforce successful implementation of day-to-day activities and tasks.",
+            "All of the families developed a Home Challenge (token economy) with specific home target behaviors and rewards individualized for each family.",
+            "Each parent group included a review and troubleshooting of homework assigned at the previous session and presentation of new content.",
+            "Individual family meetings, which occurred approximately every two weeks, allowed therapists to further tailor content in order to meet the needs of individual children and to give personalized feedback on changes in parenting skills.",
+            "Methods for shaping behavior and reducing the intensity of behavioral programs while maintaining behavioral gains were also reviewed.",
+            "CLAS participants were also taught skills for interacting effectively with teachers as well as how best to develop, evaluate, and reinforce the classroom intervention (see below).",
+            "In addition, modules covered in the child groups (see below) were reviewed, and parents were taught methods to promote and reinforce their children's use of skills taught during the child sessions.",
+            "Childcare was provided for siblings during the groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Child Component This component, adapted from a social skills curriculum for ADHD (Pfiffner and McBurnett 1997) , was delivered in a group setting at the same time the parent group was conducted. Modules focused on skills for independence (academic, study, and organizational skills; self-care and daily living skills) and social skills (e.g., good sportsmanship, assertion, conversational skills, dealing with teasing, friendship-making, playdate skills). Both skill knowledge deficits and skill implementation deficits were targeted through didactic instruction, modeling of skills by group leaders, behavioral rehearsal, corrective feedback, and in vivo practice in the context of a reward-based contingency management program. Self-management of alertness was supported by group-reinforced attention checks (Pelham and Hoza 1996) . Children were taught strategies (e.g., problemsolving steps, self-cues, reminder lists) to promote attention, time management, and task completion. Specific plans were developed for morning, homework, and evening routines with tasks and activities clearly specified. Role-plays of common problem scenarios for ADHD-I were covered as a part of each module (e.g., staying on task during homework, staying focused when getting ready in the morning, joining a game, responding to being teased). Children practiced new skills during play activities and mock school/home routines. For example, children rotated through mock homework stations and morning routine relay races and participated in backpack organization challenges. Each week, children brought in stars earned from their home and school challenges in exchange for group-based rewards (e.g., mid-treatment cookie party, pizza party at the last session) designed to facilitate generalization of behaviors. For children who were not meeting the behavioral demands of the child group (e.g., following directions), individualized reward programs were developed to reinforce appropriate behavior during the group. During the last 10 min of group, all parents and children met together to review the child skill of the week and to plan completion of joint parent-child treatment homework assignments for the week (e.g., developing a morning routine checklist, planning a playdate, etc.).",
+        "section": "Treatment Conditions",
+        "section_number": 18,
+        "sentences": [
+            "Child Component This component, adapted from a social skills curriculum for ADHD (Pfiffner and McBurnett 1997) , was delivered in a group setting at the same time the parent group was conducted.",
+            "Modules focused on skills for independence (academic, study, and organizational skills; self-care and daily living skills) and social skills (e.g., good sportsmanship, assertion, conversational skills, dealing with teasing, friendship-making, playdate skills).",
+            "Both skill knowledge deficits and skill implementation deficits were targeted through didactic instruction, modeling of skills by group leaders, behavioral rehearsal, corrective feedback, and in vivo practice in the context of a reward-based contingency management program.",
+            "Self-management of alertness was supported by group-reinforced attention checks (Pelham and Hoza 1996) .",
+            "Children were taught strategies (e.g., problemsolving steps, self-cues, reminder lists) to promote attention, time management, and task completion.",
+            "Specific plans were developed for morning, homework, and evening routines with tasks and activities clearly specified.",
+            "Role-plays of common problem scenarios for ADHD-I were covered as a part of each module (e.g., staying on task during homework, staying focused when getting ready in the morning, joining a game, responding to being teased).",
+            "Children practiced new skills during play activities and mock school/home routines.",
+            "For example, children rotated through mock homework stations and morning routine relay races and participated in backpack organization challenges.",
+            "Each week, children brought in stars earned from their home and school challenges in exchange for group-based rewards (e.g., mid-treatment cookie party, pizza party at the last session) designed to facilitate generalization of behaviors.",
+            "For children who were not meeting the behavioral demands of the child group (e.g., following directions), individualized reward programs were developed to reinforce appropriate behavior during the group.",
+            "During the last 10 min of group, all parents and children met together to review the child skill of the week and to plan completion of joint parent-child treatment homework assignments for the week (e.g., developing a morning routine checklist, planning a playdate, etc.)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Classroom Component Content for this component included evidence-based classroom management strategies (Pfiffner et al. 2014) . Teachers were taught strategies to scaffold and support attention and use of skills taught in the child group in the classroom. At the teacher orientation meeting, teachers were provided with an overview of ADHD-I and the use of a school-home daily report card, which we termed the Classroom Challenge, for which teachers rated students three times per day on up to four specific goal behaviors. Specific target behaviors for the Classroom Challenge, tailored to the specific needs of the child, were selected by the teacher, shaped by the CLAS clinician, and then discussed with the parent and child at the first Classroom Challenge meeting. Typical academic and organizational targets included Get started right away, Finish work on time, Ask for help when you need it, or Turn in your homework. Typical social targets included Play with a peer at recess or Use Cool Craig (puppet character representing assertion) skills. Subsequently, up to four additional Classroom Challenge meetings were offered, during which methods for increasing the effectiveness and success of the Classroom Challenge were discussed, along with a broader range of accommodations (e.g., preferential seating, using a homework planner, timers and/or reminders) intended to improve attention and reduce classroom impairment. Skills taught in the child group were shared with teachers, in order that the child's use of these skills could be reinforced (sometimes as a target on the Classroom Challenge) in the classroom.",
+        "section": "Treatment Conditions",
+        "section_number": 19,
+        "sentences": [
+            "Classroom Component Content for this component included evidence-based classroom management strategies (Pfiffner et al. 2014) .",
+            "Teachers were taught strategies to scaffold and support attention and use of skills taught in the child group in the classroom.",
+            "At the teacher orientation meeting, teachers were provided with an overview of ADHD-I and the use of a school-home daily report card, which we termed the Classroom Challenge, for which teachers rated students three times per day on up to four specific goal behaviors.",
+            "Specific target behaviors for the Classroom Challenge, tailored to the specific needs of the child, were selected by the teacher, shaped by the CLAS clinician, and then discussed with the parent and child at the first Classroom Challenge meeting.",
+            "Typical academic and organizational targets included Get started right away, Finish work on time, Ask for help when you need it, or Turn in your homework.",
+            "Typical social targets included Play with a peer at recess or Use Cool Craig (puppet character representing assertion) skills.",
+            "Subsequently, up to four additional Classroom Challenge meetings were offered, during which methods for increasing the effectiveness and success of the Classroom Challenge were discussed, along with a broader range of accommodations (e.g., preferential seating, using a homework planner, timers and/or reminders) intended to improve attention and reduce classroom impairment.",
+            "Skills taught in the child group were shared with teachers, in order that the child's use of these skills could be reinforced (sometimes as a target on the Classroom Challenge) in the classroom."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parent Focused Treatment (PFT) PFT included only the parent training group component described above (Pfiffner et al. 2014) . Parenting skills taught were identical to those in the CLAS parent group (see description above). However, PFT families did not receive specific training in how to work with teachers and were not informed about the child skills taught in the CLAS condition. PFT families received the same number of parent groups and individual family meetings as CLAS families, although children did not attend the individual family meetings. Childcare was offered to families while the parent group was held. The PFT condition did not include a child skills training group or direct teacher consultation. Instead, teachers were contacted by mail regarding the study, given written information about ADHD-I and suggested classroom accommodations, and invited to call the therapists with any questions. Telephone contact with PFT teachers was limited to only a few teachers who had general questions about the study or related materials.",
+        "section": "Treatment Conditions",
+        "section_number": 20,
+        "sentences": [
+            "Parent Focused Treatment (PFT) PFT included only the parent training group component described above (Pfiffner et al. 2014) .",
+            "Parenting skills taught were identical to those in the CLAS parent group (see description above).",
+            "However, PFT families did not receive specific training in how to work with teachers and were not informed about the child skills taught in the CLAS condition.",
+            "PFT families received the same number of parent groups and individual family meetings as CLAS families, although children did not attend the individual family meetings.",
+            "Childcare was offered to families while the parent group was held.",
+            "The PFT condition did not include a child skills training group or direct teacher consultation.",
+            "Instead, teachers were contacted by mail regarding the study, given written information about ADHD-I and suggested classroom accommodations, and invited to call the therapists with any questions.",
+            "Telephone contact with PFT teachers was limited to only a few teachers who had general questions about the study or related materials."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Booster/Maintenance Treatment for CLAS and PFT Following the 10-to 13-week core intervention between post-treatment and follow-up, all CLAS and PFT families were offered monthly treatment booster sessions (CLAS with parents and children and PFT with parents only). Booster session content was manualized and included review of material covered in the respective treatment conditions (CLAS: parenting skills, child skills and classroom challenge; PFT: parenting skills) and troubleshooting of current programs. CLAS families were also encouraged to contact their next year's teacher in September about their child's functioning. If problems were present or if the parents desired, their CLAS therapist offered to set up or attend a consultation meeting with teacher, parent and child as needed prior to follow-up.",
+        "section": "Treatment Conditions",
+        "section_number": 21,
+        "sentences": [
+            "Booster/Maintenance Treatment for CLAS and PFT Following the 10-to 13-week core intervention between post-treatment and follow-up, all CLAS and PFT families were offered monthly treatment booster sessions (CLAS with parents and children and PFT with parents only).",
+            "Booster session content was manualized and included review of material covered in the respective treatment conditions (CLAS: parenting skills, child skills and classroom challenge; PFT: parenting skills) and troubleshooting of current programs.",
+            "CLAS families were also encouraged to contact their next year's teacher in September about their child's functioning.",
+            "If problems were present or if the parents desired, their CLAS therapist offered to set up or attend a consultation meeting with teacher, parent and child as needed prior to follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Treatment as Usual (TAU) Families assigned to TAU did not receive either study treatment. As with all other families, TAU families received a written diagnostic report based on the assessment conducted at baseline. Families in the TAU condition also received a list of community treatment providers but were not given specific treatment recommendations. After TAU families completed their follow-up treatment assessments in the fall, they were offered the opportunity to participate in a two-session parenting workshop focused on the strategies taught in the CLAS groups, with limited individual follow-up if needed. During the period between baseline and post-treatment, 14 % received medication (all but one received stimulant medication), 33 % received psychotherapy (family therapy, child therapy or parenting group), 51 % received educational intervention (special education services at school, tutoring) and 53 % received classroom accommodations (e.g., preferential seating modified homework, behavioral chart, extra time on tests). During the period between post-treatment and follow-up, 21 % received medication (all but two received stimulant medication), 38 % received psychotherapy, 52 % received educational intervention, and 55 % received classroom accommodations.",
+        "section": "Treatment Conditions",
+        "section_number": 22,
+        "sentences": [
+            "Treatment as Usual (TAU) Families assigned to TAU did not receive either study treatment.",
+            "As with all other families, TAU families received a written diagnostic report based on the assessment conducted at baseline.",
+            "Families in the TAU condition also received a list of community treatment providers but were not given specific treatment recommendations.",
+            "After TAU families completed their follow-up treatment assessments in the fall, they were offered the opportunity to participate in a two-session parenting workshop focused on the strategies taught in the CLAS groups, with limited individual follow-up if needed.",
+            "During the period between baseline and post-treatment, 14 % received medication (all but one received stimulant medication), 33 % received psychotherapy (family therapy, child therapy or parenting group), 51 % received educational intervention (special education services at school, tutoring) and 53 % received classroom accommodations (e.g., preferential seating modified homework, behavioral chart, extra time on tests).",
+            "During the period between post-treatment and follow-up, 21 % received medication (all but two received stimulant medication), 38 % received psychotherapy, 52 % received educational intervention, and 55 % received classroom accommodations."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Demographics Screening interviews were conducted with parents of children who participated in the present study in order to gather information about the family demographics (e.g., income, parental education level), family structure, the child's medication status, etc.",
+        "section": "Measures",
+        "section_number": 23,
+        "sentences": [
+            "Demographics Screening interviews were conducted with parents of children who participated in the present study in order to gather information about the family demographics (e.g., income, parental education level), family structure, the child's medication status, etc."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Children's cognitive abilities were assessed using the WISC-IV (Wechsler 2003) . The WISC-IV includes extensive normative data and evidence of excellent psychometric properties. Full Scale IQ scores were calculated.",
+        "section": "Wechsler Intelligence Scales for Children, Version 4",
+        "section_number": 24,
+        "sentences": [
+            "Children's cognitive abilities were assessed using the WISC-IV (Wechsler 2003) .",
+            "The WISC-IV includes extensive normative data and evidence of excellent psychometric properties.",
+            "Full Scale IQ scores were calculated."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Diagnostic Assessment The K-SADS is a semi-structured diagnostic interview with good psychometric properties, including adequate test-retest reliability (Kaufman et al. 1997) .",
+        "section": "Wechsler Intelligence Scales for Children, Version 4",
+        "section_number": 25,
+        "sentences": [
+            "Diagnostic Assessment The K-SADS is a semi-structured diagnostic interview with good psychometric properties, including adequate test-retest reliability (Kaufman et al. 1997) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "In the present study, the ADHD, oppositional defiant disorder, conduct disorder, anxiety disorders, major mood disorders, and psychoses modules were administered. Twenty percent of randomly selected audio-recorded K-SADS interviews were rated by an independent clinician with 100 % agreement for an ADHD-I diagnosis (kappa =1.0).",
+        "section": "Wechsler Intelligence Scales for Children, Version 4",
+        "section_number": 26,
+        "sentences": [
+            "In the present study, the ADHD, oppositional defiant disorder, conduct disorder, anxiety disorders, major mood disorders, and psychoses modules were administered.",
+            "Twenty percent of randomly selected audio-recorded K-SADS interviews were rated by an independent clinician with 100 % agreement for an ADHD-I diagnosis (kappa =1.0)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The Alabama Parenting Questionnaire (APQ; Shelton, Frick, & Wootton, 1996) is a 42-item selfreport measure assessing positive and negative parenting practices. Sums of items are created for five parenting practices (Involvement, Positive Parenting, Poor Monitoring/ Supervision, Inconsistent Discipline, and Corporal Punishment). Each item is scored on a scale ranging from 1 (never) to 5 (always) with higher scores representing more of that type of parenting. The APQ has demonstrated good internal consistency and construct validity (Essau et al. 2006; Shelton et al. 1996) . The Parent-Child Relationship Questionnaire-Brief Version (PCRQ; Furman & Giberson, 1995) is a 40-item self-report measure that assesses both positive and negative aspects of the parent's relationship with their child. This measure generates five subscales: Warmth, Disciplinary Warmth, Power Assertion, Personal Relationship, and Possessiveness. Each item is scored on a scale ranging from 1 (hardly at all) to 5 (extremely). The PCRQ has demonstrated adequate psychometric properties, including convergent validity (Furman & Giberson, 1995) .",
+        "section": "Parenting Behaviors",
+        "section_number": 27,
+        "sentences": [
+            "The Alabama Parenting Questionnaire (APQ; Shelton, Frick, & Wootton, 1996) is a 42-item selfreport measure assessing positive and negative parenting practices.",
+            "Sums of items are created for five parenting practices (Involvement, Positive Parenting, Poor Monitoring/ Supervision, Inconsistent Discipline, and Corporal Punishment).",
+            "Each item is scored on a scale ranging from 1 (never) to 5 (always) with higher scores representing more of that type of parenting.",
+            "The APQ has demonstrated good internal consistency and construct validity (Essau et al. 2006; Shelton et al. 1996) .",
+            "The Parent-Child Relationship Questionnaire-Brief Version (PCRQ; Furman & Giberson, 1995) is a 40-item self-report measure that assesses both positive and negative aspects of the parent's relationship with their child.",
+            "This measure generates five subscales: Warmth, Disciplinary Warmth, Power Assertion, Personal Relationship, and Possessiveness.",
+            "Each item is scored on a scale ranging from 1 (hardly at all) to 5 (extremely).",
+            "The PCRQ has demonstrated adequate psychometric properties, including convergent validity (Furman & Giberson, 1995) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Positive and negative parenting composite scores were formed in the present sample using items from the APQ and PCRQ, based on the results of a factor analyses performed by previous researchers using a large national sample of children with ADHD (Hinshaw et al. 2000; Wells et al. 2000) . The positive parenting composite is composed of 40 items drawn from the APQ Involvement and Positive Parenting subscales and the PCRQ Warmth and Disciplinary Warmth subscales. Sample items include, 'You reward or give something extra to your child for obeying you or behaving well' and 'How much do you and this child care about each other?' The negative parenting composite includes 24 items drawn from the APQ Inconsistent Discipline and Corporal Punishment subscales and the PCRQ Power Assertion subscale. Sample items include, 'Your child talks you out of being punished after he/she has done something wrong' and 'How much do you yell at this child when he/she has been bad?' Cronbach's \u03b1 internal consistency coefficients at baseline and post-treatment, respectively, for these factors in the present sample were 0.90 and 0.91 for positive parenting behaviors and 0.79 and 0.77 and negative parenting behaviors.",
+        "section": "Parenting Behaviors",
+        "section_number": 28,
+        "sentences": [
+            "Positive and negative parenting composite scores were formed in the present sample using items from the APQ and PCRQ, based on the results of a factor analyses performed by previous researchers using a large national sample of children with ADHD (Hinshaw et al. 2000; Wells et al. 2000) .",
+            "The positive parenting composite is composed of 40 items drawn from the APQ Involvement and Positive Parenting subscales and the PCRQ Warmth and Disciplinary Warmth subscales.",
+            "Sample items include, 'You reward or give something extra to your child for obeying you or behaving well' and 'How much do you and this child care about each other?'",
+            "The negative parenting composite includes 24 items drawn from the APQ Inconsistent Discipline and Corporal Punishment subscales and the PCRQ Power Assertion subscale.",
+            "Sample items include, 'Your child talks you out of being punished after he/she has done something wrong' and 'How much do you yell at this child when he/she has been bad?'",
+            "Cronbach's \u03b1 internal consistency coefficients at baseline and post-treatment, respectively, for these factors in the present sample were 0.90 and 0.91 for positive parenting behaviors and 0.79 and 0.77 and negative parenting behaviors."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The Inattention items from the CSI-4 (Gadow and Sprafkin 2002) , completed by parents and teachers, correspond to DSM-IV inattention symptoms and are rated on a 4-point scale (0 = never to 3 = very often). Symptoms are considered to be present when they are rated as occurring often or very often (i.e., 2 or 3 on the 4-point, 0-3 scale). The Inattention Scale has normative data, acceptable test-retest reliability, and acceptable predictive validity for categorical diagnosis of ADHD (Gadow and Sprafkin 2002) , Organizational Skills Teachers and parents completed the Children's Organizational Skills Scale (COSS; Abikoff & Gallagher, 2009) . Items are rated on a 4-point scale (hardly ever/never to just about all the time); those assessing organizational skills, management of materials/supplies, and task planning skills (parent =58 items, teacher =35 items) are totaled for analyses. The parent and teacher versions both have adequate psychometric properties, including excellent published internal consistency (\u03b1s = 0.98 and 0.97, respectively), test-retest reliability (rs = 0.99 and 0.94, respectively), and evidence of structural, convergent, and discriminant validity. Both teacher and parent versions assess organizational skills pertinent to successful academic functioning. In the present sample, Cronbach's \u03b1 internal consistency coefficients at baseline, post-treatment, and follow-up were excellent for parent (\u03b1s = 0.91, 0.95, and 0.95, respectively) and teacher (\u03b1s = 0.91, 0.94, and 0.94, respectively) reports.",
+        "section": "DSM-IV Inattention Symptoms",
+        "section_number": 29,
+        "sentences": [
+            "The Inattention items from the CSI-4 (Gadow and Sprafkin 2002) , completed by parents and teachers, correspond to DSM-IV inattention symptoms and are rated on a 4-point scale (0 = never to 3 = very often).",
+            "Symptoms are considered to be present when they are rated as occurring often or very often (i.e., 2 or 3 on the 4-point, 0-3 scale).",
+            "The Inattention Scale has normative data, acceptable test-retest reliability, and acceptable predictive validity for categorical diagnosis of ADHD (Gadow and Sprafkin 2002) , Organizational Skills Teachers and parents completed the Children's Organizational Skills Scale (COSS; Abikoff & Gallagher, 2009) .",
+            "Items are rated on a 4-point scale (hardly ever/never to just about all the time); those assessing organizational skills, management of materials/supplies, and task planning skills (parent =58 items, teacher =35 items) are totaled for analyses.",
+            "The parent and teacher versions both have adequate psychometric properties, including excellent published internal consistency (\u03b1s = 0.98 and 0.97, respectively), test-retest reliability (rs = 0.99 and 0.94, respectively), and evidence of structural, convergent, and discriminant validity.",
+            "Both teacher and parent versions assess organizational skills pertinent to successful academic functioning.",
+            "In the present sample, Cronbach's \u03b1 internal consistency coefficients at baseline, post-treatment, and follow-up were excellent for parent (\u03b1s = 0.91, 0.95, and 0.95, respectively) and teacher (\u03b1s = 0.91, 0.94, and 0.94, respectively) reports."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Social Skills Teachers and parents completed the Social Skills Improvement System rating scales (SSIS; Gresham & Elliott, 2008) . The SSIS has excellent published evidence of psychometric properties, including excellent internal consistency for the parent and teacher versions (\u03b1s = 0.94 and 0.95, respectively), and convergent and discriminant validity (see Gresham and Elliott, 2008) . Test-retest reliability is adequate (0.84 and 0.81 for teacher and parent versions respectively). We analyzed the total social skills subscale, which includes 46 items reflecting communication, cooperation, assertion, responsibility, empathy, and self-control skills.",
+        "section": "DSM-IV Inattention Symptoms",
+        "section_number": 30,
+        "sentences": [
+            "Social Skills Teachers and parents completed the Social Skills Improvement System rating scales (SSIS; Gresham & Elliott, 2008) .",
+            "The SSIS has excellent published evidence of psychometric properties, including excellent internal consistency for the parent and teacher versions (\u03b1s = 0.94 and 0.95, respectively), and convergent and discriminant validity (see Gresham and Elliott, 2008) .",
+            "Test-retest reliability is adequate (0.84 and 0.81 for teacher and parent versions respectively).",
+            "We analyzed the total social skills subscale, which includes 46 items reflecting communication, cooperation, assertion, responsibility, empathy, and self-control skills."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parenting Daily Hassles The Parent Daily Hassles questionnaire (PDH; Crnic & Greenberg, 1990) consists of 20 parentreport items, ranging from 1 (no hassle) to 5 (big hassle), with higher scores indicating greater impairment related to child behavior at home. Sample items include: Child needs constant reminders in the morning to get ready (getting dressed; eating breakfast; brushing teeth) and Always cleaning up messes of toys, belongings, or food. The measure has demonstrated adequate psychometric properties, such as convergent validity, by correlating with theoretically related measures (Crnic & Greenberg, 1990 ). Cronbach's \u03b1 internal consistency coefficients for this scale in the present sample at baseline, posttreatment, and follow-up were 0.81, 0.86, 0.90, respectively.",
+        "section": "DSM-IV Inattention Symptoms",
+        "section_number": 31,
+        "sentences": [
+            "Parenting Daily Hassles The Parent Daily Hassles questionnaire (PDH; Crnic & Greenberg, 1990) consists of 20 parentreport items, ranging from 1 (no hassle) to 5 (big hassle), with higher scores indicating greater impairment related to child behavior at home.",
+            "Sample items include: Child needs constant reminders in the morning to get ready (getting dressed; eating breakfast; brushing teeth) and Always cleaning up messes of toys, belongings, or food.",
+            "The measure has demonstrated adequate psychometric properties, such as convergent validity, by correlating with theoretically related measures (Crnic & Greenberg, 1990 ).",
+            "Cronbach's \u03b1 internal consistency coefficients for this scale in the present sample at baseline, posttreatment, and follow-up were 0.81, 0.86, 0.90, respectively."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Academic Enabler Behaviors Teachers reported on students' academic skills, attitudes, and behaviors using the Academic Competency Evaluation Scale (ACES; DiPerna & Elliott, 2000) . The Academic Enablers scale from the ACES includes 40 items rated on a 5-point scale ranging from (1 = Never to 5 = Almost Always) and indicates the frequency with which children engage in a number of behaviors that facilitate learning (e.g., Participates in class discussions, Attempts to improve on previous performance, Turns in homework on time). The total score from this scale (used in these analyses) has excellent published psychometric properties including excellent internal consistency (\u03b1 = 0.98) and test-retest reliability (r = 0.96).",
+        "section": "DSM-IV Inattention Symptoms",
+        "section_number": 32,
+        "sentences": [
+            "Academic Enabler Behaviors Teachers reported on students' academic skills, attitudes, and behaviors using the Academic Competency Evaluation Scale (ACES; DiPerna & Elliott, 2000) .",
+            "The Academic Enablers scale from the ACES includes 40 items rated on a 5-point scale ranging from (1 = Never to 5 = Almost Always) and indicates the frequency with which children engage in a number of behaviors that facilitate learning (e.g., Participates in class discussions, Attempts to improve on previous performance, Turns in homework on time).",
+            "The total score from this scale (used in these analyses) has excellent published psychometric properties including excellent internal consistency (\u03b1 = 0.98) and test-retest reliability (r = 0.96)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Preliminary statistical analyses (i.e., descriptive statistics and linear regression analyses) were performed in IBM SPSS, Version 20 (IBM SPSS, 2011). Tests of intervention group mean differences (for new outcomes, not included in prior analyses of this trial by Pfiffner et al. 2014) and path analyses were conducted in Mplus version 7.12 (Muth\u00e9n & Muth\u00e9n, 2012) . Mean differences between groups for each outcome at post-treatment and follow-up were tested using linear regression with dummy-coded variables to represent the comparisons between intervention groups, after adjusting for baseline scores for each outcome and including several covariates, including child sex, IQ , baseline medication status, parent education, and study cohort, as was done previously by Pfiffner et al. (2014) . Site differences in outcomes were not observed, so data from each site were pooled for all analyses. The results of similar mean comparisons, using Analyses of Covariance for the parent and teacher reports of inattention symptoms, social skills, and organizational skills were previously reported by Pfiffner et al. (2014) . We report the mean differences between groups for additional outcomes, including academic enabler behaviors and positive and negative parenting behaviors at post-treatment, and parenting daily hassles at posttreatment and follow-up.",
+        "section": "Data Analytic Plan",
+        "section_number": 33,
+        "sentences": [
+            "Preliminary statistical analyses (i.e., descriptive statistics and linear regression analyses) were performed in IBM SPSS, Version 20 (IBM SPSS, 2011).",
+            "Tests of intervention group mean differences (for new outcomes, not included in prior analyses of this trial by Pfiffner et al. 2014) and path analyses were conducted in Mplus version 7.12 (Muth\u00e9n & Muth\u00e9n, 2012) .",
+            "Mean differences between groups for each outcome at post-treatment and follow-up were tested using linear regression with dummy-coded variables to represent the comparisons between intervention groups, after adjusting for baseline scores for each outcome and including several covariates, including child sex, IQ , baseline medication status, parent education, and study cohort, as was done previously by Pfiffner et al. (2014) .",
+            "Site differences in outcomes were not observed, so data from each site were pooled for all analyses.",
+            "The results of similar mean comparisons, using Analyses of Covariance for the parent and teacher reports of inattention symptoms, social skills, and organizational skills were previously reported by Pfiffner et al. (2014) .",
+            "We report the mean differences between groups for additional outcomes, including academic enabler behaviors and positive and negative parenting behaviors at post-treatment, and parenting daily hassles at posttreatment and follow-up."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Path Analyses Path analyses were conducted using a Structural Equation Modeling (SEM) framework. Three models were tested with inattention symptom counts and positive and negative parenting behaviors servings as mediators of the mean differences between intervention groups on the following: (1) parent-reported outcomes at post-treatment, (2) teacher-reported outcomes at post-treatment, and (3) parentreported outcomes at follow-up. Baseline levels of all putative mediators and outcomes were included in each model so that each of the variables at post-treatment and follow-up represent improvements in an individual's scores from baseline. Potential mediation paths were first identified conceptually, as recommended by Kraemer and colleagues (2002) and then statistically using the joint significance test of each path (e.g., from intervention group to parenting behavior mediators [path a] and from parenting behavior mediators to outcomes [path b]), as recommended by Mackinnon and colleagues (2002) . The indirect mediation effects were confirmed using biascorrected bootstrapped confidence intervals, with 1000 bootstrap draws, as recommended by Preacher and Hayes (2008) . Mplus provides several indicators of overall model fit, including(a) the Comparative Fit Index (CFI; Bentler, 1990); (b) the Root Mean Square Error of Approximation (RMSEA; Steiger, 1990) , and (c) the Standardized Root Mean Square Residual (SRMR; Hu & Bentler, 1999) . Based on authoritative recommendations (Hu & Bentler, 1999; Yu, 2002) , values greater than 0.95 and 0.90 indicate excellent and acceptable model fit, respectively, for the CFI and values less than 0.05 and 0.08 indicate excellent and acceptable model fit, respectively for RMSEA and SRMR. The fit of individual paths was determined based on their statistical significance.",
+        "section": "Data Analytic Plan",
+        "section_number": 34,
+        "sentences": [
+            "Path Analyses Path analyses were conducted using a Structural Equation Modeling (SEM) framework.",
+            "Three models were tested with inattention symptom counts and positive and negative parenting behaviors servings as mediators of the mean differences between intervention groups on the following: (1) parent-reported outcomes at post-treatment, (2) teacher-reported outcomes at post-treatment, and (3) parentreported outcomes at follow-up.",
+            "Baseline levels of all putative mediators and outcomes were included in each model so that each of the variables at post-treatment and follow-up represent improvements in an individual's scores from baseline.",
+            "Potential mediation paths were first identified conceptually, as recommended by Kraemer and colleagues (2002) and then statistically using the joint significance test of each path (e.g., from intervention group to parenting behavior mediators [path a] and from parenting behavior mediators to outcomes [path b]), as recommended by Mackinnon and colleagues (2002) .",
+            "The indirect mediation effects were confirmed using biascorrected bootstrapped confidence intervals, with 1000 bootstrap draws, as recommended by Preacher and Hayes (2008) .",
+            "Mplus provides several indicators of overall model fit, including(a) the Comparative Fit Index (CFI; Bentler, 1990); (b) the Root Mean Square Error of Approximation (RMSEA; Steiger, 1990) , and (c) the Standardized Root Mean Square Residual (SRMR; Hu & Bentler, 1999) .",
+            "Based on authoritative recommendations (Hu & Bentler, 1999; Yu, 2002) , values greater than 0.95 and 0.90 indicate excellent and acceptable model fit, respectively, for the CFI and values less than 0.05 and 0.08 indicate excellent and acceptable model fit, respectively for RMSEA and SRMR.",
+            "The fit of individual paths was determined based on their statistical significance."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Between 2.5 and 3.5 % of participants were missing data at post-treatment and between 5.5 and 8 % of participants were missing data at follow-up. There was no discernable pattern of missing data and Little's test was not significant, \u03c7 2 (483) = 477.68, p > 0.05, which indicated that data could be considered Missing Completely at Random (MCAR). Mplus uses Full Information Maximum Likelihood estimation to handle missing data, which is appropriate in cases when data are assumed to be MCAR (Enders, 2010).",
+        "section": "Results",
+        "section_number": 35,
+        "sentences": [
+            "Between 2.5 and 3.5 % of participants were missing data at post-treatment and between 5.5 and 8 % of participants were missing data at follow-up.",
+            "There was no discernable pattern of missing data and Little's test was not significant, \u03c7 2 (483) = 477.68, p > 0.05, which indicated that data could be considered Missing Completely at Random (MCAR).",
+            "Mplus uses Full Information Maximum Likelihood estimation to handle missing data, which is appropriate in cases when data are assumed to be MCAR (Enders, 2010)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Our first prediction was that families of children in the CLAS and PFT groups will experience significantly greater improvement in positive and negative parenting behaviors and parenting daily hassles relative to families of children in the TAU group and the CLAS group will experience greater improvement in academic enablers than TAU. Intervention group means are presented in Table 2 for putative mediators and outcomes that were tested in the present study. We previously reported treatment effects on inattention, organization, social skills, and global improvement rated by parents and teachers (Pfiffner et al. 2014) . The novel effects reported here are positive and negative parenting, parenting daily hassles, and academic enabler behaviors at post-treatment and parenting daily hassles at follow-up. In addition to outcomes originally reported in the main trial outcome analysis (see introduction for summary of increases in inattention, organization, social skills, and global improvement rated by parents and teachers; Pfiffner et al. 2014), at post-treatment, parents of children in the CLAS group reported significantly greater improvements in positive (d = 0.19) and negative parenting (d = \u22120.31) and parenting daily hassles (d = \u22120.49), and teachers of children in the CLAS group reported significantly greater improvements in academic enablers (d = 0.24), relative to the TAU group. Moreover, parents of children in the CLAS group reported significantly greater improvements in parenting daily hassles (d = 0.35) at follow-up, relative to the TAU group. Parents of children in the PFT group reported significantly greater improvements in negative parenting behaviors (d = \u22120.25) at post-treatment and parenting daily hassles at post-treatment (d = \u22120.30) and follow-up (d = 0.17), relative to parents of children in the TAU group.",
+        "section": "Hypothesis 1",
+        "section_number": 36,
+        "sentences": [
+            "Our first prediction was that families of children in the CLAS and PFT groups will experience significantly greater improvement in positive and negative parenting behaviors and parenting daily hassles relative to families of children in the TAU group and the CLAS group will experience greater improvement in academic enablers than TAU.",
+            "Intervention group means are presented in Table 2 for putative mediators and outcomes that were tested in the present study.",
+            "We previously reported treatment effects on inattention, organization, social skills, and global improvement rated by parents and teachers (Pfiffner et al. 2014) .",
+            "The novel effects reported here are positive and negative parenting, parenting daily hassles, and academic enabler behaviors at post-treatment and parenting daily hassles at follow-up.",
+            "In addition to outcomes originally reported in the main trial outcome analysis (see introduction for summary of increases in inattention, organization, social skills, and global improvement rated by parents and teachers; Pfiffner et al. 2014), at post-treatment, parents of children in the CLAS group reported significantly greater improvements in positive (d = 0.19) and negative parenting (d = \u22120.31) and parenting daily hassles (d = \u22120.49), and teachers of children in the CLAS group reported significantly greater improvements in academic enablers (d = 0.24), relative to the TAU group.",
+            "Moreover, parents of children in the CLAS group reported significantly greater improvements in parenting daily hassles (d = 0.35) at follow-up, relative to the TAU group.",
+            "Parents of children in the PFT group reported significantly greater improvements in negative parenting behaviors (d = \u22120.25) at post-treatment and parenting daily hassles at post-treatment (d = \u22120.30) and follow-up (d = 0.17), relative to parents of children in the TAU group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Our second prediction was that improvements in parenting behavior will mediate significant intervention group mean differences for (a) parent-reported outcomes at post-treatment, (b) teacher-reported outcomes at post-treatment, and (c) parent-reported outcomes at follow-up independent of improvements in inattention symptoms. Path analyses were performed to test whether or not improvements in positive and negative parenting behaviors mediated the significant intervention group mean differences independent of improvements in inattention symptoms for the parent and teacher-reported outcomes at post-treatment (see Figs. 1 and 2, respectively) and parent-reported outcomes at follow-up (see Fig. 3 ). Indirect effects, based on the unstandardized path coefficients, and bias-corrected bootstrapped CIs are presented in Table 3 .",
+        "section": "Hypothesis 2",
+        "section_number": 37,
+        "sentences": [
+            "Our second prediction was that improvements in parenting behavior will mediate significant intervention group mean differences for (a) parent-reported outcomes at post-treatment, (b) teacher-reported outcomes at post-treatment, and (c) parent-reported outcomes at follow-up independent of improvements in inattention symptoms.",
+            "Path analyses were performed to test whether or not improvements in positive and negative parenting behaviors mediated the significant intervention group mean differences independent of improvements in inattention symptoms for the parent and teacher-reported outcomes at post-treatment (see Figs. 1 and 2, respectively) and parent-reported outcomes at follow-up (see Fig. 3 ).",
+            "Indirect effects, based on the unstandardized path coefficients, and bias-corrected bootstrapped CIs are presented in Table 3 ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parent-Reported Outcomes at Post-Treatment Although the \u03c7 2 test was significant, the overall model fit the data very well according to all other indices of model fit, \u03c7 2 (91) = 138.35, p = 0.001; CFI = 0.95, RMSEA = 0.05; SRMR = 0.04. The effects of improvement in inattention symptoms on all impairment outcomes were included in the model, but none of these effects were significant. As can be seen in Fig. 1 , the significantly greater improvements in negative parenting behaviors reported by parents of children in the CLAS and PFT groups, relative to the TAU group, were, in turn, associated with significantly greater improvements in inattention symptoms, parenting daily hassles, organizational and social skills at post-treatment. Significantly greater improvement in positive parenting behavior reported by parents of children in the CLAS group, relative to the TAU group, was, in turn, associated with improvement in social skills at post-treatment.",
+        "section": "Hypothesis 2",
+        "section_number": 38,
+        "sentences": [
+            "Parent-Reported Outcomes at Post-Treatment Although the \u03c7 2 test was significant, the overall model fit the data very well according to all other indices of model fit, \u03c7 2 (91) = 138.35, p = 0.001; CFI = 0.95, RMSEA = 0.05; SRMR = 0.04.",
+            "The effects of improvement in inattention symptoms on all impairment outcomes were included in the model, but none of these effects were significant.",
+            "As can be seen in Fig. 1 , the significantly greater improvements in negative parenting behaviors reported by parents of children in the CLAS and PFT groups, relative to the TAU group, were, in turn, associated with significantly greater improvements in inattention symptoms, parenting daily hassles, organizational and social skills at post-treatment.",
+            "Significantly greater improvement in positive parenting behavior reported by parents of children in the CLAS group, relative to the TAU group, was, in turn, associated with improvement in social skills at post-treatment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "As can be seen in Table 3 , improvement in negative parenting behavior mediated the significantly greater improvements in inattention symptoms, parenting daily hassles, and organizational skills reported by parents of children in the CLAS and PFT groups, relative to the TAU group, and social skills reported by parents of children in the CLAS group, relative to the TAU group. Although parents of children in the PFT group did not report significantly greater improvements in social skills, relative to the TAU group, the indirect effect through improvement in negative parenting behavior was significant. In addition, improvement in positive parenting behavior mediated the significantly greater improvements in social skills reported by parents of children in the CLAS group, relative to the TAU group. Teacher-Reported Outcomes at Post-Treatment For the teacher-reported outcomes at post-treatment, although the \u03c7 2 test was significant, the overall model fit the data well, \u03c7 2 (90) = 132.63, p = 0.002; CFI = 0.96, RMSEA = 0.05; SRMR = 0.04. The effects of improvement in teacherreported inattention symptoms on all impairment outcomes were included in the model, but these improvements were associated with significantly greater improvement only in teachers' reports of children's organizational skills at posttreatment. As can be seen in Fig. 2 , after accounting for these effects, the significantly greater improvement in negative parenting behaviors reported by parents of children in the CLAS group, relative to the TAU group, was, in turn, associated with significantly greater improvements in children's academic behaviors. As can be seen in Table 3 , improvements in parent-reported negative parenting behaviors mediated the significantly greater improvements in organizational skills and academic enablers reported by teachers of children in the CLAS group, relative to the TAU group. Although teachers of children in the PFT group did not report significantly greater improvement in academic enablers, relative to the TAU group, the indirect effect through improvement in parent reported negative parenting behavior was significant.",
+        "section": "Hypothesis 2",
+        "section_number": 39,
+        "sentences": [
+            "As can be seen in Table 3 , improvement in negative parenting behavior mediated the significantly greater improvements in inattention symptoms, parenting daily hassles, and organizational skills reported by parents of children in the CLAS and PFT groups, relative to the TAU group, and social skills reported by parents of children in the CLAS group, relative to the TAU group.",
+            "Although parents of children in the PFT group did not report significantly greater improvements in social skills, relative to the TAU group, the indirect effect through improvement in negative parenting behavior was significant.",
+            "In addition, improvement in positive parenting behavior mediated the significantly greater improvements in social skills reported by parents of children in the CLAS group, relative to the TAU group.",
+            "Teacher-Reported Outcomes at Post-Treatment For the teacher-reported outcomes at post-treatment, although the \u03c7 2 test was significant, the overall model fit the data well, \u03c7 2 (90) = 132.63, p = 0.002; CFI = 0.96, RMSEA = 0.05; SRMR = 0.04.",
+            "The effects of improvement in teacherreported inattention symptoms on all impairment outcomes were included in the model, but these improvements were associated with significantly greater improvement only in teachers' reports of children's organizational skills at posttreatment.",
+            "As can be seen in Fig. 2 , after accounting for these effects, the significantly greater improvement in negative parenting behaviors reported by parents of children in the CLAS group, relative to the TAU group, was, in turn, associated with significantly greater improvements in children's academic behaviors.",
+            "As can be seen in Table 3 , improvements in parent-reported negative parenting behaviors mediated the significantly greater improvements in organizational skills and academic enablers reported by teachers of children in the CLAS group, relative to the TAU group.",
+            "Although teachers of children in the PFT group did not report significantly greater improvement in academic enablers, relative to the TAU group, the indirect effect through improvement in parent reported negative parenting behavior was significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Parent-Reported Outcomes at Follow-up Although the \u03c7 2 test was significant, the overall model fit the data well according to all other indices of model fit, \u03c7 2 (112) = 164.36, p < 0.001; CFI = 0.94, RMSEA = 0.05; SRMR = 0.05. The effects of improvement in parent-reported inattention symptoms at post-treatment on all impairment outcomes at followup were included in the model, but these improvements were associated only with significantly greater improvement in child organizational skills and parenting daily hassles. As can be seen in Fig. 3 , after accounting for these effects, the significantly greater improvements in negative parenting behavior reported by parents at post-treatment among children in the CLAS and PFT groups, relative to the TAU group, in turn, predicted significantly greater improvements in parentreported child organizational skills and parenting daily hassles at follow-up. In addition, the significantly greater improvement in positive parenting behavior reported by parents of children in the CLAS group at post-treatment, relative to the TAU group, in turn, predicted improvements in parentreported social and organizational skills at follow-up. As can be seen in Table 3 , improvements in negative parenting behavior reported by parents at post-treatment mediated the significantly greater improvements in organizational skills reported by parents of children in the CLAS group, relative to the TAU group, and parenting daily hassles reported by parents of children in the CLAS and PFT groups, relative to the TAU group, at follow-up. Although parents of children in the PFT group did not report significantly greater improvement in organizational skills at follow-up, the indirect effect through improvement in negative parenting behavior reported by parents at post-treatment was significant. In addition, although parents of children in the CLAS group did not report significantly greater improvement in social skills at follow-up, the indirect effect through improvement in positive parenting behavior reported by parents at post-treatment was significant.",
+        "section": "Hypothesis 2",
+        "section_number": 40,
+        "sentences": [
+            "Parent-Reported Outcomes at Follow-up Although the \u03c7 2 test was significant, the overall model fit the data well according to all other indices of model fit, \u03c7 2 (112) = 164.36, p < 0.001; CFI = 0.94, RMSEA = 0.05; SRMR = 0.05.",
+            "The effects of improvement in parent-reported inattention symptoms at post-treatment on all impairment outcomes at followup were included in the model, but these improvements were associated only with significantly greater improvement in child organizational skills and parenting daily hassles.",
+            "As can be seen in Fig. 3 , after accounting for these effects, the significantly greater improvements in negative parenting behavior reported by parents at post-treatment among children in the CLAS and PFT groups, relative to the TAU group, in turn, predicted significantly greater improvements in parentreported child organizational skills and parenting daily hassles at follow-up.",
+            "In addition, the significantly greater improvement in positive parenting behavior reported by parents of children in the CLAS group at post-treatment, relative to the TAU group, in turn, predicted improvements in parentreported social and organizational skills at follow-up.",
+            "As can be seen in Table 3 , improvements in negative parenting behavior reported by parents at post-treatment mediated the significantly greater improvements in organizational skills reported by parents of children in the CLAS group, relative to the TAU group, and parenting daily hassles reported by parents of children in the CLAS and PFT groups, relative to the TAU group, at follow-up.",
+            "Although parents of children in the PFT group did not report significantly greater improvement in organizational skills at follow-up, the indirect effect through improvement in negative parenting behavior reported by parents at post-treatment was significant.",
+            "In addition, although parents of children in the CLAS group did not report significantly greater improvement in social skills at follow-up, the indirect effect through improvement in positive parenting behavior reported by parents at post-treatment was significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "In this, the first randomized clinical trial of a novel psychosocial intervention for children with the Inattentive presentation of ADHD, results support study hypotheses that parenting behavior, as well as child functional impairments, would improve following the intervention. Moreover, these findings support the core hypotheses that improvements in positive and negative parenting behaviors mediate treatment effects on improvements in child functioning independent of improvements in child inattention. Although a singlecomponent parent training may produce improvements in some outcomes for children with ADHD-I (i.e., negative parenting and daily hassles at home), a multicomponent approach may be needed to produce improvements in both positive and negative parenting, which then may affect the widest range of outcomes and produce the most lasting improvements in impairment for children with ADHD-I.",
+        "section": "Discussion",
+        "section_number": 41,
+        "sentences": [
+            "In this, the first randomized clinical trial of a novel psychosocial intervention for children with the Inattentive presentation of ADHD, results support study hypotheses that parenting behavior, as well as child functional impairments, would improve following the intervention.",
+            "Moreover, these findings support the core hypotheses that improvements in positive and negative parenting behaviors mediate treatment effects on improvements in child functioning independent of improvements in child inattention.",
+            "Although a singlecomponent parent training may produce improvements in some outcomes for children with ADHD-I (i.e., negative parenting and daily hassles at home), a multicomponent approach may be needed to produce improvements in both positive and negative parenting, which then may affect the widest range of outcomes and produce the most lasting improvements in impairment for children with ADHD-I."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The advantage for the multicomponent CLAS may be attributed to the emphasis on support and collaboration between caretakers (i.e., parents and teachers) across settings and concurrent child skills training in CLAS, compared to PFT in which parents carry out the intervention strategies primarily without direct involvement of the teacher or child. Improvement in positive parenting was statistically significant only in the multicomponent CLAS but not single-component PFT, even though both treatments emphasized positive parenting strategies.",
+        "section": "Discussion",
+        "section_number": 42,
+        "sentences": [
+            "The advantage for the multicomponent CLAS may be attributed to the emphasis on support and collaboration between caretakers (i.e., parents and teachers) across settings and concurrent child skills training in CLAS, compared to PFT in which parents carry out the intervention strategies primarily without direct involvement of the teacher or child.",
+            "Improvement in positive parenting was statistically significant only in the multicomponent CLAS but not single-component PFT, even though both treatments emphasized positive parenting strategies."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Thus, it is possible that including children and teachers directly in treatment, teaching parents about the adaptive skills taught in the child component, and involving them in the classroom component via a daily report card may have increased their recognition of improvements in their children's behaviors and motivated them to utilize the positive parenting strategies (e.g., praise, positive engagement) more consistently, genuinely, and effectively. Note, however, that the mean differences among experimental groups (Table 2) are too small to justify strong conclusions of superiority/inferiority. More telling is the consistent ordering of treatment effects (CLAS > PFT > TAU) for all outcomes.",
+        "section": "Discussion",
+        "section_number": 43,
+        "sentences": [
+            "Thus, it is possible that including children and teachers directly in treatment, teaching parents about the adaptive skills taught in the child component, and involving them in the classroom component via a daily report card may have increased their recognition of improvements in their children's behaviors and motivated them to utilize the positive parenting strategies (e.g., praise, positive engagement) more consistently, genuinely, and effectively.",
+            "Note, however, that the mean differences among experimental groups (Table 2) are too small to justify strong conclusions of superiority/inferiority.",
+            "More telling is the consistent ordering of treatment effects (CLAS > PFT > TAU) for all outcomes."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "We also found that parenting practices mediated improvement in child impairment-related outcomes. Results expand upon previous research suggesting that parenting is an important mechanism of change in psychosocial treatment for ADHD (Chronis-Tuscano et al. 2011; Hinshaw et al. 2000) . It is noteworthy that improvements in parenting mediated improvement in child impairment outcomes as rated by parents and teachers, independent of change in child inattention symptoms. Although previous arguments have postulated that child symptoms must be directly targeted as an active ingredient in ADHD treatment (i.e., via medication management), the present results suggest that improvement in parenting independently can produce improvement in various meaningful outcomes at home and at school.",
+        "section": "Discussion",
+        "section_number": 44,
+        "sentences": [
+            "We also found that parenting practices mediated improvement in child impairment-related outcomes.",
+            "Results expand upon previous research suggesting that parenting is an important mechanism of change in psychosocial treatment for ADHD (Chronis-Tuscano et al. 2011; Hinshaw et al. 2000) .",
+            "It is noteworthy that improvements in parenting mediated improvement in child impairment outcomes as rated by parents and teachers, independent of change in child inattention symptoms.",
+            "Although previous arguments have postulated that child symptoms must be directly targeted as an active ingredient in ADHD treatment (i.e., via medication management), the present results suggest that improvement in parenting independently can produce improvement in various meaningful outcomes at home and at school."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Finally, our findings suggest that multicomponent and single-component treatments may differentially influence positive and negative parenting and multiple domains of functional impairment and are consistent with previous research indicating that parenting behaviors uniquely predict the severity and type of functional impairment children display, before and after treatment (Haack et al. in press; Hinshaw et al. 2000) .",
+        "section": "Discussion",
+        "section_number": 45,
+        "sentences": [
+            "Finally, our findings suggest that multicomponent and single-component treatments may differentially influence positive and negative parenting and multiple domains of functional impairment and are consistent with previous research indicating that parenting behaviors uniquely predict the severity and type of functional impairment children display, before and after treatment (Haack et al. in press; Hinshaw et al. 2000) ."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The present results, alongside the cross-sectional study by Haack et al. (in press) , suggest that positive parenting may uniquely influence social impairment and may uniquely improve following multicomponent treatment, whereas reductions in negative parenting appear to contribute more broadly to improvements in academic, social, and home impairment in families of children with ADHD-I.",
+        "section": "Discussion",
+        "section_number": 46,
+        "sentences": [
+            "The present results, alongside the cross-sectional study by Haack et al. (in press) , suggest that positive parenting may uniquely influence social impairment and may uniquely improve following multicomponent treatment, whereas reductions in negative parenting appear to contribute more broadly to improvements in academic, social, and home impairment in families of children with ADHD-I."
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The current findings replicate data implicating parenting as an important mechanism of change in psychosocial treatment for ADHD and is the first to demonstrate that parenting plays a role in immediate and sustained home, social, and academic impairment outcomes for youth with ADHD-I. Specifically, this is the first study to the author's knowledge to demonstrate that a mechanism of change independent of teacher involvement (ie., reductions in negative parenting following psychosocial treatment for ADHD-I) partially accounts for improvement in academic functioning as rated by parents and teachers, irrespective of child symptom improvement. This also is the first study to demonstrate that improvements in parenting (and particularly negative parenting) partially account for sustained improvement in child impairment into the subsequent school year.",
+        "section": "Implications",
+        "section_number": 47,
+        "sentences": [
+            "The current findings replicate data implicating parenting as an important mechanism of change in psychosocial treatment for ADHD and is the first to demonstrate that parenting plays a role in immediate and sustained home, social, and academic impairment outcomes for youth with ADHD-I. Specifically, this is the first study to the author's knowledge to demonstrate that a mechanism of change independent of teacher involvement (ie.,",
+            "reductions in negative parenting following psychosocial treatment for ADHD-I) partially accounts for improvement in academic functioning as rated by parents and teachers, irrespective of child symptom improvement.",
+            "This also is the first study to demonstrate that improvements in parenting (and particularly negative parenting) partially account for sustained improvement in child impairment into the subsequent school year."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Our study found that decreased negative parenting served as a somewhat more impactful active ingredient in treatment than positive parenting. Relatively high baseline levels of positive parenting in our sample may well have limited our ability to detect treatment effects. However, a recent review of parenting interventions similarly noted somewhat stronger mediating effecs of discipline than positive parenting on reductions in disruptive behavior (Forehand et al., 2014) , suggesting that positive parenting may play less of a direct role in some kinds of child behavior change.",
+        "section": "Implications",
+        "section_number": 48,
+        "sentences": [
+            "Our study found that decreased negative parenting served as a somewhat more impactful active ingredient in treatment than positive parenting.",
+            "Relatively high baseline levels of positive parenting in our sample may well have limited our ability to detect treatment effects.",
+            "However, a recent review of parenting interventions similarly noted somewhat stronger mediating effecs of discipline than positive parenting on reductions in disruptive behavior (Forehand et al., 2014) , suggesting that positive parenting may play less of a direct role in some kinds of child behavior change."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "The robust CLAS outcomes across rater and time-point exceed results from previouslarge-scale efficacy trials of ADHD psychosocial treatment such as the MTA study (Jensen et al. 2007; Molina et al. 2009 ; MTA Cooperative Group 1999); however, there are a host of discrepancies between the MTA vs. CLAS trial designs. First, the MTA participants were youth with ADHD-C whereas the CLAS participants were youth with ADHD-I. It is unknown whether children with ADHD who differ in severity of the hyperactivity-impulsivity dimension may respond differently to intensive psychosocial treatment. Second, the MTA psychosocial treatment was compared to medication management and to a community control/treatment as usual arm in which a majority of participants utilized community-based medication management (Swanson et al. 2008) . CLAS psychosocial treatment was compared to a community control/treatment as usual arm in which a majority of the participants did not utilize medication management (Pfiffner et al. 2014) . Thus, in the MTA ceiling effects may well have occurred, in which the potential added benefit of psychosocial treatment could not be observed due to high rates of medication use in the control group.",
+        "section": "Implications",
+        "section_number": 49,
+        "sentences": [
+            "The robust CLAS outcomes across rater and time-point exceed results from previouslarge-scale efficacy trials of ADHD psychosocial treatment such as the MTA study (Jensen et al. 2007; Molina et al. 2009 ; MTA Cooperative Group 1999); however, there are a host of discrepancies between the MTA vs. CLAS trial designs.",
+            "First, the MTA participants were youth with ADHD-C whereas the CLAS participants were youth with ADHD-I. It is unknown whether children with ADHD who differ in severity of the hyperactivity-impulsivity dimension may respond differently to intensive psychosocial treatment.",
+            "Second, the MTA psychosocial treatment was compared to medication management and to a community control/treatment as usual arm in which a majority of participants utilized community-based medication management (Swanson et al. 2008) .",
+            "CLAS psychosocial treatment was compared to a community control/treatment as usual arm in which a majority of the participants did not utilize medication management (Pfiffner et al. 2014) .",
+            "Thus, in the MTA ceiling effects may well have occurred, in which the potential added benefit of psychosocial treatment could not be observed due to high rates of medication use in the control group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Several limitations of the current study should be addressed. To begin, ratings of parenting practices and styles, as well as functional impairments, were based on parent and teacher report, and the extent to which shared method variance affected the findings is not known. Replication with more objective measures of behavior and parenting, such as behavioral observations of parent-child and teacher-child interactions, is needed. In addition, the parenting composites utilized in this study were limited to positive (i.e., warmth and involvement) and negative (i.e., inconsistent discipline and power assertion) parenting. There may be other aspects of parenting relevant to families of children with ADHD-I that are not captured in these measures, such as prompting or scaffolding. Although effects that are often considered small were detected in the present study, it is possible that the sample size was inadequate to detect some small indirect effects given the complex paths that were tested. Additionally, the current sample presented with fairly high levels of income and education, which may have enabled greater levels of treatment adherence and subsequently more robust changes in parenting behaviors. Future research should attempt to replicate findings with larger samples of parents from diverse socioeconomic backgrounds. Finally, the magnitude of positive outcomes in the current study occurred in the context of a federally-funded clinical trial with high levels of fidelity to intervention. Future research should extend beyond this efficacy trial to examining effectiveness in community settings. As an example, the Collaborative Life Skills Program (CLS; Pfiffner et al. 2011) utilizes existing school staff to implement treatment components adapted from CLAS and shows evidence of feasibility, acceptability and efficacy (Pfiffner et al. in press ).",
+        "section": "Limitations and Future Directions",
+        "section_number": 50,
+        "sentences": [
+            "Several limitations of the current study should be addressed.",
+            "To begin, ratings of parenting practices and styles, as well as functional impairments, were based on parent and teacher report, and the extent to which shared method variance affected the findings is not known.",
+            "Replication with more objective measures of behavior and parenting, such as behavioral observations of parent-child and teacher-child interactions, is needed.",
+            "In addition, the parenting composites utilized in this study were limited to positive (i.e., warmth and involvement) and negative (i.e., inconsistent discipline and power assertion) parenting.",
+            "There may be other aspects of parenting relevant to families of children with ADHD-I that are not captured in these measures, such as prompting or scaffolding.",
+            "Although effects that are often considered small were detected in the present study, it is possible that the sample size was inadequate to detect some small indirect effects given the complex paths that were tested.",
+            "Additionally, the current sample presented with fairly high levels of income and education, which may have enabled greater levels of treatment adherence and subsequently more robust changes in parenting behaviors.",
+            "Future research should attempt to replicate findings with larger samples of parents from diverse socioeconomic backgrounds.",
+            "Finally, the magnitude of positive outcomes in the current study occurred in the context of a federally-funded clinical trial with high levels of fidelity to intervention.",
+            "Future research should extend beyond this efficacy trial to examining effectiveness in community settings.",
+            "As an example, the Collaborative Life Skills Program (CLS; Pfiffner et al. 2011) utilizes existing school staff to implement treatment components adapted from CLAS and shows evidence of feasibility, acceptability and efficacy (Pfiffner et al. in press )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "Multicomponent psychosocial treatments have broad effects on functional outcomes that exceed those of conventional parent training and referral to existing services. Parenting is an important mechanism of change in psychosocial treatment for ADHD-I. Positive and negative parenting appear to differ in their mediated effects on specific outcomes, and multicomponent treatment may activate positive parenting change more than conventional parent training. Although the evidence for these conclusions is tentative, the consistent finding that multicomponent treatment was more effective on all observed outcomes than parent training, which in turn was more effective than usual services, argues for redirection of existing services. This study supports the need for research into costs, feasibility, and effectiveness of multicomponent behavioral health in school-age children.",
+        "section": "Conclusions",
+        "section_number": 51,
+        "sentences": [
+            "Multicomponent psychosocial treatments have broad effects on functional outcomes that exceed those of conventional parent training and referral to existing services.",
+            "Parenting is an important mechanism of change in psychosocial treatment for ADHD-I. Positive and negative parenting appear to differ in their mediated effects on specific outcomes, and multicomponent treatment may activate positive parenting change more than conventional parent training.",
+            "Although the evidence for these conclusions is tentative, the consistent finding that multicomponent treatment was more effective on all observed outcomes than parent training, which in turn was more effective than usual services, argues for redirection of existing services.",
+            "This study supports the need for research into costs, feasibility, and effectiveness of multicomponent behavioral health in school-age children."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "doc_id": "39149",
+        "text": "J Abnorm Child Psychol (2017) 45:841-855",
+        "section": "",
+        "section_number": 52,
+        "sentences": [
+            "J Abnorm Child Psychol (2017) 45:841-855"
+        ],
+        "sentence_labels": [
+            -1
+        ]
+    }
+]

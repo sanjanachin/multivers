@@ -1,0 +1,695 @@
+[
+    {
+        "doc_id": "41503",
+        "text": "The objective of this clinical trial was to compare the efficacy and safety of letibotulinum toxin A and onabotulinum toxin A for improving dynamic equinus foot deformity in children with cerebral palsy (CP). In total, 144 children with spastic CP who had dynamic equinus foot deformity were assigned randomly to the Botulax group (injection of letibotulinum toxin A) or the Botox group (injection of onabotulinum toxin A). The Physician's Rating Scale (PRS), ankle plantar flexor spasticity using the Modified Tardieu Scale, the Gross Motor Function Measure (GMFM)-88, and the GMFM-66 were completed before injection and at 6, 12, and 24 weeks after injection. The PRS responder rate was 60.27% in the Botulax group and 61.43% in the Botox group at 12 weeks after treatment, and the lower limit of the 95% confidence interval for the between-group difference in responder rates was \u221217.16%, higher than the non-inferiority margin of \u221224.00%. The clinical efficacy and the safety profiles of the groups did not significantly differ. The results suggest that injection of letibotulinum toxin A is as effective and safe as that of onabotulinum toxin A for the treatment of dynamic equinus foot deformity in children with spastic CP.",
+        "section": "Abstract",
+        "sentences": [
+            "The objective of this clinical trial was to compare the efficacy and safety of letibotulinum toxin A and onabotulinum toxin A for improving dynamic equinus foot deformity in children with cerebral palsy (CP).",
+            "In total, 144 children with spastic CP who had dynamic equinus foot deformity were assigned randomly to the Botulax group (injection of letibotulinum toxin A) or the Botox group (injection of onabotulinum toxin A).",
+            "The Physician's Rating Scale (PRS), ankle plantar flexor spasticity using the Modified Tardieu Scale, the Gross Motor Function Measure (GMFM)-88, and the GMFM-66 were completed before injection and at 6, 12, and 24 weeks after injection.",
+            "The PRS responder rate was 60.27% in the Botulax group and 61.43% in the Botox group at 12 weeks after treatment, and the lower limit of the 95% confidence interval for the between-group difference in responder rates was \u221217.16%, higher than the non-inferiority margin of \u221224.00%.",
+            "The clinical efficacy and the safety profiles of the groups did not significantly differ.",
+            "The results suggest that injection of letibotulinum toxin A is as effective and safe as that of onabotulinum toxin A for the treatment of dynamic equinus foot deformity in children with spastic CP."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Cerebral palsy (CP), which is characterized by movement and posture disorders caused by non-progressive lesions in the developing brain, is the most common developmental disorder associated with lifelong motor impairment and disability [1, 2] . Spasticity is a major impairment in children with CP, affecting approximately two-thirds of this population [3] . Equinus is a common gait abnormality in children with CP, resulting from spasticity of the ankle plantar flexor [4] .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "Cerebral palsy (CP), which is characterized by movement and posture disorders caused by non-progressive lesions in the developing brain, is the most common developmental disorder associated with lifelong motor impairment and disability [1, 2] .",
+            "Spasticity is a major impairment in children with CP, affecting approximately two-thirds of this population [3] .",
+            "Equinus is a common gait abnormality in children with CP, resulting from spasticity of the ankle plantar flexor [4] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Since the first reports in the early 1990s, botulinum toxin type-A (BoNT-A) has been used for the management of spasticity in the lower limbs of children with CP [5, 6] . BoNT-A injections decrease spasticity locally by interfering with cholinergic transmission at the neuromuscular junction [7] . BoNT-A has been established as an effective treatment for the management of spastic equinus, as it improves gait, goal attainment, and function [8] .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "Since the first reports in the early 1990s, botulinum toxin type-A (BoNT-A) has been used for the management of spasticity in the lower limbs of children with CP [5, 6] .",
+            "BoNT-A injections decrease spasticity locally by interfering with cholinergic transmission at the neuromuscular junction [7] .",
+            "BoNT-A has been established as an effective treatment for the management of spastic equinus, as it improves gait, goal attainment, and function [8] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Various BoNT-A products are used for the management of spasticity, including onabotulinum toxin A (Botox, Allergan Inc., Irvine, CA, USA), abobotulinum toxin A (Dysport, Ipsen Ltd., Slough, Berkshire, UK), letibotulinum toxin A (Botulax, Hugel Inc., Chuncheon, Korea), and incobotulinum toxin A (Xeomine, Merz Pharmaceutical, Frankfurt, Germany) [9] [10] [11] . Each BoNT-A product acts by a similar mechanism but has different components. Thus, it is possible that each product presents different levels of efficacy and safety.",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Various BoNT-A products are used for the management of spasticity, including onabotulinum toxin A (Botox, Allergan Inc., Irvine, CA, USA), abobotulinum toxin A (Dysport, Ipsen Ltd., Slough, Berkshire, UK), letibotulinum toxin A (Botulax, Hugel Inc., Chuncheon, Korea), and incobotulinum toxin A (Xeomine, Merz Pharmaceutical, Frankfurt, Germany) [9] [10] [11] .",
+            "Each BoNT-A product acts by a similar mechanism but has different components.",
+            "Thus, it is possible that each product presents different levels of efficacy and safety."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Letibotulinum toxin A is a novel neurotoxin from the C. botulinum CBFC26 strain that shows high toxicity in mice [12] . Also, its toxin and 16S rRNA sequences are completely homologous to those of the ATCC 3502 Hall A strain of onabotulinum toxin A. Letibotulinum toxin A has been subjected to additional processes, including enzyme-free purification steps such as protamine sulfate precipitation, to eliminate nucleic acids, and diethylaminoethanol-sepharose chromatography, which could theoretically improve the quality of the product. However, few studies have assessed the efficacy and safety of letibotulinum toxin A in the treatment of spasticity [12] . Also, there has been no report on the effectiveness of letibotulinum toxin A in the management of spasticity in children with CP.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Letibotulinum toxin A is a novel neurotoxin from the C. botulinum CBFC26 strain that shows high toxicity in mice [12] .",
+            "Also, its toxin and 16S rRNA sequences are completely homologous to those of the ATCC 3502 Hall A strain of onabotulinum toxin A. Letibotulinum toxin A has been subjected to additional processes, including enzyme-free purification steps such as protamine sulfate precipitation, to eliminate nucleic acids, and diethylaminoethanol-sepharose chromatography, which could theoretically improve the quality of the product.",
+            "However, few studies have assessed the efficacy and safety of letibotulinum toxin A in the treatment of spasticity [12] .",
+            "Also, there has been no report on the effectiveness of letibotulinum toxin A in the management of spasticity in children with CP."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "When newly formulated BoNT-A products are manufactured, clinical trials are needed to demonstrate the efficacy and safety for each indication. Generally, studies on the safety and efficacy of BoNT-A have been performed using a comparative design involving onabotulinum toxin A.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "When newly formulated BoNT-A products are manufactured, clinical trials are needed to demonstrate the efficacy and safety for each indication.",
+            "Generally, studies on the safety and efficacy of BoNT-A have been performed using a comparative design involving onabotulinum toxin A."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "We hypothesized that the efficacy and safety of letibotulinum toxin A were not inferior to those of onabotulinum toxin A. The objective of this clinical trial was to compare the efficacy of letibotulinum toxin A (Botulax) with that of onabotulinum toxin A (Botox) for improving dynamic equinus foot deformity among children with CP, and to record any adverse events in the two groups.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "We hypothesized that the efficacy and safety of letibotulinum toxin A were not inferior to those of onabotulinum toxin A. The objective of this clinical trial was to compare the efficacy of letibotulinum toxin A (Botulax) with that of onabotulinum toxin A (Botox) for improving dynamic equinus foot deformity among children with CP, and to record any adverse events in the two groups."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "In total, 144 subjects participated in the study, with 73 subjects randomly assigned to the Botulax group (injected with letibotulinum toxin A) and 71 assigned to the Botox group (injected with onabotulinum toxin A) ( Figure 1 ). There were 42 (57.5%) males in the Botulax group and 49 (70.0%) in the Botox group, and there was no statistically significant difference in the gender distribution of the groups. The mean age of subjects was 4.67 years in the Botulax group and 5.44 years in the Botox group; this constituted a statistically significant between-group difference (p = 0.0408; Table 1 ). In terms of spastic CP types, unilateral CP was reported in 24 (32.9%) subjects, and bilateral CP in 49 (67.1%) in the Botulax group; in the Botox group, unilateral CP was reported in 24 (34.3%), and bilateral CP was reported in 46 (65.7%). There was no statistically significant difference in the distribution of CP types between the two groups.",
+        "section": "Results",
+        "section_number": 7,
+        "sentences": [
+            "In total, 144 subjects participated in the study, with 73 subjects randomly assigned to the Botulax group (injected with letibotulinum toxin A) and 71 assigned to the Botox group (injected with onabotulinum toxin A) ( Figure 1 ).",
+            "There were 42 (57.5%) males in the Botulax group and 49 (70.0%) in the Botox group, and there was no statistically significant difference in the gender distribution of the groups.",
+            "The mean age of subjects was 4.67 years in the Botulax group and 5.44 years in the Botox group; this constituted a statistically significant between-group difference (p = 0.0408; Table 1 ).",
+            "In terms of spastic CP types, unilateral CP was reported in 24 (32.9%) subjects, and bilateral CP in 49 (67.1%) in the Botulax group; in the Botox group, unilateral CP was reported in 24 (34.3%), and bilateral CP was reported in 46 (65.7%).",
+            "There was no statistically significant difference in the distribution of CP types between the two groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "For BoNT injection history, 48 subjects (65.8%) were injected with BoNT-A, and 25 subjects (34.25%) were de novo patients in the Botulax group. In the Botox group, 47 subjects (67.1%) had a history of BoNT-A injection, and 23 subjects (32.9%) had never been injected with BoNT before screening. In both groups, there was no subject with BoNT-B injection history, and there was no statistically significant between-group difference in the distribution of BoNT injection history. For subjects with BoNT-A injection history, there was no subject with a previous history of hypersensitivity to BoNT-A. The mean number of BoNT-A injection was 2.6 times in the Botulax group and 3.06 times in the Botox group, which showed no statistically significant difference between groups.",
+        "section": "Results",
+        "section_number": 8,
+        "sentences": [
+            "For BoNT injection history, 48 subjects (65.8%) were injected with BoNT-A, and 25 subjects (34.25%) were de novo patients in the Botulax group.",
+            "In the Botox group, 47 subjects (67.1%) had a history of BoNT-A injection, and 23 subjects (32.9%) had never been injected with BoNT before screening.",
+            "In both groups, there was no subject with BoNT-B injection history, and there was no statistically significant between-group difference in the distribution of BoNT injection history.",
+            "For subjects with BoNT-A injection history, there was no subject with a previous history of hypersensitivity to BoNT-A. The mean number of BoNT-A injection was 2.6 times in the Botulax group and 3.06 times in the Botox group, which showed no statistically significant difference between groups."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The mean doses of botulinum toxin injected in each group were 100.0 \u00b1 32.9 U in the Botulax group and 106.1 \u00b1 39.4 U in the Botox group. There was no significant difference between the two groups (p = 0.497).",
+        "section": "Results",
+        "section_number": 9,
+        "sentences": [
+            "The mean doses of botulinum toxin injected in each group were 100.0 \u00b1 32.9 U in the Botulax group and 106.1 \u00b1 39.4 U in the Botox group.",
+            "There was no significant difference between the two groups (p = 0.497)."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The responder rate (proportion of subjects determined to be responders) was 60.27% (44/73 subjects) in the Botulax group and 61.43% (43/70 subjects) in the Botox group at 12 weeks after BoNT-A injection, and the lower limit of the 95% confidence interval (CI) for the difference in the responder rate (\u22121.15%) between the Botulax group and the Botox group was \u221217.16%, which was higher than the non-inferiority margin of \u221224.00% (Table 2) [13] . .25, and 8.89, respectively, in the Botox group, suggesting that the PRS score increased from the baseline to each time point in both groups, and the changes were statistically significant (p < 0.0001; Figure 2 ). There was no statistically significant difference between the two groups in terms of changes in the PRS scores at 6, 12, or 24 weeks after BoNT-A injection. In both the Botulax group and Botox group, PRS score was significantly increased and maintained until 24 weeks after BoNT-A injection. The error bar indicates the standard deviation. * Statistically significant when compared between baseline data and post-injection data in the Botulax group; + Statistically significant when compared between baseline data and post-injection data in the Botox group.",
+        "section": "Responder Rate",
+        "section_number": 10,
+        "sentences": [
+            "The responder rate (proportion of subjects determined to be responders) was 60.27% (44/73 subjects) in the Botulax group and 61.43% (43/70 subjects) in the Botox group at 12 weeks after BoNT-A injection, and the lower limit of the 95% confidence interval (CI) for the difference in the responder rate (\u22121.15%) between the Botulax group and the Botox group was \u221217.16%, which was higher than the non-inferiority margin of \u221224.00% (Table 2) [13] .",
+            ".25, and 8.89, respectively, in the Botox group, suggesting that the PRS score increased from the baseline to each time point in both groups, and the changes were statistically significant (p < 0.0001; Figure 2 ).",
+            "There was no statistically significant difference between the two groups in terms of changes in the PRS scores at 6, 12, or 24 weeks after BoNT-A injection.",
+            "In both the Botulax group and Botox group, PRS score was significantly increased and maintained until 24 weeks after BoNT-A injection.",
+            "The error bar indicates the standard deviation. *",
+            "Statistically significant when compared between baseline data and post-injection data in the Botulax group; + Statistically significant when compared between baseline data and post-injection data in the Botox group."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The mean R1 of ankle dorsiflexion with knee extension were \u221214. , respectively, in the Botox group, which demonstrated that the mean R1 and R2 of ankle dorsiflexion with knee extension changed in a positive direction from the baseline to 6, 12, and 24 weeks after BoNT-A injection in both groups. Although the within-group difference for each change was statistically significant (p < 0.0001), the between-group difference was not statistically significant ( Figure 3 ). , respectively. These alterations showed that the mean R1 and R2 of ankle dorsiflexion with knee flexion changed in a positive direction from baseline to each time point in both groups. Although the within-group difference for each change was statistically significant (p < 0.001), the between-group difference was not statistically significant ( Figure 3 ).",
+        "section": "Modified Tardieu Scale (MTS)",
+        "section_number": 11,
+        "sentences": [
+            "The mean R1 of ankle dorsiflexion with knee extension were \u221214. ,",
+            "respectively, in the Botox group, which demonstrated that the mean R1 and R2 of ankle dorsiflexion with knee extension changed in a positive direction from the baseline to 6, 12, and 24 weeks after BoNT-A injection in both groups.",
+            "Although the within-group difference for each change was statistically significant (p < 0.0001), the between-group difference was not statistically significant ( Figure 3 ). ,",
+            "respectively.",
+            "These alterations showed that the mean R1 and R2 of ankle dorsiflexion with knee flexion changed in a positive direction from baseline to each time point in both groups.",
+            "Although the within-group difference for each change was statistically significant (p < 0.001), the between-group difference was not statistically significant ( Figure 3 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The means of the GMFM-88 and GMFM-66 increased from baseline to each time point in both groups. Although the within-group difference for each change was statistically significant (all p < 0.0001), the between-group difference was not statistically significant (Table 3) . ",
+        "section": "Gross Motor Function Measure (GMFM)",
+        "section_number": 12,
+        "sentences": [
+            "The means of the GMFM-88 and GMFM-66 increased from baseline to each time point in both groups.",
+            "Although the within-group difference for each change was statistically significant (all p < 0.0001), the between-group difference was not statistically significant (Table 3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "In total, 152 adverse events were reported in 54 subjects in the Botulax group (73.97%), and 130 events were reported in 45 subjects in the Botox group (64.29%) after injection, and there was no significant between-group difference in the incidence of adverse events (p = 0.2096; Table 4 ). As frequent adverse events in the Botulax group, nasopharyngitis was the most common with 68 events in 32 subjects (43.84%), followed by bronchitis with 19 events in 11 subjects (15.07%). In the Botox group, nasopharyngitis was the most common with 61 events in 27 subjects (38.57%), followed by bronchitis with 16 events in nine subjects (12.86%). The causal relationship with the investigational product was assessed as 'definitely related', 'probably related', 'possibly related', 'probably not related', 'definitely not related', or 'unknown'; of these, adverse events other than those evaluated as 'probably not related' or 'definitely not related' were classified as adverse drug reactions for which the causal relationship with the investigational product could not be ruled out. There was no adverse drug reaction in the Botulax group, whereas two adverse drug reactions (two subjects, 2.86%) of urticaria and dysphonia were reported in the Botox group. There was no statistically significant difference between the two groups in the incidence of the acute adverse events.",
+        "section": "Safety Profiles",
+        "section_number": 13,
+        "sentences": [
+            "In total, 152 adverse events were reported in 54 subjects in the Botulax group (73.97%), and 130 events were reported in 45 subjects in the Botox group (64.29%) after injection, and there was no significant between-group difference in the incidence of adverse events (p = 0.2096; Table 4 ).",
+            "As frequent adverse events in the Botulax group, nasopharyngitis was the most common with 68 events in 32 subjects (43.84%), followed by bronchitis with 19 events in 11 subjects (15.07%).",
+            "In the Botox group, nasopharyngitis was the most common with 61 events in 27 subjects (38.57%), followed by bronchitis with 16 events in nine subjects (12.86%).",
+            "The causal relationship with the investigational product was assessed as 'definitely related', 'probably related', 'possibly related', 'probably not related', 'definitely not related', or 'unknown'; of these, adverse events other than those evaluated as 'probably not related' or 'definitely not related' were classified as adverse drug reactions for which the causal relationship with the investigational product could not be ruled out.",
+            "There was no adverse drug reaction in the Botulax group, whereas two adverse drug reactions (two subjects, 2.86%) of urticaria and dysphonia were reported in the Botox group.",
+            "There was no statistically significant difference between the two groups in the incidence of the acute adverse events."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "As acute adverse events that occurred within 30 min after BoNT-A injection, two acute adverse events of pain and erythema at the injection site occurred in one subject (1.37%) in the Botulax group, which were mild in severity and completely recovered without sequelae. No acute adverse event was reported in the Botox group. There was no statistically significant difference between the two groups in the incidence of the acute adverse events (Table 4) .",
+        "section": "Safety Profiles",
+        "section_number": 14,
+        "sentences": [
+            "As acute adverse events that occurred within 30 min after BoNT-A injection, two acute adverse events of pain and erythema at the injection site occurred in one subject (1.37%) in the Botulax group, which were mild in severity and completely recovered without sequelae.",
+            "No acute adverse event was reported in the Botox group.",
+            "There was no statistically significant difference between the two groups in the incidence of the acute adverse events (Table 4) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "In terms of serious adverse events that rendered performance of the activities of daily living impossible or required hospitalization, 10 subjects reported 14 events. In the Botulax group, five events occurred in four subjects (5.48%), including intussusception, tonsillar hypertrophy, asthma, bronchitis, and pharyngotonsillitis, and those events completely recovered without sequelae. In the Botox group, nine events in six subjects (8.57%) were reported, including acute tonsillitis, osteochondrosis, meningitis, and six events of pneumonia; they were all moderate and completely recovered without sequelae. There was no statistically significant difference between the two groups in the serious adverse events incidence (Table 4 ).",
+        "section": "Safety Profiles",
+        "section_number": 15,
+        "sentences": [
+            "In terms of serious adverse events that rendered performance of the activities of daily living impossible or required hospitalization, 10 subjects reported 14 events.",
+            "In the Botulax group, five events occurred in four subjects (5.48%), including intussusception, tonsillar hypertrophy, asthma, bronchitis, and pharyngotonsillitis, and those events completely recovered without sequelae.",
+            "In the Botox group, nine events in six subjects (8.57%) were reported, including acute tonsillitis, osteochondrosis, meningitis, and six events of pneumonia; they were all moderate and completely recovered without sequelae.",
+            "There was no statistically significant difference between the two groups in the serious adverse events incidence (Table 4 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "This randomized, double-blind, controlled trial showed that BoNT-A injection at the gastrocnemius muscle improved dynamic equinus foot deformity in children with spastic CP and that the effectiveness and safety of letibotulinum toxin A were not inferior to those of onabotulinum toxin A.",
+        "section": "Discussion",
+        "section_number": 16,
+        "sentences": [
+            "This randomized, double-blind, controlled trial showed that BoNT-A injection at the gastrocnemius muscle improved dynamic equinus foot deformity in children with spastic CP and that the effectiveness and safety of letibotulinum toxin A were not inferior to those of onabotulinum toxin A."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "These results are similar to those of previous studies on the effect of BoNT-A injection on dynamic equinus in CP. In our study, the overall responder rate after letibotulinum toxin A or onabotulinum toxin A injection was 60.84% (87/143). Kim et al. reported that the overall responder rate after BoNT-A injection was 54.6% [9] . Also, Koman et al. reported that repeated BoNT-A injection improved gait patterns in children with CP, and the responder rate was 55% at the 1-year follow-up [14] . The PRS score and range of motion in ankle dorsiflexion were improved at 6 and 12 weeks after injection, and they decreased slightly at 24 weeks. These results were similar to those of a previous study that suggested the effects of BoNT-A injection on gait lasted, on average, for 3-5 months [14] . However, the GMFM continued to increase until 24 weeks after BoNT-A injection. Boyd and Graham reported that CP children gained significant functional improvement that lasted up to 1.5 years after BoNT-A injection [15] . We suggest that the improvement in gait pattern and range of motion in ankle dorsiflexion after BoNT-A injection for dynamic equinus foot deformity was maximal at 3 months and lasted up to 6 months, and the functional increase continued until 6 months after injection. These effects did not significantly differ between letibotulinum toxin A and onabotulinum toxin A.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "These results are similar to those of previous studies on the effect of BoNT-A injection on dynamic equinus in CP.",
+            "In our study, the overall responder rate after letibotulinum toxin A or onabotulinum toxin A injection was 60.84% (87/143).",
+            "Kim et al. reported that the overall responder rate after BoNT-A injection was 54.6% [9] .",
+            "Also, Koman et al. reported that repeated BoNT-A injection improved gait patterns in children with CP, and the responder rate was 55% at the 1-year follow-up [14] .",
+            "The PRS score and range of motion in ankle dorsiflexion were improved at 6 and 12 weeks after injection, and they decreased slightly at 24 weeks.",
+            "These results were similar to those of a previous study that suggested the effects of BoNT-A injection on gait lasted, on average, for 3-5 months [14] .",
+            "However, the GMFM continued to increase until 24 weeks after BoNT-A injection.",
+            "Boyd and Graham reported that CP children gained significant functional improvement that lasted up to 1.5 years after BoNT-A injection [15] .",
+            "We suggest that the improvement in gait pattern and range of motion in ankle dorsiflexion after BoNT-A injection for dynamic equinus foot deformity was maximal at 3 months and lasted up to 6 months, and the functional increase continued until 6 months after injection.",
+            "These effects did not significantly differ between letibotulinum toxin A and onabotulinum toxin A."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The subjects in the Botulax group were significantly younger than those in the Botox group. However, the age stratification (2-4 years; 5-7 years; 8-10 years) showed that there was no significant difference in age category between two groups (p = 0.202). Also, we conducted secondary analyses to assess whether age affected the effectiveness of the BoNT-A injection (to be published separately). Multiple regression analyses showed that age was not a significant factor that affected the efficacy of BoNT-A injection. Jang et al. also reported that age was not associated with the effects of BoNT-A injection on muscle tone, passive range of motion, or gait pattern [16] .",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "The subjects in the Botulax group were significantly younger than those in the Botox group.",
+            "However, the age stratification (2-4 years; 5-7 years; 8-10 years) showed that there was no significant difference in age category between two groups (p = 0.202).",
+            "Also, we conducted secondary analyses to assess whether age affected the effectiveness of the BoNT-A injection (to be published separately).",
+            "Multiple regression analyses showed that age was not a significant factor that affected the efficacy of BoNT-A injection.",
+            "Jang et al. also reported that age was not associated with the effects of BoNT-A injection on muscle tone, passive range of motion, or gait pattern [16] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Our study showed an incidence of global adverse events in the whole cohort of 69.2% (99/143). This incidence seems to be higher than that reported in other studies [9] [10] [11] . However, the age range of the subjects in this study was 2-10 years (mean age, 5.0 years). The age range of the subjects included in the study of Carraro et al. was 3-18 years, and that of those in the study of Delgado et al. was 2-17 years. Given that the incidence of illness might be higher in younger children, it is important to note that the subjects in this study were younger than the subjects included in previous studies. Also, the follow-up period of this study was 24 weeks, which is longer than that of previous studies (12 weeks). Thus, there was more opportunity for a disease to occur regardless of BoNT-A injection due to the longer period. Indeed, seven among 14 serious adverse events in whole cohort occurred between 3 and 6 months after BoNT-A injection. Another reason for the result could be because the criteria for reporting adverse events differed. Indeed, more than half of the adverse events were grade 1, meaning that they did not interfere with normal daily life to such an extent that the subject hardly noticed them. Another reason could be that the barriers to access to healthcare in Korea are very low.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "Our study showed an incidence of global adverse events in the whole cohort of 69.2% (99/143).",
+            "This incidence seems to be higher than that reported in other studies [9] [10] [11] .",
+            "However, the age range of the subjects in this study was 2-10 years (mean age, 5.0 years).",
+            "The age range of the subjects included in the study of Carraro et al. was 3-18 years, and that of those in the study of Delgado et al. was 2-17 years.",
+            "Given that the incidence of illness might be higher in younger children, it is important to note that the subjects in this study were younger than the subjects included in previous studies.",
+            "Also, the follow-up period of this study was 24 weeks, which is longer than that of previous studies (12 weeks).",
+            "Thus, there was more opportunity for a disease to occur regardless of BoNT-A injection due to the longer period.",
+            "Indeed, seven among 14 serious adverse events in whole cohort occurred between 3 and 6 months after BoNT-A injection.",
+            "Another reason for the result could be because the criteria for reporting adverse events differed.",
+            "Indeed, more than half of the adverse events were grade 1, meaning that they did not interfere with normal daily life to such an extent that the subject hardly noticed them.",
+            "Another reason could be that the barriers to access to healthcare in Korea are very low."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Only 0.7% of global adverse events were injection-related, according to an investigation of the causal relationship between adverse events and drugs. This is a much smaller incidence than those reported in previous studies (>2% of subjects) [11] . Furthermore, no adverse event in the Botulax group was definitely or probably related to BoNT-A injection. Also, no serious adverse event in either group was definitely or probably related to BoNT-A injection. This was because the BoNT-A dosage used in this study was less than those in previous studies. Indeed, another study in which they injected doses of BoNT-A similar to those used in this study reported no adverse events related to the treatment [9] .",
+        "section": "Discussion",
+        "section_number": 20,
+        "sentences": [
+            "Only 0.7% of global adverse events were injection-related, according to an investigation of the causal relationship between adverse events and drugs.",
+            "This is a much smaller incidence than those reported in previous studies (>2% of subjects) [11] .",
+            "Furthermore, no adverse event in the Botulax group was definitely or probably related to BoNT-A injection.",
+            "Also, no serious adverse event in either group was definitely or probably related to BoNT-A injection.",
+            "This was because the BoNT-A dosage used in this study was less than those in previous studies.",
+            "Indeed, another study in which they injected doses of BoNT-A similar to those used in this study reported no adverse events related to the treatment [9] ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "This study has several limitations. There was no placebo group, which is needed to confirm the net effect of a study drug. However, treatment with BoNT-A injections for children with CP has already been established. Thus, injection with a placebo was not considered to be ethically appropriate. Also, it was not permitted to use variable doses of BoNT-A according to spasticity, which could lead to optimal results. The dose used in our protocol might not have been sufficient in some children. Further study is needed to identify the most appropriate dose for the severity of spasticity.",
+        "section": "Discussion",
+        "section_number": 21,
+        "sentences": [
+            "This study has several limitations.",
+            "There was no placebo group, which is needed to confirm the net effect of a study drug.",
+            "However, treatment with BoNT-A injections for children with CP has already been established.",
+            "Thus, injection with a placebo was not considered to be ethically appropriate.",
+            "Also, it was not permitted to use variable doses of BoNT-A according to spasticity, which could lead to optimal results.",
+            "The dose used in our protocol might not have been sufficient in some children.",
+            "Further study is needed to identify the most appropriate dose for the severity of spasticity."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Injection of letibotulinum toxin A was shown to be as effective and safe as that of onabotulinum toxin A for the treatment of dynamic equinus foot deformity in children with spastic CP. The results of this study are expected to provide physicians with another choice for the treatment of spasticity in children with CP.",
+        "section": "Conclusions",
+        "section_number": 22,
+        "sentences": [
+            "Injection of letibotulinum toxin A was shown to be as effective and safe as that of onabotulinum toxin A for the treatment of dynamic equinus foot deformity in children with spastic CP.",
+            "The results of this study are expected to provide physicians with another choice for the treatment of spasticity in children with CP."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "This study was designed as a double-blind, randomized, active-controlled comparative, multicenter-designed, phase III clinical trial. The trial was registered at clinicaltrial.gov (NCT01787344), and approved by the Ministry of Food and Drug Safety. The study protocol was also approved by the Institutional Review Boards This study consisted of screening and then injection, followed by a 24-week observation period. Patients who provided written consent to participate in the study were screened and assessed for eligibility as subjects. The inclusion criteria were as follows: (1) children aged between 2 and 10 years;",
+        "section": "Materials and Methods",
+        "section_number": 23,
+        "sentences": [
+            "This study was designed as a double-blind, randomized, active-controlled comparative, multicenter-designed, phase III clinical trial.",
+            "The trial was registered at clinicaltrial.gov (NCT01787344), and approved by the Ministry of Food and Drug Safety.",
+            "The study protocol was also approved by the Institutional Review Boards This study consisted of screening and then injection, followed by a 24-week observation period.",
+            "Patients who provided written consent to participate in the study were screened and assessed for eligibility as subjects.",
+            "The inclusion criteria were as follows: (1) children aged between 2 and 10 years;"
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "(2) diagnosis of spastic CP (confirmed via magnetic resonance imaging, as necessary); (3) Gross Motor Function Classification System Level I, II, or III; and (4) diagnosis of dynamic equinus foot deformity (with heel lift-up during walking). The exclusion criteria were as follows: (1) received botulinum toxin injection within 3 months before screening; (2) previous history of hypersensitivity to botulinum toxin products or their ingredients; (3) diagnosis of systemic neuromuscular junction disorder; (4) scheduled for surgery on the leg, foot, or ankle or previous history of surgery at the corresponding sites; and (5) leg length discrepancy >5 cm.",
+        "section": "Materials and Methods",
+        "section_number": 24,
+        "sentences": [
+            "(2) diagnosis of spastic CP (confirmed via magnetic resonance imaging, as necessary); (3) Gross Motor Function Classification System Level I, II, or III; and (4) diagnosis of dynamic equinus foot deformity (with heel lift-up during walking).",
+            "The exclusion criteria were as follows: (1) received botulinum toxin injection within 3 months before screening; (2) previous history of hypersensitivity to botulinum toxin products or their ingredients; (3) diagnosis of systemic neuromuscular junction disorder; (4) scheduled for surgery on the leg, foot, or ankle or previous history of surgery at the corresponding sites; and (5) leg length discrepancy >5 cm."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "Enrolled subjects were randomly assigned to the Botulax group (injection with letibotulinum toxin A) or the Botox group (injection with onabotulinum toxin A) at a ratio of 1:1. The random assignment code was generated using a block randomization method for each hospital. Those codes were sealed until the trial was completed except in cases where it was inevitably necessary to view the code due to a serious adverse event. Thus, all research staff, clinicians, and participants were unaware of trial group assignments.",
+        "section": "Materials and Methods",
+        "section_number": 25,
+        "sentences": [
+            "Enrolled subjects were randomly assigned to the Botulax group (injection with letibotulinum toxin A) or the Botox group (injection with onabotulinum toxin A) at a ratio of 1:1.",
+            "The random assignment code was generated using a block randomization method for each hospital.",
+            "Those codes were sealed until the trial was completed except in cases where it was inevitably necessary to view the code due to a serious adverse event.",
+            "Thus, all research staff, clinicians, and participants were unaware of trial group assignments."
+        ],
+        "sentence_labels": [
+            -1,
+            1,
+            -1,
+            -1
+        ],
+        "classification_label": 0
+    },
+    {
+        "doc_id": "41503",
+        "text": "After randomization, participants received the corresponding BoNT-A to two sites on the medial and lateral heads of gastrocnemius muscle. In the case of bilateral CP, BoNT-A was administered to both legs at a dose of 6 U/kg body weight (3 U/kg for each leg). In the case of unilateral CP, the BoNT-A was administered to the spastic calf muscle at a dose of 4 U/kg body weight. The investigational products were packaged with same container and label. The personnel responsible for dilution prepared the injection solution with the corresponding BoNT-A apart from injection place. The syringe without apparent difference between two investigational products was handed over to the injector who was in charge of BoNT-A injection. Therefore, blinding of the injectors could be maintained. Also, blinding of the investigators and physical therapist in charge of assessments, patients, and parents were maintained. Local anesthetic cream was applied to the injection site 30 min before injection. The injection was guided with ultrasonography or electrical stimulation according to preference of the injectors in each center. For the detection of the occurrence of acute adversed events, the subject's status was observed for 30 min after injection of the investigational products.",
+        "section": "Materials and Methods",
+        "section_number": 26,
+        "sentences": [
+            "After randomization, participants received the corresponding BoNT-A to two sites on the medial and lateral heads of gastrocnemius muscle.",
+            "In the case of bilateral CP, BoNT-A was administered to both legs at a dose of 6 U/kg body weight (3 U/kg for each leg).",
+            "In the case of unilateral CP, the BoNT-A was administered to the spastic calf muscle at a dose of 4 U/kg body weight.",
+            "The investigational products were packaged with same container and label.",
+            "The personnel responsible for dilution prepared the injection solution with the corresponding BoNT-A apart from injection place.",
+            "The syringe without apparent difference between two investigational products was handed over to the injector who was in charge of BoNT-A injection.",
+            "Therefore, blinding of the injectors could be maintained.",
+            "Also, blinding of the investigators and physical therapist in charge of assessments, patients, and parents were maintained.",
+            "Local anesthetic cream was applied to the injection site 30 min before injection.",
+            "The injection was guided with ultrasonography or electrical stimulation according to preference of the injectors in each center.",
+            "For the detection of the occurrence of acute adversed events, the subject's status was observed for 30 min after injection of the investigational products."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The subjects visited the study centers at 6, 12, and 24 weeks after administration of the investigational products to undergo efficacy and safety assessments.",
+        "section": "Materials and Methods",
+        "section_number": 27,
+        "sentences": [
+            "The subjects visited the study centers at 6, 12, and 24 weeks after administration of the investigational products to undergo efficacy and safety assessments."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The primary outcome was measured by the responder rate of the PRS score at 12 weeks after injection. The PRS score represented the dynamic gait pattern during active walking [17] . It consists of six functional components of the human gait cycle, and each component is scored on a scale of 0 to 2 or 3. The six component scores were summed up to yield the PRS score, which ranged from 0 to 14 (0 = worst, 14 = best). It was scored by the investigators at the corresponding visit and recorded using a video camera for more accurate assessment. The responder rate was defined as the percentage of subjects whose PRS scores increased by 2 or more compared with that at baseline. In the case of bilateral CP, the outcome was assessed to be effective if the PRS score for each leg increased by 2 or more.",
+        "section": "Outcome Measures",
+        "section_number": 28,
+        "sentences": [
+            "The primary outcome was measured by the responder rate of the PRS score at 12 weeks after injection.",
+            "The PRS score represented the dynamic gait pattern during active walking [17] .",
+            "It consists of six functional components of the human gait cycle, and each component is scored on a scale of 0 to 2 or 3.",
+            "The six component scores were summed up to yield the PRS score, which ranged from 0 to 14 (0 = worst, 14 = best).",
+            "It was scored by the investigators at the corresponding visit and recorded using a video camera for more accurate assessment.",
+            "The responder rate was defined as the percentage of subjects whose PRS scores increased by 2 or more compared with that at baseline.",
+            "In the case of bilateral CP, the outcome was assessed to be effective if the PRS score for each leg increased by 2 or more."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The secondary outcomes measured were the responder rate of the PRS score at 6 weeks and 24 weeks after BoNT-A injection, the MTS of ankle dorsiflexion, and the GMFM-88 and GMFM-66.",
+        "section": "Outcome Measures",
+        "section_number": 29,
+        "sentences": [
+            "The secondary outcomes measured were the responder rate of the PRS score at 6 weeks and 24 weeks after BoNT-A injection, the MTS of ankle dorsiflexion, and the GMFM-88 and GMFM-66."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The MTS is a valid, reliable, and sensitive tool for the assessment of spasticity [18] . Two angles (R1 and R2) were determined in the MTS. The R1 was the angle at which a velocity-dependent catch or clonus was felt during a fast stretch of the muscle. The R2 was the joint angle when the muscle length was at its maximum, using slow passive movement. The neutral position at the ankle joint (angle zero) was the position with the ankle at 90 \u2022 to the lower leg. Degrees of dorsiflexion from the neutral position were indicated by a positive (+) measurement, whereas degrees of plantarflexion from the neutral position were indicated by a negative (\u2212) measurement. The MTS was applied in both the knee flexion and extension positions.",
+        "section": "Outcome Measures",
+        "section_number": 30,
+        "sentences": [
+            "The MTS is a valid, reliable, and sensitive tool for the assessment of spasticity [18] .",
+            "Two angles (R1 and R2) were determined in the MTS.",
+            "The R1 was the angle at which a velocity-dependent catch or clonus was felt during a fast stretch of the muscle.",
+            "The R2 was the joint angle when the muscle length was at its maximum, using slow passive movement.",
+            "The neutral position at the ankle joint (angle zero) was the position with the ankle at 90 \u2022 to the lower leg.",
+            "Degrees of dorsiflexion from the neutral position were indicated by a positive (+) measurement, whereas degrees of plantarflexion from the neutral position were indicated by a negative (\u2212) measurement.",
+            "The MTS was applied in both the knee flexion and extension positions."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The GMFM, previously demonstrated to have high levels of validity, reliability, and responsiveness in evaluating motor function and assessing the results of management strategies for children with CP, was used to assess clinical changes in the participants [19] . The GMFM-88 is the original 88-item measure designed to evaluate change in gross motor function over time or with intervention for children with CP. The GMFM-88 is organized into five dimensions: (A) lying and rolling, (B) sitting, (C) crawling and kneeling, (D) standing, and (E) walking, running, and jumping. The levels of each item are explicitly defined and scored on a scale of 0 to 3. Item scores are summed to yield scores for each dimension. Subsequently, GMFM-88 scores were converted into GMFM-66 scores using the Gross Motor Ability Estimator. The GMFM-66 is comprised of subset of the 88 items identified (through Rasch analysis) as contributing to the measure of gross motor function in children with CP. The measurement and the scaling of GMFM-66 is somewhat shorter. We used both the GMFM-88 and GMFM-66. The GMFM measurements were conducted by physical therapists who were trained in and clinically experienced with using the GMFM.",
+        "section": "Outcome Measures",
+        "section_number": 31,
+        "sentences": [
+            "The GMFM, previously demonstrated to have high levels of validity, reliability, and responsiveness in evaluating motor function and assessing the results of management strategies for children with CP, was used to assess clinical changes in the participants [19] .",
+            "The GMFM-88 is the original 88-item measure designed to evaluate change in gross motor function over time or with intervention for children with CP.",
+            "The GMFM-88 is organized into five dimensions: (A) lying and rolling, (B) sitting, (C) crawling and kneeling, (D) standing, and (E) walking, running, and jumping.",
+            "The levels of each item are explicitly defined and scored on a scale of 0 to 3.",
+            "Item scores are summed to yield scores for each dimension.",
+            "Subsequently, GMFM-88 scores were converted into GMFM-66 scores using the Gross Motor Ability Estimator.",
+            "The GMFM-66 is comprised of subset of the 88 items identified (through Rasch analysis) as contributing to the measure of gross motor function in children with CP.",
+            "The measurement and the scaling of GMFM-66 is somewhat shorter.",
+            "We used both the GMFM-88 and GMFM-66.",
+            "The GMFM measurements were conducted by physical therapists who were trained in and clinically experienced with using the GMFM."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "The purpose of the study was to show that letibotulinum toxin A was not inferior to onabotulinum toxin A using the responder rate. Using the weighted average, the responder rates for onabotulinum toxin A and a placebo were estimated to be 62.5% and 26.5%, respectively [17, 20] . We calculated that a minimum sample size of 128 patients would be required to provide 80% power at a 5% significance level, assuming a responder rate of 62.5%. Thus, we determined that the estimated sample size was 144 patients (72 per each group), considering a withdrawal rate of 10%.",
+        "section": "Statistical Analysis",
+        "section_number": 32,
+        "sentences": [
+            "The purpose of the study was to show that letibotulinum toxin A was not inferior to onabotulinum toxin A using the responder rate.",
+            "Using the weighted average, the responder rates for onabotulinum toxin A and a placebo were estimated to be 62.5% and 26.5%, respectively [17, 20] .",
+            "We calculated that a minimum sample size of 128 patients would be required to provide 80% power at a 5% significance level, assuming a responder rate of 62.5%.",
+            "Thus, we determined that the estimated sample size was 144 patients (72 per each group), considering a withdrawal rate of 10%."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "41503",
+        "text": "All statistical analyses were conducted using the SAS software. Two-sided tests, in principle, were conducted at a statistical significance level of \u22645% to test the significance levels of the differences between the two groups, between the efficacy analysis before and after treatment for each group, and between the safety assessments at different time points. Based on the guidance for industry non-inferiority clinical trials, the margin for the difference in responder rates was set at 24% to ensure that letibotulinum toxin A was as effective as onabotulinum toxin A [13] . Statistical analysis evaluated whether the one-sided 95% CI of the difference in responder rates between letibotulinum toxin A and onabotulinum toxin A was within the \u221224% non-inferiority margin. Pearson's \u03c7 2 test or Fisher's exact test was used to assess the differences in the responder rate of the PRS at each visit and in the occurrence of adverse events between the groups. For PRS score, the MTS, GMFM-88, GMFM-66, and the mean changes after injection were compared between the two groups using two-sample t-tests or Wilcoxon's signed-rank test, and post-injection data at each visit were compared with baseline data using a paired t-test or Wilcoxon's signed-rank test.",
+        "section": "Statistical Analysis",
+        "section_number": 33,
+        "sentences": [
+            "All statistical analyses were conducted using the SAS software.",
+            "Two-sided tests, in principle, were conducted at a statistical significance level of \u22645% to test the significance levels of the differences between the two groups, between the efficacy analysis before and after treatment for each group, and between the safety assessments at different time points.",
+            "Based on the guidance for industry non-inferiority clinical trials, the margin for the difference in responder rates was set at 24% to ensure that letibotulinum toxin A was as effective as onabotulinum toxin A [13] .",
+            "Statistical analysis evaluated whether the one-sided 95% CI of the difference in responder rates between letibotulinum toxin A and onabotulinum toxin A was within the \u221224% non-inferiority margin.",
+            "Pearson's \u03c7 2 test or Fisher's exact test was used to assess the differences in the responder rate of the PRS at each visit and in the occurrence of adverse events between the groups.",
+            "For PRS score, the MTS, GMFM-88, GMFM-66, and the mean changes after injection were compared between the two groups using two-sample t-tests or Wilcoxon's signed-rank test, and post-injection data at each visit were compared with baseline data using a paired t-test or Wilcoxon's signed-rank test."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    }
+]

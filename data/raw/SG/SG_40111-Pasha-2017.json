@@ -1,0 +1,411 @@
+[
+    {
+        "doc_id": "40111",
+        "text": "Background: Several modalities have been proposed to reduce procedural pain in neonates. This study was conducted to determine whether heat of a non-human source might help with pain management in infants. Methods: In this clinical trial, 40 full-term healthy neonates in their first hours of life were randomly divided into two groups of intervention and control. The control group was put under a radiant warmer using the servo-controlled method for four minutes and the temperature was set to 35.5\u00b0C. The intervention group was put under the servocontrolled mode with the temperature of 35.5\u00b0C for two minutes, then two minutes in manual mode with 100% power. Vitamin K injection was performed. The severity of pain in infants was measured by an independent observer by means of Neonatal Infant Pain Scale (NIPS) before the injection, 20 seconds during the injection, as well as 60 and 120 seconds after the injection. The difference in pain score was compared between the two groups using Chi-squared test, repeated measures analysis of variance, and independent t-test. Results: The two groups were similar in terms of gestational age, birth weight, Apgar score, and maternal age. The mean of NIPS scores was 2.9 in intervention group and 4 in the control group during injection, which was significantly different (P=0.001). No significant difference was recorded in skin temperature and pain scores before and after injection. Conclusion: Heat application during intramuscular injection can relieve procedural pain in neonates.",
+        "section": "Abstract",
+        "sentences": [
+            "Background: Several modalities have been proposed to reduce procedural pain in neonates.",
+            "This study was conducted to determine whether heat of a non-human source might help with pain management in infants.",
+            "Methods: In this clinical trial, 40 full-term healthy neonates in their first hours of life were randomly divided into two groups of intervention and control.",
+            "The control group was put under a radiant warmer using the servo-controlled method for four minutes and the temperature was set to 35.5\u00b0C.",
+            "The intervention group was put under the servocontrolled mode with the temperature of 35.5\u00b0C for two minutes, then two minutes in manual mode with 100% power.",
+            "Vitamin K injection was performed.",
+            "The severity of pain in infants was measured by an independent observer by means of Neonatal Infant Pain Scale (NIPS) before the injection, 20 seconds during the injection, as well as 60 and 120 seconds after the injection.",
+            "The difference in pain score was compared between the two groups using Chi-squared test, repeated measures analysis of variance, and independent t-test.",
+            "Results: The two groups were similar in terms of gestational age, birth weight, Apgar score, and maternal age.",
+            "The mean of NIPS scores was 2.9 in intervention group and 4 in the control group during injection, which was significantly different (P=0.001).",
+            "No significant difference was recorded in skin temperature and pain scores before and after injection.",
+            "Conclusion: Heat application during intramuscular injection can relieve procedural pain in neonates."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "40111",
+        "text": "A challenging issue in the realm of neonatal care is procedural pain management. In the past, whether infants feel pain and how pain can be decreased in them were inconspicuous (1) . According to the International Association of Pain, pain is a physical sensation and an unpleasant experience resulting from actual or potential tissue damage (2) . Although pain cannot be precisely monitored, it is considered as an important component of neonatal care (3) .",
+        "section": "Introduction",
+        "section_number": 1,
+        "sentences": [
+            "A challenging issue in the realm of neonatal care is procedural pain management.",
+            "In the past, whether infants feel pain and how pain can be decreased in them were inconspicuous (1) .",
+            "According to the International Association of Pain, pain is a physical sensation and an unpleasant experience resulting from actual or potential tissue damage (2) .",
+            "Although pain cannot be precisely monitored, it is considered as an important component of neonatal care (3) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "The American Pain Society defined pain as the fifth vital sign to emphasize its importance and raise awareness of health providers regarding pain management (4) . Infants cannot express their pain through verbal com-munication, and they are dependent on their caregivers for evaluation, diagnosis, and treatment of pain (5) . Infants can show a set of behavioral and physiological responses (e.g., facial expression, crying, increased heart rate, and decreased arterial oxygen saturation) that can be observed and measured as response to painful stimuli (6) .",
+        "section": "Introduction",
+        "section_number": 2,
+        "sentences": [
+            "The American Pain Society defined pain as the fifth vital sign to emphasize its importance and raise awareness of health providers regarding pain management (4) .",
+            "Infants cannot express their pain through verbal com-munication, and they are dependent on their caregivers for evaluation, diagnosis, and treatment of pain (5) .",
+            "Infants can show a set of behavioral and physiological responses (e.g., facial expression, crying, increased heart rate, and decreased arterial oxygen saturation) that can be observed and measured as response to painful stimuli (6) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Term infants experience pain during the routine neonatal care, including blood sampling, injection of vitamin K, circumcision, or vaccination (7) . Premature or sick newborns requiring advanced medical procedures are routinely subjected to painful procedures (8-10). Being exposed to painful procedures is a source of concern for parents and can impair their bonding with the infant and exclusive breastfeeding (11) . Given the abovementioned reasons, pain control is of great importance; pain management methods include pharmacological and non-pharmacological interventions (12) (13) (14) .",
+        "section": "Introduction",
+        "section_number": 3,
+        "sentences": [
+            "Term infants experience pain during the routine neonatal care, including blood sampling, injection of vitamin K, circumcision, or vaccination (7) .",
+            "Premature or sick newborns requiring advanced medical procedures are routinely subjected to painful procedures (8-10).",
+            "Being exposed to painful procedures is a source of concern for parents and can impair their bonding with the infant and exclusive breastfeeding (11) .",
+            "Given the abovementioned reasons, pain control is of great importance; pain management methods include pharmacological and non-pharmacological interventions (12) (13) (14) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Today, non-pharmacological pain relief techniques have attracted the attention of nurses and physicians. This type of intervention is effective, simple, and safe and does not require to be performed at certain times using costly equipment.",
+        "section": "Introduction",
+        "section_number": 4,
+        "sentences": [
+            "Today, non-pharmacological pain relief techniques have attracted the attention of nurses and physicians.",
+            "This type of intervention is effective, simple, and safe and does not require to be performed at certain times using costly equipment."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "In contrast to pharmacological interventions, non-pharmacological methods of pain relief do not have any side effects (15, 16) . In terms of efficacy, non-pharmacological methods can be divided into a) sensory stimulation (changing situation, swaddle, non-nutritive sucking, and music), b) nutritional intervention, and c) parent involvement in the form of breastfeeding, skin to skin contact, and Kangaroo mother care (17) . Skin contact through Kangaroo mother care can reduce energy consumption by restoring the natural heat and can directly or indirectly play a role in soothing pain in infants (18) (19) . Despite its simplicity and efficiency, this approach is not always available, or if available, is not applicable at all painful procedures.",
+        "section": "Introduction",
+        "section_number": 5,
+        "sentences": [
+            "In contrast to pharmacological interventions, non-pharmacological methods of pain relief do not have any side effects (15, 16) .",
+            "In terms of efficacy, non-pharmacological methods can be divided into a) sensory stimulation (changing situation, swaddle, non-nutritive sucking, and music), b) nutritional intervention, and c) parent involvement in the form of breastfeeding, skin to skin contact, and Kangaroo mother care (17) .",
+            "Skin contact through Kangaroo mother care can reduce energy consumption by restoring the natural heat and can directly or indirectly play a role in soothing pain in infants (18) (19) .",
+            "Despite its simplicity and efficiency, this approach is not always available, or if available, is not applicable at all painful procedures."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "With regards to the fact that pain management in infants is an undeniable responsibility of nursing professionals, and considering the limited studies on the application of heat in the management of pain in infants, we sought to measure the effect of heat therapy on infants through non-human sources on pain control during painful procedures.",
+        "section": "Introduction",
+        "section_number": 6,
+        "sentences": [
+            "With regards to the fact that pain management in infants is an undeniable responsibility of nursing professionals, and considering the limited studies on the application of heat in the management of pain in infants, we sought to measure the effect of heat therapy on infants through non-human sources on pain control during painful procedures."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "This randomized clinical trial study was carried out in full-term healthy newborns who were in their first hours of life. The enrolled neonates were transferred to the Nursery Department of Ayatollah Rohani Hospital in Babol, Iran. The inclusion criteria included gestational age of 37 +1 -42 weeks, weight appropriate for gestational age (AGA), and no history of maternal use of tranquilizers, sedatives, or anticonvulsants during pregnancy. The exclusion criteria for mothers consisted of drug abuse and diabetes, while in neonates birth asphyxia, congenital abnormalities, and Apgar scores of less than 7 at first and fifth minutes were the exclusion criteria.",
+        "section": "Methods",
+        "section_number": 7,
+        "sentences": [
+            "This randomized clinical trial study was carried out in full-term healthy newborns who were in their first hours of life.",
+            "The enrolled neonates were transferred to the Nursery Department of Ayatollah Rohani Hospital in Babol, Iran.",
+            "The inclusion criteria included gestational age of 37 +1 -42 weeks, weight appropriate for gestational age (AGA), and no history of maternal use of tranquilizers, sedatives, or anticonvulsants during pregnancy.",
+            "The exclusion criteria for mothers consisted of drug abuse and diabetes, while in neonates birth asphyxia, congenital abnormalities, and Apgar scores of less than 7 at first and fifth minutes were the exclusion criteria."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Informed consent was obtained from the mothers; then, the infants were divided into two groups of intervention and control. The target sample size for each group was 20 infants based on previous studies and mean difference formula with the aim of reaching a confidence level of 95%, accuracy of 0.5%, and power of 85%. The newborns were put in a quiet environment (nursery) before, during, and after the intervention. At first, temperature of the newborns was measured using axillary method and if their temperature was normal (range: 36.5-37.5\u00b0C) (20) , the newborns were exposed to a radiant heater (HKN-93B model, China). A temperature control probe was attached on the right side of the abdomen of the neonates with an adhesive tape with the length of 2 cm.",
+        "section": "Methods",
+        "section_number": 8,
+        "sentences": [
+            "Informed consent was obtained from the mothers; then, the infants were divided into two groups of intervention and control.",
+            "The target sample size for each group was 20 infants based on previous studies and mean difference formula with the aim of reaching a confidence level of 95%, accuracy of 0.5%, and power of 85%.",
+            "The newborns were put in a quiet environment (nursery) before, during, and after the intervention.",
+            "At first, temperature of the newborns was measured using axillary method and if their temperature was normal (range: 36.5-37.5\u00b0C) (20) , the newborns were exposed to a radiant heater (HKN-93B model, China).",
+            "A temperature control probe was attached on the right side of the abdomen of the neonates with an adhesive tape with the length of 2 cm."
+        ],
+        "sentence_labels": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": 1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Both groups were exposed for 2 minutes in servo control (35.5\u00b0C) mode. In the intervention group, all the newborns were under the radiant heater for 2 minutes with a power of 100% in manual mode, but in the control group, they still remained in the servo control mode. In the first 2 minutes, when the neonate was in a quiet behavioral state, intramuscular injection of 1 mg vitamin K equivalent to 0.5 cc was performed after cleaning the skin with 70% ethanol in the right thigh muscle using an insulin syringe (No. 30 G, length of 13 mm) by a nurse.",
+        "section": "Methods",
+        "section_number": 9,
+        "sentences": [
+            "Both groups were exposed for 2 minutes in servo control (35.5\u00b0C) mode.",
+            "In the intervention group, all the newborns were under the radiant heater for 2 minutes with a power of 100% in manual mode, but in the control group, they still remained in the servo control mode.",
+            "In the first 2 minutes, when the neonate was in a quiet behavioral state, intramuscular injection of 1 mg vitamin K equivalent to 0.5 cc was performed after cleaning the skin with 70% ethanol in the right thigh muscle using an insulin syringe (No. 30 G, length of 13 mm) by a nurse."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Injection time was 20 seconds, including the time it took to disinfect the skin with alcohol. Then, all the neonates were monitored for 2 minutes. During this time, the infants were under camera recording, (Sony HDR-pJ82), which was installed in front of the radiant heater. All the individuals involved in the study were blinded to the group assignments, except for the cameraman who sequenced the images in numbers and was guided by the researcher.",
+        "section": "Methods",
+        "section_number": 10,
+        "sentences": [
+            "Injection time was 20 seconds, including the time it took to disinfect the skin with alcohol.",
+            "Then, all the neonates were monitored for 2 minutes.",
+            "During this time, the infants were under camera recording, (Sony HDR-pJ82), which was installed in front of the radiant heater.",
+            "All the individuals involved in the study were blinded to the group assignments, except for the cameraman who sequenced the images in numbers and was guided by the researcher."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Videos were observed and scored by the researcher who was familiar with Neonatal Infant Pain Scale (NIPS). NIPS is a pain assessment tool used for infants; this scale consists of six items on face expression, crying, moving hands and feet, breathing pattern, and state of arousal. This scale is used for both term and preterm infants. The scores in this tool are rated from zero to seven (zero represents no pain and 7 is interpreted as the maximum amount of pain). This scale can also be applied to the age up to one month and its advantage is that it does not require any special medical device and medical staff can easily use it to measure pain during painful procedures (21) .",
+        "section": "Methods",
+        "section_number": 11,
+        "sentences": [
+            "Videos were observed and scored by the researcher who was familiar with Neonatal Infant Pain Scale (NIPS).",
+            "NIPS is a pain assessment tool used for infants; this scale consists of six items on face expression, crying, moving hands and feet, breathing pattern, and state of arousal.",
+            "This scale is used for both term and preterm infants.",
+            "The scores in this tool are rated from zero to seven (zero represents no pain and 7 is interpreted as the maximum amount of pain).",
+            "This scale can also be applied to the age up to one month and its advantage is that it does not require any special medical device and medical staff can easily use it to measure pain during painful procedures (21) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "NIPS was completed before, during (20) , as well as 60 and 120 seconds after the injection. Demographic data was gathered according to the medical records of the infants. The present study was registered at the center for clinical trials (No. IRCT2014051117645N1) and approved by the Ethics Committee of Babol University of Medical Sciences (No. 3326.) .",
+        "section": "Methods",
+        "section_number": 12,
+        "sentences": [
+            "NIPS was completed before, during (20) , as well as 60 and 120 seconds after the injection.",
+            "Demographic data was gathered according to the medical records of the infants.",
+            "The present study was registered at the center for clinical trials (No. IRCT2014051117645N1) and approved by the Ethics Committee of Babol University of Medical Sciences (No. 3326.) ."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Chi-squared test and t-test were used to investigate the homogeneity of the groups. Kolmogorov-Smirnov and Levine tests were run to check data normality and equal variance. The mean pain scores during and after intramuscular injection were compared using t-test and again compared after and during injection using repeated measures ANOVA. P-value less than 0.05 were considered statistically significant.",
+        "section": "Methods",
+        "section_number": 13,
+        "sentences": [
+            "Chi-squared test and t-test were used to investigate the homogeneity of the groups.",
+            "Kolmogorov-Smirnov and Levine tests were run to check data normality and equal variance.",
+            "The mean pain scores during and after intramuscular injection were compared using t-test and again compared after and during injection using repeated measures ANOVA.",
+            "P-value less than 0.05 were considered statistically significant."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "The characteristics of infants are presented in Table 1 . The two groups were similar in terms of demographic characteristics.",
+        "section": "Results",
+        "section_number": 14,
+        "sentences": [
+            "The characteristics of infants are presented in Table 1 .",
+            "The two groups were similar in terms of demographic characteristics."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "The results showed that the mean (SD) of pain scores during injection were 2.9 (0.96) and 4.0 (1.02) in the intervention and control groups. There was a significant difference in the mean pain score during injection between the two groups (P=0.001), but the scores were not significantly different at 60 and 120 seconds after the intervention ( Table 2) . The mean skin temperatures recorded at intervals before, during, and after the injection in both groups were not significantly different (Figure 1 ). ",
+        "section": "Results",
+        "section_number": 15,
+        "sentences": [
+            "The results showed that the mean (SD) of pain scores during injection were 2.9 (0.96) and 4.0 (1.02) in the intervention and control groups.",
+            "There was a significant difference in the mean pain score during injection between the two groups (P=0.001), but the scores were not significantly different at 60 and 120 seconds after the intervention ( Table 2) .",
+            "The mean skin temperatures recorded at intervals before, during, and after the injection in both groups were not significantly different (Figure 1 )."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "The results showed that application of controlled heat can be effective in controlling pain during painful procedures such as intramuscular injection of vitamin K. We found that the infants who were put under a radiant heater with the power of 100% for two minutes had significantly lower pain scores during the injection time compared to the infants under a radiant heater in servo controlled mode.",
+        "section": "Discussion",
+        "section_number": 16,
+        "sentences": [
+            "The results showed that application of controlled heat can be effective in controlling pain during painful procedures such as intramuscular injection of vitamin K. We found that the infants who were put under a radiant heater with the power of 100% for two minutes had significantly lower pain scores during the injection time compared to the infants under a radiant heater in servo controlled mode."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Gray et al. obtained similar results in 2011. Their study, which was performed on pacifiers, sucrose, and radiant heater groups, indicated that infants in the radiant heater group cried less than the other two groups after hepatitis B vaccination and their increasing heart rate after injection was less steep; they experienced a decrease in heart rate after the injection similar to the other groups (22) . In the present study, no significant difference was detected in the infants' skin temperature and the heart rate.",
+        "section": "Discussion",
+        "section_number": 17,
+        "sentences": [
+            "Gray et al. obtained similar results in 2011.",
+            "Their study, which was performed on pacifiers, sucrose, and radiant heater groups, indicated that infants in the radiant heater group cried less than the other two groups after hepatitis B vaccination and their increasing heart rate after injection was less steep; they experienced a decrease in heart rate after the injection similar to the other groups (22) .",
+            "In the present study, no significant difference was detected in the infants' skin temperature and the heart rate."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Additionally, Gray et al. did not report any complication for the limited and controlled exposure of infants to heat. It seems that heating is associated with non-opioid mechanisms of maternal contact or skin-to-skin contact. Heat may increase the secretion of internal analgesic compounds, which can alleviate pain in neonates (22) . There was no significant difference in pain score at 60 and 120 seconds after injection between the two groups. In fact, pain score was significantly different between the two groups after 20 seconds of injection. It may be explained by the fact that the maximum pain is experienced by neonates during the 20 seconds of injection. The maximum pain sensation was perceived during injection, and heat exerts its analgesic effect during the injection. After the injection, the sensation of pain subsides spontaneously. This may explain the existence of no differences in pain scores at 60 and 120 seconds after injection.",
+        "section": "Discussion",
+        "section_number": 18,
+        "sentences": [
+            "Additionally, Gray et al. did not report any complication for the limited and controlled exposure of infants to heat.",
+            "It seems that heating is associated with non-opioid mechanisms of maternal contact or skin-to-skin contact.",
+            "Heat may increase the secretion of internal analgesic compounds, which can alleviate pain in neonates (22) .",
+            "There was no significant difference in pain score at 60 and 120 seconds after injection between the two groups.",
+            "In fact, pain score was significantly different between the two groups after 20 seconds of injection.",
+            "It may be explained by the fact that the maximum pain is experienced by neonates during the 20 seconds of injection.",
+            "The maximum pain sensation was perceived during injection, and heat exerts its analgesic effect during the injection.",
+            "After the injection, the sensation of pain subsides spontaneously.",
+            "This may explain the existence of no differences in pain scores at 60 and 120 seconds after injection."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "Some other measures and agents were used to control pain in neonates. Oral glucose and sucrose are among the most commonly used therapeutic agents, but they may cause hyperglycemia in neonates (23, 24) . Non-pharmacological interventions were investigated in former studies, including nonnutritive sucking, with and without sucrose use, swaddling or facilitated tucking, Kangaroo care, music therapy, and multisensory stimulation. (25) . However, some of these therapies cannot be effectively applied to all neonates, while heat can be used as an alternative to the Kangaroo mother care.",
+        "section": "Discussion",
+        "section_number": 19,
+        "sentences": [
+            "Some other measures and agents were used to control pain in neonates.",
+            "Oral glucose and sucrose are among the most commonly used therapeutic agents, but they may cause hyperglycemia in neonates (23, 24) .",
+            "Non-pharmacological interventions were investigated in former studies, including nonnutritive sucking, with and without sucrose use, swaddling or facilitated tucking, Kangaroo care, music therapy, and multisensory stimulation. (",
+            "25) .",
+            "However, some of these therapies cannot be effectively applied to all neonates, while heat can be used as an alternative to the Kangaroo mother care."
+        ],
+        "sentence_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "In general, the findings of the present study showed that applying heat is an efficient intervention to control procedural pain in neonates. With regards to the application of heat as a simple, accessible, and natural method, it can be applied in all health centers; however, more studies are needed to investigate other painful procedures and non-pharmacological measures for term and preterm infants.",
+        "section": "Conclusion",
+        "section_number": 20,
+        "sentences": [
+            "In general, the findings of the present study showed that applying heat is an efficient intervention to control procedural pain in neonates.",
+            "With regards to the application of heat as a simple, accessible, and natural method, it can be applied in all health centers; however, more studies are needed to investigate other painful procedures and non-pharmacological measures for term and preterm infants."
+        ],
+        "sentence_labels": [
+            -1,
+            -1
+        ],
+        "classification_label": -1
+    },
+    {
+        "doc_id": "40111",
+        "text": "This study was funded by the Deputy of Research of Babol University of Medical Sciences, Babol, Iran.",
+        "section": "Financial Support",
+        "section_number": 21,
+        "sentences": [
+            "This study was funded by the Deputy of Research of Babol University of Medical Sciences, Babol, Iran."
+        ],
+        "sentence_labels": [
+            -1
+        ],
+        "classification_label": -1
+    }
+]
