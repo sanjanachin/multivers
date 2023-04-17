@@ -1,0 +1,19 @@
+{
+    "sentence_labels": [
+        -1,
+        -1,
+        -1,
+        1
+    ],
+    "text": "The timeline of the study is presented graphically in Fig. 1 . A comprehensive overview of the trial design can be found elsewhere (6) . Briefly, patients were randomized to either the KD or to CAU after a 1-month baseline period. A software package (ALEA) was used to support the randomization, which was based on the minimization method.",
+    "section": "Study design",
+    "classification_label": 0,
+    "section_number": 8,
+    "sentences": [
+        "The timeline of the study is presented graphically in Fig. 1 .",
+        "A comprehensive overview of the trial design can be found elsewhere (6) .",
+        "Briefly, patients were randomized to either the KD or to CAU after a 1-month baseline period.",
+        "A software package (ALEA) was used to support the randomization, which was based on the minimization method."
+    ],
+    "doc_id": "33458"
+}
