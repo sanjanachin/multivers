@@ -36,6 +36,13 @@ function predict_rob_d3_scifact() {
         --corpus_file=data/rob_data/incomplete_domain_3/corpus.jsonl \
         --output_file=prediction/incomplete_domain_3.jsonl
 }
+function predict_rob_d4_scifact() {
+    python multivers/predict.py \
+        --checkpoint_path=checkpoints/scifact.ckpt \
+        --input_file=data/rob_data/blinding_domain_4/claims_test_retrieved.jsonl \
+        --corpus_file=data/rob_data/blinding_domain_4/corpus.jsonl \
+        --output_file=prediction/blinding_domain_4.jsonl
+}
 function predict_scifact() {
     python multivers/predict.py \
         --checkpoint_path=checkpoints/scifact.ckpt \
@@ -84,6 +91,9 @@ then
 elif [[ $model == "rob_d3_scifact" ]]
 then
     predict_rob_d3_scifact
+elif [[ $model == "rob_d4_scifact" ]]
+then
+    predict_rob_d4_scifact
 elif [[ $model == "scifact" ]]
 then
     predict_scifact
